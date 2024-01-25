@@ -49,3 +49,21 @@
 
 + [Trsce branding design](https://dribbble.com/shots/)
 
++ [TG Sponsored Post](https://dribbble.com/shots/)
+
++ [Ope Camp Flag](https://dribbble.com/shots/)
+
++ [Tarot card #05: The Hierophant](https://dribbble.com/shots/)
+
++ [The Mokes](https://dribbble.com/shots/)
+
++ [Bend & Snap](https://dribbble.com/shots/)
+
++ [Past Lives](https://dribbble.com/shots/)
+
++ [Sugarloafin'](https://dribbble.com/shots/)
+
++ [The Sounds of Spring](https://dribbble.com/shots/)
+
++ [Fireflies](https://dribbble.com/shots/)
+
