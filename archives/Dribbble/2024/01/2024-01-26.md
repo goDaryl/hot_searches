@@ -67,3 +67,11 @@
 
 + [Fireflies](https://dribbble.com/shots/)
 
++ [PATCH DESIGN for NOAH KAHAN 2024 WORLD TOUR.](https://dribbble.com/shots/)
+
++ [Wonka Playing Cards (Faces)](https://dribbble.com/shots/)
+
++ [Travel Netherlands Icons](https://dribbble.com/shots/)
+
++ [Tarot card #04: The Emperor](https://dribbble.com/shots/)
+
