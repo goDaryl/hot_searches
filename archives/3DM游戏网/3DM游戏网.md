@@ -261,3 +261,7 @@
 
 + [Neowiz PC游戏《英雄征集》，3种新卡和遗物更新](https://www.3dmgame.com/news/202401/3886939.html)
 
++ [马斯克对日本人不买特斯拉感到恼火：他们认知不足](https://www.3dmgame.com/news/202401/3886950.html)
+
++ [《夜下降生》系列最新作《夜下降生 II Sys:Celes》现正热卖中！](https://www.3dmgame.com/news/202401/3886951.html)
+
