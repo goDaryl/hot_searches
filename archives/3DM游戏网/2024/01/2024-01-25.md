@@ -245,3 +245,19 @@
 
 + [《完蛋！我被美女包围了》DLC定档2月5日 三位美女等你](https://www.3dmgame.com/news/202401/3886922.html)
 
++ [科学家首次用数学证明AI致命弱点 无法开发稳定算法](https://www.3dmgame.com/news/202401/3886949.html)
+
++ [动保组织针对《幻兽帕鲁》发表声明：玩家要吃素帮助动物](https://www.3dmgame.com/news/202401/3886945.html)
+
++ [《幻兽帕鲁》群体中核心玩家居多 超三分之一玩家来自中国](https://www.3dmgame.com/news/202401/3886948.html)
+
++ [中国风仙侠游戏SRPG《天临混元》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3886947.html)
+
++ [《Toribash》免费登陆Steam 物理演算经典格斗](https://www.3dmgame.com/news/202401/3886944.html)
+
++ [PS5新固件更新导致“硬件外挂”无法使用](https://www.3dmgame.com/news/202401/3886943.html)
+
++ [腾讯射击游戏《重生边缘》国服Steam 新人活动上线](https://www.3dmgame.com/news/202401/3886942.html)
+
++ [Neowiz PC游戏《英雄征集》，3种新卡和遗物更新](https://www.3dmgame.com/news/202401/3886939.html)
+
