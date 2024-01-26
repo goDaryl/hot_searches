@@ -219,3 +219,9 @@
 
 + [动视大锤工作室30%被裁员 办公场所搬迁后缩小](https://www.3dmgame.com/news/202401/3887030.html)
 
++ [机智号火星直升机“摔断翅膀” NASA宣布任务结束](https://www.3dmgame.com/news/202401/3887034.html)
+
++ [美国一男子飞机上放屁闹事：飞机被迫返回登机口](https://www.3dmgame.com/news/202401/3887035.html)
+
++ [《星空》与欧洲航天局合作 将向玩家赠送太空服](https://www.3dmgame.com/news/202401/3887036.html)
+
