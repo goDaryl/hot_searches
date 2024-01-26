@@ -31,3 +31,7 @@
 
 + [苹果 iOS 17.4 Beta 1 发布：27 个欧洲国家 3 月将支持侧载、第三方应用市场、非 WebKit 引擎浏览器等](https://m.ithome.com/html/747311.htm)
 
++ [马斯克：很乐见向中国车企授权充电和 FSD 技术](https://m.ithome.com/html/747308.htm)
+
++ [256G 升杯 512G + 赠 6 折保值换新等：三星 S24 系列手机京东预售](https://m.ithome.com/html/747283.htm)
+

@@ -151,3 +151,29 @@
 
 + [GOG喜加一！策略游戏《莫德海姆：诅咒之城》免费领取](https://www.3dmgame.com/news/202401/3886997.html)
 
++ [鹰角买断制新作《来自星尘》AppStore页面上线 2月27日推出](https://www.3dmgame.com/news/202401/3887009.html)
+
++ [异步冒险游戏《幻影深渊》正式版上线 在神庙的一百万种死法](https://www.3dmgame.com/news/202401/3887010.html)
+
++ [《铁拳8》联机人数过多出现BUG 官方正在调查](https://www.3dmgame.com/news/202401/3887011.html)
+
++ [《侠探杰克》主演透露第三季剧情将来自原著第七本书](https://www.3dmgame.com/news/202401/3887012.html)
+
++ [微软游戏工作室负责人：裁员决定绝非轻易做出](https://www.3dmgame.com/news/202401/3887006.html)
+
++ [用户发现每月被扣10英镑 英国电信私自为用户开通XGP并收费](https://www.3dmgame.com/news/202401/3887007.html)
+
++ [《地平线：西之绝境》PC版截图 风景唯美人物逼真](https://www.3dmgame.com/news/202401/3887008.html)
+
++ [《蜘蛛夫人：超感觉醒》中国内地定档3月1日](https://www.3dmgame.com/news/202401/3887001.html)
+
++ [《欢迎来到帕拉迪泽》故事预告公开 2月29日发售](https://www.3dmgame.com/news/202401/3886999.html)
+
++ [2024年1月还没过去 游戏行业失业人数已超5千](https://www.3dmgame.com/news/202401/3887002.html)
+
++ [类银河恶魔城游戏《琳：最终之子》 现已在Steam平台正式推出](https://www.3dmgame.com/news/202401/3887003.html)
+
++ [《如龙8》Steam特别好评！情怀满满 画面很棒](https://www.3dmgame.com/news/202401/3887004.html)
+
++ [《间谍过家家 日记大作战》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202401/3887005.html)
+
