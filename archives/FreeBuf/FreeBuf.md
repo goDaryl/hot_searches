@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 2025年网络犯罪损失将达12万亿美元；巴以冲突正导致“数字黑暗”](https://www.freebuf.com/news/390713.html)
 
++ [AI大语言模型与安全运营](https://www.freebuf.com/articles/security-management/390403.html)
+
