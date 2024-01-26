@@ -101,3 +101,17 @@
 
 + [【轮式平衡机器人】——TMS320F28069片内外设之GPIO](https://blog.csdn.net/weixin_51658186/article/details/135728331)
 
++ [马尔可夫预测（Python）](https://blog.csdn.net/qq_43010742/article/details/135836412)
+
++ [Ansible自动化运维（三）Playbook 模式详解](https://blog.csdn.net/liu_chen_yang/article/details/133899966)
+
++ [OpenCV笔记之图像处理中遮罩和掩模的关系](https://blog.csdn.net/weixin_43297891/article/details/135855739)
+
++ [OpenHarmony开发——GN快速上手](https://blog.csdn.net/weixin_61845324/article/details/135854031)
+
++ [【GPU】深入理解GPU硬件架构及运行机制](https://blog.csdn.net/weixin_45264425/article/details/135830423)
+
++ [【仿网易云H5部署】Nodejs后台 + uniapp前台 部署](https://blog.csdn.net/weixin_63210321/article/details/135823212)
+
++ [幻兽帕鲁4核16G配置推荐价格表阿里云和腾讯云](https://blog.csdn.net/fuwuqiba/article/details/135822487)
+
