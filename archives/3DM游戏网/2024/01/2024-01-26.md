@@ -241,3 +241,9 @@
 
 + [分析师预测Switch 2将搭载8英寸LCD屏幕 任天堂有史以来屏幕最大的掌机](https://www.3dmgame.com/news/202401/3887043.html)
 
++ [英特尔发2023年Q4及全年财报 季度收入实现增长](https://www.3dmgame.com/news/202401/3887047.html)
+
++ [新版《威龙杀阵》发预告 《史密斯夫妇》导演执导](https://www.3dmgame.com/news/202401/3887046.html)
+
++ [暴雪生存新作被砍 背后原因是引擎技术问题](https://www.3dmgame.com/news/202401/3887044.html)
+

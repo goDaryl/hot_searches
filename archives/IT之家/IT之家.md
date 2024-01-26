@@ -61,3 +61,5 @@
 
 + [在大陆扭完秧歌后，英伟达 CEO 黄仁勋会见台积电两大人物](https://m.ithome.com/html/747306.htm)
 
++ [保时捷汽车官宣奥运冠军谷爱凌为全球代言人](https://m.ithome.com/html/747450.htm)
+
