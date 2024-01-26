@@ -71,3 +71,15 @@
 
 + [Characters for the new mushroom brand from Wiz Khalifa](https://dribbble.com/shots/)
 
++ [Tarot card #05: The Hierophant](https://dribbble.com/shots/)
+
++ [???? Little Train (part 1)](https://dribbble.com/shots/)
+
++ [Morning Commute](https://dribbble.com/shots/)
+
++ [Nightmare](https://dribbble.com/shots/)
+
++ [Midday](https://dribbble.com/shots/)
+
++ [Past Lives](https://dribbble.com/shots/)
+
