@@ -177,3 +177,9 @@
 
 + [《间谍过家家 日记大作战》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202401/3887005.html)
 
++ [未来游戏展2024春季发布会将于3月21日开启](https://www.3dmgame.com/news/202401/3887015.html)
+
++ [战略游戏《玩具帝国》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3887014.html)
+
++ [裁员同一天 微软成为第二个市值破3万亿美元公司](https://www.3dmgame.com/news/202401/3887013.html)
+
