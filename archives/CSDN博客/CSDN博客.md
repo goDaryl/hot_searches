@@ -121,3 +121,7 @@
 
 + [【操作系统】实验六 分析源代码](https://blog.csdn.net/m0_67759533/article/details/135851181)
 
++ [【数学建模】综合评价方法](https://blog.csdn.net/m0_61819793/article/details/135824948)
+
++ [【.NET Core】深入理解任务并行库 (TPL)](https://blog.csdn.net/songjianlong/article/details/135854466)
+

@@ -25,3 +25,7 @@
 
 + [国产修图软件光影魔术手“复活”，时隔 10 年推出 4.5.0/1 版本](https://m.ithome.com/html/747099.htm)
 
++ [【IT之家评测室】三星 Galaxy S24 Ultra 深度体验：安卓机皇？是更懂你的安卓机皇](https://m.ithome.com/html/747298.htm)
+
++ [小米 Redmi Note 13 Pro 新春特别版手机开售，1399 元起](https://m.ithome.com/html/747132.htm)
+
