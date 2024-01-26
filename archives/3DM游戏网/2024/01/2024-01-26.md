@@ -235,3 +235,5 @@
 
 + [心理恐怖恋爱ADV《Folie Fatale》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3887037.html)
 
++ [苹果将成为台积电2nm首批客户 预计会在iPhone 17系列首发](https://www.3dmgame.com/news/202401/3887042.html)
+
