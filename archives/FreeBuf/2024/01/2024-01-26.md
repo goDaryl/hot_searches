@@ -53,3 +53,5 @@
 
 + [数据安全，走到前台来，不要再躲在背后](https://www.freebuf.com/articles/neopoints/390234.html)
 
++ [如何使用IaC Scan Runner扫描IaC中的常见安全漏洞](https://www.freebuf.com/sectool/389427.html)
+
