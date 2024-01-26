@@ -145,3 +145,9 @@
 
 + [微软裁员暴雪总裁挥泪告别 暴雪奥德赛项目被砍](https://www.3dmgame.com/news/202401/3886985.html)
 
++ [角色扮演游戏《不可预知：巫石》 现已在Steam推出抢先体验模式](https://www.3dmgame.com/news/202401/3887000.html)
+
++ [微软彻底放弃实体游戏？整个Xbox实体部门全员被裁](https://www.3dmgame.com/news/202401/3886998.html)
+
++ [GOG喜加一！策略游戏《莫德海姆：诅咒之城》免费领取](https://www.3dmgame.com/news/202401/3886997.html)
+
