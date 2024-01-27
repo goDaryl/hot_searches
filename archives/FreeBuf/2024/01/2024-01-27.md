@@ -45,3 +45,7 @@
 
 + [FreeBuf 周报 | 2024年密码泄露王炸；苹果等科技巨头漏洞被大量应用](https://www.freebuf.com/news/390797.html)
 
++ [攻防演练 | 详细分析某红队钓鱼样本](https://www.freebuf.com/articles/system/381668.html)
+
++ [前端JS加密与Buspsuite的坦诚相待](https://www.freebuf.com/articles/network/390264.html)
+

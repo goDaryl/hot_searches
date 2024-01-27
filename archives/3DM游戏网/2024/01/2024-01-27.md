@@ -123,3 +123,19 @@
 
 + [《浩劫前夕》开发商公告引大量不满 现已删除推文](https://www.3dmgame.com/news/202401/3887060.html)
 
++ [恋爱ADV游戏《夏花的轨迹》Steam页面上线 2月14日发售](https://www.3dmgame.com/news/202401/3887068.html)
+
++ [刚刚推出 Nexon新游《Warhaven》宣布4月关服](https://www.3dmgame.com/news/202401/3887066.html)
+
++ [2024年1月游戏业裁员数量已经超过去年数量的一半](https://www.3dmgame.com/news/202401/3887067.html)
+
++ [《驱灵者：新伊甸的幽灵》“红的肖像”预告 2月13日发售](https://www.3dmgame.com/news/202401/3887065.html)
+
++ [SE打击盗版周边 国内制造分销商受刑事指控](https://www.3dmgame.com/news/202401/3887064.html)
+
++ [日本游戏市场一周软硬件销量榜 《漫威蜘蛛侠2》登顶](https://www.3dmgame.com/news/202401/3887063.html)
+
++ [詹姆斯·古恩《超人》电影将不会出现蝙蝠侠](https://www.3dmgame.com/news/202401/3887062.html)
+
++ [任天堂Switch 2主机更容易买到 首年产量将超1000万](https://www.3dmgame.com/news/202401/3887061.html)
+
