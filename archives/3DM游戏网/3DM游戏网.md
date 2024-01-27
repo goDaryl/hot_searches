@@ -139,3 +139,13 @@
 
 + [任天堂Switch 2主机更容易买到 首年产量将超1000万](https://www.3dmgame.com/news/202401/3887061.html)
 
++ [美国科技业今年已大举裁员2万人 却为AI领域疯狂](https://www.3dmgame.com/news/202401/3887072.html)
+
++ [跨纬度风险来袭 《非生物因素》上市宣传片发布](https://www.3dmgame.com/news/202401/3887073.html)
+
++ [亚马逊中国电脑端服务将正式关闭：仅提供App和小程序](https://www.3dmgame.com/news/202401/3887069.html)
+
++ [同人游戏《血源卡丁车》被索尼警告 改为原创项目](https://www.3dmgame.com/news/202401/3887070.html)
+
++ [《最后的生还者2》纪录片将于2月初正式推出](https://www.3dmgame.com/news/202401/3887071.html)
+
