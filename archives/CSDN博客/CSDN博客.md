@@ -101,3 +101,41 @@
 
 + [带【科技感】的Echarts 图表](https://blog.csdn.net/weixin_45820444/article/details/135827155)
 
++ [优雅的python（二）](https://blog.csdn.net/2301_79712692/article/details/135885195)
+
++ [大模型机器人的爆发时刻：从RoboFlamingo、OK-Robot到Google机器人、CMU机器人](https://blog.csdn.net/v_JULY_v/article/details/135888751)
+
++ [机器学习 | 利用Pandas进入高级数据分析领域](https://blog.csdn.net/qq_53123067/article/details/135879281)
+
++ [【Python】02快速上手爬虫案例二：搞定验证码](https://blog.csdn.net/joinclear/article/details/135875868)
+
++ [✨JavaScript 第十三章（原始值与对象的深度剖析）](https://blog.csdn.net/weixin_39245942/article/details/135841919)
+
++ [【音视频原理】音频编解码原理 ③ ( 音频 比特率 / 码率 | 音频 帧 / 帧长 | 音频 帧 采样排列方式 - 交错模式 和 非交错模式 )](https://blog.csdn.net/han1202012/article/details/135852745)
+
++ [Gateway服务网关](https://blog.csdn.net/KYGALYX/article/details/135840206)
+
++ [了解维特比算法：通信系统和自然语言处理中解码的基石](https://blog.csdn.net/gongdiwudu/article/details/135854775)
+
++ [微信小程序之页面导航、生命周期和WXS脚本](https://blog.csdn.net/m0_64074924/article/details/135755336)
+
++ [【深度学习】【注意力机制】【自然语言处理】【图像识别】深度学习中的注意力机制详解、self-attention](https://blog.csdn.net/kiong_/article/details/135856961)
+
++ [9.异步爬虫](https://blog.csdn.net/potato123232/article/details/135849141)
+
++ [2024年幻兽帕鲁服务器搭建教程分享](https://blog.csdn.net/tengxunyunyouhui/article/details/135841157)
+
++ [CIFAR-10数据集详析：使用卷积神经网络训练图像分类模型](https://blog.csdn.net/weixin_51390582/article/details/135889567)
+
++ [docker mysql8.0.26 迁移 mysql8.3.0](https://blog.csdn.net/appearappear/article/details/135849524)
+
++ [3 款最好的电脑硬盘数据迁移软件](https://blog.csdn.net/Geeker55/article/details/135444952)
+
++ [【玩转幻兽帕鲁Palworld部署】2024年腾讯云、阿里云、华为云搭建幻兽帕鲁游戏联机服务器教程](https://blog.csdn.net/haoozhuji/article/details/135881809)
+
++ [Mac电脑玩《幻兽帕鲁》卡怎么办？《幻兽帕鲁》为什么打不开D3DMetal？幻兽帕鲁一周卖5亿](https://blog.csdn.net/2301_81704405/article/details/135873505)
+
++ [【鸿蒙】大模型对话应用（二）：对话界面设计与实现](https://blog.csdn.net/weixin_44348327/article/details/135886864)
+
++ [使用Opencv-python库读取图像、本地视频和摄像头实时数据](https://blog.csdn.net/ccf19881030/article/details/135876661)
+
