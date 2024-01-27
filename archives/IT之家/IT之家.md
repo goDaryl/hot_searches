@@ -39,3 +39,5 @@
 
 + [小米上架 60W USB-C 2.0 快充线：白色外观、1 米线长，售 19 元](https://m.ithome.com/html/747421.htm)
 
++ [5G 与 4G 信号同覆盖，中国移动与华为研发 700MHz / 900MHz 双频双模基站](https://m.ithome.com/html/747492.htm)
+

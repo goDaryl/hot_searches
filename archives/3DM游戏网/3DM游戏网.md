@@ -155,3 +155,11 @@
 
 + [《漫威蜘蛛侠2》日本周销第一多为PS5捆绑：兑换码被低价甩卖](https://www.3dmgame.com/news/202401/3887076.html)
 
++ [啊啊啊啊啊复刻版发售 《坠楼惊魂》再登Steam平台](https://www.3dmgame.com/news/202401/3887080.html)
+
++ [官方确认《霍格沃茨之遗》PS独占内容今夏登陆其他平台](https://www.3dmgame.com/news/202401/3887079.html)
+
++ [行业首家 京东物流规模化投用氢能源重卡](https://www.3dmgame.com/news/202401/3887078.html)
+
++ [3D冒险游戏《水隐之城》新预告 发售日期待定](https://www.3dmgame.com/news/202401/3887077.html)
+
