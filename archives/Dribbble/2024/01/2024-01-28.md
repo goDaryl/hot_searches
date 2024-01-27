@@ -49,3 +49,23 @@
 
 + [Ancient Philosophers](https://dribbble.com/shots/)
 
++ [Art direction project](https://dribbble.com/shots/)
+
++ [Oregon State Park Landscapes](https://dribbble.com/shots/)
+
++ [Yoga](https://dribbble.com/shots/)
+
++ [Creative Help](https://dribbble.com/shots/)
+
++ [Mushrooms](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #2](https://dribbble.com/shots/)
+
++ [Mr. Burns Devouring His Smithers ????](https://dribbble.com/shots/)
+
++ [Tarot card #05: The Hierophant](https://dribbble.com/shots/)
+
++ [Seabiscuit](https://dribbble.com/shots/)
+
++ [BBC SCIENCE FOCUS QUIZ - Quetzalcoatlus](https://dribbble.com/shots/)
+
