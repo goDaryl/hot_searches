@@ -149,3 +149,7 @@
 
 + [《最后的生还者2》纪录片将于2月初正式推出](https://www.3dmgame.com/news/202401/3887071.html)
 
++ [《幻兽帕鲁》开发者：《方舟生存》式“开放PvP”是陷阱](https://www.3dmgame.com/news/202401/3887075.html)
+
++ [粉丝吐槽《地平线》运气差：《西之绝境》PC与《龙之信条2》同期](https://www.3dmgame.com/news/202401/3887074.html)
+
