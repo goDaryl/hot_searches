@@ -205,3 +205,5 @@
 
 + [《刺客信条：RED》很快就要和玩家正式见面了](https://www.3dmgame.com/news/202401/3887098.html)
 
++ [4070 Super vs PS5：今天的中端GPU又能强多少？](https://www.3dmgame.com/news/202401/3887102.html)
+
