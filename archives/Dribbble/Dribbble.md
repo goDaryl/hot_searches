@@ -69,3 +69,13 @@
 
 + [BBC SCIENCE FOCUS QUIZ - Quetzalcoatlus](https://dribbble.com/shots/)
 
++ [Trsce branding design](https://dribbble.com/shots/)
+
++ [Limited Edition Print Pt. II](https://dribbble.com/shots/)
+
++ [City Perimeter 1](https://dribbble.com/shots/)
+
++ [Coram Deo Church Bremerton (Stained Glass Windows)](https://dribbble.com/shots/)
+
++ [Flora](https://dribbble.com/shots/)
+
