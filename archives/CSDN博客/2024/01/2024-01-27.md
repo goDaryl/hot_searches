@@ -131,3 +131,5 @@
 
 + [自动化防DDoS脚本](https://blog.csdn.net/weixin_57025326/article/details/135833182)
 
++ [【域名解析】如何将域名指向对应服务器IP](https://blog.csdn.net/m0_57532432/article/details/135855421)
+
