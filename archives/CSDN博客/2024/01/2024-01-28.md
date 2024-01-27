@@ -139,3 +139,9 @@
 
 + [使用Opencv-python库读取图像、本地视频和摄像头实时数据](https://blog.csdn.net/ccf19881030/article/details/135876661)
 
++ [分布式因果推断在美团履约平台的探索与实践](https://blog.csdn.net/MeituanTech/article/details/135856993)
+
++ [拓展全球市场：静态代理IP成为跨境电商战略的关键工具](https://blog.csdn.net/m0_64336780/article/details/135860809)
+
++ [SpringBoot activemq收发消息、配置及原理](https://blog.csdn.net/weixin_44612246/article/details/135682422)
+
