@@ -63,3 +63,5 @@
 
 + [Wi-Fi 7 全面落地，短距离通信市场有望爆发](https://m.ithome.com/html/747561.htm)
 
++ [雷军分享小米 SU7 车型黑河冬测视频，展示漂移过弯](https://m.ithome.com/html/747593.htm)
+
