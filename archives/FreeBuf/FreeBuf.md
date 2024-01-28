@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/390804.html)
 
++ [窃密病毒伪装Windows激活程序 盗取用户资金](https://www.freebuf.com/articles/paper/390749.html)
+
