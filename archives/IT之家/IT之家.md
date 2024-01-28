@@ -41,3 +41,7 @@
 
 + [年轻人的第一个多模态大模型：1080Ti 轻松运行，已开源在线可玩](https://m.ithome.com/html/747607.htm)
 
++ [比亚迪元 UP 预扣提车价曝光：401km 续航 12 万元起](https://m.ithome.com/html/747630.htm)
+
++ [领克首款纯电轿车谍照曝光，消息称今年 2 月量产、下半年上市](https://m.ithome.com/html/747617.htm)
+
