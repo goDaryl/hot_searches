@@ -101,3 +101,9 @@
 
 + [Vue3.0中的组件通信](https://blog.csdn.net/spy17642913947/article/details/135896062)
 
++ [【SpringCloud Nacos】 微服务治理介绍及Nacos引入初体验](https://blog.csdn.net/Qingai521/article/details/135866526)
+
++ [【玩转幻兽帕鲁Palworld部署】2024年腾讯云、阿里云、华为云搭建幻兽帕鲁游戏联机服务器教程](https://blog.csdn.net/haoozhuji/article/details/135881809)
+
++ [Linux进程间通信（IPC）机制之一：管道（Pipes）详解](https://blog.csdn.net/weixin_64038246/article/details/135886250)
+
