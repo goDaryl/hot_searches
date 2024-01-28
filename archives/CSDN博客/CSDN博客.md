@@ -129,3 +129,13 @@
 
 + [拓展全球市场：静态代理IP成为跨境电商战略的关键工具](https://blog.csdn.net/m0_64336780/article/details/135860809)
 
++ [【开源】智能视觉组麦轮+OpenMV循赛道](https://blog.csdn.net/yipenmian/article/details/135853946)
+
++ [基于微信安徽合肥失物招领小程序系统设计与实现 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135813351)
+
++ [基于yolov5的数据集自动标注功能脚本工具【附代码】](https://blog.csdn.net/z240626191s/article/details/135893989)
+
++ [导航页配置服务Dashy本地部署并实现公网远程访问](https://blog.csdn.net/m0_69984273/article/details/135893544)
+
++ [网络安全02--负载均衡下的webshell连接](https://blog.csdn.net/m0_68976043/article/details/135874669)
+
