@@ -117,3 +117,17 @@
 
 + [《千变的迷宫 风来的希炼6》更新 修复通信存储问题](https://www.3dmgame.com/news/202401/3887105.html)
 
++ [《DEEP STATE》Steam页面上线 复古元素风格FPS](https://www.3dmgame.com/news/202401/3887117.html)
+
++ [Windows 11新功能来了：文件压缩更加全面灵活](https://www.3dmgame.com/news/202401/3887116.html)
+
++ [《学园偶像祭2》国际服宣布开服，同时宣布停服](https://www.3dmgame.com/news/202401/3887115.html)
+
++ [寻找外星生命重大突破 NASA新发现85颗宜居行星](https://www.3dmgame.com/news/202401/3887114.html)
+
++ [《英雄不再3》背景释疑 特拉维斯开局为何一脸落魄](https://www.3dmgame.com/news/202401/3887113.html)
+
++ [《纽约时报》刊登整版《如龙8》广告 锐评或为“日版”GTA](https://www.3dmgame.com/news/202401/3887112.html)
+
++ [水墨画风格爽快战斗 《墨境》13分钟实机演示画面公布](https://www.3dmgame.com/news/202401/3887111.html)
+
