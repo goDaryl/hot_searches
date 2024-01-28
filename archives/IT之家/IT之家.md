@@ -29,3 +29,7 @@
 
 + [第三方抢票软件不比官方快：铁路 12306 已进行升级，拦截恶意“抢票”软件](https://m.ithome.com/html/747636.htm)
 
++ [网易推出 MuMu 模拟器 Pro：专为苹果 macOS 打造，率先适配 M 系列芯片](https://m.ithome.com/html/747631.htm)
+
++ [中国超算如何躲开日本的坑？](https://m.ithome.com/html/747615.htm)
+
