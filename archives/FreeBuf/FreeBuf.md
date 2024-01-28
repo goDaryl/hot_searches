@@ -51,3 +51,7 @@
 
 + [记一次挖矿木马样本分析](https://www.freebuf.com/articles/network/390649.html)
 
++ [Gophish钓鱼测试平台——钓鱼邮件二维码替换功能开发](https://www.freebuf.com/sectool/389610.html)
+
++ [ElevationStation：一款专为红队设计的权限提升测试工具](https://www.freebuf.com/sectool/389287.html)
+
