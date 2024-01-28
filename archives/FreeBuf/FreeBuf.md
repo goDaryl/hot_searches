@@ -43,3 +43,5 @@
 
 + [工控网络安全实验|PLC设备拒绝服务（DoS）数据与分析](https://www.freebuf.com/news/390228.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/390804.html)
+
