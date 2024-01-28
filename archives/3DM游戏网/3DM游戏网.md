@@ -141,3 +141,13 @@
 
 + [PS5主机固件更新后，作弊神器Cronus Zen被禁用](https://www.3dmgame.com/news/202401/3887120.html)
 
++ [开发者解释《自杀小队：战胜正义联盟》小丑新外观原因](https://www.3dmgame.com/news/202401/3887126.html)
+
++ [《古惑狼》和《使命召唤》工作室分别遭遇大规模裁员](https://www.3dmgame.com/news/202401/3887127.html)
+
++ [《战争机器》创作人曾提出“幻兽帕鲁”创意却被否掉](https://www.3dmgame.com/news/202401/3887123.html)
+
++ [经典《这是我的战争》二折优惠 限时免费游玩](https://www.3dmgame.com/news/202401/3887124.html)
+
++ [研究表明：手写比键盘打字更有益于大脑 更容易记忆](https://www.3dmgame.com/news/202401/3887125.html)
+
