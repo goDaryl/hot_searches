@@ -49,3 +49,29 @@
 
 + [???? Little Train (part 1)](https://dribbble.com/shots/)
 
++ [PATCH DESIGN for NOAH KAHAN 2024 WORLD TOUR.](https://dribbble.com/shots/)
+
++ [Tarot card #05: The Hierophant](https://dribbble.com/shots/)
+
++ [Back to the Future](https://dribbble.com/shots/)
+
++ [Lettering night (part ♾️)](https://dribbble.com/shots/)
+
++ [ilcons Doodle Avatars](https://dribbble.com/shots/)
+
++ [Box Top Concept - which do you prefer?](https://dribbble.com/shots/)
+
++ [Glyph beer 26](https://dribbble.com/shots/)
+
++ [City Perimeter 1](https://dribbble.com/shots/)
+
++ [Ammons Poems Web Design](https://dribbble.com/shots/)
+
++ [Yoga](https://dribbble.com/shots/)
+
++ [Mr. Burns Devouring His Smithers ????](https://dribbble.com/shots/)
+
++ [Geometric Boy Logo](https://dribbble.com/shots/)
+
++ [Midday](https://dribbble.com/shots/)
+

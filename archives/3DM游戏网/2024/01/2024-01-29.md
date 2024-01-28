@@ -101,3 +101,7 @@
 
 + [《自杀小队：战胜正义联盟》不会让玩家在游戏里打工](https://www.3dmgame.com/news/202401/3887088.html)
 
++ [《如龙8》预售量为系列最高 尤其在日本地区](https://www.3dmgame.com/news/202401/3887141.html)
+
++ [《雾锁王国》Steam峰值人数破15万 特别好评](https://www.3dmgame.com/news/202401/3887142.html)
+
