@@ -159,3 +159,7 @@
 
 + [2024央视春晚举行第三次联排 附春晚最新节目单](https://www.3dmgame.com/news/202401/3887130.html)
 
++ [《寂静岭2：重制版》新消息马上要来了](https://www.3dmgame.com/news/202401/3887133.html)
+
++ [《合成大西瓜》开发者访谈 下一部游戏透露](https://www.3dmgame.com/news/202401/3887132.html)
+
