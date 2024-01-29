@@ -77,3 +77,5 @@
 
 + [【东方】超燃电吉他演绎 竹取飞翔【YaboiMatoi】](http://www.acfun.cn/v/ac43634523)
 
++ [拉泰鲇鱼被遣送至波西米亚考公班，一气之下全图了](http://www.acfun.cn/v/ac43638153)
+

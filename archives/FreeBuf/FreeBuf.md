@@ -47,3 +47,5 @@
 
 + [车辆协同感知中的数据伪造攻击](https://www.freebuf.com/vuls/390184.html)
 
++ [思科产品曝出高危漏洞，允许黑客远程控制统一通信系统](https://www.freebuf.com/news/390855.html)
+
