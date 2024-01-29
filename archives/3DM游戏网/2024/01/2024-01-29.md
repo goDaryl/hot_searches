@@ -197,3 +197,5 @@
 
 + [国产武侠ARPG《紫塞秋风》新修版Demo已于Steam商店搜索列表显示](https://www.3dmgame.com/news/202401/3887187.html)
 
++ [北瀬佳範：《最终幻想6》重制可能需要20年](https://www.3dmgame.com/news/202401/3887189.html)
+
