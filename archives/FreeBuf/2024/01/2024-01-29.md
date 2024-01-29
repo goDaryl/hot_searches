@@ -51,3 +51,5 @@
 
 + [俄罗斯280台服务器被摧毁，2pb数据丢失](https://www.freebuf.com/news/390863.html)
 
++ [利用OSINT追踪勒索组织活动](https://www.freebuf.com/articles/network/390206.html)
+
