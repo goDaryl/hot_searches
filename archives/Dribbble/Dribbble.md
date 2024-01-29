@@ -75,3 +75,13 @@
 
 + [Ode to Farm](https://dribbble.com/shots/)
 
++ [PATCH DESIGN for NOAH KAHAN 2024 WORLD TOUR.](https://dribbble.com/shots/)
+
++ [Coram Deo Church Bremerton (Stained Glass Windows)](https://dribbble.com/shots/)
+
++ [2023 Amtrak Poster](https://dribbble.com/shots/)
+
++ [Art direction project](https://dribbble.com/shots/)
+
++ [Hug](https://dribbble.com/shots/)
+
