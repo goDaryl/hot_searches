@@ -29,3 +29,7 @@
 
 + [古尔曼：苹果 iOS 18 可能是 iPhone 历史上最重磅的软件更新](https://m.ithome.com/html/747723.htm)
 
++ [手机屏幕亮度大战升级，峰值亮度只是营销噱头](https://m.ithome.com/html/747718.htm)
+
++ [新款长安 UNI-V 插混版实车曝光：1.5 升发动机，今年有望上市](https://m.ithome.com/html/747721.htm)
+
