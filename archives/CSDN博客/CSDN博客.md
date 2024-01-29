@@ -101,3 +101,27 @@
 
 + [通信协议的TCP/IP模型](https://blog.csdn.net/weixin_53713070/article/details/135885647)
 
++ [构建知识图谱：从技术到实战的完整指南](https://blog.csdn.net/magicyangjay111/article/details/135920219)
+
++ [计算机视觉之图像分割](https://blog.csdn.net/littleFourier/article/details/135899184)
+
++ [研发日记，Matlab/Simulink避坑指南(九)——可变数组应用Bug](https://blog.csdn.net/CSSUST/article/details/135902599)
+
++ [探索设计模式的魅力：深入了解适配器模式-优雅地解决接口不匹配问题](https://blog.csdn.net/danci_/article/details/135891805)
+
++ [基于java后台的微信影视交流点评小程序系统设计与实现](https://blog.csdn.net/u013818205/article/details/135813081)
+
++ [MySQL SQL 注入](https://blog.csdn.net/liujiaping/article/details/135883480)
+
++ [掌握使用 React 和 Ant Design 的个人博客艺术之美](https://blog.csdn.net/qq_36478920/article/details/135920034)
+
++ [Python笔记14-实战小游戏飞机大战（上）](https://blog.csdn.net/zhangxm_qz/article/details/135894070)
+
++ [网络安全04-sql注入靶场第一关](https://blog.csdn.net/m0_68976043/article/details/135894037)
+
++ [【100个 Unity实用技能】 | Unity不规则图片按钮的事件屏蔽](https://blog.csdn.net/zhangay1998/article/details/135740169)
+
++ [基于yolov5的数据集自动标注功能脚本工具【附代码】](https://blog.csdn.net/z240626191s/article/details/135893989)
+
++ [vue中的async和await](https://blog.csdn.net/qinshi501/article/details/135901108)
+
