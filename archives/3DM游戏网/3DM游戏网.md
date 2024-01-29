@@ -105,3 +105,17 @@
 
 + [《雾锁王国》Steam峰值人数破15万 特别好评](https://www.3dmgame.com/news/202401/3887142.html)
 
++ [《007》游戏可能混合采用第一人称和第三人称](https://www.3dmgame.com/news/202401/3887149.html)
+
++ [《圣剑传说》首发还将登陆Game Pass](https://www.3dmgame.com/news/202401/3887148.html)
+
++ [《勇者斗恶龙10离线版》中文版确定5月28日发售](https://www.3dmgame.com/news/202401/3887145.html)
+
++ [《拳皇15》1月末大型更新追加全新推进打击系统](https://www.3dmgame.com/news/202401/3887146.html)
+
++ [《龙珠Z：电光火石0》发布悟空对战贝吉塔视频预告](https://www.3dmgame.com/news/202401/3887147.html)
+
++ [《龙珠Z：卡卡罗特》发布漫画终章剧情DLC](https://www.3dmgame.com/news/202401/3887143.html)
+
++ [《间谍过家家 日记大作战》确定6月27日发售](https://www.3dmgame.com/news/202401/3887144.html)
+
