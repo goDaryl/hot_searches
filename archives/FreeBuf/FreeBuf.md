@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 二维码网络钓鱼攻击激增587%；谷歌容器云曝“严重风险”](https://www.freebuf.com/news/390746.html)
 
++ [车辆协同感知中的数据伪造攻击](https://www.freebuf.com/vuls/390184.html)
+

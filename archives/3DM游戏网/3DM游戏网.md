@@ -119,3 +119,19 @@
 
 + [《间谍过家家 日记大作战》确定6月27日发售](https://www.3dmgame.com/news/202401/3887144.html)
 
++ [法院已驳回Nexon对《Dark & Darker》开发公司申请的禁令](https://www.3dmgame.com/news/202401/3887157.html)
+
++ [《幻兽帕鲁》惊现高仿假冒官方SNS 诱骗玩家可疑NFT](https://www.3dmgame.com/news/202401/3887156.html)
+
++ [《如龙8》Steam在线峰值超4.6万 游戏热度很高](https://www.3dmgame.com/news/202401/3887155.html)
+
++ [PS5免费互动新游戏《交互不明确》发布公布预告片](https://www.3dmgame.com/news/202401/3887154.html)
+
++ [《宝可梦：朱/紫》 最强帝王拿波袭来  新挑战2月2日举行](https://www.3dmgame.com/news/202401/3887153.html)
+
++ [《最终幻想7：重生》台北电玩展演示 展示战斗召唤等](https://www.3dmgame.com/news/202401/3887152.html)
+
++ [索尼或于1月31日举行State of Play 展示多款新游戏](https://www.3dmgame.com/news/202401/3887151.html)
+
++ [《龙之信条2》主机版本仅支持30FPS 没有高性能60帧模式](https://www.3dmgame.com/news/202401/3887150.html)
+
