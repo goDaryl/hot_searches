@@ -165,3 +165,9 @@
 
 + [《七龙珠》最新动画《龙珠 DAIMA》发布预告 悟空再次返老还童](https://www.3dmgame.com/news/202401/3887171.html)
 
++ [就是这么好！华为Mate60 Pro卖出近百万台 好评率99％](https://www.3dmgame.com/news/202401/3887175.html)
+
++ [《亚路塔》Steam页面上线 治愈系面包房经营探索](https://www.3dmgame.com/news/202401/3887173.html)
+
++ [食物还能有周边？玩具公司为《迷宫饭》推出6款扭蛋周边](https://www.3dmgame.com/news/202401/3887174.html)
+
