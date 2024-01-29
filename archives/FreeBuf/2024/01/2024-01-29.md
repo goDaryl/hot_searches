@@ -49,3 +49,5 @@
 
 + [思科产品曝出高危漏洞，允许黑客远程控制统一通信系统](https://www.freebuf.com/news/390855.html)
 
++ [俄罗斯280台服务器被摧毁，2pb数据丢失](https://www.freebuf.com/news/390863.html)
+
