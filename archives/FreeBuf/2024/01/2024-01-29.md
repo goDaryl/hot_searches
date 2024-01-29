@@ -57,3 +57,9 @@
 
 + [NetExec：一款功能强大的自动化网络安全评估与漏洞测试工具](https://www.freebuf.com/sectool/389486.html)
 
++ [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
+
++ [Pwn2Own Automotive 2024落幕，共揭露49个零日漏洞](https://www.freebuf.com/news/390890.html)
+
++ [网络战新高度！俄罗斯280台服务器被摧毁，200万GB数据丢失](https://www.freebuf.com/news/390863.html)
+
