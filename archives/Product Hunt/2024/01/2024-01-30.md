@@ -105,3 +105,9 @@
 
 + [kuizu](https://www.producthunt.com/posts/kuizu)
 
++ [Omnipilot - AI copilot for macOS](https://www.producthunt.com/posts/omnipilot-ai-copilot-for-macos)
+
++ [Roadrunner](https://www.producthunt.com/posts/roadrunner-2)
+
++ [ZeroInbox.ai](https://www.producthunt.com/posts/zeroinbox-ai)
+
