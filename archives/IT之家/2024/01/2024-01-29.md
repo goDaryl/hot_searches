@@ -45,3 +45,5 @@
 
 + [AI 虚假“不雅照”泛滥，X（推特）首次官方下场禁止搜索泰勒・斯威夫特](https://m.ithome.com/html/747788.htm)
 
++ [消息称华为 P70 系列手机正测试 6.58/6.8 英寸两种 1.5K 微曲面屏，支持 LTPO](https://m.ithome.com/html/747772.htm)
+
