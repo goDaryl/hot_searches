@@ -135,3 +135,9 @@
 
 + [《龙之信条2》主机版本仅支持30FPS 没有高性能60帧模式](https://www.3dmgame.com/news/202401/3887150.html)
 
++ [《杀手寓言》TV动画第二阶段4月开播 花泽香菜等确定出演](https://www.3dmgame.com/news/202401/3887160.html)
+
++ [赛博朋克风格动作射击游戏《Ruiner》开发商裁员达56%](https://www.3dmgame.com/news/202401/3887159.html)
+
++ [《沙丘》电影将于3月1日在中国内地重映](https://www.3dmgame.com/news/202401/3887158.html)
+
