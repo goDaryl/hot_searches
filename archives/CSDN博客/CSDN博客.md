@@ -115,3 +115,17 @@
 
 + [【制作100个unity游戏之23】实现类似七日杀、森林一样的生存游戏4（附项目源码）](https://blog.csdn.net/qq_36303853/article/details/135744748)
 
++ [关机恶搞小程序](https://blog.csdn.net/weixin_58252863/article/details/135887052)
+
++ [防御保护笔记02](https://blog.csdn.net/m0_61858762/article/details/135922730)
+
++ [【Docker Registry】docker 镜像仓库实战](https://blog.csdn.net/m0_64579278/article/details/135920568)
+
++ [Observability：在 Elastic Stack 8.12 中使用 Elastic Agent 性能预设](https://blog.csdn.net/UbuntuTouch/article/details/135934436)
+
++ [（二十一）Flask之上下文管理第二篇（细细扣一遍源码）](https://blog.csdn.net/qq_44907926/article/details/135897463)
+
++ [如何在win系统部署Apache服务并实现无公网ip远程访问](https://blog.csdn.net/YYDsis/article/details/135942618)
+
++ [如何使用Python Flask搭建一个web页面并实现远程访问](https://blog.csdn.net/weixin_67596609/article/details/135913750)
+
