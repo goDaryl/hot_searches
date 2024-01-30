@@ -53,3 +53,7 @@
 
 + [三星 Bixby 迎来视觉焕新，UI 和动画更精致](https://m.ithome.com/html/747887.htm)
 
++ [华为龙年主题手机壳上架官网：涵盖 Mate60 Pro/+、Mate X5，119-168 元](https://m.ithome.com/html/748010.htm)
+
++ [比亚迪：预计 2023 年净利润 290 亿元-310 亿元，同比增长 74.46%-86.49%](https://m.ithome.com/html/747891.htm)
+

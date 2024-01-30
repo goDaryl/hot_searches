@@ -175,3 +175,9 @@
 
 + [【word】论文、报告：①插入图表题注，交叉引用②快速插入图表目录③删改后一键更新](https://blog.csdn.net/wtyuong/article/details/135853212)
 
++ [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/135919442)
+
++ [JAVA Web 学习（一）JDBC 和 Mybatis](https://blog.csdn.net/qq_42767993/article/details/135923391)
+
++ [如何使用Python+Flask搭建本地Web站点并结合内网穿透公网访问？](https://blog.csdn.net/qq_25749749/article/details/135929072)
+
