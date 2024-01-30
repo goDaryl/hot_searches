@@ -49,3 +49,31 @@
 
 + [Black Mamba Anti-Poaching Unit](https://dribbble.com/shots/)
 
++ [Jason Broyles Business Card Design](https://dribbble.com/shots/)
+
++ [Travel and world monuments icons](https://dribbble.com/shots/)
+
++ [Back to the Future](https://dribbble.com/shots/)
+
++ [Rendezvous Music Fest](https://dribbble.com/shots/)
+
++ [Ammons Poems Website](https://dribbble.com/shots/)
+
++ [MEISENPRESS Halftone Processing Kit](https://dribbble.com/shots/)
+
++ [Travel Netherlands Icons](https://dribbble.com/shots/)
+
++ [PATCH DESIGN for NOAH KAHAN 2024 WORLD TOUR.](https://dribbble.com/shots/)
+
++ [Ancient Philosophers](https://dribbble.com/shots/)
+
++ [EYE / IBM](https://dribbble.com/shots/)
+
++ [Seabiscuit](https://dribbble.com/shots/)
+
++ [Geometric Boy Logo](https://dribbble.com/shots/)
+
++ [Butterfly](https://dribbble.com/shots/)
+
++ [Trees](https://dribbble.com/shots/)
+
