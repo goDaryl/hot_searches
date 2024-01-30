@@ -65,3 +65,7 @@
 
 + [能源巨头施耐德被勒索攻击，泄露TB级数据](https://www.freebuf.com/news/390945.html)
 
++ [传统制造行业信息安全管理——企业信息安全技术规划](https://www.freebuf.com/articles/security-management/390338.html)
+
++ [FBI披露最新骗局，已造成超 5500 万美元损失](https://www.freebuf.com/news/390935.html)
+

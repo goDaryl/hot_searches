@@ -57,3 +57,7 @@
 
 + [比亚迪：预计 2023 年净利润 290 亿元-310 亿元，同比增长 74.46%-86.49%](https://m.ithome.com/html/747891.htm)
 
++ [OPPO 与诺基亚达成协议，一加重返德国市场](https://m.ithome.com/html/747903.htm)
+
++ [【IT之家开箱】Redmi Note 13 Pro 新春版图赏：好运红，迎龙年红运](https://m.ithome.com/html/747967.htm)
+
