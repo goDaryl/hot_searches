@@ -245,3 +245,5 @@
 
 + [《风来之国》全新DLC举办线下试玩会，1月31日正式发售](https://www.3dmgame.com/news/202401/3887263.html)
 
++ [半导体行业提价：2024年手机要涨价了](https://www.3dmgame.com/news/202401/3887269.html)
+

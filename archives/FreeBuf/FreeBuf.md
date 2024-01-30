@@ -57,3 +57,11 @@
 
 + [TeX：一款功能强大的Telegram安全监控与管理工具](https://www.freebuf.com/sectool/389487.html)
 
++ [1.5亿条会员信息“裸奔”，知名火锅品牌被罚](https://www.freebuf.com/news/390992.html)
+
++ [企业安全 | API安全体系建设](https://www.freebuf.com/articles/es/377992.html)
+
++ [中位数20万美元，勒索赎金支付率降至历史最低！](https://www.freebuf.com/news/390967.html)
+
++ [能源巨头施耐德被勒索攻击，泄露TB级数据](https://www.freebuf.com/news/390945.html)
+
