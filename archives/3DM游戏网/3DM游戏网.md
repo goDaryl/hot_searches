@@ -145,3 +145,17 @@
 
 + [传《刺客信条：RED》11月推出 首个演示预告7月公布](https://www.3dmgame.com/news/202401/3887208.html)
 
++ [《特殊行动：一线生机》Steam突然停售 非官方渠道依然可买](https://www.3dmgame.com/news/202401/3887219.html)
+
++ [德国联邦州提案立法 彻底禁止游戏战利品箱](https://www.3dmgame.com/news/202401/3887220.html)
+
++ [前《黑道圣徒》开发商Volition主创成立新工作室Shapeshifter Games](https://www.3dmgame.com/news/202401/3887221.html)
+
++ [白金手游《百鬼魔道》关服时间提前 1月31日正式结束运营](https://www.3dmgame.com/news/202401/3887223.html)
+
++ [88岁“游戏爷爷”获吉尼斯认证：最年长B站游戏博主](https://www.3dmgame.com/news/202401/3887224.html)
+
++ [《驱灵者：新伊甸的幽灵》“Antea的肖像”预告 2月13日发售](https://www.3dmgame.com/news/202401/3887222.html)
+
++ [官方澄清《模拟人生4》登陆Switch：没有这个计划](https://www.3dmgame.com/news/202401/3887225.html)
+
