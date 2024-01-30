@@ -121,3 +121,27 @@
 
 + [索尼SoP发布会2月1日早6点公布15款游戏情报](https://www.3dmgame.com/news/202401/3887203.html)
 
++ [《铁拳》制作人知道粉丝希望将《最终幻想》的蒂法纳入游戏中](https://www.3dmgame.com/news/202401/3887216.html)
+
++ [《魔女之泉R》将登陆主机平台 PC版2月上线大更新](https://www.3dmgame.com/news/202401/3887217.html)
+
++ [故事游戏《悟道》Steam页面上线 年内正式上线](https://www.3dmgame.com/news/202401/3887215.html)
+
++ [锐龙7 8700G核显给力：性能已超GTX 1650](https://www.3dmgame.com/news/202401/3887214.html)
+
++ [Nexon针对《Dark and Darker》初步禁令被驳回](https://www.3dmgame.com/news/202401/3887213.html)
+
++ [《龙之信条2》只有一个存档槽 自动和手动保存共用](https://www.3dmgame.com/news/202401/3887218.html)
+
++ [回合制战术《高水位》3月14日发售 登陆全平台](https://www.3dmgame.com/news/202401/3887198.html)
+
++ [3D冒险游戏《水隐之城》确定3月14日发售 登陆多平台](https://www.3dmgame.com/news/202401/3887212.html)
+
++ [冒险游戏《Open Roads》跳票 延期到3月28日发售](https://www.3dmgame.com/news/202401/3887210.html)
+
++ [《自杀小队》抢先体验不到一小时 官方紧急将服务器下线](https://www.3dmgame.com/news/202401/3887211.html)
+
++ [《雾锁王国》发售4天 总玩家现已突破100万](https://www.3dmgame.com/news/202401/3887209.html)
+
++ [传《刺客信条：RED》11月推出 首个演示预告7月公布](https://www.3dmgame.com/news/202401/3887208.html)
+
