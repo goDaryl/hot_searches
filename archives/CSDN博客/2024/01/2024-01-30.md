@@ -171,3 +171,7 @@
 
 + [面向云服务的GaussDB全密态数据库](https://blog.csdn.net/GaussDB/article/details/135925796)
 
++ [大模型机器人的爆发时刻：从RoboFlamingo、OK-Robot到、CMU 18万机器人、Digit](https://blog.csdn.net/v_JULY_v/article/details/135888751)
+
++ [【word】论文、报告：①插入图表题注，交叉引用②快速插入图表目录③删改后一键更新](https://blog.csdn.net/wtyuong/article/details/135853212)
+

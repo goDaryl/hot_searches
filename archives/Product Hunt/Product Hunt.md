@@ -173,3 +173,9 @@
 
 + [Bizway](https://www.producthunt.com/posts/bizway)
 
++ [Fastpal](https://www.producthunt.com/posts/fastpal)
+
++ [AutoIndex by AISeoTool](https://www.producthunt.com/posts/autoindex-by-aiseotool)
+
++ [Shakker.Ai](https://www.producthunt.com/posts/shakker-ai)
+
