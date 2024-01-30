@@ -53,3 +53,5 @@
 
 + [传统制造行业信息安全管理-企业信息安全技术规划](https://www.freebuf.com/articles/security-management/390338.html)
 
++ [因受害者拒绝支付，勒索软件的赎金支付率降历史最低！](https://www.freebuf.com/articles/390967.html)
+
