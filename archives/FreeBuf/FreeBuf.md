@@ -47,3 +47,5 @@
 
 + [绕过Linux内核保护的控制流劫持漏洞](https://www.freebuf.com/vuls/390217.html)
 
++ [FBI称贵金属快递骗局数量激增，已造成超 5500 万美元损失](https://www.freebuf.com/news/390935.html)
+

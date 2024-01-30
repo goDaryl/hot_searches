@@ -33,3 +33,5 @@
 
 + [上海网信办：某火锅连锁企业 1.5 亿条会员信息处于“裸奔”状态](https://m.ithome.com/html/747898.htm)
 
++ [消息称华为 Mate 70 系列手机有望于 9 月与苹果 iPhone 16 同期登台直接竞争](https://m.ithome.com/html/747923.htm)
+
