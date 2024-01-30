@@ -129,3 +129,5 @@
 
 + [如何使用Python Flask搭建一个web页面并实现远程访问](https://blog.csdn.net/weixin_67596609/article/details/135913750)
 
++ [【MySQL】学习如何通过DQL进行数据库数据的条件查询](https://blog.csdn.net/Aileenvov/article/details/135937022)
+
