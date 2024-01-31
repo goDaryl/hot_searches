@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 1.5亿条会员信息“裸奔”多年；关基保护市场未来十年将保持强劲增长](https://www.freebuf.com/news/390981.html)
 
++ [数据安全自评估企业实践](https://www.freebuf.com/articles/es/390267.html)
+
