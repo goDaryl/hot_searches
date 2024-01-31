@@ -217,3 +217,7 @@
 
 + [AntBlocks UI](https://www.producthunt.com/posts/antblocks-ui)
 
++ [FirstRound](https://www.producthunt.com/posts/firstround)
+
++ [Auto Subtitle Generator by LOVO](https://www.producthunt.com/posts/auto-subtitle-generator-by-lovo)
+
