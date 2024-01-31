@@ -109,3 +109,5 @@
 
 + [Paradox公布《吸血鬼：避世血族2》实机视频](https://www.3dmgame.com/news/202402/3887394.html)
 
++ [RTX 4080 Super现已正式推出 售价8099元起](https://www.3dmgame.com/news/202402/3887398.html)
+
