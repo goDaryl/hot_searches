@@ -121,3 +121,13 @@
 
 + [《我的世界》推出全新《怪兽哥斯拉》DLC](https://www.3dmgame.com/news/202401/3887301.html)
 
++ [《星空》1.9.51版补丁已上线：迄今为止最重大更新](https://www.3dmgame.com/news/202401/3887309.html)
+
++ [《火爆狂飙》3A新作或在开发中 使用虚幻5引擎](https://www.3dmgame.com/news/202401/3887307.html)
+
++ [《巫师：重制版》将删除原作过时糟糕部分：不许歧视女性](https://www.3dmgame.com/news/202401/3887308.html)
+
++ [《自杀小队：战胜正义联盟》主线剧情仅仅9个小时](https://www.3dmgame.com/news/202401/3887306.html)
+
++ [《魂斗罗：加鲁加行动》公布新版第三关BGM](https://www.3dmgame.com/news/202401/3887305.html)
+

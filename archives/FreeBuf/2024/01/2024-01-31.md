@@ -43,3 +43,5 @@
 
 + [美杜莎（Medusa）勒索软件如何把你的文件变成了“石头”](https://www.freebuf.com/articles/network/390339.html)
 
++ [FreeBuf早报 | 1.5亿条会员信息“裸奔”多年；关基保护市场未来十年将保持强劲增长](https://www.freebuf.com/news/390981.html)
+
