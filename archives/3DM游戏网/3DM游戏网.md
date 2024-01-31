@@ -285,3 +285,9 @@
 
 + [《细胞分裂：重制版》有望在2025或2026年发售](https://www.3dmgame.com/news/202401/3887384.html)
 
++ [英伟达面临AI芯片供应短缺 转向英特尔寻求封装服务](https://www.3dmgame.com/news/202401/3887389.html)
+
++ [苹果Vision Pro媒体评测解禁：The Verge 7分](https://www.3dmgame.com/news/202401/3887388.html)
+
++ [《伊苏 塞尔塞塔的树海：改》Steam®版将于2024年春天上市](https://www.3dmgame.com/news/202401/3887387.html)
+
