@@ -71,3 +71,19 @@
 
 + [The Creative Pain v3](https://dribbble.com/shots/)
 
++ [Shows I Wish I Went To #2](https://dribbble.com/shots/)
+
++ [Ammons Poems Website](https://dribbble.com/shots/)
+
++ [Primo's Deli](https://dribbble.com/shots/)
+
++ [Consume-O-tron](https://dribbble.com/shots/)
+
++ [Black Mamba Anti-Poaching Unit](https://dribbble.com/shots/)
+
++ [Runner's World (Editorial)](https://dribbble.com/shots/)
+
++ [Soda Can Design - Beverage Packaging](https://dribbble.com/shots/)
+
++ [Breezy - Tropical Beach Seltzer](https://dribbble.com/shots/)
+
