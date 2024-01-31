@@ -109,3 +109,15 @@
 
 + [索尼聘请了女团“新学校领袖”拍摄新PS5广告](https://www.3dmgame.com/news/202401/3887295.html)
 
++ [微软Q2财报：游戏部门营收大涨49% 动视暴雪贡献21亿美元](https://www.3dmgame.com/news/202401/3887302.html)
+
++ [《自杀小队》补偿豪华版玩家 赠送价值20美元游戏内货币](https://www.3dmgame.com/news/202401/3887303.html)
+
++ [《命运2》与《质量效应》将展开联动活动](https://www.3dmgame.com/news/202401/3887304.html)
+
++ [春节期间《碧海黑帆》开启不限量免费公测](https://www.3dmgame.com/news/202401/3887299.html)
+
++ [《暗黑破坏神4》2024春节限时活动即将上线](https://www.3dmgame.com/news/202401/3887300.html)
+
++ [《我的世界》推出全新《怪兽哥斯拉》DLC](https://www.3dmgame.com/news/202401/3887301.html)
+

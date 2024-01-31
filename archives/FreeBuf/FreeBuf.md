@@ -41,3 +41,5 @@
 
 + [macOS信息窃取程序面面观：KeySteal、Atomic Stealer、CherryPie及更多](https://www.freebuf.com/articles/paper/390009.html)
 
++ [美杜莎（Medusa）勒索软件如何把你的文件变成了“石头”](https://www.freebuf.com/articles/network/390339.html)
+
