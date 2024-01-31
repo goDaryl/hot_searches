@@ -31,3 +31,5 @@
 
 + [Linus 新年首骂：和谷歌大佬大吵 4 天，“你的代码就是垃圾”](https://m.ithome.com/html/748081.htm)
 
++ [郭明錤：苹果最快明年推出新设计机型，iPhone 今年出货面临显著衰退](https://m.ithome.com/html/748097.htm)
+
