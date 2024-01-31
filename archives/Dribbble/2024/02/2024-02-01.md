@@ -49,3 +49,25 @@
 
 + [EYE / IBM](https://dribbble.com/shots/)
 
++ [Rendezvous Music Fest](https://dribbble.com/shots/)
+
++ [Ammons Poems Web Design](https://dribbble.com/shots/)
+
++ [Creative Help](https://dribbble.com/shots/)
+
++ [Tarot card #05: The Hierophant](https://dribbble.com/shots/)
+
++ [Oregon State Park Landscapes](https://dribbble.com/shots/)
+
++ [AARP Seattle - Robo Calls](https://dribbble.com/shots/)
+
++ [How to prepare yourself for emergencies on the road infographic](https://dribbble.com/shots/)
+
++ [Art direction project](https://dribbble.com/shots/)
+
++ [Fashion Logo Collection - Logofolio](https://dribbble.com/shots/)
+
++ [The Sounds of Spring](https://dribbble.com/shots/)
+
++ [The Creative Pain v3](https://dribbble.com/shots/)
+
