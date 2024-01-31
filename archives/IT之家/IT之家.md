@@ -59,3 +59,5 @@
 
 + [npm 软件包网站被滥用，开发者上传超 700 个《武林外传》切片视频](https://m.ithome.com/html/748126.htm)
 
++ [能看完 3 小时《复仇者联盟 4：终局之战》电影，苹果 Vision Pro 头显续航实测](https://m.ithome.com/html/748108.htm)
+

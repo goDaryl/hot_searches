@@ -281,3 +281,7 @@
 
 + [微星CLAW掌机共有三个版本 起价700美元](https://www.3dmgame.com/news/202401/3887385.html)
 
++ [《赛博朋克2077》《往日之影》2.11版本更新上线](https://www.3dmgame.com/news/202401/3887386.html)
+
++ [《细胞分裂：重制版》有望在2025或2026年发售](https://www.3dmgame.com/news/202401/3887384.html)
+
