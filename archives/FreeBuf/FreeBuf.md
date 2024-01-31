@@ -61,3 +61,5 @@
 
 + [7.5 亿印度网络用户数据遭到泄露](https://www.freebuf.com/news/391066.html)
 
++ [全国信安标委发布7项网络安全推荐性国家标准计划](https://www.freebuf.com/news/391086.html)
+
