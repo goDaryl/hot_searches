@@ -277,3 +277,23 @@
 
 + [踏月无痕香帅现，剑气光寒飞刀影《古龙风云录》2月1日正式版上线](https://www.3dmgame.com/news/202402/3887470.html)
 
++ [典藏套装《SONIC X SHADOW GENERATIONS》2024年秋季发售！](https://www.3dmgame.com/news/202402/3887488.html)
+
++ [人气乙女游戏续作《共生邱比特-Sweet & Spicy Darling.-》4位全新配角登场！](https://www.3dmgame.com/news/202402/3887483.html)
+
++ [Indie Game爱好者集合！GSE公布8款即将推出的中文化独立游戏](https://www.3dmgame.com/news/202402/3887484.html)
+
++ [暗黑武侠战棋RPG游戏《天下为棋》1.0正式版上線](https://www.3dmgame.com/news/202402/3887485.html)
+
++ [小米14 Ultra要涨价了！堆料最猛的小米手机](https://www.3dmgame.com/news/202402/3887482.html)
+
++ [“Steam Sonic Franchise Sale”火热进行中 《索尼克 超级巨星》推出五折盛惠](https://www.3dmgame.com/news/202402/3887486.html)
+
++ [“螃蟹大战”系列最新作《螃蟹大战2》Steam体验版现已公开！](https://www.3dmgame.com/news/202402/3887487.html)
+
++ [东方Project同人2D探索型动作游戏《东方月神夜》PS版现已发售](https://www.3dmgame.com/news/202402/3887489.html)
+
++ [《小小世界》将于2月15日结束抢先体验推出1.0版，登陆PC及主机平台！](https://www.3dmgame.com/news/202402/3887490.html)
+
++ [打造永恒的故事：《吸血鬼王朝》的首段深度视频，深入探讨故事剧情](https://www.3dmgame.com/news/202402/3887491.html)
+

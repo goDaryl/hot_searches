@@ -51,3 +51,7 @@
 
 + [比亚迪元家族全新车型“元 UP”官图公布，定位 A0 级 SUV](https://m.ithome.com/html/748349.htm)
 
++ [戴尔中国回应工商信息变更：正常调整，不会对业务产生任何影响](https://m.ithome.com/html/748295.htm)
+
++ [因天气情况，申通快递对发往 12 省份快件提价：3 公斤以上每公斤涨 1-3 元](https://m.ithome.com/html/748280.htm)
+
