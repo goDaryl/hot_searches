@@ -111,3 +111,29 @@
 
 + [RTX 4080 Super现已正式推出 售价8099元起](https://www.3dmgame.com/news/202402/3887398.html)
 
++ [《星刃》新实机截图公布 油腻师姐来战个痛快](https://www.3dmgame.com/news/202402/3887411.html)
+
++ [米哈游宣布为PS5开发《绝区零》](https://www.3dmgame.com/news/202402/3887409.html)
+
++ [新增模式《索尼克X暗影：世代》秋季全平台发售](https://www.3dmgame.com/news/202402/3887408.html)
+
++ [恐怖游戏《直到黎明》年内强化移植PS5和PC](https://www.3dmgame.com/news/202402/3887407.html)
+
++ [生化奇兵之父新作《Judas》新预告和截图公布](https://www.3dmgame.com/news/202402/3887406.html)
+
++ [《地铁》前传《地铁：觉醒》公布 登陆PS VR2](https://www.3dmgame.com/news/202402/3887405.html)
+
++ [《寂静岭：短讯》预告 游戏已发布玩家可免费游玩](https://www.3dmgame.com/news/202402/3887410.html)
+
++ [小岛秀夫动作游戏新作《Physint》正式发表](https://www.3dmgame.com/news/202402/3887404.html)
+
++ [小岛秀夫游戏《死亡搁浅2》发布9分钟超长预告](https://www.3dmgame.com/news/202402/3887403.html)
+
++ [Capcom发布《龙之信条2》新预告展示各职业动作](https://www.3dmgame.com/news/202402/3887402.html)
+
++ [游戏制作人深度讲解PS5独占《浪人崛起》](https://www.3dmgame.com/news/202402/3887400.html)
+
++ [《寂静岭2：重制版》新战斗预告 《寂静岭：短讯》正式公布](https://www.3dmgame.com/news/202402/3887401.html)
+
++ [《星刃》4月26日发售登陆PS5 新中文宣传片公开](https://www.3dmgame.com/news/202402/3887399.html)
+
