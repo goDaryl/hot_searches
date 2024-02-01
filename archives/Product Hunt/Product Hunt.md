@@ -111,3 +111,5 @@
 
 + [Share GPT](https://www.producthunt.com/posts/share-gpt)
 
++ [Leprechaun AI](https://www.producthunt.com/posts/leprechaun-ai)
+

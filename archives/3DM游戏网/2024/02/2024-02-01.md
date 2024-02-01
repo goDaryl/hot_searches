@@ -151,3 +151,17 @@
 
 + [《夜族崛起》确定登陆PS5平台 预定2024年内发售](https://www.3dmgame.com/news/202402/3887412.html)
 
++ [PS Plus 2月游戏更新 包含《泡沫明星》、《酷极轮滑》和《钢铁崛起》](https://www.3dmgame.com/news/202402/3887424.html)
+
++ [卡普空9个月财报：整体业务销售额破千亿日元](https://www.3dmgame.com/news/202402/3887423.html)
+
++ [港服PS+三档会员新增试玩游戏：《心灵杀手2》和《漫威蜘蛛侠2》](https://www.3dmgame.com/news/202402/3887420.html)
+
++ [《烽火与炊烟》Steam页面上线 国风开放世界经营探索](https://www.3dmgame.com/news/202402/3887422.html)
+
++ [小岛秀夫动作新作《PHYSINT》将超越电影和游戏之间障碍](https://www.3dmgame.com/news/202402/3887425.html)
+
++ [《女神异闻录３ Reload》PV04 预计今日发售](https://www.3dmgame.com/news/202402/3887421.html)
+
++ [《出租生涯：城市驾驶模拟器》实机预告 3月7日发售](https://www.3dmgame.com/news/202402/3887419.html)
+

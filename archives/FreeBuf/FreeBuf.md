@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 阿联酋政府每天面临5万次网络攻击；暗网出售7.5亿印度移动用户数据](https://www.freebuf.com/news/391099.html)
 
++ [怎么有效申请网络安全预算？](https://www.freebuf.com/articles/neopoints/390831.html)
+
