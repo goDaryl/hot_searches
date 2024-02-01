@@ -115,3 +115,63 @@
 
 + [State of Email 2024](https://www.producthunt.com/posts/state-of-email-2024)
 
++ [Cerebral Ai](https://www.producthunt.com/posts/cerebral-ai)
+
++ [RE:Create Video](https://www.producthunt.com/posts/re-create-video)
+
++ [Faith](https://www.producthunt.com/posts/faith)
+
++ [BoilerBay](https://www.producthunt.com/posts/boilerbay)
+
++ [One Punch Man World](https://www.producthunt.com/posts/one-punch-man-world)
+
++ [Crypto Invoice Generator by Acctual](https://www.producthunt.com/posts/crypto-invoice-generator-by-acctual)
+
++ [Teamyard](https://www.producthunt.com/posts/teamyard)
+
++ [Surreal](https://www.producthunt.com/posts/surreal-2)
+
++ [Bounce Doctor](https://www.producthunt.com/posts/bounce-doctor)
+
++ [Foodpot](https://www.producthunt.com/posts/foodpot)
+
++ [Quadratic Multiplayer](https://www.producthunt.com/posts/quadratic-multiplayer)
+
++ [PlayerFinder](https://www.producthunt.com/posts/playerfinder)
+
++ [Blin!](https://www.producthunt.com/posts/blin)
+
++ [Figma Icons](https://www.producthunt.com/posts/figma-icons)
+
++ [CloakGuru](https://www.producthunt.com/posts/cloakguru)
+
++ [Tetrisly React Components](https://www.producthunt.com/posts/tetrisly-react-components)
+
++ [TimePlay.io](https://www.producthunt.com/posts/timeplay-io)
+
++ [Commit Everyday](https://www.producthunt.com/posts/commit-everyday)
+
++ [MonBotAchat](https://www.producthunt.com/posts/monbotachat)
+
++ [BeforeSunset AI](https://www.producthunt.com/posts/beforesunset-ai-2)
+
++ [Blackbell](https://www.producthunt.com/posts/blackbell)
+
++ [Figarc](https://www.producthunt.com/posts/figarc)
+
++ [qiibee](https://www.producthunt.com/posts/qiibee)
+
++ [ResumeMaker.Online 4.0](https://www.producthunt.com/posts/resumemaker-online-4-0)
+
++ [Promptly AI](https://www.producthunt.com/posts/promptly-ai)
+
++ [Siftree](https://www.producthunt.com/posts/siftree-2)
+
++ [Flipner AI](https://www.producthunt.com/posts/flipner-ai)
+
++ [Fotor AI](https://www.producthunt.com/posts/fotor-ai-2)
+
++ [Favikon - Chrome extension](https://www.producthunt.com/posts/favikon-chrome-extension-1)
+
++ [TinyCadence](https://www.producthunt.com/posts/tinycadence)
+
