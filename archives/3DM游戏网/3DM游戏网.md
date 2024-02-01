@@ -137,3 +137,17 @@
 
 + [《星刃》4月26日发售登陆PS5 新中文宣传片公开](https://www.3dmgame.com/news/202402/3887399.html)
 
++ [《龙之信条2》全新截图 酷帅战斗狂虐众多怪物](https://www.3dmgame.com/news/202402/3887417.html)
+
++ [《潜水员戴夫》4月登陆PS 哥斯拉联动5月上线](https://www.3dmgame.com/news/202402/3887416.html)
+
++ [《最终幻想7：重生》最新情报将在下周的State of Play上发布](https://www.3dmgame.com/news/202402/3887415.html)
+
++ [《风来之国》DLC《复活吧！海鸥镇》正式发售 末世历险的田园番外](https://www.3dmgame.com/news/202402/3887414.html)
+
++ [SE解散旗下工作室东京RPG工厂 并入总公司](https://www.3dmgame.com/news/202402/3887418.html)
+
++ [Devolver旗下Artificer工作室裁员近一半员工](https://www.3dmgame.com/news/202402/3887413.html)
+
++ [《夜族崛起》确定登陆PS5平台 预定2024年内发售](https://www.3dmgame.com/news/202402/3887412.html)
+
