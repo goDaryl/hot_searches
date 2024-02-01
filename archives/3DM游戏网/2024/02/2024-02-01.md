@@ -297,3 +297,5 @@
 
 + [打造永恒的故事：《吸血鬼王朝》的首段深度视频，深入探讨故事剧情](https://www.3dmgame.com/news/202402/3887491.html)
 
++ [Wi-Fi HaLow通过3公里超远程连接测试 创下Wi-Fi连接距离新记录](https://www.3dmgame.com/news/202402/3887492.html)
+

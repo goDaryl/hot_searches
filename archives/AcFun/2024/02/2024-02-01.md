@@ -113,3 +113,17 @@
 
 + [高跟我啊，快顶不住了捏！](http://www.acfun.cn/v/ac43674396)
 
++ [【A站独家】请向我赎罪吧..](http://www.acfun.cn/v/ac43674851)
+
++ [独家UP的背后02：波兰蠢驴游戏平台挂上AC娘？幕后隐藏故事](http://www.acfun.cn/v/ac43675260)
+
++ [【唐茶/MMD】[A]ddiction](http://www.acfun.cn/v/ac43669206)
+
++ [小鸟历经的惊险一幕，场面有点刺激](http://www.acfun.cn/v/ac43673486)
+
++ [苹果折叠手机内藏玄机！打开后我裂开了](http://www.acfun.cn/v/ac43667669)
+
++ [【小六】听海](http://www.acfun.cn/v/ac43670929)
+
++ [韩服最强王者菁英对决 #2375ㅣ来了](http://www.acfun.cn/v/ac43667632)
+
