@@ -99,3 +99,7 @@
 
 + [Birthday Party Branding](https://dribbble.com/shots/)
 
++ [Seven Seas Hotel](https://dribbble.com/shots/)
+
++ [Brandi Carlile's 'Girls Just Wanna Weekend' Branding](https://dribbble.com/shots/)
+
