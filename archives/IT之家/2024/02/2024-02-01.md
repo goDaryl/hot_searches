@@ -57,3 +57,5 @@
 
 + [微信输入法发布 iOS / 安卓 1.2.2 版本更新：支持剪贴板 / 选词粘贴、方言语音输入等](https://m.ithome.com/html/748275.htm)
 
++ [界面前瞻：微软 Win11 将原生支持 sudo 命令](https://m.ithome.com/html/748383.htm)
+
