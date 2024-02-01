@@ -135,3 +135,9 @@
 
 + [碧蓝战卡二弹前瞻开盒，重樱参战，潜艇上线！全新的红色系卡片！【碧蓝战卡I碧蓝航线TCG】](http://www.acfun.cn/v/ac43669140)
 
++ [Happy birthday to ParmyAU](http://www.acfun.cn/v/ac43675924)
+
++ [【奥雷】香港最恐怖的凶宅禁地！有关它的诡异传闻不胜枚举！《13号凶宅》](http://www.acfun.cn/v/ac43675145)
+
++ [这舞真白！Roly Poly！复古蹦迪【年跃龙门】](http://www.acfun.cn/v/ac43673185)
+

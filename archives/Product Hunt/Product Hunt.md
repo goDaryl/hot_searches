@@ -183,3 +183,5 @@
 
 + [Favikon Chrome extension](https://www.producthunt.com/posts/favikon-chrome-extension-2)
 
++ [Shortcut Objectives](https://www.producthunt.com/posts/shortcut-objectives)
+
