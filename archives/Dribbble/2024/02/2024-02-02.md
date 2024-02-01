@@ -49,3 +49,21 @@
 
 + [Runner's World (Editorial)](https://dribbble.com/shots/)
 
++ [Jason Broyles Business Card Design](https://dribbble.com/shots/)
+
++ [25% Off Summer Dreams Flash Sale](https://dribbble.com/shots/)
+
++ [So Weird](https://dribbble.com/shots/)
+
++ [Paradise Island ????](https://dribbble.com/shots/)
+
++ [Pinecone to jewelry](https://dribbble.com/shots/)
+
++ [Crackers Package Design](https://dribbble.com/shots/)
+
++ [Case Study: Ammons Poems Website](https://dribbble.com/shots/)
+
++ [Geometric Boy Logo](https://dribbble.com/shots/)
+
++ [Poindexter Books - Emblem](https://dribbble.com/shots/)
+

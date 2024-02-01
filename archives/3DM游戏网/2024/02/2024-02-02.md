@@ -101,3 +101,7 @@
 
 + [《飙速宅男》漫画全作免费福利读开启 期限截至2月21日](https://www.3dmgame.com/news/202402/3887450.html)
 
++ [Epic喜加一：《门:悖论》免费领取](https://www.3dmgame.com/news/202402/3887502.html)
+
++ [《鱿鱼游戏》第二季曝光剧照 红发李政宰上线](https://www.3dmgame.com/news/202402/3887503.html)
+
