@@ -197,3 +197,15 @@
 
 + [《攻壳机动队SAC》笑脸男OVA三天限期免费发布](https://www.3dmgame.com/news/202402/3887437.html)
 
++ [Epic Games商城赠送的免费游戏总价值已超过1万美元](https://www.3dmgame.com/news/202402/3887447.html)
+
++ [《泡沫明星》公开发布后赛季详情&路线图 S1新增排位赛](https://www.3dmgame.com/news/202402/3887446.html)
+
++ [可4人组队挑战的正统ARPG！《Granblue Fantasy: Relink》今日发售](https://www.3dmgame.com/news/202402/3887445.html)
+
++ [《马里奥vs大金刚》试玩上线 2月16日正式发售](https://www.3dmgame.com/news/202402/3887444.html)
+
++ [重新设计“寂静岭”网站 《短信》开发者的一封信](https://www.3dmgame.com/news/202402/3887443.html)
+
++ [Steam特别好评 休闲益智游戏《往左一点》2月15日登陆主机](https://www.3dmgame.com/news/202402/3887442.html)
+
