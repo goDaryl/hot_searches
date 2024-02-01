@@ -227,3 +227,11 @@
 
 + [《原神》拾枝杂谈-「嘉明：霓舞烟霞」](https://www.3dmgame.com/news/202402/3887449.html)
 
++ [往日之影里德演员剧集《劫机七小时》续订第二季](https://www.3dmgame.com/news/202402/3887461.html)
+
++ [《秋之回忆》全系列Steam发售 合集包售价315元](https://www.3dmgame.com/news/202402/3887460.html)
+
++ [《自杀小队》并非已故演员凯文·康罗伊最后一次扮演蝙蝠侠](https://www.3dmgame.com/news/202402/3887458.html)
+
++ [《崩坏：星穹铁道》千星纪游PV：「旧梦重温」](https://www.3dmgame.com/news/202402/3887457.html)
+
