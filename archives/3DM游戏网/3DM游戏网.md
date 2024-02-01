@@ -181,3 +181,19 @@
 
 + [《幻兽帕鲁》成为XGP最大的第三方发布 Xbox将与开发商合作优化游戏](https://www.3dmgame.com/news/202402/3887433.html)
 
++ [《X战警：第一战》导演称：《死侍3》可以拯救漫威宇宙](https://www.3dmgame.com/news/202402/3887438.html)
+
++ [前《我的世界》Mojang开发者成立新工作室Roro](https://www.3dmgame.com/news/202402/3887439.html)
+
++ [新能源车的尴尬 网友吐槽高速服务区充电桩比加油还贵](https://www.3dmgame.com/news/202402/3887440.html)
+
++ [类CS竞技FPS开发商山巅工作室再获3千万融资](https://www.3dmgame.com/news/202402/3887441.html)
+
++ [前《黑道圣徒》开发者的新工作室已加盟蒸汽朋克RPG《发条革命》的开发](https://www.3dmgame.com/news/202402/3887434.html)
+
++ [游戏媒体也逃不掉 新闻网站GameSpot再次裁员](https://www.3dmgame.com/news/202402/3887435.html)
+
++ [英雄联盟“炽炎雏龙 斯莫德”介绍影片 领龙活动今日开启](https://www.3dmgame.com/news/202402/3887436.html)
+
++ [《攻壳机动队SAC》笑脸男OVA三天限期免费发布](https://www.3dmgame.com/news/202402/3887437.html)
+
