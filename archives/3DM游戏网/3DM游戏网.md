@@ -105,3 +105,11 @@
 
 + [《鱿鱼游戏》第二季曝光剧照 红发李政宰上线](https://www.3dmgame.com/news/202402/3887503.html)
 
++ [《奇唤士》任务预告片展示 2月20日发行](https://www.3dmgame.com/news/202402/3887507.html)
+
++ [暴雪老兵新作《风暴之门》成功众筹近240万美元](https://www.3dmgame.com/news/202402/3887506.html)
+
++ [《生化危机4：重制版》黄金版公布 2/9推出](https://www.3dmgame.com/news/202402/3887505.html)
+
++ [《驱灵者：新伊甸的幽灵》新预告片展示战斗/探索](https://www.3dmgame.com/news/202402/3887504.html)
+
