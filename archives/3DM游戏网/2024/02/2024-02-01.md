@@ -249,3 +249,31 @@
 
 + [女子刚买两月iPhone 15翻车：耗电快、机身发烫、镜头有黑斑](https://www.3dmgame.com/news/202402/3887462.html)
 
++ [全黑化！英伟达RTX4080 SUPER公版显卡图赏](https://www.3dmgame.com/news/202402/3887481.html)
+
++ [特斯拉涉嫌不当处理危险废物 遭加州25县联合起诉](https://www.3dmgame.com/news/202402/3887478.html)
+
++ [《幻想战略录》Steam试玩2月6日上线 东方系战略新游](https://www.3dmgame.com/news/202402/3887480.html)
+
++ [《卡牌RPG：迷雾战场》宣布5月23日发售 支持中文](https://www.3dmgame.com/news/202402/3887479.html)
+
++ [《完蛋！我被美女包围》DLC新海报 三位大美女来啦](https://www.3dmgame.com/news/202402/3887477.html)
+
++ [网友曝服务区充电桩2.98元/度电：比加油还贵了](https://www.3dmgame.com/news/202402/3887476.html)
+
++ [《黎明杀机》主管批评《幻兽帕鲁》：战斗无聊 Bug多](https://www.3dmgame.com/news/202402/3887475.html)
+
++ [一月内已现多起事故 日本两架客机在大阪机场发生碰撞](https://www.3dmgame.com/news/202402/3887474.html)
+
++ [生意太好英伟达找上Intel代工 每月可产30万颗AI芯片](https://www.3dmgame.com/news/202402/3887472.html)
+
++ [《因狄斯2：燃烧的火种》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202402/3887471.html)
+
++ [索尼农历新年宣传片 韩国女星金世正Cos蒂法](https://www.3dmgame.com/news/202402/3887469.html)
+
++ [杉果“新春特惠”现已开启！《无主之地3》秒杀价¥14.9](https://www.3dmgame.com/news/202402/3887468.html)
+
++ [《紫塞秋风》制作团队心路历程纪录片 行走着自己的江湖人生](https://www.3dmgame.com/news/202402/3887473.html)
+
++ [踏月无痕香帅现，剑气光寒飞刀影《古龙风云录》2月1日正式版上线](https://www.3dmgame.com/news/202402/3887470.html)
+
