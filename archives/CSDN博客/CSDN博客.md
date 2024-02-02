@@ -127,3 +127,11 @@
 
 + [探索设计模式的魅力：从单一继承到组合模式-软件设计的演变与未来](https://blog.csdn.net/danci_/article/details/135971424)
 
++ [基于微信小程序企业公司系统设计与实现(PHP后台)可行性分析](https://blog.csdn.net/u013818205/article/details/135962249)
+
++ [双异步系列完结撒花，如何解決异步事务问题？](https://blog.csdn.net/guorui_java/article/details/135660618)
+
++ [机器学习算法决策树](https://blog.csdn.net/qq_64685283/article/details/135981780)
+
++ [ONLYOFFICE：兼顾协作与安全的开源办公套件](https://blog.csdn.net/Qingai521/article/details/135947950)
+
