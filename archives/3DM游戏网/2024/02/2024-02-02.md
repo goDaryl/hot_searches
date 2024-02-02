@@ -261,3 +261,15 @@
 
 + [《生化危机4：重制版》黄金版仅会在欧洲发售实体版](https://www.3dmgame.com/news/202402/3887574.html)
 
++ [《Survive the Fall》Steam试玩发布 开放世界末世生存](https://www.3dmgame.com/news/202402/3887587.html)
+
++ [央视CCTV6春节片单：《长空之王》《封神》电视首播](https://www.3dmgame.com/news/202402/3887586.html)
+
++ [《我被美女包围》DLC倒计时预告和海报 美女让人心动](https://www.3dmgame.com/news/202402/3887585.html)
+
++ [亚马逊推出AI购物助手Rufus 可回答商品信息等](https://www.3dmgame.com/news/202402/3887584.html)
+
++ [50万+大把人买 华为问界M9大定超4万台：“科技车皇”成了！](https://www.3dmgame.com/news/202402/3887583.html)
+
++ [法国试行浓缩工时版4天工作制：4天做完5天工作 多1天假](https://www.3dmgame.com/news/202402/3887582.html)
+
