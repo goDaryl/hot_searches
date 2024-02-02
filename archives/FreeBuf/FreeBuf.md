@@ -53,3 +53,5 @@
 
 + [黑客利用 Okta 攻击中窃取到的授权令牌，攻击 Cloudflare](https://www.freebuf.com/news/391275.html)
 
++ [Galah：一款功能强大的LLM驱动型OpenAI Web蜜罐系统](https://www.freebuf.com/sectool/389504.html)
+
