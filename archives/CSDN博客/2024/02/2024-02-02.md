@@ -127,3 +127,9 @@
 
 + [论文推荐:大语言模型在金融领域的应用调查](https://blog.csdn.net/m0_46510245/article/details/135926108)
 
++ [2024美赛数学建模A题思路分析 - 资源可用性和性别比例](https://blog.csdn.net/dc_sinor/article/details/135985103)
+
++ [【MySQL】事务管理](https://blog.csdn.net/qq_65207641/article/details/135182999)
+
++ [2024年美赛美国大学生数学建模竞赛D题思路解析+代码+论文](https://blog.csdn.net/weixin_43345535/article/details/135940266)
+
