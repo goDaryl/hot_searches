@@ -51,3 +51,5 @@
 
 + [对用友NC“任意文件读取”漏洞的分析](https://www.freebuf.com/vuls/390862.html)
 
++ [黑客利用 Okta 攻击中窃取到的授权令牌，攻击 Cloudflare](https://www.freebuf.com/news/391275.html)
+
