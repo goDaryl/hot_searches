@@ -163,3 +163,13 @@
 
 + [巴耶克配音演员制作的《肯泽拉传说：扎乌》现已登陆Steam平台](https://www.3dmgame.com/news/202402/3887520.html)
 
++ [日本最大游戏开发者大会《CEDEC2024》确定8月21日举行](https://www.3dmgame.com/news/202402/3887535.html)
+
++ [科乐美财报：《桃太郎电铁》推动9个月利润上涨53%](https://www.3dmgame.com/news/202402/3887537.html)
+
++ [华纳透露 恐怖喜剧电影《甲壳虫汁2》将于9月6日上映](https://www.3dmgame.com/news/202402/3887536.html)
+
++ [美女游戏《星刃》是半开放世界 游戏故事和细节公布](https://www.3dmgame.com/news/202402/3887533.html)
+
++ [《龙之信条2》“故事篇”预告 3月22日发售](https://www.3dmgame.com/news/202402/3887534.html)
+
