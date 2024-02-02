@@ -173,3 +173,31 @@
 
 + [《龙之信条2》“故事篇”预告 3月22日发售](https://www.3dmgame.com/news/202402/3887534.html)
 
++ [《地铁：觉醒》是衍生游戏 系列正统续作还在开发中](https://www.3dmgame.com/news/202402/3887546.html)
+
++ [《肯泽拉传说：扎乌》–现已于 Steam 新品节推出试玩！](https://www.3dmgame.com/news/202402/3887550.html)
+
++ [麻枝准最新力作《炽焰天穹》首曝PV 现已开启预约](https://www.3dmgame.com/news/202402/3887551.html)
+
++ [《荣耀战魂》发布周更新内容 新外观服装和全新处决动作](https://www.3dmgame.com/news/202402/3887549.html)
+
++ [扎克伯格抨击苹果：iPhone开放只是个幌子](https://www.3dmgame.com/news/202402/3887548.html)
+
++ [欧洲游戏开发者联盟对苹果欧盟新策“很失望”](https://www.3dmgame.com/news/202402/3887547.html)
+
++ [网飞版《三体》剧集新预告 3月21日正式开播](https://www.3dmgame.com/news/202402/3887545.html)
+
++ [单人模拟游戏《The State of Nowhere》Steam页面 暂不支持中文](https://www.3dmgame.com/news/202402/3887543.html)
+
++ [《归途列车》新DLC《Legion Tales》上线 追加10个新任务](https://www.3dmgame.com/news/202402/3887542.html)
+
++ [小岛秀夫谍战新作《Physint》可能是首批PS6游戏](https://www.3dmgame.com/news/202402/3887541.html)
+
++ [类肉鸽卡牌游戏《地狱卡牌》 现已在Steam平台正式推出](https://www.3dmgame.com/news/202402/3887539.html)
+
++ [Data.ai：《原神》是最快收入突破50亿美元的手游](https://www.3dmgame.com/news/202402/3887538.html)
+
++ [Nordcurrent收购Cinemaware所有IP 扩展PC业务](https://www.3dmgame.com/news/202402/3887544.html)
+
++ [《死亡搁浅2》成为索尼新发布会最大赢家 播放量最高](https://www.3dmgame.com/news/202402/3887540.html)
+
