@@ -55,3 +55,5 @@
 
 + [Galah：一款功能强大的LLM驱动型OpenAI Web蜜罐系统](https://www.freebuf.com/sectool/389504.html)
 
++ [如何保障日志完整性；JS代码深度混淆 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/391256.html)
+
