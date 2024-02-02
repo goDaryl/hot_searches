@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 英国王室开放网络安全岗位招聘；全球五大互联网注册商已沦陷四个](https://www.freebuf.com/news/391216.html)
 
++ [Jenkins RCE漏洞PoC发布，CVE-2024-23897漏洞解析](https://www.freebuf.com/articles/neopoints/391038.html)
+
