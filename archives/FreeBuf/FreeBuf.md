@@ -47,3 +47,7 @@
 
 + [Jenkins RCE漏洞PoC发布，CVE-2024-23897漏洞解析](https://www.freebuf.com/articles/neopoints/391038.html)
 
++ [黑客揭露空客EFB应用漏洞，飞行数据面临风险](https://www.freebuf.com/news/391264.html)
+
++ [对用友NC“任意文件读取”漏洞的分析](https://www.freebuf.com/vuls/390862.html)
+
