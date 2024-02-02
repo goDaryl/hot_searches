@@ -61,3 +61,5 @@
 
 + [32 款游戏获 2024 年第一批进口版号：《地下城与勇士：起源》手游、《太鼓之达人》NS 游戏等在列](https://m.ithome.com/html/748531.htm)
 
++ [良率 0%，消息称三星 3nm GAA 工艺试产失败，Exynos 2500 芯片被打上问号](https://m.ithome.com/html/748614.htm)
+
