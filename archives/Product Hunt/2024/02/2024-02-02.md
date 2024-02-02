@@ -149,3 +149,7 @@
 
 + [Morning Maker Show](https://www.producthunt.com/posts/morning-maker-show)
 
++ [Navi for Vision Pro](https://www.producthunt.com/posts/navi-for-vision-pro)
+
++ [Lifelight](https://www.producthunt.com/posts/lifelight)
+
