@@ -33,3 +33,7 @@
 
 + [央视龙年《春晚》采用 XR+VP 虚实融合超高清制作，主舞台上百块 LED 屏](https://m.ithome.com/html/748461.htm)
 
++ [微信安卓版 8.0.47 最新官方正式版下载发布](https://m.ithome.com/html/748483.htm)
+
++ [被指控“手上沾满鲜血”，扎克伯格在美听证会现场向儿童家长道歉](https://m.ithome.com/html/748447.htm)
+
