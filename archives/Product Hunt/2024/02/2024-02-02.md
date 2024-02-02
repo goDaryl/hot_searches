@@ -103,3 +103,41 @@
 
 + [AI Trailers](https://www.producthunt.com/posts/ai-trailers)
 
++ [explanations.app](https://www.producthunt.com/posts/explanations-app)
+
++ [CodeSlang](https://www.producthunt.com/posts/codeslang)
+
++ [Cashcow BusinessMOO](https://www.producthunt.com/posts/cashcow-businessmoo)
+
++ [Nexandria Premium Block Explorer](https://www.producthunt.com/posts/nexandria-premium-block-explorer)
+
++ [Vision Directory](https://www.producthunt.com/posts/vision-directory)
+
++ [Shilo](https://www.producthunt.com/posts/shilo)
+
++ [Double Subtitles 2D](https://www.producthunt.com/posts/double-subtitles-2d)
+
++ [Glide](https://www.producthunt.com/posts/glide-794daa1f-ccdc-482a-b15b-ce79d1a87dcc)
+
++ [Seneca - Your AI Grading Assistant](https://www.producthunt.com/posts/seneca-your-ai-grading-assistant)
+
++ [Theodore AI](https://www.producthunt.com/posts/theodore-ai)
+
++ [Podstellar](https://www.producthunt.com/posts/podstellar)
+
++ [Pictory GPT for Videos](https://www.producthunt.com/posts/pictory-gpt-for-videos)
+
++ [Bezel for Apple Vision Pro](https://www.producthunt.com/posts/bezel-for-apple-vision-pro)
+
++ [Shortcut Objectives](https://www.producthunt.com/posts/shortcut-objectives)
+
++ [Monoblocc Monitor Rig](https://www.producthunt.com/posts/monoblocc-monitor-rig)
+
++ [Birdbanner](https://www.producthunt.com/posts/birdbanner)
+
++ [BaliBam](https://www.producthunt.com/posts/balibam)
+
++ [PROCESIO](https://www.producthunt.com/posts/procesio-2)
+
++ [Indie Wiki Buddy](https://www.producthunt.com/posts/indie-wiki-buddy)
+
