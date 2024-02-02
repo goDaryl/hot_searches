@@ -133,3 +133,7 @@
 
 + [2024年美赛美国大学生数学建模竞赛D题思路解析+代码+论文](https://blog.csdn.net/weixin_43345535/article/details/135940266)
 
++ [腾讯云云监控实践：使用云审计 CloudAudit SDK 精准管理腾讯云资源](https://blog.csdn.net/dietime1943/article/details/135928819)
+
++ [2024年美赛A-F题解析汇总](https://blog.csdn.net/weixin_61248653/article/details/135985078)
+
