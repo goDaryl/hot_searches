@@ -49,3 +49,29 @@
 
 + [Poindexter Books - Emblem](https://dribbble.com/shots/)
 
++ [Mushrooms](https://dribbble.com/shots/)
+
++ [Crackers Package Design](https://dribbble.com/shots/)
+
++ [Consume-O-tron](https://dribbble.com/shots/)
+
++ [Camp & Go Poster](https://dribbble.com/shots/)
+
++ [Oregon State Park Landscapes](https://dribbble.com/shots/)
+
++ [The Cutting Garden](https://dribbble.com/shots/)
+
++ [Art direction project](https://dribbble.com/shots/)
+
++ [Abstract Man Logo](https://dribbble.com/shots/)
+
++ [MEISENPRESS Halftone Processing Kit](https://dribbble.com/shots/)
+
++ [The Bone Wars](https://dribbble.com/shots/)
+
++ [Runner's World (Editorial)](https://dribbble.com/shots/)
+
++ [Forest](https://dribbble.com/shots/)
+
++ [つづく](https://dribbble.com/shots/)
+
