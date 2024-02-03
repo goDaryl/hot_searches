@@ -167,3 +167,5 @@
 
 + [小鱼深度产品测评之：阿里云一键部署幻兽帕鲁，真正1分钟部署，3分钟进入游戏，无限畅玩，双倍快乐。](https://blog.csdn.net/wuyoudeyuer/article/details/136006119)
 
++ [开源软件：推动技术发展的强大引擎](https://blog.csdn.net/double222222/article/details/135999260)
+

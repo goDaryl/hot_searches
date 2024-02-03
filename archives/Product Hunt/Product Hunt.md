@@ -101,3 +101,35 @@
 
 + [Indie Wiki Buddy](https://www.producthunt.com/posts/indie-wiki-buddy)
 
++ [Halaska Studio](https://www.producthunt.com/posts/halaska-studio)
+
++ [Zoom for Apple Vision Pro](https://www.producthunt.com/posts/zoom-for-apple-vision-pro)
+
++ [Picaday](https://www.producthunt.com/posts/picaday)
+
++ [Samwell.Ai](https://www.producthunt.com/posts/samwell-ai)
+
++ [SpotBuzz - AI Photo Editing & Captions](https://www.producthunt.com/posts/spotbuzz-ai-photo-editing-captions)
+
++ [Pocket](https://www.producthunt.com/posts/pocket-6)
+
++ [PDF merge API](https://www.producthunt.com/posts/pdf-merge-api)
+
++ [spliffpay](https://www.producthunt.com/posts/spliffpay)
+
++ [Splay (beta)](https://www.producthunt.com/posts/splay-beta)
+
++ [SimilarTube](https://www.producthunt.com/posts/similartube)
+
++ [Photon 2.0](https://www.producthunt.com/posts/photon-2-0)
+
++ [Grade Calculator](https://www.producthunt.com/posts/grade-calculator-2)
+
++ [SocialFocus](https://www.producthunt.com/posts/socialfocus)
+
++ [Zenitizer for Apple Vision Pro](https://www.producthunt.com/posts/zenitizer-for-apple-vision-pro)
+
++ [GoGettr](https://www.producthunt.com/posts/gogettr)
+
++ [Happie](https://www.producthunt.com/posts/happie-2)
+
