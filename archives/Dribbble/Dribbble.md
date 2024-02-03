@@ -97,3 +97,5 @@
 
 + [Soda Can Design - Beverage Packaging](https://dribbble.com/shots/)
 
++ [Brandi Carlile's 'Girls Just Wanna Weekend' Branding](https://dribbble.com/shots/)
+
