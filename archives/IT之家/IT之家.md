@@ -63,3 +63,9 @@
 
 + [英伟达推出 RTX 3050 6GB 显卡：显存缩水、2304 CUDA + 70W TDP，179 美元](https://m.ithome.com/html/748713.htm)
 
++ [消息称小米 15 系列手机测试单点超声波指纹，直曲双尺寸战略不变](https://m.ithome.com/html/748765.htm)
+
++ [英伟达推出 RTX 3050 6GB 显卡：显存缩水、2304 CUDA + 70W TDP，169 美元](https://m.ithome.com/html/748713.htm)
+
++ [避免“iPhone 降速门”重演，苹果明确：Vision Pro 头显某些场景会因电池降低其性能](https://m.ithome.com/html/748698.htm)
+
