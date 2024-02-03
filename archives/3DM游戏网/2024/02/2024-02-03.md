@@ -115,3 +115,17 @@
 
 + [《刺猬索尼克3》电影预告片公布 包含标志性曲目](https://www.3dmgame.com/news/202402/3887610.html)
 
++ [混合现实游戏开发商Eggscape种子轮获425万美元](https://www.3dmgame.com/news/202402/3887617.html)
+
++ [《碧海黑帆》开发者日志 2月16日正式发售](https://www.3dmgame.com/news/202402/3887616.html)
+
++ [《自杀小队：战胜正义联盟》IGN 5分 剧情出色其他都一团糟](https://www.3dmgame.com/news/202402/3887615.html)
+
++ [调查显示：95%的工作室都在开发或计划推出实时服务型游戏](https://www.3dmgame.com/news/202402/3887614.html)
+
++ [《女神异闻录3：Reload》Steam好评如潮 峰值超4万](https://www.3dmgame.com/news/202402/3887613.html)
+
++ [《碧蓝幻想：Relink》多半好评 Steam峰值超8万](https://www.3dmgame.com/news/202402/3887612.html)
+
++ [《模拟人生》对手《Life by You》抢先体验延期到6月](https://www.3dmgame.com/news/202402/3887611.html)
+

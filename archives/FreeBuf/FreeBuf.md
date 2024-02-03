@@ -43,3 +43,5 @@
 
 + [SaaS攻击面到底有多大？如何防御常见SaaS攻击技术?](https://www.freebuf.com/news/390429.html)
 
++ [FreeBuf 周报 | 能源巨头施耐德被勒索攻击；7.5 亿印度网络用户数据遭到泄露](https://www.freebuf.com/news/391163.html)
+
