@@ -39,3 +39,7 @@
 
 + [问界 M9 车型累计大定突破 4 万台，赛力斯、华为联合设计](https://m.ithome.com/html/748667.htm)
 
++ [联想小新 2024 锐龙版笔记本预热：整机功耗降低约 30.7%，年后发布](https://m.ithome.com/html/748676.htm)
+
++ [告别诺基亚品牌，HMD 官网更新公布新手机视觉效果](https://m.ithome.com/html/748640.htm)
+
