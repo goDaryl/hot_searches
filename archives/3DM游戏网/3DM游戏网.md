@@ -153,3 +153,7 @@
 
 + [《辐射：伦敦》4月23日发布 开发者称这是辐射4.5](https://www.3dmgame.com/news/202402/3887627.html)
 
++ [《自杀小队》首发同时在线玩家人数峰值仅1.2万](https://www.3dmgame.com/news/202402/3887630.html)
+
++ [《窗台上的蝴蝶》宣传片 现已开放商店页面](https://www.3dmgame.com/news/202402/3887631.html)
+
