@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | 能源巨头施耐德被勒索攻击；7.5 亿印度网络用户数据遭到泄露](https://www.freebuf.com/news/391163.html)
 
++ [利用 SSPI 数据报上下文 bypassUAC](https://www.freebuf.com/articles/web/390924.html)
+
