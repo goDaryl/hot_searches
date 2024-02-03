@@ -129,3 +129,15 @@
 
 + [《模拟人生》对手《Life by You》抢先体验延期到6月](https://www.3dmgame.com/news/202402/3887611.html)
 
++ [凯瑟琳·欧哈拉宣布参演《最后的生还者》第二季](https://www.3dmgame.com/news/202402/3887622.html)
+
++ [《极速滑板》新作确认登陆Steam 主机测试今年开启](https://www.3dmgame.com/news/202402/3887621.html)
+
++ [《最后的生还者2》艾比演员自曝两岁儿子曾收到威胁](https://www.3dmgame.com/news/202402/3887620.html)
+
++ [苹果天价头显Vision Pro首摔 维修要花5750元](https://www.3dmgame.com/news/202402/3887623.html)
+
++ [《自杀小队》画面很差？看看这些4K最高画质截图](https://www.3dmgame.com/news/202402/3887619.html)
+
++ [《幻兽帕鲁》2月服务器费用7千万日元 CEO：要破产了](https://www.3dmgame.com/news/202402/3887618.html)
+
