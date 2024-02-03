@@ -61,3 +61,5 @@
 
 + [苹果 Vision Pro 头显今日开售：全新 3D 界面，首发 3499 美元起](https://m.ithome.com/html/748682.htm)
 
++ [英伟达推出 RTX 3050 6GB 显卡：显存缩水、2304 CUDA + 70W TDP，179 美元](https://m.ithome.com/html/748713.htm)
+
