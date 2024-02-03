@@ -191,3 +191,7 @@
 
 + [《幸福工厂》更新路线图公布 年内发布正式版本](https://www.3dmgame.com/news/202402/3887648.html)
 
++ [小岛秀夫：拔叔将不参与《死亡搁浅2》制作](https://www.3dmgame.com/news/202402/3887650.html)
+
++ [《古墓丽影三部曲：重制版》PS5版容量和预载日期曝光](https://www.3dmgame.com/news/202402/3887649.html)
+
