@@ -195,3 +195,11 @@
 
 + [因尚未发布“新游戏＋”等更新 《漫威蜘蛛侠2》开发人员遭遇网暴力](https://www.3dmgame.com/news/202402/3887700.html)
 
++ [微博发布2023下半年游戏热搜趋势 《王者荣耀》双榜第一](https://www.3dmgame.com/news/202402/3887705.html)
+
++ [《最终幻想7：重生》前作特典展示：召唤兽利维坦](https://www.3dmgame.com/news/202402/3887704.html)
+
++ [《寂静岭2：重制版》新预告与原版对比视频 画面大提升](https://www.3dmgame.com/news/202402/3887706.html)
+
++ [微星CLAW游戏PC掌机实机亮相 预定3月正式上市](https://www.3dmgame.com/news/202402/3887703.html)
+
