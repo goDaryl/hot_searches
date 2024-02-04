@@ -41,3 +41,5 @@
 
 + [江森自控称勒索软件攻击已造成 2700 万美元损失](https://www.freebuf.com/news/391141.html)
 
++ [详解日渐活跃的勒索软件组织：BianLian](https://www.freebuf.com/articles/network/390739.html)
+
