@@ -101,3 +101,13 @@
 
 + [全面认识DOS系统](https://blog.csdn.net/m0_73514785/article/details/136002707)
 
++ [Linux进程信号处理：深入理解与应用（2​​）](https://blog.csdn.net/weixin_64038246/article/details/136027561)
+
++ [【Linux】权限管理](https://blog.csdn.net/hsjsiwkwm/article/details/135894896)
+
++ [使用 LoRA 在 vi​​ggo 数据集上微调 Microsoft phi-2 小语言模型](https://blog.csdn.net/gongdiwudu/article/details/136023333)
+
++ [第七章 过 JDBC 连接 SQL 网关 - 特定于实现的 JDBC 连接选项](https://blog.csdn.net/yaoxin521123/article/details/135985400)
+
++ [【红绿灯识别】基于计算机视觉实现道路信号灯检测识别系统附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/136017508)
+
