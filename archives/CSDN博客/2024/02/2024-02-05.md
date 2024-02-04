@@ -111,3 +111,23 @@
 
 + [【红绿灯识别】基于计算机视觉实现道路信号灯检测识别系统附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/136017508)
 
++ [机器学习 | 解析聚类算法在数据检测中的应用](https://blog.csdn.net/qq_53123067/article/details/136025078)
+
++ [spring boot3x登录开发-上(整合jwt)](https://blog.csdn.net/qq_62262918/article/details/135964626)
+
++ [基于Java+SpringBoot+Vue.js前后端分离户外用品购物商城系统设计和实现 可行性分析](https://blog.csdn.net/u013818205/article/details/135997288)
+
++ [【FFmpeg】ffplay 命令行参数 ④ ( 修改窗口标题 -window_title 参数 | 设置播放循环次数 | 设置显示模式 -showmode 参数 | 设置视频滤镜 -vf 参数 )](https://blog.csdn.net/han1202012/article/details/136007471)
+
++ [静态代理IP是如何助力跨境电商运营的？](https://blog.csdn.net/m0_64336780/article/details/135992587)
+
++ [数据分析：当当网书籍数据可视化分析](https://blog.csdn.net/AOAIYI/article/details/136028346)
+
++ [Elasticsearch：使用 Inference API 进行语义搜索](https://blog.csdn.net/UbuntuTouch/article/details/136028138)
+
++ [从源码角度透视QTcpServer：解构QTcpServer的底层原理与技术细节](https://blog.csdn.net/Long_xu/article/details/135978073)
+
++ [探索Gin框架：Golang使用Gin完成文件上传](https://blog.csdn.net/qq_35716689/article/details/135989080)
+
++ [七月论文审稿GPT第2.5版：微调GPT3.5 turbo 16K和llama2 13B以扩大对GPT4的优势](https://blog.csdn.net/v_JULY_v/article/details/136033055)
+
