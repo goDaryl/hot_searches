@@ -43,3 +43,7 @@
 
 + [详解日渐活跃的勒索软件组织：BianLian](https://www.freebuf.com/articles/network/390739.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/391336.html)
+
++ [FreeBuf早报 | 谷歌的 Bazel 遭到命令注入威胁；印度陆军开发AI社交网络美女间谍](https://www.freebuf.com/news/391289.html)
+

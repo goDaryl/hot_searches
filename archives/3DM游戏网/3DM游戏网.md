@@ -121,3 +121,5 @@
 
 + [反战互动游戏《流离归途》现已登陆Switch和PS平台](https://www.3dmgame.com/news/202402/3887662.html)
 
++ [科乐美考虑将《寂静岭》系列移植到当代主机上](https://www.3dmgame.com/news/202402/3887666.html)
+
