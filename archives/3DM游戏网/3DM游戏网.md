@@ -143,3 +143,13 @@
 
 + [《守望先锋2》第九赛季2月13日上线 预告即将公布](https://www.3dmgame.com/news/202402/3887670.html)
 
++ [《最终幻想7：重生》奖杯列表曝光 包含难度奖杯](https://www.3dmgame.com/news/202402/3887681.html)
+
++ [官方透露科幻叙事冒险游戏《深空梦里人2》开发完成还需一年](https://www.3dmgame.com/news/202402/3887678.html)
+
++ [《泰坦之旅2》新截图和细节公布：有趣地方多 等你发现](https://www.3dmgame.com/news/202402/3887680.html)
+
++ [《碧蓝幻想：Relink》最新更新上线 修复部分问题](https://www.3dmgame.com/news/202402/3887679.html)
+
++ [《蜘蛛夫人：超感觉醒》发“无限潜能”版预告](https://www.3dmgame.com/news/202402/3887677.html)
+
