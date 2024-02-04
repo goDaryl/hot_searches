@@ -55,3 +55,5 @@
 
 + [比亚迪元 UP 内饰官图发布，配 12.8 英寸中控悬浮屏](https://m.ithome.com/html/748838.htm)
 
++ [Counterpoint：2024 年前两周华为重夺中国智能手机市场销量第一](https://m.ithome.com/html/748865.htm)
+
