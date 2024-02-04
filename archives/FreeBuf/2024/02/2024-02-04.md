@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 谷歌的 Bazel 遭到命令注入威胁；印度陆军开发AI社交网络美女间谍](https://www.freebuf.com/news/391289.html)
 
++ [隐私保护那些事](https://www.freebuf.com/consult/390976.html)
+
