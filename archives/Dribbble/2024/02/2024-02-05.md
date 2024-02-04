@@ -49,3 +49,29 @@
 
 + [No Such Luck](https://dribbble.com/shots/)
 
++ [The Bone Wars](https://dribbble.com/shots/)
+
++ [Crackers Package Design](https://dribbble.com/shots/)
+
++ [Chilean Mining Accident](https://dribbble.com/shots/)
+
++ [Oakwood - Online Tutors](https://dribbble.com/shots/)
+
++ [Poindexter Books - Emblem](https://dribbble.com/shots/)
+
++ [How to prepare yourself for emergencies on the road infographic](https://dribbble.com/shots/)
+
++ [The Cutting Garden](https://dribbble.com/shots/)
+
++ [Mushrooms](https://dribbble.com/shots/)
+
++ [Pattern play ????☀️](https://dribbble.com/shots/)
+
++ [Settings × visionOS](https://dribbble.com/shots/)
+
++ [Consume-O-tron](https://dribbble.com/shots/)
+
++ [Rick and Morty](https://dribbble.com/shots/)
+
++ [Creative Help](https://dribbble.com/shots/)
+
