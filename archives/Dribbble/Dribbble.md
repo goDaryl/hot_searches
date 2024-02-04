@@ -75,3 +75,13 @@
 
 + [Creative Help](https://dribbble.com/shots/)
 
++ [Brandi Carlile's 'Girls Just Wanna Weekend' Branding](https://dribbble.com/shots/)
+
++ [Dragon 24](https://dribbble.com/shots/)
+
++ [So Weird](https://dribbble.com/shots/)
+
++ [Ghost](https://dribbble.com/shots/)
+
++ [Glyph Beer 28](https://dribbble.com/shots/)
+
