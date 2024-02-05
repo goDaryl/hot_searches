@@ -101,3 +101,15 @@
 
 + [Indie Wiki Buddy](https://www.producthunt.com/posts/indie-wiki-buddy)
 
++ [Apple Pkl](https://www.producthunt.com/posts/apple-pkl)
+
++ [xtaapp](https://www.producthunt.com/posts/xtaapp)
+
++ [Go Boldly](https://www.producthunt.com/posts/go-boldly)
+
++ [Amazon Rufus](https://www.producthunt.com/posts/amazon-rufus)
+
++ [Lungy: Spaces for Apple Vision Pro](https://www.producthunt.com/posts/lungy-spaces-for-apple-vision-pro)
+
++ [Syncly](https://www.producthunt.com/posts/syncly)
+
