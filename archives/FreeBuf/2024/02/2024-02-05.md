@@ -65,3 +65,5 @@
 
 + [如何使用NimExec通过无文件命令执行实现横向移动](https://www.freebuf.com/sectool/389617.html)
 
++ [香港最大AI诈骗案！Deepfake换脸「英国CFO」，直接骗走公司2亿港币](https://www.freebuf.com/news/391605.html)
+
