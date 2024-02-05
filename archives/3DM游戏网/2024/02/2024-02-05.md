@@ -165,3 +165,29 @@
 
 + [微软考虑在发布数月后在PS5上推出《夺宝奇兵》新作](https://www.3dmgame.com/news/202402/3887756.html)
 
++ [完全自研和安卓划清界限！华为申请鸿蒙星河商标](https://www.3dmgame.com/news/202402/3887769.html)
+
++ [《穿越火线》草莓熊外挂案告破 8名涉案人员落网](https://www.3dmgame.com/news/202402/3887765.html)
+
++ [猫咪探险《冒牌猫谜》Steam试玩发布 预定登陆多平台](https://www.3dmgame.com/news/202402/3887768.html)
+
++ [不仅仅是《星空》 《地狱之刃2》或也将登陆多平台](https://www.3dmgame.com/news/202402/3887767.html)
+
++ [《冬日幸存者》Demo预告 2月29日EA发售](https://www.3dmgame.com/news/202402/3887766.html)
+
++ [《星露谷物语》开发者解释游戏命名契机 是突然想到的](https://www.3dmgame.com/news/202402/3887764.html)
+
++ [Switch港服开启新春游戏促销 《怪物猎人崛起：曙光》折后139元](https://www.3dmgame.com/news/202402/3887763.html)
+
++ [摩尔定律停在28nm 芯片越来越贵的秘密或许找到](https://www.3dmgame.com/news/202402/3887762.html)
+
++ [《深海迷航》开发商数字战棋游戏《破月勇者》推出1.0正式版](https://www.3dmgame.com/news/202402/3887761.html)
+
++ [消息称《原神》官方正在向加拿大作弊工具开发者提请诉讼](https://www.3dmgame.com/news/202402/3887759.html)
+
++ [B社故意把《上古卷轴5》删减内容隐藏 等待Mod作者发掘](https://www.3dmgame.com/news/202402/3887758.html)
+
++ [《宇宙魔弹哥卓普》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3887760.html)
+
++ [《龙珠Z：电光火石0》最早年底发售 新预告即将公布](https://www.3dmgame.com/news/202402/3887757.html)
+
