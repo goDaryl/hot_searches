@@ -107,3 +107,23 @@
 
 + [Sklearn、TensorFlow 与 Keras 机器学习实用指南第三版（八）](https://blog.csdn.net/wizardforcel/article/details/136026192)
 
++ [DockerUI如何部署结合内网穿透实现公网环境管理本地docker容器](https://blog.csdn.net/qq_74415153/article/details/136047867)
+
++ [k8s搭建部署（超详细）](https://blog.csdn.net/qq_43842093/article/details/136017848)
+
++ [基于微信小程序的校园水电费管理小程序的研究与实现](https://blog.csdn.net/2301_77835649/article/details/136031436)
+
++ [85.如何设计高并发系统（缓存、限流、熔断、降级）](https://blog.csdn.net/YouMing_Li/article/details/135993763)
+
++ [OpenCV 图像处理六（傅里叶变换、模板匹配与霍夫变换）](https://blog.csdn.net/m0_74154295/article/details/135983615)
+
++ [池化技术的总结](https://blog.csdn.net/qq_39126115/article/details/136019420)
+
++ [2024年美赛B题潜水器定位和搜救建模代码和完整论文文档](https://blog.csdn.net/qq_45857113/article/details/136003166)
+
++ [【ELM回归预测】基于matlab卷积神经网络结合极限学习机CNN-ELM数据回归预测【含Matlab源码 3902期】](https://blog.csdn.net/TIQCmatlab/article/details/136017792)
+
++ [数据挖掘实战-基于决策树算法构建北京市空气质量预测模型](https://blog.csdn.net/m0_64336780/article/details/135408959)
+
++ [如何部署Node.js服务并实现无公网ip远程访问本地项目【内网穿透】](https://blog.csdn.net/m0_69984273/article/details/136002939)
+
