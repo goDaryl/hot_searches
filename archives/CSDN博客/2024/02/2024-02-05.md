@@ -131,3 +131,5 @@
 
 + [七月论文审稿GPT第2.5版：微调GPT3.5 turbo 16K和llama2 13B以扩大对GPT4的优势](https://blog.csdn.net/v_JULY_v/article/details/136033055)
 
++ [挑战杯 opencv 图像识别 指纹识别 - python](https://blog.csdn.net/laafeer/article/details/136010558)
+

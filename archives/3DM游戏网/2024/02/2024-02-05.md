@@ -115,3 +115,21 @@
 
 + [寒冬生存模拟游戏《冬日幸存者》推出试玩版](https://www.3dmgame.com/news/202402/3887728.html)
 
++ [驾驶游戏《全速以赴》Steam页面上线 2024年第三季度发售](https://www.3dmgame.com/news/202402/3887738.html)
+
++ [《大侠立志传》春节前夕更新 开放西域新增通天塔等](https://www.3dmgame.com/news/202402/3887739.html)
+
++ [科乐美宣布将推出游戏《游戏王早期合集》 2024年发售](https://www.3dmgame.com/news/202402/3887737.html)
+
++ [《漫威蜘蛛侠2》非官方PC移植版演示 看起来不错](https://www.3dmgame.com/news/202402/3887736.html)
+
++ [为打击黄牛 梵高联名“戴毡帽的皮卡丘”卡牌将重新上架](https://www.3dmgame.com/news/202402/3887735.html)
+
++ [PS4模拟器fpPS4现在可以在PC上运行144款游戏](https://www.3dmgame.com/news/202402/3887740.html)
+
++ [恐怖游戏《Hollowbody》试玩Demo上线Steam](https://www.3dmgame.com/news/202402/3887734.html)
+
++ [《Echoes of Empire》PC平台免费发布 科幻策略新游](https://www.3dmgame.com/news/202402/3887733.html)
+
++ [《自杀小队：战胜正义联盟》Steam峰值不及《漫威复仇者联盟》一半](https://www.3dmgame.com/news/202402/3887732.html)
+

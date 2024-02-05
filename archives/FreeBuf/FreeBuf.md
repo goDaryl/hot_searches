@@ -43,3 +43,5 @@
 
 + [Phobos 勒索软件变种 FAUST 再度活跃](https://www.freebuf.com/articles/network/390818.html)
 
++ [FreeBuf早报 | 上海网信办约谈“半天妖烤鱼”运营企业；联通成立安全子公司](https://www.freebuf.com/news/391412.html)
+
