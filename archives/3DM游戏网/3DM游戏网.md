@@ -281,3 +281,7 @@
 
 + [iPhone 16 Pro或有更大机身 苹果也会升级摄像头功能](https://www.3dmgame.com/news/202402/3887814.html)
 
++ [《最终幻想14》Xbox Series需要订阅XGP Core](https://www.3dmgame.com/news/202402/3887816.html)
+
++ [微星掌机Claw国行价格公布 5299元起](https://www.3dmgame.com/news/202402/3887815.html)
+
