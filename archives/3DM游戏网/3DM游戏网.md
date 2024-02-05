@@ -147,3 +147,21 @@
 
 + [《最终幻想7：重生》媒体评分预计2月22日解禁](https://www.3dmgame.com/news/202402/3887747.html)
 
++ [2024 Steam新品节即将开始 活动将包含数百款试玩版游戏](https://www.3dmgame.com/news/202402/3887748.html)
+
++ [《麻辣教师GTO 复活》4月1日开播 反町隆史主演](https://www.3dmgame.com/news/202402/3887751.html)
+
++ [粉丝耗费10年在《星际争霸2》中重制初代游戏](https://www.3dmgame.com/news/202402/3887749.html)
+
++ [《死亡搁浅2》游戏全新截图公布 顶级视觉盛宴！](https://www.3dmgame.com/news/202402/3887752.html)
+
++ [《史努比敬献：欢迎回家,富兰克林》预告公布 2月16日发售](https://www.3dmgame.com/news/202402/3887750.html)
+
++ [肉鸽卡牌构筑游戏《骰子浪游者》Demo上线 发售日期待定](https://www.3dmgame.com/news/202402/3887753.html)
+
++ [《寿司水族馆》免费登陆VRChat 虚拟欣赏美丽世界鱼类](https://www.3dmgame.com/news/202402/3887754.html)
+
++ [《幻兽帕鲁》BUG让玩家无意中获得基地大小的帕鲁](https://www.3dmgame.com/news/202402/3887755.html)
+
++ [微软考虑在发布数月后在PS5上推出《夺宝奇兵》新作](https://www.3dmgame.com/news/202402/3887756.html)
+
