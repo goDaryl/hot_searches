@@ -49,3 +49,29 @@
 
 + [Pattern play ????☀️](https://dribbble.com/shots/)
 
++ [How to prepare yourself for emergencies on the road infographic](https://dribbble.com/shots/)
+
++ [Summer at the Beach Icons](https://dribbble.com/shots/)
+
++ [???? Little Train (part 1)](https://dribbble.com/shots/)
+
++ [Campobello Whale Rescue Team](https://dribbble.com/shots/)
+
++ [Oakwood - Online Tutors](https://dribbble.com/shots/)
+
++ [Crackers Package Design](https://dribbble.com/shots/)
+
++ [MEISENPRESS Halftone Processing Kit](https://dribbble.com/shots/)
+
++ [So Weird](https://dribbble.com/shots/)
+
++ [No Such Luck](https://dribbble.com/shots/)
+
++ [Camp & Go Poster](https://dribbble.com/shots/)
+
++ [Fashion Logo Collection - Logofolio](https://dribbble.com/shots/)
+
++ [AARP Seattle - Robo Calls](https://dribbble.com/shots/)
+
++ [Rendezvous Music Fest](https://dribbble.com/shots/)
+
