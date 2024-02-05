@@ -53,3 +53,7 @@
 
 + [前脸“胡子”车灯改了，比亚迪新款腾势 N7 亮相](https://m.ithome.com/html/749027.htm)
 
++ [领克 07 EM-P 无伪装实车曝光：全新设计语言首款中型轿车](https://m.ithome.com/html/748935.htm)
+
++ [李想回应“年终奖有点大”：奖罚不分明，才是组织低效的最大原因](https://m.ithome.com/html/749100.htm)
+
