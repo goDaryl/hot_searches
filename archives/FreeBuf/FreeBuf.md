@@ -57,3 +57,7 @@
 
 + [APP安全 | 移动应用隐私合规现状分析](https://www.freebuf.com/articles/endpoint/390502.html)
 
++ [安全研究员发现漏洞群，允许黑客逃离 Docker 和 runc 容器](https://www.freebuf.com/news/391525.html)
+
++ [Okta、Proofpoint等知名安全厂商开启裁员](https://www.freebuf.com/news/391503.html)
+
