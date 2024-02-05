@@ -133,3 +133,17 @@
 
 + [《自杀小队：战胜正义联盟》Steam峰值不及《漫威复仇者联盟》一半](https://www.3dmgame.com/news/202402/3887732.html)
 
++ [《Fate/Samurai Remnant》首个DLC宣布2月9日发售](https://www.3dmgame.com/news/202402/3887741.html)
+
++ [顽皮狗：确实曾大量加班问题 未来不会这么做了](https://www.3dmgame.com/news/202402/3887742.html)
+
++ [《如龙》制作人解释如何在《GTA》两作发售间隔做出10款游戏](https://www.3dmgame.com/news/202402/3887743.html)
+
++ [《宝可梦：朱紫》新泰拉挑战2月12日启动  强力爱心鱼参战](https://www.3dmgame.com/news/202402/3887744.html)
+
++ [量大管饱！古风暗黑类刷子游戏《神灵石之劫》今日发售！](https://www.3dmgame.com/news/202402/3887745.html)
+
++ [《完蛋我被美女包围》首个DLC今日发售 三大美女上线](https://www.3dmgame.com/news/202402/3887746.html)
+
++ [《最终幻想7：重生》媒体评分预计2月22日解禁](https://www.3dmgame.com/news/202402/3887747.html)
+

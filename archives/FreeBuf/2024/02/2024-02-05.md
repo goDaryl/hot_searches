@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 上海网信办约谈“半天妖烤鱼”运营企业；联通成立安全子公司](https://www.freebuf.com/news/391412.html)
 
++ [新型工业化进程网络安全保障—企业响应工业控制系统网络安全防护指南要求的实践指引](https://www.freebuf.com/articles/ics-articles/391263.html)
+
