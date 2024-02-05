@@ -107,3 +107,11 @@
 
 + [手绘农场模拟游戏《青蛙庇护所》发布试玩版](https://www.3dmgame.com/news/202402/3887726.html)
 
++ [《星球大战绝地：幸存者》赢得格莱美游戏配乐奖](https://www.3dmgame.com/news/202402/3887731.html)
+
++ [消息称《星空》首个DLC推出后将登陆PS5](https://www.3dmgame.com/news/202402/3887730.html)
+
++ [爱好者发布《超级马里奥64》洛克人X MOD正式版](https://www.3dmgame.com/news/202402/3887729.html)
+
++ [寒冬生存模拟游戏《冬日幸存者》推出试玩版](https://www.3dmgame.com/news/202402/3887728.html)
+

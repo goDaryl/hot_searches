@@ -41,3 +41,5 @@
 
 + [黑客利用 Okta 攻击中窃取到的授权令牌，攻击 Cloudflare](https://www.freebuf.com/news/391275.html)
 
++ [Phobos 勒索软件变种 FAUST 再度活跃](https://www.freebuf.com/articles/network/390818.html)
+

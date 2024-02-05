@@ -69,3 +69,7 @@
 
 + [【地狱客栈/中文翻唱】为爱而战—Out for love【凰裳】](http://www.acfun.cn/v/ac43700623)
 
++ [恭喜发财，但是好运来！](http://www.acfun.cn/v/ac43694167)
+
++ [【柯基】郑少秋经典歌曲《摘下满天星》](http://www.acfun.cn/v/ac43701930)
+
