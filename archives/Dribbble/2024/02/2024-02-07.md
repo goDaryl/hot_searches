@@ -65,3 +65,11 @@
 
 + ["Picnic collective" logo and characters](https://dribbble.com/shots/)
 
++ [So Weird](https://dribbble.com/shots/)
+
++ [Campobello Whale Rescue Team](https://dribbble.com/shots/)
+
++ [Consume-O-tron](https://dribbble.com/shots/)
+
++ [Case Study: Ammons Poems Website](https://dribbble.com/shots/)
+
