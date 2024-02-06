@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 欧盟27国一致支持人工智能法案；AnyDesk登录凭证已在暗网上出售](https://www.freebuf.com/news/391568.html)
 
++ [ALL-IN-ONE 拼图补全计划之：Webshell 管理](https://www.freebuf.com/articles/web/390254.html)
+
