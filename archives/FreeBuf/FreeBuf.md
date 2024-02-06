@@ -51,3 +51,7 @@
 
 + [最新的 Ivanti SSRF 零日漏洞正在被大规模利用](https://www.freebuf.com/news/391652.html)
 
++ [微软 Outlook 更新补丁触发 ICS 安全警报](https://www.freebuf.com/news/391656.html)
+
++ [全网最详细的Struts2-066漏洞分析（CVE-2023-50164）](https://www.freebuf.com/vuls/390624.html)
+
