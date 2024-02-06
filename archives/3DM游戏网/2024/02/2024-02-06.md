@@ -189,3 +189,9 @@
 
 + [Xbox港版春节宣传片 马来西亚女星林明祯出演](https://www.3dmgame.com/news/202402/3887860.html)
 
++ [微软又弹广告提醒Win10用户：新系统免费好用速度快](https://www.3dmgame.com/news/202402/3887868.html)
+
++ [分析称《龙之信条2》主机不锁30帧 目标为60帧](https://www.3dmgame.com/news/202402/3887866.html)
+
++ [虚幻5恐怖合作FPS《恶魔失眠》新品节推出试玩](https://www.3dmgame.com/news/202402/3887867.html)
+
