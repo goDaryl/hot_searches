@@ -171,3 +171,7 @@
 
 + [Bloks](https://www.producthunt.com/posts/bloks-2)
 
++ [Note Hacker](https://www.producthunt.com/posts/note-hacker)
+
++ [GiGFi](https://www.producthunt.com/posts/gigfi)
+

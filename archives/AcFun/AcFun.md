@@ -141,3 +141,13 @@
 
 + [Stellar-《刺痛Sting》](http://www.acfun.cn/v/ac43707386)
 
++ [点进来的都发大财！预祝大家新年快乐！《大喜》翻跳](http://www.acfun.cn/v/ac43704059)
+
++ [Girls Day -《Something》](http://www.acfun.cn/v/ac43707293)
+
++ [这是什么！再回首！](http://www.acfun.cn/v/ac43715714)
+
++ [【林小C】《天涯歌女》中国风爵士翻跳 还有资格参选大上海台柱子吗](http://www.acfun.cn/v/ac43713448)
+
++ [老娘闪亮登场](http://www.acfun.cn/v/ac43710154)
+
