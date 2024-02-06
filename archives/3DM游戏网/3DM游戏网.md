@@ -111,3 +111,13 @@
 
 + [《赤痕：夜之仪式》新DLC让女主变身桑塔](https://www.3dmgame.com/news/202402/3887823.html)
 
++ [业内人士再次预测任天堂本周召开直面会](https://www.3dmgame.com/news/202402/3887831.html)
+
++ [诡异冒险游戏《印蒂卡》发布新预告 上线试玩版](https://www.3dmgame.com/news/202402/3887830.html)
+
++ [《部落3：对抗》Steam新品节期间开启抢鲜体验](https://www.3dmgame.com/news/202402/3887829.html)
+
++ [《午夜杀生 重制版》发布多人预告确定全平台](https://www.3dmgame.com/news/202402/3887828.html)
+
++ [双摇杆肉鸽射击游戏《幸存几何学》2月21日发售](https://www.3dmgame.com/news/202402/3887827.html)
+
