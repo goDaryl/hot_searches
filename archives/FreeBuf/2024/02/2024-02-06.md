@@ -59,3 +59,5 @@
 
 + [英国正推动《调查权力法案》更新，涉及大规模收集用户数据](https://www.freebuf.com/news/391658.html)
 
++ [企业安全建设 | 体系规划思路](https://www.freebuf.com/articles/security-management/389597.html)
+
