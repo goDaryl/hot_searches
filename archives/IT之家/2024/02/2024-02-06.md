@@ -33,3 +33,9 @@
 
 + [消息称一加骁龙 8 Gen 4 新机有望调整家族式设计](https://m.ithome.com/html/749080.htm)
 
++ [消息称华为正研发“三折叠屏手机”，最快二季度上市](https://m.ithome.com/html/749091.htm)
+
++ [赛力斯超级工厂建成使用：拥有 9000T 压铸机，问界 M9 首批车主开启交付](https://m.ithome.com/html/749114.htm)
+
++ [BAT 烧钱败退，上海互联网翻身](https://m.ithome.com/html/749113.htm)
+
