@@ -151,3 +151,15 @@
 
 + [SmartChat Assistant](https://www.producthunt.com/posts/smartchat-assistant)
 
++ [Kompas AI](https://www.producthunt.com/posts/kompas-ai)
+
++ [Quicky AI v2](https://www.producthunt.com/posts/quicky-ai-v2)
+
++ [Divinate](https://www.producthunt.com/posts/divinate)
+
++ [SearchApi](https://www.producthunt.com/posts/searchapi)
+
++ [Pitchsail](https://www.producthunt.com/posts/pitchsail)
+
++ [AI Landing Page Builder](https://www.producthunt.com/posts/ai-landing-page-builder)
+
