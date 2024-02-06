@@ -55,3 +55,7 @@
 
 + [全网最详细的Struts2-066漏洞分析（CVE-2023-50164）](https://www.freebuf.com/vuls/390624.html)
 
++ [Aladdin：一款功能强大的.NET Payload反序列化和内存执行工具](https://www.freebuf.com/sectool/389616.html)
+
++ [英国正推动《调查权力法案》更新，涉及大规模收集用户数据](https://www.freebuf.com/news/391658.html)
+

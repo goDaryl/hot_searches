@@ -209,3 +209,5 @@
 
 + [模拟恋爱的全动态真人互动影像作品《请做coser的主人》Steam页面上线 2月发售](https://www.3dmgame.com/news/202402/3887870.html)
 
++ [Intel 18A工艺拿下大单 代工64核心Arm处理器](https://www.3dmgame.com/news/202402/3887876.html)
+
