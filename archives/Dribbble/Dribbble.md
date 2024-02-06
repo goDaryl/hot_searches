@@ -49,3 +49,19 @@
 
 + [Sssssstrike](https://dribbble.com/shots/)
 
++ [Philosopher Portraits (Engraving) III](https://dribbble.com/shots/)
+
++ [Paradise Island ????](https://dribbble.com/shots/)
+
++ [No Such Luck](https://dribbble.com/shots/)
+
++ [???? Little Train (part 1)](https://dribbble.com/shots/)
+
++ [Oakwood - Online Tutors](https://dribbble.com/shots/)
+
++ [Pattern play ????☀️](https://dribbble.com/shots/)
+
++ [Camp & Go Poster](https://dribbble.com/shots/)
+
++ ["Picnic collective" logo and characters](https://dribbble.com/shots/)
+
