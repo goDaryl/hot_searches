@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 香港最大AI诈骗案；针对Ivanti SSRF漏洞的攻击数量激增](https://www.freebuf.com/news/391677.html)
 
++ [波音遭遇勒索攻击事件分析复盘——定向勒索的威胁趋势分析与防御思考](https://www.freebuf.com/articles/network/389914.html)
+
