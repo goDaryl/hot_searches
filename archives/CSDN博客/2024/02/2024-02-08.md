@@ -121,3 +121,9 @@
 
 + [ONLYOFFICE桌面编辑器8.0新特性：PDF表单、RTL支持、Moodle集成、本地界面主题等](https://blog.csdn.net/air__Heaven/article/details/136056265)
 
++ [一文读懂｜Apollo自动驾驶平台9.0全面解读](https://blog.csdn.net/Gabriel100yi/article/details/136075561)
+
++ [深度神经网络中的BNN和DNN：基于存内计算的原理、实现与能量效率](https://blog.csdn.net/Why_does_it_work/article/details/136041792)
+
++ [OnlyOffice：释放无限创意，打造高效协作新体验](https://blog.csdn.net/YOU__FEI/article/details/136001145)
+
