@@ -127,3 +127,5 @@
 
 + [机器学习---概率图模型（隐马尔可夫模型、马尔可夫随机场、条件随机场）](https://blog.csdn.net/weixin_43961909/article/details/136035960)
 
++ [Spring Boot整合新版Spring Security：Lambda表达式配置优雅安全](https://blog.csdn.net/qq_43546721/article/details/136054719)
+
