@@ -141,3 +141,17 @@
 
 + [CodeDesign.AI for your WordPress website](https://www.producthunt.com/posts/codedesign-ai-for-your-wordpress-website)
 
++ [Squidler.io](https://www.producthunt.com/posts/squidler-io)
+
++ [WP Copy Defender - WordPress Plugin](https://www.producthunt.com/posts/wp-copy-defender-wordpress-plugin)
+
++ [Movie Me!](https://www.producthunt.com/posts/movie-me)
+
++ [Works](https://www.producthunt.com/posts/works)
+
++ [Chunk](https://www.producthunt.com/posts/chunk)
+
++ [Public Holiday app for Slack](https://www.producthunt.com/posts/public-holiday-app-for-slack)
+
++ [Agent Gold AI](https://www.producthunt.com/posts/agent-gold-ai)
+
