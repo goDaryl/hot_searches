@@ -101,3 +101,43 @@
 
 + [Dorik AI (Beta)](https://www.producthunt.com/posts/dorik-ai-beta)
 
++ [Coursnap](https://www.producthunt.com/posts/coursnap)
+
++ [Session Replay by Amplitude](https://www.producthunt.com/posts/session-replay-by-amplitude)
+
++ [AI Text, PDF Summarizer](https://www.producthunt.com/posts/ai-text-pdf-summarizer)
+
++ [Nx Agents](https://www.producthunt.com/posts/nx-agents)
+
++ [AgentHub](https://www.producthunt.com/posts/agenthub)
+
++ [Bluesky](https://www.producthunt.com/posts/bluesky-3)
+
++ [InstaWP Live](https://www.producthunt.com/posts/instawp-live)
+
++ [Figma to Shopify with Instant](https://www.producthunt.com/posts/figma-to-shopify-with-instant)
+
++ [Screen Grab](https://www.producthunt.com/posts/screen-grab)
+
++ [Peliqan](https://www.producthunt.com/posts/peliqan-2)
+
++ [ImgGen AI](https://www.producthunt.com/posts/imggen-ai)
+
++ [Coze](https://www.producthunt.com/posts/coze)
+
++ [Guide Magnet](https://www.producthunt.com/posts/guide-magnet)
+
++ [Linga](https://www.producthunt.com/posts/linga)
+
++ [Zuko Form Builder](https://www.producthunt.com/posts/zuko-form-builder)
+
++ [SalesQL LinkedIn Email Extractor](https://www.producthunt.com/posts/salesql-linkedin-email-extractor)
+
++ [Trademark Owl](https://www.producthunt.com/posts/trademark-owl)
+
++ [Coefficient for Excel](https://www.producthunt.com/posts/coefficient-for-excel)
+
++ [Axon](https://www.producthunt.com/posts/axon)
+
++ [CodeDesign.AI for your WordPress website](https://www.producthunt.com/posts/codedesign-ai-for-your-wordpress-website)
+

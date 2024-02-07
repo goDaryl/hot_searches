@@ -231,3 +231,7 @@
 
 + [《女神异闻录3 Reload》重制很谨慎：经典不会过时要保留](https://www.3dmgame.com/news/202402/3887966.html)
 
++ [2024农历新年特卖：欢喜折扣闹新年 宝藏游戏大集结](https://www.3dmgame.com/news/202402/3887977.html)
+
++ [任天堂Switch超越NDS 成为日本销量最高的游戏机](https://www.3dmgame.com/news/202402/3887976.html)
+

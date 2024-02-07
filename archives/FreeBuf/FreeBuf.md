@@ -65,3 +65,5 @@
 
 + [NetProbe：一款功能强大的网络设备扫描与探测工具](https://www.freebuf.com/sectool/389618.html)
 
++ [2023 年教育行业勒索软件激增70%](https://www.freebuf.com/articles/network/390823.html)
+
