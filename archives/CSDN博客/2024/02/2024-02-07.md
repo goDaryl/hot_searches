@@ -149,3 +149,7 @@
 
 + [GPT-1, GPT-2, GPT-3, GPT-3.5, GPT-4论文内容解读](https://blog.csdn.net/BGoodHabit/article/details/130134446)
 
++ [【Linux取经路】探寻shell的实现原理](https://blog.csdn.net/weixin_63115236/article/details/135999262)
+
++ [【SpringBoot篇】解决Redis分布式锁的 误删问题 和 原子性问题](https://blog.csdn.net/m0_72853403/article/details/136066682)
+

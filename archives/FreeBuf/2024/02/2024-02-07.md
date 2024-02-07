@@ -51,3 +51,9 @@
 
 + [Linux基金会、AWS、思科、IBM等巨头成立后量子密码学联盟](https://www.freebuf.com/news/391747.html)
 
++ [国家邮政局发布《寄递服务用户个人信息安全管理办法（征求意见稿）》](https://www.freebuf.com/news/391757.html)
+
++ [2023年华为关注的10个最具“格调”的漏洞](https://www.freebuf.com/news/391758.html)
+
++ [浅谈js在挖掘CNVD通用漏洞中的思路，附实战案例](https://www.freebuf.com/articles/web/390857.html)
+
