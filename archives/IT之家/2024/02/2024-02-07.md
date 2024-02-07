@@ -63,3 +63,5 @@
 
 + [2025 款保时捷 Taycan 发布，续航更长、充电更快、性能更强](https://m.ithome.com/html/749367.htm)
 
++ [小米 Redmi G Pro 27 英寸显示器上架：1152 分区 Mini LED，预售 2199 元](https://m.ithome.com/html/749479.htm)
+
