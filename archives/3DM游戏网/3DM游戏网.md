@@ -167,3 +167,25 @@
 
 + [韩国生存恐怖游戏《SAVE》新截图 游船即将沉没速逃生](https://www.3dmgame.com/news/202402/3887938.html)
 
++ [国产好评佳作《学园构想家》春节大更新 Steam史低!](https://www.3dmgame.com/news/202402/3887953.html)
+
++ [《光环》真人剧演员：直接看第二季也完全没关系](https://www.3dmgame.com/news/202402/3887952.html)
+
++ [复古像素RPG《星之海》steam好评率88%，游戏后续将迎来中文本地化重置！](https://www.3dmgame.com/news/202402/3887954.html)
+
++ [《星刃》总监确认女主体模是申在恩：她的身材太完美](https://www.3dmgame.com/news/202402/3887951.html)
+
++ [模拟经营游戏《糖果店模拟器》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3887950.html)
+
++ [科乐美透露 正在为《游戏王》系列开发全新的AI技术](https://www.3dmgame.com/news/202402/3887949.html)
+
++ [《李尸朝鲜：血脉》试玩Demo推出 感受韩国固有的美](https://www.3dmgame.com/news/202402/3887945.html)
+
++ [模拟经营《野生动物救援模拟器》Steam页面上线 明年发售](https://www.3dmgame.com/news/202402/3887948.html)
+
++ [PS5游戏《星刃》有望联动手游《妮姬：胜利女神》](https://www.3dmgame.com/news/202402/3887947.html)
+
++ [《海扁王》导演新作已悄悄进行拍摄 锤哥加盟](https://www.3dmgame.com/news/202402/3887946.html)
+
++ [冒险游戏《猩红梦魇》Steam页面上线 第二季度发售](https://www.3dmgame.com/news/202402/3887944.html)
+
