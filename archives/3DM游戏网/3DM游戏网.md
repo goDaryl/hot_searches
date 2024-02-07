@@ -189,3 +189,17 @@
 
 + [冒险游戏《猩红梦魇》Steam页面上线 第二季度发售](https://www.3dmgame.com/news/202402/3887944.html)
 
++ [《怪奇物语》主演认为主角团应该有人死掉剧集才会更好](https://www.3dmgame.com/news/202402/3887959.html)
+
++ [《星刃》总监：被叫“韩国尼尔”很荣幸 是横尾太郎粉丝](https://www.3dmgame.com/news/202402/3887960.html)
+
++ [黄仁勋入选美国工程院院士 以后大家请称“黄院士”！](https://www.3dmgame.com/news/202402/3887961.html)
+
++ [快节奏射击游戏《太空熊》现已推出试玩Demo 3月23日正式推出](https://www.3dmgame.com/news/202402/3887956.html)
+
++ [可爱休闲经营《水豚咖啡厅》Steam新品节推出试玩Demo](https://www.3dmgame.com/news/202402/3887957.html)
+
++ [传闻：下一代Xbox有望2026年发布 包含掌机和主机](https://www.3dmgame.com/news/202402/3887955.html)
+
++ [《绝密：法国‘44年》预购开启 3月6日正式发售](https://www.3dmgame.com/news/202402/3887958.html)
+
