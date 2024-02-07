@@ -65,3 +65,7 @@
 
 + [小米 Redmi G Pro 27 英寸显示器上架：1152 分区 Mini LED，预售 2199 元](https://m.ithome.com/html/749479.htm)
 
++ [IT之家 iOS / 安卓版 8.85 更新：适配 Vision Pro 及其小尾巴、安卓分屏支持](https://m.ithome.com/html/749446.htm)
+
++ [原抖音集团 CEO 张楠内部信曝光：剪映潜力大，不全力试一次会遗憾](https://m.ithome.com/html/749472.htm)
+
