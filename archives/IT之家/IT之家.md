@@ -45,3 +45,7 @@
 
 + [机械革命无界 14 Pro 笔记本降价至 3999 元：AMD R7-7840HS 处理器、16+1T 存储](https://m.ithome.com/html/749283.htm)
 
++ [硕士学历黄仁勋，现在是院士了](https://m.ithome.com/html/749435.htm)
+
++ [5800 多名特斯拉散户力挺马斯克，支持 2018 年薪酬计划](https://m.ithome.com/html/749351.htm)
+
