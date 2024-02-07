@@ -155,3 +155,17 @@
 
 + [Agent Gold AI](https://www.producthunt.com/posts/agent-gold-ai)
 
++ [Galileo AI](https://www.producthunt.com/posts/galileo-ai-2)
+
++ [Offramps.eth - Send USDC to ENS, get USD](https://www.producthunt.com/posts/offramps-eth-send-usdc-to-ens-get-usd)
+
++ [Techy Domains](https://www.producthunt.com/posts/techy-domains)
+
++ [Gainium](https://www.producthunt.com/posts/gainium)
+
++ [Underpay: Price Drop Alerts](https://www.producthunt.com/posts/underpay-price-drop-alerts)
+
++ [EasyReview](https://www.producthunt.com/posts/easyreview)
+
++ [enygmah](https://www.producthunt.com/posts/enygmah)
+
