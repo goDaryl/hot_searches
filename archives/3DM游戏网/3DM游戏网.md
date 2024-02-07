@@ -205,3 +205,9 @@
 
 + [4人联机派对游戏《星引擎 Party》已在新品节推出试玩Demo](https://www.3dmgame.com/news/202402/3887962.html)
 
++ [《幻兽帕鲁》推出0.1.4.1更新 修复翠叶鼠雕像反效果等问题](https://www.3dmgame.com/news/202402/3887964.html)
+
++ [法拉利测试特斯拉Model S Plaid 为纯电超跑做准备](https://www.3dmgame.com/news/202402/3887965.html)
+
++ [格斗游戏大赛EVO 2024游戏阵容公布：《铁拳8》等](https://www.3dmgame.com/news/202402/3887963.html)
+

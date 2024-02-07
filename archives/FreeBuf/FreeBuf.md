@@ -57,3 +57,5 @@
 
 + [浅谈js在挖掘CNVD通用漏洞中的思路，附实战案例](https://www.freebuf.com/articles/web/390857.html)
 
++ [法国医疗服务公司遭遇攻击，2000万被保人信息面临安全风险](https://www.freebuf.com/news/391763.html)
+
