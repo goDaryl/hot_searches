@@ -101,3 +101,23 @@
 
 + [【实习】路由与交换-网络安全生产实习（计算机网络）](https://blog.csdn.net/weixin_51338719/article/details/136036131)
 
++ [linux docker 部署mysql8以上版本时弹出Access denied for user root @ localhost (using password: YES)的解决方案](https://blog.csdn.net/YouwarmheartJun/article/details/136074316)
+
++ [Spring Boot3整合Redis](https://blog.csdn.net/qq_62262918/article/details/136067550)
+
++ [【Docker】Docker Image(镜像)](https://blog.csdn.net/m0_67595314/article/details/136026041)
+
++ [数据挖掘实战-基于决策树算法构建北京市空气质量预测模型](https://blog.csdn.net/m0_64336780/article/details/135408959)
+
++ [Spark大数据分析与实战笔记（第三章 Spark RDD弹性分布式数据集-01）](https://blog.csdn.net/u014727709/article/details/136032936)
+
++ [vue3：24—组件通信方式](https://blog.csdn.net/qq_37899792/article/details/136061267)
+
++ [群晖NAS开启FTP服务结合内网穿透实现公网远程访问本地服务](https://blog.csdn.net/qq_57761637/article/details/136039536)
+
++ [深度测评：ONLYOFFICE 桌面编辑器 v8.0新功能](https://blog.csdn.net/weixin_58070962/article/details/136070163)
+
++ [搜索引擎DuckDuckGo代理指南](https://blog.csdn.net/ecommerce_Amazon/article/details/136056313)
+
++ [ONLYOFFICE桌面编辑器8.0新特性：PDF表单、RTL支持、Moodle集成、本地界面主题等](https://blog.csdn.net/air__Heaven/article/details/136056265)
+

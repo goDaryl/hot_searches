@@ -93,3 +93,9 @@
 
 + [Hangar Sisters Logo Design](https://dribbble.com/shots/)
 
++ [Misc. icons](https://dribbble.com/shots/)
+
++ [So Weird](https://dribbble.com/shots/)
+
++ [The Bone Wars](https://dribbble.com/shots/)
+
