@@ -123,3 +123,9 @@
 
 + [《星位继承者》开发商RPG新作《Lost Hellden》公开](https://www.3dmgame.com/news/202402/3888008.html)
 
++ [微软收购动视暴雪后裁员引争议 FTC指责其违背承诺](https://www.3dmgame.com/news/202402/3888015.html)
+
++ [《生化危机》系列Steam国区价格永降 7代99元](https://www.3dmgame.com/news/202402/3888016.html)
+
++ [《家园3》延期至5月14日发售 将使用D加密技术](https://www.3dmgame.com/news/202402/3888014.html)
+

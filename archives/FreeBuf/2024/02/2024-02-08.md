@@ -43,3 +43,5 @@
 
 + [只勒索64美元，勒索软件新秀（Albabat）闪亮登场](https://www.freebuf.com/articles/network/390928.html)
 
++ [FreeBuf早报 | 联盟签署间谍软件责任承诺书；法国医疗服务公司Viamedis数据泄露](https://www.freebuf.com/news/391764.html)
+
