@@ -143,3 +143,13 @@
 
 + [SpringCloud-Eureka原理分析](https://blog.csdn.net/weixin_41793160/article/details/136075112)
 
++ [【机器学习】机器学习流程之收集数据](https://blog.csdn.net/m0_74195174/article/details/136067964)
+
++ [MoE-LLaVA:具有高效缩放和多模态专业知识的大型视觉语言模型](https://blog.csdn.net/m0_46510245/article/details/136065867)
+
++ [神经网络与深度学习 Neural Networks and Deep Learning 课程笔记 第一周](https://blog.csdn.net/yijing_jia/article/details/136061202)
+
++ [【软件设计师】普及软件知识产权中的著作权保护](https://blog.csdn.net/CSBIGDOG/article/details/136065492)
+
++ [【RT-DETR进阶实战】利用RT-DETR进行视频划定区域目标统计计数](https://blog.csdn.net/java1314777/article/details/136075822)
+
