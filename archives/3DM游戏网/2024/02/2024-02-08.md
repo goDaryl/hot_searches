@@ -223,3 +223,5 @@
 
 + [《漫威蜘蛛侠3》泄密 女蜘蛛侠蛛丝或成为新可玩角色](https://www.3dmgame.com/news/202402/3888061.html)
 
++ [《绝地潜兵2》Steam在线超5.6万 游戏评价褒贬不一](https://www.3dmgame.com/news/202402/3888065.html)
+
