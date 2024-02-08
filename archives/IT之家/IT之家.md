@@ -43,3 +43,9 @@
 
 + [消息称苹果正制造可折叠 iPhone 手机：至少两款原型机，处于早期开发阶段](https://m.ithome.com/html/749533.htm)
 
++ [澳大利亚将立法允许公司员工下班与雇主“断联”，且不受公司处罚](https://m.ithome.com/html/749510.htm)
+
++ [触动网民神经：美国一女子化疗后收到推广火葬邮件](https://m.ithome.com/html/749569.htm)
+
++ [涨价 160 美元，消息称苹果 11/13 英寸 OLED iPad Pro 起价 959/1259 美元](https://m.ithome.com/html/749449.htm)
+

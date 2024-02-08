@@ -49,3 +49,5 @@
 
 + [中央网信办、教育部评选，16所高校入选](https://www.freebuf.com/news/391811.html)
 
++ [CodeQL从入门到入土](https://www.freebuf.com/articles/web/391242.html)
+
