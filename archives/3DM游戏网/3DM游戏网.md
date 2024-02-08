@@ -111,3 +111,15 @@
 
 + [《星空》新升级已在Steam Beta上线 加入FSR3/Xess](https://www.3dmgame.com/news/202402/3888004.html)
 
++ [迪士尼宣布《海洋奇缘2》11月27日上映](https://www.3dmgame.com/news/202402/3888013.html)
+
++ [《铁拳》官方视频1分钟带你回顾系列剧情](https://www.3dmgame.com/news/202402/3888012.html)
+
++ [《火箭联盟》与《曼达洛人》开展限时联动](https://www.3dmgame.com/news/202402/3888011.html)
+
++ [微软似乎将为XGP改名 引发玩家猜测](https://www.3dmgame.com/news/202402/3888010.html)
+
++ [迪士尼投资Epic15亿美元打造全新游戏和娱乐宇宙](https://www.3dmgame.com/news/202402/3888009.html)
+
++ [《星位继承者》开发商RPG新作《Lost Hellden》公开](https://www.3dmgame.com/news/202402/3888008.html)
+
