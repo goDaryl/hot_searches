@@ -31,3 +31,7 @@
 
 + [华为 Mate 60 / Pro 手机获推鸿蒙 OS 4.0.0.158 版更新：新增 AR 测量功能、支持人像模式云美化等](https://m.ithome.com/html/749532.htm)
 
++ [国产电视剧《三体》将登陆美国 NBC 环球流媒体平台，大年初一全集上线](https://m.ithome.com/html/749458.htm)
+
++ [酷态科推出 20W USB-C 氮化镓充电头：支持 PD 快充协议，售 19 元](https://m.ithome.com/html/749516.htm)
+
