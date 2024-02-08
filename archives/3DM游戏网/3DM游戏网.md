@@ -171,3 +171,7 @@
 
 + [《龙之信条2》“怪物篇”预告 3月22日发售](https://www.3dmgame.com/news/202402/3888027.html)
 
++ [第三方重制《虚幻争霸：过载》3月7日PS5开启B测](https://www.3dmgame.com/news/202402/3888039.html)
+
++ [1000亿美元！印度即将敲定一项史无前例的投资协议](https://www.3dmgame.com/news/202402/3888038.html)
+
