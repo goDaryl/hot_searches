@@ -229,3 +229,11 @@
 
 + [角川集团现已收购《歧路旅人》开发商Acquire](https://www.3dmgame.com/news/202402/3888067.html)
 
++ [Fami通新一周销量榜 《女神异闻录3 Reload》登顶](https://www.3dmgame.com/news/202402/3888071.html)
+
++ [新《异形》电影终于有了正式名字 今年8月上映](https://www.3dmgame.com/news/202402/3888070.html)
+
++ [谷歌宣布将AI聊天助手Bard更名为Gemini 推出安卓独立应用](https://www.3dmgame.com/news/202402/3888069.html)
+
++ [《东京都市谜案特搜事件簿》将于5月30日发售](https://www.3dmgame.com/news/202402/3888068.html)
+
