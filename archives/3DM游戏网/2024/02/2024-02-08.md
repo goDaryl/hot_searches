@@ -211,3 +211,7 @@
 
 + [更多新版漫威《夜魔侠》剧集片场照公开](https://www.3dmgame.com/news/202402/3888055.html)
 
++ [《星刃》新主视觉图 女主穿紧身战衣秀曼妙身材](https://www.3dmgame.com/news/202402/3888060.html)
+
++ [复旦大学发明钙-氧室温充电电池 700次充放电循环寿命](https://www.3dmgame.com/news/202402/3888058.html)
+

@@ -53,3 +53,7 @@
 
 + [蓝宝石 RX 7900 XT 显卡国内已降至 5088 元，海外降至 699 美元](https://m.ithome.com/html/749509.htm)
 
++ [又有名人网络“春光乍泄”，马斯克的 X 平台“因祸得福”](https://m.ithome.com/html/749613.htm)
+
++ [华为辟谣：网传“任正非最新讲话”内容纯属子虚乌有](https://m.ithome.com/html/749604.htm)
+
