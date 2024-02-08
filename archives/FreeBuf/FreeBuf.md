@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 联盟签署间谍软件责任承诺书；法国医疗服务公司Viamedis数据泄露](https://www.freebuf.com/news/391764.html)
 
++ [企业数据安全之数据分类分级实战](https://www.freebuf.com/articles/es/390828.html)
+
++ [中央网信办、教育部评选，16所高校入选](https://www.freebuf.com/news/391811.html)
+
