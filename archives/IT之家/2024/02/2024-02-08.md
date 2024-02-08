@@ -49,3 +49,5 @@
 
 + [涨价 160 美元，消息称苹果 11/13 英寸 OLED iPad Pro 起价 959/1259 美元](https://m.ithome.com/html/749449.htm)
 
++ [“OPPO 史上最短发布会”宣布明晚除夕夜举行，聚焦手机 AI 功能](https://m.ithome.com/html/749588.htm)
+
