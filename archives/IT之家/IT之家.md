@@ -51,3 +51,5 @@
 
 + [“OPPO 史上最短发布会”宣布明晚除夕夜举行，聚焦手机 AI 功能](https://m.ithome.com/html/749588.htm)
 
++ [蓝宝石 RX 7900 XT 显卡国内已降至 5088 元，海外降至 699 美元](https://m.ithome.com/html/749509.htm)
+

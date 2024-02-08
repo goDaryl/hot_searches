@@ -205,3 +205,9 @@
 
 + [《最终幻想7：重生》性能和质量模式对比 差异明显](https://www.3dmgame.com/news/202402/3888053.html)
 
++ [肉鸽SRPG《星之深渊酒吧》2月15日试玩版上线](https://www.3dmgame.com/news/202402/3888056.html)
+
++ [据称Xbox未来愿景极为机密 大多数内部员工都不知道](https://www.3dmgame.com/news/202402/3888057.html)
+
++ [更多新版漫威《夜魔侠》剧集片场照公开](https://www.3dmgame.com/news/202402/3888055.html)
+

@@ -53,3 +53,9 @@
 
 + [300万支电动牙刷被用于DDoS攻击？](https://www.freebuf.com/news/391819.html)
 
++ [红队——多层内网环境渗透测试（三）](https://www.freebuf.com/defense/382534.html)
+
++ [如何使用CLZero对HTTP1.1的请求走私攻击向量进行模糊测试](https://www.freebuf.com/sectool/389625.html)
+
++ [用300万支电动牙刷发起DDoS攻击？假的！](https://www.freebuf.com/news/391819.html)
+
