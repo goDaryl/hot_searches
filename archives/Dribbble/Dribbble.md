@@ -49,3 +49,31 @@
 
 + [Credit Card Illustration pt.I](https://dribbble.com/shots/)
 
++ [Misc. icons](https://dribbble.com/shots/)
+
++ [ilcons - Transportation icons](https://dribbble.com/shots/)
+
++ [Boba 2](https://dribbble.com/shots/)
+
++ [USA National Parks - Badges Vol. 1](https://dribbble.com/shots/)
+
++ [Seven Seas Hotel](https://dribbble.com/shots/)
+
++ [Solana Typeface | A Coastal Font](https://dribbble.com/shots/)
+
++ [The Purple Platoon.](https://dribbble.com/shots/)
+
++ [Summer at the Beach Icons](https://dribbble.com/shots/)
+
++ [STEEL CITY BANDANA](https://dribbble.com/shots/)
+
++ [Runner's World (Editorial)](https://dribbble.com/shots/)
+
++ [Mill Valley Music Festival Posters](https://dribbble.com/shots/)
+
++ [25% Off Summer Dreams Flash Sale](https://dribbble.com/shots/)
+
++ [Rendezvous Music Fest](https://dribbble.com/shots/)
+
++ [Paradise Island ????](https://dribbble.com/shots/)
+
