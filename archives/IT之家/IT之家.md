@@ -43,3 +43,9 @@
 
 + [AMD 8 核 Ryzen 7 5700 CPU 性能实测：比 5700X 低 13.6%](https://m.ithome.com/html/749624.htm)
 
++ [非“Windows 12”，微软明确今年更新叫“Windows 11 Version 24H2”](https://m.ithome.com/html/749752.htm)
+
++ [小米法务部：博主“溪溪大人”侵权判赔 15 万元，置顶道歉 24 小时](https://m.ithome.com/html/749776.htm)
+
++ [沈阳汽车拟收购华晨集团 100% 股权，华晨中国暂停出售资产](https://m.ithome.com/html/749746.htm)
+
