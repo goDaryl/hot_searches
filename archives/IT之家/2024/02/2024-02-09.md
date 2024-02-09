@@ -57,3 +57,5 @@
 
 + [峰回路转，消息称诺基亚预计将在今年推出超过 17 款机型](https://m.ithome.com/html/749757.htm)
 
++ [消息称华为将推出 Vision 头显：自研芯片、4K Micro-OLED、350 克，定价 15000 元左右](https://m.ithome.com/html/749841.htm)
+
