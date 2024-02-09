@@ -141,3 +141,9 @@
 
 + [【MySQL】：深入理解并掌握DML和DCL](https://blog.csdn.net/a1657054242/article/details/136083759)
 
++ [【FPGA开发】Modelsim和Vivado的使用](https://blog.csdn.net/weixin_62179882/article/details/136070173)
+
++ [flutter监听app进入前后台状态的实现](https://blog.csdn.net/as425017946/article/details/136068541)
+
++ [智慧自助餐饮系统（SpringBoot+MP+Vue+微信小程序+JNI+ncnn+YOLOX-Nano）](https://blog.csdn.net/ELSA001/article/details/136071296)
+
