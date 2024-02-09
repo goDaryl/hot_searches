@@ -151,3 +151,19 @@
 
 + [Flylighter](https://www.producthunt.com/posts/flylighter)
 
++ [Tailwind Skeleton Generator](https://www.producthunt.com/posts/tailwind-skeleton-generator)
+
++ [JotBot](https://www.producthunt.com/posts/jotbot)
+
++ [Creatorboost](https://www.producthunt.com/posts/creatorboost)
+
++ [BlueWave](https://www.producthunt.com/posts/bluewave-4)
+
++ [Apico - Use any app as your backend](https://www.producthunt.com/posts/apico-use-any-app-as-your-backend)
+
++ [String Catalog Translator](https://www.producthunt.com/posts/string-catalog-translator)
+
++ [Upstash Vector](https://www.producthunt.com/posts/upstash-vector)
+
++ [Stockfill](https://www.producthunt.com/posts/stockfill)
+

@@ -179,3 +179,13 @@
 
 + [新里程碑达成！N网MOD总下载达到100亿次](https://www.3dmgame.com/news/202402/3888104.html)
 
++ [《绝地潜兵2》开发商进入“危机模式” CEO：建议互加好友直接加入](https://www.3dmgame.com/news/202402/3888118.html)
+
++ [《RuneScape》开发商或将被收购 价格9亿英镑](https://www.3dmgame.com/news/202402/3888117.html)
+
++ [传奇落幕 《杀出重围》主角扮演者向系列告别](https://www.3dmgame.com/news/202402/3888116.html)
+
++ [微软：大规模裁员1900人并非全因收购 动视本就有计划](https://www.3dmgame.com/news/202402/3888115.html)
+
++ [Respawn创始人被裁细节 动视高层试图“拿钱平事”](https://www.3dmgame.com/news/202402/3888114.html)
+
