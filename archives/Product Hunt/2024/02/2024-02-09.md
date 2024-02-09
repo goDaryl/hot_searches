@@ -103,3 +103,51 @@
 
 + [Apple MGIE](https://www.producthunt.com/posts/apple-mgie)
 
++ [MagicAds.ai](https://www.producthunt.com/posts/magicads-ai)
+
++ [UniFill AI](https://www.producthunt.com/posts/unifill-ai)
+
++ [Gemini & Gemini Advanced](https://www.producthunt.com/posts/gemini-gemini-advanced-3)
+
++ [ChatPdf.so](https://www.producthunt.com/posts/chatpdf-so)
+
++ [Friendly Fire](https://www.producthunt.com/posts/friendly-fire)
+
++ [Summary Cat](https://www.producthunt.com/posts/summary-cat)
+
++ [FitComrade](https://www.producthunt.com/posts/fitcomrade)
+
++ [themex](https://www.producthunt.com/posts/themex)
+
++ [Moosti](https://www.producthunt.com/posts/moosti-3)
+
++ [Pixel-Art.ai](https://www.producthunt.com/posts/pixel-art-ai)
+
++ [The Flip Clock](https://www.producthunt.com/posts/the-flip-clock)
+
++ [Yuna AI — Your Mental Health Companion](https://www.producthunt.com/posts/yuna-ai-your-mental-health-companion)
+
++ [Backlink Monitor](https://www.producthunt.com/posts/backlink-monitor-2)
+
++ [Rapidforms](https://www.producthunt.com/posts/rapidforms)
+
++ [git-re](https://www.producthunt.com/posts/git-re)
+
++ [CodeSignal Learn](https://www.producthunt.com/posts/codesignal-learn)
+
++ [Heyday](https://www.producthunt.com/posts/heyday-5)
+
++ [Synthical](https://www.producthunt.com/posts/synthical)
+
++ [Titlefindr](https://www.producthunt.com/posts/titlefindr)
+
++ [Vest Builder](https://www.producthunt.com/posts/vest-builder)
+
++ [Rizzle AI](https://www.producthunt.com/posts/rizzle-ai-2)
+
++ [Capitol AI](https://www.producthunt.com/posts/capitol-ai)
+
++ [Augie Storyteller](https://www.producthunt.com/posts/augie-storyteller)
+
++ [Flylighter](https://www.producthunt.com/posts/flylighter)
+
