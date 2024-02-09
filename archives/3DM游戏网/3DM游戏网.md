@@ -189,3 +189,5 @@
 
 + [Respawn创始人被裁细节 动视高层试图“拿钱平事”](https://www.3dmgame.com/news/202402/3888114.html)
 
++ [角川财报《艾尔登法环》DLC问答：仍在全力开发](https://www.3dmgame.com/news/202402/3888119.html)
+
