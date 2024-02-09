@@ -41,3 +41,5 @@
 
 + [FreeBuf早报 | 香港最大AI诈骗案；针对Ivanti SSRF漏洞的攻击数量激增](https://www.freebuf.com/news/391677.html)
 
++ [分析威胁行为者如何通过复杂的TTP执行新型双重勒索攻击](https://www.freebuf.com/articles/database/390421.html)
+
