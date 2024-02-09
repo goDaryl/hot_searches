@@ -99,3 +99,21 @@
 
 + [flutter监听app进入前后台状态的实现](https://blog.csdn.net/as425017946/article/details/136068541)
 
++ [深度学习自然语言处理（NLP）模型BERT：从理论到Pytorch实战](https://blog.csdn.net/Myx74270512/article/details/136087904)
+
++ [redis特点](https://blog.csdn.net/weixin_57763462/article/details/136074741)
+
++ [TCP 传输控制协议——详细](https://blog.csdn.net/m0_64621282/article/details/136081494)
+
++ [【无人机三维路径规划】基于蚯蚓算法EWA实现复杂地形无人机避障三维航迹规划附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/136068584)
+
++ [mtt s80 魔笔马良 ubuntu 20.04 + 微星b450 迫击炮部署](https://blog.csdn.net/feifei912515863/article/details/136079221)
+
++ [GPT-4模型中的token和Tokenization概念介绍](https://blog.csdn.net/xw555666/article/details/135959787)
+
++ [实例分割论文阅读之：FCN：《Fully Convolutional Networks for Semantica Segmentation》](https://blog.csdn.net/absence521/article/details/136081718)
+
++ [Vuex介绍和使用](https://blog.csdn.net/c103363/article/details/136077520)
+
++ [【大模型上下文长度扩展】MedGPT：解决遗忘 + 永久记忆 + 无限上下文](https://blog.csdn.net/qq_41739364/article/details/136072543)
+
