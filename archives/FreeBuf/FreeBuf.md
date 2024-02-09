@@ -51,3 +51,7 @@
 
 + [实战 JS逆向思路](https://www.freebuf.com/articles/database/391308.html)
 
++ [等保能力验证2022—Windows主机](https://www.freebuf.com/articles/system/381708.html)
+
++ [BestEdrOfTheMarket：一个针对AVEDR绕过的训练学习环境](https://www.freebuf.com/sectool/389628.html)
+
