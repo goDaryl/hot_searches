@@ -201,3 +201,5 @@
 
 + [特斯拉工人最新工资曝光：时薪最低22美元 最高39美元](https://www.3dmgame.com/news/202402/3888120.html)
 
++ [《GTA6》将追求完美 很有可能在2025年秋季发售](https://www.3dmgame.com/news/202402/3888125.html)
+

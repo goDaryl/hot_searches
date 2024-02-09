@@ -59,3 +59,7 @@
 
 + [消息称华为将推出 Vision 头显：自研芯片、4K Micro-OLED、350 克，定价 15000 元左右](https://m.ithome.com/html/749841.htm)
 
++ [华为鸿蒙智行问界 M9 广告打上 2024 央视春晚，OPPO 小米先来一步](https://m.ithome.com/html/749846.htm)
+
++ [国产山寨苹果 Vision Pro 头显“VisionSE”现身电商：基于骁龙 670，标价 1930 元](https://m.ithome.com/html/749817.htm)
+
