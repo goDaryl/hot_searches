@@ -99,3 +99,7 @@
 
 + [Crackers Package Design](https://dribbble.com/shots/)
 
++ [Poindexter Books - Emblem](https://dribbble.com/shots/)
+
++ [Hangar Sisters Logo Design](https://dribbble.com/shots/)
+

@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 《美相关APT组织分析报告》正式发布；中情局“史上最大数据泄密案”内情曝光](https://www.freebuf.com/news/391718.html)
 
++ [传统制造行业信息安全管理实践](https://www.freebuf.com/articles/security-management/390395.html)
+
