@@ -35,3 +35,7 @@
 
 + [苹果 iPhone SE 4 曝料：改用灵动岛，调整背面相机岛设计](https://m.ithome.com/html/749738.htm)
 
++ [Epic 喜加一：除夕免费领《失落城堡》《心跳文学部 Plus》两款游戏](https://m.ithome.com/html/749730.htm)
+
++ [高合汽车回应薪水缓发、高管主动降薪：确有其事](https://m.ithome.com/html/749695.htm)
+
