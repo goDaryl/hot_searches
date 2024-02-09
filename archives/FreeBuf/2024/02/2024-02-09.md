@@ -47,3 +47,5 @@
 
 + [传统制造行业信息安全管理实践](https://www.freebuf.com/articles/security-management/390395.html)
 
++ [网络安全市场渠道格局和痛点分析](https://www.freebuf.com/articles/neopoints/382309.html)
+
