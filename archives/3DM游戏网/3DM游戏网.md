@@ -113,3 +113,7 @@
 
 + [Certain Affinity工作室将参与开发《EXODUS》](https://www.3dmgame.com/news/202402/3888132.html)
 
++ [《死亡搁浅2》新预告捕捉自PS5 正式版画质将提升](https://www.3dmgame.com/news/202402/3888136.html)
+
++ [《奥日》开发商ARPG《恶意不息》跳票到2024年第二季度](https://www.3dmgame.com/news/202402/3888135.html)
+

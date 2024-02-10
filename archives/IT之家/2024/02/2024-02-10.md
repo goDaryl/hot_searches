@@ -29,3 +29,5 @@
 
 + [我国今起与新加坡互免签证：普通护照停留不超 30 日、两国游客可用数字人民币旅游消费](https://m.ithome.com/html/749801.htm)
 
++ [除夕夜第一更，ColorOS AI 新春版系统向千万 OPPO / 一加用户推送](https://m.ithome.com/html/749843.htm)
+
