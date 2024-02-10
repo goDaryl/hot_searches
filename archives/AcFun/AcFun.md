@@ -73,3 +73,5 @@
 
 + [欢乐中国年-能献礼](http://www.acfun.cn/v/ac43744924)
 
++ [【2024AcFun新春庆典】祝大家精神棒棒吃嘛嘛香！【KiraCola】](http://www.acfun.cn/v/ac43633416)
+
