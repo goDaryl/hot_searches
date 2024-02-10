@@ -157,3 +157,13 @@
 
 + [Nexon财报：《潜水员戴夫》《The Finals》推动欧美收入](https://www.3dmgame.com/news/202402/3888155.html)
 
++ [欧洲月榜：1月地区游戏销量下降超过7%](https://www.3dmgame.com/news/202402/3888161.html)
+
++ [高手自制超还原宝可梦图鉴 可识别手办和网络图片](https://www.3dmgame.com/news/202402/3888157.html)
+
++ [任天堂社长：当前进行主机世代更迭不够安全](https://www.3dmgame.com/news/202402/3888158.html)
+
++ [Take-Two CEO：主机竞争有好处但非必要](https://www.3dmgame.com/news/202402/3888159.html)
+
++ [2024总台龙年春晚创下新纪录：直播收视破15亿次](https://www.3dmgame.com/news/202402/3888160.html)
+
