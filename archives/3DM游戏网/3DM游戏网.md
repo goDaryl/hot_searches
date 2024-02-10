@@ -147,3 +147,9 @@
 
 + [牌面拉满！小米汽车SU7登上春晚：海湾蓝色超吸睛](https://www.3dmgame.com/news/202402/3888147.html)
 
++ [数据显示Xbox Series X/S销量或只有PS5销量一半](https://www.3dmgame.com/news/202402/3888153.html)
+
++ [苹果iOS侧载大门打开：开发者能做第三方应用商店了](https://www.3dmgame.com/news/202402/3888154.html)
+
++ [电影《热辣滚烫》发布新海报：贾玲瘦出下颌线](https://www.3dmgame.com/news/202402/3888152.html)
+
