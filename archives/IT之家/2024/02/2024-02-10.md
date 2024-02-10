@@ -31,3 +31,5 @@
 
 + [除夕夜第一更，ColorOS AI 新春版系统向千万 OPPO / 一加用户推送](https://m.ithome.com/html/749843.htm)
 
++ [ChatGPT 更新引众怒！系统提示词塞满繁文缛节，网友：难怪会偷懒](https://m.ithome.com/html/749857.htm)
+

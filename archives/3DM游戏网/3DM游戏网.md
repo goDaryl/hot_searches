@@ -117,3 +117,5 @@
 
 + [《奥日》开发商ARPG《恶意不息》跳票到2024年第二季度](https://www.3dmgame.com/news/202402/3888135.html)
 
++ [《生化危机4：重制版》黄金版推出 Steam售价248元](https://www.3dmgame.com/news/202402/3888137.html)
+
