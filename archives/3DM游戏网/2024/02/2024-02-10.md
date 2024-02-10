@@ -183,3 +183,5 @@
 
 + [角川集团介绍《装甲核心6》销量超出公司预期](https://www.3dmgame.com/news/202402/3888162.html)
 
++ [小岛带斯宾塞参加神社大祓 为恐怖新作《OD》净化](https://www.3dmgame.com/news/202402/3888170.html)
+
