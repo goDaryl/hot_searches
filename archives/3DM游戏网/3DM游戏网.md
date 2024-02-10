@@ -119,3 +119,13 @@
 
 + [《生化危机4：重制版》黄金版推出 Steam售价248元](https://www.3dmgame.com/news/202402/3888137.html)
 
++ [《死亡细胞》将结束更新支持 开发组专注于新项目开发](https://www.3dmgame.com/news/202402/3888142.html)
+
++ [《最终幻想7：重生》体验版画面模糊 原因并非低分辨率](https://www.3dmgame.com/news/202402/3888140.html)
+
++ [《星刃》金亨泰：对性感女主的背部进行了重点关注](https://www.3dmgame.com/news/202402/3888141.html)
+
++ [育碧：《GTA6》不可怕 其发售后也能让我家游戏受益](https://www.3dmgame.com/news/202402/3888139.html)
+
++ [《给他爱5》又卖了500万份 《大镖客2》销量破6100万份](https://www.3dmgame.com/news/202402/3888138.html)
+
