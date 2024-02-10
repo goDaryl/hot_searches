@@ -39,3 +39,7 @@
 
 + [华硕 Zenfone 11 Ultra 手机官方渲染图曝光：骁龙 8 Gen 3、6.78 英寸 144Hz AMOLED 屏](https://m.ithome.com/html/749821.htm)
 
++ [腾讯 QQ 25 周年社交报告出炉，看看谁是你第一位好友](https://m.ithome.com/html/749878.htm)
+
++ [消息称苹果 iOS 18 有望采用 visionOS 的设计元素，例如半透明菜单等](https://m.ithome.com/html/749875.htm)
+
