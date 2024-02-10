@@ -129,3 +129,21 @@
 
 + [《给他爱5》又卖了500万份 《大镖客2》销量破6100万份](https://www.3dmgame.com/news/202402/3888138.html)
 
++ [点选冒险新作《旋风：无暇旅行》2025年登陆PC](https://www.3dmgame.com/news/202402/3888148.html)
+
++ [佛州小丑放弃起诉R星 要10万美元为角色配音](https://www.3dmgame.com/news/202402/3888149.html)
+
++ [《自杀小队：战胜正义联盟》彩蛋暗示蝙蝠侠会回归](https://www.3dmgame.com/news/202402/3888150.html)
+
++ [《RuneScape》开发商Jagex宣布再次被收购](https://www.3dmgame.com/news/202402/3888151.html)
+
++ [《博德之门3》下周将推出更新 会改进接吻效果等](https://www.3dmgame.com/news/202402/3888143.html)
+
++ [北濑佳范：若重制《最终幻想8》会优先改变战斗系统](https://www.3dmgame.com/news/202402/3888144.html)
+
++ [《风暴之城》更新路线图公布 付费DLC筹备中](https://www.3dmgame.com/news/202402/3888145.html)
+
++ [《最终幻想7：重生》PS5独占期将持续到5月29日](https://www.3dmgame.com/news/202402/3888146.html)
+
++ [牌面拉满！小米汽车SU7登上春晚：海湾蓝色超吸睛](https://www.3dmgame.com/news/202402/3888147.html)
+
