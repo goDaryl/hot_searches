@@ -77,3 +77,11 @@
 
 + [Runner's World (Editorial)](https://dribbble.com/shots/)
 
++ [Year of the Dragon](https://dribbble.com/shots/)
+
++ [Astronaut](https://dribbble.com/shots/)
+
++ [Credit Card Illustration pt.II](https://dribbble.com/shots/)
+
++ [Ghost](https://dribbble.com/shots/)
+
