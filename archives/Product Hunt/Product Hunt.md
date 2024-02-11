@@ -129,3 +129,7 @@
 
 + [3DAiLY Beta](https://www.producthunt.com/posts/3daily-beta)
 
++ [Face Analysis API](https://www.producthunt.com/posts/face-analysis-api)
+
++ [MyUptimeKuma](https://www.producthunt.com/posts/myuptimekuma)
+
