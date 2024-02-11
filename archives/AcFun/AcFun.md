@@ -61,3 +61,7 @@
 
 + [【小子贼疯×不辣】练声曲（cover：裘德&窦靖童）](http://www.acfun.cn/v/ac43749664)
 
++ [【AI图蒂】孑然妒火？猫拳图火！](http://www.acfun.cn/v/ac43750337)
+
++ [元宝吓坏了](http://www.acfun.cn/v/ac43749820)
+
