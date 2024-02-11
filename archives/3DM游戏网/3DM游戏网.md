@@ -113,3 +113,21 @@
 
 + [《星河战队：灭绝》更新推出 支持AMD FSR 3](https://www.3dmgame.com/news/202402/3888186.html)
 
++ [百合向冒险故事《Sakura Isekai Adventure》Steam页面上线 支持中文](https://www.3dmgame.com/news/202402/3888195.html)
+
++ [《仙剑4重制版》新年贺图 玩家：希望重制顺利不要魔改](https://www.3dmgame.com/news/202402/3888187.html)
+
++ [苹果据称仍在开发折叠屏iPhone 最早2026年面世](https://www.3dmgame.com/news/202402/3888188.html)
+
++ [《驱灵者：新伊甸的幽灵》解放新伊甸的人民 13日发售](https://www.3dmgame.com/news/202402/3888189.html)
+
++ [《绝地潜兵2》匹配优化补丁现已登陆PS5平台](https://www.3dmgame.com/news/202402/3888190.html)
+
++ [VR射击游戏《ALVO》2月12日登陆SteamVR](https://www.3dmgame.com/news/202402/3888191.html)
+
++ [数据挖掘者认为已经掌握《铁拳8》DLC角色线索](https://www.3dmgame.com/news/202402/3888192.html)
+
++ [《龙之信条2》盗贼实机 3月22日正式发售](https://www.3dmgame.com/news/202402/3888193.html)
+
++ [《功夫熊猫4》曝龙年海报 神龙大侠阿宝送新春祝福](https://www.3dmgame.com/news/202402/3888194.html)
+
