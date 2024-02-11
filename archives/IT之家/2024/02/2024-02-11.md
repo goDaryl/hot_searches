@@ -35,3 +35,5 @@
 
 + [汽车加氢模式败退美国，巨头壳牌宣布永久关停站点](https://m.ithome.com/html/749921.htm)
 
++ [小米平板 6S Pro 官图曝光：12.4 英寸屏幕，预计搭载骁龙 8 Gen 2 处理器](https://m.ithome.com/html/749967.htm)
+
