@@ -131,3 +131,13 @@
 
 + [《功夫熊猫4》曝龙年海报 神龙大侠阿宝送新春祝福](https://www.3dmgame.com/news/202402/3888194.html)
 
++ [“蛟龙号”将下潜46潜次：开展生物环境调查](https://www.3dmgame.com/news/202402/3888199.html)
+
++ [前《守望先锋2》画师控诉暴雪：每一步都那么离谱](https://www.3dmgame.com/news/202402/3888200.html)
+
++ [《铁血战士》新电影制作中 由《铁血战士：猎物》导演执导](https://www.3dmgame.com/news/202402/3888198.html)
+
++ [索尼计划推出PlayStation 6游戏主机：只考虑AMD方案](https://www.3dmgame.com/news/202402/3888197.html)
+
++ [消息称任天堂新机NS2预计将于今年晚些时候发布](https://www.3dmgame.com/news/202402/3888196.html)
+
