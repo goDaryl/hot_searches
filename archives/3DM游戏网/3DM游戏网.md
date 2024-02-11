@@ -151,3 +151,5 @@
 
 + [Steam远程同乐游戏节预告 2月13日开始](https://www.3dmgame.com/news/202402/3888203.html)
 
++ [《街2降灵》Steam页面上线 2024年第四季度发售](https://www.3dmgame.com/news/202402/3888206.html)
+
