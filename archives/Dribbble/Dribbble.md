@@ -73,3 +73,13 @@
 
 + [Patterns for restaurants and cafes](https://dribbble.com/shots/)
 
++ [Starz](https://dribbble.com/shots/)
+
++ [Campobello Whale Rescue Team](https://dribbble.com/shots/)
+
++ [Houses icons](https://dribbble.com/shots/)
+
++ [Hangry hangry hippo ????????](https://dribbble.com/shots/)
+
++ [ilcons - Transportation icons](https://dribbble.com/shots/)
+
