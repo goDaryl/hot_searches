@@ -89,3 +89,9 @@
 
 + [The Cutting Garden](https://dribbble.com/shots/)
 
++ [ampersandrew](https://dribbble.com/shots/)
+
++ [Hangar Sisters Logo Design](https://dribbble.com/shots/)
+
++ [Sold Out Secondary Logotype](https://dribbble.com/shots/)
+
