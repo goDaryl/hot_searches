@@ -121,3 +121,11 @@
 
 + [RelaGit](https://www.producthunt.com/posts/relagit)
 
++ [Share QR Cards: Digital Networking Tool](https://www.producthunt.com/posts/share-qr-cards-digital-networking-tool)
+
++ [SayF](https://www.producthunt.com/posts/sayf-2)
+
++ [Quickjobs.App](https://www.producthunt.com/posts/quickjobs-app)
+
++ [3DAiLY Beta](https://www.producthunt.com/posts/3daily-beta)
+
