@@ -195,3 +195,13 @@
 
 + [小岛秀夫《OD》将有大量知名人士参与 游戏界“复仇者联盟”](https://www.3dmgame.com/news/202402/3888274.html)
 
++ [《寂静岭2：重制版》开发已经进入最后阶段](https://www.3dmgame.com/news/202402/3888280.html)
+
++ [日本为芯片研究组织提供3亿美元支持 将开发1.4nm技术](https://www.3dmgame.com/news/202402/3888281.html)
+
++ [《热辣滚烫》登顶全球周末票房榜 目前已破10亿大关](https://www.3dmgame.com/news/202402/3888282.html)
+
++ [《碧海黑帆》B测翻车？外媒称一点不像70美元游戏](https://www.3dmgame.com/news/202402/3888279.html)
+
++ [《DOTA2》BB迪拜别墅杯 LGD 0:2 Spirit遭淘汰](https://www.3dmgame.com/news/202402/3888278.html)
+
