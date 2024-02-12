@@ -43,3 +43,5 @@
 
 + [消息称小米 14 Ultra 手机最高 16GB + 1TB 存储，拥有钛合金特别版](https://m.ithome.com/html/750066.htm)
 
++ [我国正开展新一代通信卫星研制，将成 6G 通信网络重要组成部分之一](https://m.ithome.com/html/750058.htm)
+
