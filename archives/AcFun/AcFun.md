@@ -69,3 +69,7 @@
 
 + [【东方】爵士 BLUE CLIENT メドレー【Active NEETs】](http://www.acfun.cn/v/ac43748721)
 
++ [看完必暴富哈哈哈](http://www.acfun.cn/v/ac43748470)
+
++ [要说这上课啊，还得是美工啊，十分强势](http://www.acfun.cn/v/ac43732990)
+

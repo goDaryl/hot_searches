@@ -145,3 +145,13 @@
 
 + [Windows 11要内置DLSS了！但是GPU要求不低](https://www.3dmgame.com/news/202402/3888251.html)
 
++ [天妒英才 24岁马拉松世界纪录保持者车祸去世](https://www.3dmgame.com/news/202402/3888256.html)
+
++ [第一人称恐怖射击游戏《Beneath》公布场景破坏视频](https://www.3dmgame.com/news/202402/3888255.html)
+
++ [《上古卷轴5》MOD作者加入《上古卷轴6》开发团队](https://www.3dmgame.com/news/202402/3888253.html)
+
++ [玩家自制《冥界狂想曲》虚幻引擎5开场渲染视频](https://www.3dmgame.com/news/202402/3888252.html)
+
++ [《功夫熊猫4》影评解禁时间公布 比上映时间早两天](https://www.3dmgame.com/news/202402/3888254.html)
+
