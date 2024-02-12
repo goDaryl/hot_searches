@@ -53,3 +53,5 @@
 
 + [巴黎市民投票赞成将重型汽车停车费提高两倍，一小时高达 18 欧元](https://m.ithome.com/html/750023.htm)
 
++ [AMD Zen 5 架构将支持多种全新指令集，进一步强化 AI 性能](https://m.ithome.com/html/750041.htm)
+
