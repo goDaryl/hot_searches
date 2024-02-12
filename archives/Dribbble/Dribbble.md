@@ -49,3 +49,17 @@
 
 + [Dune Alternative Poster](https://dribbble.com/shots/)
 
++ [Harry Potter - Dust Jacket Collections](https://dribbble.com/shots/)
+
++ [Ode to Farm Logotype](https://dribbble.com/shots/)
+
++ [Houses icons](https://dribbble.com/shots/)
+
++ [Sriracha Revolver poster](https://dribbble.com/shots/)
+
++ [Case Study: Ammons Poems Website](https://dribbble.com/shots/)
+
++ [Dragon Dance](https://dribbble.com/shots/)
+
++ [Patterns for restaurants and cafes](https://dribbble.com/shots/)
+
