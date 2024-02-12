@@ -113,3 +113,5 @@
 
 + [索尼6亿美元买下迈克尓·杰克逊半数曲目](https://www.3dmgame.com/news/202402/3888235.html)
 
++ [内部人士称《星空》不会登陆PS5 但其它Xbox游戏有可能](https://www.3dmgame.com/news/202402/3888236.html)
+
