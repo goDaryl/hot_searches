@@ -177,3 +177,7 @@
 
 + [Hadoop-Yarn-ResourceManagerHA](https://blog.csdn.net/lu070828/article/details/136070966)
 
++ [自然语言处理（NLP）—— 基本概念](https://blog.csdn.net/weixin_65190179/article/details/136073243)
+
++ [2024龙年春晚刘谦魔术数学建模](https://blog.csdn.net/Peter20_03/article/details/136091322)
+
