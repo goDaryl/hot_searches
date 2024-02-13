@@ -117,3 +117,9 @@
 
 + [Capcom公布《街头霸王6》DLC角色“艾德”主题曲](https://www.3dmgame.com/news/202402/3888292.html)
 
++ [《古惑狼》《小龙斯派罗》开发商受微软裁员影响 关闭办公室](https://www.3dmgame.com/news/202402/3888297.html)
+
++ [《驱灵者：新伊甸的幽灵》媒体评分解禁 IGN 7分](https://www.3dmgame.com/news/202402/3888296.html)
+
++ [消息称满分游戏《Pentiment》将登陆PS5和Switch](https://www.3dmgame.com/news/202402/3888295.html)
+
