@@ -43,3 +43,5 @@
 
 + [2023年勒索软件攻击态势](https://www.freebuf.com/articles/paper/391401.html)
 
++ [代码安全审计经验集（下）](https://www.freebuf.com/vuls/391334.html)
+
