@@ -47,3 +47,5 @@
 
 + [记一次某年代久远的某云漏洞到获得cnvd证书](https://www.freebuf.com/vuls/381071.html)
 
++ [Patch2QL：开源供应链漏洞挖掘和检测的新方向](https://www.freebuf.com/vuls/391090.html)
+
