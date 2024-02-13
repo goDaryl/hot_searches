@@ -147,3 +147,7 @@
 
 + [Python爬虫之Ajax数据爬取基本原理](https://blog.csdn.net/lizhongjun1005/article/details/136102965)
 
++ [【机器学习】卷积和反向传播](https://blog.csdn.net/gongdiwudu/article/details/136103157)
+
++ [第十七章 以编程方式使用 SQL 网关 - 支持的 ODBC 函数调用](https://blog.csdn.net/yaoxin521123/article/details/136099532)
+

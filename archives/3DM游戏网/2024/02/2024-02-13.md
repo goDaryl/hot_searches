@@ -147,3 +147,7 @@
 
 + [《DC超级英雄Online》开发商裁员 多位高层离职](https://www.3dmgame.com/news/202402/3888304.html)
 
++ [《绝地潜兵2》创意总监解释为何付费武器并不强](https://www.3dmgame.com/news/202402/3888311.html)
+
++ [斯宾塞召开内部会议 保证Xbox主机硬件不会消失](https://www.3dmgame.com/news/202402/3888310.html)
+
