@@ -45,3 +45,5 @@
 
 + [代码安全审计经验集（下）](https://www.freebuf.com/vuls/391334.html)
 
++ [记一次某年代久远的某云漏洞到获得cnvd证书](https://www.freebuf.com/vuls/381071.html)
+

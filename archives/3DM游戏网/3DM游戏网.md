@@ -123,3 +123,9 @@
 
 + [消息称满分游戏《Pentiment》将登陆PS5和Switch](https://www.3dmgame.com/news/202402/3888295.html)
 
++ [前华纳拳头开发者独立工作室Threshold现已关闭](https://www.3dmgame.com/news/202402/3888298.html)
+
++ [iPhone 16系列欲融入SE机型：续航激增8G内存5199元起](https://www.3dmgame.com/news/202402/3888299.html)
+
++ [《驱灵者：新伊甸的幽灵》现已解锁发售 国区199元](https://www.3dmgame.com/news/202402/3888300.html)
+
