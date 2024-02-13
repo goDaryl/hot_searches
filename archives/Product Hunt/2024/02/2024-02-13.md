@@ -219,3 +219,5 @@
 
 + [Fundraising Academy by Finta](https://www.producthunt.com/posts/fundraising-academy-by-finta)
 
++ [Otter Meeting GenAI](https://www.producthunt.com/posts/otter-meeting-genai)
+

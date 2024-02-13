@@ -197,3 +197,9 @@
 
 + [Capcom举办怪物猎人20周年交响乐会](https://www.3dmgame.com/news/202402/3888330.html)
 
++ [不跳票！官方宣布《逃生：试炼》进厂压盘](https://www.3dmgame.com/news/202402/3888336.html)
+
++ [《斯普拉遁3》新赛季“秩序篇”预告 2月22日上线](https://www.3dmgame.com/news/202402/3888335.html)
+
++ [《生化危机》系列累计销量现已超1.54亿套](https://www.3dmgame.com/news/202402/3888334.html)
+
