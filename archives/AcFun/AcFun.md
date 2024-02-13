@@ -87,3 +87,7 @@
 
 + [☛葙唸伱旳んúàй笑 《I Miss You》](http://www.acfun.cn/v/ac43754875)
 
++ [新年第一练（正常训练视频）](http://www.acfun.cn/v/ac43753776)
+
++ [姐妹天天秀#157【未来可期】](http://www.acfun.cn/v/ac43751008)
+
