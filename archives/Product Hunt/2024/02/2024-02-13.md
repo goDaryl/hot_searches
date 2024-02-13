@@ -217,3 +217,5 @@
 
 + [HealthKraftMe](https://www.producthunt.com/posts/healthkraftme)
 
++ [Fundraising Academy by Finta](https://www.producthunt.com/posts/fundraising-academy-by-finta)
+
