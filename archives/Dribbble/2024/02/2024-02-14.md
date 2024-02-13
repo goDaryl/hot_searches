@@ -49,3 +49,17 @@
 
 + [Finn](https://dribbble.com/shots/)
 
++ [The Purple Platoon.](https://dribbble.com/shots/)
+
++ [Wine & Donuts](https://dribbble.com/shots/)
+
++ [Raspberries](https://dribbble.com/shots/)
+
++ [Dune Alternative Poster](https://dribbble.com/shots/)
+
++ [USA National Parks - Badges Vol. 1](https://dribbble.com/shots/)
+
++ [Hangry hangry hippo ????????](https://dribbble.com/shots/)
+
++ [Bite  | Web iIlustrations](https://dribbble.com/shots/)
+
