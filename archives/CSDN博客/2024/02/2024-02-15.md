@@ -119,3 +119,29 @@
 
 + [论文阅读-One for All : 动态多租户边缘云平台的统一工作负载预测](https://blog.csdn.net/weixin_52861033/article/details/136100609)
 
++ [第二篇【传奇开心果微博系列】Python微项目技术点案例示例：成语接龙游戏](https://blog.csdn.net/jackchuanqi/article/details/136104713)
+
++ [【HTML】情人节给npy一颗炫酷的爱心](https://blog.csdn.net/qq_44214428/article/details/136111233)
+
++ [第十七章 以编程方式使用 SQL 网关 - 支持的 ODBC 函数调用](https://blog.csdn.net/yaoxin521123/article/details/136099532)
+
++ [机器学习：卷积介绍及代码实现卷积操作](https://blog.csdn.net/weixin_51390582/article/details/136092375)
+
++ [静态时序分析：SDC约束命令set_clock_uncertainty](https://blog.csdn.net/weixin_45791458/article/details/136109703)
+
++ [SQL世界之命令语句Ⅳ](https://blog.csdn.net/m0_73514785/article/details/136104330)
+
++ [局部加权回归](https://blog.csdn.net/weixin_71158509/article/details/136060826)
+
++ [mysql全国省市县三级联动创表sql（一）](https://blog.csdn.net/weixin_45947759/article/details/136109549)
+
++ [微服务RabbitMQ进阶篇](https://blog.csdn.net/weixin_48605536/article/details/136117160)
+
++ [微服务OAuth 2.1认证授权Demo方案(Spring Security 6)](https://blog.csdn.net/m0_51390969/article/details/136109841)
+
++ [Unity AR](https://blog.csdn.net/m0_66358314/article/details/136100546)
+
++ [16 亚稳态原理和解决方案](https://blog.csdn.net/Dale_e/article/details/136102871)
+
++ [【网工】华为设备命令学习（综合实验一)](https://blog.csdn.net/m0_74244546/article/details/136109503)
+
