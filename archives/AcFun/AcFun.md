@@ -95,3 +95,19 @@
 
 + [现在的Ai已经这么逼真了吗？★手机竖屏1060★](http://www.acfun.cn/v/ac43760592)
 
++ [what is love 更适合中国宝宝体质的红色战衣](http://www.acfun.cn/v/ac43763678)
+
++ [只允许你喊我笨蛋~【竖屏纯享】](http://www.acfun.cn/v/ac43722484)
+
++ [老陈醉酒实录](http://www.acfun.cn/v/ac43763868)
+
++ [【音乐剧翻唱】A Million Miles Away【小子贼疯×Estrella D.】](http://www.acfun.cn/v/ac43763397)
+
++ [这是在干嘛！](http://www.acfun.cn/v/ac43761536)
+
++ [别说我喜欢，神仙也爱看啊！](http://www.acfun.cn/v/ac43761517)
+
++ [[原创·复活重编] 次元情书 (2022 Arr.) ft. UTAU-AC娘二代目 [音源配布]](http://www.acfun.cn/v/ac43760242)
+
++ [世界上最长寿的灯泡，已经亮了超过百万小时，太不可思议了](http://www.acfun.cn/v/ac43759859)
+
