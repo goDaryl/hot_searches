@@ -49,3 +49,5 @@
 
 + [等保能力验证2022—MySQL数据库](https://www.freebuf.com/articles/system/379875.html)
 
++ [软件安装包伪装下的Kimsuky（APT-Q-2）窃密行动](https://www.freebuf.com/articles/paper/390968.html)
+
