@@ -157,3 +157,7 @@
 
 + [CSDN文章导出PDF整理状况一览](https://blog.csdn.net/sxzlc/article/details/136107788)
 
++ [Springboot --- 使用国内的 AI 大模型 对话](https://blog.csdn.net/qq_38373149/article/details/136101151)
+
++ [【大数据】Flink on Kubernetes 原理剖析](https://blog.csdn.net/be_racle/article/details/136093679)
+
