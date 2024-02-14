@@ -67,3 +67,9 @@
 
 + [英伟达发布 RTX 2000 ADA 工作站显卡：16GB 显存，功耗仅 70W](https://m.ithome.com/html/750217.htm)
 
++ [2023 印度手机战报：三星降 5.3% 第一、vivo 升 8.2% 第二、真我降 12.9% 第三、小米降 29.6% 第四、OPPO 降 12.2% 第五](https://m.ithome.com/html/750243.htm)
+
++ [极星首款手机 Polestar Phone 曝光，无界版魅族 20 同款配置](https://m.ithome.com/html/750286.htm)
+
++ [丰田造假风波升级！子公司董事长和总裁双双辞职](https://m.ithome.com/html/750266.htm)
+

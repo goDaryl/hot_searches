@@ -195,3 +195,7 @@
 
 + [索尼：下个财年不会推出系列大作 PS5销量将下滑](https://www.3dmgame.com/news/202402/3888384.html)
 
++ [《死侍3》曝情人节特别版海报 死侍金刚狼永结同心](https://www.3dmgame.com/news/202402/3888387.html)
+
++ [GOG喜加一：《横冲直撞》免费领取](https://www.3dmgame.com/news/202402/3888388.html)
+
