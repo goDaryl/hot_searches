@@ -41,3 +41,5 @@
 
 + [用你的手机拿走你的钱：伪装成“安全防护”APK的金融欺诈活动](https://www.freebuf.com/articles/mobile/390431.html)
 
++ [APT-K-47 组织利用新木马工具发起窃密攻击活动](https://www.freebuf.com/articles/paper/391504.html)
+
