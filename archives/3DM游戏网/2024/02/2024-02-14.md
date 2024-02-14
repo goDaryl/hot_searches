@@ -189,3 +189,9 @@
 
 + [本周FAMI评分：《蜡笔小新煤炭镇的小白》33分](https://www.3dmgame.com/news/202402/3888380.html)
 
++ [《深岩银河：幸存者》 IGN 8分 现已登陆抢先体验](https://www.3dmgame.com/news/202402/3888385.html)
+
++ [苹果主管：Vision Pro有1000多个应用可供选择](https://www.3dmgame.com/news/202402/3888386.html)
+
++ [索尼：下个财年不会推出系列大作 PS5销量将下滑](https://www.3dmgame.com/news/202402/3888384.html)
+

@@ -63,3 +63,7 @@
 
 + [挂羊头卖狗肉，媒体再曝苹果 App Store 伪装应用问题](https://m.ithome.com/html/750235.htm)
 
++ [《黑神话：悟空》发布龙年贺岁短片：“光阴似水，痴心不改”](https://m.ithome.com/html/750263.htm)
+
++ [英伟达发布 RTX 2000 ADA 工作站显卡：16GB 显存，功耗仅 70W](https://m.ithome.com/html/750217.htm)
+
