@@ -101,3 +101,21 @@
 
 + [书生·浦语大模型实战营笔记 02](https://blog.csdn.net/weixin_48006518/article/details/136100862)
 
++ [Tied Block Convolution: 具有共享较薄滤波器的更简洁、更出色的CNN](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/136091859)
+
++ [基于Java+Spring Boot+MySQL的校园招聘系统](https://blog.csdn.net/2301_77541824/article/details/136108160)
+
++ [【GRU回归预测】基于能量谷算法优化多头注意力机制卷积神经网络结合门控循环单元EVO-MultiAttention-CNN-GRU实现数据多维输入单输出预测附matlab代码](https://blog.csdn.net/qq_59747472/article/details/136108021)
+
++ [服务器操作系统windows和linux区别对比](https://blog.csdn.net/gla2018/article/details/136099546)
+
++ [【深度学习 & 目标检测】R-CNN系列算法全面概述（一文搞懂R-CNN、Fast R-CNN、Faster R-CNN的来龙去脉）](https://blog.csdn.net/z135733/article/details/136005255)
+
++ [网络协议与攻击模拟_16HTTP协议](https://blog.csdn.net/fencecat/article/details/136026953)
+
++ [Python和VBA批量提取Word中的表格](https://blog.csdn.net/henanlion/article/details/136108615)
+
++ [【CV论文精读】Adaptive Fusion of Multi-Scale YOLO for Pedestrian Detection基于多尺度自适应融合YOLO的行人检测](https://blog.csdn.net/weixin_44184852/article/details/136106084)
+
++ [论文阅读-One for All : 动态多租户边缘云平台的统一工作负载预测](https://blog.csdn.net/weixin_52861033/article/details/136100609)
+
