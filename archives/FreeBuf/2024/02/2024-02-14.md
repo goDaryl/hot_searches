@@ -47,3 +47,5 @@
 
 + [IAST实践落地总结](https://www.freebuf.com/articles/es/391330.html)
 
++ [等保能力验证2022—MySQL数据库](https://www.freebuf.com/articles/system/379875.html)
+
