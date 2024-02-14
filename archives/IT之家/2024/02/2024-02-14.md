@@ -57,3 +57,7 @@
 
 + [户外运动 + 头显 = 作死，主播演示佩戴苹果 Vision Pro 骑自行车危险性](https://m.ithome.com/html/750241.htm)
 
++ [本月 MWC 2024 登场，小米“影像旗舰” 14 Ultra 手机渲染图曝光](https://m.ithome.com/html/750281.htm)
+
++ [黄仁勋院士回应 OpenAI 阿尔特曼 7 万亿芯片计划：笑了](https://m.ithome.com/html/750218.htm)
+
