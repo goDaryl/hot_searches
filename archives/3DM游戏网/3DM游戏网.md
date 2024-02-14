@@ -111,3 +111,5 @@
 
 + [《漫威蜘蛛侠》系列销量突破5000万套](https://www.3dmgame.com/news/202402/3888392.html)
 
++ [华纳发布《哥斯拉大战金刚2》第二版官方预告](https://www.3dmgame.com/news/202402/3888396.html)
+
