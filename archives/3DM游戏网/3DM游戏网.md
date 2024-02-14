@@ -121,3 +121,7 @@
 
 + [SIE注册新商标Intergalactic: The Heretic Prophet](https://www.3dmgame.com/news/202402/3888348.html)
 
++ [《超次元游戏海王星姐妹vs姐妹》Xbox版延期至5月21日发售](https://www.3dmgame.com/news/202402/3888350.html)
+
++ [《寂静岭2：重制版》开发者抨击预告片 没有反应游戏的精神](https://www.3dmgame.com/news/202402/3888351.html)
+
