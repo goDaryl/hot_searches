@@ -61,3 +61,5 @@
 
 + [黄仁勋院士回应 OpenAI 阿尔特曼 7 万亿芯片计划：笑了](https://m.ithome.com/html/750218.htm)
 
++ [挂羊头卖狗肉，媒体再曝苹果 App Store 伪装应用问题](https://m.ithome.com/html/750235.htm)
+
