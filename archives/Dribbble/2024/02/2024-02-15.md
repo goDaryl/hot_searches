@@ -49,3 +49,21 @@
 
 + [2024](https://dribbble.com/shots/)
 
++ [Cactus Dragon](https://dribbble.com/shots/)
+
++ [STEEL CITY BANDANA](https://dribbble.com/shots/)
+
++ [Tarot card #07: The Chariot](https://dribbble.com/shots/)
+
++ [Hangar Sisters Secondary Logo](https://dribbble.com/shots/)
+
++ [Draw the Back of a Cloud Graphic](https://dribbble.com/shots/)
+
++ [Good fortune](https://dribbble.com/shots/)
+
++ [Jackson Layne Construction](https://dribbble.com/shots/)
+
++ [Dune Alternative Poster](https://dribbble.com/shots/)
+
++ [Nobody Loves New York Like New York](https://dribbble.com/shots/)
+
