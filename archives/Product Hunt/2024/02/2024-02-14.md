@@ -141,3 +141,55 @@
 
 + [FlashApply](https://www.producthunt.com/posts/flashapply-1)
 
++ [NVIDIA Chat with RTX](https://www.producthunt.com/posts/nvidia-chat-with-rtx)
+
++ [Velty App](https://www.producthunt.com/posts/velty-app)
+
++ [BabAI](https://www.producthunt.com/posts/babai)
+
++ [Owledge](https://www.producthunt.com/posts/owledge-2)
+
++ [Layoffs Tracker](https://www.producthunt.com/posts/layoffs-tracker)
+
++ [Rizz Check](https://www.producthunt.com/posts/rizz-check)
+
++ [Instant Improv Suggestions](https://www.producthunt.com/posts/instant-improv-suggestions)
+
++ [refter](https://www.producthunt.com/posts/refter)
+
++ [Create My Test](https://www.producthunt.com/posts/create-my-test)
+
++ [Anxiety Simulator](https://www.producthunt.com/posts/anxiety-simulator)
+
++ [LOYABARA](https://www.producthunt.com/posts/loyabara)
+
++ [InteractAI](https://www.producthunt.com/posts/interactai)
+
++ [Dino Points](https://www.producthunt.com/posts/dino-points-2)
+
++ [Every Voice](https://www.producthunt.com/posts/every-voice)
+
++ [Houston](https://www.producthunt.com/posts/houston-4)
+
++ [hardestButton.com](https://www.producthunt.com/posts/hardestbutton-com)
+
++ [FlashEdge CDN](https://www.producthunt.com/posts/flashedge-cdn)
+
++ [WooWell](https://www.producthunt.com/posts/woowell-2)
+
++ [Coldscale.io](https://www.producthunt.com/posts/coldscale-io)
+
++ [Ayo Icons 2.0](https://www.producthunt.com/posts/ayo-icons-2-0)
+
++ [LoveLeetr](https://www.producthunt.com/posts/loveleetr)
+
++ [Flike - AI Sales Co-Pilot](https://www.producthunt.com/posts/flike-ai-sales-co-pilot)
+
++ [Fusion Copilot](https://www.producthunt.com/posts/fusion-copilot)
+
++ [UniqMail](https://www.producthunt.com/posts/uniqmail)
+
++ [Centerya](https://www.producthunt.com/posts/centerya)
+
++ [StorageLink](https://www.producthunt.com/posts/storagelink)
+

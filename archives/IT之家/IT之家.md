@@ -49,3 +49,7 @@
 
 + [2024 春节档票房破 50 亿，《热辣滚烫》《飞驰人生 2》《熊出没・逆转时空》前三](https://m.ithome.com/html/750254.htm)
 
++ [非永久停留 USB 2.0，苹果 Vision Pro 头显 USB-C 适配器可解锁 Thunderbolt](https://m.ithome.com/html/750232.htm)
+
++ [英伟达推出 RTX 聊天机器人，可在 RTX 30 和 40 GPU 上免费使用](https://m.ithome.com/html/750211.htm)
+
