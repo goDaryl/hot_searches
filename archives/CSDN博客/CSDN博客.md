@@ -153,3 +153,11 @@
 
 + [【RISC-V DSP设计】基于CEVA DSP架构的指令集分析（一）-总体介绍](https://blog.csdn.net/u011376987/article/details/136105749)
 
++ [Blazor OIDC 单点登录授权实例5 - 独立SSR App (net8 webapp ) 端授权](https://blog.csdn.net/alex_zoucn/article/details/136104930)
+
++ [数字二值图像处理与形状分析理论分析](https://blog.csdn.net/ccsss22/article/details/136115622)
+
++ [树莓派4B（Raspberry Pi 4B）使用docker搭建springBoot/springCloud服务](https://blog.csdn.net/qq_35215728/article/details/136100810)
+
++ [软件工程实践寒假作业](https://blog.csdn.net/striker030715/article/details/136113086)
+

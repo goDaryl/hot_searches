@@ -123,3 +123,11 @@
 
 + [类恶魔城新作《流放领主》现已正式上市](https://www.3dmgame.com/news/202402/3888397.html)
 
++ [传PS5 Pro无光驱版500美元 部分规格已确定](https://www.3dmgame.com/news/202402/3888404.html)
+
++ [新《神奇四侠》卡司名单公布 2025年7月上映](https://www.3dmgame.com/news/202402/3888405.html)
+
++ [4090运行《上古卷轴5》上千Mod+光追 画面震撼](https://www.3dmgame.com/news/202402/3888402.html)
+
++ [《匹诺曹的谎言》意外移除D加密 都是临时工的错！](https://www.3dmgame.com/news/202402/3888403.html)
+
