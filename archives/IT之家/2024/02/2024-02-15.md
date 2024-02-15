@@ -61,3 +61,7 @@
 
 + [理想 L6 官方预告发布：品牌首款 30 万元内车型，4 月上市](https://m.ithome.com/html/750385.htm)
 
++ [5G 卫星移动终端 +“影像旗舰”：小米 14 Ultra、荣耀 Magic6 RSR 同日入网](https://m.ithome.com/html/750379.htm)
+
++ [2+6 全性能核心方案，高通骁龙 8 Gen 4/5 芯片信息曝光](https://m.ithome.com/html/750381.htm)
+

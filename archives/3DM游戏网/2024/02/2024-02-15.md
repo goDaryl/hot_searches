@@ -201,3 +201,5 @@
 
 + [粉丝用虚幻5打造开放世界《怪物史莱克》演示](https://www.3dmgame.com/news/202402/3888437.html)
 
++ [Embracer已经裁员1400名员工 关闭7家工作室](https://www.3dmgame.com/news/202402/3888441.html)
+
