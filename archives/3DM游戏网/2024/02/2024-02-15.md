@@ -167,3 +167,5 @@
 
 + [《A Silent Desolation》Steam页面上线 末世科幻探索](https://www.3dmgame.com/news/202402/3888423.html)
 
++ [Windows 11 24H2速度起飞：正式支持USB4 80 Gbps！](https://www.3dmgame.com/news/202402/3888424.html)
+
