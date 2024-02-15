@@ -59,3 +59,5 @@
 
 + [警惕 AI 女友的“糖衣炮弹”：你想要陪伴，对方要你的数据](https://m.ithome.com/html/750366.htm)
 
++ [理想 L6 官方预告发布：品牌首款 30 万元内车型，4 月上市](https://m.ithome.com/html/750385.htm)
+
