@@ -169,3 +169,15 @@
 
 + [Windows 11 24H2速度起飞：正式支持USB4 80 Gbps！](https://www.3dmgame.com/news/202402/3888424.html)
 
++ [《Nyaaaanvy》2月22日登陆Steam/Switch 猫咪大乱斗](https://www.3dmgame.com/news/202402/3888430.html)
+
++ [2024春节档票房破60亿：这部电影突然宣布退出](https://www.3dmgame.com/news/202402/3888429.html)
+
++ [厂商宣布《冬日幸存者》延期一周发售以处理玩家反馈](https://www.3dmgame.com/news/202402/3888428.html)
+
++ [《农夫王朝2》宣布与STIHL合作 将产品加入到游戏中](https://www.3dmgame.com/news/202402/3888427.html)
+
++ [《前线任务2：重制版》NS实体版发售 经典战棋重制](https://www.3dmgame.com/news/202402/3888426.html)
+
++ [拳击游戏《无可争议》生涯模式现已正式开放](https://www.3dmgame.com/news/202402/3888425.html)
+
