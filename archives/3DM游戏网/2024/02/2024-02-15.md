@@ -131,3 +131,11 @@
 
 + [《匹诺曹的谎言》意外移除D加密 都是临时工的错！](https://www.3dmgame.com/news/202402/3888403.html)
 
++ [《家园3》不光游戏跳票，工作室还进行了裁员](https://www.3dmgame.com/news/202402/3888409.html)
+
++ [今年最大更新来了！Windows 11 24H2已蓄势待发](https://www.3dmgame.com/news/202402/3888408.html)
+
++ [《Arzette》登陆多平台 塞尔达衍生黑历史名作续篇](https://www.3dmgame.com/news/202402/3888407.html)
+
++ [微软确认今年的《使命召唤》新作10月发售](https://www.3dmgame.com/news/202402/3888406.html)
+
