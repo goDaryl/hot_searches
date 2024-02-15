@@ -77,3 +77,15 @@
 
 + [Active Vacation](https://dribbble.com/shots/)
 
++ [Spicy Dragon Noodles](https://dribbble.com/shots/)
+
++ [Davinci Logo design by milkinside](https://dribbble.com/shots/)
+
++ [Dear](https://dribbble.com/shots/)
+
++ [Kings College](https://dribbble.com/shots/)
+
++ [Simple Type Club 2024](https://dribbble.com/shots/)
+
++ [Harry Potter - Dust Jacket Collections](https://dribbble.com/shots/)
+
