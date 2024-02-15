@@ -45,3 +45,5 @@
 
 + [全网首发！Golang实现的Githack与原理详解](https://www.freebuf.com/articles/web/383608.html)
 
++ [企业安全之浅谈DevSecOps](https://www.freebuf.com/articles/es/377112.html)
+

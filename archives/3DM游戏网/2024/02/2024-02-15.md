@@ -139,3 +139,9 @@
 
 + [微软确认今年的《使命召唤》新作10月发售](https://www.3dmgame.com/news/202402/3888406.html)
 
++ [《ChocoNinja!》PC平台免费发布 2D横版冒险](https://www.3dmgame.com/news/202402/3888412.html)
+
++ [北濑佳范暗示《最终幻想7：重生》可能会有幸福结局](https://www.3dmgame.com/news/202402/3888410.html)
+
++ [《CONCRETE VISIONS》Steam上线 PS复古风FPS](https://www.3dmgame.com/news/202402/3888411.html)
+
