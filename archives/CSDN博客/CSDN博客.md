@@ -123,3 +123,7 @@
 
 + [OpenAI 最新发布的从文本生成视频模型 Sora 炸裂登场，它能根据文字指令创造逼真且富有想象力的场景](https://blog.csdn.net/fyfugoyfa/article/details/136126735)
 
++ [心理辅导|高校心理教育辅导系统|基于Springboot的高校心理教育辅导系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136133383)
+
++ [【LLM-RAG】BGE M3-embedding模型（模型篇|混合检索、多阶段训练）](https://blog.csdn.net/qq_35812205/article/details/136129356)
+
