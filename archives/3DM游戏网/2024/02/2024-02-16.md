@@ -159,3 +159,15 @@
 
 + [《死噛》新作登陆Steam 心理恐怖ADV名作](https://www.3dmgame.com/news/202402/3888476.html)
 
++ [AMD显卡能原生跑NVIDIA CUDA应用了！速度还挺快](https://www.3dmgame.com/news/202402/3888482.html)
+
++ [《后翼弃兵》主演安雅·泰勒-乔伊确认参演《沙丘2》](https://www.3dmgame.com/news/202402/3888481.html)
+
++ [《降世神通：最后的气宗》格斗游戏将于明年发售](https://www.3dmgame.com/news/202402/3888480.html)
+
++ [Xbox将于今年6月举行夏日发布会 介绍多款游戏大作](https://www.3dmgame.com/news/202402/3888479.html)
+
++ [《命悬一刃》5月Steam正式推出 1对1刀剑格斗](https://www.3dmgame.com/news/202402/3888478.html)
+
++ [Intel公开34个安全漏洞：其中涉及32款软件、2款固件](https://www.3dmgame.com/news/202402/3888477.html)
+

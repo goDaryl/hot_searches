@@ -49,3 +49,9 @@
 
 + [漏洞分析 | JumpServer未授权访问漏洞(CVE-2023-42442)](https://www.freebuf.com/vuls/390672.html)
 
++ [攻防演练 | 一次对某市级单位演习的总结学习](https://www.freebuf.com/defense/374008.html)
+
++ [攻防演练 | HW实战中钓鱼全流程梳理](https://www.freebuf.com/defense/374161.html)
+
++ [NetworkSherlock：一款基于Shodan的强大端口扫描工具](https://www.freebuf.com/sectool/389832.html)
+
