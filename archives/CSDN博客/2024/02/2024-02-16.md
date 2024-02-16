@@ -151,3 +151,7 @@
 
 + [[缓存] - 1.缓存共性问题](https://blog.csdn.net/besthezhaowen/article/details/136111466)
 
++ [机器学习：BN层介绍及深入理解](https://blog.csdn.net/weixin_51390582/article/details/136092368)
+
++ [论文阅读-面向机器学习的云工作负载预测模型的性能分析](https://blog.csdn.net/weixin_52861033/article/details/136113767)
+

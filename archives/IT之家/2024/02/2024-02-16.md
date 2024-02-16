@@ -27,3 +27,7 @@
 
 + [TikTok 原生应用登陆苹果 Vision Pro 头显：界面干净清爽、遵循 3D 纵深设计规范](https://m.ithome.com/html/750433.htm)
 
++ [贝尔金 10000 毫安时“苹果 Apple Watch 快充移动电源”新低：原价 699 元，现价 566 元](https://m.ithome.com/html/750414.htm)
+
++ [荣耀推出 X9b 手机：骁龙 6 Gen 1、108 MP 主摄，首发价 2299 港币](https://m.ithome.com/html/750397.htm)
+
