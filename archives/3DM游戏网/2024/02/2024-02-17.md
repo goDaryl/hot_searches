@@ -111,3 +111,17 @@
 
 + [《博德之门3》6号补丁上线 改进接吻动画修复Bug等](https://www.3dmgame.com/news/202402/3888501.html)
 
++ [《The Meridian Gate》Steam上线 类只狼横版刀剑战斗](https://www.3dmgame.com/news/202402/3888509.html)
+
++ [传《微软飞行模拟》、新《毁灭战士》将登陆PS5](https://www.3dmgame.com/news/202402/3888508.html)
+
++ [Epic游戏商城回顾年度数据 《死亡岛2》备受青睐](https://www.3dmgame.com/news/202402/3888507.html)
+
++ [Switch 2内部延期 现已改为2025年Q1发售](https://www.3dmgame.com/news/202402/3888504.html)
+
++ [首个iPhone 16镜头组件曝光 网友：iPhone 12SSSS来了](https://www.3dmgame.com/news/202402/3888506.html)
+
++ [《勇者斗恶龙：创世小玩家》已在Steam发售 售价198元](https://www.3dmgame.com/news/202402/3888505.html)
+
++ [《30 Days on Ship》Steam上线 海难货轮生存冒险](https://www.3dmgame.com/news/202402/3888503.html)
+
