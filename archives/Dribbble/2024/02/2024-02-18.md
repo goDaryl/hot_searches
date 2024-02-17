@@ -49,3 +49,19 @@
 
 + [The Auricular Site Graphic](https://dribbble.com/shots/)
 
++ [Hangar Sisters Secondary Logo](https://dribbble.com/shots/)
+
++ [La Gazette | April 2023](https://dribbble.com/shots/)
+
++ [The Purple Platoon.](https://dribbble.com/shots/)
+
++ [Finn](https://dribbble.com/shots/)
+
++ [Simple Type Club 2024](https://dribbble.com/shots/)
+
++ [Ross Mason on Awwwards](https://dribbble.com/shots/)
+
++ [4 Travelers Herbal Liqueur](https://dribbble.com/shots/)
+
++ [Billy Cannon Beer Label](https://dribbble.com/shots/)
+

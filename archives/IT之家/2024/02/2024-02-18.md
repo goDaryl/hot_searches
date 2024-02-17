@@ -25,3 +25,5 @@
 
 + [开源工具 Dopamine 2.0 发布：支持苹果 iPhone / iPad 越狱 iOS / iPadOS 15.0-16.6.1](https://m.ithome.com/html/750542.htm)
 
++ [支付宝 App 悄然上线洛天依“招财进宝”联动主题：号称“首款动态皮肤套装”，售 15.9 元](https://m.ithome.com/html/750591.htm)
+
