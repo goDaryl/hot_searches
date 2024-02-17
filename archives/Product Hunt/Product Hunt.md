@@ -119,3 +119,7 @@
 
 + [JobRoutes-Resume/Cover Letter Builder](https://www.producthunt.com/posts/jobroutes-resume-cover-letter-builder)
 
++ [Botroast.io](https://www.producthunt.com/posts/botroast-io)
+
++ [CRUBSTER](https://www.producthunt.com/posts/crubster)
+

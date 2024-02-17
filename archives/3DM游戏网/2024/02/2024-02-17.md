@@ -171,3 +171,7 @@
 
 + [经典《模拟山羊3》登陆Steam 爆笑山羊花样冒险](https://www.3dmgame.com/news/202402/3888530.html)
 
++ [《行星边际》被认定为边缘IP 转手出售给空壳公司](https://www.3dmgame.com/news/202402/3888534.html)
+
++ [《风火轮2：爆发》销量低于预期 但实现正面投资回报](https://www.3dmgame.com/news/202402/3888533.html)
+
