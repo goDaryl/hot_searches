@@ -51,3 +51,5 @@
 
 + [木马服务启动技术之svchost巧妙利用](https://www.freebuf.com/articles/system/390246.html)
 
++ [如何使用KnowsMore对Microsoft活动目录执行安全渗透测试](https://www.freebuf.com/sectool/389834.html)
+
