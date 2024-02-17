@@ -125,3 +125,11 @@
 
 + [【ARM架构】ARMv8-A 系统中的安全架构概述](https://blog.csdn.net/weixin_45264425/article/details/136126098)
 
++ [SpringCloud-Nacos集群搭建](https://blog.csdn.net/weixin_41793160/article/details/136138569)
+
++ [模糊数学方法及其应用](https://blog.csdn.net/Gabriel100yi/article/details/136144281)
+
++ [SpringBoot RabbitMQ收发消息、配置及原理](https://blog.csdn.net/weixin_44612246/article/details/136033832)
+
++ [centos7.9 搭建k8s](https://blog.csdn.net/qq_35429326/article/details/136121555)
+
