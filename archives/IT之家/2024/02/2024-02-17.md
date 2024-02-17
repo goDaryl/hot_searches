@@ -59,3 +59,5 @@
 
 + [全球首家在飞机上提供苹果 Vision Pro 头显，高端航空公司 Beond 官宣](https://m.ithome.com/html/750524.htm)
 
++ [开源工具 Dopamine 2.0 发布：支持苹果 iPhone / iPad 越狱 iOS / iPadOS 15.0-16.6.1](https://m.ithome.com/html/750542.htm)
+
