@@ -107,3 +107,7 @@
 
 + [Xbox老大斯宾塞：独占游戏在未来十年内将不那么重要](https://www.3dmgame.com/news/202402/3888500.html)
 
++ [《DOTA2》BB迪拜别墅杯 Falcons 3:0 Liquid夺冠](https://www.3dmgame.com/news/202402/3888502.html)
+
++ [《博德之门3》6号补丁上线 改进接吻动画修复Bug等](https://www.3dmgame.com/news/202402/3888501.html)
+
