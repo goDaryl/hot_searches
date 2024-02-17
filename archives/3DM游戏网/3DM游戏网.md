@@ -181,3 +181,7 @@
 
 + [华硕发布32寸4K@240Hz OLED游戏显示器 1299美元](https://www.3dmgame.com/news/202402/3888537.html)
 
++ [传新《神鬼寓言》2025年发售 《Contraband》今年发售](https://www.3dmgame.com/news/202402/3888539.html)
+
++ [《自杀小队》Steam玩家流失惨重 最低时仅222人](https://www.3dmgame.com/news/202402/3888538.html)
+
