@@ -185,3 +185,9 @@
 
 + [《自杀小队》Steam玩家流失惨重 最低时仅222人](https://www.3dmgame.com/news/202402/3888538.html)
 
++ [温子仁《梅根2.0》改档！重回人工智能恐怖世界](https://www.3dmgame.com/news/202402/3888542.html)
+
++ [诺兰想拍一部恐怖片 但目前没有适合的故事](https://www.3dmgame.com/news/202402/3888541.html)
+
++ [传《刺客信条：RED》女主故事占40% 将有鬼怪元素](https://www.3dmgame.com/news/202402/3888540.html)
+
