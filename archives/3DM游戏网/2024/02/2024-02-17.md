@@ -175,3 +175,7 @@
 
 + [《风火轮2：爆发》销量低于预期 但实现正面投资回报](https://www.3dmgame.com/news/202402/3888533.html)
 
++ [《星际战甲》iOS版确定2月20日免费发布 经典射击游戏](https://www.3dmgame.com/news/202402/3888535.html)
+
++ [《绝地潜兵2》未来将推出跨平台存档和进度共享功能](https://www.3dmgame.com/news/202402/3888536.html)
+
