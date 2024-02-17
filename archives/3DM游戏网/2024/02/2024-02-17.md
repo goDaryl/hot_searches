@@ -147,3 +147,7 @@
 
 + [《Backrooms: The Project》Steam试玩发布 后室恐怖探索](https://www.3dmgame.com/news/202402/3888515.html)
 
++ [《博德之门3》开发人员这次终于可以畅所欲言了](https://www.3dmgame.com/news/202402/3888521.html)
+
++ [《我的世界》官方发布DLC 玩家制作网络礼仪指引游戏](https://www.3dmgame.com/news/202402/3888522.html)
+
