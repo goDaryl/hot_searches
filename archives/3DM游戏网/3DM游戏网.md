@@ -151,3 +151,5 @@
 
 + [《我的世界》官方发布DLC 玩家制作网络礼仪指引游戏](https://www.3dmgame.com/news/202402/3888522.html)
 
++ [视觉ADV《贽之匣庭》新DLC上线 追加更多美少女剧情](https://www.3dmgame.com/news/202402/3888523.html)
+

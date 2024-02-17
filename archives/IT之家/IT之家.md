@@ -41,3 +41,5 @@
 
 + [垂直排列再添新证，苹果 iPhone 16 相机组件曝光](https://m.ithome.com/html/750537.htm)
 
++ [英伟达 RTX 5090 显卡爆料：加速频率超 3 GHz、192 个 SM、功耗 520W](https://m.ithome.com/html/750564.htm)
+

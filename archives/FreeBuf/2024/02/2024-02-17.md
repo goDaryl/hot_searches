@@ -47,3 +47,7 @@
 
 + [攻防演练 | 某市级HW复盘总结](https://www.freebuf.com/articles/web/373706.html)
 
++ [攻防演习之三天拿下官网站群](https://www.freebuf.com/articles/system/356258.html)
+
++ [木马服务启动技术之svchost巧妙利用](https://www.freebuf.com/articles/system/390246.html)
+
