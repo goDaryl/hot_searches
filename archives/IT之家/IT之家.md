@@ -37,3 +37,5 @@
 
 + [三星 Galaxy S24 系列手机首次更新细节公布，多项拍摄体验提升](https://m.ithome.com/html/750517.htm)
 
++ [UFS 3.1 误传为 4.0，一加 12R 256GB 手机开放全额退款](https://m.ithome.com/html/750550.htm)
+
