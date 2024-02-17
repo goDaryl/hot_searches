@@ -27,3 +27,5 @@
 
 + [支付宝 App 悄然上线洛天依“招财进宝”联动主题：号称“首款动态皮肤套装”，售 15.9 元](https://m.ithome.com/html/750591.htm)
 
++ [主打“影像旗舰”，小米 14 Ultra 手机详细规格和渲染图曝光](https://m.ithome.com/html/750631.htm)
+
