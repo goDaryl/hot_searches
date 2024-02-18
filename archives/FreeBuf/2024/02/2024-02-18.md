@@ -41,3 +41,5 @@
 
 + [某企业安全规划实战篇](https://www.freebuf.com/articles/379866.html)
 
++ [针对macOS盗版UltraEdit恶意软件的深度技术剖析](https://www.freebuf.com/articles/endpoint/391619.html)
+
