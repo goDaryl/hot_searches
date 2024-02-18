@@ -175,3 +175,9 @@
 
 + [《胜利女神》新女神艾蕾格公开 短发遮目巨胸露脐](https://www.3dmgame.com/news/202402/3888579.html)
 
++ [GunHo财报透露 《死亡之旅：让他去死》正在重新开发中](https://www.3dmgame.com/news/202402/3888582.html)
+
++ [《白色情人节2：谎言之花》完整版将登陆主机平台 2024年发售](https://www.3dmgame.com/news/202402/3888580.html)
+
++ [万代魂施行塑胶回收计划 并推出混合木屑高达](https://www.3dmgame.com/news/202402/3888581.html)
+

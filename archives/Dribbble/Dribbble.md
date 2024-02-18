@@ -105,3 +105,7 @@
 
 + [Millenium Falcon](https://dribbble.com/shots/)
 
++ [Draw the Back of a Cloud Graphic](https://dribbble.com/shots/)
+
++ [Tarot card #08: Strength](https://dribbble.com/shots/)
+
