@@ -117,3 +117,19 @@
 
 + [《超越善恶》高清复刻版已被韩国机构分级](https://www.3dmgame.com/news/202402/3888543.html)
 
++ [《幻兽帕鲁》开发商将加强反作弊措施 要严厉打击](https://www.3dmgame.com/news/202402/3888558.html)
+
++ [弩哥：《死亡搁浅2》将更暴力 更注重动作](https://www.3dmgame.com/news/202402/3888554.html)
+
++ [《龙之信条2》Steam后台更新 或将推出试玩版](https://www.3dmgame.com/news/202402/3888556.html)
+
++ [为弥补奖励结算错误问题 《地狱潜者2》本周末提供50%经验加成](https://www.3dmgame.com/news/202402/3888557.html)
+
++ [《天幕探索者》Steam页面上线 PvPvE幻想风战斗](https://www.3dmgame.com/news/202402/3888555.html)
+
++ [Epic承认部分玩家下载游戏时出现客户端崩溃情况](https://www.3dmgame.com/news/202402/3888553.html)
+
++ [暗黑类ARPG《最后纪元》新预告 正式版2月21日发售](https://www.3dmgame.com/news/202402/3888552.html)
+
++ [《不朽者传奇》在英国超市大甩卖 售价仅1英镑](https://www.3dmgame.com/news/202402/3888551.html)
+

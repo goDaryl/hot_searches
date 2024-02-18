@@ -37,3 +37,5 @@
 
 + [光刻技术进化，ASML 探索 Hyper-NA EUV：2030 推进至 0.7nm 工艺](https://m.ithome.com/html/750603.htm)
 
++ [法拉第未来因拖欠租金被房东起诉，最严重将面临失去洛杉矶总部风险](https://m.ithome.com/html/750626.htm)
+
