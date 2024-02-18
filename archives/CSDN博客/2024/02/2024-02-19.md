@@ -119,3 +119,9 @@
 
 + [【计算机网络】第五章·运输层](https://blog.csdn.net/hehelm/article/details/136126258)
 
++ [【机器学习】机器学习是什么以及有哪些应用场景](https://blog.csdn.net/weixin_44299027/article/details/136157627)
+
++ [基于微信小程序电子书小说平台系统设计与实现（PHP+Mysql后台）](https://blog.csdn.net/u013818205/article/details/136004731)
+
++ [扩展语音识别系统：增强功能与多语言支持](https://blog.csdn.net/2202_75568470/article/details/136160138)
+
