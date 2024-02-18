@@ -49,3 +49,5 @@
 
 + [请先理解了云原生再谈容器安全](https://www.freebuf.com/articles/container/377477.html)
 
++ [渗透实战 | 从存储桶sts泄露到js投毒](https://www.freebuf.com/articles/web/391458.html)
+
