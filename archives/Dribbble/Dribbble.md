@@ -49,3 +49,19 @@
 
 + [Davinci Logo design by milkinside](https://dribbble.com/shots/)
 
++ [The Auricular Site Graphic](https://dribbble.com/shots/)
+
++ [La Gazette | April 2023](https://dribbble.com/shots/)
+
++ [Hangar Sisters Secondary Logo](https://dribbble.com/shots/)
+
++ [Cactus Dragon](https://dribbble.com/shots/)
+
++ [Finn](https://dribbble.com/shots/)
+
++ [Dune Alternative Poster](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #3](https://dribbble.com/shots/)
+
++ [Desert Blossom ????️](https://dribbble.com/shots/)
+
