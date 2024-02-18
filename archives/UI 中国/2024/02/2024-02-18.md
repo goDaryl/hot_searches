@@ -15,3 +15,5 @@
 
 + [你好，20岁！贴吧焕新重塑体验](https://www.ui.cn/detail/662277.html)
 
++ [盘点2023年SD-GUI工具及其创作生态](https://www.ui.cn/detail/662290.html)
+
