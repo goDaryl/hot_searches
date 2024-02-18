@@ -39,3 +39,5 @@
 
 + [法拉第未来因拖欠租金被房东起诉，最严重将面临失去洛杉矶总部风险](https://m.ithome.com/html/750626.htm)
 
++ [小米 14 Ultra 手机发布在即，现已开启线下盲订](https://m.ithome.com/html/750640.htm)
+

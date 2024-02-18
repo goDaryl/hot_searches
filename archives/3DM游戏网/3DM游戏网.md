@@ -133,3 +133,13 @@
 
 + [《不朽者传奇》在英国超市大甩卖 售价仅1英镑](https://www.3dmgame.com/news/202402/3888551.html)
 
++ [《使命召唤》电竞选手起诉动视：非法垄断 索赔6.8亿美元](https://www.3dmgame.com/news/202402/3888563.html)
+
++ [宝可梦联动初音未来新曲MV公开 激情动感新演绎](https://www.3dmgame.com/news/202402/3888562.html)
+
++ [《龙珠Z：卡卡罗特》“悟空的下一个旅程”DLC实机演示 月底上线](https://www.3dmgame.com/news/202402/3888561.html)
+
++ [《自杀小队》开发商表示 解决登陆和服务器问题仍是首要任务](https://www.3dmgame.com/news/202402/3888560.html)
+
++ [传Xbox Series X|S中期换代机型被取消开发 后者有AI功能](https://www.3dmgame.com/news/202402/3888559.html)
+

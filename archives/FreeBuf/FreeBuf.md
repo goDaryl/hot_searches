@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 某军民融合企业平台被境外间谍入侵；Office六年前漏洞仍被利用](https://www.freebuf.com/news/391862.html)
 
++ [2024全球汽车网安风险焦点：GenAI、API、软件与社交媒体](https://www.freebuf.com/articles/neopoints/391803.html)
+
