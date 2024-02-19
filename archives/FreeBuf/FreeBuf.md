@@ -57,3 +57,5 @@
 
 + [记一次有趣的逻辑漏洞挖洞经历](https://www.freebuf.com/articles/web/391879.html)
 
++ [谷歌Chrome浏览器新功能亮相，可有效抵御黑客攻击](https://www.freebuf.com/news/391956.html)
+
