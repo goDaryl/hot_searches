@@ -33,3 +33,7 @@
 
 + [苹果 iPhone 16 Pro 渲染图曝光：启用全新相机岛设计](https://m.ithome.com/html/750754.htm)
 
++ [比亚迪秦 PLUS 荣耀版上市，售 7.98 万元起](https://m.ithome.com/html/750779.htm)
+
++ [小鹏汽车法务部“开工”：博主“小牛说车”公开致歉并作出经济赔偿](https://m.ithome.com/html/750742.htm)
+
