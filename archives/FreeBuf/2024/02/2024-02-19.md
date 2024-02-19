@@ -43,3 +43,5 @@
 
 + [解析黑客工具VajraSpy：恶意软件“分身”的最佳实践](https://www.freebuf.com/articles/neopoints/391739.html)
 
++ [FreeBuf 早报 | 宝马发生数据泄露事件；美国对疑似伊朗军事间谍船开展网络攻击](https://www.freebuf.com/news/391916.html)
+
