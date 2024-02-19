@@ -83,3 +83,5 @@
 
 + [小八:兄弟你跟车好紧  #chiikawa贴纸](http://www.acfun.cn/v/ac43793193)
 
++ [《上春山》一点点](http://www.acfun.cn/v/ac43790395)
+
