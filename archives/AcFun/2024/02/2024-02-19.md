@@ -81,3 +81,5 @@
 
 + [春 山 学 霸 之 战](http://www.acfun.cn/v/ac43789539)
 
++ [小八:兄弟你跟车好紧  #chiikawa贴纸](http://www.acfun.cn/v/ac43793193)
+

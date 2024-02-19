@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 宝马发生数据泄露事件；美国对疑似伊朗军事间谍船开展网络攻击](https://www.freebuf.com/news/391916.html)
 
++ [企业信息安全规划工作路径](https://www.freebuf.com/consult/391655.html)
+
