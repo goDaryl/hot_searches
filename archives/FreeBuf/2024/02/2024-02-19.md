@@ -51,3 +51,9 @@
 
 + [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
 
++ [ESET修复了Windows产品中的高严重性本地权限提升漏洞](https://www.freebuf.com/news/391969.html)
+
++ [微软和OpenAI将检查AI聊天记录，以寻找恶意账户](https://www.freebuf.com/news/391967.html)
+
++ [记一次有趣的逻辑漏洞挖洞经历](https://www.freebuf.com/articles/web/391879.html)
+
