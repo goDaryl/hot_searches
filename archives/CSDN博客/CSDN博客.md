@@ -125,3 +125,5 @@
 
 + [扩展语音识别系统：增强功能与多语言支持](https://blog.csdn.net/2202_75568470/article/details/136160138)
 
++ [python-自动化篇-运维-网络-IP](https://blog.csdn.net/stqer/article/details/136134862)
+
