@@ -117,3 +117,9 @@
 
 + [如何使用docker compose结合内网穿透实现公网访问web可视化界面](https://blog.csdn.net/qq_65596720/article/details/136175371)
 
++ [【AIGC】OpenAI推出王炸级模型sora,颠覆AI视频行业](https://blog.csdn.net/jinxinxin1314/article/details/136180288)
+
++ [猫头虎分享：Springboot项目中实现IP白名单限制访问接口的深度探讨](https://blog.csdn.net/qq_44866828/article/details/136164574)
+
++ [OpenAI视频生成模型Sora的全面解析：从ViViT、Diffusion Transformer到NaViT、VideoPoet](https://blog.csdn.net/v_JULY_v/article/details/136143475)
+
