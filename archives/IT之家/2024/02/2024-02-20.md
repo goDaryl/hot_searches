@@ -65,3 +65,5 @@
 
 + [4999 元起，华为 MateBook 14 2023 款笔记本官方限时降价 400 元](https://m.ithome.com/html/750925.htm)
 
++ [爆火 Sora 震惊威尔・史密斯，真人整活吃意面视频](https://m.ithome.com/html/751012.htm)
+
