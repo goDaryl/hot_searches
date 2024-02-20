@@ -153,3 +153,9 @@
 
 + [Netflix定格动画《宝可梦：礼宾部》续集正在制作中](https://www.3dmgame.com/news/202402/3888749.html)
 
++ [《漫威金刚狼》开发最早期视频：加载图标是蜘蛛侠](https://www.3dmgame.com/news/202402/3888747.html)
+
++ [肉鸽弹幕游戏《酸性星球》即将推出免费体验版](https://www.3dmgame.com/news/202402/3888753.html)
+
++ [GBA4iOS开发者推出苹果Vision Pro版Game Boy模拟器](https://www.3dmgame.com/news/202402/3888754.html)
+
