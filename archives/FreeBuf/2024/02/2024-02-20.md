@@ -43,3 +43,7 @@
 
 + [勒索软件”扛把子“倒下？11国联合执法行动宣布已查封LockBit](https://www.freebuf.com/news/392044.html)
 
++ [Bricks WordPress 网站生成器中存在 RCE 漏洞，黑客正在积极利用](https://www.freebuf.com/news/392060.html)
+
++ [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
+
