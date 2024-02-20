@@ -53,3 +53,7 @@
 
 + [小米 Civi 4 手机爆料，骁龙 8 系旗舰平台、徕卡联名、金属中框](https://m.ithome.com/html/750984.htm)
 
++ [小米 14 Ultra 手机现身 Geekbench 跑分平台，2 月 22 日发布](https://m.ithome.com/html/750910.htm)
+
++ [华为发布 eKitStor Xtreme 系列 M.2 闪存条，以及全新数据湖解决方案](https://m.ithome.com/html/751006.htm)
+

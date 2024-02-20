@@ -217,3 +217,7 @@
 
 + [《SCP 087》PC平台试玩发布 第一人称恐怖探索](https://www.3dmgame.com/news/202402/3888775.html)
 
++ [Reddit将用户内容出售给AI开发企业 每年可获利6000万美元](https://www.3dmgame.com/news/202402/3888785.html)
+
++ [马斯克：特斯拉早已掌握视频生成技术 更胜过OpenAI](https://www.3dmgame.com/news/202402/3888784.html)
+
