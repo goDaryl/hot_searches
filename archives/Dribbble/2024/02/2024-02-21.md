@@ -49,3 +49,21 @@
 
 + [Hawthorne Heights Merch Designs](https://dribbble.com/shots/)
 
++ [Gardener](https://dribbble.com/shots/)
+
++ [Mill Valley Music Festival Posters](https://dribbble.com/shots/)
+
++ [Featherweight Label Design - Up All Nitro](https://dribbble.com/shots/)
+
++ [Masks, Arms & Golden Cats.](https://dribbble.com/shots/)
+
++ [Active Vacation](https://dribbble.com/shots/)
+
++ [Hold Still](https://dribbble.com/shots/)
+
++ [Design for "Chocosquad" Chocolate Boxes](https://dribbble.com/shots/)
+
++ [Philosopher Portraits (Engraving) III](https://dribbble.com/shots/)
+
++ [Plaza Theatre - Bangalore](https://dribbble.com/shots/)
+
