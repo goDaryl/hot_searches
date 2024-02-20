@@ -159,3 +159,31 @@
 
 + [GBA4iOS开发者推出苹果Vision Pro版Game Boy模拟器](https://www.3dmgame.com/news/202402/3888754.html)
 
++ [首位马斯克脑机接口患者已完全康复 可用思想操控鼠标](https://www.3dmgame.com/news/202402/3888768.html)
+
++ [4个月增加300万《极限竞速：地平线5》玩家数突破3700万](https://www.3dmgame.com/news/202402/3888767.html)
+
++ [越南买家买RTX3060Ti被骗 包装盒里只有一双女鞋](https://www.3dmgame.com/news/202402/3888766.html)
+
++ [《绝地潜兵2》开发商CEO建议玩家理性消费 等服务器恢复了再买](https://www.3dmgame.com/news/202402/3888764.html)
+
++ [日本资深职业游戏战队警告欺诈频发 不会利用未成年牟利](https://www.3dmgame.com/news/202402/3888763.html)
+
++ [完全自动驾驶倒计时！特斯拉FSD v12已开始在海外推送](https://www.3dmgame.com/news/202402/3888762.html)
+
++ [下一部《极品飞车》部分细节：将以9代做参考](https://www.3dmgame.com/news/202402/3888761.html)
+
++ [《绿蝇侠2：超限》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3888760.html)
+
++ [《最终幻想7重生》故事篇预告 2月29日发售](https://www.3dmgame.com/news/202402/3888759.html)
+
++ [日本游戏老厂ARIKA宣布被威胁案件完结 已与嫌犯和解](https://www.3dmgame.com/news/202402/3888758.html)
+
++ [快速熟悉《豆豆的村庄》各个角落！游戏界面详解](https://www.3dmgame.com/news/202402/3888756.html)
+
++ [《西瓜游戏》与健身APP联动 推出体感新玩法](https://www.3dmgame.com/news/202402/3888755.html)
+
++ [分析师称索尼将在今年发布PS5Pro 为《GTA6》做准备](https://www.3dmgame.com/news/202402/3888757.html)
+
++ [《终结者》女主演不想再回归重启：已经烂大街](https://www.3dmgame.com/news/202402/3888765.html)
+

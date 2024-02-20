@@ -143,3 +143,7 @@
 
 + [SICTF #round3 web+osint+rmc（较全--更新中）](https://blog.csdn.net/NYG694/article/details/136149903)
 
++ [如何使用Docker搭建YesPlayMusic网易云音乐播放器并发布至公网访问](https://blog.csdn.net/2201_75743654/article/details/136178151)
+
++ [Angular 路由器：使用 RouterLink、Navigate 或 NavigateByUrl 进行导航](https://blog.csdn.net/rubys007/article/details/136118112)
+
