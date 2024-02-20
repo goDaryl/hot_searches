@@ -25,3 +25,9 @@
 
 + [苹果国行 iPhone XS Max 手机开放 iOS 16.4 签名验证通道，降级上车从速](https://m.ithome.com/html/750927.htm)
 
++ [违法航拍 C919 等民航客机，一无人机账号公然发布上百条黑飞视频](https://m.ithome.com/html/750931.htm)
+
++ [（更新：限时 7.89 万元起）长安启源 A05 插混轿车跟进价格战，降价 1.1 万元](https://m.ithome.com/html/750884.htm)
+
++ [谢赛宁紧急辟谣：Sora 跟我一点关系没有，他们 996 搞一年了](https://m.ithome.com/html/750827.htm)
+

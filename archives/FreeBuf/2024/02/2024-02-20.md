@@ -41,3 +41,5 @@
 
 + [渗透实战 | 从存储桶sts泄露到js投毒](https://www.freebuf.com/articles/web/391458.html)
 
++ [勒索软件”扛把子“倒下？11国联合执法行动宣布已查封LockBit](https://www.freebuf.com/news/392044.html)
+
