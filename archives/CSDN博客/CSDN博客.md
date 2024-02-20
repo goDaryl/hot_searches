@@ -101,3 +101,29 @@
 
 + [【Linux系统化学习】深入理解文件系统(Ext2文件系统)](https://blog.csdn.net/qq_55119554/article/details/136156405)
 
++ [spring boot3参数校验基本用法](https://blog.csdn.net/qq_62262918/article/details/136180252)
+
++ [【MySQL】Navicat/SQLyog连接Ubuntu中的数据库（MySQL）](https://blog.csdn.net/weixin_62951900/article/details/136197179)
+
++ [基于Java+SpringBoot+Vue.js前后端分离农产品购物商城系统设计和实现 可行性分析](https://blog.csdn.net/u013818205/article/details/136114872)
+
++ [【Oracle】玩转Oracle数据库（二）：体系结构、存储结构与各类参数](https://blog.csdn.net/m0_57532432/article/details/136144002)
+
++ [JS逆向进阶篇【去哪儿旅行登录】【中篇-滑动轨迹破解&补浏览器环境破参数】](https://blog.csdn.net/qq_44907926/article/details/136108015)
+
++ [分析视频中人物的表情python](https://blog.csdn.net/weixin_63655126/article/details/136167866)
+
++ [全方位 多角度的自动化测试(白盒自动化-接口自动化-UI自动化、业务流程自动化测试)](https://blog.csdn.net/qq_27947819/article/details/136169705)
+
++ [AxureRp8成果发布后不能直接预览的解决办法](https://blog.csdn.net/yelangkingwuzuhu/article/details/136125661)
+
++ [DP读书：社区文档（小白向）解读——iSulad 轻量级容器引擎功能介绍以及代码架构解析](https://blog.csdn.net/m0_74037814/article/details/136194592)
+
++ [微信小程序之会议OA个人中心后台交互](https://blog.csdn.net/weixin_74457789/article/details/136196932)
+
++ [计算机网络——网络安全](https://blog.csdn.net/weixin_65190179/article/details/135020859)
+
++ [【多机器人】基于A星实现多机器人避障路径规划附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/136200560)
+
++ [【网络安全】什么样的人适合学？该怎么学？](https://blog.csdn.net/weixin_57514792/article/details/136178303)
+
