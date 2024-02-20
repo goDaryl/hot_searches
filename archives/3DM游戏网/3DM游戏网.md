@@ -187,3 +187,15 @@
 
 + [《终结者》女主演不想再回归重启：已经烂大街](https://www.3dmgame.com/news/202402/3888765.html)
 
++ [Steam最新一周销量榜 《绝地潜兵2》二连冠](https://www.3dmgame.com/news/202402/3888774.html)
+
++ [俄罗斯历史题材RPG《Смута（混乱）》实机 4月4日发售](https://www.3dmgame.com/news/202402/3888772.html)
+
++ [网传《GTA6》比前作更暴力 还能双持武器射击](https://www.3dmgame.com/news/202402/3888771.html)
+
++ [2023全球智能手机销量前10：苹果三星霸榜 国产手机无一入选](https://www.3dmgame.com/news/202402/3888770.html)
+
++ [新一期宝可梦Presents发布会官宣 2月27日晚10点播出](https://www.3dmgame.com/news/202402/3888769.html)
+
++ [《完蛋！我被美女包围》将有前传DLC 有五名新女主](https://www.3dmgame.com/news/202402/3888773.html)
+
