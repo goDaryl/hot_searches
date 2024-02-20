@@ -81,3 +81,5 @@
 
 + [【自翻】Chiikawa第140话「超可口超人5」ちいかわ](http://www.acfun.cn/v/ac43801825)
 
++ [【live2D模型展示】这么可爱的布偶猫不进来看看嘛~【画师修炼】](http://www.acfun.cn/v/ac43801875)
+

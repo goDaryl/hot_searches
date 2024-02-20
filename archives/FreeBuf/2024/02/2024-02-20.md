@@ -47,3 +47,7 @@
 
 + [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
 
++ [八大间谍软件公司活动“猖獗”，Meta采取系列措施制裁](https://www.freebuf.com/news/392080.html)
+
++ [成功绕过 Android 安全防护，Anatsa木马瞄准欧洲国家银行](https://www.freebuf.com/news/392076.html)
+

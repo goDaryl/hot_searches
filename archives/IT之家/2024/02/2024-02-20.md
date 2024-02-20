@@ -35,3 +35,11 @@
 
 + [vivo X Fold 3 折叠屏真机图曝光，惊现苹果 macOS 界面](https://m.ithome.com/html/750916.htm)
 
++ [小米 Redmi Note 12 Turbo 手机获推澎湃 OS 更新：安卓跨版本升级、全新融合设备中心](https://m.ithome.com/html/750860.htm)
+
++ [消息称苹果 iPhone 16 Pro 手机有望提供“沙漠钛”或“钛灰色”配色](https://m.ithome.com/html/750933.htm)
+
++ [Sora 不懂物理世界，翻车神图全网爆笑](https://m.ithome.com/html/750840.htm)
+
++ [吉利帝豪 L HiP 龙腾版插混轿车 8.98 万元起上市，100km 纯电续航](https://m.ithome.com/html/751001.htm)
+
