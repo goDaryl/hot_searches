@@ -271,3 +271,5 @@
 
 + [《最终幻想14》Xbox版BETA公测现已开启](https://www.3dmgame.com/news/202402/3888875.html)
 
++ [《匹诺曹的谎言》DLC确认于公司2024财年推出](https://www.3dmgame.com/news/202402/3888879.html)
+
