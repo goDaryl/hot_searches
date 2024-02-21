@@ -121,3 +121,7 @@
 
 + [【Vue3】使用ref与reactive创建响应式对象](https://blog.csdn.net/null18/article/details/136193411)
 
++ [论文精读--word2vec](https://blog.csdn.net/m0_73202283/article/details/136190629)
+
++ [22-k8s中pod的调度-亲和性affinity](https://blog.csdn.net/2302_79199605/article/details/136175200)
+
