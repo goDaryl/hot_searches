@@ -101,3 +101,23 @@
 
 + [小米4A路由器如何刷OpenWRT并结合内网穿透实现公网远程访问](https://blog.csdn.net/qq_73017178/article/details/136171987)
 
++ [爬虫知识--02](https://blog.csdn.net/qq_48064830/article/details/136190121)
+
++ [基于Springboot动物大全和百度AI动物智能识别系统设计与实现 开题报告参考](https://blog.csdn.net/u013818205/article/details/136136706)
+
++ [Elasticsearch：使用 ELSER v2 进行语义搜索](https://blog.csdn.net/UbuntuTouch/article/details/136210919)
+
++ [【Simulink系列】——动态系统仿真 之 连续系统&线性连续系统](https://blog.csdn.net/weixin_51658186/article/details/136010591)
+
++ [SpringBoot中使用PageHelper插件实现Mybatis分页](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/136189442)
+
++ [【Docker】Docker对用户的应用程序使用容器技术遵循的五个步骤和GRSEC详细讲解](https://blog.csdn.net/shaomou/article/details/136209400)
+
++ [【气动学】基于matlab隐式算法输气管道瞬模拟【含Matlab源码 3985期】](https://blog.csdn.net/TIQCmatlab/article/details/136222135)
+
++ [ONLYOFFICE：打造安全、便捷的在线办公环境](https://blog.csdn.net/2301_77162163/article/details/136208755)
+
++ [【计算机网络】一些乱七八糟内容](https://blog.csdn.net/m0_63288666/article/details/136184029)
+
++ [【Vue3】使用ref与reactive创建响应式对象](https://blog.csdn.net/null18/article/details/136193411)
+
