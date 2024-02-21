@@ -43,3 +43,9 @@
 
 + [新款极氪 001 汽车 2 月 27 日发布，中国首位 F1 车手周冠宇担任首席操控官](https://m.ithome.com/html/751187.htm)
 
++ [IDC：华为超越苹果成为 2023 年 Q4 中国平板电脑市场出货量第一](https://m.ithome.com/html/751207.htm)
+
++ [消息称国产手机厂商 Top5 之一芯片研发已取得阶段性进展，AP 和 BP 推进中](https://m.ithome.com/html/751106.htm)
+
++ [时隔近 2 年，锤子便签 iOS 版“诈尸”更新 3.9.0 版“新增排序功能”](https://m.ithome.com/html/751066.htm)
+
