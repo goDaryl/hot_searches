@@ -105,3 +105,21 @@
 
 + [《波兰球：编年史》3月5日登陆PS5/XSX 支持免费升级](https://www.3dmgame.com/news/202402/3888794.html)
 
++ [《哥布林之石》3月12日同步登陆Steam和Epic](https://www.3dmgame.com/news/202402/3888802.html)
+
++ [《圣兽之王》将提供香草社历史最大内容分量](https://www.3dmgame.com/news/202402/3888803.html)
+
++ [纪念《师父》发售两周年 开发商带来2件新服装](https://www.3dmgame.com/news/202402/3888804.html)
+
++ [非对称多人对抗游戏《外太空杀人小丑》6/4推出](https://www.3dmgame.com/news/202402/3888796.html)
+
++ [《龙珠Z：卡卡罗特》第二季最终DLC现已上线](https://www.3dmgame.com/news/202402/3888797.html)
+
++ [肉鸽动作《Temtem: Swarm》面向PC/主机公布](https://www.3dmgame.com/news/202402/3888798.html)
+
++ [好评手游《蹒跚英雄+》年内移植Steam平台](https://www.3dmgame.com/news/202402/3888799.html)
+
++ [《夜莺传说》已推出EA版 上市预告片分享](https://www.3dmgame.com/news/202402/3888800.html)
+
++ [消息称任天堂将于今年6月对外公布Switch 2](https://www.3dmgame.com/news/202402/3888801.html)
+

@@ -131,3 +131,5 @@
 
 + [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/136171084)
 
++ [【控制】基于MPC控制器实现无人机圆轨迹设计附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/136201121)
+
