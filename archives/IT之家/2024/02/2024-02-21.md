@@ -27,3 +27,7 @@
 
 + [长安深蓝 SL03 全新纯电版车型上市，15.69~17.39 万元](https://m.ithome.com/html/751094.htm)
 
++ [小米 Redmi Book Pro 14/16 2024 笔记本官宣，全面接入澎湃 OS 协同](https://m.ithome.com/html/750976.htm)
+
++ [中国新入网手机需支持 5G 消息，消息称苹果将为 iMessage 引入 RCS 消息标准](https://m.ithome.com/html/751114.htm)
+

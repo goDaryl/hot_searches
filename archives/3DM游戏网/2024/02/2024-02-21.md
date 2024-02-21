@@ -123,3 +123,7 @@
 
 + [消息称任天堂将于今年6月对外公布Switch 2](https://www.3dmgame.com/news/202402/3888801.html)
 
++ [索尼对棒鸡不太满意：开发预算和进度还有改进空间](https://www.3dmgame.com/news/202402/3888806.html)
+
++ [《艾尔登法环》DLC“黄金树之影”首个预告今晚放出](https://www.3dmgame.com/news/202402/3888805.html)
+

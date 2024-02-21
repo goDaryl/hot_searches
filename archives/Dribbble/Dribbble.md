@@ -87,3 +87,5 @@
 
 + [Whale Logo](https://dribbble.com/shots/)
 
++ [Lucky Sticker Pack](https://dribbble.com/shots/)
+
