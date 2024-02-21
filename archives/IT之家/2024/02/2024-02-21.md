@@ -51,3 +51,5 @@
 
 + [2024 款苹果 iPad 新品尺寸曝光：更大的 Air、更薄的 Pro](https://m.ithome.com/html/751136.htm)
 
++ [消息称 vivo X100 Ultra 手机落地 2 亿像素大底潜望长焦、支持双向卫星通信](https://m.ithome.com/html/751185.htm)
+
