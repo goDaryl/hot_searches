@@ -203,3 +203,15 @@
 
 + [《铁拳8》首个DLC角色公布 将持续添加免费剧情内容](https://www.3dmgame.com/news/202402/3888839.html)
 
++ [《蜘蛛侠：多元宇宙》艺术指导《未来蝙蝠侠》动画电影概念图公开](https://www.3dmgame.com/news/202402/3888849.html)
+
++ [因暗改游戏道具掉率 五百多名玩家集体上诉Nexon](https://www.3dmgame.com/news/202402/3888850.html)
+
++ [麦当劳将与动画公司Studio Pierrot合作 推出全新动画](https://www.3dmgame.com/news/202402/3888846.html)
+
++ [塔防游戏《十字防守》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202402/3888847.html)
+
++ [《City 20》上架Steam年内抢测 沙盒都市生存经营](https://www.3dmgame.com/news/202402/3888848.html)
+
++ [《破晓传说》全球销量突破300万 官方贺图发布](https://www.3dmgame.com/news/202402/3888845.html)
+
