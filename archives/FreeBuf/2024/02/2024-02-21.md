@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 监听手指滑动屏幕竟可还原指纹；黑客险些在空中劫持以色列客机](https://www.freebuf.com/news/392099.html)
 
++ [代码审计思路经验谈](https://www.freebuf.com/vuls/391915.html)
+
