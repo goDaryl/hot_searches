@@ -31,3 +31,5 @@
 
 + [中国新入网手机需支持 5G 消息，消息称苹果将为 iMessage 引入 RCS 消息标准](https://m.ithome.com/html/751114.htm)
 
++ [比亚迪海豚荣耀版车型官宣 2 月 23 日上市，全新灰色、红色外观](https://m.ithome.com/html/751091.htm)
+
