@@ -191,3 +191,15 @@
 
 + [《全境封锁2》发布“Veiled Tactics”服装活动预告片](https://www.3dmgame.com/news/202402/3888829.html)
 
++ [AI换脸乌克兰美女在中国赚钱：软件费用每月仅72美元](https://www.3dmgame.com/news/202402/3888844.html)
+
++ [第三部《最终幻想7》重制版或将于2027年发售](https://www.3dmgame.com/news/202402/3888843.html)
+
++ [“惊奇队长”布丽·拉尔森提前试玩《碧姬公主 表演时刻！》](https://www.3dmgame.com/news/202402/3888842.html)
+
++ [VR游戏《灵魂契约》新系统 武器必杀技等情报公开](https://www.3dmgame.com/news/202402/3888841.html)
+
++ [手游《彩虹六号：SMOL》预告公布 需Netflix会员](https://www.3dmgame.com/news/202402/3888840.html)
+
++ [《铁拳8》首个DLC角色公布 将持续添加免费剧情内容](https://www.3dmgame.com/news/202402/3888839.html)
+
