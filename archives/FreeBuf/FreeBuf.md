@@ -49,3 +49,9 @@
 
 + [Authentication身份验证漏洞内容学习笔记和通关攻略](https://www.freebuf.com/articles/web/392013.html)
 
++ [黑客利用谷歌云运行服务传播三大银行木马](https://www.freebuf.com/news/392271.html)
+
++ [新 Wi-Fi 漏洞导致 Android 和 Linux 设备近乎“裸奔”](https://www.freebuf.com/news/392285.html)
+
++ [首发“通杀”某逻辑漏洞思路| 月神亲授SRC实战课](https://www.freebuf.com/consult/392268.html)
+
