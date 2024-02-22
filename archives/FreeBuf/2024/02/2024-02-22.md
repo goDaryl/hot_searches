@@ -45,3 +45,7 @@
 
 + [FreeBuf 早报 | IDC发布全球数字信贷十大预测；英国顶尖大学遭受针对性DDoS攻击](https://www.freebuf.com/news/392228.html)
 
++ [数据安全治理学习——数据安全现状分析](https://www.freebuf.com/articles/database/392101.html)
+
++ [Authentication身份验证漏洞内容学习笔记和通关攻略](https://www.freebuf.com/articles/web/392013.html)
+
