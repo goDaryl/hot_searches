@@ -43,3 +43,5 @@
 
 + [2024年ICS和OT威胁预测](https://www.freebuf.com/articles/neopoints/392200.html)
 
++ [FreeBuf 早报 | IDC发布全球数字信贷十大预测；英国顶尖大学遭受针对性DDoS攻击](https://www.freebuf.com/news/392228.html)
+

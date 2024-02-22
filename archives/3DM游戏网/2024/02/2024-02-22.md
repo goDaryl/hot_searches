@@ -107,3 +107,31 @@
 
 + [《终结的百合花》续作2024年内登陆Switch](https://www.3dmgame.com/news/202402/3888886.html)
 
++ [战术合作生存恐怖游戏《无尽寒冬》公布 登陆PC](https://www.3dmgame.com/news/202402/3888897.html)
+
++ [《监狱建筑师2》宣布延期两个月 5月正式发布](https://www.3dmgame.com/news/202402/3888898.html)
+
++ [2023年有500款以上Steam游戏收入超3百万美元](https://www.3dmgame.com/news/202402/3888899.html)
+
++ [开放世界动作RPG《燧石枪：黎明之围》新实机预告](https://www.3dmgame.com/news/202402/3888900.html)
+
++ [《艾尔登法环》DLC典藏版内容公布 包含穿刺者“梅瑟莫”雕像](https://www.3dmgame.com/news/202402/3888901.html)
+
++ [宫崎英高：许多人想要《血源》重制版 但目前无法确认](https://www.3dmgame.com/news/202402/3888895.html)
+
++ [《艾尔登法环》黄金树之影是目前唯一DLC 宫崎英高：未来或有更多想法](https://www.3dmgame.com/news/202402/3888896.html)
+
++ [《艾尔登法环》DLC黄金树之影是FS迄今为止最大DLC](https://www.3dmgame.com/news/202402/3888894.html)
+
++ [GBA经典游戏《忍者刑警》年内登陆Switch和PS](https://www.3dmgame.com/news/202402/3888888.html)
+
++ [《完美音浪》PS5版公布 3月19日推出](https://www.3dmgame.com/news/202402/3888889.html)
+
++ [《Grounded》PS5/PS4/NS版4月16日推出](https://www.3dmgame.com/news/202402/3888890.html)
+
++ [原微软第一方《盗贼之海》4月30日登陆PS5](https://www.3dmgame.com/news/202402/3888891.html)
+
++ [初代《怪物猎人物语》将于今年夏季强化登陆PC平台](https://www.3dmgame.com/news/202402/3888892.html)
+
++ [《真女神转生5：复仇》6/21登陆各大平台](https://www.3dmgame.com/news/202402/3888893.html)
+
