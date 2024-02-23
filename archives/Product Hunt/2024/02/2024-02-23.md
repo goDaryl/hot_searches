@@ -101,3 +101,37 @@
 
 + [Chatsimple](https://www.producthunt.com/posts/chatsimple-2)
 
++ [Gemma](https://www.producthunt.com/posts/gemma)
+
++ [Design System Sync — Figma to Webflow](https://www.producthunt.com/posts/design-system-sync-figma-to-webflow)
+
++ [Numerics - Business Dashboards](https://www.producthunt.com/posts/numerics-business-dashboards)
+
++ [Palisade - Email Spam Score & Compliance](https://www.producthunt.com/posts/palisade-email-spam-score-compliance)
+
++ [CaptionCreator.cc](https://www.producthunt.com/posts/captioncreator-cc)
+
++ [Toppled! A daily word game](https://www.producthunt.com/posts/toppled-a-daily-word-game)
+
++ [JustMark - AI Zero-Burden  Bookmark](https://www.producthunt.com/posts/justmark-ai-zero-burden-bookmark)
+
++ [TechTok](https://www.producthunt.com/posts/techtok)
+
++ [Vadoo AI](https://www.producthunt.com/posts/vadoo-ai)
+
++ [Wing Playground](https://www.producthunt.com/posts/wing-playground)
+
++ [Smart Checkout Widgets](https://www.producthunt.com/posts/smart-checkout-widgets)
+
++ [SuperSquad - Do it or Lose it Habit App](https://www.producthunt.com/posts/supersquad-do-it-or-lose-it-habit-app)
+
++ [Notify Me (Intercom <> Slack)](https://www.producthunt.com/posts/notify-me-intercom-slack)
+
++ [Meetz Ai](https://www.producthunt.com/posts/meetz-ai-2)
+
++ [FinFloh](https://www.producthunt.com/posts/finfloh)
+
++ [Dosty Petcare](https://www.producthunt.com/posts/dosty-petcare)
+
++ [Heeps.ai](https://www.producthunt.com/posts/heeps-ai)
+
