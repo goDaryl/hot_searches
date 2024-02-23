@@ -101,3 +101,31 @@
 
 + [《超级猴子球 香蕉大乱斗》6月25日发售 16人联机对战](https://www.3dmgame.com/news/202402/3888946.html)
 
++ [《最终幻想7：重生》新视频 蒂法爱丽丝穿泳装吸睛](https://www.3dmgame.com/news/202402/3889011.html)
+
++ [微软这么卑微？游戏登陆PS5没有Xbox工作室标识](https://www.3dmgame.com/news/202402/3889010.html)
+
++ [《狂想异星》序章免费登陆Steam 肉鸽动作射击](https://www.3dmgame.com/news/202402/3889009.html)
+
++ [昔日iOS热门游戏《无尽之剑》已移植至PC 免费玩](https://www.3dmgame.com/news/202402/3889008.html)
+
++ [《心灵杀手2》照片模式2024年春季推出 免费更新](https://www.3dmgame.com/news/202402/3889012.html)
+
++ [自《Bloomburrow》后 万智牌将停产中文实体卡](https://www.3dmgame.com/news/202402/3889007.html)
+
++ [《完美音浪》将跳过NS直接登陆Switch 2主机](https://www.3dmgame.com/news/202402/3889006.html)
+
++ [《最终幻想7：重生》公布官方视频直播发布规则指引](https://www.3dmgame.com/news/202402/3889003.html)
+
++ [拳头免费2v2格斗游戏正式定名《2XKO》 2025年发售](https://www.3dmgame.com/news/202402/3889002.html)
+
++ [《最终幻想7：重生》包含大量LGBTQ+角色 随处可见](https://www.3dmgame.com/news/202402/3889004.html)
+
++ [宫崎英高：现在是我们继续发展和培养人才的好时机](https://www.3dmgame.com/news/202402/3889001.html)
+
++ [手游厂商Gameloft乌克兰和加拿大工作室裁员](https://www.3dmgame.com/news/202402/3889005.html)
+
++ [《小恶魔附体》发布6分钟宣传视频 制作组仍未放弃该游戏](https://www.3dmgame.com/news/202402/3888999.html)
+
++ [《凯蒂小岛》全新更新预告 3月2日全部上线Arcade平台](https://www.3dmgame.com/news/202402/3889000.html)
+
