@@ -97,3 +97,7 @@
 
 + [StickerApp x Red Halftone: Sticker Sheet](https://dribbble.com/shots/)
 
++ [Lucky Sticker Pack](https://dribbble.com/shots/)
+
++ [Design for "Chocosquad" Chocolate Boxes](https://dribbble.com/shots/)
+

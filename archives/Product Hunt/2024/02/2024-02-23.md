@@ -167,3 +167,7 @@
 
 + [Mindr for Vision Pro](https://www.producthunt.com/posts/mindr-for-vision-pro)
 
++ [LiveChatAI](https://www.producthunt.com/posts/livechatai-2)
+
++ [Grake](https://www.producthunt.com/posts/grake)
+
