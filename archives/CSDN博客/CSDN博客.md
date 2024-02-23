@@ -105,3 +105,17 @@
 
 + [微信小程序uniapp+vue校园任务跑腿接单平台java+python+nodejs+php](https://blog.csdn.net/dongyun2022/article/details/136220527)
 
++ [【计算机网络】socket 网络套接字](https://blog.csdn.net/YoungMLet/article/details/136111428)
+
++ [考虑碳排放的大件货物多式联运路径优化建模与算法设计](https://blog.csdn.net/liu1048332962/article/details/136237088)
+
++ [k-邻近算法（kNN）](https://blog.csdn.net/m0_68111267/article/details/136221298)
+
++ [Apache Doris 发展历程、技术特性及云原生时代的未来规划](https://blog.csdn.net/m0_60915009/article/details/136224715)
+
++ [猫头虎分享：什么是Web3撸毛？](https://blog.csdn.net/qq_44866828/article/details/136228525)
+
++ [【监控】Spring Boot+Prometheus+Grafana实现可视化监控](https://blog.csdn.net/Joker_ZJN/article/details/136244253)
+
++ [国产大语言模型对比评测（二）](https://blog.csdn.net/zhangchuangzhuang/article/details/135968188)
+
