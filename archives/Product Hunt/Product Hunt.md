@@ -165,3 +165,5 @@
 
 + [UsignDoc](https://www.producthunt.com/posts/usigndoc)
 
++ [Mindr for Vision Pro](https://www.producthunt.com/posts/mindr-for-vision-pro)
+
