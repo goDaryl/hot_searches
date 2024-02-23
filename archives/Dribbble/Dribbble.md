@@ -75,3 +75,11 @@
 
 + [Featherweight Label Design - Up All Nitro](https://dribbble.com/shots/)
 
++ [Lucky Manoeuvres](https://dribbble.com/shots/)
+
++ [Hangar Sisters Secondary Logo](https://dribbble.com/shots/)
+
++ [Corn Dawg](https://dribbble.com/shots/)
+
++ [Cooking Time](https://dribbble.com/shots/)
+

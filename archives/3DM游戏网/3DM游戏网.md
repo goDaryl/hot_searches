@@ -149,3 +149,17 @@
 
 + [《WHAT THE CAR?》Steam页面上线 年内发售](https://www.3dmgame.com/news/202402/3889013.html)
 
++ [小米平板6S Pro 3299元起：首发Wi-Fi 7+120W秒充](https://www.3dmgame.com/news/202402/3889029.html)
+
++ [冒险游戏《九龙诡录2》 Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202402/3889028.html)
+
++ [系列新篇《牙狼 钢之继承者》光斩骑士亮相 酷炫极致](https://www.3dmgame.com/news/202402/3889027.html)
+
++ [推出不到2年 《虚幻争霸：过载》即将于4月关服](https://www.3dmgame.com/news/202402/3889026.html)
+
++ [《魔兽世界》经典版专家模式将于3月1日推出独行模式](https://www.3dmgame.com/news/202402/3889025.html)
+
++ [《装甲核心6》获得了成功 FS社希望继续制作系列游戏](https://www.3dmgame.com/news/202402/3889024.html)
+
++ [《夜莺传说》开发商：正在优先考虑和开发离线模式](https://www.3dmgame.com/news/202402/3889023.html)
+
