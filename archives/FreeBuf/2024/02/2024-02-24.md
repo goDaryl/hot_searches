@@ -43,3 +43,5 @@
 
 + [ARL分析与进阶使用](https://www.freebuf.com/sectool/392094.html)
 
++ [FreeBuf 周报 | Meta 为收集用户数据再出“奇招”；70%的企业遭遇网络欺诈的频次增长](https://www.freebuf.com/news/392438.html)
+

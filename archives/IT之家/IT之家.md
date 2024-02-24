@@ -25,3 +25,5 @@
 
 + [高合汽车创始人丁磊内部讲话录音曝光：号召员工自救，现场高喊“我们坚强，我们必胜”](https://m.ithome.com/html/751610.htm)
 
++ [大喜之日新郎戴着苹果 Vision Pro 拍照，新娘表情亮了](https://m.ithome.com/html/751717.htm)
+
