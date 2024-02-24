@@ -121,3 +121,15 @@
 
 + [绝美神和声!一人成团挑战K团神曲《Red moon》！妖精献唱！【Kalafina】（翻唱）](http://www.acfun.cn/v/ac43842657)
 
++ [“我把全世界的美好送给你”|治愈女声《小美满》](http://www.acfun.cn/v/ac43839400)
+
++ [要坐我的车兜风嘛~Mr.Taxi【独家】](http://www.acfun.cn/v/ac43846531)
+
++ [“山寨”塔斯汀，塔诗汀的味道究竟怎么样？](http://www.acfun.cn/v/ac43845228)
+
++ [欢欢喜喜闹元宵，肥肥龙年有对象](http://www.acfun.cn/v/ac43839514)
+
++ [小姐姐够沙雕](http://www.acfun.cn/v/ac43840728)
+
++ [咚咚咚！顺水逐流~](http://www.acfun.cn/v/ac43844893)
+

@@ -189,3 +189,5 @@
 
 + [官方联动 在2千美元的割草机器人上玩《毁灭战士》](https://www.3dmgame.com/news/202402/3889115.html)
 
++ [Intel确认下一代CPU依然有台积电代工 Arrow Lake用N3](https://www.3dmgame.com/news/202402/3889120.html)
+
