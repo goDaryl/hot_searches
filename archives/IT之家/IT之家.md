@@ -69,3 +69,7 @@
 
 + [高合汽车官方直播发声，总监杨悦卿哽咽道歉并呼吁“再给一些时间”](https://m.ithome.com/html/751830.htm)
 
++ [英伟达黄仁勋：华为是非常优秀的公司，可聚集许多芯片构建庞大系统](https://m.ithome.com/html/751838.htm)
+
++ [传祺 M8 宗师先锋版上市：29.58 万元，车机基于华为 HarmonyOS 开发](https://m.ithome.com/html/751810.htm)
+
