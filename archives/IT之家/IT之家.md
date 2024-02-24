@@ -43,3 +43,5 @@
 
 + [英伟达“煮酒论英雄”，华为首次被视为 AI 领域主要竞争对手](https://m.ithome.com/html/751663.htm)
 
++ [英伟达总市值破 2 万亿美元](https://m.ithome.com/html/751744.htm)
+
