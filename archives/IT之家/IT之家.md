@@ -27,3 +27,5 @@
 
 + [大喜之日新郎戴着苹果 Vision Pro 拍照，新娘表情亮了](https://m.ithome.com/html/751717.htm)
 
++ [华为 P30、Mate 20 等 12 款手机开启鸿蒙 HarmonyOS 4 公测招募](https://m.ithome.com/html/751557.htm)
+

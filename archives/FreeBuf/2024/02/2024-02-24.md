@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | Meta 为收集用户数据再出“奇招”；70%的企业遭遇网络欺诈的频次增长](https://www.freebuf.com/news/392438.html)
 
++ [PWN学习之格式化字符串及CTF常见利用手法](https://www.freebuf.com/geek/391911.html)
+
