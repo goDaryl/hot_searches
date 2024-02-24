@@ -129,3 +129,7 @@
 
 + [MoAIJobs](https://www.producthunt.com/posts/moaijobs)
 
++ [PDF2Anki 3.0](https://www.producthunt.com/posts/pdf2anki-3-0)
+
++ [Persuva ai](https://www.producthunt.com/posts/persuva-ai)
+
