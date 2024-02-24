@@ -107,3 +107,19 @@
 
 + [如何使用Docker部署开源Leanote蚂蚁笔记并发布个人博客至公网](https://blog.csdn.net/xz2935117143/article/details/136233586)
 
++ [SpringCloud-Gateway解决跨域问题](https://blog.csdn.net/weixin_41793160/article/details/136262653)
+
++ [IntelliJ IDEA 创建Spring Boot 项目&整合jdbc详细步骤](https://blog.csdn.net/qq_41840843/article/details/136235706)
+
++ [Docker：使用Nvidia官方的pytorch、tensorflow、TensorRT镜像创建Container容器](https://blog.csdn.net/u013250861/article/details/136269365)
+
++ [kafka为什么性能这么高？](https://blog.csdn.net/huanghuozhiye/article/details/136263757)
+
++ [实现外网手机或者电脑随时随地远程访问家里的电脑主机(linux为例)](https://blog.csdn.net/w346665682/article/details/136271493)
+
++ [SpringBoot+Docker：高效容器化的最佳实践](https://blog.csdn.net/agonie201218/article/details/136240653)
+
++ [大型商用平台线上数据库故障恢复纪实](https://blog.csdn.net/zxcvbnmlxy/article/details/136256814)
+
++ [（3）(3.6) 用于OpenTX的Yaapu遥测脚本](https://blog.csdn.net/qq_20016593/article/details/136186218)
+
