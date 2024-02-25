@@ -107,3 +107,19 @@
 
 + [Wing Playground](https://www.producthunt.com/posts/wing-playground)
 
++ [Growth Hacking Kit 4.0](https://www.producthunt.com/posts/growth-hacking-kit-4-0)
+
++ [Riff](https://www.producthunt.com/posts/riff-3)
+
++ [Commit Mono](https://www.producthunt.com/posts/commit-mono)
+
++ [DeskFrame](https://www.producthunt.com/posts/deskframe)
+
++ [Freel](https://www.producthunt.com/posts/freel)
+
++ [once.tools](https://www.producthunt.com/posts/once-tools)
+
++ [KeepRecord](https://www.producthunt.com/posts/keeprecord)
+
++ [CopyFrame](https://www.producthunt.com/posts/copyframe)
+
