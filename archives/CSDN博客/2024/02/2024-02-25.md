@@ -171,3 +171,9 @@
 
 + [MATLAB：数组与矩阵](https://blog.csdn.net/2302_79085918/article/details/136270051)
 
++ [【MySQL】连接查询和自连接的学习和总结](https://blog.csdn.net/Aileenvov/article/details/136243376)
+
++ [Python爬虫-使用代理伪装IP](https://blog.csdn.net/lizhongjun1005/article/details/136250138)
+
++ [外包干了3个月，技术退步明显](https://blog.csdn.net/2301_77645573/article/details/136244531)
+
