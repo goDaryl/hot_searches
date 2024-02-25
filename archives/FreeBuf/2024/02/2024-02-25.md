@@ -41,3 +41,5 @@
 
 + [新 Wi-Fi 漏洞导致 Android 和 Linux 设备近乎“裸奔”](https://www.freebuf.com/news/392285.html)
 
++ [内网渗透瑞士军刀-impacket工具解析（八）](https://www.freebuf.com/articles/neopoints/392223.html)
+

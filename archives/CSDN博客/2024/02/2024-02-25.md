@@ -123,3 +123,7 @@
 
 + [（3）(3.6) 用于OpenTX的Yaapu遥测脚本](https://blog.csdn.net/qq_20016593/article/details/136186218)
 
++ [世界顶级名校计算机专业学习使用教材汇总](https://blog.csdn.net/Aileenvov/article/details/136232307)
+
++ [基于YOLOv8/YOLOv7/YOLOv6/YOLOv5的无人机目标检测系统（Python+PySide6界面+训练代码）](https://blog.csdn.net/qq_32892383/article/details/136025141)
+
