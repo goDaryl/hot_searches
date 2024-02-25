@@ -107,3 +107,9 @@
 
 + [《空洞骑士》发售七周年 《丝之歌》在哪里](https://www.3dmgame.com/news/202402/3889183.html)
 
++ [双摇杆肉鸽机甲射击游戏《合金重组》移植Switch](https://www.3dmgame.com/news/202402/3889188.html)
+
++ [单人开发2D银河恶魔城游戏《原始星球》明年上市](https://www.3dmgame.com/news/202402/3889187.html)
+
++ [主机版《生化公司：救赎》确定2月27日发售](https://www.3dmgame.com/news/202402/3889186.html)
+
