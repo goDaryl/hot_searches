@@ -105,3 +105,7 @@
 
 + [Glyph beer 30](https://dribbble.com/shots/)
 
++ [Tarot card #09: The Hermit](https://dribbble.com/shots/)
+
++ [Growcase Design Services Icons](https://dribbble.com/shots/)
+
