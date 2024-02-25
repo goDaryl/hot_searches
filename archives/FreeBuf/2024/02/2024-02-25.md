@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/392406.html)
 
++ [深入解析RealWorldCTF 2024体验赛PWN方向题目](https://www.freebuf.com/defense/392232.html)
+
