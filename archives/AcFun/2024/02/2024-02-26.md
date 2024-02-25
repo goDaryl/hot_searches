@@ -63,3 +63,9 @@
 
 + [飞一般的感觉](http://www.acfun.cn/v/ac43849136)
 
++ [★满三千蕉加更★网络上常见的经典gif动态图源视频 第二百五十一期](http://www.acfun.cn/v/ac43855972)
+
++ [太伟大了7BT1！(7.62X54R，PKP步兵机枪)](http://www.acfun.cn/v/ac43853241)
+
++ [这是在干嘛？](http://www.acfun.cn/v/ac43849204)
+
