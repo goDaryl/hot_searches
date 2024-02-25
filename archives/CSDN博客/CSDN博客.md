@@ -139,3 +139,9 @@
 
 + [[计算机网络]---TCP协议](https://blog.csdn.net/qq_61552595/article/details/136204675)
 
++ [探索设计模式的魅力：状态模式揭秘-如何优雅地处理复杂状态转换](https://blog.csdn.net/danci_/article/details/136242484)
+
++ [你听说过柔性数组吗？](https://blog.csdn.net/2301_80221228/article/details/136261722)
+
++ [【Spring Cloud】实现微服务调用的负载均衡](https://blog.csdn.net/Qingai521/article/details/135912210)
+
