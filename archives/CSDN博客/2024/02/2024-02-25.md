@@ -127,3 +127,7 @@
 
 + [基于YOLOv8/YOLOv7/YOLOv6/YOLOv5的无人机目标检测系统（Python+PySide6界面+训练代码）](https://blog.csdn.net/qq_32892383/article/details/136025141)
 
++ [OpenWRT部署web站点并结合内网穿透实现无公网ip远程访问](https://blog.csdn.net/fq157856469/article/details/136233641)
+
++ [外包干了一个月，技术明显进步。。。。。](https://blog.csdn.net/2301_77645834/article/details/136244563)
+

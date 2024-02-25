@@ -43,3 +43,5 @@
 
 + [内网渗透瑞士军刀-impacket工具解析（八）](https://www.freebuf.com/articles/neopoints/392223.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/392406.html)
+
