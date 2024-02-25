@@ -123,3 +123,21 @@
 
 + [CopyFrame](https://www.producthunt.com/posts/copyframe)
 
++ [The Ultimate Web Design Toolkit](https://www.producthunt.com/posts/the-ultimate-web-design-toolkit)
+
++ [Sales Objections Trainer](https://www.producthunt.com/posts/sales-objections-trainer)
+
++ [Cartoonifier](https://www.producthunt.com/posts/cartoonifier)
+
++ [BeeKrowd - AI financial model partner](https://www.producthunt.com/posts/beekrowd-ai-financial-model-partner)
+
++ [LinkedIn AI Post Editor](https://www.producthunt.com/posts/linkedin-ai-post-editor)
+
++ [Mokapus](https://www.producthunt.com/posts/mokapus)
+
++ [15-minute Business Plans](https://www.producthunt.com/posts/15-minute-business-plans)
+
++ [MyMemo](https://www.producthunt.com/posts/mymemo)
+
++ [Saner.AI](https://www.producthunt.com/posts/saner-ai-1)
+
