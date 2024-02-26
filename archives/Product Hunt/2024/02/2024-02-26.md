@@ -153,3 +153,5 @@
 
 + [Immersive Translate Bilingual Video](https://www.producthunt.com/posts/immersive-translate-bilingual-video)
 
++ [Bookmarks Extension](https://www.producthunt.com/posts/bookmarks-extension)
+

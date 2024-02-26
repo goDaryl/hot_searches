@@ -57,3 +57,9 @@
 
 + [荣耀官宣 Magic6 RSR 保时捷设计手机 3 月发布，卫星通信影像旗舰](https://m.ithome.com/html/751959.htm)
 
++ [元老回归：魅族官宣“老魅友”杨颜将出席 29 日特别活动并发表演讲](https://m.ithome.com/html/752022.htm)
+
++ [Nokia 3310 5G 功能机预计成为诺基亚手机“绝唱”，搭载 SailfishOS 旗鱼系统](https://m.ithome.com/html/752038.htm)
+
++ [“电动帕萨特”来了：上汽大众 ID.7 S 实车曝光](https://m.ithome.com/html/752059.htm)
+
