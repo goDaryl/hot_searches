@@ -27,3 +27,13 @@
 
 + [贾跃亭朋友圈评论高合汽车：“行业的耻辱”](https://m.ithome.com/html/751963.htm)
 
++ [华为新机入网工信部，预计来自 nova 12 系列](https://m.ithome.com/html/751942.htm)
+
++ [电动自行车电池强制性国家标准即将出台，多地已制定地方性相关技术标准](https://m.ithome.com/html/751968.htm)
+
++ [中兴努比亚多款新机外观公布，将推出 nubia Music 手机](https://m.ithome.com/html/751961.htm)
+
++ [荣耀 Magic6 Pro 手机 DXOMARK 测试结果出炉，前摄、屏幕、电池均为第 1](https://m.ithome.com/html/751953.htm)
+
++ [红魔 8S Pro 手机至高优惠 1700 元：骁龙 8 Gen 2 领先版处理器，到手价 3449 元起](https://m.ithome.com/html/751935.htm)
+
