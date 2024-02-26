@@ -49,3 +49,7 @@
 
 + [消息称小米 OLED 平板和显示器已经开案，还有透明款产品](https://m.ithome.com/html/751949.htm)
 
++ [小米 Redmi G Pro 2024 游戏本 3 月 4 日发布：i9-14900HX + RTX 4060](https://m.ithome.com/html/752016.htm)
+
++ [用户网购苹果 iPhone 15 收到山寨机，亚马逊致歉](https://m.ithome.com/html/752032.htm)
+
