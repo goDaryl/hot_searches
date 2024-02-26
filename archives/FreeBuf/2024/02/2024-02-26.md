@@ -51,3 +51,9 @@
 
 + [渗透测试 | Burpsuite 漏洞扫描介绍与实战分享](https://www.freebuf.com/articles/network/306286.html)
 
++ [SendGrid 最新网络钓鱼活动正在“瞄准”中小型企业](https://www.freebuf.com/news/392548.html)
+
++ [ICO发布通知，禁止Serco Leisure公司使用面部识别技术记录员工出勤情况](https://www.freebuf.com/news/392579.html)
+
++ [某 PyPI 软件包出现异常更新，黑客利用其传播 Nova Sentinel 恶意软件](https://www.freebuf.com/news/392568.html)
+
