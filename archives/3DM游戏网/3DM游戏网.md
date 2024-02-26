@@ -119,3 +119,17 @@
 
 + [玩家用《我的世界》还原《GTA6》预告片](https://www.3dmgame.com/news/202402/3889189.html)
 
++ [被取消游戏《小小大星球Hub》官方演示视频造泄露](https://www.3dmgame.com/news/202402/3889197.html)
+
++ [《GT赛车7》已成为该系列美国第二畅销游戏 即将登顶](https://www.3dmgame.com/news/202402/3889198.html)
+
++ [《地狱潜者2》开发者正在开发一些真正超酷的东西](https://www.3dmgame.com/news/202402/3889196.html)
+
++ [《重返寂静岭》电影现已在德国慕尼黑杀青](https://www.3dmgame.com/news/202402/3889195.html)
+
++ [Hobby启动VR机甲展示 《变形金刚》《前线任务》等在列](https://www.3dmgame.com/news/202402/3889194.html)
+
++ [传《上古卷轴6》非Xbox独占 首发还登陆PS5](https://www.3dmgame.com/news/202402/3889193.html)
+
++ [《模拟人生5》PC预发布版在网上泄露 有D加密](https://www.3dmgame.com/news/202402/3889192.html)
+
