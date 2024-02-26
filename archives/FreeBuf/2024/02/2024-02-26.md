@@ -61,3 +61,7 @@
 
 + [如何使用GAP-Burp-Extension扫描潜在的参数和节点](https://www.freebuf.com/sectool/390223.html)
 
++ [工信部：加大多方安全计算、数据溯源、商用密码等在工业领域试点应用](https://www.freebuf.com/news/392628.html)
+
++ [OWASP发布《AI大模型应用网络安全治理检查清单》](https://www.freebuf.com/articles/392622.html)
+

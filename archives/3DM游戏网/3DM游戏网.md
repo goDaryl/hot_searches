@@ -195,3 +195,5 @@
 
 + [FuRyu动作PRG《REYNATIS》发布首支完整预告片](https://www.3dmgame.com/news/202402/3889221.html)
 
++ [中国移动：争取到2026年底实现5G-A的全量商用](https://www.3dmgame.com/news/202402/3889230.html)
+
