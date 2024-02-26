@@ -55,3 +55,5 @@
 
 + [卢伟冰：小米 SU7 汽车最早第二季度开始交付，国内已拥有 2000 万智能手机高端用户](https://m.ithome.com/html/752125.htm)
 
++ [荣耀官宣 Magic6 RSR 保时捷设计手机 3 月发布，卫星通信影像旗舰](https://m.ithome.com/html/751959.htm)
+
