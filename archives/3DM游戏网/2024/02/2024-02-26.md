@@ -133,3 +133,13 @@
 
 + [《模拟人生5》PC预发布版在网上泄露 有D加密](https://www.3dmgame.com/news/202402/3889192.html)
 
++ [传《神秘海域》重启版和1代重制版开发中](https://www.3dmgame.com/news/202402/3889199.html)
+
++ [95号公路狂奔马成热点新闻 《费城询问报》推恶搞游戏《Horse 95》](https://www.3dmgame.com/news/202402/3889200.html)
+
++ [米哈游注册新商标“星布谷地” 或是模拟经营类新作](https://www.3dmgame.com/news/202402/3889201.html)
+
++ [《杀手寓言》动画确定迪士尼+独家网络发布 梶裕贵出演](https://www.3dmgame.com/news/202402/3889202.html)
+
++ [类魂游戏多 宫崎英高无压力：玩家很享受我们的游戏](https://www.3dmgame.com/news/202402/3889203.html)
+
