@@ -113,3 +113,9 @@
 
 + [主机版《生化公司：救赎》确定2月27日发售](https://www.3dmgame.com/news/202402/3889186.html)
 
++ [《绝地潜兵2》销量超过了300万套](https://www.3dmgame.com/news/202402/3889191.html)
+
++ [《勇气默示录2》3周年 制作人确定年内有新动态](https://www.3dmgame.com/news/202402/3889190.html)
+
++ [玩家用《我的世界》还原《GTA6》预告片](https://www.3dmgame.com/news/202402/3889189.html)
+

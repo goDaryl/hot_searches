@@ -41,3 +41,5 @@
 
 + [企业信息安全规划工作路径](https://www.freebuf.com/consult/391655.html)
 
++ [Pawn Storm使用暴力破解和静默攻击瞄准高价值目标](https://www.freebuf.com/articles/392073.html)
+
