@@ -45,3 +45,7 @@
 
 + [小米 14 Ultra 手机亮相 MWC 2024，海外版电池容量降至 5000 毫安时](https://m.ithome.com/html/751974.htm)
 
++ [鸿蒙智行连续两天“晒战报”：问界全系车型 24 日大定破 1500 台，25 日破 1800 台](https://m.ithome.com/html/751962.htm)
+
++ [消息称小米 OLED 平板和显示器已经开案，还有透明款产品](https://m.ithome.com/html/751949.htm)
+
