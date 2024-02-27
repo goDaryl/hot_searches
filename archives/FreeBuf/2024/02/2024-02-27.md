@@ -41,3 +41,5 @@
 
 + [PWN学习之格式化字符串及CTF常见利用手法](https://www.freebuf.com/geek/391911.html)
 
++ [《2024年度邮件安全报告》：绕过安全电子邮件网关的恶意邮件增加了105%](https://www.freebuf.com/articles/paper/392602.html)
+
