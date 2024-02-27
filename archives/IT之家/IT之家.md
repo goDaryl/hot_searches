@@ -65,3 +65,5 @@
 
 + [高通骁龙 7+ Gen 3 处理器最新规格曝光，X4 大核频率提升至 2.9GHz](https://m.ithome.com/html/752310.htm)
 
++ [华为 P70 Art 手机设计曝光，高辨识度相机 Deco](https://m.ithome.com/html/752385.htm)
+
