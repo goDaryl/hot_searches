@@ -93,3 +93,23 @@
 
 + [爵士女声翻唱《Just The Two Of Us》只有你我](http://www.acfun.cn/v/ac43865788)
 
++ [★求投五蕉★网络上常见的热门短视频集锦 第一千六百二十六期](http://www.acfun.cn/v/ac43868053)
+
++ [【甜鱼翻唱】听到《桃花笑》就会有好运！](http://www.acfun.cn/v/ac43864941)
+
++ [好姐妹天天秀#171【助力圆神千粉】](http://www.acfun.cn/v/ac43863840)
+
++ [【颜音实况】海龟汤游戏（第三个故事集《危险工作》）](http://www.acfun.cn/v/ac43864385)
+
++ [【三水其】“你似那晴日徐风…”晴る/放晴](http://www.acfun.cn/v/ac43863404)
+
++ [有点东西但不多【今天有什么好笑的 #1474】](http://www.acfun.cn/v/ac43869648)
+
++ [【爆破牧场】枪支怪东西配件](http://www.acfun.cn/v/ac43862862)
+
++ [纯人声极致享受，绝美和声，一人成团《Red Moon》](http://www.acfun.cn/v/ac43869676)
+
++ [肉零rollin](http://www.acfun.cn/v/ac43863408)
+
++ [重回日本，死亡飙车党还在吗？](http://www.acfun.cn/v/ac43869585)
+
