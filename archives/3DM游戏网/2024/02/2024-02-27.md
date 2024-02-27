@@ -277,3 +277,7 @@
 
 + [迪士尼真人电影部门负责人离职 任职15年](https://www.3dmgame.com/news/202402/3889334.html)
 
++ [《刺客信条：猎巫》将是女主角 系列最黑暗](https://www.3dmgame.com/news/202402/3889336.html)
+
++ [SIE宣布全球裁员900人 英国伦敦工作室被关](https://www.3dmgame.com/news/202402/3889337.html)
+

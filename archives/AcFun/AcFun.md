@@ -141,3 +141,7 @@
 
 + [《如有雷同，纯属巧合》](http://www.acfun.cn/v/ac43830401)
 
++ [【800粉感谢】若把你比作歌，你便是那高山流水。(Cover.Kirsty刘瑾睿)](http://www.acfun.cn/v/ac43872036)
+
++ [【东方】フォービドゥンバレンタイン PV【ちょこふぁん】](http://www.acfun.cn/v/ac43863883)
+
