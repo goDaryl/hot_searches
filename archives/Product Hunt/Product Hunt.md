@@ -145,3 +145,9 @@
 
 + [Inline Help](https://www.producthunt.com/posts/inline-help)
 
++ [Namely](https://www.producthunt.com/posts/namely-3)
+
++ [Magic Document Formatter](https://www.producthunt.com/posts/magic-document-formatter)
+
++ [Immersive Translate Bilingual Video](https://www.producthunt.com/posts/immersive-translate-bilingual-video)
+

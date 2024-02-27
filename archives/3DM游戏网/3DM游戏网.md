@@ -249,3 +249,15 @@
 
 + [360软件管家焕新来袭，创新模式引领端游行业合作升级！](https://www.3dmgame.com/news/202402/3889313.html)
 
++ [致敬攻壳机动队《Out of Action》众筹开启 动作FPS新游](https://www.3dmgame.com/news/202402/3889327.html)
+
++ [Steam最新一周销量榜 《艾尔登法环》重回榜单](https://www.3dmgame.com/news/202402/3889326.html)
+
++ [《暗黑2》制作人吐槽西方游戏业现状：就是做不出美女](https://www.3dmgame.com/news/202402/3889325.html)
+
++ [RPG《星之后裔：吠陀骑士》预注册即将开启 登陆Steam和移动端](https://www.3dmgame.com/news/202402/3889323.html)
+
++ [全球首辆可伸缩汽车有望今夏上市：约售12.5万元](https://www.3dmgame.com/news/202402/3889324.html)
+
++ [英特尔积极进军三星大本营 在韩国极力推销18A工艺](https://www.3dmgame.com/news/202402/3889322.html)
+

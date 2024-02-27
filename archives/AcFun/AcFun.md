@@ -89,3 +89,7 @@
 
 + [一月超人气里番（6）能有这样的御姐倒贴，就是让我开豪车也愿意啊！](http://www.acfun.cn/v/ac43866359)
 
++ [韩服王者防御塔操作集锦！哈哈哈 韩服王者下饭集锦#08](http://www.acfun.cn/v/ac43863185)
+
++ [爵士女声翻唱《Just The Two Of Us》只有你我](http://www.acfun.cn/v/ac43865788)
+
