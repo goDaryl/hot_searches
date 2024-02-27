@@ -227,3 +227,25 @@
 
 + [玄学帮助开发？游戏开发者晒福娃四年开发三款游戏](https://www.3dmgame.com/news/202402/3889308.html)
 
++ [全新AI重制《终结者2》电影首个预告 3月6日上映](https://www.3dmgame.com/news/202402/3889317.html)
+
++ [《最终幻想7：重生》数字版预加载开启 下载大小约147GB](https://www.3dmgame.com/news/202402/3889318.html)
+
++ [角川公布《艾尔登法环》衍生小说和漫画 小说竟是恋爱主题？](https://www.3dmgame.com/news/202402/3889319.html)
+
++ [2月国产游戏版号公布 《黑神话：悟空》国内过审](https://www.3dmgame.com/news/202402/3889320.html)
+
++ [《崩坏：星穹铁道》新角色花火和光锥角色前瞻](https://www.3dmgame.com/news/202402/3889321.html)
+
++ [中国互联网的青春：天涯社区关联公司被申请破产！](https://www.3dmgame.com/news/202402/3889315.html)
+
++ [Twitch正式结束韩国运营 主播们已经不在乎规则了](https://www.3dmgame.com/news/202402/3889316.html)
+
++ [《七龙珠：破界斗士》第五赛季2月29日上线 新增跨平台联机](https://www.3dmgame.com/news/202402/3889314.html)
+
++ [国产大飞机C919开启东南亚演示飞行 为国外航线做准备](https://www.3dmgame.com/news/202402/3889311.html)
+
++ [《沙丘2》爆米花桶被疯狂吐槽 导演也被吓一跳](https://www.3dmgame.com/news/202402/3889312.html)
+
++ [360软件管家焕新来袭，创新模式引领端游行业合作升级！](https://www.3dmgame.com/news/202402/3889313.html)
+
