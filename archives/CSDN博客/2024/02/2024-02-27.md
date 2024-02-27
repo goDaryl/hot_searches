@@ -129,3 +129,5 @@
 
 + [RabbitMQ——消息应答和持久化](https://blog.csdn.net/wpc2018/article/details/136287835)
 
++ [Sora - 探索AI视频模型的无限可能](https://blog.csdn.net/u014727709/article/details/136267520)
+

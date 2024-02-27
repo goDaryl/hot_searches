@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 美国总统签署加强海事网络安全的行政命令；LockBit官宣复活](https://www.freebuf.com/news/392588.html)
 
++ [AI攻防：如何使用人工智能提升网络安全性](https://www.freebuf.com/articles/neopoints/392148.html)
+
