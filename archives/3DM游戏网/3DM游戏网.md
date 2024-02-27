@@ -101,3 +101,7 @@
 
 + [黑曜石《Pentiment》PS5帧率比Xbox高 总监称是Bug马上修复](https://www.3dmgame.com/news/202402/3889288.html)
 
++ [《鬼屋魔影：重制版》配置需求公布 推荐RTX 2060](https://www.3dmgame.com/news/202402/3889342.html)
+
++ [《浪人崛起》“战斗守夜人”预告 介绍战斗系统](https://www.3dmgame.com/news/202402/3889341.html)
+
