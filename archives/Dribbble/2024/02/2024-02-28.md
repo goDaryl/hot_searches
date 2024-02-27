@@ -81,3 +81,9 @@
 
 + [Nexus Wear](https://dribbble.com/shots/)
 
++ [StickerApp x Red Halftone: Wall Stickers](https://dribbble.com/shots/)
+
++ [Morning Scenery of Chicago](https://dribbble.com/shots/)
+
++ [Parrot Paradise](https://dribbble.com/shots/)
+
