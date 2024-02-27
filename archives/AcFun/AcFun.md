@@ -113,3 +113,11 @@
 
 + [重回日本，死亡飙车党还在吗？](http://www.acfun.cn/v/ac43869585)
 
++ [引爆网络的营老爷、游神到底是什么？](http://www.acfun.cn/v/ac43870707)
+
++ [aoa Like a Cat 猫步轻俏 小白猫已上线](http://www.acfun.cn/v/ac43870709)
+
++ [【A站独家】你的小女友窝在沙发上给你剥了桂圆，等你下班回家，这不就是你努力的意义吗？](http://www.acfun.cn/v/ac43871393)
+
++ [【地狱客栈】Finale/The Show It Must Go On——8人豪华大合唱！](http://www.acfun.cn/v/ac43864278)
+
