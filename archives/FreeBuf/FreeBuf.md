@@ -49,3 +49,7 @@
 
 + [全新WiFi安全漏洞曝光，可能影响全球23亿安卓用户](https://www.freebuf.com/news/392660.html)
 
++ [针对数十年的内存相关漏洞，白宫发布新报告](https://www.freebuf.com/news/392666.html)
+
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
