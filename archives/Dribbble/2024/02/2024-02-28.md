@@ -79,3 +79,5 @@
 
 + [Simple Type Club 2024](https://dribbble.com/shots/)
 
++ [Nexus Wear](https://dribbble.com/shots/)
+
