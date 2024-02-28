@@ -125,3 +125,5 @@
 
 + [spark orderby遇到的shuffle问题](https://blog.csdn.net/qq_36213530/article/details/136334248)
 
++ [spark-sql orderby遇到的shuffle问题](https://blog.csdn.net/qq_36213530/article/details/136334248)
+

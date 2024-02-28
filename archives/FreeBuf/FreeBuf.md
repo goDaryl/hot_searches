@@ -41,3 +41,5 @@
 
 + [LockBit官宣复活，表示将更多针对政府部门](https://www.freebuf.com/news/392553.html)
 
++ [2024年智能汽车多样化攻击途径](https://www.freebuf.com/articles/neopoints/392155.html)
+
