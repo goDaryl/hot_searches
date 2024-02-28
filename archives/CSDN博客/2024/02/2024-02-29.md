@@ -137,3 +137,5 @@
 
 + [html5盒子模型](https://blog.csdn.net/qq_50437196/article/details/136304197)
 
++ [小程序API能力集成指南——设备API汇总（二）](https://blog.csdn.net/Ms_Smart/article/details/136237691)
+
