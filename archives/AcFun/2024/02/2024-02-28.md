@@ -123,3 +123,11 @@
 
 + [【红色警戒】第一次玩苏军的人是怎样的？嗯，就是这样！](http://www.acfun.cn/v/ac43873823)
 
++ [【萌新必看】没玩过SRPG，我也能玩明白《圣兽之王》吗？](http://www.acfun.cn/v/ac43880032)
+
++ [此子断不可留](http://www.acfun.cn/v/ac43880634)
+
++ [韩服最强王者菁英对决 #2390ㅣ来啦](http://www.acfun.cn/v/ac43873118)
+
++ [哦里写](http://www.acfun.cn/v/ac43878534)
+
