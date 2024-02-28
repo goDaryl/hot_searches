@@ -169,3 +169,5 @@
 
 + [文献学习-8-连续体机器人在微创手术中的形状感知技术：综述](https://blog.csdn.net/Metaphysicist/article/details/136296248)
 
++ [3.机器学习-十大算法之一线性回归算法(LinearRegression)原理讲解](https://blog.csdn.net/weixin_50804299/article/details/135849773)
+
