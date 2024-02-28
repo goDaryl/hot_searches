@@ -59,3 +59,13 @@
 
 + [DDoS攻击引发云服务提供商索要10.4万美元账单](https://www.freebuf.com/news/392768.html)
 
++ [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
+
++ [NIST发布里程碑式网络安全框架2.0版本](https://www.freebuf.com/news/392795.html)
+
++ [俄罗斯APT28组织隐秘攻击Ubiquiti路由器，以逃避安全检测](https://www.freebuf.com/news/392782.html)
+
++ [Linpmem：一款功能强大的Linux物理内存提取工具](https://www.freebuf.com/sectool/390306.html)
+
++ [WordPress 插件存在漏洞，500 万网站面临严重安全风险](https://www.freebuf.com/news/392761.html)
+
