@@ -263,3 +263,11 @@
 
 + [曝苹果取消电动汽车研发：团队转向生成式AI](https://www.3dmgame.com/news/202402/3889417.html)
 
++ [周鸿祎谈苹果放弃造车：企业不拥抱AI就会被干掉](https://www.3dmgame.com/news/202402/3889425.html)
+
++ [《SUNSOFT is Back》众筹三倍达成上架Steam 经典游戏合集](https://www.3dmgame.com/news/202402/3889422.html)
+
++ [微软祭大招 公布11条AI访问原则促进创新竞争](https://www.3dmgame.com/news/202402/3889423.html)
+
++ [男子未拔充电器将枕头烧出洞：晚一点会烧得更严重](https://www.3dmgame.com/news/202402/3889424.html)
+
