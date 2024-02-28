@@ -271,3 +271,7 @@
 
 + [男子未拔充电器将枕头烧出洞：晚一点会烧得更严重](https://www.3dmgame.com/news/202402/3889424.html)
 
++ [英特尔或2027年底引入Intel 10A工艺 旨在打造全AI自动化工厂](https://www.3dmgame.com/news/202402/3889427.html)
+
++ [勒索软件团伙称已经黑掉Epic 窃取了200GB内部数据](https://www.3dmgame.com/news/202402/3889426.html)
+
