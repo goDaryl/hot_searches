@@ -85,3 +85,15 @@
 
 + [An illustration for a book by JRS](https://dribbble.com/shots/)
 
++ [USA Travel map](https://dribbble.com/shots/)
+
++ [Cute Bull Character](https://dribbble.com/shots/)
+
++ [Doodle illustrations](https://dribbble.com/shots/)
+
++ [Book Illustrations](https://dribbble.com/shots/)
+
++ [Thief in the woods](https://dribbble.com/shots/)
+
++ [Polar Bear](https://dribbble.com/shots/)
+
