@@ -29,3 +29,5 @@
 
 + [董宇辉回应清空微博：我解决不了被误解，只能逃离](https://m.ithome.com/html/752444.htm)
 
++ [苹果 iOS 18 适配机型曝光：仅限 iPhone XR 及以上 A12 手机，A10X 芯片版 iPad Pro 被放弃](https://m.ithome.com/html/752450.htm)
+

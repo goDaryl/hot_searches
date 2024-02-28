@@ -125,3 +125,9 @@
 
 + [索尼互娱全球裁员900人 关闭伦敦工作室](https://www.3dmgame.com/news/202402/3889351.html)
 
++ [宫崎英高：想制作更多像《艾尔登法环》这样的大型游戏](https://www.3dmgame.com/news/202402/3889355.html)
+
++ [《奇异人生》开发商宣布裁员 占员工总数五分之一](https://www.3dmgame.com/news/202402/3889354.html)
+
++ [《烈火战车》服务型游戏被砍 但《地平线》网游还活着](https://www.3dmgame.com/news/202402/3889353.html)
+

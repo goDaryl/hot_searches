@@ -127,3 +127,13 @@
 
 + [spark-sql orderby遇到的shuffle问题](https://blog.csdn.net/qq_36213530/article/details/136334248)
 
++ [第102讲：MySQL多实例与Mycat分布式读写分离的架构实践](https://blog.csdn.net/weixin_44953658/article/details/136291069)
+
++ [【.NET Core】深入理解IO之File类](https://blog.csdn.net/songjianlong/article/details/136333838)
+
++ [【Oracle】玩转Oracle数据库（六）：模式对象管理与安全管理](https://blog.csdn.net/m0_57532432/article/details/136160316)
+
++ [汽车资讯|汽车资讯网站|基于Springboot的汽车资讯网站设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136309729)
+
++ [文生图的最新进展：从LCM、SDXL到与sora同架构的Stable Diffusion3](https://blog.csdn.net/v_JULY_v/article/details/136318383)
+
