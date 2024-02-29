@@ -105,3 +105,27 @@
 
 + [Noor v1.0](https://www.producthunt.com/posts/noor-v1-0)
 
++ [Final Fantasy VII Rebirth](https://www.producthunt.com/posts/final-fantasy-vii-rebirth)
+
++ [Therapeze](https://www.producthunt.com/posts/therapeze)
+
++ [My Wish Vault](https://www.producthunt.com/posts/my-wish-vault)
+
++ [AI Plays Wordle](https://www.producthunt.com/posts/ai-plays-wordle)
+
++ [Dimspire.me](https://www.producthunt.com/posts/dimspire-me)
+
++ [Monic AI](https://www.producthunt.com/posts/monic-ai-3)
+
++ [Cursor Copilot++](https://www.producthunt.com/posts/cursor-copilot)
+
++ [Bailo](https://www.producthunt.com/posts/bailo)
+
++ [actiPLANS](https://www.producthunt.com/posts/actiplans-2)
+
++ [GuestLab](https://www.producthunt.com/posts/guestlab)
+
++ [Bot Hunt](https://www.producthunt.com/posts/bot-hunt)
+
++ [Blobr](https://www.producthunt.com/posts/blobr-2)
+
