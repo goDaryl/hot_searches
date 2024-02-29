@@ -123,3 +123,19 @@
 
 + [Unity性能优化与分析--CPU](https://blog.csdn.net/qq_41281201/article/details/136371702)
 
++ [【架构之路】糟糕程序员的20个坏习惯,切记要改掉](https://blog.csdn.net/jinxinxin1314/article/details/136359727)
+
++ [华为云峰会2024，GaussDB扬帆出海，给世界一个更优选择](https://blog.csdn.net/devcloud/article/details/136350392)
+
++ [【好书推荐-第六期】《数据中台：数字中国战略关键技术设施》](https://blog.csdn.net/weixin_51484460/article/details/136349593)
+
++ [使用Axure RP并配置IIS服务结合内网穿透实现公网访问本地HTML原型页面](https://blog.csdn.net/w2915w/article/details/136368384)
+
++ [微服务 人工智能AI 物联网智慧工地云平台源码](https://blog.csdn.net/qq_27741787/article/details/136366810)
+
++ [Linux--查看网络性能指标](https://blog.csdn.net/weixin_68074170/article/details/136327595)
+
++ [基于微信小程序图书商城系统 (后台java+Springboot框架)答辩常规问题和如何回答(答辩指导)](https://blog.csdn.net/u013818205/article/details/136247959)
+
++ [鸿蒙媒体开发【简述】](https://blog.csdn.net/m0_62167422/article/details/136352270)
+
