@@ -101,3 +101,25 @@
 
 + [10 种3D 建模技术](https://blog.csdn.net/wanwan819/article/details/136347660)
 
++ [文生图的最新进展：从一致性模型Consistency Model、LCM、SDXL到Stable Diffusion3](https://blog.csdn.net/v_JULY_v/article/details/136318383)
+
++ [Python招聘信息爬虫数据可视化分析大屏全屏系统(Django框架) 开题报告](https://blog.csdn.net/u013818205/article/details/136316518)
+
++ [第十三篇【传奇开心果系列】Python的文本和语音相互转换库技术点案例示例：Microsoft Azure的Face API开发人脸识别门禁系统经典案例](https://blog.csdn.net/jackchuanqi/article/details/136354869)
+
++ [【任务分配】基于matlab合同网协议CNP算法和共识的捆绑算法CBBA多无人机任务分配【含Matlab源码 4008期】](https://blog.csdn.net/TIQCmatlab/article/details/136311522)
+
++ [【k8s配置与存储--持久化存储（PV、PVC、存储类）】](https://blog.csdn.net/u011709380/article/details/136324182)
+
++ [【Vue】路由](https://blog.csdn.net/m0_62645012/article/details/136378775)
+
++ [文献学习-10-微创手术机器人的运动学设计考虑因素：综述](https://blog.csdn.net/Metaphysicist/article/details/136336682)
+
++ [五大跨平台桌面应用开发框架：Electron、Tauri、Flutter等](https://blog.csdn.net/m0_57344393/article/details/136314358)
+
++ [HarmonyOS4.0系统性深入开发38Web组件概述](https://blog.csdn.net/qq_46189388/article/details/136313310)
+
++ [Nginx高级技巧：实现负载均衡和反向代理](https://blog.csdn.net/m0_59230408/article/details/135252948)
+
++ [Unity性能优化与分析--CPU](https://blog.csdn.net/qq_41281201/article/details/136371702)
+
