@@ -139,3 +139,5 @@
 
 + [小程序API能力集成指南——设备API汇总（二）](https://blog.csdn.net/Ms_Smart/article/details/136237691)
 
++ [基于Python爬虫云南大理美食商家数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/136240825)
+

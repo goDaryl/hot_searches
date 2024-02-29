@@ -105,3 +105,23 @@
 
 + [卡普空力作《龙之信条2》魔弓手预告片展示](https://www.3dmgame.com/news/202402/3889437.html)
 
++ [外媒称EA裁员并取消《星战曼达洛人》改编游戏](https://www.3dmgame.com/news/202402/3889445.html)
+
++ [《GTA6》进入开发最后阶段 R星采取严厉措施避免泄密](https://www.3dmgame.com/news/202402/3889446.html)
+
++ [EA大裁员：《星球大战绝地》第三部、《战地》单人战役仍在开发](https://www.3dmgame.com/news/202402/3889447.html)
+
++ [《歧路旅人：大陆霸者》和《尼尔：伪装者》进行角色联动](https://www.3dmgame.com/news/202402/3889444.html)
+
++ [Remedy从505 Games处收购《控制》IP版权](https://www.3dmgame.com/news/202402/3889438.html)
+
++ [NEXON ARPG《洛奇英雄传：反抗命运》公布](https://www.3dmgame.com/news/202402/3889439.html)
+
++ [《圣兽之王》“约瑟夫的战斗指南”预告片分享](https://www.3dmgame.com/news/202402/3889440.html)
+
++ [三款《超次元游戏》将登陆PS4和Switch平台](https://www.3dmgame.com/news/202402/3889441.html)
+
++ [《最终幻想7重生》新广告萨菲罗斯向克劳德推荐方便面](https://www.3dmgame.com/news/202402/3889442.html)
+
++ [媒体猜测三星全新高速TF卡将用于Switch2](https://www.3dmgame.com/news/202402/3889443.html)
+
