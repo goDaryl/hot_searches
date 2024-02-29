@@ -197,3 +197,7 @@
 
 + [华为云峰会2024，GaussDB扬帆出海，给世界一个更优选择](https://blog.csdn.net/devcloud/article/details/136350392)
 
++ [《TCP/IP详解 卷一》第10章 UDP和IP分片](https://blog.csdn.net/qingwangheni/article/details/136357146)
+
++ [MySQL 的数据库操作，利用Spring Boot实现MySQL数据库的自动创建](https://blog.csdn.net/qq_64948664/article/details/136352800)
+

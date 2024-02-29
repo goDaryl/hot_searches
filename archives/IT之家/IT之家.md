@@ -43,3 +43,9 @@
 
 + [比亚迪海豹 DM-i 荣耀版车型上市，售价 14.98 万元起](https://m.ithome.com/html/752726.htm)
 
++ [魅族 21 Pro 手机完整配置曝光：三个版本 5299 元起，命名为“AI 终端”](https://m.ithome.com/html/752771.htm)
+
++ [小米汽车调研文件曝光：预计 3 月首车上市，4 月交付](https://m.ithome.com/html/752787.htm)
+
++ [小米 Redmi K70 / Pro 手机新增 12GB+512GB 版本，售价 2699 元 / 3599 元](https://m.ithome.com/html/752770.htm)
+

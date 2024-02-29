@@ -129,3 +129,33 @@
 
 + [Blobr](https://www.producthunt.com/posts/blobr-2)
 
++ [Bootstrap by Fuelfinance](https://www.producthunt.com/posts/bootstrap-by-fuelfinance)
+
++ [Bucket Releases](https://www.producthunt.com/posts/bucket-releases)
+
++ [Product Pulse](https://www.producthunt.com/posts/product-pulse)
+
++ [CleanAppsNow](https://www.producthunt.com/posts/cleanappsnow)
+
++ [Survicate AI](https://www.producthunt.com/posts/survicate-ai)
+
++ [Free AI Email Assistant](https://www.producthunt.com/posts/free-ai-email-assistant)
+
++ [Facts Generator](https://www.producthunt.com/posts/facts-generator)
+
++ [JuggleHire](https://www.producthunt.com/posts/jugglehire)
+
++ [Summarize.ing](https://www.producthunt.com/posts/summarize-ing)
+
++ [Dopplio](https://www.producthunt.com/posts/dopplio)
+
++ [Tag Parrot](https://www.producthunt.com/posts/tag-parrot)
+
++ [Research Agent by SynthMind](https://www.producthunt.com/posts/research-agent-by-synthmind)
+
++ [AgentX](https://www.producthunt.com/posts/agentx)
+
++ [BetterCollected](https://www.producthunt.com/posts/bettercollected)
+
++ [Talisman](https://www.producthunt.com/posts/talisman-3)
+

@@ -235,3 +235,17 @@
 
 + [《潜水员戴夫》Switch实体版5月发售 将联动《罪恶装备：STRIVE》](https://www.3dmgame.com/news/202402/3889498.html)
 
++ [除了被买走《控制》IP外 发行商505 Games或还有更多坏消息](https://www.3dmgame.com/news/202402/3889509.html)
+
++ [《使命召唤：现代战争3》玩家指责开发者使用AI制作新皮肤](https://www.3dmgame.com/news/202402/3889507.html)
+
++ [高通高管确认：骁龙8 Gen4 10月发布！自研架构提升巨大](https://www.3dmgame.com/news/202402/3889508.html)
+
++ [喜加一！刷宝肉鸽《数字魅影：序章》今日上线steam](https://www.3dmgame.com/news/202402/3889506.html)
+
++ [电竞女队要求《CS2》加入女性默认角色 被社区群嘲：你在假定别人性别](https://www.3dmgame.com/news/202402/3889505.html)
+
++ [周鸿祎称PPT最能忽悠人 自家内部禁用只会对外](https://www.3dmgame.com/news/202402/3889504.html)
+
++ [侦探文字冒险游戏《双盲把戏》发售日预告 3月14日上线](https://www.3dmgame.com/news/202402/3889503.html)
+
