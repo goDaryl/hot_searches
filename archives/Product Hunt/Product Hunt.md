@@ -159,3 +159,11 @@
 
 + [Talisman](https://www.producthunt.com/posts/talisman-3)
 
++ [Feedefy](https://www.producthunt.com/posts/feedefy)
+
++ [Influencer Brand Fit (Beta)](https://www.producthunt.com/posts/influencer-brand-fit-beta)
+
++ [AgencyAccess](https://www.producthunt.com/posts/agencyaccess)
+
++ [Bondly](https://www.producthunt.com/posts/bondly)
+
