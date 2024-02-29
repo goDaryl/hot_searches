@@ -201,3 +201,9 @@
 
 + [MySQL 的数据库操作，利用Spring Boot实现MySQL数据库的自动创建](https://blog.csdn.net/qq_64948664/article/details/136352800)
 
++ [【云原生】Spring Cloud Gateway的底层原理与实践方法探究](https://blog.csdn.net/m0_72803988/article/details/136300792)
+
++ [数据界的达克摩斯之剑----深入浅出带你理解网络爬虫(Forth)](https://blog.csdn.net/lmy050813/article/details/136338771)
+
++ [新王炸：文生视频Sora模型发布，能否引爆AI芯片热潮](https://blog.csdn.net/CC1991_/article/details/136366453)
+

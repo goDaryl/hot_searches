@@ -249,3 +249,13 @@
 
 + [侦探文字冒险游戏《双盲把戏》发售日预告 3月14日上线](https://www.3dmgame.com/news/202402/3889503.html)
 
++ [《Gift》Switch预购开启 沉船逃生解谜动作](https://www.3dmgame.com/news/202402/3889513.html)
+
++ [暴雪申请国内多个魔兽商标被驳回 国服真要完了？](https://www.3dmgame.com/news/202402/3889514.html)
+
++ [苹果造车原因曝光：防止工程师跳槽到特斯拉！](https://www.3dmgame.com/news/202402/3889512.html)
+
++ [《铁拳8》开发成本比前作高三倍：在线服务烧钱](https://www.3dmgame.com/news/202402/3889511.html)
+
++ [《地下城与勇士：决斗》“蓝拳圣使”角色DLC宣布3月14日上线](https://www.3dmgame.com/news/202402/3889510.html)
+
