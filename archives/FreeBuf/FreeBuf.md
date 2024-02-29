@@ -43,3 +43,5 @@
 
 + [Web应用防火墙的使用效率问题与替代性技术的深入讨论](https://www.freebuf.com/articles/network/392809.html)
 
++ [FreeBuf 早报 | 派拓网络安全产品正加速落地中国；Atomic Stealer 恶意变种曝光](https://www.freebuf.com/news/392793.html)
+
