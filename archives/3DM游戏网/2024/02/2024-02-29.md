@@ -259,3 +259,7 @@
 
 + [《地下城与勇士：决斗》“蓝拳圣使”角色DLC宣布3月14日上线](https://www.3dmgame.com/news/202402/3889510.html)
 
++ [英伟达暴力提升RTX5090性能：比4090快近一倍](https://www.3dmgame.com/news/202402/3889516.html)
+
++ [库克：今年苹果将在生成式AI领域开辟新天地](https://www.3dmgame.com/news/202402/3889515.html)
+
