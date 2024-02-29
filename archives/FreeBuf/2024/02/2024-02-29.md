@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 派拓网络安全产品正加速落地中国；Atomic Stealer 恶意变种曝光](https://www.freebuf.com/news/392793.html)
 
++ [【云原生攻防研究】容器不安全配置导致的安全漏洞](https://www.freebuf.com/defense/392595.html)
+

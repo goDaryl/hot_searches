@@ -125,3 +125,25 @@
 
 + [媒体猜测三星全新高速TF卡将用于Switch2](https://www.3dmgame.com/news/202402/3889443.html)
 
++ [《恐怖的世界》Steam版三月更新 整合工坊扩充MOD支持](https://www.3dmgame.com/news/202402/3889458.html)
+
++ [《最终幻想7：重生》部分光盘标签印刷出错 使用顺序需对调](https://www.3dmgame.com/news/202402/3889454.html)
+
++ [《FF7：重生》制作组事前没人知道萨菲罗斯会加入《任天堂明星大乱斗》](https://www.3dmgame.com/news/202402/3889457.html)
+
++ [《星际公民》开发商回应裁员报道：仅少量职位更换](https://www.3dmgame.com/news/202402/3889456.html)
+
++ [《远征:泥泞奔驰》“精通你的车”预告 3月5日发售](https://www.3dmgame.com/news/202402/3889455.html)
+
++ [尼尔德鲁克曼疲倦了想转型 不想再开发更多游戏](https://www.3dmgame.com/news/202402/3889453.html)
+
++ [《使命召唤：战区手游》将于3月21日全球推出](https://www.3dmgame.com/news/202402/3889452.html)
+
++ [PS Plus三月会免游戏公布 包含《师父》、《命运2：邪姬魅影》](https://www.3dmgame.com/news/202402/3889451.html)
+
++ [《黑色沙漠OL》8周年 消费者支出超过20亿欧元](https://www.3dmgame.com/news/202402/3889450.html)
+
++ [《Vindictus: Defying Fate》Steam上线 NEXON新动作RPG](https://www.3dmgame.com/news/202402/3889449.html)
+
++ [EA《钢铁侠》《黑豹》等游戏将继续开发](https://www.3dmgame.com/news/202402/3889448.html)
+
