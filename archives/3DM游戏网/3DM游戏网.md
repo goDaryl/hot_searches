@@ -271,3 +271,5 @@
 
 + [AMD确认RX 7900 GRE超频受限是bug 将很快进行修复](https://www.3dmgame.com/news/202402/3889517.html)
 
++ [《地平线》系列开发商Guerrilla Games失去10%员工](https://www.3dmgame.com/news/202402/3889521.html)
+
