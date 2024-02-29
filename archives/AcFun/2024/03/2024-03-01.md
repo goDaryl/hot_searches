@@ -65,3 +65,5 @@
 
 + [权恩妃 - DOOR](http://www.acfun.cn/v/ac43881759)
 
++ [因为，昂是蕾姆的英雄【告白向】](http://www.acfun.cn/v/ac43873190)
+
