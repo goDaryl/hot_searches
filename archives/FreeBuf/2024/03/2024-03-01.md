@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 国内首个个信保护AI大模型发布；制药巨头CENCORA遭数据泄露](https://www.freebuf.com/news/392931.html)
 
++ [企业暴露面收敛管理](https://www.freebuf.com/sectool/392639.html)
+

@@ -125,3 +125,15 @@
 
 + [《数码方块地球防卫军2》将于5月23日正式发售](https://www.3dmgame.com/news/202403/3889528.html)
 
++ [发行商505 Games关闭德国、法国和西班牙办公室](https://www.3dmgame.com/news/202403/3889540.html)
+
++ [《不朽者传奇》总监认为 该作未来将如同《死亡空间》一样成功](https://www.3dmgame.com/news/202403/3889541.html)
+
++ [《王国保卫战5：联盟》即将推出！上线日期待定](https://www.3dmgame.com/news/202403/3889542.html)
+
++ [世嘉聘请前迪士尼高管 担任全球跨媒体负责人](https://www.3dmgame.com/news/202403/3889543.html)
+
++ [《GT赛车7》1.43版本更新上线 添加新车新赛事](https://www.3dmgame.com/news/202403/3889544.html)
+
++ [《铁拳8》现已加入微交易 一些玩家非常愤怒](https://www.3dmgame.com/news/202403/3889539.html)
+
