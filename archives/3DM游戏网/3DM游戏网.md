@@ -137,3 +137,27 @@
 
 + [《铁拳8》现已加入微交易 一些玩家非常愤怒](https://www.3dmgame.com/news/202403/3889539.html)
 
++ [《创：战纪》续作电影《创：战神》公布首张剧照](https://www.3dmgame.com/news/202403/3889556.html)
+
++ [《最终幻想7：重生》全召唤兽演示视频 特效超酷炫](https://www.3dmgame.com/news/202403/3889554.html)
+
++ [支持中文 科幻合作生存恐怖《Byte Breach》Steam页面](https://www.3dmgame.com/news/202403/3889555.html)
+
++ [手游开发商Wildlife宣布裁员133人 已连续3年缩减](https://www.3dmgame.com/news/202403/3889553.html)
+
++ [《遗迹2》跨平台游戏全平台上线 更多内容等待推出](https://www.3dmgame.com/news/202403/3889552.html)
+
++ [《地平线》VR开发商员工：被索尼收购导致环境恶劣](https://www.3dmgame.com/news/202403/3889551.html)
+
++ [体育管理游戏《Pro Cycling Manager 2024》Steam页面上线 6月6日发售](https://www.3dmgame.com/news/202403/3889550.html)
+
++ [詹姆斯·古恩《超人：遗产》改名为《超人》](https://www.3dmgame.com/news/202403/3889549.html)
+
++ [不止《碧海黑帆》 育碧曾将《孤岛惊魂6》也列为4A游戏](https://www.3dmgame.com/news/202403/3889548.html)
+
++ [《吸血鬼幸存者》发布“Space 54”更新 引入更多太空科幻内容](https://www.3dmgame.com/news/202403/3889547.html)
+
++ [IGN：在发售一年后 索尼似乎悄悄放弃了PSVR 2](https://www.3dmgame.com/news/202403/3889546.html)
+
++ [骑行模拟游戏《Tour de France 2024》Steam页面上线 6月7日发售](https://www.3dmgame.com/news/202403/3889545.html)
+
