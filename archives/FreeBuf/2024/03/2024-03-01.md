@@ -53,3 +53,7 @@
 
 + [渗透测试 | Tesla Model Y NFC 中继攻击](https://www.freebuf.com/vuls/392741.html)
 
++ [Brave 浏览器 AI 助手“Leo”安卓版本即将上线，主打隐私安全！](https://www.freebuf.com/news/393021.html)
+
++ [T3SF：一款功能全面的桌面端技术练习模拟框架](https://www.freebuf.com/sectool/390330.html)
+
