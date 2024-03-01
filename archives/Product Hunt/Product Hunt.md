@@ -145,3 +145,5 @@
 
 + [AI Article Writer 6.0](https://www.producthunt.com/posts/ai-article-writer-6-0)
 
++ [NutriNote](https://www.producthunt.com/posts/nutrinote)
+

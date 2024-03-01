@@ -59,3 +59,5 @@
 
 + [自动驾驶功能宕机，竟是因为2月有29天？](https://www.freebuf.com/news/393097.html)
 
++ [如何安全管理企业终端；网闸还有用吗 | FB甲方群话题讨论](https://www.freebuf.com/articles/392887.html)
+
