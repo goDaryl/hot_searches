@@ -79,3 +79,7 @@
 
 + [花好月圆yue【ai QT】](http://www.acfun.cn/v/ac43890639)
 
++ [画质提升 bubble pop](http://www.acfun.cn/v/ac43889704)
+
++ [4K AI修复 RED 让人沦陷的身材](http://www.acfun.cn/v/ac43889237)
+
