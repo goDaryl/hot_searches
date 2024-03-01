@@ -43,3 +43,5 @@
 
 + [SCA 技术进阶系列(五): 揭秘运行时SCA - 新视角下的供应链安全革新](https://www.freebuf.com/articles/network/392709.html)
 
++ [FreeBuf 早报 | 国内首个个信保护AI大模型发布；制药巨头CENCORA遭数据泄露](https://www.freebuf.com/news/392931.html)
+
