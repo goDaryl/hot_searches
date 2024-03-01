@@ -87,3 +87,13 @@
 
 + [Nature Minded](https://dribbble.com/shots/)
 
++ [Denth  -  Star Wars DND](https://dribbble.com/shots/)
+
++ [4 illustrations for animation](https://dribbble.com/shots/)
+
++ [DOGA |  artificial intelligence service logo design](https://dribbble.com/shots/)
+
++ [Frustrated manager](https://dribbble.com/shots/)
+
++ [StickerApp x Red Halftone: Wall Stickers](https://dribbble.com/shots/)
+
