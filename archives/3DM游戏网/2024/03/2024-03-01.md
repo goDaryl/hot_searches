@@ -219,3 +219,7 @@
 
 + [日本环球影城推出《怪物猎人》20周年纪念餐厅](https://www.3dmgame.com/news/202403/3889581.html)
 
++ [《七日世界》国服Steam页面 2024年第三季度上线](https://www.3dmgame.com/news/202403/3889586.html)
+
++ [Intel成立全新独立FPGA公司Altera：引领550亿美元市场](https://www.3dmgame.com/news/202403/3889587.html)
+
