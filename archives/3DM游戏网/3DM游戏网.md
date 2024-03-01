@@ -247,3 +247,9 @@
 
 + [微软表示DirectSR不是新的超分辨率技术](https://www.3dmgame.com/news/202403/3889599.html)
 
++ [马斯克起诉OpenAI：背弃开放初衷 追求商业利益](https://www.3dmgame.com/news/202403/3889602.html)
+
++ [传《无主之地4》领导层团队重组 《小缇娜的奇幻之地2》软重启](https://www.3dmgame.com/news/202403/3889601.html)
+
++ [两个独立游戏伪装成《绝地潜兵2》骗钱 已被Steam下架](https://www.3dmgame.com/news/202403/3889600.html)
+
