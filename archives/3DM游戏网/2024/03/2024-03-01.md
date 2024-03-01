@@ -253,3 +253,7 @@
 
 + [两个独立游戏伪装成《绝地潜兵2》骗钱 已被Steam下架](https://www.3dmgame.com/news/202403/3889600.html)
 
++ [360和哪吒汽车战略合作 官宣发布“汽车大模型”](https://www.3dmgame.com/news/202403/3889604.html)
+
++ [《女神异闻录6》或是半开放世界 社交链接更灵活](https://www.3dmgame.com/news/202403/3889603.html)
+
