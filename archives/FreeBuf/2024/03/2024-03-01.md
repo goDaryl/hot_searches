@@ -41,3 +41,5 @@
 
 + [FreeBuf 早报 | 美“ReSCIND”探索项目启动；网络攻击迫使某电池工厂停产两周](https://www.freebuf.com/news/392699.html)
 
++ [SCA 技术进阶系列(五): 揭秘运行时SCA - 新视角下的供应链安全革新](https://www.freebuf.com/articles/network/392709.html)
+
