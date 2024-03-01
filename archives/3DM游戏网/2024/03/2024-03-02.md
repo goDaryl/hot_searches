@@ -101,3 +101,5 @@
 
 + [《碧蓝幻想：Relink》1.1.0更新3月14日上线 添加新Boss战](https://www.3dmgame.com/news/202403/3889557.html)
 
++ [《远征：泥泞奔驰游戏》上市预告 已经可以进入游戏](https://www.3dmgame.com/news/202403/3889608.html)
+
