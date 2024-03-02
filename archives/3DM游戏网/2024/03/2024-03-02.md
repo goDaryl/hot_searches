@@ -181,3 +181,11 @@
 
 + [索尼领跑2023年智能手机图像传感器市场 三星和豪威紧随其后](https://www.3dmgame.com/news/202403/3889647.html)
 
++ [《深岩银河》推出6年后 很快将支持英伟达DLSS 3](https://www.3dmgame.com/news/202403/3889651.html)
+
++ [斯特兰·斯卡斯加德：《沙丘2》造型化妆需要8个小时](https://www.3dmgame.com/news/202403/3889650.html)
+
++ [英伟达成台积电第二大客户 为台积电贡献了11%的收入](https://www.3dmgame.com/news/202403/3889649.html)
+
++ [《自杀小队：消灭正义联盟》发售一个月便打折 PC版没人玩了](https://www.3dmgame.com/news/202403/3889648.html)
+
