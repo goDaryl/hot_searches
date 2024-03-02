@@ -57,3 +57,5 @@
 
 + [广汽三菱更名湖南智享汽车，三菱已退出股东行列](https://m.ithome.com/html/753205.htm)
 
++ [天钡推出 GEM12 迷你主机：R7-7840HS，可选配副屏指纹、双网口，2359 元起](https://m.ithome.com/html/753184.htm)
+
