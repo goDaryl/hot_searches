@@ -77,3 +77,15 @@
 
 + [Parrot Paradise](https://dribbble.com/shots/)
 
++ [Nike Jordan](https://dribbble.com/shots/)
+
++ [Speedy Tiger Tattoo](https://dribbble.com/shots/)
+
++ [Apple](https://dribbble.com/shots/)
+
++ [Aviator Cat Sneezing](https://dribbble.com/shots/)
+
++ [Lady Bird Menu - Spot Illustration II](https://dribbble.com/shots/)
+
++ [DOGA |  artificial intelligence service logo design](https://dribbble.com/shots/)
+
