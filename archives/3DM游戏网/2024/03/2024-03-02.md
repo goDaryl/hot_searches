@@ -129,3 +129,13 @@
 
 + [苹果中国官网最低3499就能买iPhone 网友吐槽智商税](https://www.3dmgame.com/news/202403/3889615.html)
 
++ [据称Bioware对《龙腾世纪4：恐狼》今年内发布很有信心](https://www.3dmgame.com/news/202403/3889625.html)
+
++ [《龙之信条2》“魔剑士”实机预告 3月22日发售](https://www.3dmgame.com/news/202403/3889626.html)
+
++ [《不可思议的幻想乡-FORESIGHT-》Steam页面上线 5月14日发售](https://www.3dmgame.com/news/202403/3889622.html)
+
++ [《逃生：试炼》开发长达6年 原本可以更快推出《逃生3》](https://www.3dmgame.com/news/202403/3889623.html)
+
++ [《心灵杀手2》作曲家为配乐用成人玩具“侵犯”钢琴](https://www.3dmgame.com/news/202403/3889624.html)
+
