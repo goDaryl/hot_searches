@@ -103,3 +103,5 @@
 
 + [《远征：泥泞奔驰游戏》上市预告 已经可以进入游戏](https://www.3dmgame.com/news/202403/3889608.html)
 
++ [《盗贼之海》联合开发商Radical Forge裁员](https://www.3dmgame.com/news/202403/3889609.html)
+

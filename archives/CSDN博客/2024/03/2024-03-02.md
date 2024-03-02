@@ -131,3 +131,5 @@
 
 + [Python贵州贵阳二手房源爬虫数据可视化分析大屏全屏系统 开题报告](https://blog.csdn.net/u013818205/article/details/136314805)
 
++ [猫头虎的技术林: 加速你的Python项目 - 如何配置国内pip下载源](https://blog.csdn.net/qq_44866828/article/details/136395347)
+
