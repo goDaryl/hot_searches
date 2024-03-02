@@ -25,3 +25,5 @@
 
 + [智己 LS6 车型限时直降 10000 元，售价 21.99 万起](https://m.ithome.com/html/753203.htm)
 
++ [英特尔酷睿 i7-15700K / i9-15900K 规格曝光：Intel 20A + 台积电 3nm 工艺](https://m.ithome.com/html/753291.htm)
+
