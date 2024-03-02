@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | 新WiFi漏洞可能影响23亿安卓用户；NIST发布网络安全框架2.0版本](https://www.freebuf.com/news/392990.html)
 
++ [慢雾：全球头号勒索团伙 LockBit 谜案](https://www.freebuf.com/articles/blockchain-articles/392510.html)
+
