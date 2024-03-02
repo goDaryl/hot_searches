@@ -47,3 +47,5 @@
 
 + [慢雾：全球头号勒索团伙 LockBit 谜案](https://www.freebuf.com/articles/blockchain-articles/392510.html)
 
++ [Atlassian Confluence SSTI RCE(CVE-2023-22527)详细漏洞分析](https://www.freebuf.com/vuls/392545.html)
+
