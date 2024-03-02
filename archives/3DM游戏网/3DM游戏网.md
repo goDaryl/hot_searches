@@ -105,3 +105,11 @@
 
 + [《盗贼之海》联合开发商Radical Forge裁员](https://www.3dmgame.com/news/202403/3889609.html)
 
++ [《机械战警》和《遗迹2》现支持FSR 3.0帧生成技术](https://www.3dmgame.com/news/202403/3889613.html)
+
++ [《奇唤士》11条事实预告 3月4日发售](https://www.3dmgame.com/news/202403/3889612.html)
+
++ [《小丑牌》部分地区突然下架：被分级组织误认为含赌博](https://www.3dmgame.com/news/202403/3889611.html)
+
++ [ARPG《恶意不息》4月18日登陆Steam抢先体验](https://www.3dmgame.com/news/202403/3889610.html)
+

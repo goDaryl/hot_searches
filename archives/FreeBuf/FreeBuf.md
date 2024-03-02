@@ -43,3 +43,5 @@
 
 + [30种经典网安模型介绍（上）](https://www.freebuf.com/articles/network/392498.html)
 
++ [FreeBuf 周报 | 新WiFi漏洞可能影响23亿安卓用户；NIST发布网络安全框架2.0版本](https://www.freebuf.com/news/392990.html)
+
