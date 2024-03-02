@@ -189,3 +189,5 @@
 
 + [《自杀小队：消灭正义联盟》发售一个月便打折 PC版没人玩了](https://www.3dmgame.com/news/202403/3889648.html)
 
++ [《博德之门3》Xbox实体版将需要3-4个光碟](https://www.3dmgame.com/news/202403/3889652.html)
+
