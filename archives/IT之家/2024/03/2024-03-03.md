@@ -27,3 +27,5 @@
 
 + [英特尔酷睿 i7-15700K / i9-15900K 规格曝光：Intel 20A + 台积电 3nm 工艺](https://m.ithome.com/html/753291.htm)
 
++ [16 款苹果 2024 年 iPad 和 iPhone 所用芯片信息曝光](https://m.ithome.com/html/753193.htm)
+

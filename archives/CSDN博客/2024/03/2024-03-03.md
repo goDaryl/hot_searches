@@ -127,3 +127,9 @@
 
 + [新王炸：文生视频Sora模型发布，能否引爆AI芯片热潮](https://blog.csdn.net/CC1991_/article/details/136366453)
 
++ [特征工程9大方法](https://blog.csdn.net/qq_55948984/article/details/136402828)
+
++ [UniApp Vue 3 中的网络请求封装详解及用法](https://blog.csdn.net/u010362741/article/details/136328007)
+
++ [iOS卡顿原因与优化](https://blog.csdn.net/IOSSHAN/article/details/136388511)
+
