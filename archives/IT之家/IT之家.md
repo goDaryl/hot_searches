@@ -57,3 +57,5 @@
 
 + [丰田：宁愿购买碳排放积分也比在电动汽车上“浪费”钱好](https://m.ithome.com/html/753384.htm)
 
++ [小鹏 P7i / G6/2024 款 G9 推出限时购车政策，最高优惠 5 万元](https://m.ithome.com/html/753344.htm)
+
