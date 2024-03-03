@@ -43,3 +43,5 @@
 
 + [2023年工业控制网络安全态势白皮书](https://www.freebuf.com/articles/ics-articles/392238.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/393094.html)
+

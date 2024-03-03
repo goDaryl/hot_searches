@@ -135,3 +135,5 @@
 
 + [实现mysql和es数据同步的两大工具——Logstash和Canal](https://blog.csdn.net/geuejfwhje/article/details/136424639)
 
++ [【YOLO v5 v7 v8 小目标改进】中心化特征金字塔（CFP） = 特征金字塔 + 显式视觉中心（EVC）+ 全局集中调节（GCR）](https://blog.csdn.net/qq_41739364/article/details/136403535)
+
