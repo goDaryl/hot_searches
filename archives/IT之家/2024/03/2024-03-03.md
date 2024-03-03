@@ -39,3 +39,5 @@
 
 + [Sora 首个受害者：好莱坞 8 亿美元投资计划黄了](https://m.ithome.com/html/753284.htm)
 
++ [小米米家循环扇新品上架：台地两用 / 支持澎湃智联，众筹价 299 元](https://m.ithome.com/html/753255.htm)
+

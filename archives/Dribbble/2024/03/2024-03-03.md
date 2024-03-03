@@ -101,3 +101,5 @@
 
 + [The Dapper Dragon Logo](https://dribbble.com/shots/)
 
++ [Frustrated manager](https://dribbble.com/shots/)
+
