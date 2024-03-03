@@ -133,3 +133,5 @@
 
 + [iOS卡顿原因与优化](https://blog.csdn.net/IOSSHAN/article/details/136388511)
 
++ [实现mysql和es数据同步的两大工具——Logstash和Canal](https://blog.csdn.net/geuejfwhje/article/details/136424639)
+

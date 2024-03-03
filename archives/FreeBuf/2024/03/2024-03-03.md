@@ -41,3 +41,5 @@
 
 + [议题征集&报名开启 | FreeBuf企业安全俱乐部·广州站起航](https://www.freebuf.com/fevents/392862.html)
 
++ [2023年工业控制网络安全态势白皮书](https://www.freebuf.com/articles/ics-articles/392238.html)
+
