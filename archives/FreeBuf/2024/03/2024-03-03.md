@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/393094.html)
 
++ [【总结】对大量函数进行trace调用流程+国际AIS3题](https://www.freebuf.com/defense/392786.html)
+

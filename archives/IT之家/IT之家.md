@@ -35,3 +35,5 @@
 
 + [香港八达通将推出“全国通”，一卡刷遍内地 320 个城市公交系统](https://m.ithome.com/html/753313.htm)
 
++ [Copilot 发疯化身「天网」扬言要统治人类，微软澄清网友却不买账：去年也疯过](https://m.ithome.com/html/753320.htm)
+
