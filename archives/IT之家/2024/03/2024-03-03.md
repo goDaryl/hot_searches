@@ -55,3 +55,5 @@
 
 + [消息称三星 Galaxy S25 系列手机启用新处理器品牌，不再区分 Exynos 和骁龙](https://m.ithome.com/html/753324.htm)
 
++ [丰田：宁愿购买碳排放积分也比在电动汽车上“浪费”钱好](https://m.ithome.com/html/753384.htm)
+
