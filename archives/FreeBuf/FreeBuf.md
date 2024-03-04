@@ -65,3 +65,5 @@
 
 + [98% 的企业与曾发生安全事件的第三方有关联](https://www.freebuf.com/news/393202.html)
 
++ [全国网安标委发布《生成式人工智能服务安全基本要求》](https://www.freebuf.com/news/393261.html)
+

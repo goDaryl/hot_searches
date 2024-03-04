@@ -179,3 +179,13 @@
 
 + [制作人遭遇变故但仍未放弃 《小朋友齐打交2》翻新版公布现况进展](https://www.3dmgame.com/news/202403/3889725.html)
 
++ [传闻：《重力异想世界2》复刻版5月公布 登陆PS5和PC](https://www.3dmgame.com/news/202403/3889734.html)
+
++ [远离简易密码 男子捡到银行卡仅试2次破解盗走7万元](https://www.3dmgame.com/news/202403/3889735.html)
+
++ [《音信》登陆Steam 拟真场景恐怖探索新游](https://www.3dmgame.com/news/202403/3889731.html)
+
++ [第六届吉比特未来游戏制作人大赛启动！8万元冠军奖，面向全球高校开发者！](https://www.3dmgame.com/news/202403/3889732.html)
+
++ [KK对战平台人气新图推荐 魔法御姐并肩作战，大战天兵重走西游路！](https://www.3dmgame.com/news/202403/3889733.html)
+
