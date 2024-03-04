@@ -139,3 +139,19 @@
 
 + [简体中文超越英文 成为Steam平台最常用语言](https://www.3dmgame.com/news/202403/3889703.html)
 
++ [消息称苹果春季发布会取消 八大重磅新品线上发布](https://www.3dmgame.com/news/202403/3889717.html)
+
++ [《B1》登陆Steam 类《八番出口》惊悚解谜新作](https://www.3dmgame.com/news/202403/3889715.html)
+
++ [《冲就完事模拟器》2024年更新路线图公布 包含神秘新闻](https://www.3dmgame.com/news/202403/3889716.html)
+
++ [《辐射》真人剧集新剧照 钢铁兄弟会震撼亮相](https://www.3dmgame.com/news/202403/3889714.html)
+
++ [《星刃》女主三位同伴介绍 性感长发女队长登场](https://www.3dmgame.com/news/202403/3889713.html)
+
++ [动画电影《间谍过家家代号白》确定引进 档期待定](https://www.3dmgame.com/news/202403/3889712.html)
+
++ [满分物理效果手游《板球编年史》 现已在Steam平台正式发售](https://www.3dmgame.com/news/202403/3889711.html)
+
++ [《星露谷物语》作者：1.6版本更新将远超玩家想象](https://www.3dmgame.com/news/202403/3889710.html)
+
