@@ -155,3 +155,13 @@
 
 + [《星露谷物语》作者：1.6版本更新将远超玩家想象](https://www.3dmgame.com/news/202403/3889710.html)
 
++ [日本职业电竞战队MOZE领队突然失联 多达17名选手寻找新组织](https://www.3dmgame.com/news/202403/3889720.html)
+
++ [《最终幻想7：重生》总监透露 续作中可操作文森特和希德](https://www.3dmgame.com/news/202403/3889721.html)
+
++ [小米14 Ultra海外爆火：超3成消费者愿立刻购买！](https://www.3dmgame.com/news/202403/3889722.html)
+
++ [独立游戏开发商的100个“套娃”计划 100只猫系列游戏受好评](https://www.3dmgame.com/news/202403/3889718.html)
+
++ [《生化危机4：重制版》在发售前一个月遭遇诸多问题 还好解决了](https://www.3dmgame.com/news/202403/3889719.html)
+

@@ -43,3 +43,5 @@
 
 + [古尔曼：苹果计划通过线上渠道发布 2024 款 iPad 和 Mac](https://m.ithome.com/html/753421.htm)
 
++ [特斯拉 Model 3 高性能版谍照再次曝光，或即将上市](https://m.ithome.com/html/753413.htm)
+
