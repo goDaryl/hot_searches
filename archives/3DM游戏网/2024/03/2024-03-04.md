@@ -111,3 +111,17 @@
 
 + [裁员后EA《星球大战》战略游戏后仍在开发中](https://www.3dmgame.com/news/202403/3889692.html)
 
++ [《部落3：对抗》3月12日Steam抢测 团队射击对抗](https://www.3dmgame.com/news/202403/3889698.html)
+
++ [《绝地潜兵2》将加入多个载具 包括装甲运兵车](https://www.3dmgame.com/news/202403/3889699.html)
+
++ [Steam打破同时在线玩家纪录 超3460万玩家同时在线](https://www.3dmgame.com/news/202403/3889701.html)
+
++ [《最终幻想7：重生》性能模式修复补丁正在开发中 即将上线](https://www.3dmgame.com/news/202403/3889700.html)
+
++ [《沙丘2》北美首周末票房大爆 斩获8150万美元](https://www.3dmgame.com/news/202403/3889702.html)
+
++ [《辐射》电视剧就像是“辐射5” 新海报曝光](https://www.3dmgame.com/news/202403/3889697.html)
+
++ [重生娱乐被取消的《星战》FPS首批细节曝光](https://www.3dmgame.com/news/202403/3889696.html)
+
