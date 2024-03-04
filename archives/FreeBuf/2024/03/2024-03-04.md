@@ -55,3 +55,9 @@
 
 + [金融类IOS APP端渗透测试实战分享](https://www.freebuf.com/articles/mobile/393147.html)
 
++ [微软 GitHub 遭大规模攻击，超过 10 万个存储库被感染](https://www.freebuf.com/news/393211.html)
+
++ [美国法院命令NSO集团将其间谍软件代码交给WhatsApp](https://www.freebuf.com/news/393207.html)
+
++ [由于AI的爆火，黑客攻击将严重影响美国选举](https://www.freebuf.com/news/393194.html)
+
