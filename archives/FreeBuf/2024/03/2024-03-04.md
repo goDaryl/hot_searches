@@ -41,3 +41,5 @@
 
 + [FreeBuf 早报 | 国内首个个信保护AI大模型发布；制药巨头CENCORA遭数据泄露](https://www.freebuf.com/news/392931.html)
 
++ [ApateWeb：一场大规模流氓安全软件、PUP感染和网络诈骗活动](https://www.freebuf.com/articles/network/392826.html)
+
