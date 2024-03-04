@@ -209,3 +209,5 @@
 
 + [《霍格沃茨之遗》续作或采用虚幻5引擎](https://www.3dmgame.com/news/202403/3889743.html)
 
++ [Remedy《控制》衍生作将支持第一人称](https://www.3dmgame.com/news/202403/3889745.html)
+

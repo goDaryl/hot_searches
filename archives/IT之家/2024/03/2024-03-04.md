@@ -59,3 +59,5 @@
 
 + [“1 天内 9 家车企宣布降价”登热搜，新能源汽车价格战愈演愈烈](https://m.ithome.com/html/753569.htm)
 
++ [领克 07 EM-P 车型 3 月 8 日首秀，号称“原创，不模仿”](https://m.ithome.com/html/753491.htm)
+
