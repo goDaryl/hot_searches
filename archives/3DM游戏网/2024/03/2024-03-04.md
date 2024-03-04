@@ -203,3 +203,5 @@
 
 + [Key社视觉小说《Harmonia》高清版Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202403/3889738.html)
 
++ [LG OLED显示器32GS95UE 4月上市 售价将超1万元](https://www.3dmgame.com/news/202403/3889742.html)
+
