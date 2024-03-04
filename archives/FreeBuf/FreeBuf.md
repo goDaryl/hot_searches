@@ -67,3 +67,5 @@
 
 + [全国网安标委发布《生成式人工智能服务安全基本要求》](https://www.freebuf.com/news/393261.html)
 
++ [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
+

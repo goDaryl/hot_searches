@@ -189,3 +189,17 @@
 
 + [KK对战平台人气新图推荐 魔法御姐并肩作战，大战天兵重走西游路！](https://www.3dmgame.com/news/202403/3889733.html)
 
++ [宝可梦卡牌“剑&盾”系列第四弹补充包震撼出击](https://www.3dmgame.com/news/202403/3889741.html)
+
++ [“年轻人的第一辆轿跑”！曝小米SU7 3月中下旬发](https://www.3dmgame.com/news/202403/3889739.html)
+
++ [经典旧忆复苏！纪念神奇天鹅掌机25周年多种周边公开](https://www.3dmgame.com/news/202403/3889740.html)
+
++ [温馨科幻漫画《我的妻子没有感情》将改编动画 7月播出](https://www.3dmgame.com/news/202403/3889729.html)
+
++ [iPhone等产品需求减弱！苹果被高盛从“最佳买入名单”剔除](https://www.3dmgame.com/news/202403/3889736.html)
+
++ [电影《红毯先生》重新定档：3月15日上映](https://www.3dmgame.com/news/202403/3889737.html)
+
++ [Key社视觉小说《Harmonia》高清版Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202403/3889738.html)
+
