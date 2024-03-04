@@ -149,3 +149,7 @@
 
 + [2024最新AI系统ChatGPT网站源码, AI绘画系统](https://blog.csdn.net/weixin_47059371/article/details/136426298)
 
++ [CPO-GRU 基于豪猪算法优化门控循环单元神经网络实现风电预测附matlab代码](https://blog.csdn.net/qq_59747472/article/details/136439238)
+
++ [如何在 Angular 中使用 ViewChild 来访问子组件、指令或 DOM 元素](https://blog.csdn.net/rubys007/article/details/136355043)
+
