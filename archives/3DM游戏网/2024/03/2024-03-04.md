@@ -169,3 +169,13 @@
 
 + [《秒速5厘米》上映17周年 新海诚曝光未使用海报提案](https://www.3dmgame.com/news/202403/3889723.html)
 
++ [游戏开发工具《RPG Developer Bakin》3月7日添加中文支持](https://www.3dmgame.com/news/202403/3889730.html)
+
++ [任天堂医生对护士实施职权骚扰 被判赔偿20万日元](https://www.3dmgame.com/news/202403/3889728.html)
+
++ [被玩坏的《毁灭战士》高玩这回在电动牙刷上玩《毁灭战士》](https://www.3dmgame.com/news/202403/3889727.html)
+
++ [角色越来越丑！玩家用行动反抗LGBTQ+组织干扰游戏开发：夺回我们失去的东西](https://www.3dmgame.com/news/202403/3889726.html)
+
++ [制作人遭遇变故但仍未放弃 《小朋友齐打交2》翻新版公布现况进展](https://www.3dmgame.com/news/202403/3889725.html)
+

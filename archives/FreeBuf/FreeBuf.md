@@ -61,3 +61,7 @@
 
 + [由于AI的爆火，黑客攻击将严重影响美国选举](https://www.freebuf.com/news/393194.html)
 
++ [SmuggleFuzz：一款功能强大的高级HTTP降级走私安全扫描工具](https://www.freebuf.com/sectool/391937.html)
+
++ [98% 的企业与曾发生安全事件的第三方有关联](https://www.freebuf.com/news/393202.html)
+
