@@ -237,3 +237,7 @@
 
 + [《thanks mom》Steam页面上线 体验婴儿躲避动作](https://www.3dmgame.com/news/202403/3889812.html)
 
++ [代表建议建立大学生网游防沉迷机制 Epic商城关注评论](https://www.3dmgame.com/news/202403/3889821.html)
+
++ [《使命召唤20》第2赛季新僵尸模式 联动战锤40K](https://www.3dmgame.com/news/202403/3889820.html)
+
