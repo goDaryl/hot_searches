@@ -141,3 +141,13 @@
 
 + [用numpy搭建自己的神经网络](https://blog.csdn.net/m0_73084903/article/details/136439834)
 
++ [Java水商品纯净水商城配送系统设计与实现(Idea+Springboot+mysql)](https://blog.csdn.net/u013818205/article/details/136437410)
+
++ [【SQL server】玩转SQL server数据库：第三章 关系数据库标准语言SQL（二）数据查询](https://blog.csdn.net/m0_57532432/article/details/136244756)
+
++ [【风电功率预测】基于matlab豪猪算法优化双向长短时记忆CPO-BiLSTM风电功率预测（含前后对比）【含Matlab源码 4035期】](https://blog.csdn.net/TIQCmatlab/article/details/136466967)
+
++ [Linux之进程信号](https://blog.csdn.net/zdlynj/article/details/135905154)
+
++ [openGL缓存概念和缓存清除（01）](https://blog.csdn.net/gongdiwudu/article/details/136167923)
+
