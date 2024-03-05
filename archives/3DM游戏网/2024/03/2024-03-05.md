@@ -121,3 +121,5 @@
 
 + [Yuzu模拟器创建者接受任天堂要求 达成庭外和解](https://www.3dmgame.com/news/202403/3889753.html)
 
++ [《碧海黑帆》发售不到三周 零售商已降价25美元](https://www.3dmgame.com/news/202403/3889762.html)
+

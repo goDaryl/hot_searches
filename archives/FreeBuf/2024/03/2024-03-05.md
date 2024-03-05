@@ -41,3 +41,5 @@
 
 + [Atlassian Confluence SSTI RCE(CVE-2023-22527)详细漏洞分析](https://www.freebuf.com/vuls/392545.html)
 
++ [AnyDesk白工具黑利用：RMM软件与“兜圈子”的网络钓鱼活动](https://www.freebuf.com/articles/network/392827.html)
+
