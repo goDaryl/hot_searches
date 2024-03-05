@@ -259,3 +259,7 @@
 
 + [《地下城与勇士：决斗》角色DLC“蓝拳圣使”实机演示 3月14日上线](https://www.3dmgame.com/news/202403/3889822.html)
 
++ [许多用户吐槽Win11不好用：安装需微软账户 联网](https://www.3dmgame.com/news/202403/3889831.html)
+
++ [苹果iPad Pro 2024蓄势待发：史上最强平板！](https://www.3dmgame.com/news/202403/3889832.html)
+
