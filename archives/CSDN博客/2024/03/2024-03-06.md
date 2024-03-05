@@ -105,3 +105,19 @@
 
 + [计算机网络-网络安全（二）](https://blog.csdn.net/m0_74408723/article/details/136453511)
 
++ [Java助农农产品销售平台系统设计与实现(Idea+Springboot+mysql)](https://blog.csdn.net/u013818205/article/details/136438916)
+
++ [德银：历次美元大顶有何异同？](https://blog.csdn.net/Gabriel100yi/article/details/136466681)
+
++ [好书推荐丨细说PyTorch深度学习：理论、算法、模型与编程实现](https://blog.csdn.net/m0_68111267/article/details/136486333)
+
++ [【CSS3】CSS3 3D 转换示例 - 3D 旋转木马 ( @keyframes 规则 定义动画 | 为 盒子模型 应用动画 | 开启透视视图 | 设置 3D 呈现样式 )](https://blog.csdn.net/han1202012/article/details/136468791)
+
++ [【送书活动1】基于React低代码平台开发：构建高效、灵活的应用新范式](https://blog.csdn.net/wtyuong/article/details/136490588)
+
++ [【OpenGL】(1) 专栏介绍：OpenGL 库 | 3D 计算机图形应用 | GPGPU 计算 | 3D 建模和 3D动画 | 渲染技术介绍](https://blog.csdn.net/weixin_50502862/article/details/136490015)
+
++ [如何本地创建websocket服务端并发布到公网实现远程访问](https://blog.csdn.net/zhoubancheng/article/details/136456095)
+
++ [探索Hadoop的三种运行模式：单机模式、伪分布式模式和完全分布式模式](https://blog.csdn.net/weixin_52986315/article/details/136310851)
+
