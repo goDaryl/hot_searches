@@ -39,3 +39,7 @@
 
 + [【IT之家评测室】魅族 21 PRO 体验：设计在线，单手神器，还不是“完全体”](https://m.ithome.com/html/753512.htm)
 
++ [贾跃亭对簿丁磊，法拉第未来宣布起诉高合汽车“侵犯商业秘密和不正当竞争”](https://m.ithome.com/html/753658.htm)
+
++ [京东自营 318 元探底：漫步者 MR4 监听音箱 3 期免息](https://m.ithome.com/html/753621.htm)
+

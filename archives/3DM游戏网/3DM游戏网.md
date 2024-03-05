@@ -187,3 +187,19 @@
 
 + [《Only Up !》登陆Steam 题名及玩法完全照抄《只有向上！》](https://www.3dmgame.com/news/202403/3889790.html)
 
++ [睡前玩8分钟手机 能让身体兴奋1小时！还会“变丑”](https://www.3dmgame.com/news/202403/3889802.html)
+
++ [英伟达市值超沙特阿美 成全球市值第三大公司](https://www.3dmgame.com/news/202403/3889796.html)
+
++ [《逃生：试炼》正式版发售宣传片 涨价前最后机会！](https://www.3dmgame.com/news/202403/3889795.html)
+
++ [据报道华纳电影《歪心狼对阵ACME》的完整剧情遭泄露](https://www.3dmgame.com/news/202403/3889797.html)
+
++ [《龙之家族》第二季预计6月在HBO平台首播](https://www.3dmgame.com/news/202403/3889798.html)
+
++ [《绝地潜兵2》打破游戏界常态 三周后销量仍在攀升](https://www.3dmgame.com/news/202403/3889799.html)
+
++ [《尸战朝鲜：血脉》免费登陆Steam 热剧改编动作RPG](https://www.3dmgame.com/news/202403/3889800.html)
+
++ [《博德之门3》Xbox实体需4张光盘 豪华版发货延期](https://www.3dmgame.com/news/202403/3889801.html)
+
