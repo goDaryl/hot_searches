@@ -263,3 +263,7 @@
 
 + [苹果iPad Pro 2024蓄势待发：史上最强平板！](https://www.3dmgame.com/news/202403/3889832.html)
 
++ [LG公布三款曲面OLED游戏显示器规格 国内已上市](https://www.3dmgame.com/news/202403/3889834.html)
+
++ [英伟达GTX 16系列GPU宣布彻底停产 完成历史使命](https://www.3dmgame.com/news/202403/3889833.html)
+
