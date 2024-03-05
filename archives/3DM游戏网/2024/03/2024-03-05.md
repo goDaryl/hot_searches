@@ -153,3 +153,15 @@
 
 + [《巧克力广场模拟器》Steam上线 如何成为巧克力大师](https://www.3dmgame.com/news/202403/3889766.html)
 
++ [《十字军之王3》全新DLC“亡者传奇”现已正式发布](https://www.3dmgame.com/news/202403/3889778.html)
+
++ [《荒野大镖客2》游戏摄影截图 画面效果精彩绝伦](https://www.3dmgame.com/news/202403/3889779.html)
+
++ [好评游戏《Dreams》开发商Media Molecule差点被索尼关闭](https://www.3dmgame.com/news/202403/3889784.html)
+
++ [《质量效应》宣布推出官方合作桌游 2024年发布](https://www.3dmgame.com/news/202403/3889783.html)
+
++ [《女神异闻录３ Reload》特别宣传片“Promise” 现已发售](https://www.3dmgame.com/news/202403/3889782.html)
+
++ [对抗DLSS！AMD正开发一个AI驱动的FSR技术](https://www.3dmgame.com/news/202403/3889781.html)
+
