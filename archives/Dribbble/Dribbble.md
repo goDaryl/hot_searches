@@ -49,3 +49,23 @@
 
 + [Sweetland](https://dribbble.com/shots/)
 
++ [Creative Desperation logo](https://dribbble.com/shots/)
+
++ [Gunslingers](https://dribbble.com/shots/)
+
++ [Zhenya Artemjev Japanese Style Artist](https://dribbble.com/shots/)
+
++ [Dave Matthews & Tim Reynolds 2024 Riviera Maya Branding](https://dribbble.com/shots/)
+
++ [Trailhunters - Merchandise Designs](https://dribbble.com/shots/)
+
++ [Paint Factory](https://dribbble.com/shots/)
+
++ [Vague Future](https://dribbble.com/shots/)
+
++ [Gum Wrapper](https://dribbble.com/shots/)
+
++ [Jackson's Chameleon](https://dribbble.com/shots/)
+
++ [Bento Scapes 5](https://dribbble.com/shots/)
+
