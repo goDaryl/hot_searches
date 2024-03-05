@@ -203,3 +203,15 @@
 
 + [《博德之门3》Xbox实体需4张光盘 豪华版发货延期](https://www.3dmgame.com/news/202403/3889801.html)
 
++ [《命令与征服》系列Steam售价永降 全部“白菜价”](https://www.3dmgame.com/news/202403/3889808.html)
+
++ [2024世界服务器投掷锦标赛在即 真正的物理“丢包”](https://www.3dmgame.com/news/202403/3889807.html)
+
++ [《Hazy Mind》登陆Steam 精神系恐怖冒险](https://www.3dmgame.com/news/202403/3889806.html)
+
++ [《最终幻想7：重生》与兵卫方便面联动 再送免费手机壁纸](https://www.3dmgame.com/news/202403/3889805.html)
+
++ [研究称报废卫星重返地球烧毁方式 可能加剧破坏臭氧层](https://www.3dmgame.com/news/202403/3889804.html)
+
++ [开放世界多人射击游戏《猎杀：对决》推出6周年纪念T恤](https://www.3dmgame.com/news/202403/3889803.html)
+
