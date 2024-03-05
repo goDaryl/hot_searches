@@ -33,3 +33,9 @@
 
 + [Yuzu 模拟器成“绝唱”：开发商向任天堂赔款 240 万美元、交出域名、永久停止开发](https://m.ithome.com/html/753652.htm)
 
++ [英伟达市值超沙特阿美，成全球市值第三大公司](https://m.ithome.com/html/753641.htm)
+
++ [2024 款机型发布后，苹果官网下架搭载 M1 芯片的 MacBook Air](https://m.ithome.com/html/753627.htm)
+
++ [【IT之家评测室】魅族 21 PRO 体验：设计在线，单手神器，还不是“完全体”](https://m.ithome.com/html/753512.htm)
+
