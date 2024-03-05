@@ -271,3 +271,9 @@
 
 + [《自杀小队：消灭正义联盟》Epic版又跳票了 现在计划3月26日发售](https://www.3dmgame.com/news/202403/3889835.html)
 
++ [《地平线：西之绝境》PC配置公布 硬盘需求150G](https://www.3dmgame.com/news/202403/3889839.html)
+
++ [四名前推特高管起诉马斯克 索要1亿多美元遣散费](https://www.3dmgame.com/news/202403/3889838.html)
+
++ [《月球叛军》1和2导演剪辑版将在同一天上线 时长比原版多了一个小时](https://www.3dmgame.com/news/202403/3889837.html)
+

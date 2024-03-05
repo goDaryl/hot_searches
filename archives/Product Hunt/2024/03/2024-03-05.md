@@ -153,3 +153,35 @@
 
 + [Chartgenie Graph and Chart Maker](https://www.producthunt.com/posts/chartgenie-graph-and-chart-maker)
 
++ [Haiper](https://www.producthunt.com/posts/haiper)
+
++ [Textify](https://www.producthunt.com/posts/textify-2)
+
++ [Anode](https://www.producthunt.com/posts/anode)
+
++ [just words](https://www.producthunt.com/posts/just-words)
+
++ [Feelly 2.0](https://www.producthunt.com/posts/feelly-2-0)
+
++ [Postcodeheatmap](https://www.producthunt.com/posts/postcodeheatmap)
+
++ [Million Lint](https://www.producthunt.com/posts/million-lint)
+
++ [Candor](https://www.producthunt.com/posts/candor-3)
+
++ [Just Yell!](https://www.producthunt.com/posts/just-yell)
+
++ [LabEx.io](https://www.producthunt.com/posts/labex-io)
+
++ [SellMate AI](https://www.producthunt.com/posts/sellmate-ai)
+
++ [DocAsk](https://www.producthunt.com/posts/docask)
+
++ [Useritem](https://www.producthunt.com/posts/useritem)
+
++ [Flixier AI Voices for Text-to-Speech](https://www.producthunt.com/posts/flixier-ai-voices-for-text-to-speech)
+
++ [Bake⁺](https://www.producthunt.com/posts/bake)
+
++ [Habitomic](https://www.producthunt.com/posts/habitomic-2)
+
