@@ -61,3 +61,5 @@
 
 + [SOAPHound：一款功能强大的基于ADWS协议的活动目录环境枚举工具](https://www.freebuf.com/sectool/391938.html)
 
++ [德国警方关闭该国最大的地下犯罪市场论坛](https://www.freebuf.com/news/393368.html)
+
