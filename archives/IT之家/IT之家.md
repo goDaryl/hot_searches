@@ -59,3 +59,5 @@
 
 + [微软 Win11 隐藏彩蛋被发现：开机旋转圆圈以字体格式存储](https://m.ithome.com/html/753681.htm)
 
++ [比亚迪混动 + 华为车机，赛力斯中型 SUV 蓝电 E5 推出限时优惠：9.98 万元起](https://m.ithome.com/html/753808.htm)
+
