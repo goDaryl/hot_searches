@@ -267,3 +267,7 @@
 
 + [《美女，请别影响我学习》Steam页面上线 本月发售](https://www.3dmgame.com/news/202403/3889918.html)
 
++ [RPG《圣兽之王》公开指南视频第四期及官方解说漫画“](https://www.3dmgame.com/news/202403/3889925.html)
+
++ [马斯克：AI将引发史上最大科技革命 但2025年面临电力瓶颈](https://www.3dmgame.com/news/202403/3889924.html)
+
