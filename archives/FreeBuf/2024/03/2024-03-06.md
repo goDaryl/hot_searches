@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 全国首部公共安全摄像头管理地方性法规施行；全球首个AI蠕虫面世](https://www.freebuf.com/articles/393323.html)
 
++ [工业控制系统 | 信息安全建设思路](https://www.freebuf.com/articles/ics-articles/392657.html)
+
