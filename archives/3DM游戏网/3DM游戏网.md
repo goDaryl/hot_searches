@@ -279,3 +279,7 @@
 
 + [《暗黑破坏神4》1.3.3更新上线 加入吸血鬼异能、试炼场](https://www.3dmgame.com/news/202403/3889929.html)
 
++ [OpenAI回击马斯克起诉 称马斯克想要绝对控制公司](https://www.3dmgame.com/news/202403/3889931.html)
+
++ [《沙丘2》全球票房需要达到5亿美元才能回本](https://www.3dmgame.com/news/202403/3889930.html)
+
