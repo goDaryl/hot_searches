@@ -79,3 +79,13 @@
 
 + [The Bear Yes Chef! Illustration](https://dribbble.com/shots/)
 
++ [Denth  -  Star Wars DND](https://dribbble.com/shots/)
+
++ [???? ????](https://dribbble.com/shots/)
+
++ [Lucky Angler](https://dribbble.com/shots/)
+
++ [4 illustrations for animation](https://dribbble.com/shots/)
+
++ [The Dapper Dragon Logo](https://dribbble.com/shots/)
+
