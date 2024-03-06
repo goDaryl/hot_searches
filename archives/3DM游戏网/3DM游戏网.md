@@ -275,3 +275,7 @@
 
 + [Capcom又给日本新员工涨工资 起薪上调超25%](https://www.3dmgame.com/news/202403/3889927.html)
 
++ [《龙之信条2》主机版将没有任何画质模式](https://www.3dmgame.com/news/202403/3889928.html)
+
++ [《暗黑破坏神4》1.3.3更新上线 加入吸血鬼异能、试炼场](https://www.3dmgame.com/news/202403/3889929.html)
+
