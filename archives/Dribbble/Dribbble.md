@@ -121,3 +121,7 @@
 
 + [Nexus Wear](https://dribbble.com/shots/)
 
++ [Hangar Sisters Lettering](https://dribbble.com/shots/)
+
++ [Tiny Tini's Martini Room Badges](https://dribbble.com/shots/)
+

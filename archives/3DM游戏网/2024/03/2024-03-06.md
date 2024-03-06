@@ -273,3 +273,5 @@
 
 + [三星仍需解决3nm工艺良品率问题 目前在50%附近徘徊](https://www.3dmgame.com/news/202403/3889926.html)
 
++ [Capcom又给日本新员工涨工资 起薪上调超25%](https://www.3dmgame.com/news/202403/3889927.html)
+
