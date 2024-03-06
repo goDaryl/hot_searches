@@ -105,3 +105,19 @@
 
 + [《涡轮高尔夫赛车》4月4日发售 EA版获特别好评](https://www.3dmgame.com/news/202403/3889842.html)
 
++ [消息称《对马岛之鬼2》即将在三个月内官宣](https://www.3dmgame.com/news/202403/3889850.html)
+
++ [《龙之信条2》18分钟魔弓手试玩演示](https://www.3dmgame.com/news/202403/3889843.html)
+
++ [致敬武侠功夫片《功夫熊猫4》花絮视频曝光](https://www.3dmgame.com/news/202403/3889849.html)
+
++ [Yuzu模拟器倒下去 Nuzu和Suzu站了起来](https://www.3dmgame.com/news/202403/3889848.html)
+
++ [精美2DRPG《星之后裔：吠陀骑士》发行日公布](https://www.3dmgame.com/news/202403/3889847.html)
+
++ [微软开放辐射Xbox手柄定制服务](https://www.3dmgame.com/news/202403/3889846.html)
+
++ [《忍者神龟：变种之怒》24年底登陆全平台](https://www.3dmgame.com/news/202403/3889845.html)
+
++ [《午夜猎魂》3/21脱离EA阶段发售正式版](https://www.3dmgame.com/news/202403/3889844.html)
+

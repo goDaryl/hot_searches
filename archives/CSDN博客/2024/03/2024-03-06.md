@@ -121,3 +121,7 @@
 
 + [探索Hadoop的三种运行模式：单机模式、伪分布式模式和完全分布式模式](https://blog.csdn.net/weixin_52986315/article/details/136310851)
 
++ [计算机设计大赛 深度学习疲劳检测 驾驶行为检测 - python opencv cnn](https://blog.csdn.net/iuerfee/article/details/136453456)
+
++ [教你用Ubuntu快速搭建饥荒服务器](https://blog.csdn.net/devcloud/article/details/136457207)
+
