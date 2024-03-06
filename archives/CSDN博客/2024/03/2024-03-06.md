@@ -125,3 +125,11 @@
 
 + [教你用Ubuntu快速搭建饥荒服务器](https://blog.csdn.net/devcloud/article/details/136457207)
 
++ [【粉丝福利社】低代码平台开发实践：基于React（文末送书-进行中）](https://blog.csdn.net/aa2528877987/article/details/136492912)
+
++ [一本书讲透ChatGPT——理论与实践的完美结合，大模型技术工程师的必备指南](https://blog.csdn.net/JHXL_/article/details/136477894)
+
++ [Python爬虫之爬取并下载哔哩哔哩视频](https://blog.csdn.net/2301_80124151/article/details/136434775)
+
++ [python网络爬虫教程笔记(1)](https://blog.csdn.net/qq_45365214/article/details/124840449)
+

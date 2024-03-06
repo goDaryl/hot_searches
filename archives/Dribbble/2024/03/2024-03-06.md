@@ -97,3 +97,11 @@
 
 + [4 illustrations for animation](https://dribbble.com/shots/)
 
++ [Denth  -  Star Wars DND](https://dribbble.com/shots/)
+
++ [Girl's portrait](https://dribbble.com/shots/)
+
++ [El Santo](https://dribbble.com/shots/)
+
++ [Cat or dog ? (PSE '24)](https://dribbble.com/shots/)
+
