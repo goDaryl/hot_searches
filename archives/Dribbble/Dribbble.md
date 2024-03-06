@@ -49,3 +49,21 @@
 
 + [Street View](https://dribbble.com/shots/)
 
++ [MEZZO: Editable Illustrator Grain Textures - Now Available!](https://dribbble.com/shots/)
+
++ [Gunslingers](https://dribbble.com/shots/)
+
++ [Ornament](https://dribbble.com/shots/)
+
++ [Nike Sneaker Illustration????](https://dribbble.com/shots/)
+
++ [Logo Design](https://dribbble.com/shots/)
+
++ [Hubbs Aviation Logo Design](https://dribbble.com/shots/)
+
++ [Trojan Horse](https://dribbble.com/shots/)
+
++ [Movie Monsters — (1) Frankenstein's Monster](https://dribbble.com/shots/)
+
++ [Jurassic Park Control Room](https://dribbble.com/shots/)
+
