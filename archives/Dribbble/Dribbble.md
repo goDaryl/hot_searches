@@ -67,3 +67,15 @@
 
 + [Jurassic Park Control Room](https://dribbble.com/shots/)
 
++ [Jackson's Chameleon](https://dribbble.com/shots/)
+
++ [Chum Bucket](https://dribbble.com/shots/)
+
++ [Video Frames](https://dribbble.com/shots/)
+
++ [BRU Coffee - Pt.1](https://dribbble.com/shots/)
+
++ [DONUT](https://dribbble.com/shots/)
+
++ [The Bear Yes Chef! Illustration](https://dribbble.com/shots/)
+
