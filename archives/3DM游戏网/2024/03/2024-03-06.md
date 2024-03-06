@@ -221,3 +221,15 @@
 
 + [主播用辣椒酱和热狗肠为《刺猬索尼克3》掌机发电并运行游戏](https://www.3dmgame.com/news/202403/3889900.html)
 
++ [Yuzu诉讼尘埃未落 任天堂模拟器已“人人自危”](https://www.3dmgame.com/news/202403/3889906.html)
+
++ [回合制战术游戏《绝密：法国 ‘44年》正式发售 售价154元](https://www.3dmgame.com/news/202403/3889901.html)
+
++ [农场游戏《甘露岛》公布新实机演示 众筹活动开启](https://www.3dmgame.com/news/202403/3889904.html)
+
++ [《最终幻想7：重生》中莫古利造型大改 引玩家吐槽](https://www.3dmgame.com/news/202403/3889905.html)
+
++ [《医院666》登陆Steam  类《8番出口》惊悚解谜](https://www.3dmgame.com/news/202403/3889903.html)
+
++ [任天堂广告视3DS为复古主机 90后：感觉自己像古董](https://www.3dmgame.com/news/202403/3889902.html)
+

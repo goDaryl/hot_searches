@@ -57,3 +57,7 @@
 
 + [代码审计 | 你一定会审的java系统](https://www.freebuf.com/articles/web/393271.html)
 
++ [针对PLC的恶意软件发布，黑客或可发起远程震网式攻击](https://www.freebuf.com/news/393495.html)
+
++ [如何使用LEAKEY轻松检测和验证目标服务泄露的敏感凭证](https://www.freebuf.com/sectool/391939.html)
+
