@@ -255,3 +255,15 @@
 
 + [索尼或在为游戏开发“超级代币” 对玩家有吸引力](https://www.3dmgame.com/news/202403/3889912.html)
 
++ [还有更多！《星刃》将在发售之后添加更多服装外观](https://www.3dmgame.com/news/202403/3889921.html)
+
++ [玩家意外从拍得PS3中发现16年前夭折游戏《时空分裂者4》](https://www.3dmgame.com/news/202403/3889923.html)
+
++ [苹果市值两天蒸发超万亿元！iPhone在中国销量暴跌24%](https://www.3dmgame.com/news/202403/3889922.html)
+
++ [钟薛高售价从60元降到2.5元 网友被欺诈、交智商税](https://www.3dmgame.com/news/202403/3889920.html)
+
++ [华为全球最大的研发中心！华为上海青浦研发中心今年启用](https://www.3dmgame.com/news/202403/3889919.html)
+
++ [《美女，请别影响我学习》Steam页面上线 本月发售](https://www.3dmgame.com/news/202403/3889918.html)
+
