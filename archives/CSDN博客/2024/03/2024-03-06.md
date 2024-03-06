@@ -197,3 +197,9 @@
 
 + [【知识整理】MySQL数据库开发设计规范](https://blog.csdn.net/tjls2008/article/details/136487506)
 
++ [【码银送书第十三期】《ChatGPT原理与架构》](https://blog.csdn.net/weixin_53197693/article/details/136485875)
+
++ [8个优秀的CSS实践，web开发语言](https://blog.csdn.net/m0_60721907/article/details/136490312)
+
++ [Yolov8改进交流](https://blog.csdn.net/G_Shengn/article/details/136482666)
+
