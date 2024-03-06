@@ -219,3 +219,5 @@
 
 + [对话育碧品牌及IP负责人Eric，带你走进《英雄无敌》系列IP的宏大篇章](https://www.3dmgame.com/news/202403/3889894.html)
 
++ [主播用辣椒酱和热狗肠为《刺猬索尼克3》掌机发电并运行游戏](https://www.3dmgame.com/news/202403/3889900.html)
+

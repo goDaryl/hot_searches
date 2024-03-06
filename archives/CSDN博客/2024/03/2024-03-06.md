@@ -167,3 +167,9 @@
 
 + [Claude 3家族惊艳亮相：AI领域掀起新浪潮，GPT-4面临强劲挑战](https://blog.csdn.net/Aileenvov/article/details/136493773)
 
++ [【Vue】VueX仓库](https://blog.csdn.net/m0_62645012/article/details/136486848)
+
++ [基于QGIS的研究区域遥感影像裁切下载方法-以岳麓区为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/136490767)
+
++ [SpringCloud-数据认证加密总结](https://blog.csdn.net/weixin_41793160/article/details/136482696)
+
