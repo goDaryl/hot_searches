@@ -61,3 +61,5 @@
 
 + [如何使用LEAKEY轻松检测和验证目标服务泄露的敏感凭证](https://www.freebuf.com/sectool/391939.html)
 
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
