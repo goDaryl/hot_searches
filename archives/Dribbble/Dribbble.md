@@ -73,3 +73,17 @@
 
 + [Jodar Farms](https://dribbble.com/shots/)
 
++ [Interior design for Viture CGI](https://dribbble.com/shots/)
+
++ [Girl's portrait](https://dribbble.com/shots/)
+
++ [Camera Controller Concept](https://dribbble.com/shots/)
+
++ [BRU Coffee - Pt.1](https://dribbble.com/shots/)
+
++ [Quirky Eagle Character](https://dribbble.com/shots/)
+
++ [Barking Cartel](https://dribbble.com/shots/)
+
++ [Flower on saturn logotypes](https://dribbble.com/shots/)
+
