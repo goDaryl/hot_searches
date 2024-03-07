@@ -191,3 +191,19 @@
 
 + [第一人称叙事心理恐怖游戏《噩梦初醒》现已正式发售](https://www.3dmgame.com/news/202403/3889972.html)
 
++ [神奇！AMD显卡暴涨117%份额飙升 英伟达意外大跌](https://www.3dmgame.com/news/202403/3889988.html)
+
++ [动作冒险游戏《权贵之地》首个预告公布 2025年登陆Steam](https://www.3dmgame.com/news/202403/3889987.html)
+
++ [《赛博朋克2077》官方漫画将推出实体版精选集](https://www.3dmgame.com/news/202403/3889986.html)
+
++ [因Epic老板表达不满 苹果删除公司iOS开发者账号](https://www.3dmgame.com/news/202403/3889985.html)
+
++ [《哥斯拉大战金刚2：帝国崛起》发布“极致威胁”版预告 3月29日上映](https://www.3dmgame.com/news/202403/3889984.html)
+
++ [《艰难攀爬游戏》登陆Steam 致敬壶男伸腿版](https://www.3dmgame.com/news/202403/3889983.html)
+
++ [微信发布朋友圈违规避坑指南 躲坑依然有难度](https://www.3dmgame.com/news/202403/3889982.html)
+
++ [《未知9号：觉醒》Steam页面上线 年内发售](https://www.3dmgame.com/news/202403/3889981.html)
+
