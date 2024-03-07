@@ -273,3 +273,11 @@
 
 + [华硕ROG PG32UCDM预售 4K@240Hz OLED屏](https://www.3dmgame.com/news/202403/3890021.html)
 
++ [《声名狼藉：次子》也可能移植登陆PC平台](https://www.3dmgame.com/news/202403/3890024.html)
+
++ [Fami通新一周销量榜 《最终幻想7：重生》登顶](https://www.3dmgame.com/news/202403/3890025.html)
+
++ [“黄金树之影”DLC难度将超过《艾尔登法环》本体 直接面向老玩家](https://www.3dmgame.com/news/202403/3890022.html)
+
++ [英伟达打击第三方公司兼容CUDA 摩尔线程表示未受影响](https://www.3dmgame.com/news/202403/3890023.html)
+
