@@ -121,3 +121,5 @@
 
 + [DNF衍生类魂新游《第一狂战士：卡赞》发布战斗演示](https://www.3dmgame.com/news/202403/3889939.html)
 
++ [《潜行者：三部曲合集》全新预告 今日正式上线](https://www.3dmgame.com/news/202403/3889946.html)
+
