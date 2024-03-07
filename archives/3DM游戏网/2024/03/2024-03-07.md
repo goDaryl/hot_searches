@@ -173,3 +173,21 @@
 
 + [风火轮玩具生产商美泰宣布将自主发行手机游戏](https://www.3dmgame.com/news/202403/3889961.html)
 
++ [《绝地潜兵2》最弱装备喷火器一夜之间变“神器”](https://www.3dmgame.com/news/202403/3889980.html)
+
++ [《飙酷车神2》推“MAD第2弹”更新 往后再无新内容](https://www.3dmgame.com/news/202403/3889979.html)
+
++ [《女神异闻录３ Reload》迎来完结篇！“扩展通行证”发布确定！](https://www.3dmgame.com/news/202403/3889978.html)
+
++ [《龙之信条2》幻术师预告  3月22日发售](https://www.3dmgame.com/news/202403/3889977.html)
+
++ [Atlus新作RPG《圣兽之王》发售日更新 追加新难度设定](https://www.3dmgame.com/news/202403/3889976.html)
+
++ [《预兆景象》开发商大裁员 1月发布抢先体验新作停止开发](https://www.3dmgame.com/news/202403/3889975.html)
+
++ [《祇：女神之道》Steam页面上线 年内发售](https://www.3dmgame.com/news/202403/3889974.html)
+
++ [《碧姬公主：表演时刻》试玩版上线 免费下载游玩](https://www.3dmgame.com/news/202403/3889973.html)
+
++ [第一人称叙事心理恐怖游戏《噩梦初醒》现已正式发售](https://www.3dmgame.com/news/202403/3889972.html)
+
