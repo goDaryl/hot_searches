@@ -109,3 +109,15 @@
 
 + [超能力动作游戏《未知9号：觉醒》发布全新预告片](https://www.3dmgame.com/news/202403/3889938.html)
 
++ [《最终幻想14》将于3月21日登陆Xbox Series X|S](https://www.3dmgame.com/news/202403/3889945.html)
+
++ [《冰汽时代2》新预告：7月25日发售 首发加入XGP](https://www.3dmgame.com/news/202403/3889944.html)
+
++ [《最终幻想7：重制版》三部曲第三部也是PS主机独占](https://www.3dmgame.com/news/202403/3889943.html)
+
++ [虚幻5打造克苏鲁恐怖游戏《沉没之城2》发布](https://www.3dmgame.com/news/202403/3889941.html)
+
++ [融合卡牌构建和潜行游戏新作《女巫戏法》公布](https://www.3dmgame.com/news/202403/3889940.html)
+
++ [DNF衍生类魂新游《第一狂战士：卡赞》发布战斗演示](https://www.3dmgame.com/news/202403/3889939.html)
+
