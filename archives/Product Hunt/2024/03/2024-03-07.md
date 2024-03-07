@@ -169,3 +169,5 @@
 
 + [Calmo](https://www.producthunt.com/posts/calmo)
 
++ [Nothing Phone (2a)](https://www.producthunt.com/posts/nothing-phone-2a)
+

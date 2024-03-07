@@ -271,3 +271,5 @@
 
 + [《对马岛之鬼》PC版刚公布 销量已经冲上Steam第五名](https://www.3dmgame.com/news/202403/3890020.html)
 
++ [华硕ROG PG32UCDM预售 4K@240Hz OLED屏](https://www.3dmgame.com/news/202403/3890021.html)
+
