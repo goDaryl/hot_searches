@@ -211,3 +211,13 @@
 
 + [《Perfect Poses》4月登陆Steam 内裤男的完美姿势穿洞](https://www.3dmgame.com/news/202403/3889989.html)
 
++ [好色之徒被点名 《龙之信条2》追随者：前主人开后宫](https://www.3dmgame.com/news/202403/3889992.html)
+
++ [《勇敢的心：叶落归根》发售 支持全平台游玩](https://www.3dmgame.com/news/202403/3889993.html)
+
++ [据传丰田正在打造《宝可梦朱·紫》密勒顿摩托车](https://www.3dmgame.com/news/202403/3889994.html)
+
++ [春季极速狂欢！《极限竞速·地平线5》全新赛季5折史低特惠来袭！](https://www.3dmgame.com/news/202403/3889995.html)
+
++ [游戏王世界锦标赛2024宣布9月7日举办 新增超速决斗项目](https://www.3dmgame.com/news/202403/3889991.html)
+
