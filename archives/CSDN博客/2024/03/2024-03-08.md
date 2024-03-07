@@ -107,3 +107,25 @@
 
 + [外包干了10天，技术退步明显。。。。。](https://blog.csdn.net/2301_79535544/article/details/136520167)
 
++ [2024三掌柜赠书活动第十二期：Nuxt.js Web开发实战](https://blog.csdn.net/CC1991_/article/details/136500778)
+
++ [如何在Linux系统Docker部署Dashy并远程访问内网服务界面](https://blog.csdn.net/qyj19920704/article/details/136545456)
+
++ [30天拿下Rust之引用](https://blog.csdn.net/hope_wisdom/article/details/136439454)
+
++ [Java社区疫情防控系统设计与实现(Idea+Springboot+mysql)](https://blog.csdn.net/u013818205/article/details/136488596)
+
++ [AI短视频制作：创意与技术的完美结合](https://blog.csdn.net/2303_77146628/article/details/136547252)
+
++ [Three.js--》探寻Cannon.js构建震撼的3D物理交互体验（二）](https://blog.csdn.net/qq_53123067/article/details/136502446)
+
++ [[Redis]——缓存击穿和缓存穿透及解决方案（图解+代码+解释）](https://blog.csdn.net/Panci_/article/details/136518397)
+
++ [【粉丝福利社】Excel高效办公：会计与财务管理（AI版）（文末送书-进行中）](https://blog.csdn.net/aa2528877987/article/details/136548502)
+
++ [[动态规划]---part2](https://blog.csdn.net/qq_61552595/article/details/136487134)
+
++ [UML简述（项目立项、设计、需求整理必备）](https://blog.csdn.net/s445320/article/details/136528968)
+
++ [如何使用 CSS object-fit 进行图片的缩放和裁剪](https://blog.csdn.net/rubys007/article/details/136486937)
+
