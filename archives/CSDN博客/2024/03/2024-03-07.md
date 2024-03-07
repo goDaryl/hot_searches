@@ -201,3 +201,5 @@
 
 + [【音视频开发好书推荐】RTC程序设计：实时音视频权威指南](https://blog.csdn.net/s445320/article/details/136484696)
 
++ [OpenCV开发笔记（七十六）：相机标定（一）：识别棋盘并绘制角点](https://blog.csdn.net/qq21497936/article/details/136535848)
+

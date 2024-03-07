@@ -127,3 +127,7 @@
 
 + [Felt squirrelly, might delete later idk ????️](https://dribbble.com/shots/)
 
++ [The Monocronies 02.](https://dribbble.com/shots/)
+
++ [Luchador](https://dribbble.com/shots/)
+
