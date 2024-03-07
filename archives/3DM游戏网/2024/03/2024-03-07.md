@@ -207,3 +207,7 @@
 
 + [《未知9号：觉醒》Steam页面上线 年内发售](https://www.3dmgame.com/news/202403/3889981.html)
 
++ [狮门影业的新剧集《暮光之城》实为动画作品](https://www.3dmgame.com/news/202403/3889990.html)
+
++ [《Perfect Poses》4月登陆Steam 内裤男的完美姿势穿洞](https://www.3dmgame.com/news/202403/3889989.html)
+
