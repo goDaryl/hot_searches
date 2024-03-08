@@ -71,3 +71,15 @@
 
 + [BRU Coffee - Pt.1](https://dribbble.com/shots/)
 
++ [Trailhunters - Merchandise Designs](https://dribbble.com/shots/)
+
++ [El Tigre print](https://dribbble.com/shots/)
+
++ [StickerApp x Red Halftone: Wall Stickers](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #6](https://dribbble.com/shots/)
+
++ [Parrot Paradise](https://dribbble.com/shots/)
+
++ [Sweetland](https://dribbble.com/shots/)
+
