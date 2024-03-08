@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 香港私隐公署开展人工智能合规检查；Meta旗下社交媒体全球范围宕机](https://www.freebuf.com/news/393643.html)
 
++ [信息安全管理 | 数据出境合规申请路径流程](https://www.freebuf.com/articles/compliance/393141.html)
+
