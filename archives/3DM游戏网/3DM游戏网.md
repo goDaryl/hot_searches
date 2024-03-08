@@ -129,3 +129,35 @@
 
 + [《兄弟：双子传说重制版》XSS最低分辨率只有454P](https://www.3dmgame.com/news/202403/3890035.html)
 
++ [《洛奇英雄传：反抗命运》公布新预告 3月14日开启A测](https://www.3dmgame.com/news/202403/3890051.html)
+
++ [《三角洲行动》大规模PC测试开启 显存需5GB以上](https://www.3dmgame.com/news/202403/3890052.html)
+
++ [《Dream Tactics》发售日期公布 4月15日推出](https://www.3dmgame.com/news/202403/3890053.html)
+
++ [《星露谷物语》开发者保证：1.6大型更新不会影响存档](https://www.3dmgame.com/news/202403/3890054.html)
+
++ [《妮姬》全新SSR角色登场 很大很晃让人挪不开眼](https://www.3dmgame.com/news/202403/3890055.html)
+
++ [动漫风格即时战略游戏《刃裔学院》 已在Steam平台正式发售](https://www.3dmgame.com/news/202403/3890056.html)
+
++ [《头脑特工队2》正式预告曝光 6月14日北美上映](https://www.3dmgame.com/news/202403/3890041.html)
+
++ [Steam开启EA经典游戏特卖 《命令与征服：最终合集》推出](https://www.3dmgame.com/news/202403/3890042.html)
+
++ [《Amerzone-探險家的記憶傳承》Steam页面上线 暂不支持简中](https://www.3dmgame.com/news/202403/3890043.html)
+
++ [《绝地潜兵2》开发者暴言：看玩家因削弱哭闹很愉悦](https://www.3dmgame.com/news/202403/3890044.html)
+
++ [《星际公民》新视频展示FPS战斗改进：背包装弹等](https://www.3dmgame.com/news/202403/3890045.html)
+
++ [开放世界APRG《物质世界2》正式公布 发售日期待定](https://www.3dmgame.com/news/202403/3890046.html)
+
++ [乌尔善新片《郑和下西洋》2026年上映 今年第四季度开拍](https://www.3dmgame.com/news/202403/3890047.html)
+
++ [《龙之信条2》现已提供全平台角色编辑＆保存工具](https://www.3dmgame.com/news/202403/3890048.html)
+
++ [《守望先锋2》总监承认DPS英雄目前太强 即将削弱](https://www.3dmgame.com/news/202403/3890049.html)
+
++ [《星刃》或将推出试玩版Demo 大家想玩吗？](https://www.3dmgame.com/news/202403/3890050.html)
+
