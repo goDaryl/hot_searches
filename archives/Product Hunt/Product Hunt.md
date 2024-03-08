@@ -161,3 +161,11 @@
 
 + [Hai](https://www.producthunt.com/posts/hai-2)
 
++ [OpenAlternative](https://www.producthunt.com/posts/openalternative)
+
++ [FocusBeats: Pomodoro + Music](https://www.producthunt.com/posts/focusbeats-pomodoro-music)
+
++ [Inboundly - Ultimate Twitter CRM](https://www.producthunt.com/posts/inboundly-ultimate-twitter-crm)
+
++ [Hustle CRM Copilot](https://www.producthunt.com/posts/hustle-crm-copilot)
+
