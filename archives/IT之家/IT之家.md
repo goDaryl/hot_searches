@@ -35,3 +35,7 @@
 
 + [微软前开发者：Windows 安卓子系统（WSA）因应用商店收入不足而被扼杀](https://m.ithome.com/html/754319.htm)
 
++ [《龙珠》漫画家鸟山明因病去世，年仅 68 岁](https://m.ithome.com/html/754435.htm)
+
++ [终身免费使用，极氪 001 新老车主 0 元开通完全智能辅助驾驶系统](https://m.ithome.com/html/754267.htm)
+
