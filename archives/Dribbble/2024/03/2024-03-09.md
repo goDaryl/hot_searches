@@ -49,3 +49,25 @@
 
 + [Jurassic Park Control Room](https://dribbble.com/shots/)
 
++ [The Monocronies 02.](https://dribbble.com/shots/)
+
++ [Fountain of Youth](https://dribbble.com/shots/)
+
++ [Hot sauce illustrations](https://dribbble.com/shots/)
+
++ [Barking Cartel](https://dribbble.com/shots/)
+
++ [Failure Fans These Flames Sticker](https://dribbble.com/shots/)
+
++ [Camera Controller Concept](https://dribbble.com/shots/)
+
++ [Movie Monsters — (1) Frankenstein's Monster](https://dribbble.com/shots/)
+
++ [Bento Scapes 5](https://dribbble.com/shots/)
+
++ [Tiny Tini's Martini Room Badges](https://dribbble.com/shots/)
+
++ [Seagull](https://dribbble.com/shots/)
+
++ [BRU Coffee - Pt.1](https://dribbble.com/shots/)
+
