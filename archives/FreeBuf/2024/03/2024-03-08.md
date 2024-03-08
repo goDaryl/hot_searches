@@ -41,3 +41,5 @@
 
 + [CrowdStrike全球威胁报告：云入侵上升75%](https://www.freebuf.com/articles/paper/393157.html)
 
++ [波及世界多地，分析不断进化的Parrot TDS恶意软件活动](https://www.freebuf.com/articles/network/393145.html)
+

@@ -107,3 +107,13 @@
 
 + [《辐射》真人剧集预告发布 4月12日上线](https://www.3dmgame.com/news/202403/3890029.html)
 
++ [Capcom发布动作策略游戏《祇：女神之道》介绍视频](https://www.3dmgame.com/news/202403/3890034.html)
+
++ [3月21日正式开播 网飞版《三体》​发布最终预告](https://www.3dmgame.com/news/202403/3890033.html)
+
++ [经典解谜游戏《亚尔默逊：冒险者的遗产》全面重制](https://www.3dmgame.com/news/202403/3890032.html)
+
++ [《碧姬公主 表演时刻》玩法视频全面介绍游戏特色亮点](https://www.3dmgame.com/news/202403/3890031.html)
+
++ [《魂斗罗：加鲁加行动》角色预告新老主角齐上阵](https://www.3dmgame.com/news/202403/3890030.html)
+
