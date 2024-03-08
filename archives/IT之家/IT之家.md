@@ -43,3 +43,7 @@
 
 + [极星 4 全系车型限时降价 6 万元，单电机标准续航版 23.99 万元起售、限量 100 辆](https://m.ithome.com/html/754336.htm)
 
++ [小鹏汽车法务部发声：“黑锅”不是飞盘，别乱扔](https://m.ithome.com/html/754420.htm)
+
++ [致态 PRO 专业高速存储卡 1TB 版发布，首发价 849 元](https://m.ithome.com/html/754464.htm)
+
