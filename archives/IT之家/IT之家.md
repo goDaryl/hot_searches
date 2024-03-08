@@ -53,3 +53,5 @@
 
 + [苹果 iOS“地震预警”App 发布 2024.1.1 更新：体积大幅缩减至 474.4MB](https://m.ithome.com/html/754536.htm)
 
++ [“地震预警”苹果 iOS 版 App 发布 2024.1.1 更新：体积大幅缩减至 474.4MB](https://m.ithome.com/html/754536.htm)
+
