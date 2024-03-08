@@ -117,3 +117,15 @@
 
 + [《魂斗罗：加鲁加行动》角色预告新老主角齐上阵](https://www.3dmgame.com/news/202403/3890030.html)
 
++ [恐怖游戏《堕》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202403/3890038.html)
+
++ [露营爱好者福音 《龙之信条2》的烹饪场景为真实拍摄](https://www.3dmgame.com/news/202403/3890039.html)
+
++ [《守望先锋2》联动《星际牛仔》预告发布 下周上线](https://www.3dmgame.com/news/202403/3890040.html)
+
++ [日本《最终幻想7：重生》实体首发销量比《最终幻想16》低22%](https://www.3dmgame.com/news/202403/3890036.html)
+
++ [PS粉丝抵制《对马岛之鬼》PC版 甚至称PC玩家最垃圾](https://www.3dmgame.com/news/202403/3890037.html)
+
++ [《兄弟：双子传说重制版》XSS最低分辨率只有454P](https://www.3dmgame.com/news/202403/3890035.html)
+
