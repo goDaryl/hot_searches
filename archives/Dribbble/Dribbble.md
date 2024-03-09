@@ -67,3 +67,15 @@
 
 + [Movie Monsters — (1) Frankenstein's Monster](https://dribbble.com/shots/)
 
++ [Trojan Horse](https://dribbble.com/shots/)
+
++ [Do What You Will Tattoo](https://dribbble.com/shots/)
+
++ [Chum Bucket](https://dribbble.com/shots/)
+
++ [Gum Wrapper](https://dribbble.com/shots/)
+
++ [Trailhunters - Merchandise Designs](https://dribbble.com/shots/)
+
++ [Flower on saturn logotypes](https://dribbble.com/shots/)
+
