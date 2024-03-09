@@ -117,3 +117,9 @@
 
 + [《DOTA2》TI13今年9月举办 花落丹麦哥本哈根](https://www.3dmgame.com/news/202403/3890115.html)
 
++ [华纳兄弟正在下架Adult Swim发行的游戏](https://www.3dmgame.com/news/202403/3890118.html)
+
++ [《工人物语：新兴同盟》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3890117.html)
+
++ [《星刃》体验版意外放出 Boss战和杂兵战实机](https://www.3dmgame.com/news/202403/3890116.html)
+
