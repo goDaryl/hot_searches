@@ -47,3 +47,5 @@
 
 + [矩阵爆破逆向之条件断点的妙用](https://www.freebuf.com/defense/393115.html)
 
++ [USB 设备开发：从入门到实践指南（二）](https://www.freebuf.com/articles/network/393132.html)
+

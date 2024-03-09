@@ -157,3 +157,11 @@
 
 + [英国2月销量榜：《绝地潜兵2》大获成功登顶](https://www.3dmgame.com/news/202403/3890131.html)
 
++ [《最终幻想14》宣布举办10周年14小时庆祝直播](https://www.3dmgame.com/news/202403/3890139.html)
+
++ [孩之宝有意与《博德之门3》开发商合作推出新游戏](https://www.3dmgame.com/news/202403/3890136.html)
+
++ [国内仅次于华为！京东方专利申请数全球第五](https://www.3dmgame.com/news/202403/3890138.html)
+
++ [《绝地潜兵2》玩家解锁机甲速度太快 服务器压力山大](https://www.3dmgame.com/news/202403/3890137.html)
+
