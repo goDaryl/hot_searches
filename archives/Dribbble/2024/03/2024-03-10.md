@@ -49,3 +49,21 @@
 
 + [Barking Cartel](https://dribbble.com/shots/)
 
++ [Shows I Wish I Went To #6](https://dribbble.com/shots/)
+
++ [Hubbs Aviation Logo Design](https://dribbble.com/shots/)
+
++ [Y2K](https://dribbble.com/shots/)
+
++ [Everyday people](https://dribbble.com/shots/)
+
++ [BRU Coffee - Pt.1](https://dribbble.com/shots/)
+
++ [Tarot card #12: The Hanged Woman](https://dribbble.com/shots/)
+
++ [Beret](https://dribbble.com/shots/)
+
++ [Sweetland](https://dribbble.com/shots/)
+
++ [Movie Monsters — (1) Frankenstein's Monster](https://dribbble.com/shots/)
+
