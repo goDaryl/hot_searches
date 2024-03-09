@@ -79,3 +79,11 @@
 
 + [Flower on saturn logotypes](https://dribbble.com/shots/)
 
++ [Maryna's birthday / Cat](https://dribbble.com/shots/)
+
++ [Paint Factory](https://dribbble.com/shots/)
+
++ [Jodar Farms](https://dribbble.com/shots/)
+
++ [Goodbye Toriyama](https://dribbble.com/shots/)
+
