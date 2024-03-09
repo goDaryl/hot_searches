@@ -55,3 +55,7 @@
 
 + [消息称小米 15 系列手机“极大概率”涨价](https://m.ithome.com/html/754673.htm)
 
++ [电影《沙丘 2》豆瓣开分 8.2 分，内地首日票房突破 6000 万](https://m.ithome.com/html/754635.htm)
+
++ [比亚迪秦 L 车型无伪装谍照曝光，预计搭载第 5 代 DM-i 混动技术](https://m.ithome.com/html/754665.htm)
+
