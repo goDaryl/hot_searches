@@ -59,3 +59,5 @@
 
 + [比亚迪秦 L 车型无伪装谍照曝光，预计搭载第 5 代 DM-i 混动技术](https://m.ithome.com/html/754665.htm)
 
++ [百度地图联动《完蛋！我被美女包围了》DLC，角色语音包上新](https://m.ithome.com/html/754646.htm)
+
