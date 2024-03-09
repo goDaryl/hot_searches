@@ -147,3 +147,13 @@
 
 + [战术角色扮演游戏《刃裔学院》现已正式发售](https://www.3dmgame.com/news/202403/3890119.html)
 
++ [《辐射：新维加斯》MOD让城市还原最初概念设定](https://www.3dmgame.com/news/202403/3890135.html)
+
++ [《巫师3：次世代版》MOD修复光追反射优化问题](https://www.3dmgame.com/news/202403/3890134.html)
+
++ [Steam“先锋生存”捆绑包 《DayZ》+《腐蚀》6折](https://www.3dmgame.com/news/202403/3890133.html)
+
++ [新规后多地快递仍不告而投 快递员集体崩溃：没法干了](https://www.3dmgame.com/news/202403/3890132.html)
+
++ [英国2月销量榜：《绝地潜兵2》大获成功登顶](https://www.3dmgame.com/news/202403/3890131.html)
+
