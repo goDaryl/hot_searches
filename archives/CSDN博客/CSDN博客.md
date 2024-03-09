@@ -121,3 +121,7 @@
 
 + [推荐书籍《低代码平台开发实践：基于React》—— 提升开发效率，构建优质应用](https://blog.csdn.net/qq_54796785/article/details/136499259)
 
++ [从新能源汽车行业自动驾驶技术去看AI的发展未来趋势](https://blog.csdn.net/CSBIGDOG/article/details/136540201)
+
++ [AIGC启示录：深度解析AIGC技术的现代性与系统性的奇幻旅程](https://blog.csdn.net/Srlua/article/details/136548959)
+

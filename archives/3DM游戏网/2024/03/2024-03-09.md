@@ -115,3 +115,5 @@
 
 + [《寂静岭2》重制版已在韩国地区进行分级](https://www.3dmgame.com/news/202403/3890109.html)
 
++ [《DOTA2》TI13今年9月举办 花落丹麦哥本哈根](https://www.3dmgame.com/news/202403/3890115.html)
+
