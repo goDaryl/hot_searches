@@ -171,3 +171,7 @@
 
 + [基于springboot+vue的在线远程考试系统](https://blog.csdn.net/mtyedu/article/details/136492859)
 
++ [外包干了8天，技术退步明显。。。。。](https://blog.csdn.net/qq_73332379/article/details/136548511)
+
++ [YOLOv9改进 | 汇总利用YOLOv9遇到的报错以及解决办法（汇集全网报错内容，内容持续更新）](https://blog.csdn.net/java1314777/article/details/136573422)
+

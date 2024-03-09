@@ -197,3 +197,5 @@
 
 + [《私人订制：我的专属韩国女团》Steam页面上线 支持繁体中文](https://www.3dmgame.com/news/202403/3890152.html)
 
++ [OpenAI“宫斗”大结局：Altman重返董事会](https://www.3dmgame.com/news/202403/3890156.html)
+
