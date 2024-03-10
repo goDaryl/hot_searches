@@ -125,3 +125,11 @@
 
 + [30天拿下Rust之切片](https://blog.csdn.net/hope_wisdom/article/details/136439504)
 
++ [Spring Boot工作原理](https://blog.csdn.net/m0_74007708/article/details/136560709)
+
++ [【图像融合】基于多尺度形态梯度变换结合多尺度形态梯度和脉冲耦合神经网络NSST-MSMG-PCNN实现医学多模态图像融合附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/136593647)
+
++ [【ChatGPT】JeecgBoot v3.6.3 AI版本发布，企业级低代码平台](https://blog.csdn.net/zhangdaiscott/article/details/136531492)
+
++ [使用Python快速提取PPT中的文本内容](https://blog.csdn.net/Eiceblue/article/details/136532235)
+
