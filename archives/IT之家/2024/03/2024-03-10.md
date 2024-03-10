@@ -61,3 +61,5 @@
 
 + [测试显示苹果 M3 MacBook Air 笔记本入门款 SSD 读取速度提高 82%](https://m.ithome.com/html/754746.htm)
 
++ [消息称小米 SU7 各地汽车交付中心已经上线，新车已在运送途中](https://m.ithome.com/html/754815.htm)
+
