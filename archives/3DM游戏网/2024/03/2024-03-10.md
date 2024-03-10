@@ -121,3 +121,11 @@
 
 + [《最后纪元》官方发布平衡性调整玩家问卷调查 包含技能与道具](https://www.3dmgame.com/news/202403/3890170.html)
 
++ [贾跃亭法拉第未来召回了去年生产的所有11辆FF91汽车](https://www.3dmgame.com/news/202403/3890175.html)
+
++ [樱井政博解释《任天堂大乱斗》为何没有按键配置](https://www.3dmgame.com/news/202403/3890172.html)
+
++ [内田夕夜斩获第18届声优游戏大奖 饰演FF16主角克莱夫](https://www.3dmgame.com/news/202403/3890174.html)
+
++ [李彦宏：百度文心一言4.0中文超过ChatGPT 4.0](https://www.3dmgame.com/news/202403/3890173.html)
+
