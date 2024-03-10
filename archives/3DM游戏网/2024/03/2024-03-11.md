@@ -111,3 +111,13 @@
 
 + [《星刃》试玩40分钟实机视频 伊芙一次看个够](https://www.3dmgame.com/news/202403/3890205.html)
 
++ [女反派有望登场《漫威蜘蛛侠2》后续DLC](https://www.3dmgame.com/news/202403/3890210.html)
+
++ [消息称《地狱之刃2》不会跨平台发售](https://www.3dmgame.com/news/202403/3890209.html)
+
++ [乐高将于2025年推出马里奥赛车积木套装](https://www.3dmgame.com/news/202403/3890208.html)
+
++ [Switch Online会员追加3款经典GB马里奥游戏](https://www.3dmgame.com/news/202403/3890207.html)
+
++ [《路易鬼屋2HD》及《纸片马里奥》发售日确定](https://www.3dmgame.com/news/202403/3890206.html)
+
