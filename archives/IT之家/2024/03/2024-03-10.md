@@ -57,3 +57,7 @@
 
 + [谁在「围堵」小米汽车？](https://m.ithome.com/html/754778.htm)
 
++ [百度李彦宏：“程序员”职业将不复存在，未来编程语言只会剩下英文和中文](https://m.ithome.com/html/754796.htm)
+
++ [测试显示苹果 M3 MacBook Air 笔记本入门款 SSD 读取速度提高 82%](https://m.ithome.com/html/754746.htm)
+
