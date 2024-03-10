@@ -45,3 +45,7 @@
 
 + [安全气囊警告灯存在问题，法拉第未来召回去年生产的所有 FF91 汽车](https://m.ithome.com/html/754745.htm)
 
++ [深圳一公司推出 SZBOX FN60G 迷你电脑：双 2.5G 网口，采用 Mac Studio 风格设计](https://m.ithome.com/html/754735.htm)
+
++ [美国发布 UFO 调查报告：未发现表明外星技术存在的证据，大多数目击事件都是乌龙](https://m.ithome.com/html/754733.htm)
+
