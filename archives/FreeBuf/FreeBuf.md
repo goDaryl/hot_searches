@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/393842.html)
 
++ [技术实践 | TLS指纹在Bot对抗中的应用实践](https://www.freebuf.com/articles/web/393136.html)
+
