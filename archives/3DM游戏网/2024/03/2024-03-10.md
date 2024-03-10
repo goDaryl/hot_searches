@@ -117,3 +117,7 @@
 
 + [“碧蓝幻想Fes 2024”将于今年12月举办](https://www.3dmgame.com/news/202403/3890165.html)
 
++ [《电锯甜心RePOP》新功能 可自由选择配音版本](https://www.3dmgame.com/news/202403/3890171.html)
+
++ [《最后纪元》官方发布平衡性调整玩家问卷调查 包含技能与道具](https://www.3dmgame.com/news/202403/3890170.html)
+
