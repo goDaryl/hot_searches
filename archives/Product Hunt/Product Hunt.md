@@ -143,3 +143,19 @@
 
 + [Atmosfy](https://www.producthunt.com/posts/atmosfy)
 
++ [Mediscribe Pro](https://www.producthunt.com/posts/mediscribe-pro)
+
++ [onEco + Analytics](https://www.producthunt.com/posts/oneco-analytics)
+
++ [Iconi Ai](https://www.producthunt.com/posts/iconi-ai)
+
++ [Window Fusion](https://www.producthunt.com/posts/window-fusion)
+
++ [Stargazer](https://www.producthunt.com/posts/stargazer-2)
+
++ [Stock Market GPT for Investment Research](https://www.producthunt.com/posts/stock-market-gpt-for-investment-research)
+
++ [RailBird Poker](https://www.producthunt.com/posts/railbird-poker)
+
++ [Bot in Bio powered by GPT](https://www.producthunt.com/posts/bot-in-bio-powered-by-gpt)
+
