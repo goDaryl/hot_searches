@@ -163,3 +163,5 @@
 
 + [Second Brain Labs](https://www.producthunt.com/posts/second-brain-labs)
 
++ [Shopify App Idea Generator](https://www.producthunt.com/posts/shopify-app-idea-generator)
+
