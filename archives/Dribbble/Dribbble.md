@@ -79,3 +79,9 @@
 
 + [Hangar Sisters Alternative Logotype](https://dribbble.com/shots/)
 
++ [N 36](https://dribbble.com/shots/)
+
++ [ilcons Chapter 7 icons](https://dribbble.com/shots/)
+
++ [The Dead King Logo](https://dribbble.com/shots/)
+
