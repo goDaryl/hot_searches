@@ -39,3 +39,5 @@
 
 + [【IT之家开箱】小米 14 Ultra 钛金属特别版图赏：“硬”核扎实，独树一帜](https://m.ithome.com/html/754876.htm)
 
++ [理想 MEGA 纯电 MPV 明日开启全国交付，展车试驾车已陆续到达全国零售中心](https://m.ithome.com/html/754842.htm)
+
