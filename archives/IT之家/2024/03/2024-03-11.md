@@ -47,3 +47,7 @@
 
 + [余承东、何小鹏等人在李想朋友圈下留言支持：用光明反击黑暗](https://m.ithome.com/html/754911.htm)
 
++ [高通骁龙旗舰新品发布会定档 3 月 18 日，预计带来骁龙 8s Gen 3 等](https://m.ithome.com/html/754860.htm)
+
++ [微软已悄悄允许 Win11 用户卸载 OneDrive](https://m.ithome.com/html/754844.htm)
+
