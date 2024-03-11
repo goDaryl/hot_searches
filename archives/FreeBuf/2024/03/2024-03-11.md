@@ -43,3 +43,5 @@
 
 + [世界十大暗网深网论坛巡礼](https://www.freebuf.com/articles/network/393158.html)
 
++ [FreeBuf 早报 | Midjourney封禁Stability AI；Rhysida勒索团伙已出售儿童患者数据](https://www.freebuf.com/news/393832.html)
+
