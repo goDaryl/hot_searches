@@ -173,3 +173,9 @@
 
 + [完全iPhone15Pro拍摄！三池崇史导演手冢治虫名作《午夜》](https://www.3dmgame.com/news/202403/3890236.html)
 
++ [《风和日暖》Steam试玩上线 温馨乡村农场生活模拟](https://www.3dmgame.com/news/202403/3890239.html)
+
++ [动作角色扮演游戏《Thorgal》首部预告片 改编自同名漫画](https://www.3dmgame.com/news/202403/3890238.html)
+
++ [单卡功耗可达1400W 黄仁勋：下代GPU服务器必须水冷](https://www.3dmgame.com/news/202403/3890237.html)
+
