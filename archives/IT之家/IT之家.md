@@ -41,3 +41,5 @@
 
 + [理想 MEGA 纯电 MPV 明日开启全国交付，展车试驾车已陆续到达全国零售中心](https://m.ithome.com/html/754842.htm)
 
++ [理想 MEGA 汽车风波不断，李想发声“决定开始反击，用光明反击黑暗”](https://m.ithome.com/html/754878.htm)
+
