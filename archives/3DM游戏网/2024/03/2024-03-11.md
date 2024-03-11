@@ -169,3 +169,7 @@
 
 + [前索尼互娱CEO警告 游戏开发费用过于庞大回收成本困难](https://www.3dmgame.com/news/202403/3890230.html)
 
++ [《星刃》最初体量非常小 与索尼合作后才扩大规模](https://www.3dmgame.com/news/202403/3890235.html)
+
++ [完全iPhone15Pro拍摄！三池崇史导演手冢治虫名作《午夜》](https://www.3dmgame.com/news/202403/3890236.html)
+
