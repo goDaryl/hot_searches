@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | Midjourney封禁Stability AI；Rhysida勒索团伙已出售儿童患者数据](https://www.freebuf.com/news/393832.html)
 
++ [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
+
