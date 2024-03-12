@@ -161,3 +161,15 @@
 
 + [toolmark.ai - No-code AI Tool Builder](https://www.producthunt.com/posts/toolmark-ai-no-code-ai-tool-builder)
 
++ [Langy](https://www.producthunt.com/posts/langy)
+
++ [NexxtSupport](https://www.producthunt.com/posts/nexxtsupport)
+
++ [Cycle 3.0](https://www.producthunt.com/posts/cycle-3-0)
+
++ [InClass](https://www.producthunt.com/posts/inclass)
+
++ [Flowsage Beta](https://www.producthunt.com/posts/flowsage-beta)
+
++ [DesignRoasts](https://www.producthunt.com/posts/designroasts)
+
