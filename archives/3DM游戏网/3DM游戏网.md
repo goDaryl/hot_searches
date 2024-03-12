@@ -105,3 +105,11 @@
 
 + [第三人称射击游戏《太阳之子》4月9日发售 支持试玩](https://www.3dmgame.com/news/202403/3890369.html)
 
++ [战神3导演成立新公司开发虚幻5单人3A新游戏](https://www.3dmgame.com/news/202403/3890373.html)
+
++ [《网络奇兵：重制版》5月登陆主机平台](https://www.3dmgame.com/news/202403/3890372.html)
+
++ [《格兰蒂亚 HD合集》确定3月26日登陆PS和Xbox](https://www.3dmgame.com/news/202403/3890371.html)
+
++ [开放世界小马宝莉游戏新作5月全平台发售](https://www.3dmgame.com/news/202403/3890370.html)
+
