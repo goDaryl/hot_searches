@@ -119,3 +119,7 @@
 
 + [《月球登陆者：超越》4/23登陆各大平台](https://www.3dmgame.com/news/202403/3890276.html)
 
++ [卡普空《怪物猎人物语》Steam页面  6月14日推出](https://www.3dmgame.com/news/202403/3890281.html)
+
++ [《龙之信条2》可以同屏出现三个BOSS 让玩家备受折磨](https://www.3dmgame.com/news/202403/3890280.html)
+
