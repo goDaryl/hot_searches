@@ -111,3 +111,11 @@
 
 + [《超级马里奥兄弟电影2》设计图曝光新角色](https://www.3dmgame.com/news/202403/3890271.html)
 
++ [新《期待在地下城邂逅有错吗》游戏版信息公布](https://www.3dmgame.com/news/202403/3890279.html)
+
++ [《街头霸王6》公布DLC角色豪鬼 第2年内容已在开发中](https://www.3dmgame.com/news/202403/3890278.html)
+
++ [基于Web3技术多类型3A大逃杀游戏《OPEN》公布](https://www.3dmgame.com/news/202403/3890277.html)
+
++ [《月球登陆者：超越》4/23登陆各大平台](https://www.3dmgame.com/news/202403/3890276.html)
+

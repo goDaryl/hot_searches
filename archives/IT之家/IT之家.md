@@ -25,3 +25,5 @@
 
 + [黄仁勋：即使竞争对手的 AI 芯片免费提供，也无法击败英伟达方案](https://m.ithome.com/html/754854.htm)
 
++ [荣耀 Magic6 至臻版手机开启预定，提供 512GB、1TB 大存储版本](https://m.ithome.com/html/754894.htm)
+
