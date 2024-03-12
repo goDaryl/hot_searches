@@ -227,3 +227,11 @@
 
 + [手绘风休闲游戏《旅人索菲亚》宣布将于4月11日发售](https://www.3dmgame.com/news/202403/3890326.html)
 
++ [传闻：谷歌Pixel8/Pro手机将首次支持有线外接显示器](https://www.3dmgame.com/news/202403/3890337.html)
+
++ [SNK宣布与ARIKA合作 计划复活旗下众多非格斗类游戏IP](https://www.3dmgame.com/news/202403/3890334.html)
+
++ [宝可梦公司注册新工作室 支持GameFreak开发新作](https://www.3dmgame.com/news/202403/3890336.html)
+
++ [《怪物猎人：世界》全球销量突破2500万 创造卡普空新纪录](https://www.3dmgame.com/news/202403/3890335.html)
+
