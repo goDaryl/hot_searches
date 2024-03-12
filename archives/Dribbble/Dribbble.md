@@ -49,3 +49,21 @@
 
 + [Goodbye Toriyama](https://dribbble.com/shots/)
 
++ [Jodar Farms](https://dribbble.com/shots/)
+
++ [Good Council - Crest Logo](https://dribbble.com/shots/)
+
++ [Maryna's birthday / Cat](https://dribbble.com/shots/)
+
++ [Tarot card #12: The Hanged Woman](https://dribbble.com/shots/)
+
++ [Ranch Water](https://dribbble.com/shots/)
+
++ [N 36](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #6](https://dribbble.com/shots/)
+
++ [Paint Factory](https://dribbble.com/shots/)
+
++ [Vague Future](https://dribbble.com/shots/)
+
