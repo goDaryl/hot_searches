@@ -211,3 +211,19 @@
 
 + [漫改动画《胆大党》上线日期确定 2024年10月放映](https://www.3dmgame.com/news/202403/3890325.html)
 
++ [“妖尾”续作《妖精的尾巴：百年任务》公布先导视觉图和特别PV](https://www.3dmgame.com/news/202403/3890333.html)
+
++ [《幻兽帕鲁》部分Xbox玩家存档过大出错 已紧急修复](https://www.3dmgame.com/news/202403/3890332.html)
+
++ [达到新里程碑 Steam Deck兼容游戏数量已超1.4万](https://www.3dmgame.com/news/202403/3890331.html)
+
++ [Steam好评如潮推理游戏《灵异视界》 官方宣布将推改编漫画](https://www.3dmgame.com/news/202403/3890330.html)
+
++ [手绘寻物游戏《旅人苏菲亚》4月11日上线Nintendo Switch和Steam平台](https://www.3dmgame.com/news/202403/3890329.html)
+
++ [《格兰蒂亚1&2》PS4奖杯泄露 列表独立分开发售](https://www.3dmgame.com/news/202403/3890328.html)
+
++ [玩家发帖称老了通关不了儿时游戏引热议 《洛克人》笑而不语](https://www.3dmgame.com/news/202403/3890327.html)
+
++ [手绘风休闲游戏《旅人索菲亚》宣布将于4月11日发售](https://www.3dmgame.com/news/202403/3890326.html)
+
