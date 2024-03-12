@@ -165,3 +165,43 @@
 
 + [《最终幻想》制作人吉田直树渴望制作另一部大作](https://www.3dmgame.com/news/202403/3890296.html)
 
++ [《哥斯拉大战金刚2：帝国崛起》“冲破地心”版预告 3月29日上映](https://www.3dmgame.com/news/202403/3890321.html)
+
++ [《尼瓦利斯》新情报公开 官方解答系统问题](https://www.3dmgame.com/news/202403/3890322.html)
+
++ [经营建造游戏《好莱坞动物》实机预告 年内发售](https://www.3dmgame.com/news/202403/3890318.html)
+
++ [主演确认《无敌少侠》第三季制作中 不用等好几年](https://www.3dmgame.com/news/202403/3890320.html)
+
++ [赛博撸猫沙盒模拟游戏《扑猫时刻》 现已在Steam推出抢先体验](https://www.3dmgame.com/news/202403/3890319.html)
+
++ [《DOTA2》PGL百万美元线下赛事公布 中国队XG受邀](https://www.3dmgame.com/news/202403/3890317.html)
+
++ [SpaceX龙飞船将搭4名宇航员重返地球 预计降落在佛罗里达州附近海域](https://www.3dmgame.com/news/202403/3890314.html)
+
++ [虫子紧追不放？《绝地潜兵2》总监解释：它们有嗅觉](https://www.3dmgame.com/news/202403/3890316.html)
+
++ [《妮姬：胜利女神》预告新联动合作活动 或将是《Re：从零开始的异世界生活》](https://www.3dmgame.com/news/202403/3890312.html)
+
++ [比特币势头正猛 每日或造就1500个百万富翁钱包](https://www.3dmgame.com/news/202403/3890315.html)
+
++ [英伟达黄仁勋回应常年穿皮衣：老婆买的 有的穿不错了](https://www.3dmgame.com/news/202403/3890313.html)
+
++ [《狼与香辛料》新TV动画宣布将于4月2日开播](https://www.3dmgame.com/news/202403/3890306.html)
+
++ [《明朝那些猫》登陆Steam 历史背景猫咪互动](https://www.3dmgame.com/news/202403/3890305.html)
+
++ [玩家对《星刃》女主性感服装感到满意 尺度大没问题](https://www.3dmgame.com/news/202403/3890307.html)
+
++ [漫改动画《彻夜之歌》确认制作第二季 PV发布](https://www.3dmgame.com/news/202403/3890304.html)
+
++ [电影《间谍过家家 代号：白》定档预告 4月30日上映](https://www.3dmgame.com/news/202403/3890311.html)
+
++ [万代独立工作室新作《BOOMEROAD》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202403/3890308.html)
+
++ [《使命召唤》战锤40K联动预告 现已正式上线](https://www.3dmgame.com/news/202403/3890288.html)
+
++ [《魔兽世界》游戏中将展开《炉石传说》10周年庆典活动](https://www.3dmgame.com/news/202403/3890310.html)
+
++ [《三角洲行动》“危险行动”模式介绍视频](https://www.3dmgame.com/news/202403/3890309.html)
+
