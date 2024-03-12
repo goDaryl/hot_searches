@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 新的xStealer恶意软件首次亮相；英国政府针对勒索软件防范失职](https://www.freebuf.com/news/393993.html)
 
++ [制造业信息安全实践——企业信息安全管理规划](https://www.freebuf.com/articles/security-management/393280.html)
+
