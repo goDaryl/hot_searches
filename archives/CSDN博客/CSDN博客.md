@@ -133,3 +133,9 @@
 
 + [机器人ChatGPT来了，80亿参数、前OpenAI人员经数年打造](https://blog.csdn.net/Gabriel100yi/article/details/136668578)
 
++ [(含代码)利用TensorRT的8位PTQ将Stable Diffusion速度提高 2 倍](https://blog.csdn.net/kunhe0512/article/details/136676452)
+
++ [计算机网络（第8版）](https://blog.csdn.net/qq_73904389/article/details/136637797)
+
++ [llama factory 参数体系EvaluationArguments、DataArguments、FinetuningArguments、FreezeArguments、LoraArgument](https://blog.csdn.net/weixin_41046245/article/details/136686786)
+
