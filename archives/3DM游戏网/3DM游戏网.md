@@ -227,3 +227,7 @@
 
 + [iPhone不断降价 网友：你不买我不买还能再降七八百](https://www.3dmgame.com/news/202403/3890425.html)
 
++ [《惊声尖叫》初代女主演员将回归第7部电影](https://www.3dmgame.com/news/202403/3890432.html)
+
++ [网易招聘壕爽快？用Y3编辑器轻松应聘，¥66666×16薪有手就来](https://www.3dmgame.com/news/202403/3890433.html)
+
