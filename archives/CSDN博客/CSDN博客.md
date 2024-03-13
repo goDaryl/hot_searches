@@ -127,3 +127,9 @@
 
 + [计算机网络（5）-----网络层](https://blog.csdn.net/weixin_69884785/article/details/136564985)
 
++ [基于Python爬虫甘肃天水餐厅餐馆数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/136572193)
+
++ [Python 基于 OpenCV 视觉图像处理实战 之 背景知识](https://blog.csdn.net/u014361280/article/details/136625118)
+
++ [机器人ChatGPT来了，80亿参数、前OpenAI人员经数年打造](https://blog.csdn.net/Gabriel100yi/article/details/136668578)
+
