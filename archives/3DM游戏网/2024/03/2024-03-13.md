@@ -281,3 +281,5 @@
 
 + [传《女神异闻录6》开发已完成95% 将有故事DLC](https://www.3dmgame.com/news/202403/3890458.html)
 
++ [Netflix科幻新片《异星战境》首曝预告 5月24日上线](https://www.3dmgame.com/news/202403/3890460.html)
+
