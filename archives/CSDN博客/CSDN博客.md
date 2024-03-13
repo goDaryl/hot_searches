@@ -107,3 +107,23 @@
 
 + [如何在Linux使用Docker部署Firefox并实现无公网IP访问本地浏览器](https://blog.csdn.net/fq157856469/article/details/136633515)
 
++ [SpringSecurity原理简述](https://blog.csdn.net/2301_78386975/article/details/136622807)
+
++ [第109讲：Mycat实践指南：一致性Hash分片下的水平分表详解](https://blog.csdn.net/weixin_44953658/article/details/136669756)
+
++ [【实战项目】网络编程：在Linux环境下基于opencv和socket的人脸识别系统--C++实现](https://blog.csdn.net/m0_57532432/article/details/136543086)
+
++ [基于YOLOv8/YOLOv7/YOLOv6/YOLOv5的自动驾驶目标检测系统详解（深度学习+Python代码+PySide6界面+训练数据集）](https://blog.csdn.net/qq_32892383/article/details/136581004)
+
++ [计算机网络：关键性能指标与非性能特征解析](https://blog.csdn.net/Srlua/article/details/136683860)
+
++ [如何部署Python Flask并实现远程访问本地搭建web站点【内网穿透】](https://blog.csdn.net/qq_48652579/article/details/136625070)
+
++ [Vue3全家桶 - Vue3 - 【7】生命周期](https://blog.csdn.net/qq_48937489/article/details/136634341)
+
++ [如何在Linux本地搭建Tale网站并实现无公网ip远程访问](https://blog.csdn.net/zhoubancheng/article/details/136649281)
+
++ [路由算法与路由协议](https://blog.csdn.net/weixin_45193103/article/details/136615649)
+
++ [计算机网络（5）-----网络层](https://blog.csdn.net/weixin_69884785/article/details/136564985)
+
