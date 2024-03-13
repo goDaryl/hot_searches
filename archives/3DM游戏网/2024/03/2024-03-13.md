@@ -273,3 +273,5 @@
 
 + [Netflix版《三体》曝角色海报 下周四上线第一季](https://www.3dmgame.com/news/202403/3890455.html)
 
++ [《僵尸世界大战》开发商可能已被母公司完成出售](https://www.3dmgame.com/news/202403/3890456.html)
+
