@@ -213,3 +213,17 @@
 
 + [《007黄金眼》远景神秘小岛引热议 原开发者证实是废弃设计](https://www.3dmgame.com/news/202403/3890422.html)
 
++ [电影《头号玩家》续集确认制作 斯皮尔伯格担任制片人](https://www.3dmgame.com/news/202403/3890431.html)
+
++ [《原神》拾枝杂谈-「千织：锦馨满袖」](https://www.3dmgame.com/news/202403/3890428.html)
+
++ [超人气益智系列最新作品 《魔法气泡 益智消消乐》将于4月4日上线Apple Arcade！](https://www.3dmgame.com/news/202403/3890430.html)
+
++ [“SEGA 三月精选促销”活动火热进行中！《索尼克 起源・PLUS》及《光明之响》等作品加入促销阵容](https://www.3dmgame.com/news/202403/3890429.html)
+
++ [《最终幻想7 重置版》筋肉女主系列MOD已推出完全版](https://www.3dmgame.com/news/202403/3890427.html)
+
++ [《Bureau of Contacts》Steam上线 多人合作恐怖探索](https://www.3dmgame.com/news/202403/3890426.html)
+
++ [iPhone不断降价 网友：你不买我不买还能再降七八百](https://www.3dmgame.com/news/202403/3890425.html)
+
