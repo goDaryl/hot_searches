@@ -123,3 +123,15 @@
 
 + [英伟达发布DX 12 Ultimate“工作图”PC技术演示](https://www.3dmgame.com/news/202403/3890374.html)
 
++ [《黑暗之魂3》大型Mod远古王座预告 3月15日发Demo](https://www.3dmgame.com/news/202403/3890382.html)
+
++ [《收获日3》开发商换帅 前任CEO被解雇](https://www.3dmgame.com/news/202403/3890383.html)
+
++ [数据显示：去年中国占全球手游消费者支出的31%](https://www.3dmgame.com/news/202403/3890384.html)
+
++ [《暗黑破坏神4》1.3.4版更新上线 修复Bug改善视觉效果等](https://www.3dmgame.com/news/202403/3890379.html)
+
++ [《收获日2》Steam在线几乎是3代的85倍](https://www.3dmgame.com/news/202403/3890380.html)
+
++ [曝《最后生还者2：重制版》PC版将于4月公布 期待吗？](https://www.3dmgame.com/news/202403/3890381.html)
+

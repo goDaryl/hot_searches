@@ -123,3 +123,13 @@
 
 + [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/136624776)
 
++ [Elasticsearch探秘：原理剖析、高级运用与实战经验【文末送书-37】](https://blog.csdn.net/weixin_52908342/article/details/136656350)
+
++ [【死磕Elasticsearch】从实战中来，到实战中去](https://blog.csdn.net/m0_68089732/article/details/136662942)
+
++ [SpringBoot（依赖管理和自动配置）](https://blog.csdn.net/m0_64637029/article/details/136658919)
+
++ [基于YOLOv8/YOLOv7/YOLOv6/YOLOv5的稻田虫害检测系统详解（深度学习+Python代码+UI界面+训练数据集）](https://blog.csdn.net/qq_32892383/article/details/136581589)
+
++ [Docker容器化技术（使用Dockerfile制作镜像）](https://blog.csdn.net/m0_66011019/article/details/136656649)
+
