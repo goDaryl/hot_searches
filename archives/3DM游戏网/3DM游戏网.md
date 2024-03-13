@@ -203,3 +203,13 @@
 
 + [新版《纳尼亚传奇》电影已在前期制作中 今年开拍](https://www.3dmgame.com/news/202403/3890408.html)
 
++ [《绝地潜兵2》最新更新解决痛点：降低重型敌人生成率](https://www.3dmgame.com/news/202403/3890424.html)
+
++ [治愈系平台解谜游戏《擦身而过 顺风之旅》现已正式推出](https://www.3dmgame.com/news/202403/3890420.html)
+
++ [《黑神话：悟空》B站预约 9.9分五星好评](https://www.3dmgame.com/news/202403/3890423.html)
+
++ [Epic调整虚幻引擎收费模式 兑现承诺游戏开发者不受影响](https://www.3dmgame.com/news/202403/3890421.html)
+
++ [《007黄金眼》远景神秘小岛引热议 原开发者证实是废弃设计](https://www.3dmgame.com/news/202403/3890422.html)
+
