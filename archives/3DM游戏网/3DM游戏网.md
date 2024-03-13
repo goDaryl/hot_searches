@@ -275,3 +275,9 @@
 
 + [《僵尸世界大战》开发商可能已被母公司完成出售](https://www.3dmgame.com/news/202403/3890456.html)
 
++ [《沙丘2》导演和中国影迷见面会 收到中国版香料十三香](https://www.3dmgame.com/news/202403/3890459.html)
+
++ [《毁灭战士：永恒》Steam官方MOD即将到来](https://www.3dmgame.com/news/202403/3890457.html)
+
++ [传《女神异闻录6》开发已完成95% 将有故事DLC](https://www.3dmgame.com/news/202403/3890458.html)
+

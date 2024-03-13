@@ -65,3 +65,5 @@
 
 + [雷军希望大家多鼓励小米汽车 SU7，并透露目前主要在忙三件事](https://m.ithome.com/html/755432.htm)
 
++ [消息称小米汽车 SU7 顶配版价格超 30 万](https://m.ithome.com/html/755469.htm)
+
