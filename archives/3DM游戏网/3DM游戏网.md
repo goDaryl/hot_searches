@@ -259,3 +259,5 @@
 
 + [摇把掌机新作《Mars After Midnight.》发布 创意玩法有趣](https://www.3dmgame.com/news/202403/3890441.html)
 
++ [消息称苹果已发起对华为“Vision Pro”商标无效宣告申请：你支持吗](https://www.3dmgame.com/news/202403/3890449.html)
+
