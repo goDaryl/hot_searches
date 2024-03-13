@@ -149,3 +149,33 @@
 
 + [《毒液3》正式定名 提档至今年10月25日上映](https://www.3dmgame.com/news/202403/3890392.html)
 
++ [卡普空将举行《怪物猎人20周年大狩猎展》支持AR眼镜临场体验](https://www.3dmgame.com/news/202403/3890403.html)
+
++ [《咩咩启示录》官方漫画众筹6分钟内达标 已获23万美元](https://www.3dmgame.com/news/202403/3890407.html)
+
++ [《风起洛阳》Steam页面 Demo同步上线](https://www.3dmgame.com/news/202403/3890406.html)
+
++ [《新蝙蝠侠2》电影推迟至2026年10月2日上映](https://www.3dmgame.com/news/202403/3890405.html)
+
++ [继《最终幻想7：重生》之后 索尼封装实体版游戏又出错](https://www.3dmgame.com/news/202403/3890404.html)
+
++ [《The Crust》实机演示预告 第三季度发售](https://www.3dmgame.com/news/202403/3890402.html)
+
++ [性感美女很赚钱！《星刃》工作室准备公开募股上市](https://www.3dmgame.com/news/202403/3890399.html)
+
++ [发售一年之后 《生化危机4：重制版》销量突破700万](https://www.3dmgame.com/news/202403/3890398.html)
+
++ [独立武侠游戏《下一站江湖II》将于4月18日正式发售](https://www.3dmgame.com/news/202403/3890397.html)
+
++ [《TRIBES 3: Rivals》Steam抢先体验 第一人称团队射击](https://www.3dmgame.com/news/202403/3890396.html)
+
++ [苹果欧盟新规 开发者该地区能通过网页分发应用](https://www.3dmgame.com/news/202403/3890395.html)
+
++ [暴雪国服真的要回来了！曝网易将在一个月内官宣](https://www.3dmgame.com/news/202403/3890393.html)
+
++ [失眠组被取消多人《漫威蜘蛛侠》游戏“The Great Web”遭到泄露](https://www.3dmgame.com/news/202403/3890394.html)
+
++ [《龙之信条2》总监：本作职业比前作更有趣 更吸引人](https://www.3dmgame.com/news/202403/3890401.html)
+
++ [网球游戏《TopSpin 2K25》公布官方预告 4月27日发行](https://www.3dmgame.com/news/202403/3890400.html)
+
