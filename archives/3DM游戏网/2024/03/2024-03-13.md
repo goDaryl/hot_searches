@@ -179,3 +179,27 @@
 
 + [网球游戏《TopSpin 2K25》公布官方预告 4月27日发行](https://www.3dmgame.com/news/202403/3890400.html)
 
++ [全球首位AI版软件工程师问世 能自学新语言迭代并Debug](https://www.3dmgame.com/news/202403/3890419.html)
+
++ [传闻：任天堂Switch 2大部分游戏都会支持DLSS](https://www.3dmgame.com/news/202403/3890418.html)
+
++ [《飙酷车神：轰鸣盛典》发布第3赛季预告片 欢迎来到好莱坞](https://www.3dmgame.com/news/202403/3890417.html)
+
++ [世界知识产权组织：中国华为领跑国际专利体系申请](https://www.3dmgame.com/news/202403/3890416.html)
+
++ [《深岩银河》开发者喊话《绝地潜兵2》：快和我联动！](https://www.3dmgame.com/news/202403/3890415.html)
+
++ [好评免费《Psychopomp》发布更新 3D迷宫恐怖探索](https://www.3dmgame.com/news/202403/3890413.html)
+
++ [《命运2》滑翔板连续特技会导致游戏崩溃 已紧急修复](https://www.3dmgame.com/news/202403/3890409.html)
+
++ [《最终幻想7：重生》总监谈黄漆争议：各人偏好不同](https://www.3dmgame.com/news/202403/3890414.html)
+
++ [卡牌生存系列新作《卡牌生存：奇幻森林》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202403/3890412.html)
+
++ [《龙之信条2》PS5下载大小64GB 3月20日开启预载](https://www.3dmgame.com/news/202403/3890411.html)
+
++ [后末日探索游戏《生存地带：泰坦宝矿》现已在Steam平台正式推出](https://www.3dmgame.com/news/202403/3890410.html)
+
++ [新版《纳尼亚传奇》电影已在前期制作中 今年开拍](https://www.3dmgame.com/news/202403/3890408.html)
+
