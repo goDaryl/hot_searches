@@ -25,3 +25,5 @@
 
 + [小米进行 8 英寸小平板调研，有意开发细分市场](https://m.ithome.com/html/755471.htm)
 
++ [R7-6800H 版仅 3468 元：小米 Book Pro 14 2022 京东百亿补贴清仓](https://m.ithome.com/html/755498.htm)
+
