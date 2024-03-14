@@ -127,3 +127,5 @@
 
 + [Geoff宣布夏日游戏节2024定于6/7举行](https://www.3dmgame.com/news/202403/3890470.html)
 
++ [《龙之信条2》龙选者职业演示 能灵活使用所有武器](https://www.3dmgame.com/news/202403/3890474.html)
+
