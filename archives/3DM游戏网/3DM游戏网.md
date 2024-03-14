@@ -145,3 +145,29 @@
 
 + [《绝地潜兵2》开发商拒绝关闭友军开火 因为这太有意思了](https://www.3dmgame.com/news/202403/3890482.html)
 
++ [《超级马力欧兄弟大电影》公开未使用的碧姬公主概念艺术](https://www.3dmgame.com/news/202403/3890489.html)
+
++ [《星战前夜》区块链生存游戏5月开启第三阶段测试](https://www.3dmgame.com/news/202403/3890490.html)
+
++ [《SYMMETRIC;VISION》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202403/3890491.html)
+
++ [《星刃》女主角爬梯子视频 太性感让人目不转睛](https://www.3dmgame.com/news/202403/3890492.html)
+
++ [《神奇女侠》导演回归《星球大战：战机中队》电影](https://www.3dmgame.com/news/202403/3890493.html)
+
++ [人气肉鸽扑克游戏《Balatro》官方情报 将推移动版或实物化](https://www.3dmgame.com/news/202403/3890494.html)
+
++ [《你想活出怎样的人生》释出定档海报 4月3日公映](https://www.3dmgame.com/news/202403/3890495.html)
+
++ [《边缘世界》新DLC“异常”公布 1.5版本更新下月上线](https://www.3dmgame.com/news/202403/3890483.html)
+
++ [《星河舰队》演员或将与《绝地潜兵2》开发者合作](https://www.3dmgame.com/news/202403/3890484.html)
+
++ [《Memori》Steam试玩发布 像素风横版动作新游](https://www.3dmgame.com/news/202403/3890485.html)
+
++ [PS Plus三月二档、三档游戏 ： 《生化危机3：重制版》、《NBA 2K24》等](https://www.3dmgame.com/news/202403/3890486.html)
+
++ [《哥斯拉大战金刚2》新预告 冰霜系新反派現身](https://www.3dmgame.com/news/202403/3890487.html)
+
++ [《纸间谜迹》发售日期预告 5月21日上线](https://www.3dmgame.com/news/202403/3890488.html)
+

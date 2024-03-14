@@ -47,3 +47,5 @@
 
 + [FreeBuf 早报 | 美国23年因网络犯罪损失125亿美元；去年利用身份信息的网络攻击激增71%](https://www.freebuf.com/news/394697.html)
 
++ [FreeBuf 早报 | 美国23年因网络犯罪损失125亿美元；印度某金融公司泄露3TB用户数据](https://www.freebuf.com/news/394697.html)
+
