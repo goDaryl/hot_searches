@@ -45,3 +45,7 @@
 
 + [阿里系鸿蒙原生 App 十一连发，华为官宣闲鱼、飞猪、饿了么等应用“集体上车”](https://m.ithome.com/html/755668.htm)
 
++ [国务院印发《推动大规模设备更新和消费品以旧换新行动方案》](https://m.ithome.com/html/755468.htm)
+
++ [消息称高通骁龙 8 Gen 4 芯片率先支持 LPDDR6，苹果 A18 Pro 支持 LPDDR5T](https://m.ithome.com/html/755578.htm)
+
