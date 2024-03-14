@@ -275,3 +275,19 @@
 
 + [零售商泄露《寂静岭2：重制版》将于5月30日发售](https://www.3dmgame.com/news/202403/3890546.html)
 
++ [《浪人崛起》全新预告 主角劫后重生](https://www.3dmgame.com/news/202403/3890556.html)
+
++ [OpenAI CTO：Sora今年将发布 会添加语音功能](https://www.3dmgame.com/news/202403/3890555.html)
+
++ [Fami通新一周销量榜 《圣兽之王》登顶](https://www.3dmgame.com/news/202403/3890553.html)
+
++ [《哥斯拉》拿奥斯卡只花了200美元 东宝老板反对申奥](https://www.3dmgame.com/news/202403/3890552.html)
+
++ [《黑神话：悟空》将支持全景光追+DLSS 3.5技术](https://www.3dmgame.com/news/202403/3890551.html)
+
++ [高通或让第四代骁龙8跳过LPDDR5T 直接支持LPDDR6](https://www.3dmgame.com/news/202403/3890550.html)
+
++ [Embrace 2.47亿美元出售旗下子公司Saber互动](https://www.3dmgame.com/news/202403/3890549.html)
+
++ [摩托竞速游戏新作《MotoGP 24》公布 5月2日发售](https://www.3dmgame.com/news/202403/3890548.html)
+
