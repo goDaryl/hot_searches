@@ -181,3 +181,9 @@
 
 + [Carry](https://www.producthunt.com/posts/carry-3b09f638-bd57-4eb9-9620-ec951db1fa88)
 
++ [AI Tools Directory by Toolify AI](https://www.producthunt.com/posts/ai-tools-directory-by-toolify-ai)
+
++ [BookItBoss](https://www.producthunt.com/posts/bookitboss)
+
++ [AI Ideal Customer Profile](https://www.producthunt.com/posts/ai-ideal-customer-profile)
+
