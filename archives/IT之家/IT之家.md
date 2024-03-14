@@ -53,3 +53,5 @@
 
 + [微信 iOS 版 8.0.48 最新官方正式版下载发布](https://m.ithome.com/html/755582.htm)
 
++ [小米王腾：Redmi 坚持不做“应试”调校，不搞媒体特供固件](https://m.ithome.com/html/755631.htm)
+
