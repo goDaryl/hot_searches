@@ -171,3 +171,35 @@
 
 + [《纸间谜迹》发售日期预告 5月21日上线](https://www.3dmgame.com/news/202403/3890488.html)
 
++ [平台解谜动作冒险游戏《Copperfields》现已推出试玩Demo](https://www.3dmgame.com/news/202403/3890507.html)
+
++ [《东方咒术嘉年华》公布开场动画 6月6日发售](https://www.3dmgame.com/news/202403/3890511.html)
+
++ [新调查显示60%网友短视频刷到无法自拔 每天至少1小时](https://www.3dmgame.com/news/202403/3890510.html)
+
++ [马斯克：明年AI将比任何人都聪明 2029年超过全人类](https://www.3dmgame.com/news/202403/3890509.html)
+
++ [日本玩家玩《最终幻想7：重生》看泳装蒂法：太大了受不了](https://www.3dmgame.com/news/202403/3890508.html)
+
++ [钓鱼RPG《月光水岸》4月11日登陆PS和NS主机](https://www.3dmgame.com/news/202403/3890506.html)
+
++ [《漂流瓶盖》Steam页面上线 治愈系漂流物理模拟](https://www.3dmgame.com/news/202403/3890504.html)
+
++ [《新九品芝麻官》电影定档预告 将于3月16日上映](https://www.3dmgame.com/news/202403/3890502.html)
+
++ [奥斯卡获奖二战电影《利益区域》4月5日上线Max](https://www.3dmgame.com/news/202403/3890501.html)
+
++ [《猩球崛起：新世界》确定引进 档期待定](https://www.3dmgame.com/news/202403/3890500.html)
+
++ [《女神异闻录3：Reload》非完整体验原因：团队急缺人才](https://www.3dmgame.com/news/202403/3890499.html)
+
++ [网传《动物森友会》新作正在开发中 2026年发售](https://www.3dmgame.com/news/202403/3890498.html)
+
++ [育碧竞速游戏《飙酷车神：轰鸣盛典》开启免费试玩周末](https://www.3dmgame.com/news/202403/3890497.html)
+
++ [《漫威蜘蛛侠3》经典反派“绿魔”概念艺术图曝光](https://www.3dmgame.com/news/202403/3890496.html)
+
++ [《守望先锋2》第10赛季或将延期推出 4月16日上线](https://www.3dmgame.com/news/202403/3890505.html)
+
++ [互动影像纪录游戏《杰夫·明特的故事》现已正式推出](https://www.3dmgame.com/news/202403/3890503.html)
+
