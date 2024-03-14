@@ -101,3 +101,77 @@
 
 + [Hello8](https://www.producthunt.com/posts/hello8)
 
++ [Splitpro](https://www.producthunt.com/posts/splitpro)
+
++ [Cerebras Wafer Scale Engine (WSE-3)](https://www.producthunt.com/posts/cerebras-wafer-scale-engine-wse-3)
+
++ [DiveDeck.AI](https://www.producthunt.com/posts/divedeck-ai)
+
++ [Semaphor](https://www.producthunt.com/posts/semaphor)
+
++ [Repurpose Studio](https://www.producthunt.com/posts/repurpose-studio)
+
++ [VocalReplica](https://www.producthunt.com/posts/vocalreplica-2)
+
++ [MyCopyHub](https://www.producthunt.com/posts/mycopyhub)
+
++ [Deckset iOS](https://www.producthunt.com/posts/deckset-ios)
+
++ [Wise owl](https://www.producthunt.com/posts/wise-owl)
+
++ [CYBER AI - Security Savant](https://www.producthunt.com/posts/cyber-ai-security-savant)
+
++ [Under.io Platform](https://www.producthunt.com/posts/under-io-platform)
+
++ [ClearXBooking](https://www.producthunt.com/posts/clearxbooking)
+
++ [ProfileDiscover.com](https://www.producthunt.com/posts/profilediscover-com)
+
++ [SocLeads](https://www.producthunt.com/posts/socleads)
+
++ [Avatic](https://www.producthunt.com/posts/avatic)
+
++ [Biolinky 2.0](https://www.producthunt.com/posts/biolinky-2-0)
+
++ [IceBathList.com](https://www.producthunt.com/posts/icebathlist-com)
+
++ [TravelPal](https://www.producthunt.com/posts/travelpal-2)
+
++ [FanCave](https://www.producthunt.com/posts/fancave-2)
+
++ [data.to.design](https://www.producthunt.com/posts/data-to-design)
+
++ [Fine](https://www.producthunt.com/posts/fine)
+
++ [Homework Helper](https://www.producthunt.com/posts/homework-helper-2)
+
++ [hum: white noise for sleeping](https://www.producthunt.com/posts/hum-white-noise-for-sleeping)
+
++ [Blogmatic](https://www.producthunt.com/posts/blogmatic)
+
++ [Kazava AI Anime](https://www.producthunt.com/posts/kazava-ai-anime)
+
++ [Oliv Sales Master](https://www.producthunt.com/posts/oliv-sales-master)
+
++ [AI Insights 2.0 by Zeda.io](https://www.producthunt.com/posts/ai-insights-2-0-by-zeda-io)
+
++ [Upscale.Media Plugins Suite](https://www.producthunt.com/posts/upscale-media-plugins-suite)
+
++ [Wave Logo Generator](https://www.producthunt.com/posts/wave-logo-generator)
+
++ [Wudpecker](https://www.producthunt.com/posts/wudpecker-2)
+
++ [kiwilaunch](https://www.producthunt.com/posts/kiwilaunch)
+
++ [CloudDevs 2.0](https://www.producthunt.com/posts/clouddevs-2-0)
+
++ [AI Agents by B2B Rocket](https://www.producthunt.com/posts/ai-agents-by-b2b-rocket)
+
++ [Synthflow](https://www.producthunt.com/posts/synthflow)
+
++ [Peaka](https://www.producthunt.com/posts/peaka)
+
++ [ByteCap](https://www.producthunt.com/posts/bytecap)
+
++ [TheSprkl Chrome Extension for Webflow](https://www.producthunt.com/posts/thesprkl-chrome-extension-for-webflow)
+
