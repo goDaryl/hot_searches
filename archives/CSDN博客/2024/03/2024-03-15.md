@@ -123,3 +123,7 @@
 
 + [​这届金融研究生，越努力越不幸](https://blog.csdn.net/Gabriel100yi/article/details/136706977)
 
++ [Python学习DAY13_图像处理](https://blog.csdn.net/qq_61979270/article/details/136656043)
+
++ [机界先锋：Figure 01实现全面沟通与AGI通用人工智能的征途](https://blog.csdn.net/Srlua/article/details/136708329)
+

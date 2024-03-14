@@ -101,3 +101,11 @@
 
 + [日本玩家玩《最终幻想7：重生》看泳装蒂法：太大了受不了](https://www.3dmgame.com/news/202403/3890508.html)
 
++ [2.5D动作游戏《笠鬼》4月9日开启抢鲜体验](https://www.3dmgame.com/news/202403/3890562.html)
+
++ [《孤岛惊魂》20周年 育碧发布纪念视频并开启促销](https://www.3dmgame.com/news/202403/3890561.html)
+
++ [电影《刺猬索尼克3》杀青 金凯瑞很享受](https://www.3dmgame.com/news/202403/3890560.html)
+
++ [《生化危机》入选2024年世界游戏名人堂候选名单](https://www.3dmgame.com/news/202403/3890559.html)
+
