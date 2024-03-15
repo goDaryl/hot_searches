@@ -69,3 +69,15 @@
 
 + [Logo "Lol Defi"](https://dribbble.com/shots/)
 
++ [Toaster](https://dribbble.com/shots/)
+
++ [Medieval Tavern](https://dribbble.com/shots/)
+
++ [Hot sauce illustrations](https://dribbble.com/shots/)
+
++ [Y2K](https://dribbble.com/shots/)
+
++ [Nike Sneaker Illustration????](https://dribbble.com/shots/)
+
++ [The Party 365 Landing Page](https://dribbble.com/shots/)
+
