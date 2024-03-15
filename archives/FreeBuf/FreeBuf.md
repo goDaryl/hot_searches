@@ -45,3 +45,7 @@
 
 + [FreeBuf 早报 | 欧洲议会正式通过人工智能监管法案；大洋洲日产汽车公司遭入侵](https://www.freebuf.com/news/394814.html)
 
++ [制造业信息安全实践--企业信息安全运营规划](https://www.freebuf.com/articles/security-management/393411.html)
+
++ [实战时代下人机结合的资产风险收敛体系 | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/articles/394763.html)
+
