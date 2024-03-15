@@ -109,3 +109,13 @@
 
 + [《生化危机》入选2024年世界游戏名人堂候选名单](https://www.3dmgame.com/news/202403/3890559.html)
 
++ [Gameloft将推出全新《龙与地下城》游戏](https://www.3dmgame.com/news/202403/3890563.html)
+
++ [俯视射击游戏《OTXO》主机版3/28推出](https://www.3dmgame.com/news/202403/3890564.html)
+
++ [《星球大战：法外狂徒》首发将支持光追/DLSS3](https://www.3dmgame.com/news/202403/3890565.html)
+
++ [《暗黑破坏神4》PC版将于3/26添加光线追踪支持](https://www.3dmgame.com/news/202403/3890566.html)
+
++ [《博德之门3》是过去1年Steam Deck上游玩最多游戏](https://www.3dmgame.com/news/202403/3890567.html)
+

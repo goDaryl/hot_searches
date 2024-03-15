@@ -41,3 +41,5 @@
 
 + [网安标委印发《网络安全标准实践指南——车外画面局部轮廓化处理效果验证》](https://www.freebuf.com/articles/394148.html)
 
++ [Proofpoint《2024年网络钓鱼状态报告》：71%的员工正在拿组织安全冒险](https://www.freebuf.com/articles/paper/393770.html)
+
