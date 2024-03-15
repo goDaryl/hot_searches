@@ -147,3 +147,9 @@
 
 + [Jobsolv](https://www.producthunt.com/posts/jobsolv)
 
++ [MagicPrompts by Lyzr AI](https://www.producthunt.com/posts/magicprompts-by-lyzr-ai)
+
++ [Crypntox Card](https://www.producthunt.com/posts/crypntox-card)
+
++ [Fedica Mobile](https://www.producthunt.com/posts/fedica-mobile)
+
