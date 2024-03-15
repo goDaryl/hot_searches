@@ -145,3 +145,5 @@
 
 + [Viralify AI](https://www.producthunt.com/posts/viralify-ai)
 
++ [Jobsolv](https://www.producthunt.com/posts/jobsolv)
+
