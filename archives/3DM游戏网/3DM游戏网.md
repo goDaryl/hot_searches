@@ -267,3 +267,11 @@
 
 + [华硕3月中旬将暂停部分型号显卡供货 涉及RTX 4060/4070产品](https://www.3dmgame.com/news/202403/3890641.html)
 
++ [《幻兽帕鲁》开发成本不到700万美元](https://www.3dmgame.com/news/202403/3890645.html)
+
++ [传漫威叫停《永恒族2》《蚁人4》《惊奇队长3》等项目](https://www.3dmgame.com/news/202403/3890644.html)
+
++ [PS5 Pro将支持PSSR技术 效果超过AMD FSR 2](https://www.3dmgame.com/news/202403/3890643.html)
+
++ [《幻兽帕鲁》主创暗示本作将登陆索尼PS5](https://www.3dmgame.com/news/202403/3890642.html)
+

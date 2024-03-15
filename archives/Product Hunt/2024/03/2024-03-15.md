@@ -159,3 +159,5 @@
 
 + [IncludeCore](https://www.producthunt.com/posts/includecore)
 
++ [Warpy: Terminal Generative Shell](https://www.producthunt.com/posts/warpy-terminal-generative-shell)
+
