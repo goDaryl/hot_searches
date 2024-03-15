@@ -43,3 +43,5 @@
 
 + [Proofpoint《2024年网络钓鱼状态报告》：71%的员工正在拿组织安全冒险](https://www.freebuf.com/articles/paper/393770.html)
 
++ [FreeBuf 早报 | 欧洲议会正式通过人工智能监管法案；大洋洲日产汽车公司遭入侵](https://www.freebuf.com/news/394814.html)
+
