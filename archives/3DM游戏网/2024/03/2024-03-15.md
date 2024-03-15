@@ -201,3 +201,13 @@
 
 + [V社COO回应Epic老板怒骂邮件公开：你急啦老兄？](https://www.3dmgame.com/news/202403/3890604.html)
 
++ [《极限竞速》系列游戏春季促销第二轮：史低价惊喜持续！](https://www.3dmgame.com/news/202403/3890612.html)
+
++ [像素风RPG游戏《泰拉往事》现已推出试玩Demo 3月27日正式发售](https://www.3dmgame.com/news/202403/3890613.html)
+
++ [《方块方舟》白色情人节活动浪漫开启，爱心史莱姆闪亮登场](https://www.3dmgame.com/news/202403/3890611.html)
+
++ [《碧蓝幻想：Relink》承诺大量印记转化功能和更多按键绑定选项](https://www.3dmgame.com/news/202403/3890610.html)
+
++ [电影《城市猎人》前导预告公开 4月25日上映](https://www.3dmgame.com/news/202403/3890609.html)
+

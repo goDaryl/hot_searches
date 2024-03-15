@@ -59,3 +59,5 @@
 
 + [某.NET仓库管理系统——WMS_APP服务端代码审计一](https://www.freebuf.com/articles/web/393884.html)
 
++ [日产汽车承认 10 万人的数据信息遭窃](https://www.freebuf.com/news/394908.html)
+
