@@ -49,3 +49,23 @@
 
 + [HEB Grackle](https://dribbble.com/shots/)
 
++ [Geometric Woman Logo](https://dribbble.com/shots/)
+
++ [D&D Alignment Badge Illustration](https://dribbble.com/shots/)
+
++ [Hangar Sisters Alternative Logotype](https://dribbble.com/shots/)
+
++ [Glyph Beer 32](https://dribbble.com/shots/)
+
++ [Dorado Catfish Migration Illustrated Map](https://dribbble.com/shots/)
+
++ [Fountain Hand tattoo](https://dribbble.com/shots/)
+
++ [Sustainability](https://dribbble.com/shots/)
+
++ [Camera Controller Concept](https://dribbble.com/shots/)
+
++ [Failure Fans These Flames Sticker](https://dribbble.com/shots/)
+
++ [Logo "Lol Defi"](https://dribbble.com/shots/)
+
