@@ -191,3 +191,5 @@
 
 + [《怪奇物语》主演透露第五季规模将会非常宏大](https://www.3dmgame.com/news/202403/3890686.html)
 
++ [苹果再收购一家AI初创公司 已在年初收购DarwinAI](https://www.3dmgame.com/news/202403/3890692.html)
+
