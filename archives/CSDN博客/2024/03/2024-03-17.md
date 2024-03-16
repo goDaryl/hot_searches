@@ -123,3 +123,7 @@
 
 + [微服务技术栈SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式（五）：分布式搜索 ES-中](https://blog.csdn.net/shendaiyan/article/details/136616190)
 
++ [【Rust】——枚举与模式匹配](https://blog.csdn.net/shsjssnn/article/details/136079854)
+
++ [基于Python爬虫广东广州二手房数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/136572272)
+
