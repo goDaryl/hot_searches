@@ -69,3 +69,11 @@
 
 + [N 36](https://dribbble.com/shots/)
 
++ [Blossom (2024)](https://dribbble.com/shots/)
+
++ [Eagle Logo](https://dribbble.com/shots/)
+
++ [Have patience](https://dribbble.com/shots/)
+
++ [The Party 365 Landing Page](https://dribbble.com/shots/)
+
