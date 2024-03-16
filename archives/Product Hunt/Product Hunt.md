@@ -103,3 +103,5 @@
 
 + [Crypntox Card](https://www.producthunt.com/posts/crypntox-card)
 
++ [Warpy: Terminal Generative Shell](https://www.producthunt.com/posts/warpy-terminal-generative-shell)
+

@@ -101,3 +101,25 @@
 
 + [5 个适用于 Windows 10 和 11 的最佳 PDF 转 Word 转换器](https://blog.csdn.net/Geeker55/article/details/135471681)
 
++ [2024三掌柜赠书活动第十五期：Python高效编程——基于Rust语言](https://blog.csdn.net/CC1991_/article/details/136729997)
+
++ [C陷阱与缺陷（1）](https://blog.csdn.net/Mrlossry/article/details/136764437)
+
++ [居民健康监测小程序|基于微信小程序的居民健康监测小程序设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136770659)
+
++ [基于Python爬虫安徽阜阳天气预报数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/136572691)
+
++ [4 种策略让 MySQL 和 Redis 数据保持一致](https://blog.csdn.net/m0_69632475/article/details/136737124)
+
++ [Java八股文（Spring Security）](https://blog.csdn.net/qq_63635361/article/details/136699023)
+
++ [亮数据，让数据亮起来](https://blog.csdn.net/JHXL_/article/details/136727478)
+
++ [Elasticsearch：从 Java High Level Rest Client 切换到新的 Java API Client](https://blog.csdn.net/UbuntuTouch/article/details/136729337)
+
++ [如何本地搭建hMailServer邮件服务](https://blog.csdn.net/Tiam_cr/article/details/136767997)
+
++ [Vite为什么比Webpack快](https://blog.csdn.net/qq_15557073/article/details/136737375)
+
++ [微服务技术栈SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式（五）：分布式搜索 ES-中](https://blog.csdn.net/shendaiyan/article/details/136616190)
+
