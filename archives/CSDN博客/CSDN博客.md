@@ -127,3 +127,5 @@
 
 + [【JS】前端分片上传大文件（支持1G以上的超大文件）](https://blog.csdn.net/weixin_43726152/article/details/136722114)
 
++ [基于SpringBoot和Echarts的全国地震可视化分析实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/136751845)
+

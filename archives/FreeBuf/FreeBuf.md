@@ -41,3 +41,5 @@
 
 + [攻击者是如何通过 YouTube 传播恶意软件的](https://www.freebuf.com/articles/network/392980.html)
 
++ [开源组件安全风险及应对](https://www.freebuf.com/vuls/393325.html)
+
