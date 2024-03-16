@@ -43,3 +43,5 @@
 
 + [开源组件安全风险及应对](https://www.freebuf.com/vuls/393325.html)
 
++ [FreeBuf 周报 | Airbnb将禁止在房源内安装监控摄像头；宏碁又遭网络袭击](https://www.freebuf.com/news/394863.html)
+
