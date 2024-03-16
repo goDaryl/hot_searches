@@ -55,3 +55,9 @@
 
 + [华为手环 9 渲染图曝光：1.47 英寸屏幕、180mAh 电池，改善睡眠追踪](https://m.ithome.com/html/756079.htm)
 
++ [华为展示 AI Wi-Fi 7 星闪路由器：搭载海思凌霄 790 套片，速率可达 3600Mbps](https://m.ithome.com/html/756122.htm)
+
++ [余承东：华为车 BU 业务今年将实现扭亏为盈，智界 S7 预计 4 月完全恢复正常状态](https://m.ithome.com/html/756142.htm)
+
++ [比亚迪护卫舰 07 荣耀版车型 3 月 18 日上市，预计“增配降价”](https://m.ithome.com/html/756108.htm)
+
