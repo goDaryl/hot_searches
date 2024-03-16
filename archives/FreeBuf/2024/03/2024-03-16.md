@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | Airbnb将禁止在房源内安装监控摄像头；宏碁又遭网络袭击](https://www.freebuf.com/news/394863.html)
 
++ [venom打靶思路详解（vulnhub）](https://www.freebuf.com/defense/394169.html)
+
