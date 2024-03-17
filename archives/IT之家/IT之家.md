@@ -47,3 +47,5 @@
 
 + [消息称荣耀 Magic6 RSR 保时捷设计手机屏幕手动亮度 1000nit，有望采用 4320Hz PWM 调光方案](https://m.ithome.com/html/756177.htm)
 
++ [小鹏新品牌车型谍照曝光，主打 10-15 万级全球市场](https://m.ithome.com/html/756210.htm)
+

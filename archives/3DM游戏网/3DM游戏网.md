@@ -163,3 +163,5 @@
 
 + [《立绘很奇怪姿势的恋爱冒险》免费版登陆Steam](https://www.3dmgame.com/news/202403/3890725.html)
 
++ [《双截龙外传》免费DLC公布 加入在线合作游戏模式](https://www.3dmgame.com/news/202403/3890729.html)
+
