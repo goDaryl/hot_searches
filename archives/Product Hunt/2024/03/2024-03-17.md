@@ -105,3 +105,5 @@
 
 + [Warpy: Terminal Generative Shell](https://www.producthunt.com/posts/warpy-terminal-generative-shell)
 
++ [Musavir](https://www.producthunt.com/posts/musavir)
+

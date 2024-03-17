@@ -39,3 +39,7 @@
 
 + [一汽大众 ID.7 车型限时优惠 3 万元，起售价降低至 19.77 万元](https://m.ithome.com/html/756102.htm)
 
++ [苹果推出 300 亿参数 MM1 多模态 AI 大模型，可识别图像推理自然语言](https://m.ithome.com/html/756154.htm)
+
++ [消息称理想新车 MEGA 至今真实订单约 4000 台，上市 24 小时内订单量未达预期](https://m.ithome.com/html/756203.htm)
+
