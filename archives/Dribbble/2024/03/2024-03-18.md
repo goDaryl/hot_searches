@@ -49,3 +49,27 @@
 
 + [Nike Sneaker Illustration????](https://dribbble.com/shots/)
 
++ [Flower on Saturn - Logo Element](https://dribbble.com/shots/)
+
++ [Chum on a Stick](https://dribbble.com/shots/)
+
++ [Hummingbird Illustration](https://dribbble.com/shots/)
+
++ [Flowers](https://dribbble.com/shots/)
+
++ [Vague Future](https://dribbble.com/shots/)
+
++ [Dune Shift Primary Logo](https://dribbble.com/shots/)
+
++ [Protect What You Love artwork for Bigfoot](https://dribbble.com/shots/)
+
++ [HEB Grackle](https://dribbble.com/shots/)
+
++ [Wild Isles](https://dribbble.com/shots/)
+
++ [Red Queen Gin](https://dribbble.com/shots/)
+
++ [Jodar Farms](https://dribbble.com/shots/)
+
++ [Opulent Life](https://dribbble.com/shots/)
+
