@@ -153,3 +153,13 @@
 
 + [独立游戏《小丑牌》开发者确认将推出iOS版本](https://www.3dmgame.com/news/202403/3890721.html)
 
++ [双摇杆射击银河恶魔城新作《生物枪》上市日期公布](https://www.3dmgame.com/news/202403/3890726.html)
+
++ [315打假击败全国99%大学生 吃成了元素周期表](https://www.3dmgame.com/news/202403/3890727.html)
+
++ [3D种田模拟游戏《梦幻谷》新增线上合作模式](https://www.3dmgame.com/news/202403/3890728.html)
+
++ [有人用AI“复活”明星 乔任梁父亲：这是在揭伤疤](https://www.3dmgame.com/news/202403/3890724.html)
+
++ [《立绘很奇怪姿势的恋爱冒险》免费版登陆Steam](https://www.3dmgame.com/news/202403/3890725.html)
+
