@@ -141,3 +141,5 @@
 
 + [《铁轨快车》4月18日登陆Steam/Switch 火车建造经营](https://www.3dmgame.com/news/202403/3890717.html)
 
++ [《Trombone Champ》Steam更新上线 好评音乐游戏](https://www.3dmgame.com/news/202403/3890718.html)
+
