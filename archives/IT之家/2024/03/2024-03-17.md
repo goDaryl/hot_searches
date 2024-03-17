@@ -49,3 +49,11 @@
 
 + [小鹏新品牌车型谍照曝光，主打 10-15 万级全球市场](https://m.ithome.com/html/756210.htm)
 
++ [华为：目前已有两万根超快充充电桩投入运营，今年计划在全国部署超 10 万座](https://m.ithome.com/html/756171.htm)
+
++ [余承东透露车企合作方式：深蓝汽车将采用华为 HI 模式，岚图 / 猛士类似](https://m.ithome.com/html/756183.htm)
+
++ [华为星闪应用今年将首推家居场景，海尔星闪彩电三季度发布](https://m.ithome.com/html/756173.htm)
+
++ [消息称字节跳动 2023 年全球营收 1200 亿美元，TikTok 在美营收 160 亿美元](https://m.ithome.com/html/756189.htm)
+
