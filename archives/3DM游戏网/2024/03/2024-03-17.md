@@ -177,3 +177,5 @@
 
 + [《完美音浪》PS5版现已开启预载 容量15.5GB](https://www.3dmgame.com/news/202403/3890733.html)
 
++ [新《超人》电影将全程采用IMAX格式拍摄](https://www.3dmgame.com/news/202403/3890736.html)
+
