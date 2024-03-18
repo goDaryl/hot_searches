@@ -113,3 +113,7 @@
 
 + [《哥谭骑士》开发商将参与《神奇女侠》游戏制作](https://www.3dmgame.com/news/202403/3890743.html)
 
++ [PlayStation前总裁认为：收购是创造力的敌人](https://www.3dmgame.com/news/202403/3890746.html)
+
++ [《战地2042》第七赛季全新地图实机截图 明天上线](https://www.3dmgame.com/news/202403/3890745.html)
+

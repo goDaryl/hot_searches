@@ -43,3 +43,5 @@
 
 + [网安攻防之2024年社会工程学分析](https://www.freebuf.com/articles/neopoints/393869.html)
 
++ [FreeBuf 早报 | 中央网信办部署开展2024年“清朗”系列专项行动；非洲海底光缆发生故障](https://www.freebuf.com/news/394979.html)
+
