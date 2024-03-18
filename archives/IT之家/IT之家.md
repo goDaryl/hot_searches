@@ -37,3 +37,5 @@
 
 + [消息称 SpaceX 正为美国情报机构建设间谍卫星网络，可全天候监控地球](https://m.ithome.com/html/756299.htm)
 
++ [上海全国首创停车缴费“纯净码”，不收集任何个人信息](https://m.ithome.com/html/756303.htm)
+

@@ -147,3 +147,21 @@
 
 + [《星际公民》1.0版或将来临 12年众筹到6.69亿美元](https://www.3dmgame.com/news/202403/3890751.html)
 
++ [《地平线：西之绝境》国行版3月21日发售 售价299元](https://www.3dmgame.com/news/202403/3890770.html)
+
++ [《异形：罗穆卢斯》最新剧透曝光：新抱脸虫登场](https://www.3dmgame.com/news/202403/3890767.html)
+
++ [中科院院士称燃油车比电动车自燃率高 日常PK新闻](https://www.3dmgame.com/news/202403/3890769.html)
+
++ [Techland表示《消逝的光芒2》跨平台游戏“仍然是一个选择”](https://www.3dmgame.com/news/202403/3890768.html)
+
++ [横版卷轴解谜平台游戏《动物井》宣布5月9日发售 支持中文](https://www.3dmgame.com/news/202403/3890766.html)
+
++ [《最终幻想7：重生》3D同人图 蒂法爱丽丝尤菲太性感](https://www.3dmgame.com/news/202403/3890763.html)
+
++ [手游《女神异闻录：夜幕魅影》公测定档4月12日](https://www.3dmgame.com/news/202403/3890764.html)
+
++ [新版《神秘博士》第一季公布预告片 5月10日首播于迪士尼+](https://www.3dmgame.com/news/202403/3890762.html)
+
++ [虚拟偶像凑阿库娅专属恋爱游戏《AQUARIUM》确定制作](https://www.3dmgame.com/news/202403/3890765.html)
+
