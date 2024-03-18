@@ -163,3 +163,7 @@
 
 + [Green Pony](https://www.producthunt.com/posts/green-pony)
 
++ [OneStream Live - Version 8.0.7 Release](https://www.producthunt.com/posts/onestream-live-version-8-0-7-release)
+
++ [Listen2.AI](https://www.producthunt.com/posts/listen2-ai)
+

@@ -193,3 +193,7 @@
 
 + [传说系列资深角色设计插画师去世 曾参与高达DQ作品创作](https://www.3dmgame.com/news/202403/3890779.html)
 
++ [《健身拳击2》联动《家庭教师》新DLC曲包3月21日发布](https://www.3dmgame.com/news/202403/3890785.html)
+
++ [恐怖射击游戏《量子误差》续作《量子态》公布 发售日期待定](https://www.3dmgame.com/news/202403/3890786.html)
+
