@@ -197,3 +197,17 @@
 
 + [恐怖射击游戏《量子误差》续作《量子态》公布 发售日期待定](https://www.3dmgame.com/news/202403/3890786.html)
 
++ [低端车不做！余承东：华为成本高 30万以上车才用得起](https://www.3dmgame.com/news/202403/3890793.html)
+
++ [《水果山》登陆Steam 仿西瓜游戏新游玩法新颖](https://www.3dmgame.com/news/202403/3890792.html)
+
++ [股价1年飙涨超12倍！AI浪潮下的超微电脑比英伟达还夸张](https://www.3dmgame.com/news/202403/3890791.html)
+
++ [LOL女装大佬Sneaky新照欣赏：白丝长腿 妩媚动人](https://www.3dmgame.com/news/202403/3890790.html)
+
++ [1200家公司裁员超26万人！美国科技行业裁员数量达20多年来最高](https://www.3dmgame.com/news/202403/3890789.html)
+
++ [《星刃》女主有物理抖动效果：很自然的表现](https://www.3dmgame.com/news/202403/3890788.html)
+
++ [苹果与谷歌就AI谈合作 欲将Gemini引入iPhone](https://www.3dmgame.com/news/202403/3890787.html)
+
