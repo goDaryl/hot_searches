@@ -49,3 +49,7 @@
 
 + [比亚迪护卫舰 07 荣耀版车型上市，售价 17.98 万元起](https://m.ithome.com/html/756323.htm)
 
++ [奇瑞捷途旅行者 2024 款四驱悦野 PRO 车型上市：“L2.5 级别”辅助驾驶，19.19 万元起](https://m.ithome.com/html/756255.htm)
+
++ [戴尔员工可选择远程办公，但升职将无望](https://m.ithome.com/html/756249.htm)
+

@@ -63,3 +63,7 @@
 
 + [麦当劳全球系统宕机，影响数千家门店](https://www.freebuf.com/news/395076.html)
 
++ [红队——多层内网环境渗透测试（三）](https://www.freebuf.com/defense/382534.html)
+
++ [如何使用Logsensor快速识别登录面板和POST表单SQLi缺陷](https://www.freebuf.com/sectool/392026.html)
+
