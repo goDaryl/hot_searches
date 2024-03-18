@@ -41,3 +41,5 @@
 
 + [制造业信息安全实践——企业信息安全运营规划](https://www.freebuf.com/articles/security-management/393411.html)
 
++ [网安攻防之2024年社会工程学分析](https://www.freebuf.com/articles/neopoints/393869.html)
+

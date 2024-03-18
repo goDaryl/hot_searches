@@ -109,3 +109,7 @@
 
 + [《蜡笔小新 煤炭镇的小白》发布粤语配音预告](https://www.3dmgame.com/news/202403/3890740.html)
 
++ [消息称PS5 Pro延续1TB固态硬盘以降低成本](https://www.3dmgame.com/news/202403/3890744.html)
+
++ [《哥谭骑士》开发商将参与《神奇女侠》游戏制作](https://www.3dmgame.com/news/202403/3890743.html)
+
