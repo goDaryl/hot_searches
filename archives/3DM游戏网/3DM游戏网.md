@@ -211,3 +211,7 @@
 
 + [苹果与谷歌就AI谈合作 欲将Gemini引入iPhone](https://www.3dmgame.com/news/202403/3890787.html)
 
++ [前《战地》总监回应离职：对EA没什么好印象 只有苦难](https://www.3dmgame.com/news/202403/3890794.html)
+
++ [别看不上国产！黄仁勋怕了 这就是NV将华为视为对手实力](https://www.3dmgame.com/news/202403/3890795.html)
+
