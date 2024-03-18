@@ -59,3 +59,7 @@
 
 + [聚焦315：操控网络水军的主板机；AI”换脸“诈骗](https://www.freebuf.com/news/395065.html)
 
++ [网传 AT&T 泄露 7100 万用户数据，该公司多次否认](https://www.freebuf.com/news/395109.html)
+
++ [麦当劳全球系统宕机，影响数千家门店](https://www.freebuf.com/news/395076.html)
+
