@@ -49,3 +49,23 @@
 
 + [Wild Isles](https://dribbble.com/shots/)
 
++ [Capturing Timeless Essence](https://dribbble.com/shots/)
+
++ [Figure illustrations - Chapter One](https://dribbble.com/shots/)
+
++ [Red Queen Gin](https://dribbble.com/shots/)
+
++ [Logo "Lol Defi"](https://dribbble.com/shots/)
+
++ [Wood](https://dribbble.com/shots/)
+
++ [The Monocronies 02.](https://dribbble.com/shots/)
+
++ [Kawaii city](https://dribbble.com/shots/)
+
++ [Blossom (2024)](https://dribbble.com/shots/)
+
++ [Endangered Species Act](https://dribbble.com/shots/)
+
++ [Gull on a stump](https://dribbble.com/shots/)
+
