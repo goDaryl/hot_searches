@@ -127,3 +127,7 @@
 
 + [医疗最终会成为最大的AI垂直领域吗？](https://blog.csdn.net/Gabriel100yi/article/details/136856897)
 
++ [高质量C/C++编程指南](https://blog.csdn.net/weixin_72852519/article/details/136673972)
+
++ [NVIDIA NIM 提供优化的推理微服务以大规模部署 AI 模型](https://blog.csdn.net/kunhe0512/article/details/136831556)
+
