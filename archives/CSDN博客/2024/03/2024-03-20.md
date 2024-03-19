@@ -125,3 +125,5 @@
 
 + [JetBrains全家桶激活，分享 CLion 2024 激活的方案](https://blog.csdn.net/ladymorgana/article/details/136822689)
 
++ [医疗最终会成为最大的AI垂直领域吗？](https://blog.csdn.net/Gabriel100yi/article/details/136856897)
+
