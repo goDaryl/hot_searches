@@ -113,3 +113,11 @@
 
 + [日式动作游戏《愚灵》发布BOSS战介绍视频](https://www.3dmgame.com/news/202403/3890809.html)
 
++ [《钢铁之种》将由ESDigital Games负责发行](https://www.3dmgame.com/news/202403/3890815.html)
+
++ [全新Xbox开发套件已在韩国获得认证](https://www.3dmgame.com/news/202403/3890814.html)
+
++ [Bit Reactor新《星战》策略游戏使用UE5开发](https://www.3dmgame.com/news/202403/3890813.html)
+
++ [万代南梦宫《沙漠大冒险》试玩版提供下载](https://www.3dmgame.com/news/202403/3890812.html)
+

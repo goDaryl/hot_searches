@@ -29,3 +29,5 @@
 
 + [小米汽车 SU7 被质疑空间小，卢伟冰发视频回应](https://m.ithome.com/html/756528.htm)
 
++ [荣耀 MagicBook Pro 16 价格正式公布：首销尊享价 5999 元起](https://m.ithome.com/html/756514.htm)
+
