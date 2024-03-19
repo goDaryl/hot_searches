@@ -33,3 +33,7 @@
 
 + [荣耀 Magic6 至臻版手机发布：搭载单反级超动态鹰眼相机，6999 元起](https://m.ithome.com/html/756508.htm)
 
++ [16G+256G 仅 2239 元：Redmi K70 天猫限时新低（首发 2699 元）](https://m.ithome.com/html/756517.htm)
+
++ [每天 5 秒抽一次：天猫无门槛红包倒数发 3 天，面额至高 8888 元](https://m.ithome.com/html/756459.htm)
+

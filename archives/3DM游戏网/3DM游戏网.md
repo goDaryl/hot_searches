@@ -179,3 +179,29 @@
 
 + [《Domenation》Steam页面上线 大逃杀类战斗射击](https://www.3dmgame.com/news/202403/3890836.html)
 
++ [《沙丘2》票房突破里程碑：已经超过第一部电影](https://www.3dmgame.com/news/202403/3890853.html)
+
++ [Netflix正在打造改编自《雪人》原著系列的犯罪惊悚剧集](https://www.3dmgame.com/news/202403/3890854.html)
+
++ [新西兰推出游戏主题精选邮票 庆祝游戏行业蓬勃发展](https://www.3dmgame.com/news/202403/3890855.html)
+
++ [乙女向推理冒险名作《七罪绯红》确定7月11日登陆Switch](https://www.3dmgame.com/news/202403/3890856.html)
+
++ [奥巴马拒绝客串《三体》：保留实力以防真的外星入侵](https://www.3dmgame.com/news/202403/3890857.html)
+
++ [《龙吼双截龙NEO》Steam上线 经典格斗游戏重制](https://www.3dmgame.com/news/202403/3890848.html)
+
++ [《星球大战：侍者》6月4日播出 今日公布预告](https://www.3dmgame.com/news/202403/3890849.html)
+
++ [职场社交平台领英正在开发内置游戏 会按员工分数对公司进行排名](https://www.3dmgame.com/news/202403/3890850.html)
+
++ [《星露谷物语》开发者预告新农场类型：畜牧专用](https://www.3dmgame.com/news/202403/3890851.html)
+
++ [SK海力士全球首家量产HBM3E内存 1秒处理超1TB数据](https://www.3dmgame.com/news/202403/3890852.html)
+
++ [米哈游公布涉《原神》私服 盗版手办等多个刑事判决](https://www.3dmgame.com/news/202403/3890845.html)
+
++ [《Apex》大赛黑客事件小蓝熊EAC反作弊有漏洞？官方澄清](https://www.3dmgame.com/news/202403/3890846.html)
+
++ [《城市：天际线2》“海滩资产包”即将发售 官方Mod工具同步上线](https://www.3dmgame.com/news/202403/3890847.html)
+
