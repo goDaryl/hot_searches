@@ -267,3 +267,5 @@
 
 + [《楚门的世界》《怒海争锋》导演彼得·威尔宣布退休](https://www.3dmgame.com/news/202403/3890888.html)
 
++ [Epic商城从今年6月停止支持Win 7、8和32位Win 10](https://www.3dmgame.com/news/202403/3890889.html)
+
