@@ -101,3 +101,27 @@
 
 + [计算机网络的组成](https://blog.csdn.net/hangweijie/article/details/136805564)
 
++ [Ubuntu使用Docker部署Nginx容器并结合内网穿透实现公网访问本地服务](https://blog.csdn.net/m0_68662723/article/details/136821112)
+
++ [const，static深度总结——c++穿透式分析](https://blog.csdn.net/strive_mianyang/article/details/136662820)
+
++ [华为OD七日集训第3期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/136828142)
+
++ [【prometheus】k8s集群部署prometheus server(文末送书)](https://blog.csdn.net/qq_35995514/article/details/136783153)
+
++ [GaussDB分区表自动新增分区](https://blog.csdn.net/GaussDB/article/details/136807633)
+
++ [Excel文件导入导出，SpringBoot整合EasyExcel批量导入导出，采用的JDBC+EasyExcel（附带整个Demo）](https://blog.csdn.net/qq_68135906/article/details/136787814)
+
++ [Java微服务分布式事务框架seata](https://blog.csdn.net/s445320/article/details/136806573)
+
++ [基于Python爬虫山东济南天气预报数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/136720237)
+
++ [【Linux】自动化构建工具-make/Makefile](https://blog.csdn.net/zxctsclrjjjcph/article/details/136828923)
+
++ [【超详细图文讲解】如何利用VMware创建CentOS虚拟机(包括如何更改网络设置 + 远程访问虚拟机方法)](https://blog.csdn.net/qq_60366454/article/details/136818176)
+
++ [基于联邦强化学习的集群机器人协同导航](https://blog.csdn.net/qq_38853759/article/details/136785824)
+
++ [JetBrains全家桶激活，分享 CLion 2024 激活的方案](https://blog.csdn.net/ladymorgana/article/details/136822689)
+
