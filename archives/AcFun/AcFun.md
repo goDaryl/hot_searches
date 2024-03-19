@@ -93,3 +93,9 @@
 
 + [新玩具-见习画师](http://www.acfun.cn/v/ac44068179)
 
++ [【一笑江湖DJ版】戏腔慢摇太上头了！](http://www.acfun.cn/v/ac44076031)
+
++ [用屁股之力打败DD【超人栗瑞明配音】](http://www.acfun.cn/v/ac44071512)
+
++ [【vlog】我又毛了东西回来【TCS卡牌嘉年华】](http://www.acfun.cn/v/ac44076369)
+
