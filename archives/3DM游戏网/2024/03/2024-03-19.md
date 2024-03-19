@@ -237,3 +237,7 @@
 
 + [移动数据情报行业整合 Sensor Tower收购data.ai](https://www.3dmgame.com/news/202403/3890870.html)
 
++ [《公路警察模拟器》年内登陆多平台 开放世界警察日常](https://www.3dmgame.com/news/202403/3890874.html)
+
++ [别慌！蜜雪冰城回应涨价1元：尚未全国推广](https://www.3dmgame.com/news/202403/3890875.html)
+
