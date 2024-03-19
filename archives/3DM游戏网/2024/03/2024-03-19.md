@@ -121,3 +121,11 @@
 
 + [万代南梦宫《沙漠大冒险》试玩版提供下载](https://www.3dmgame.com/news/202403/3890812.html)
 
++ [网传《GTA6》将于2025年2月18日发售 距今不到一年时间](https://www.3dmgame.com/news/202403/3890819.html)
+
++ [Unity AI NPC演示视频：赛博朋克美女更像真人](https://www.3dmgame.com/news/202403/3890818.html)
+
++ [《月球叛军2》发布正式预告 4月19日上线网飞](https://www.3dmgame.com/news/202403/3890817.html)
+
++ [近三分之二的游戏工作室在使用AI：为了加速游戏开发](https://www.3dmgame.com/news/202403/3890816.html)
+
