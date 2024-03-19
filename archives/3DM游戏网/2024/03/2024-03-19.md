@@ -263,3 +263,5 @@
 
 + [《守望先锋2》前开发者：剧情关卡或无法继续开发](https://www.3dmgame.com/news/202403/3890876.html)
 
++ [“买大浪费”！苹果：iPhone 15的128GB存储够用了](https://www.3dmgame.com/news/202403/3890887.html)
+
