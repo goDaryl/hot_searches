@@ -269,3 +269,11 @@
 
 + [Epic商城从今年6月停止支持Win 7、8和32位Win 10](https://www.3dmgame.com/news/202403/3890889.html)
 
++ [XGP 3月下旬游戏公开 《暗黑破坏神4》3月28日上线](https://www.3dmgame.com/news/202403/3890893.html)
+
++ [新一代007定了！33岁的亚伦·泰勒-约翰逊被正式邀约](https://www.3dmgame.com/news/202403/3890891.html)
+
++ [英伟达扩大与中国车企合作 比亚迪小鹏等将搭载新一代车载芯片](https://www.3dmgame.com/news/202403/3890892.html)
+
++ [《神力科莎》开发商：下个游戏将是真正的续作 不再是衍生作](https://www.3dmgame.com/news/202403/3890890.html)
+

@@ -61,3 +61,9 @@
 
 + [小米 Civi 4 Pro 手机发布会定档 3 月 21 日：首发高通骁龙 8s Gen 3，支持徕卡光学](https://m.ithome.com/html/756578.htm)
 
++ [英伟达 CEO 黄仁勋换了件皮衣：蜥蜴压花小牛皮，售价 8990 美元](https://m.ithome.com/html/756770.htm)
+
++ [卢伟冰称小米汽车定价“有点贵”：相信大家看完发布会之后会认可](https://m.ithome.com/html/756782.htm)
+
++ [卢伟冰：小米手机今年要突破 6000 元到 1 万元价格段](https://m.ithome.com/html/756779.htm)
+
