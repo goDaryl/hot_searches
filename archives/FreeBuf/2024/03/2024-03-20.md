@@ -55,3 +55,9 @@
 
 + [ISO27001安全管理体系落地、认证实践](https://www.freebuf.com/articles/security-management/394956.html)
 
++ [如何使用Rayder组织编排漏洞侦查和渗透测试工作流](https://www.freebuf.com/sectool/392348.html)
+
++ [敲击键盘也可能泄露敏感信息？](https://www.freebuf.com/news/395358.html)
+
++ [网络威胁攻击者”盯上了“API](https://www.freebuf.com/news/395332.html)
+
