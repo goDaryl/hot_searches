@@ -51,3 +51,7 @@
 
 + [涉及1亿被盗账户，乌克兰警方逮捕3名黑客](https://www.freebuf.com/news/395328.html)
 
++ [从深度伪造到恶意软件：网络安全迎来AI新挑战](https://www.freebuf.com/news/395324.html)
+
++ [ISO27001安全管理体系落地、认证实践](https://www.freebuf.com/articles/security-management/394956.html)
+
