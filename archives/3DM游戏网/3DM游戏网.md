@@ -107,3 +107,11 @@
 
 + [《博德之门3》22号迷你补丁上线 处理一些崩溃和严重问题](https://www.3dmgame.com/news/202403/3890990.html)
 
++ [损毁系爽快卡牌战斗RPG《天穹卡牌录》公布](https://www.3dmgame.com/news/202403/3890994.html)
+
++ [《英灵乱战》正式上线《星球大战》联动角色](https://www.3dmgame.com/news/202403/3890993.html)
+
++ [《波斯王子：失落的王冠》勇士之路免费更新上线](https://www.3dmgame.com/news/202403/3890992.html)
+
++ [《龙珠：电光火石0》制作人亲自对战演示视频](https://www.3dmgame.com/news/202403/3890991.html)
+
