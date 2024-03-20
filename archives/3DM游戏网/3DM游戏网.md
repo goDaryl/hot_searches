@@ -265,3 +265,9 @@
 
 + [小米汽车SU7内饰实车图曝光 3月28日上市交付](https://www.3dmgame.com/news/202403/3890978.html)
 
++ [传英伟达投入100亿美元开发Blackwell架构平台 新产品售价在3到4万美元](https://www.3dmgame.com/news/202403/3890980.html)
+
++ [EA可能在暗示重制《死亡空间2》](https://www.3dmgame.com/news/202403/3890981.html)
+
++ [小米MIX Flip折叠屏手机曝光 搭载高通骁龙8 Gen3芯片](https://www.3dmgame.com/news/202403/3890979.html)
+
