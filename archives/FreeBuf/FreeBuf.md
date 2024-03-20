@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 英国87%的组织易受网络攻击；法国政府泄露4300万公民个人数据](https://www.freebuf.com/news/395244.html)
 
++ [从0到1实施指南 | 工控系统网络安全怎么做？](https://www.freebuf.com/articles/ics-articles/394748.html)
+
++ [IBM：AI攻击即将到来，被盗凭据成为头号风险](https://www.freebuf.com/articles/paper/393958.html)
+
