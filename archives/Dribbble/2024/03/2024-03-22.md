@@ -79,3 +79,15 @@
 
 + [Figure illustrations - Chapter One](https://dribbble.com/shots/)
 
++ [Flowers](https://dribbble.com/shots/)
+
++ [Beach and Bus Ride](https://dribbble.com/shots/)
+
++ [Lekker](https://dribbble.com/shots/)
+
++ [Logo for Mexican restaurant](https://dribbble.com/shots/)
+
++ [Bob's Bagels Branding](https://dribbble.com/shots/)
+
++ [Do not touch wild animals](https://dribbble.com/shots/)
+
