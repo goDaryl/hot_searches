@@ -213,3 +213,7 @@
 
 + [掌握Go语言：利用Go语言的单向通道和select语句，提升库存管理效率（21）](https://blog.csdn.net/wenbingy/article/details/136875558)
 
++ [【Rust】——String集合](https://blog.csdn.net/shsjssnn/article/details/136237892)
+
++ [【研发日记】Matlab/Simulink避坑指南(十)——移位溢出Bug](https://blog.csdn.net/CSSUST/article/details/136890702)
+
