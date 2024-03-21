@@ -179,3 +179,13 @@
 
 + [QA Sphere](https://www.producthunt.com/posts/qa-sphere)
 
++ [Litelytics](https://www.producthunt.com/posts/litelytics)
+
++ [Dictate4Me](https://www.producthunt.com/posts/dictate4me)
+
++ [DemoTime AI](https://www.producthunt.com/posts/demotime-ai)
+
++ [Managr](https://www.producthunt.com/posts/managr)
+
++ [CommentBuddy.ai](https://www.producthunt.com/posts/commentbuddy-ai)
+
