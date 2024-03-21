@@ -35,3 +35,7 @@
 
 + [新款坦克 500 Hi4-T 上市：换全新发动机、四驱系统升级，售 33.5 万元](https://m.ithome.com/html/757041.htm)
 
++ [22.98 万-30.98 万元，一汽红旗纯电动轿车 EH7 上市](https://m.ithome.com/html/757038.htm)
+
++ [比亚迪宋 L 汽车首次 OTA 升级：新增自动泊车、自动关窗等，大量体验优化](https://m.ithome.com/html/756885.htm)
+
