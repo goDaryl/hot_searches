@@ -41,3 +41,5 @@
 
 + [纳斯达克交易系统宕机2小时，RASH FIX订单无效](https://www.freebuf.com/news/395193.html)
 
++ [《2024年开源安全和风险（OSSRA）报告》：84%的代码库存在漏洞风险](https://www.freebuf.com/articles/paper/393938.html)
+
