@@ -89,3 +89,9 @@
 
 + [【东方】懺悔参り【水桥帕露西 Ver. MMD】](http://www.acfun.cn/v/ac44092099)
 
++ [萌宠集合，这才是猛男该看的！第四百四十九期](http://www.acfun.cn/v/ac44107134)
+
++ [【歌回录像】跟你一起楽~ 2024-01-03](http://www.acfun.cn/v/ac44104097)
+
++ [风轻轻，我听见《你》声音](http://www.acfun.cn/v/ac44088691)
+

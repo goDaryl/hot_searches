@@ -233,3 +233,15 @@
 
 + [《星球大战 侍者》主创：编剧不懂原作但这是好事](https://www.3dmgame.com/news/202403/3891045.html)
 
++ [已获版号！腾讯《地下城与勇士》手游定档：第二季度上线](https://www.3dmgame.com/news/202403/3891056.html)
+
++ [《海贼王》官方宣布停载三周 尾田需要取材和构思](https://www.3dmgame.com/news/202403/3891057.html)
+
++ [NCSOFT《诸神大乱斗》新预告 第二次测试今日上线](https://www.3dmgame.com/news/202403/3891058.html)
+
++ [《寂静岭2：重制版》海报现身游戏零售店 已获评级](https://www.3dmgame.com/news/202403/3891059.html)
+
++ [《战锤西格玛时代》 重塑凡世诸域 新版本夏天上线](https://www.3dmgame.com/news/202403/3891055.html)
+
++ [万代推出等比例《游戏王》千年智慧轮 定价11000日元](https://www.3dmgame.com/news/202403/3891054.html)
+
