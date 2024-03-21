@@ -245,3 +245,25 @@
 
 + [万代推出等比例《游戏王》千年智慧轮 定价11000日元](https://www.3dmgame.com/news/202403/3891054.html)
 
++ [雷军感叹只有特斯拉敢宣布涨价：暗示小米SU7定价](https://www.3dmgame.com/news/202403/3891070.html)
+
++ [《超级肌肉猫》登陆Steam 爆笑2D横版动作新游](https://www.3dmgame.com/news/202403/3891069.html)
+
++ [KK对战平台人气新图《暴走英雄》3月21日火热上线  手指转一转，简单爽翻天！](https://www.3dmgame.com/news/202403/3891068.html)
+
++ [网飞版《三体》全季正式上线：自带官方中文字幕 国语配音](https://www.3dmgame.com/news/202403/3891067.html)
+
++ [微软、Meta、X等巨头联名对抗苹果！反对其限制导流政策](https://www.3dmgame.com/news/202403/3891066.html)
+
++ [《都要！小孩子才做选择》Steam试玩开启 又被美女包围](https://www.3dmgame.com/news/202403/3891065.html)
+
++ [罗永浩带货“空中的士”首架成交 广东客户豪掷199万](https://www.3dmgame.com/news/202403/3891064.html)
+
++ [剧集《龙之家族》第二季公布新海报 6月在HBO首播](https://www.3dmgame.com/news/202403/3891063.html)
+
++ [《漫威1943：九头蛇崛起》截图：虚幻5打造 画面优秀](https://www.3dmgame.com/news/202403/3891062.html)
+
++ [苹果Vision Pro国行版来了！？国内销售开始招聘](https://www.3dmgame.com/news/202403/3891061.html)
+
++ [英伟达CEO黄仁勋强调中国市场重要性：不能没有它](https://www.3dmgame.com/news/202403/3891060.html)
+
