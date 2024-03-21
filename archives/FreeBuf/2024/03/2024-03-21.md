@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 27年中国网安市场将超200亿美元；英国国防部长专机信号中断半小时](https://www.freebuf.com/news/395395.html)
 
++ [大模型之原生安全与基础安全的火花](https://www.freebuf.com/articles/web/395047.html)
+
