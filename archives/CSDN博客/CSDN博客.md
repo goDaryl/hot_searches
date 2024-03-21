@@ -131,3 +131,9 @@
 
 + [基于Spring Boot的智慧农业小程序](https://blog.csdn.net/Q1744828575/article/details/136836207)
 
++ [【云原生 • Kubernetes】认识 k8s、k8s 架构、核心实战](https://blog.csdn.net/qq_21880261/article/details/136885517)
+
++ [MSYS2环境下编译FFmpeg为单一动态库（DLL）](https://blog.csdn.net/jacky_zz/article/details/136883501)
+
++ [【Flutter和H5数据传递问题】window.postMessage方法引起的数据问题](https://blog.csdn.net/m0_46983722/article/details/136842597)
+

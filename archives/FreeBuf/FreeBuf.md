@@ -43,3 +43,5 @@
 
 + [《2024年开源安全和风险（OSSRA）报告》：84%的代码库存在漏洞风险](https://www.freebuf.com/articles/paper/393938.html)
 
++ [FreeBuf 早报 | 27年中国网安市场将超200亿美元；英国国防部长专机信号中断半小时](https://www.freebuf.com/news/395395.html)
+
