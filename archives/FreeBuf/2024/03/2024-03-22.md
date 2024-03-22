@@ -45,3 +45,7 @@
 
 + [FreeBuf 早报 | 温哥华Pwn2Own首日特斯拉又被黑；UDP 协议被曝漏洞](https://www.freebuf.com/news/395527.html)
 
++ [黑客可通过Unsaflok 漏洞获取数百万家酒店房门“万能钥匙”](https://www.freebuf.com/news/395588.html)
+
++ [联合国通过首个全球人工智能决议草案](https://www.freebuf.com/news/395599.html)
+
