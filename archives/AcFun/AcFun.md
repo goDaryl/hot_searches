@@ -67,3 +67,5 @@
 
 + [【东方】ΔRTIFACTS【全风格 Arrange / ぱらどっと】](http://www.acfun.cn/v/ac44115387)
 
++ [要买耳机的Acer看过来啦！！！](http://www.acfun.cn/v/ac44123301)
+
