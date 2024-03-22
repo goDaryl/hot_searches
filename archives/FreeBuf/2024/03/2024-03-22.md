@@ -41,3 +41,5 @@
 
 + [涉及1亿被盗账户，乌克兰警方逮捕3名黑客](https://www.freebuf.com/news/395328.html)
 
++ [对大型语言模型的安全性能进行基准测试，谁更胜一筹？](https://www.freebuf.com/articles/paper/395370.html)
+
