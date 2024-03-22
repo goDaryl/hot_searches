@@ -217,3 +217,15 @@
 
 + [拉瑞安老板：发行商别总是想着赚钱 要关心开发者](https://www.3dmgame.com/news/202403/3891142.html)
 
++ [澳洲银屏公司出资一百万美元 支持本国独立游戏开发](https://www.3dmgame.com/news/202403/3891148.html)
+
++ [“AI教父”辛顿最新预言：AI将操控人类](https://www.3dmgame.com/news/202403/3891147.html)
+
++ [农场模拟游戏《妖精农场》春季更新上线 新扩展包开发中](https://www.3dmgame.com/news/202403/3891146.html)
+
++ [重捏脸要花钱？《龙之信条2》大量功能微交易引争议](https://www.3dmgame.com/news/202403/3891145.html)
+
++ [《葬送的芙莉莲》二创引发连锁反应 芙莉莲登多部游戏封面](https://www.3dmgame.com/news/202403/3891144.html)
+
++ [《猩球崛起：新世界》定档海报及预告 5月10日上映](https://www.3dmgame.com/news/202403/3891143.html)
+
