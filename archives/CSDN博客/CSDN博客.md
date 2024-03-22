@@ -187,3 +187,9 @@
 
 + [【ACL 2023-NER注入到PLM】数据集+实验解读：基于上下文学习的命名实体识别 Learning In-context Learning for Named Entity Recognitio](https://blog.csdn.net/wtyuong/article/details/136918575)
 
++ [3D高斯泼溅的崛起](https://blog.csdn.net/wanwan819/article/details/136903314)
+
++ [外包干了9天，技术退步明显。。。。。](https://blog.csdn.net/2301_79535544/article/details/136857779)
+
++ [微服务网关介绍](https://blog.csdn.net/weixin_57763462/article/details/136923915)
+
