@@ -119,3 +119,11 @@
 
 + [单人剧情驱动冒险游戏《尘路之旅》8/20发行](https://www.3dmgame.com/news/202403/3891090.html)
 
++ [《地平线：西之绝境》Steam特别好评 玩家称赞优化相当给力](https://www.3dmgame.com/news/202403/3891097.html)
+
++ [《死亡岛2》第二个故事DLC“SoLA”4月17日上线](https://www.3dmgame.com/news/202403/3891096.html)
+
++ [拉瑞安不打算制作《博德之门3》DLC或《博德之门4》](https://www.3dmgame.com/news/202403/3891095.html)
+
++ [索尼在巴西工厂新开设产品线 为拉美玩家生产PS5光盘](https://www.3dmgame.com/news/202403/3891094.html)
+
