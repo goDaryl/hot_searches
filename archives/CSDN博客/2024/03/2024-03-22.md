@@ -193,3 +193,9 @@
 
 + [微服务网关介绍](https://blog.csdn.net/weixin_57763462/article/details/136923915)
 
++ [‍Java OCR技术全面解析：六大解决方案比较](https://blog.csdn.net/qq_44866828/article/details/136906322)
+
++ [GaussDB WDR分析之集群报告篇](https://blog.csdn.net/GaussDB/article/details/136940209)
+
++ [网络安全（黑客）—2024自学](https://blog.csdn.net/dexi113/article/details/136918054)
+
