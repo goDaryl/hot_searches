@@ -53,3 +53,7 @@
 
 + [极氪 MIX“宝宝巴士”五座纯电 MPV 官图亮相，灵感来自天宫空间站](https://m.ithome.com/html/757451.htm)
 
++ [高德发布华为鸿蒙 HarmonyOS NEXT 定位、地图 SDK](https://m.ithome.com/html/757527.htm)
+
++ [华为联合打造，鸿蒙智行 AITO 问界 M9 车型大定超 60000 台](https://m.ithome.com/html/757452.htm)
+
