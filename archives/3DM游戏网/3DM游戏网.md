@@ -229,3 +229,23 @@
 
 + [《猩球崛起：新世界》定档海报及预告 5月10日上映](https://www.3dmgame.com/news/202403/3891143.html)
 
++ [《尼尔：机械纪元Ver1.1a》动画第二季发布首个PV预告 新视觉海报公开](https://www.3dmgame.com/news/202403/3891158.html)
+
++ [ETHxCAT：猫爱好者的终极区块链GameFi冒险](https://www.3dmgame.com/news/202403/3891156.html)
+
++ [《艾诺提亚：失落之歌》预定于2024年8月22日发售！](https://www.3dmgame.com/news/202403/3891157.html)
+
++ [《超级猴子球 香蕉大乱斗》游戏模式及关卡介绍 丰富多彩的关卡](https://www.3dmgame.com/news/202403/3891155.html)
+
++ [我国网民规模达10.92亿人：互联网普及率77.5%！](https://www.3dmgame.com/news/202403/3891154.html)
+
++ [淘金计划专访：明星创作者七殺黑手，游戏热爱让我们相聚！](https://www.3dmgame.com/news/202403/3891153.html)
+
++ [《GTA6》新截图疑似泄露 展示了游戏的技术状态](https://www.3dmgame.com/news/202403/3891152.html)
+
++ [暴雪前总裁：索尼有PC移植工作室 真是明智之举](https://www.3dmgame.com/news/202403/3891151.html)
+
++ [靠骂人成名，低俗主播缘何成了圈粉“网红”？](https://www.3dmgame.com/news/202403/3891150.html)
+
++ [《龙之信条2》怪物会互相战斗 会不小心摔倒变桥梁](https://www.3dmgame.com/news/202403/3891149.html)
+

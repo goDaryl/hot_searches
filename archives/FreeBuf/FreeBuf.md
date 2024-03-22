@@ -57,3 +57,5 @@
 
 + [Airgorah：一款功能强大的WiFi安全审计工具](https://www.freebuf.com/sectool/392501.html)
 
++ [AWS曝一键式漏洞，攻击者可接管Apache Airflow服务](https://www.freebuf.com/news/395687.html)
+

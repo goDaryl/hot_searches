@@ -47,3 +47,5 @@
 
 + [苹果 iOS 16.7.7 正式版发布](https://m.ithome.com/html/757350.htm)
 
++ [华为相关人士回应“P70 系列手机 3 月 23 日开启预售”：不是真的，目前还没有官方消息透露](https://m.ithome.com/html/757464.htm)
+
