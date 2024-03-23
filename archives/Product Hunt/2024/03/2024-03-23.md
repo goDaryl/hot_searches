@@ -125,3 +125,43 @@
 
 + [Vapi](https://www.producthunt.com/posts/vapi)
 
++ [Shopifinity Engine™](https://www.producthunt.com/posts/shopifinity-engine)
+
++ [HomeBox](https://www.producthunt.com/posts/homebox)
+
++ [Planeolo](https://www.producthunt.com/posts/planeolo)
+
++ [Spotify Miniplayer](https://www.producthunt.com/posts/spotify-miniplayer)
+
++ [Projexl](https://www.producthunt.com/posts/projexl)
+
++ [Stocknear](https://www.producthunt.com/posts/stocknear-2)
+
++ [Bread Budgeting](https://www.producthunt.com/posts/bread-budgeting)
+
++ [Math Learner : Fun Math Games](https://www.producthunt.com/posts/math-learner-fun-math-games)
+
++ [QuizWizard AI](https://www.producthunt.com/posts/quizwizard-ai)
+
++ [IdeaCam](https://www.producthunt.com/posts/ideacam)
+
++ [Xpolyglot](https://www.producthunt.com/posts/xpolyglot)
+
++ [cbx.gg](https://www.producthunt.com/posts/cbx-gg)
+
++ [Relay](https://www.producthunt.com/posts/relay-959aa2ef-f964-4d57-91e3-d16dccd511e4)
+
++ [LinkSafari](https://www.producthunt.com/posts/linksafari)
+
++ [Guess AI - Pictures Trivia](https://www.producthunt.com/posts/guess-ai-pictures-trivia)
+
++ [Financial Hub: Advanced Finance Tracker](https://www.producthunt.com/posts/financial-hub-advanced-finance-tracker)
+
++ [Procreate Match](https://www.producthunt.com/posts/procreate-match)
+
++ [Travel Echo](https://www.producthunt.com/posts/travel-echo)
+
++ [Refery](https://www.producthunt.com/posts/refery)
+
++ [re:tune](https://www.producthunt.com/posts/re-tune-2)
+

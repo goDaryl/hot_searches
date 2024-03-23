@@ -51,3 +51,5 @@
 
 + [全国网安标委发布 GBT 43697-2024《数据安全技术 数据分类分级规则》](https://www.freebuf.com/news/395695.html)
 
++ [如何使用gssapi-abuse检测活动目录网络内存在GSSAPI滥用风险的主机](https://www.freebuf.com/sectool/392508.html)
+
