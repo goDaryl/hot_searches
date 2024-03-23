@@ -161,3 +161,9 @@
 
 + [暴雪：《魔兽世界》新大逃杀模式是重构魔兽计划一部分](https://www.3dmgame.com/news/202403/3891196.html)
 
++ [360 AI浏览器APP即将上线：500万字长文本处理功能](https://www.3dmgame.com/news/202403/3891203.html)
+
++ [TH：Kotaku关于《GTA6》延期的报道纯粹是搅浑水](https://www.3dmgame.com/news/202403/3891202.html)
+
++ [脑机接口首位受试者用意念在X上发帖！马斯克转发回应](https://www.3dmgame.com/news/202403/3891201.html)
+
