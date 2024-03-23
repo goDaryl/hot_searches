@@ -43,3 +43,5 @@
 
 + [CVE-2023-49442 利用分析](https://www.freebuf.com/vuls/394051.html)
 
++ [FreeBuf 周报 | 敲击键盘也可能泄露敏感信息？；日本科技巨头富士通遭遇网络攻击](https://www.freebuf.com/news/395630.html)
+
