@@ -97,3 +97,11 @@
 
 + [【扒】咸鱼升职，却不开心，很多热爱，是因不够靠近《辛普森一家》之热爱平淡](http://www.acfun.cn/v/ac44123047)
 
++ [A站的欧皇们有福了！](http://www.acfun.cn/v/ac44124504)
+
++ [这哪是钓鱼，这是在钓人](http://www.acfun.cn/v/ac44128374)
+
++ [AC娘好会！](http://www.acfun.cn/v/ac44123110)
+
++ [下班路途记录1](http://www.acfun.cn/v/ac44128592)
+

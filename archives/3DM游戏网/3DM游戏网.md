@@ -179,3 +179,11 @@
 
 + [苹果可能在国内设备使用百度AI技术 集成于iOS 18](https://www.3dmgame.com/news/202403/3891205.html)
 
++ [3D幸存者游戏《Hordes of Hunger》公布最新预告片](https://www.3dmgame.com/news/202403/3891213.html)
+
++ [欢乐大乱斗 在线对战游戏新作《Rumble Club》公布](https://www.3dmgame.com/news/202403/3891212.html)
+
++ [《星球大战：法外狂徒》韩国获19+评级：因含赌博小游戏](https://www.3dmgame.com/news/202403/3891211.html)
+
++ [心理恐怖新作《Holstin》发布春季未来游戏展预告片](https://www.3dmgame.com/news/202403/3891210.html)
+
