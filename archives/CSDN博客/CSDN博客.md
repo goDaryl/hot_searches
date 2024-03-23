@@ -117,3 +117,7 @@
 
 + [Linux信号处理](https://blog.csdn.net/m0_63949251/article/details/136940339)
 
++ [AI多模态教程：从0到1搭建VisualGLM图文大模型案例](https://blog.csdn.net/AIGCmagic/article/details/136955366)
+
++ [2核4G服务器多少钱？阿里云价格30元起](https://blog.csdn.net/tengxunyun/article/details/136953904)
+
