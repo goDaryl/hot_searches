@@ -151,3 +151,13 @@
 
 + [孩之宝：拉瑞安工作室是令人难以置信的合作伙伴](https://www.3dmgame.com/news/202403/3891187.html)
 
++ [《子弹风暴》开发商新作或为虚幻5 PvP射击游戏](https://www.3dmgame.com/news/202403/3891199.html)
+
++ [Insomniac险些移除《漫威蜘蛛侠2》快速旅行选项](https://www.3dmgame.com/news/202403/3891200.html)
+
++ [动物园恐怖游戏《Zoochosis》新预告 第三季度发售](https://www.3dmgame.com/news/202403/3891198.html)
+
++ [《碧姬公主：表演时刻》正式发售 上市宣传片欣赏](https://www.3dmgame.com/news/202403/3891197.html)
+
++ [暴雪：《魔兽世界》新大逃杀模式是重构魔兽计划一部分](https://www.3dmgame.com/news/202403/3891196.html)
+
