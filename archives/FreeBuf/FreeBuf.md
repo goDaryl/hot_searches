@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | 敲击键盘也可能泄露敏感信息？；日本科技巨头富士通遭遇网络攻击](https://www.freebuf.com/news/395630.html)
 
++ [Thales SafeNet Sentinel HASP LDK本地提权漏洞（CVE-2024-0197）分析与复现](https://www.freebuf.com/vuls/395553.html)
+
