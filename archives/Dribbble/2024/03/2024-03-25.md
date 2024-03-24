@@ -49,3 +49,23 @@
 
 + [Blossom (2024)](https://dribbble.com/shots/)
 
++ [Protecting Endangered Species](https://dribbble.com/shots/)
+
++ [A Guide to Responsible Enjoyment](https://dribbble.com/shots/)
+
++ [Logo for Mexican restaurant](https://dribbble.com/shots/)
+
++ [Bob's Bagels Branding](https://dribbble.com/shots/)
+
++ [Damn Good Interiors Brand Design](https://dribbble.com/shots/)
+
++ [Take control](https://dribbble.com/shots/)
+
++ [Music laboratory 4](https://dribbble.com/shots/)
+
++ [Beach and Bus Ride](https://dribbble.com/shots/)
+
++ [Sunday](https://dribbble.com/shots/)
+
++ [Coffee icons](https://dribbble.com/shots/)
+
