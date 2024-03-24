@@ -155,3 +155,5 @@
 
 + [光荣《Fate/Samurai Remnant》DLC2将于4月18日上线](https://www.3dmgame.com/news/202403/3891245.html)
 
++ [拉瑞安CEO：相信威世智会尊重《博德之门3》角色](https://www.3dmgame.com/news/202403/3891250.html)
+
