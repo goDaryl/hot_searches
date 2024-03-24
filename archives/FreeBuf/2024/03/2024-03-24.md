@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/articles/395686.html)
 
++ [供应链投毒预警 | 恶意Py组件tohoku-tus-iot-automation开展窃密木马投毒攻击](https://www.freebuf.com/articles/network/395136.html)
+
