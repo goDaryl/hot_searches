@@ -79,3 +79,5 @@
 
 + [御姐频道](http://www.acfun.cn/v/ac44116081)
 
++ [HIFI不是看图说话，铄耳Cadenza4上手体验](http://www.acfun.cn/v/ac44132853)
+
