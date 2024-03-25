@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | API安全漏洞对企业财务的影响；Synopsys出售应用安全部门](https://www.freebuf.com/news/395663.html)
 
++ [以CCM4.0为核心的云安全规划实战篇](https://www.freebuf.com/consult/395457.html)
+
