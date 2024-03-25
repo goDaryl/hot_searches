@@ -123,3 +123,7 @@
 
 + [【HarmonyOS】ArkUI - 页面路由](https://blog.csdn.net/cnwutianhao/article/details/136992777)
 
++ [深度学习第一周：MNIST手写数字识别](https://blog.csdn.net/qq1273882425/article/details/137014116)
+
++ [鸿蒙一次开发，多端部署（十三）功能开发的一多能力介绍](https://blog.csdn.net/weixin_61845324/article/details/136973253)
+
