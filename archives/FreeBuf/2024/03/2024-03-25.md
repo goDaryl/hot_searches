@@ -57,3 +57,5 @@
 
 + [95% 的公司面临 API 安全问题](https://www.freebuf.com/news/395770.html)
 
++ [GitLab 收购初创安全公司 Oxeye](https://www.freebuf.com/news/395784.html)
+
