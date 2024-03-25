@@ -219,3 +219,7 @@
 
 + [《最终幻想16》PC版不用等一年 会有体验版](https://www.3dmgame.com/news/202403/3891316.html)
 
++ [宁德时代与特斯拉合作 共同开发充电更快电池](https://www.3dmgame.com/news/202403/3891319.html)
+
++ [AMD下一代CPU/GPU将引入三星4nm工艺](https://www.3dmgame.com/news/202403/3891318.html)
+
