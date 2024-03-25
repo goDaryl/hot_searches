@@ -109,3 +109,33 @@
 
 + [Claros](https://www.producthunt.com/posts/claros-2)
 
++ [Colorchef](https://www.producthunt.com/posts/colorchef)
+
++ [Otto Engineer](https://www.producthunt.com/posts/otto-engineer)
+
++ [Look into the machine's mind](https://www.producthunt.com/posts/look-into-the-machine-s-mind)
+
++ [Snaplists](https://www.producthunt.com/posts/snaplists)
+
++ [Ask FT](https://www.producthunt.com/posts/ask-ft)
+
++ [bring.order2chaos](https://www.producthunt.com/posts/bring-order2chaos)
+
++ [Persio - Conversion Tracking](https://www.producthunt.com/posts/persio-conversion-tracking)
+
++ [Mentor v1](https://www.producthunt.com/posts/mentor-v1)
+
++ [AI Ad Generator](https://www.producthunt.com/posts/ai-ad-generator)
+
++ [Governance AI](https://www.producthunt.com/posts/governance-ai)
+
++ [Ramban.AI](https://www.producthunt.com/posts/ramban-ai)
+
++ [liblab](https://www.producthunt.com/posts/liblab)
+
++ [Hopscotch Flow](https://www.producthunt.com/posts/hopscotch-flow)
+
++ [Fragment - Calendar as a platform](https://www.producthunt.com/posts/fragment-calendar-as-a-platform)
+
++ [Budget Kanban](https://www.producthunt.com/posts/budget-kanban)
+
