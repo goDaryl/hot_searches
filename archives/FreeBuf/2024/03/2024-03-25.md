@@ -63,3 +63,5 @@
 
 + [nysm：一款针对红队审计的隐蔽型后渗透安全测试容器](https://www.freebuf.com/sectool/392517.html)
 
++ [《银行保险机构数据安全管理办法（征求意见稿）》发布](https://www.freebuf.com/articles/395812.html)
+
