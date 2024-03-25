@@ -139,3 +139,23 @@
 
 + [Budget Kanban](https://www.producthunt.com/posts/budget-kanban)
 
++ [Look Into The Machine's Mind](https://www.producthunt.com/posts/look-into-the-machine-s-mind)
+
++ [Vitruveo](https://www.producthunt.com/posts/vitruveo-2)
+
++ [Slate](https://www.producthunt.com/posts/slate-50dd3a2a-81ff-4839-ac9b-dde5a67fb41f)
+
++ [Notion Flow](https://www.producthunt.com/posts/notion-flow)
+
++ [Eternity AI](https://www.producthunt.com/posts/eternity-ai)
+
++ [Mentor V1](https://www.producthunt.com/posts/mentor-v1)
+
++ [FindName](https://www.producthunt.com/posts/findname)
+
++ [AI Job Application Reviewer](https://www.producthunt.com/posts/ai-job-application-reviewer)
+
++ [IdeaMate](https://www.producthunt.com/posts/ideamate)
+
++ [NameWith AI](https://www.producthunt.com/posts/namewith-ai)
+
