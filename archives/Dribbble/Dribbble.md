@@ -111,3 +111,5 @@
 
 + [Herbs and Flowers of California Card](https://dribbble.com/shots/)
 
++ [Fundex - UX/UI platform design of the crypto loan service](https://dribbble.com/shots/)
+
