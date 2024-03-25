@@ -43,3 +43,5 @@
 
 + [大语言模型安全指南：如何提升LLM安全抵御Prompt Injection](https://www.freebuf.com/articles/security-management/393637.html)
 
++ [FreeBuf 早报 | API安全漏洞对企业财务的影响；Synopsys出售应用安全部门](https://www.freebuf.com/news/395663.html)
+
