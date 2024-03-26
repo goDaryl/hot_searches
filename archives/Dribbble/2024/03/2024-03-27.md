@@ -49,3 +49,21 @@
 
 + [Work in Progress: Sticker Sheets](https://dribbble.com/shots/)
 
++ [Philippe II & Richard the Lionheart, BFFs!](https://dribbble.com/shots/)
+
++ [System Illustration](https://dribbble.com/shots/)
+
++ [Camera Controller Concept (Light)](https://dribbble.com/shots/)
+
++ [City Quanzhou](https://dribbble.com/shots/)
+
++ [Canada Goose](https://dribbble.com/shots/)
+
++ [Pixel art animated test](https://dribbble.com/shots/)
+
++ [Wild turkey](https://dribbble.com/shots/)
+
++ [Anatolia Truffles](https://dribbble.com/shots/)
+
++ [Logo for Mexican restaurant](https://dribbble.com/shots/)
+
