@@ -145,3 +145,21 @@
 
 + [《龙之信条2》疯狂商店Mod 让玩家轻松绕过微交易](https://www.3dmgame.com/news/202403/3891339.html)
 
++ [《哥斯拉大战金刚2：帝国崛起》发布终极预告 3月29日上映](https://www.3dmgame.com/news/202403/3891354.html)
+
++ [《地牢翻新模拟器》4月Steam抢测 哥布林的家园清扫](https://www.3dmgame.com/news/202403/3891349.html)
+
++ [《生化奇兵》之父新作 《Judas》即将公布最新进展](https://www.3dmgame.com/news/202403/3891355.html)
+
++ [自走棋战斗的大富翁《Quad Battle》Steam页面 支持简中](https://www.3dmgame.com/news/202403/3891352.html)
+
++ [分析师：游戏行业裁员成趋势 公司已不用顾及形象](https://www.3dmgame.com/news/202403/3891353.html)
+
++ [Steam推出“牌组构建游戏节” 4月1日10点（PT）结束](https://www.3dmgame.com/news/202403/3891351.html)
+
++ [《魔兽世界》新资料片前 订阅玩家数量再次增加](https://www.3dmgame.com/news/202403/3891348.html)
+
++ [网飞《三体》主创团队已在筹备第二季 无惧争议！](https://www.3dmgame.com/news/202403/3891350.html)
+
++ [微软强迫开发者不要创造“夸张身体比例”的女性角色](https://www.3dmgame.com/news/202403/3891347.html)
+
