@@ -223,3 +223,19 @@
 
 + [《青之驱魔师》第四期动画“雪之果篇”预告释出 10月正式播出](https://www.3dmgame.com/news/202403/3891383.html)
 
++ [这味对了！《星刃》日语配音宣传片公布](https://www.3dmgame.com/news/202403/3891392.html)
+
++ [马斯克脑机接口瘫痪实验者爽玩马里奥赛车 甚至击败正常人](https://www.3dmgame.com/news/202403/3891393.html)
+
++ [《GTA6》大量新截图泄露：画面逼真 风光优美](https://www.3dmgame.com/news/202403/3891391.html)
+
++ [小米汽车充电桩长这样：支持扫码绑定 可查充电订单](https://www.3dmgame.com/news/202403/3891390.html)
+
++ [《龙之信条2》玩家进妓院玩 大嘴巴随从会到处说](https://www.3dmgame.com/news/202403/3891389.html)
+
++ [苹果放弃开发MicroLED屏Apple Watch：成本过高、设计过于复杂](https://www.3dmgame.com/news/202403/3891388.html)
+
++ [《捉鬼敢死队》《沙丘》电影系列收入纷纷破十亿大关](https://www.3dmgame.com/news/202403/3891387.html)
+
++ [《王冠之心OL》4月Steam抢测 经典卡游新作](https://www.3dmgame.com/news/202403/3891386.html)
+
