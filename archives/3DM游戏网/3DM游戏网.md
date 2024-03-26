@@ -163,3 +163,25 @@
 
 + [微软强迫开发者不要创造“夸张身体比例”的女性角色](https://www.3dmgame.com/news/202403/3891347.html)
 
++ [PC Gamer长文：《暗黑4》终于变成我们想要的那个游戏](https://www.3dmgame.com/news/202403/3891363.html)
+
++ [《Sky光·遇》Steam版4月10日上线 支持中文](https://www.3dmgame.com/news/202403/3891366.html)
+
++ [抖音首次推出商城版APP 大动作对标三大电商](https://www.3dmgame.com/news/202403/3891365.html)
+
++ [《龙之信条2》玩家游戏时间30个小时后才意识到野营用具不是消耗品](https://www.3dmgame.com/news/202403/3891364.html)
+
++ [Xbox老大点名批评《辐射76》不支持跨平台存档](https://www.3dmgame.com/news/202403/3891362.html)
+
++ [传闻：苹果正准备在WWDC 24上推出AI应用商店](https://www.3dmgame.com/news/202403/3891359.html)
+
++ [《格兰蒂亚 HD合集》登陆PS/Xbox 经典好评RPG名作](https://www.3dmgame.com/news/202403/3891358.html)
+
++ [回合战略游戏《巴比伦的赏金》现已在Steam平台正式推出](https://www.3dmgame.com/news/202403/3891357.html)
+
++ [粉丝自制《GTA6》真人版预告 沙滩美女好多啊！](https://www.3dmgame.com/news/202403/3891356.html)
+
++ [人气动画剧场版《排球少年！！垃圾场决战》定档预告 6月15日内地上映](https://www.3dmgame.com/news/202403/3891361.html)
+
++ [报道称“寡姐”斯嘉丽·约翰逊将出演新《侏罗纪世界》电影 或担任主角](https://www.3dmgame.com/news/202403/3891360.html)
+
