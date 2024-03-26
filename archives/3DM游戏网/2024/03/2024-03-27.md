@@ -105,3 +105,7 @@
 
 + [《双人成行》销量破1600万 玩家人数超3000万](https://www.3dmgame.com/news/202403/3891411.html)
 
++ [《夜族崛起》上市当天与《恶魔城》开展联动](https://www.3dmgame.com/news/202403/3891414.html)
+
++ [《南方公园：雪假》正式上市发布全新宣传片](https://www.3dmgame.com/news/202403/3891413.html)
+
