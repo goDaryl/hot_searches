@@ -67,3 +67,15 @@
 
 + [Logo for Mexican restaurant](https://dribbble.com/shots/)
 
++ [Klaipeda and Palanga Icons](https://dribbble.com/shots/)
+
++ [Precious Metal](https://dribbble.com/shots/)
+
++ [Protecting Endangered Species](https://dribbble.com/shots/)
+
++ [Lekker](https://dribbble.com/shots/)
+
++ [Silent Computer](https://dribbble.com/shots/)
+
++ [Wild and Funky Beastie Boys Lettering](https://dribbble.com/shots/)
+
