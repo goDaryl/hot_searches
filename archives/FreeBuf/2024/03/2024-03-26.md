@@ -41,3 +41,5 @@
 
 + [漏洞分析 | WordPress Bricks Builder远程代码执行漏洞(CVE-2024-25600)](https://www.freebuf.com/vuls/394832.html)
 
++ [分析发现勒索软件数据泄露主要依靠滥用合法软件](https://www.freebuf.com/articles/network/393874.html)
+
