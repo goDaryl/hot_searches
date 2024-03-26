@@ -217,3 +217,9 @@
 
 + [《俄罗斯方块》生父透露正统续作《Tetris Reversed》 已开发10年](https://www.3dmgame.com/news/202403/3891373.html)
 
++ [连姆·尼森表示不会回归参演《星球大战》：已成历史](https://www.3dmgame.com/news/202403/3891384.html)
+
++ [《星露谷物语》1.6更新全平台发布后 《恐怖巧克力工厂》将恢复开发](https://www.3dmgame.com/news/202403/3891385.html)
+
++ [《青之驱魔师》第四期动画“雪之果篇”预告释出 10月正式播出](https://www.3dmgame.com/news/202403/3891383.html)
+
