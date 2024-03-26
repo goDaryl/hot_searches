@@ -49,3 +49,5 @@
 
 + [用了 30 年的“临时解决方案”：Windows 格式化对话框背后的故事](https://m.ithome.com/html/758005.htm)
 
++ [小米澎湃 HyperOS 系统本周开启行程助手内测](https://m.ithome.com/html/758103.htm)
+
