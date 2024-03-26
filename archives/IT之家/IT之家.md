@@ -59,3 +59,5 @@
 
 + [门店称华为 P70 / Pro 系列手机 4 月初可预订](https://m.ithome.com/html/758141.htm)
 
++ [雷军：小米智能驾驶目标年内进入行业第一阵营，SU7 全系标配高速领航、一键代客泊车](https://m.ithome.com/html/758154.htm)
+
