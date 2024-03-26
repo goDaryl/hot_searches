@@ -65,3 +65,7 @@
 
 + [GitHub遭遇严重供应链“投毒”攻击](https://www.freebuf.com/news/395869.html)
 
++ [网安标委发布《网络安全标准实践指南——网络安全产品互联互通 资产信息格式》](https://www.freebuf.com/articles/396002.html)
+
++ [数据安全、AI安全与移动应用安全 | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/articles/395889.html)
+
