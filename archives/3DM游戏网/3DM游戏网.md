@@ -113,3 +113,7 @@
 
 + [B社称《上古卷轴6》早期版本已可玩 开发者试玩了很喜欢](https://www.3dmgame.com/news/202403/3891329.html)
 
++ [《最终幻想15》前总监：游戏开发者应该尝试用AI创作](https://www.3dmgame.com/news/202403/3891332.html)
+
++ [销量太疲软 第三方厂商开始不想支持Xbox主机](https://www.3dmgame.com/news/202403/3891331.html)
+
