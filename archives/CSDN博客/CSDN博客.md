@@ -101,3 +101,7 @@
 
 + [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/137058024)
 
++ [一文道破将bean注入到Spring中的几种方式](https://blog.csdn.net/qq_53847859/article/details/135157285)
+
++ [Windows系统部署Net2FTP网站结合内网穿透轻松打造可公网访问个人云盘](https://blog.csdn.net/LT15171009269/article/details/137069334)
+
