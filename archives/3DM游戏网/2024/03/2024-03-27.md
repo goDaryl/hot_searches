@@ -275,3 +275,7 @@
 
 + [《CF》《失落方舟》韩国开发商Smilegate关闭巴塞罗那工作室](https://www.3dmgame.com/news/202403/3891497.html)
 
++ [《生化奇兵》之父新作 《Judas》首批细节公开](https://www.3dmgame.com/news/202403/3891498.html)
+
++ [《三体》开播 “收视率”Netflix周排行榜第二](https://www.3dmgame.com/news/202403/3891499.html)
+
