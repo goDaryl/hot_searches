@@ -239,3 +239,11 @@
 
 + [《宝可梦 Go》开发商“正确”更新游戏内人物形象 引玩家不满](https://www.3dmgame.com/news/202403/3891471.html)
 
++ [腾讯发布GiiNEX AI引擎：面向AI NPC以及场景制作等](https://www.3dmgame.com/news/202403/3891480.html)
+
++ [任天堂公布人才策略 自称通过娱乐带给大众快乐的公司](https://www.3dmgame.com/news/202403/3891481.html)
+
++ [漫威6v6第三人称射击《漫威：对决》泄露更多消息](https://www.3dmgame.com/news/202403/3891482.html)
+
++ [《对马岛之魂》Steam国区售价调整 永降16元](https://www.3dmgame.com/news/202403/3891483.html)
+
