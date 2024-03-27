@@ -109,3 +109,19 @@
 
 + [《南方公园：雪假》正式上市发布全新宣传片](https://www.3dmgame.com/news/202403/3891413.html)
 
++ [《暗黑破坏神4》1.3.5版更新上线 添加光追支持](https://www.3dmgame.com/news/202403/3891422.html)
+
++ [《燧石枪：黎明之围》加长版实机预告片公布](https://www.3dmgame.com/news/202403/3891420.html)
+
++ [《暗黑破坏神4》PC XGP版仍需战网客户端才能游戏](https://www.3dmgame.com/news/202403/3891421.html)
+
++ [先行测试 Xbox云游戏将添加键盘鼠标支持](https://www.3dmgame.com/news/202403/3891419.html)
+
++ [漫威游戏官推表示明日会公布一款新作](https://www.3dmgame.com/news/202403/3891418.html)
+
++ [为吸引年轻玩家微软Xbox放弃游戏独占策略](https://www.3dmgame.com/news/202403/3891417.html)
+
++ [Switch《纸片马里奥：千年之门》开场动画进化](https://www.3dmgame.com/news/202403/3891416.html)
+
++ [最强网球游戏《上旋高手2K25》发布游戏性介绍](https://www.3dmgame.com/news/202403/3891415.html)
+

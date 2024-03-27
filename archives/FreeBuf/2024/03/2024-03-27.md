@@ -41,3 +41,5 @@
 
 + [StrelaStealer 恶意软件“浮出水面”，数百个美国和欧盟组织遭殃](https://www.freebuf.com/news/395752.html)
 
++ [云环境中的横向移动技术与场景剖析](https://www.freebuf.com/articles/network/393714.html)
+
