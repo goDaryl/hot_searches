@@ -125,3 +125,15 @@
 
 + [最强网球游戏《上旋高手2K25》发布游戏性介绍](https://www.3dmgame.com/news/202403/3891415.html)
 
++ [调查显示：32%手游消费者计划2024年减少应用内支出](https://www.3dmgame.com/news/202403/3891428.html)
+
++ [动作冒险游戏《蛮之纪》4月4日发售 试玩Demo上线](https://www.3dmgame.com/news/202403/3891426.html)
+
++ [开放世界生存动作RPG《矮人先祖》15分钟实机](https://www.3dmgame.com/news/202403/3891427.html)
+
++ [《博德之门3》总监认为AI能帮助更快开发游戏 但没创造性](https://www.3dmgame.com/news/202403/3891425.html)
+
++ [《木卫四协议》更新 移除了D加密技术](https://www.3dmgame.com/news/202403/3891424.html)
+
++ [斯宾塞认为裁员是Xbox生存的必要条件：因行业增长乏力](https://www.3dmgame.com/news/202403/3891423.html)
+

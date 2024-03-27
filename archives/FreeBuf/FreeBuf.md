@@ -43,3 +43,5 @@
 
 + [云环境中的横向移动技术与场景剖析](https://www.freebuf.com/articles/network/393714.html)
 
++ [FreeBuf 早报 | 超大型养老院因网络攻击申请破产；欧美100多家组织遭恶意软件攻击](https://www.freebuf.com/news/395990.html)
+
