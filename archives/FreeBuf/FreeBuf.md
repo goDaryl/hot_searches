@@ -57,3 +57,5 @@
 
 + [黑客利用 Ray 框架漏洞，入侵服务器，劫持资源](https://www.freebuf.com/articles/396057.html)
 
++ [Gartner 公布 2024 年八大网络安全预测](https://www.freebuf.com/news/396041.html)
+
