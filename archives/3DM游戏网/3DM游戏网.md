@@ -247,3 +247,21 @@
 
 + [《对马岛之魂》Steam国区售价调整 永降16元](https://www.3dmgame.com/news/202403/3891483.html)
 
++ [三星推出更多宝可梦球造型Galaxy Buds耳机盒 售价4879日元](https://www.3dmgame.com/news/202403/3891492.html)
+
++ [“翻车”的美国月球着陆器彻底死亡！只发回一张照片](https://www.3dmgame.com/news/202403/3891490.html)
+
++ [专家：无人驾驶要比人类驾驶的安全性高N倍](https://www.3dmgame.com/news/202403/3891491.html)
+
++ [AI让好莱坞明星乱入《最终幻想》世界 画面太美！](https://www.3dmgame.com/news/202403/3891486.html)
+
++ [苹果申请新专利：设备电池可拆卸！？大概率不便宜](https://www.3dmgame.com/news/202403/3891485.html)
+
++ [网红吃播Cos《地平线：西之绝境》女主埃洛伊 太像了！](https://www.3dmgame.com/news/202403/3891484.html)
+
++ [中科院院士：脑机接口未来有可能让人拥有读心术](https://www.3dmgame.com/news/202403/3891489.html)
+
++ [Xbox“极地行动”手柄国行版4月1日发售 定价499元](https://www.3dmgame.com/news/202403/3891488.html)
+
++ [《女神异闻录３ Reload》全球销量破100万份 荣耀宣传片公开](https://www.3dmgame.com/news/202403/3891487.html)
+
