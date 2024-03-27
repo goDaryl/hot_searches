@@ -105,3 +105,25 @@
 
 + [Windows系统部署Net2FTP网站结合内网穿透轻松打造可公网访问个人云盘](https://blog.csdn.net/LT15171009269/article/details/137069334)
 
++ [探索AI大模型学习的未来之路](https://blog.csdn.net/a1657054242/article/details/137082410)
+
++ [windows wsl2（ubuntu）使用xinference快速部署ai模型](https://blog.csdn.net/m0_61069946/article/details/137048986)
+
++ [自动化与智能化并行：数字化运维体系助力企业腾飞](https://blog.csdn.net/qq_32682301/article/details/137085187)
+
++ [ChatGPT 提示词：2024最新AIGC提示词大全（文末名片获取电子书）](https://blog.csdn.net/qq_44866828/article/details/137043142)
+
++ [推荐好书《RTC程序设计:实时音视频权威指南》文末送5本(3个中奖方式)](https://blog.csdn.net/qq_17623363/article/details/137026868)
+
++ [西安石油大学数学建模校赛培训（2）matlab的使用](https://blog.csdn.net/shaozheng0503/article/details/137026392)
+
++ [PPT互动类动画游戏开发](https://blog.csdn.net/F2420477835/article/details/137022738)
+
++ [深入探索Vue.js组件与插件技术](https://blog.csdn.net/2301_78813969/article/details/137006624)
+
++ [3.学习前后端关联](https://blog.csdn.net/mmm174/article/details/136987466)
+
++ [HTTPS 从懵懵懂懂到认知清晰、从深度理解到落地实操](https://blog.csdn.net/jiaoyaqiang/article/details/137033185)
+
++ [Pycharm服务器配置python解释器并结合内网穿透实现公网远程开发](https://blog.csdn.net/qyj19920704/article/details/137020397)
+
