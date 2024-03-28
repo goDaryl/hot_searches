@@ -109,3 +109,13 @@
 
 + [Epic喜加一：《小岛》免费领取](https://www.3dmgame.com/news/202403/3891597.html)
 
++ [本周末Xbox玩家免费玩《2077》和《刺客信条》](https://www.3dmgame.com/news/202403/3891605.html)
+
++ [使命召唤游戏即将联动《哥斯拉大战金刚2》电影](https://www.3dmgame.com/news/202403/3891604.html)
+
++ [十月开播网飞青春动画《当哒当》发布正式预告](https://www.3dmgame.com/news/202403/3891603.html)
+
++ [《圣剑传说Visions of Mana》公布新试玩演示预告](https://www.3dmgame.com/news/202403/3891602.html)
+
++ [2D版《只狼》新游戏《九日》确定5月29日发售](https://www.3dmgame.com/news/202403/3891601.html)
+
