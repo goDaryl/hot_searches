@@ -275,3 +275,7 @@
 
 + [雷军：现在造车比当年造手机容易很多 对小米SU7有信心](https://www.3dmgame.com/news/202403/3891586.html)
 
++ [英特尔透露Copilot本地运行条件 至少需要40 TOPS算力的NPU](https://www.3dmgame.com/news/202403/3891591.html)
+
++ [《星刃》体验版提前上手视频 战斗、探索、营地一览](https://www.3dmgame.com/news/202403/3891590.html)
+
