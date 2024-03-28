@@ -29,3 +29,5 @@
 
 + [可为未拆封 iPhone 无线更新 iOS 系统，苹果零售店“Presto”手机 OTA 设备外观曝光](https://m.ithome.com/html/758537.htm)
 
++ [小米 SU7 车型可选三款轮毂 + 四种轮胎，Max 款续航至高 810 公里](https://m.ithome.com/html/758526.htm)
+

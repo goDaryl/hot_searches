@@ -117,3 +117,13 @@
 
 + [《堡垒之夜》知名主播Ninja患皮肤癌呼吁关注健康](https://www.3dmgame.com/news/202403/3891509.html)
 
++ [《战地5》将于4月3日实装EA反作弊系统](https://www.3dmgame.com/news/202403/3891516.html)
+
++ [《星刃》战斗视频 女主穿肉色紧身衣性感演示](https://www.3dmgame.com/news/202403/3891515.html)
+
++ [Team Ninja：未来游戏将以《浪人崛起》的开放世界玩法为基石](https://www.3dmgame.com/news/202403/3891514.html)
+
++ [虚幻4《哥特王朝》粉丝重制版演示 测试版本已开放](https://www.3dmgame.com/news/202403/3891513.html)
+
++ [前《龙腾世纪》主创工作室Yellow Brick Game首款游戏曝先导预告](https://www.3dmgame.com/news/202403/3891512.html)
+
