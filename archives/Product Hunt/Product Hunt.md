@@ -107,3 +107,5 @@
 
 + [Dubo](https://www.producthunt.com/posts/dubo)
 
++ [SnapCover](https://www.producthunt.com/posts/snapcover)
+
