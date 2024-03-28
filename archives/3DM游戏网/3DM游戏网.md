@@ -111,3 +111,9 @@
 
 + [整合全球研发能力美国任天堂重组游戏测试业务](https://www.3dmgame.com/news/202403/3891506.html)
 
++ [《星刃》没有照片模式 玩家呼声高的话会考虑加入](https://www.3dmgame.com/news/202403/3891511.html)
+
++ [《火影忍者：终极风暴羁绊》开启全新忍战线玩法](https://www.3dmgame.com/news/202403/3891510.html)
+
++ [《堡垒之夜》知名主播Ninja患皮肤癌呼吁关注健康](https://www.3dmgame.com/news/202403/3891509.html)
+

@@ -41,3 +41,5 @@
 
 + [GitHub遭遇严重供应链“投毒”攻击](https://www.freebuf.com/news/395869.html)
 
++ [2024年AI威胁场景报告：揭示现今最大的AI安全挑战](https://www.freebuf.com/articles/paper/395277.html)
+

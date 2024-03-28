@@ -139,3 +139,7 @@
 
 + [SOCKS5代理、代理IP、HTTP与网络安全的深度解析](https://blog.csdn.net/jxyS5/article/details/137043804)
 
++ [Linux系统使用Docker部署Jupyter Notebook结合内网穿透实现公网访问本地笔记](https://blog.csdn.net/ks_wyf/article/details/137090686)
+
++ [《量子计算：揭开未来科技新篇章》](https://blog.csdn.net/weixin_43497521/article/details/137058742)
+

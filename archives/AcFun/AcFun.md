@@ -65,3 +65,7 @@
 
 + [【红伊】Eyes on me](http://www.acfun.cn/v/ac44157829)
 
++ [竖屏 Shake It](http://www.acfun.cn/v/ac44165038)
+
++ [沈腾：我是亿万富翁我摊牌了 名场面【AI面部跟踪情绪识别】](http://www.acfun.cn/v/ac44163607)
+
