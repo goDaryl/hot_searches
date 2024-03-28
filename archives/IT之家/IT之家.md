@@ -53,3 +53,13 @@
 
 + [蔚小理创始人再聚首，三人共同亮相小米汽车 SU7 发布会](https://m.ithome.com/html/758782.htm)
 
++ [小米汽车 SU7 / Pro / Max 正式发布并上市，售价 21.59 万元-29.99 万元](https://m.ithome.com/html/758799.htm)
+
++ [紫蓝橙灰黑白：雷军官宣小米 SU7 车型六款新增配色，另有四款内饰](https://m.ithome.com/html/758783.htm)
+
++ [小米汽车 SU7 海量配件发布：支持苹果 iPad 上车，拓展物理按键、氛围灯、无线充支架等](https://m.ithome.com/html/758796.htm)
+
++ [小米 SU7 车型拥有 32 个收纳位，自带 1/4 螺纹接口支持手机支架](https://m.ithome.com/html/758785.htm)
+
++ [坦克 700 Hi4-T 换小米 SU7：长城汽车魏建军与雷军互赠新车](https://m.ithome.com/html/758798.htm)
+
