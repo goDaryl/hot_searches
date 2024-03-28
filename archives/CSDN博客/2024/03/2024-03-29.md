@@ -101,3 +101,7 @@
 
 + [YOLOv9改进策略 | 损失函数篇 | 利用真实边界框损失之MPDIoU助力YOLOv9精度更上一层楼](https://blog.csdn.net/java1314777/article/details/137088097)
 
++ [MySQL高阶SQL语句（二）](https://blog.csdn.net/2301_81272194/article/details/137086160)
+
++ [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/2301_79535733/article/details/137060647)
+
