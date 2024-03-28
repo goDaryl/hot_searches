@@ -109,3 +109,15 @@
 
 + [SnapCover](https://www.producthunt.com/posts/snapcover)
 
++ [Tab Wrangler](https://www.producthunt.com/posts/tab-wrangler-2)
+
++ [FunnyPoll](https://www.producthunt.com/posts/funnypoll)
+
++ [Wiser](https://www.producthunt.com/posts/wiser-3)
+
++ [Zshistory](https://www.producthunt.com/posts/zshistory)
+
++ [Breath Confetti](https://www.producthunt.com/posts/breath-confetti)
+
++ [GoatStack.AI](https://www.producthunt.com/posts/goatstack-ai)
+
