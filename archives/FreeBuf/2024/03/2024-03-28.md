@@ -61,3 +61,5 @@
 
 + [记一次Edusrc证书站漏洞挖掘](https://www.freebuf.com/articles/web/395731.html)
 
++ [FB 赠书第 106 期 | 《内网安全攻防：红队之路》 助你成为红队专家](https://www.freebuf.com/news/396244.html)
+
