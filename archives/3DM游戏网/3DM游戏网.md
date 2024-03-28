@@ -267,3 +267,11 @@
 
 + [《百万吨级武藏W：WIRED》今日3月28日(四)PS5/PS4版开始预购](https://www.3dmgame.com/news/202403/3891572.html)
 
++ [《魔法气泡 益智消消乐》 公开游戏宣传片及游戏模式的具体玩法](https://www.3dmgame.com/news/202403/3891588.html)
+
++ [轻松复古风RPG新作《泰拉往事 Terra Memoria》现已登陆PC和主机！](https://www.3dmgame.com/news/202403/3891589.html)
+
++ [“鬼灭之刃”家用机游戏企划第二弹 《鬼灭之刃 争当最强队士！》公开最新游戏画面](https://www.3dmgame.com/news/202403/3891587.html)
+
++ [雷军：现在造车比当年造手机容易很多 对小米SU7有信心](https://www.3dmgame.com/news/202403/3891586.html)
+
