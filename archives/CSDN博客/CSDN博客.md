@@ -155,3 +155,7 @@
 
 + [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/2301_79535733/article/details/137060647)
 
++ [八股 -- C#](https://blog.csdn.net/zaizai1007/article/details/137048813)
+
++ [Redis 搭建哨兵集群](https://blog.csdn.net/2301_78386975/article/details/137064917)
+

@@ -47,3 +47,7 @@
 
 + [libFuzzer漏洞挖掘总结教程](https://www.freebuf.com/articles/system/395965.html)
 
++ [中国银行业协会发布《银行业数据资产估值指南》](https://www.freebuf.com/news/396123.html)
+
++ [企业安全 | 浅谈安全团队建设](https://www.freebuf.com/articles/es/386257.html)
+
