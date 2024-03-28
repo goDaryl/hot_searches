@@ -67,3 +67,5 @@
 
 + [如何使用PMKIDCracker对包含PMKID值的WPA2密码执行安全测试](https://www.freebuf.com/sectool/392523.html)
 
++ [印度国防部被黑客打穿，泄露8.8GB数据](https://www.freebuf.com/news/396179.html)
+
