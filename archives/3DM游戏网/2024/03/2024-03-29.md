@@ -119,3 +119,15 @@
 
 + [2D版《只狼》新游戏《九日》确定5月29日发售](https://www.3dmgame.com/news/202403/3891601.html)
 
++ [《赛博朋克2077》和《往日之影》创造了约7.5亿美元收入](https://www.3dmgame.com/news/202403/3891611.html)
+
++ [《巫师4》仍处于前期制作阶段 400多名员工参与开发](https://www.3dmgame.com/news/202403/3891610.html)
+
++ [《怪物猎人：荒野》发行窗或定于2025年第1季度](https://www.3dmgame.com/news/202403/3891609.html)
+
++ [《蔚蓝》开发者新作《大地之刃》推迟发售](https://www.3dmgame.com/news/202403/3891608.html)
+
++ [《龙珠：超宇宙2》新DLC“未来传奇”公布](https://www.3dmgame.com/news/202403/3891607.html)
+
++ [网传《斯派罗4》自2024年1月进入积极开发阶段](https://www.3dmgame.com/news/202403/3891606.html)
+

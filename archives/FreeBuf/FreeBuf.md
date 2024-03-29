@@ -41,3 +41,5 @@
 
 + [CISA 和 FBI 敦促开发人员“全力消除” SQL 注入漏洞](https://www.freebuf.com/news/396035.html)
 
++ [如何通过针对iOS的动态分析技术绕过反调试机制](https://www.freebuf.com/articles/mobile/393747.html)
+

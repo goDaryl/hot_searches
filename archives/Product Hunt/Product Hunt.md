@@ -121,3 +121,5 @@
 
 + [GoatStack.AI](https://www.producthunt.com/posts/goatstack-ai)
 
++ [Stenote](https://www.producthunt.com/posts/stenote)
+
