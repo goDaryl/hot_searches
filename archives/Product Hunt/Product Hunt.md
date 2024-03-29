@@ -125,3 +125,27 @@
 
 + [Miraa](https://www.producthunt.com/posts/miraa)
 
++ [AiGenda](https://www.producthunt.com/posts/aigenda)
+
++ [Ai Regex](https://www.producthunt.com/posts/ai-regex)
+
++ [Tilda Online Course Builder](https://www.producthunt.com/posts/tilda-online-course-builder)
+
++ [Living Images](https://www.producthunt.com/posts/living-images)
+
++ [SciPhi](https://www.producthunt.com/posts/sciphi)
+
++ [Tres Cosas](https://www.producthunt.com/posts/tres-cosas)
+
++ [MyWeb3Gift](https://www.producthunt.com/posts/myweb3gift)
+
++ [Datawave](https://www.producthunt.com/posts/datawave)
+
++ [FlakyTest.dev](https://www.producthunt.com/posts/flakytest-dev)
+
++ [Anvil Document SDK](https://www.producthunt.com/posts/anvil-document-sdk)
+
++ [TweetAI.com](https://www.producthunt.com/posts/tweetai-com)
+
++ [NewOaks AI](https://www.producthunt.com/posts/newoaks-ai)
+
