@@ -51,3 +51,7 @@
 
 + [字越少事越大：荣耀官网挂出“Hi,honor”倒计时，周日 0 点公布新消息](https://m.ithome.com/html/758879.htm)
 
++ [同行评小米 SU7：长城魏建军大赞“令人尊敬”，蔚来李斌笑称自家乐道难定价](https://m.ithome.com/html/758983.htm)
+
++ [刘强东发布全员信：京东集团企业文化升级](https://m.ithome.com/html/758885.htm)
+
