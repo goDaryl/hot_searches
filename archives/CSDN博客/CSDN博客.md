@@ -101,3 +101,9 @@
 
 + [大模型prompt工程学习（一）](https://blog.csdn.net/m0_62574889/article/details/137079171)
 
++ [（4）(4.3) Kogger Sonar](https://blog.csdn.net/qq_20016593/article/details/137007648)
+
++ [从根本上优雅地解决 VSCode 中的 Python 模块导入问题](https://blog.csdn.net/weixin_45312236/article/details/137077440)
+
++ [强化学习的适应性改进——策略梯度算法求解山地车游戏](https://blog.csdn.net/weixin_60223645/article/details/137076578)
+
