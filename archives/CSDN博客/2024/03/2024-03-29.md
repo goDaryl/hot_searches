@@ -161,3 +161,13 @@
 
 + [YOLOv9改进策略 ：neck优化 | 路径融合GFPN，小目标到大目标一网打尽 | 轻骨干重Neck的轻量级目标检测器GiraffeDet](https://blog.csdn.net/m0_63774211/article/details/137112480)
 
++ [Spark-Scala语言实战（6）](https://blog.csdn.net/qq_49513817/article/details/137121524)
+
++ [【Entity Framework】EF中实体属性](https://blog.csdn.net/songjianlong/article/details/137124695)
+
++ [【WebJs 爬虫】逆向进阶技术必知必会](https://blog.csdn.net/m0_63947499/article/details/136911121)
+
++ [用 SpringBoot+Redis 解决海量重复提交问题](https://blog.csdn.net/qq_30895747/article/details/137127979)
+
++ [论文《Exploring to Prompt for Vision-Language Models》阅读](https://blog.csdn.net/xingzhe123456789000/article/details/137114257)
+
