@@ -59,3 +59,5 @@
 
 + [为阻止恶意软件活动蔓延，PyPI 暂停新用户注册](https://www.freebuf.com/news/396434.html)
 
++ [大模型如何赋能企业安全；重要文件的保护措施有哪些 | FB甲方群话题讨论](https://www.freebuf.com/articles/396293.html)
+
