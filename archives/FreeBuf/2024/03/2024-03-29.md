@@ -43,3 +43,5 @@
 
 + [如何通过针对iOS的动态分析技术绕过反调试机制](https://www.freebuf.com/articles/mobile/393747.html)
 
++ [FreeBuf 早报 | 印度国防、能源部门遭遇攻击；越南头部券商被黑导致服务中断](https://www.freebuf.com/news/396170.html)
+

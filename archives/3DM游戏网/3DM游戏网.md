@@ -131,3 +131,15 @@
 
 + [网传《斯派罗4》自2024年1月进入积极开发阶段](https://www.3dmgame.com/news/202403/3891606.html)
 
++ [《东方弹幕塔防》Steam页面 支持简体中文](https://www.3dmgame.com/news/202403/3891617.html)
+
++ [《铁血战士：狩猎场》将登陆PS5和Xbox Series X|S](https://www.3dmgame.com/news/202403/3891616.html)
+
++ [吉田直树：《最终幻想16》需要高配置PC机 才能流畅运行](https://www.3dmgame.com/news/202403/3891615.html)
+
++ [《哥斯拉大战金刚2：新帝国》今日上映 IGN给6分](https://www.3dmgame.com/news/202403/3891614.html)
+
++ [卡普空正在征求玩家对《龙之信条2》DLC的意见](https://www.3dmgame.com/news/202403/3891613.html)
+
++ [CDPR考虑将赛博朋克或巫师IP授权给第三方做手游](https://www.3dmgame.com/news/202403/3891612.html)
+
