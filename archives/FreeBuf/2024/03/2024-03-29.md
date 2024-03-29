@@ -51,3 +51,5 @@
 
 + [LockBit引领勒索软件进入下个时代](https://www.freebuf.com/articles/396374.html)
 
++ [Windows离地攻击分析](https://www.freebuf.com/articles/system/395445.html)
+

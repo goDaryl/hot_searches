@@ -203,3 +203,11 @@
 
 + [CD Projekt 2023年创下工作室史上第二高财务成绩](https://www.3dmgame.com/news/202403/3891638.html)
 
++ [鸟山明生前为《龙珠超》创作的最后场景是短笛的挥手告别](https://www.3dmgame.com/news/202403/3891650.html)
+
++ [《饿殍：明末千里行》发售日公布 4月11日上线](https://www.3dmgame.com/news/202403/3891651.html)
+
++ [买到就赚到 雷军：小米SU7原计划卖22.9-35万 我们血亏](https://www.3dmgame.com/news/202403/3891649.html)
+
++ [斯宾塞解释行业裁员潮：作为负责人不能不在乎盈利](https://www.3dmgame.com/news/202403/3891648.html)
+

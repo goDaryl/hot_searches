@@ -151,3 +151,13 @@
 
 + [大模型prompt工程学习（一）](https://blog.csdn.net/m0_62574889/article/details/137079171)
 
++ [C/C++语言学习路线: 嵌入式开发、底层软件、操作系统方向（持续更新）](https://blog.csdn.net/qq_33904382/article/details/136890369)
+
++ [《亮数据：爬虫数据采集行业痛点的利器》](https://blog.csdn.net/shi_hong_fei_hei/article/details/137111947)
+
++ [基于SVM的PLOSAR图像分类](https://blog.csdn.net/qq_46009046/article/details/136989142)
+
++ [云电脑火爆出圈，如何选择和使用？--腾讯云、ToDesk云电脑、青椒云使用评测和攻略](https://blog.csdn.net/weixin_51390582/article/details/136991518)
+
++ [YOLOv9改进策略 ：neck优化 | 路径融合GFPN，小目标到大目标一网打尽 | 轻骨干重Neck的轻量级目标检测器GiraffeDet](https://blog.csdn.net/m0_63774211/article/details/137112480)
+
