@@ -149,3 +149,11 @@
 
 + [NewOaks AI](https://www.producthunt.com/posts/newoaks-ai)
 
++ [EduLLM](https://www.producthunt.com/posts/edullm)
+
++ [TryHairstyles.io](https://www.producthunt.com/posts/tryhairstyles-io)
+
++ [NymphLens](https://www.producthunt.com/posts/nymphlens)
+
++ [TopTool](https://www.producthunt.com/posts/toptool)
+
