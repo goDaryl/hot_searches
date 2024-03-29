@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 印度国防、能源部门遭遇攻击；越南头部券商被黑导致服务中断](https://www.freebuf.com/news/396170.html)
 
++ [经验分享 | 如何从蓝初小白到蓝中猴子（一）](https://www.freebuf.com/articles/web/370800.html)
+
