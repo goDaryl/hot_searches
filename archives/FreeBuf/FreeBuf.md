@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | Gartner公布2024年网络安全预测；《银行业数据资产估值指南》发布](https://www.freebuf.com/news/396351.html)
 
++ [关于Modbus协议攻防与检测](https://www.freebuf.com/articles/ics-articles/396458.html)
+
