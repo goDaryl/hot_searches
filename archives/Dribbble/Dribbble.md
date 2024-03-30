@@ -49,3 +49,19 @@
 
 + [one ???? nights ☀️](https://dribbble.com/shots/)
 
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [Jesus Collage - book cover design](https://dribbble.com/shots/)
+
++ [Face](https://dribbble.com/shots/)
+
++ [Delve into the world of illustration](https://dribbble.com/shots/)
+
++ [Klaipeda and Palanga Icons](https://dribbble.com/shots/)
+
++ [Vegan Treats Pattern](https://dribbble.com/shots/)
+
++ [Raising Hell](https://dribbble.com/shots/)
+
++ [Fundex - UX/UI dashboard design of the crypto loan startup](https://dribbble.com/shots/)
+
