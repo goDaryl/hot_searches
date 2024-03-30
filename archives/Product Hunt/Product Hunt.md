@@ -105,3 +105,33 @@
 
 + [HUSSLUP](https://www.producthunt.com/posts/husslup)
 
++ [Yahoo for Creators](https://www.producthunt.com/posts/yahoo-for-creators)
+
++ [100+ AI Side-Hustle Ideas](https://www.producthunt.com/posts/100-ai-side-hustle-ideas)
+
++ [Notes keeper - speech to text](https://www.producthunt.com/posts/notes-keeper-speech-to-text)
+
++ [Hody](https://www.producthunt.com/posts/hody)
+
++ [IronIQ](https://www.producthunt.com/posts/ironiq-2)
+
++ [Zaap 2.0](https://www.producthunt.com/posts/zaap-2-0)
+
++ [TinyTable - Tabletop Gameroom](https://www.producthunt.com/posts/tinytable-tabletop-gameroom)
+
++ [DrOnCall](https://www.producthunt.com/posts/droncall)
+
++ [Virabble](https://www.producthunt.com/posts/virabble)
+
++ [IYO AI](https://www.producthunt.com/posts/iyo-ai)
+
++ [Intelswift](https://www.producthunt.com/posts/intelswift)
+
++ [Arbor](https://www.producthunt.com/posts/arbor-4)
+
++ [Mojo rizz - Dating App Assistant](https://www.producthunt.com/posts/mojo-rizz-dating-app-assistant)
+
++ [waitforit](https://www.producthunt.com/posts/waitforit)
+
++ [YOMO](https://www.producthunt.com/posts/yomo-3)
+
