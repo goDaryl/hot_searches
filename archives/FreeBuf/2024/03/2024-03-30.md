@@ -43,3 +43,5 @@
 
 + [大量用户中招，远控木马已经潜伏各类在线会议平台](https://www.freebuf.com/articles/network/393877.html)
 
++ [FreeBuf 周报 | Gartner公布2024年网络安全预测；《银行业数据资产估值指南》发布](https://www.freebuf.com/news/396351.html)
+

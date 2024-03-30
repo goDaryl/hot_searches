@@ -31,3 +31,7 @@
 
 + [2024 款阿维塔 12 上市：26.58 万-37.88 万元，新增晖金车色](https://m.ithome.com/html/759038.htm)
 
++ [禾赛科技“认领”小米 SU7 激光雷达：128 线超高清，Pro / Max 车型搭载](https://m.ithome.com/html/759032.htm)
+
++ [罗永浩评价小米汽车 SU7：很可能重新上演良币驱逐劣币一幕](https://m.ithome.com/html/759063.htm)
+
