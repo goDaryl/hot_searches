@@ -35,3 +35,5 @@
 
 + [罗永浩评价小米汽车 SU7：很可能重新上演良币驱逐劣币一幕](https://m.ithome.com/html/759063.htm)
 
++ [字越少事越大：荣耀官网挂出“Hi, honor”倒计时，周日 0 点公布新消息](https://m.ithome.com/html/758879.htm)
+
