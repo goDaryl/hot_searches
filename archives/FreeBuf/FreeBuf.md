@@ -41,3 +41,5 @@
 
 + [如何使用PMKIDCracker对包含PMKID值的WPA2密码执行安全测试](https://www.freebuf.com/sectool/392523.html)
 
++ [软件安全评估之软件漏洞基础](https://www.freebuf.com/vuls/395279.html)
+
