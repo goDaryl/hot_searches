@@ -43,3 +43,5 @@
 
 + [软件安全评估之软件漏洞基础](https://www.freebuf.com/vuls/395279.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/396518.html)
+

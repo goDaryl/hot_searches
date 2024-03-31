@@ -101,3 +101,9 @@
 
 + [成绩不佳 LGD DOTA2战队将进行阵容调整](https://www.3dmgame.com/news/202403/3891686.html)
 
++ [《绝地潜兵2》击败《龙之信条2》重返Steam销量榜榜首](https://www.3dmgame.com/news/202403/3891738.html)
+
++ [《潜行者》和《胜利之日》RTX Remix效果图欣赏](https://www.3dmgame.com/news/202403/3891737.html)
+
++ [《八番站台》Steam页面上线 《八番出口》正统续作](https://www.3dmgame.com/news/202403/3891736.html)
+
