@@ -169,3 +169,5 @@
 
 + [《巫师3》任务为何如此出众？CDPR：90%的提议都被拒绝了](https://www.3dmgame.com/news/202403/3891767.html)
 
++ [《V世代》男演员钱斯·佩尔多莫因车祸去世 年仅27岁](https://www.3dmgame.com/news/202403/3891770.html)
+
