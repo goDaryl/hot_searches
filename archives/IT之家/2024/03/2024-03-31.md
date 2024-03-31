@@ -45,3 +45,5 @@
 
 + [iQOO 12 系列手机更新支持全高频调光、Wi-Fi 7、通信共享，即将升级 5.5G](https://m.ithome.com/html/759169.htm)
 
++ [33 万元：长城汽车坦克 330 开启交付，搭载 3.0T 双涡轮增压发动机](https://m.ithome.com/html/759184.htm)
+

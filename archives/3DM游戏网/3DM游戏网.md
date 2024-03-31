@@ -153,3 +153,5 @@
 
 + [22年之后，有人开始想试试任天堂GameCube联网功能](https://www.3dmgame.com/news/202403/3891759.html)
 
++ [玩梗玩出花：“艾伦·韦克”向《绝地潜兵2》工作室致信](https://www.3dmgame.com/news/202403/3891762.html)
+
