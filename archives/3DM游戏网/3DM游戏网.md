@@ -163,3 +163,9 @@
 
 + [英特尔Arc显卡发布驱动更新 修复《星空》等问题](https://www.3dmgame.com/news/202403/3891766.html)
 
++ [无冕之王终登王座：《荒野大镖客2》获BAFTA最佳游戏续作](https://www.3dmgame.com/news/202403/3891769.html)
+
++ [凯迪拉克发“椰树椰汁”风格海报 暗讽小米SU7像保时捷](https://www.3dmgame.com/news/202403/3891768.html)
+
++ [《巫师3》任务为何如此出众？CDPR：90%的提议都被拒绝了](https://www.3dmgame.com/news/202403/3891767.html)
+
