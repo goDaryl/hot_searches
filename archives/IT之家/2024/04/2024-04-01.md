@@ -25,3 +25,7 @@
 
 + [小米汽车副总裁李肖爽：炒作“陈震删雷军合影”实在匪夷所思，近期有人挑弄是非](https://m.ithome.com/html/759262.htm)
 
++ [飞书「裁员广进」](https://m.ithome.com/html/759220.htm)
+
++ [极氪再发战报：全新 001 车型 3 月 30 日新增大定破 2000 台](https://m.ithome.com/html/759202.htm)
+

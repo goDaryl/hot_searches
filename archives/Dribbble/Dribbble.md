@@ -49,3 +49,23 @@
 
 + [Shore House](https://dribbble.com/shots/)
 
++ [Pineapple upside down cake! ????????](https://dribbble.com/shots/)
+
++ [Dragons](https://dribbble.com/shots/)
+
++ [Billy's Hamburger Sticker](https://dribbble.com/shots/)
+
++ [Dune Shift Secondary Logo](https://dribbble.com/shots/)
+
++ [Summer Moon Coffee - Merchandise](https://dribbble.com/shots/)
+
++ [G.K. Chesterton](https://dribbble.com/shots/)
+
++ [Easter Vibes](https://dribbble.com/shots/)
+
++ [Sticker Designs](https://dribbble.com/shots/)
+
++ [Forgive yourself](https://dribbble.com/shots/)
+
++ [Skateboarding Spot Illustrations](https://dribbble.com/shots/)
+
