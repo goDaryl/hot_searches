@@ -127,3 +127,7 @@
 
 + [《甘霖娘女巫》登陆Steam 奇葩恐怖驱魔新游](https://www.3dmgame.com/news/202403/3891743.html)
 
++ [《模拟人生5》游戏地图和安卓版实机视频泄露](https://www.3dmgame.com/news/202403/3891749.html)
+
++ [《POOLS》4月登陆Steam 后室主题恐怖探索](https://www.3dmgame.com/news/202403/3891750.html)
+
