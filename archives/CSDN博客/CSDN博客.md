@@ -129,3 +129,17 @@
 
 + [【Entity Framework】EF中DbSet类详解](https://blog.csdn.net/songjianlong/article/details/137180061)
 
++ [【Rust】——编写自动化测试（一）](https://blog.csdn.net/shsjssnn/article/details/136488891)
+
++ [【python】深入探讨flask是如何预防CSRF攻击的](https://blog.csdn.net/littlefun591/article/details/137146956)
+
++ [【全栈小5】我的创作纪念日](https://blog.csdn.net/lmy_520/article/details/137080489)
+
++ [文献学习-23-MRM：用于遗传学医学图像预训练的掩码关系建模](https://blog.csdn.net/Metaphysicist/article/details/137186461)
+
++ [前端工程师————HTML5学习](https://blog.csdn.net/m0_74421072/article/details/137177064)
+
++ [Vue——高德地图](https://blog.csdn.net/weixin_43551242/article/details/137136787)
+
++ [物联网学习1、什么是 MQTT？](https://blog.csdn.net/qq_28643437/article/details/137163352)
+
