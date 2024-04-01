@@ -199,3 +199,5 @@
 
 + [国产自主14nm工艺！中国企业的AI芯片比GPU便宜90%](https://www.3dmgame.com/news/202404/3891823.html)
 
++ [宏碁掠夺者刀锋Neo全能本上架 本月8日首发](https://www.3dmgame.com/news/202404/3891824.html)
+
