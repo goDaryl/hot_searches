@@ -31,3 +31,7 @@
 
 + [凯迪拉克海报暗讽小米 SU7？新车傲歌广告喊话“对不起雷神”](https://m.ithome.com/html/759238.htm)
 
++ [消息称小米汽车 SU7 锁单量截至 3 月 30 日下午达 2 万个](https://m.ithome.com/html/759284.htm)
+
++ [小米汽车回应 SU7 创始版再次开售相关问题：后续不再有新轮次定购](https://m.ithome.com/html/759280.htm)
+

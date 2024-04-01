@@ -41,3 +41,5 @@
 
 + [经验分享 | 如何从蓝初小白到蓝中猴子（一）](https://www.freebuf.com/articles/web/370800.html)
 
++ [技术详解 | 黑客如何通过PDF文件分发恶意软件](https://www.freebuf.com/articles/network/394052.html)
+
