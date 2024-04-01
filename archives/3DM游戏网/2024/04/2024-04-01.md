@@ -141,3 +141,11 @@
 
 + [《星刃》体验版玩家反馈极其良好 100%推荐首发](https://www.3dmgame.com/news/202404/3891789.html)
 
++ [Epic愚人节整活宣布正式收购Steam 小黄油全部免费](https://www.3dmgame.com/news/202404/3891797.html)
+
++ [原田胜宏希望《铁拳9》登陆下世代主机 也包括任天堂系](https://www.3dmgame.com/news/202404/3891796.html)
+
++ [《星刃》女主马尾辫设计难做 团队花费一年时间](https://www.3dmgame.com/news/202404/3891795.html)
+
++ [愚人节：《妮姬：胜利女神》宣布续作《DEAD SPICY》](https://www.3dmgame.com/news/202404/3891794.html)
+
