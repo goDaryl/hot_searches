@@ -121,3 +121,11 @@
 
 + [【系统架构师】-第18章-安全架构设计](https://blog.csdn.net/xcg340123/article/details/137185003)
 
++ [【FFmpeg】ffmpeg 命令行参数 ⑧ ( 使用 ffmpeg 转换封装格式 | 音视频编解码器参数设置 | 视频 帧率 / 码率 / 分辨率 设置 | 音频 码率 / 采样率 设置 )](https://blog.csdn.net/han1202012/article/details/137217723)
+
++ [将 Elasticsearch 向量数据库引入到数据上的 Azure OpenAI 服务（预览）](https://blog.csdn.net/UbuntuTouch/article/details/137221094)
+
++ [好书推荐 《AIGC重塑金融》](https://blog.csdn.net/qyj19920704/article/details/137232195)
+
++ [云原生技术赋能AI绘图：Stable Diffusion在腾讯云的部署与应用新篇章](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/137056979)
+
