@@ -49,3 +49,9 @@
 
 + [《大语言模型（LLM）攻防实战手册》第一章：提示词注入（LLM01）-概述](https://www.freebuf.com/articles/database/396596.html)
 
++ [DinodasRAT 恶意软件针对多国政府发起攻击](https://www.freebuf.com/news/396583.html)
+
++ [俄罗斯称利用WinRAR 漏洞的攻击活动与乌克兰有关](https://www.freebuf.com/news/396604.html)
+
++ [关于Cuckoo Filter的动态网络流量分析与安全防护方案](https://www.freebuf.com/articles/security-management/395018.html)
+

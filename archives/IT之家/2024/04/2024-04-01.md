@@ -41,3 +41,9 @@
 
 + [极氪 007 后驱增强版上市：配置提升，售价 20.99 万元](https://m.ithome.com/html/759322.htm)
 
++ [（更新：高管称数字是错的）消息称小米汽车 SU7 锁单量截至 3 月 30 日下午达 2 万个](https://m.ithome.com/html/759284.htm)
+
++ [小米集团高管回应小米汽车 SU7 两万锁单量：数字是错的](https://m.ithome.com/html/759352.htm)
+
++ [科技昨夜今晨 0401：华为余承东宣布智界 S7 开启大规模交付；荣耀官网更换新域名；小米汽车 App 登顶苹果 App Store 免费榜](https://m.ithome.com/html/759297.htm)
+
