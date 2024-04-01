@@ -55,3 +55,7 @@
 
 + [关于Cuckoo Filter的动态网络流量分析与安全防护方案](https://www.freebuf.com/articles/security-management/395018.html)
 
++ [等保能力验证2022—MySQL数据库](https://www.freebuf.com/articles/system/379875.html)
+
++ [PurpleKeep：提供Azure管道以创建基础设施并执行Atomic测试](https://www.freebuf.com/sectool/392541.html)
+
