@@ -195,3 +195,7 @@
 
 + [不是愚人节玩笑 《燕云十六声》本月内宣布公测时间](https://www.3dmgame.com/news/202404/3891819.html)
 
++ [21.59万起售价贵吗？雷军：小米SU7我们卖一台亏一台](https://www.3dmgame.com/news/202404/3891822.html)
+
++ [国产自主14nm工艺！中国企业的AI芯片比GPU便宜90%](https://www.3dmgame.com/news/202404/3891823.html)
+
