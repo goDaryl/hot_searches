@@ -149,3 +149,17 @@
 
 + [愚人节：《妮姬：胜利女神》宣布续作《DEAD SPICY》](https://www.3dmgame.com/news/202404/3891794.html)
 
++ [消息称iOS 17.5即将登场 侧载功能将再次升级](https://www.3dmgame.com/news/202404/3891803.html)
+
++ [传闻：2K将于本周宣布FIFA新作《FIFA 2KFC》](https://www.3dmgame.com/news/202404/3891804.html)
+
++ [在远方种出属于你的一片天地！治愈探索游戏《远花》现已发售！](https://www.3dmgame.com/news/202404/3891802.html)
+
++ [Steam多人合作新游《奇妙大作战》火热发售！是兄弟就来砍杀吧！](https://www.3dmgame.com/news/202404/3891801.html)
+
++ [超20万人投票 《塞尔达传说：时之笛》被评为有史以来最伟大的游戏](https://www.3dmgame.com/news/202404/3891799.html)
+
++ [消息称普京同意俄罗斯开发独有游戏机以及类Steam平台](https://www.3dmgame.com/news/202404/3891800.html)
+
++ [《尘白禁区》手游官方公告：所有男性角色都将删去](https://www.3dmgame.com/news/202404/3891798.html)
+
