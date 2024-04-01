@@ -187,3 +187,11 @@
 
 + [网易诚招大学生入局游戏制作 100+offer！Y3高校挑战赛开启](https://www.3dmgame.com/news/202404/3891815.html)
 
++ [已创造超40万个岗位！苹果生态链成印度就业主要推动力](https://www.3dmgame.com/news/202404/3891820.html)
+
++ [《幸存国度》4月15日Steam抢测 开放世界僵尸生存](https://www.3dmgame.com/news/202404/3891821.html)
+
++ [《星刃》性感体模新照欣赏 靓丽动人身材极佳](https://www.3dmgame.com/news/202404/3891818.html)
+
++ [不是愚人节玩笑 《燕云十六声》本月内宣布公测时间](https://www.3dmgame.com/news/202404/3891819.html)
+
