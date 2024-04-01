@@ -49,3 +49,19 @@
 
 + [Jesus Collage - book cover design](https://dribbble.com/shots/)
 
++ [Vegan Treats Pattern](https://dribbble.com/shots/)
+
++ [Rainy days & Mondays ☔️](https://dribbble.com/shots/)
+
++ [Scarlet Mosque](https://dribbble.com/shots/)
+
++ [Foxtrot: Deliver Illustrations](https://dribbble.com/shots/)
+
++ [FORGE](https://dribbble.com/shots/)
+
++ [Beauty](https://dribbble.com/shots/)
+
++ [System Illustration](https://dribbble.com/shots/)
+
++ [one ???? nights ☀️](https://dribbble.com/shots/)
+
