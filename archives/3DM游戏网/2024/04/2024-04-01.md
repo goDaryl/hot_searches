@@ -163,3 +163,7 @@
 
 + [《尘白禁区》手游官方公告：所有男性角色都将删去](https://www.3dmgame.com/news/202404/3891798.html)
 
++ [苹果在中国的黄金时代结束了 iPhone吸引力大跌](https://www.3dmgame.com/news/202404/3891806.html)
+
++ [世嘉宣布成立新Fave事业部 整合吸收街机娱乐业](https://www.3dmgame.com/news/202404/3891805.html)
+
