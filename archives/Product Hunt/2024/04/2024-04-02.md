@@ -151,3 +151,5 @@
 
 + [Email Deliverability Booster](https://www.producthunt.com/posts/email-deliverability-booster)
 
++ [FLOW Speak Learning Pathways](https://www.producthunt.com/posts/flow-speak-learning-pathways)
+

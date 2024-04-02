@@ -233,3 +233,13 @@
 
 + [SE任命新执行董事 《尼尔》《最终幻想》制作人晋升](https://www.3dmgame.com/news/202404/3891893.html)
 
++ [Steam一周销量榜 《绝地潜兵2》重回榜首](https://www.3dmgame.com/news/202404/3891903.html)
+
++ [著名天文学家警告马斯克 移民火星计划很危险](https://www.3dmgame.com/news/202404/3891904.html)
+
++ [主创河津秋敏谈《沙加开拓者2》重制：等待会值得](https://www.3dmgame.com/news/202404/3891902.html)
+
++ [《守望先锋2》新超级平衡调整限时上线 愚人节特别混沌玩法](https://www.3dmgame.com/news/202404/3891901.html)
+
++ [《龙之信条2》销量已超250万 系列总销量破千万](https://www.3dmgame.com/news/202404/3891900.html)
+
