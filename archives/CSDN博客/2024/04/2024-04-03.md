@@ -127,3 +127,7 @@
 
 + [sql注入详解](https://blog.csdn.net/sjt2323302003/article/details/137243099)
 
++ [探索设计模式的魅力：AI大模型如何赋能C/S模式，开创服务新纪元](https://blog.csdn.net/danci_/article/details/137255195)
+
++ [【热门话题】WebKit架构简介](https://blog.csdn.net/qq_44214428/article/details/137299119)
+
