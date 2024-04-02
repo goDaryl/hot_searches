@@ -249,3 +249,15 @@
 
 + [日式便利店模拟游戏《inKONBINI》先行预告 明年发售](https://www.3dmgame.com/news/202404/3891907.html)
 
++ [恋爱冒险作《制服女友》已于4月2日在STEAM发售](https://www.3dmgame.com/news/202404/3891913.html)
+
++ [小米3年心血之作！雷军恳请各位吐槽SU7口下留情](https://www.3dmgame.com/news/202404/3891912.html)
+
++ [知名投行高盛：AI将威胁三分之二的工作岗位](https://www.3dmgame.com/news/202404/3891911.html)
+
++ [无法触碰的掌心手游版下架 Switch版不受影响](https://www.3dmgame.com/news/202404/3891909.html)
+
++ [华为已撤回遥遥领先商标申请：雷军都忍不住要用](https://www.3dmgame.com/news/202404/3891908.html)
+
++ [《CARS》登陆Steam 奇葩玩法开车游戏](https://www.3dmgame.com/news/202404/3891910.html)
+

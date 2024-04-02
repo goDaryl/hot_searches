@@ -161,3 +161,5 @@
 
 + [大创项目推荐 深度学习 python opencv 动物识别与检测](https://blog.csdn.net/laafeer/article/details/137238130)
 
++ [扫地机器人（蓝桥杯）](https://blog.csdn.net/m0_73841621/article/details/137251423)
+
