@@ -127,3 +127,19 @@
 
 + [《巫师4》将采用全新设计带来全新游戏体验](https://www.3dmgame.com/news/202404/3891838.html)
 
++ [招聘信息显示：BioWare可能在开发一个未公布的新项目](https://www.3dmgame.com/news/202404/3891854.html)
+
++ [射击冒险《DUCKSIDE》全新预告 开启测试申请](https://www.3dmgame.com/news/202404/3891852.html)
+
++ [老头环无缝联机作者推出《装甲核心6》联机Mod](https://www.3dmgame.com/news/202404/3891853.html)
+
++ [《绿色芳香》Steam页面上线 和风餐厅经营模拟](https://www.3dmgame.com/news/202404/3891851.html)
+
++ [奥日老板解释ARPG新作《恶意不息》定价为何不是70美元](https://www.3dmgame.com/news/202404/3891849.html)
+
++ [欧盟为2024年创意欧洲游戏扶持项目拨款750万欧元](https://www.3dmgame.com/news/202404/3891850.html)
+
++ [《赛博朋克2077》现在只有17名开发者 CDPR表示足够了](https://www.3dmgame.com/news/202404/3891848.html)
+
++ [卡魔拉演员：《银河护卫队》没有终结 否则将是漫威的一大损失](https://www.3dmgame.com/news/202404/3891847.html)
+
