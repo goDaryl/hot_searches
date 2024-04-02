@@ -143,3 +143,11 @@
 
 + [卡魔拉演员：《银河护卫队》没有终结 否则将是漫威的一大损失](https://www.3dmgame.com/news/202404/3891847.html)
 
++ [回合制策略游戏《SGS Overlord》Steam页面 6月6日发行](https://www.3dmgame.com/news/202404/3891855.html)
+
++ [类《致命公司》 《内容警告》Steam限时免费入库！仅到凌晨](https://www.3dmgame.com/news/202404/3891856.html)
+
++ [JOJO衍生 《岸边露伴一动不动》新剧《密渔海岸》5月开播](https://www.3dmgame.com/news/202404/3891857.html)
+
++ [格斗游戏《碧蓝幻想Versus：Rising》Steam国区售价永降 降幅超百元](https://www.3dmgame.com/news/202404/3891858.html)
+

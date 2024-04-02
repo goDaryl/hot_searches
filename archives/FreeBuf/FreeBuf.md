@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 攻击者利用选举窃取俄罗斯人个人信息；黑客针对 macOS 用户投放恶意广告](https://www.freebuf.com/news/396653.html)
 
++ [渗透测试 | EDR绕过远程线程扫描指南](https://www.freebuf.com/articles/network/395859.html)
+
