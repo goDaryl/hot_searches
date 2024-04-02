@@ -165,3 +165,37 @@
 
 + [一群Mod制作者正在开发《GTA5》NS和安卓移植版](https://www.3dmgame.com/news/202404/3891859.html)
 
++ [《剑与魔法与学园》周年纪念版4月26日登陆多平台](https://www.3dmgame.com/news/202404/3891880.html)
+
++ [《数码宝贝02最初的召唤》新预告及海报 4月20日上映](https://www.3dmgame.com/news/202404/3891882.html)
+
++ [《纳斯卡赛车》开发商剩余资金紧缺 系列未来成谜](https://www.3dmgame.com/news/202404/3891881.html)
+
++ [Steam Deck三月最热游戏榜 《星露谷物语》登顶](https://www.3dmgame.com/news/202404/3891879.html)
+
++ [《圣兽之王》全球销量突破50万份！公开荣誉宣传片以表庆贺](https://www.3dmgame.com/news/202404/3891878.html)
+
++ [日本玩家批评《浪人崛起》西方媒体打分太低 不了解当时的历史和文化](https://www.3dmgame.com/news/202404/3891877.html)
+
++ [华为申请飞行机器人专利 低空经济正高速发展](https://www.3dmgame.com/news/202404/3891876.html)
+
++ [《冲就完事模拟器》愚人节整活 宣布“污垢模式”](https://www.3dmgame.com/news/202404/3891875.html)
+
++ [蛮啾开放世界二游《蓝色星原：旅谣》PS5实机演示](https://www.3dmgame.com/news/202404/3891874.html)
+
++ [国风模拟经营游戏《天神镇》4月5日免费上线全新DLC“羽人国”](https://www.3dmgame.com/news/202404/3891873.html)
+
++ [阿里云全面推行AI写代码 未来20%代码由通义灵码编写](https://www.3dmgame.com/news/202404/3891872.html)
+
++ [徐昌隆畅谈《古龙风云录》并分享新作概念图 期待吗？](https://www.3dmgame.com/news/202404/3891870.html)
+
++ [马斯克调侃加入迪士尼 让其电影和电视剧更加政治正确](https://www.3dmgame.com/news/202404/3891869.html)
+
++ [《PO’ed：终极版》Steam页面上线 经典FPS重制](https://www.3dmgame.com/news/202404/3891867.html)
+
++ [《机动战士高达SEED FREEDOM》电影新剧照 恋人的眼泪](https://www.3dmgame.com/news/202404/3891866.html)
+
++ [《最后的生还者》10周年纪念典藏黑胶原声集开启预购](https://www.3dmgame.com/news/202404/3891871.html)
+
++ [知名漫画《忍者杀手》宣布游戏化 2024年夏季发售](https://www.3dmgame.com/news/202404/3891868.html)
+

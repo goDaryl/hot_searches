@@ -51,3 +51,7 @@
 
 + [FreeBuf 早报 | 攻击者利用选举窃取俄罗斯人信息；黑客针对macOS用户投放恶意广告](https://www.freebuf.com/news/396653.html)
 
++ [Vultur 安卓银行木马“卷土重来”，新增远程控制功能](https://www.freebuf.com/news/396732.html)
+
++ [智能冰箱变身加密货币矿工，导致全球厨房崩溃](https://www.freebuf.com/news/396741.html)
+

@@ -41,3 +41,5 @@
 
 + [比亚迪全新腾势 N7 上市：全系标配高快 / 城市领航，23.98 万-32.98 万元](https://m.ithome.com/html/759501.htm)
 
++ [金山办公 WPS AI 开始收费：原版超级会员无 AI 权益，需升级“大会员”](https://m.ithome.com/html/759354.htm)
+
