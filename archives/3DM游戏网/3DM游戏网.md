@@ -109,3 +109,21 @@
 
 + [SEGA招募《如龙》新作演员确定不是《极3》](https://www.3dmgame.com/news/202404/3891835.html)
 
++ [《风暴之城》Steam版销量超过100万套 1.3更新和付费DLC开发中](https://www.3dmgame.com/news/202404/3891846.html)
+
++ [《幻兽帕鲁》Steam玩家数量减少97% 游戏缺乏新内容](https://www.3dmgame.com/news/202404/3891845.html)
+
++ [育碧再裁员45人 发行部和亚太地区员工受影响](https://www.3dmgame.com/news/202404/3891844.html)
+
++ [根据分析《完美音浪》PS5版略好于XSX版](https://www.3dmgame.com/news/202404/3891843.html)
+
++ [索尼总裁十时裕树将担任Playstation临时CEO](https://www.3dmgame.com/news/202404/3891842.html)
+
++ [95年老游戏《PO’ed》公布复刻版信息](https://www.3dmgame.com/news/202404/3891841.html)
+
++ [《空洞骑士：丝绸之歌》 Xbox商店页面已上线](https://www.3dmgame.com/news/202404/3891840.html)
+
++ [Capcom官方民调显示玩家们需要恐龙危机新作](https://www.3dmgame.com/news/202404/3891839.html)
+
++ [《巫师4》将采用全新设计带来全新游戏体验](https://www.3dmgame.com/news/202404/3891838.html)
+
