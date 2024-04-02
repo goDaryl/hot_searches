@@ -261,3 +261,5 @@
 
 + [《CARS》登陆Steam 奇葩玩法开车游戏](https://www.3dmgame.com/news/202404/3891910.html)
 
++ [OpenAI放开限制 ChatGPT无需注册即可使用](https://www.3dmgame.com/news/202404/3891914.html)
+

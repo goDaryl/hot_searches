@@ -163,3 +163,13 @@
 
 + [扫地机器人（蓝桥杯）](https://blog.csdn.net/m0_73841621/article/details/137251423)
 
++ [MS SQL Server STUFF 函数实战 统计记录行转为列显示](https://blog.csdn.net/michaelline/article/details/137257262)
+
++ [spring boot3登录开发-3(2短信验证登录/注册逻辑实现）](https://blog.csdn.net/qq_62262918/article/details/137251926)
+
++ [【好书推荐4】图机器学习](https://blog.csdn.net/wtyuong/article/details/137272902)
+
++ [是否应该升级到ChatGPT 4.0？深度对比ChatGPT 3.5与4.0的差异](https://blog.csdn.net/viman3344/article/details/137251998)
+
++ [Docker部署Nexus Maven私服并且实现远程访问Nexus界面](https://blog.csdn.net/m0_68662723/article/details/137275527)
+
