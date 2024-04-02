@@ -151,3 +151,17 @@
 
 + [格斗游戏《碧蓝幻想Versus：Rising》Steam国区售价永降 降幅超百元](https://www.3dmgame.com/news/202404/3891858.html)
 
++ [《雷纳提斯》全新艺术插图欣赏 画风别致非常精美](https://www.3dmgame.com/news/202404/3891860.html)
+
++ [《丝之歌》xbox页面上线 发售日期待定](https://www.3dmgame.com/news/202404/3891861.html)
+
++ [《俄罗斯方块99》联动《碧姬公主：表演时刻》 4月5日上线](https://www.3dmgame.com/news/202404/3891865.html)
+
++ [PS英国称《星刃》准确再现英国天气 总下雨让女主更美](https://www.3dmgame.com/news/202404/3891864.html)
+
++ [《流浪猫物语》合集6月27日登陆Switch 治愈系冒险](https://www.3dmgame.com/news/202404/3891863.html)
+
++ [《星刃》官方推荐电视打开“游戏模式”：减少延迟](https://www.3dmgame.com/news/202404/3891862.html)
+
++ [一群Mod制作者正在开发《GTA5》NS和安卓移植版](https://www.3dmgame.com/news/202404/3891859.html)
+

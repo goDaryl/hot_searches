@@ -47,3 +47,7 @@
 
 + [渗透测试 | EDR绕过远程线程扫描指南](https://www.freebuf.com/articles/network/395859.html)
 
++ [自然资源部发布《自然资源领域数据安全管理办法》](https://www.freebuf.com/news/396689.html)
+
++ [FreeBuf 早报 | 攻击者利用选举窃取俄罗斯人信息；黑客针对macOS用户投放恶意广告](https://www.freebuf.com/news/396653.html)
+
