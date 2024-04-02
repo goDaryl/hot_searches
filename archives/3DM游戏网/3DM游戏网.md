@@ -219,3 +219,17 @@
 
 + [《生化危机2》高度疑似SFC版亮相 诡异玩法有模有样](https://www.3dmgame.com/news/202404/3891884.html)
 
++ [三星x星巴克x CHERRY 电竞大咖送福利](https://www.3dmgame.com/news/202404/3891894.html)
+
++ [KK新图大爆料，看直播暴打策划，赢50万U币大奖](https://www.3dmgame.com/news/202404/3891898.html)
+
++ [破局AI数据中心用电荒 美政府正探索兴建核电站](https://www.3dmgame.com/news/202404/3891899.html)
+
++ [糟糕，全球“狗策划”都要被裁了！猪场发布的新AI游戏工具太超了](https://www.3dmgame.com/news/202404/3891897.html)
+
++ [KK对战平台新图推荐 修仙摸鱼两不误，当条咸鱼也能飞升？](https://www.3dmgame.com/news/202404/3891896.html)
+
++ [《方舟：生存飞升》焦土地图更新，全新DLC“鲍勃的传奇故事”现已发布](https://www.3dmgame.com/news/202404/3891895.html)
+
++ [SE任命新执行董事 《尼尔》《最终幻想》制作人晋升](https://www.3dmgame.com/news/202404/3891893.html)
+
