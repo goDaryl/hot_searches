@@ -43,3 +43,5 @@
 
 + [金山办公 WPS AI 开始收费：原版超级会员无 AI 权益，需升级“大会员”](https://m.ithome.com/html/759354.htm)
 
++ [OpenAI 宣布用户无需注册账号即可使用 ChatGPT，但有部分限制](https://m.ithome.com/html/759538.htm)
+

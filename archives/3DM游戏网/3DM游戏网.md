@@ -199,3 +199,5 @@
 
 + [知名漫画《忍者杀手》宣布游戏化 2024年夏季发售](https://www.3dmgame.com/news/202404/3891868.html)
 
++ [微软马上放弃Win10！Win11份额不升反降：你升级没？](https://www.3dmgame.com/news/202404/3891883.html)
+
