@@ -243,3 +243,9 @@
 
 + [《龙之信条2》销量已超250万 系列总销量破千万](https://www.3dmgame.com/news/202404/3891900.html)
 
++ [国产仙诡MMO新游《代号：界》首爆预告 下半年开放测试](https://www.3dmgame.com/news/202404/3891905.html)
+
++ [《刺客》《巫师》《哈利波特》等游戏角色穿钢铁侠装是啥样？](https://www.3dmgame.com/news/202404/3891906.html)
+
++ [日式便利店模拟游戏《inKONBINI》先行预告 明年发售](https://www.3dmgame.com/news/202404/3891907.html)
+

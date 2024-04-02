@@ -159,3 +159,5 @@
 
 + [MySQL中drop、truncate和delete的区别](https://blog.csdn.net/qq_58608526/article/details/137263253)
 
++ [大创项目推荐 深度学习 python opencv 动物识别与检测](https://blog.csdn.net/laafeer/article/details/137238130)
+
