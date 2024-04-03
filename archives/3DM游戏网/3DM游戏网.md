@@ -241,3 +241,7 @@
 
 + [《黑神话：悟空》获2000万发行经费 国内玩家期待该作](https://www.3dmgame.com/news/202404/3891983.html)
 
++ [8.51亿户！中国5G用户规模正式超越4G](https://www.3dmgame.com/news/202404/3891993.html)
+
++ [经典消除名作《合成大西瓜》将于4月中旬登陆安卓平台](https://www.3dmgame.com/news/202404/3891994.html)
+
