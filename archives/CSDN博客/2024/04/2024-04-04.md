@@ -109,3 +109,23 @@
 
 + [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/137288375)
 
++ [人人都离不开的算法：AI 时代的生存指南](https://blog.csdn.net/qq_32682301/article/details/137335794)
+
++ [基于Leaflet.js和Turf.js的等值线区间自定义及颜色自适应实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/137284582)
+
++ [30天拿下Rust之图形编程](https://blog.csdn.net/hope_wisdom/article/details/137201562)
+
++ [Linux之实现Apache服务器监控、数据库定时备份及通过使用Shell脚本发送邮件](https://blog.csdn.net/weixin_74457789/article/details/137249372)
+
++ [【MySQL系列】使用 ALTER TABLE 语句修改表结构的方法](https://blog.csdn.net/qyj19920704/article/details/137293989)
+
++ [【项目实战经验】DataKit迁移MySQL到openGauss（上）](https://blog.csdn.net/GaussDB/article/details/137344827)
+
++ [Express学习](https://blog.csdn.net/swx1014/article/details/137271199)
+
++ [2013年认证杯SPSSPRO杯数学建模C题(第二阶段)公路运输业对于国内生产总值的影响分析全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/137260378)
+
++ [华为ensp中ospf多区域管理 原理及配置命令（详解）](https://blog.csdn.net/jxjdhdnd/article/details/137227559)
+
++ [4.2学习总结](https://blog.csdn.net/sin1810335764/article/details/137289111)
+
