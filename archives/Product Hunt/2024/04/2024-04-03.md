@@ -103,3 +103,39 @@
 
 + [Benchmark Your Org](https://www.producthunt.com/posts/benchmark-your-org)
 
++ [In-App Notification Center](https://www.producthunt.com/posts/in-app-notification-center)
+
++ [PunchClock](https://www.producthunt.com/posts/punchclock-2)
+
++ [Storipress Prophet](https://www.producthunt.com/posts/storipress-prophet)
+
++ [2K](https://www.producthunt.com/posts/2k)
+
++ [Qwen 1.5 MoE](https://www.producthunt.com/posts/qwen-1-5-moe)
+
++ [Netlify Platform Primtives](https://www.producthunt.com/posts/netlify-platform-primtives)
+
++ [Destructomath+](https://www.producthunt.com/posts/destructomath-3)
+
++ [Skillsboost](https://www.producthunt.com/posts/skillsboost)
+
++ [HS Code Scanner](https://www.producthunt.com/posts/hs-code-scanner)
+
++ [Nas.io Challenges & Competitions](https://www.producthunt.com/posts/nas-io-challenges-competitions)
+
++ [Build Social Skills with AI Voice Dates](https://www.producthunt.com/posts/build-social-skills-with-ai-voice-dates)
+
++ [Readouts](https://www.producthunt.com/posts/readouts)
+
++ [Potion](https://www.producthunt.com/posts/potion-4)
+
++ [College Souk](https://www.producthunt.com/posts/college-souk)
+
++ [Blinko for Figma & FigJam](https://www.producthunt.com/posts/blinko-for-figma-figjam)
+
++ [SongSens.ai](https://www.producthunt.com/posts/songsens-ai)
+
++ [Holihopper](https://www.producthunt.com/posts/holihopper)
+
++ [Shopyflow](https://www.producthunt.com/posts/shopyflow)
+
