@@ -49,3 +49,23 @@
 
 + [ilcons 3D](https://dribbble.com/shots/)
 
++ [River Rocks (using AI)](https://dribbble.com/shots/)
+
++ [Let's burn out together!](https://dribbble.com/shots/)
+
++ [Klaipeda and Palanga Icons](https://dribbble.com/shots/)
+
++ [Shore House](https://dribbble.com/shots/)
+
++ [Valencia Design](https://dribbble.com/shots/)
+
++ [Nomint logotype design concept](https://dribbble.com/shots/)
+
++ [S Lettermark](https://dribbble.com/shots/)
+
++ [Forgive yourself](https://dribbble.com/shots/)
+
++ [Scarlet Mosque](https://dribbble.com/shots/)
+
++ [CH24 Pocket Square](https://dribbble.com/shots/)
+
