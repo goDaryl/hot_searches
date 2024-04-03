@@ -43,3 +43,5 @@
 
 + [AMD 发布锐龙 8000 系列嵌入式处理器：Zen 4 架构，集成 NPU](https://m.ithome.com/html/759758.htm)
 
++ [小米 120W 小布丁氮化镓充电器亮相，2024 年米粉节首发](https://m.ithome.com/html/759828.htm)
+

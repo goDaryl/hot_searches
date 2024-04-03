@@ -55,3 +55,9 @@
 
 + [基于OpenrestyTengine的安全网关WAFx 实现](https://www.freebuf.com/sectool/394790.html)
 
++ [《深化智慧城市发展 推进城市全域数字化转型的指导意见（征求意见稿）》正式发布](https://www.freebuf.com/news/396924.html)
+
++ [73% 的组织担忧未来网络安全威胁会影响业务](https://www.freebuf.com/news/396871.html)
+
++ [网络安全实战演练的十一个步骤](https://www.freebuf.com/news/396750.html)
+
