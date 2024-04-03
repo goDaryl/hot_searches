@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 首次全国数据工作会议召开；网安独角兽Rubrik赴美IPO](https://www.freebuf.com/news/396810.html)
 
++ [信息安全管理——身份与访问管理](https://www.freebuf.com/articles/es/396012.html)
+
