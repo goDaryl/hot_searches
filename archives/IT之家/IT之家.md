@@ -41,3 +41,5 @@
 
 + [雷军：小米汽车 SU7 大定超 10 万辆，锁单超 4 万辆](https://m.ithome.com/html/759805.htm)
 
++ [AMD 发布锐龙 8000 系列嵌入式处理器：Zen 4 架构，集成 NPU](https://m.ithome.com/html/759758.htm)
+
