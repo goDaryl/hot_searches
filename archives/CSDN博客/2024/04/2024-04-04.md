@@ -129,3 +129,9 @@
 
 + [4.2学习总结](https://blog.csdn.net/sin1810335764/article/details/137289111)
 
++ [云原生技术精选：探索腾讯云容器与函数计算的最佳实践](https://blog.csdn.net/JHXL_/article/details/137228111)
+
++ [200个有趣的HTML前端游戏项目合集（持续更新中）](https://blog.csdn.net/qq_44273429/article/details/137224397)
+
++ [亮数据Bright Data，引领高效数据采集新体验](https://blog.csdn.net/chenlycly/article/details/137222928)
+
