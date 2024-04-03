@@ -123,3 +123,5 @@
 
 + [《流放者柯南》第四章上线 致命一击回归](https://www.3dmgame.com/news/202404/3891928.html)
 
++ [《艾尔登法环》DLC被ESRB评为成人级 可惜没透露新信息](https://www.3dmgame.com/news/202404/3891932.html)
+

@@ -43,3 +43,5 @@
 
 + [兔子洞里有什么？揭开BunnyLoader 3.0恶意软件的神秘面纱](https://www.freebuf.com/articles/network/395362.html)
 
++ [FreeBuf 早报 | 首次全国数据工作会议召开；网安独角兽Rubrik赴美IPO](https://www.freebuf.com/news/396810.html)
+
