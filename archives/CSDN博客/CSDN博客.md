@@ -189,3 +189,5 @@
 
 + [【Spring】SpringBoot整合ShardingSphere并实现多线程分批插入10000条数据（进行分库分表操作）。](https://blog.csdn.net/qq_61024956/article/details/137333140)
 
++ [深入理解WebSocket：实时双向通信的利器](https://blog.csdn.net/qq_39208536/article/details/137276825)
+
