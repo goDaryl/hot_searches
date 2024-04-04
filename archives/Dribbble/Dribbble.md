@@ -49,3 +49,25 @@
 
 + [KAWAII City](https://dribbble.com/shots/)
 
++ [Analog Pattern](https://dribbble.com/shots/)
+
++ [Zelky's Beach Arcade](https://dribbble.com/shots/)
+
++ [ACE Year of the Dragon Badge](https://dribbble.com/shots/)
+
++ [Dragons](https://dribbble.com/shots/)
+
++ [New moves ✍️](https://dribbble.com/shots/)
+
++ [American Sasquatch](https://dribbble.com/shots/)
+
++ [Klaipeda and Palanga Icons](https://dribbble.com/shots/)
+
++ [Nomint logotype design concept](https://dribbble.com/shots/)
+
++ [Jesus Collage - book cover design](https://dribbble.com/shots/)
+
++ [Back to nature](https://dribbble.com/shots/)
+
++ [Love mid century poster](https://dribbble.com/shots/)
+
