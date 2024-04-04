@@ -47,3 +47,5 @@
 
 + [世界首块，太蓝新能源推出车规级 720Wh/kg 体型化全固态电池](https://m.ithome.com/html/759958.htm)
 
++ [微软 Copilot 实体按键原理曝光，按下触发左 Shift + 左 Windows 键 + F23 三键组合](https://m.ithome.com/html/759937.htm)
+
