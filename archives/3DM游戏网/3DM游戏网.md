@@ -195,3 +195,5 @@
 
 + [《地狱之刃2》Xbox Series X|S仅支持30帧](https://www.3dmgame.com/news/202404/3892054.html)
 
++ [《地狱之刃》工作室创始人现已离开了Ninja Theory](https://www.3dmgame.com/news/202404/3892057.html)
+
