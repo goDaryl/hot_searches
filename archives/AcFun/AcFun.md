@@ -81,3 +81,5 @@
 
 + [4月新游来啦~12款热门新游推荐【steam新游推荐】](http://www.acfun.cn/v/ac44221509)
 
++ [【自翻】Chiikawa第153话「睡衣派对10」ちいかわ](http://www.acfun.cn/v/ac44221337)
+

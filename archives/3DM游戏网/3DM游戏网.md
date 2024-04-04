@@ -133,3 +133,15 @@
 
 + [《绝地潜兵2》削弱热门武器独头霰弹枪：最强“狙击枪”](https://www.3dmgame.com/news/202404/3892025.html)
 
++ [索尼今年将发布多款小型第一方游戏 包括《Astro Bot》](https://www.3dmgame.com/news/202404/3892029.html)
+
++ [生存探索游戏《Forty-Niner》Steam页面上线 支持简中](https://www.3dmgame.com/news/202404/3892030.html)
+
++ [去年玩家6成游戏时长为推出6年以上的实时服务游戏](https://www.3dmgame.com/news/202404/3892031.html)
+
++ [国产开放世界《燕云十六声》4月19日北美首次封测](https://www.3dmgame.com/news/202404/3892026.html)
+
++ [中式民俗独立恐怖游戏《诡拓》PV Demo近期上线](https://www.3dmgame.com/news/202404/3892027.html)
+
++ [开发商承诺《精灵宝可梦GO》未来十年将持续运营](https://www.3dmgame.com/news/202404/3892028.html)
+
