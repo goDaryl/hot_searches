@@ -103,3 +103,33 @@
 
 + [基于SpringBoot+Vue的汉服交易小程序的详细设计和实现(源码+lw+部署文档+讲解等)](https://blog.csdn.net/qq_45714272/article/details/137251922)
 
++ [Oracle RAC One Node，双胞胎变独生子？](https://blog.csdn.net/weixin_41645135/article/details/137384276)
+
++ [Python基于深度学习的人脸识别项目源码+演示视频，利用OpenCV进行人脸检测与识别 preview](https://blog.csdn.net/2301_76484015/article/details/137349417)
+
++ [MS SQL Server STUFF 函数实战 统计记录行转为列显示](https://blog.csdn.net/michaelline/article/details/137257262)
+
++ [基于深度学习的遥感目标检测系统（网页版+YOLOv8/v7/v6/v5代码+训练数据集）](https://blog.csdn.net/loushangfengjing/article/details/137089433)
+
++ [Three.js——scene场景、几何体位置旋转缩放、正射投影相机、透视投影相机](https://blog.csdn.net/qq_45902692/article/details/137359452)
+
++ [Android音视频开发 - MediaMetadataRetriever 相关](https://blog.csdn.net/qq_23025319/article/details/137349022)
+
++ [加固HTML大作战：网站安全性提升方案解读](https://blog.csdn.net/kyuiguigh/article/details/137342315)
+
++ [基于FPGA的SPI_FLASH程序设计](https://blog.csdn.net/weixin_45962327/article/details/137326970)
+
++ [鸿蒙南向开发实战：【智能窗帘】](https://blog.csdn.net/m0_62167422/article/details/137359343)
+
++ [基于ARCGIS PRO的景观扩张指数（LEI）的计算---计算每个斑块的LEI值](https://blog.csdn.net/2301_80612473/article/details/137386782)
+
++ [基于单片机的航空发动机振动测量系统的设计](https://blog.csdn.net/QQ2193276455/article/details/137341018)
+
++ [Vue3 & Vite 整合组件脚手架笔记](https://blog.csdn.net/CoffeeAndIce/article/details/137352914)
+
++ [（表征学习论文阅读）FINITE SCALAR QUANTIZATION: VQ-VAE MADE SIMPLE](https://blog.csdn.net/loki2018/article/details/137343194)
+
++ [基于Leaflet.js和Turf.js的等值线区间自定义及颜色自适应实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/137284582)
+
++ [Spring Boot：Web开发之视图模板技术的整合](https://blog.csdn.net/qq_56886142/article/details/136954249)
+
