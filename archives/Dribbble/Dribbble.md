@@ -79,3 +79,7 @@
 
 + [Glyph Beer 38](https://dribbble.com/shots/)
 
++ [Beauty](https://dribbble.com/shots/)
+
++ [Noah Kahan Patch Designs for 2024 World Tour](https://dribbble.com/shots/)
+
