@@ -199,3 +199,11 @@
 
 + [Android：身份证识别功能实现](https://blog.csdn.net/a526001650a/article/details/137262434)
 
++ [Spark-Scala语言实战（10）](https://blog.csdn.net/qq_49513817/article/details/137297066)
+
++ [【c/c++】深入探秘：C++内存管理的机制](https://blog.csdn.net/arf_dog/article/details/137358633)
+
++ [【Linux】Linux工具学习之gdb](https://blog.csdn.net/hsjsiwkwm/article/details/137167471)
+
++ [RK3568测试](https://blog.csdn.net/qq_44647100/article/details/137244241)
+
