@@ -127,3 +127,9 @@
 
 + [任天堂新专利曝光：NS底座线缆方向来回换](https://www.3dmgame.com/news/202404/3892019.html)
 
++ [合作恐怖《内容警告》更新 添加音频播放器和记者麦](https://www.3dmgame.com/news/202404/3892023.html)
+
++ [动作角色扮演游戏《Plushie from the Sky》5月6日发售 支持简体中文](https://www.3dmgame.com/news/202404/3892024.html)
+
++ [《绝地潜兵2》削弱热门武器独头霰弹枪：最强“狙击枪”](https://www.3dmgame.com/news/202404/3892025.html)
+
