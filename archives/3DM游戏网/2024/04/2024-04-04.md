@@ -189,3 +189,9 @@
 
 + [《地狱之刃2》游戏时长只有8个小时 工作室进行解释](https://www.3dmgame.com/news/202404/3892053.html)
 
++ [高通公布骁龙X Elite官方能效曲线 全面优于酷睿Ultra 7/Ultra 9](https://www.3dmgame.com/news/202404/3892056.html)
+
++ [《哥斯拉大战金刚2》粉色哥斯拉灵感来自悟空的界王拳](https://www.3dmgame.com/news/202404/3892055.html)
+
++ [《地狱之刃2》Xbox Series X|S仅支持30帧](https://www.3dmgame.com/news/202404/3892054.html)
+
