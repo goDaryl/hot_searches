@@ -117,3 +117,5 @@
 
 + [雅达利获得《过山车大亨3》版权 支付700万美元](https://www.3dmgame.com/news/202404/3892062.html)
 
++ [《星战》手游《星球大战：银河英雄》将移植到PC平台](https://www.3dmgame.com/news/202404/3892066.html)
+

@@ -71,3 +71,9 @@
 
 + [【爆破牧场】全自动武器大赏-靶场日2.0](http://www.acfun.cn/v/ac44230472)
 
++ [拍一套可可爱爱的全家福～](http://www.acfun.cn/v/ac44229525)
+
++ [被一群小鸟围着求喂食](http://www.acfun.cn/v/ac44227379)
+
++ [吃辣条直拍](http://www.acfun.cn/v/ac44228598)
+
