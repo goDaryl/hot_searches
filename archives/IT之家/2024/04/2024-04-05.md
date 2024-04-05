@@ -39,3 +39,11 @@
 
 + [神情紧张、步态沉重，三女子绑藏苹果 iPhone 旧机进境被查](https://m.ithome.com/html/760070.htm)
 
++ [开源社区再掀波澜，FFmpeg 诉苦被微软白嫖](https://m.ithome.com/html/760064.htm)
+
++ [新款苹果 iPad 通过印度 BIS 认证，有望为 iPad Pro / Air 2024 平板电脑](https://m.ithome.com/html/760069.htm)
+
++ [iPhone 16 Pro / Max 超窄边框技术遇量产挑战，LG、三星当前良率未达苹果预期](https://m.ithome.com/html/760101.htm)
+
++ [微软不满用户修改主题，安装 StartAllBack 会导致无法升级 Win11](https://m.ithome.com/html/760090.htm)
+
