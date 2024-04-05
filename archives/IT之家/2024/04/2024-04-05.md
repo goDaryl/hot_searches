@@ -47,3 +47,7 @@
 
 + [微软不满用户修改主题，安装 StartAllBack 会导致无法升级 Win11](https://m.ithome.com/html/760090.htm)
 
++ [苹果 iPhone SE 4 高清渲染：刘海设计、后摄配更大传感器](https://m.ithome.com/html/760154.htm)
+
++ [狂赚 300 亿，研发超特斯拉，比亚迪站着挣钱](https://m.ithome.com/html/760137.htm)
+
