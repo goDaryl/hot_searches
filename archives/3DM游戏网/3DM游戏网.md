@@ -127,3 +127,35 @@
 
 + [SIE不再过早公布游戏 现在最多提前2年公布新作](https://www.3dmgame.com/news/202404/3892067.html)
 
++ [《真·女神转生Ⅴ Vengeance》PV第二弹公开 6月14日发售](https://www.3dmgame.com/news/202404/3892086.html)
+
++ [5千发朋友圈代价惨！小米：锁单前定金可退 锁单不退](https://www.3dmgame.com/news/202404/3892083.html)
+
++ [《魔兽世界：怀旧服》更新无测试：保持神秘新鲜感](https://www.3dmgame.com/news/202404/3892085.html)
+
++ [《侏罗纪公园：生存》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892084.html)
+
++ [《绝地潜兵2》新战争债券“民主爆破”公开 下周上线](https://www.3dmgame.com/news/202404/3892082.html)
+
++ [《亚瑟王：第九军团》发售日预告 5月9日发售](https://www.3dmgame.com/news/202404/3892081.html)
+
++ [《最终幻想7：重生》白金奖杯bug将在下个版本修复](https://www.3dmgame.com/news/202404/3892080.html)
+
++ [《The Crush House》预告公布 年内发售](https://www.3dmgame.com/news/202404/3892079.html)
+
++ [《节奏地牢》DLC角色“初音未来”现已加入游戏PC版](https://www.3dmgame.com/news/202404/3892078.html)
+
++ [《盗贼之海》PS5版封测日期公布 本月中旬提前体验](https://www.3dmgame.com/news/202404/3892077.html)
+
++ [《地狱之刃2》全部战斗场景均以1V1形式呈现](https://www.3dmgame.com/news/202404/3892076.html)
+
++ [《永恒蔚蓝：流光》“海洋之声”预告 5月2日发售](https://www.3dmgame.com/news/202404/3892075.html)
+
++ [《尼尔》制作人横尾太郎曾安利《星刃》：买买买](https://www.3dmgame.com/news/202404/3892073.html)
+
++ [死亡威胁导致任天堂活动停办 日本27岁男子被逮捕](https://www.3dmgame.com/news/202404/3892072.html)
+
++ [复古组队角色扮演游戏《SKALD：攻打黑修院》发售日预告 5月31日发售](https://www.3dmgame.com/news/202404/3892074.html)
+
++ [《英雄连》开发商Relic离开世嘉旗下后受裁员影响](https://www.3dmgame.com/news/202404/3892071.html)
+
