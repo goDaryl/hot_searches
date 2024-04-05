@@ -159,3 +159,7 @@
 
 + [《英雄连》开发商Relic离开世嘉旗下后受裁员影响](https://www.3dmgame.com/news/202404/3892071.html)
 
++ [《幻兽帕鲁》发布v0.2.0.6更新 新Boss“暗黑贝拉”登场](https://www.3dmgame.com/news/202404/3892088.html)
+
++ [我国大功率氢能源机车研制获关键性突破：首次完成万吨装车](https://www.3dmgame.com/news/202404/3892087.html)
+
