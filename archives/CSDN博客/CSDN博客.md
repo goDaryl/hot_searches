@@ -141,3 +141,7 @@
 
 + [【论文阅读笔记】SAM-Adapter: Adapting Segment Anything in Underperformed Scenes](https://blog.csdn.net/qq_46056318/article/details/137277512)
 
++ [CSS设置网页背景](https://blog.csdn.net/lh11223326/article/details/137292941)
+
++ [Java 变得越来越像 Rust？](https://blog.csdn.net/H_Sino/article/details/137255442)
+
