@@ -143,3 +143,5 @@
 
 + [Guin - Your GoodMind Buddy](https://www.producthunt.com/posts/guin-your-goodmind-buddy)
 
++ [Nobinge](https://www.producthunt.com/posts/nobinge-2)
+
