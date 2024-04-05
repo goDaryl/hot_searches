@@ -59,3 +59,9 @@
 
 + [7 名新能源车主“薅羊毛”被抓，利用系统漏洞免费充电](https://m.ithome.com/html/760171.htm)
 
++ [微软 Win11 24H2 LTSC 镜像偷跑，版本号 Build 26100](https://m.ithome.com/html/760127.htm)
+
++ [小米手环 9 通过 IMDA 认证，距离发布更近一步](https://m.ithome.com/html/760166.htm)
+
++ [华为新款 MatePad 平板通过无线电认证，提供原生星闪键鼠配件](https://m.ithome.com/html/760161.htm)
+
