@@ -71,3 +71,11 @@
 
 + [Forgive yourself](https://dribbble.com/shots/)
 
++ [Agua de Iquitos Label Design](https://dribbble.com/shots/)
+
++ [River Rocks (using AI)](https://dribbble.com/shots/)
+
++ [Brand Illos](https://dribbble.com/shots/)
+
++ [Still no pickles!](https://dribbble.com/shots/)
+
