@@ -123,3 +123,7 @@
 
 + [数毛社分析《星刃》试玩版 性能与帧率表现不错](https://www.3dmgame.com/news/202404/3892125.html)
 
++ [Xbox首席副总裁离开公司 微软游戏部门增长计划加速](https://www.3dmgame.com/news/202404/3892130.html)
+
++ [权游衍生剧《七国骑士：对冲骑士》主演人选确定](https://www.3dmgame.com/news/202404/3892129.html)
+
