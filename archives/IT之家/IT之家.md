@@ -33,3 +33,5 @@
 
 + [新系列首作，小米王腾透露 Redmi Turbo 3 手机“下周见”](https://m.ithome.com/html/760197.htm)
 
++ [哪吒 S 猎装车官图公布，尾标仍为“哪吒 S”](https://m.ithome.com/html/760193.htm)
+
