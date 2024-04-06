@@ -171,3 +171,5 @@
 
 + [《曼达洛人和古古》电影提档至2026年5月22日上映](https://www.3dmgame.com/news/202404/3892151.html)
 
++ [马斯克：特斯拉正在AI人才争夺战中提高薪酬](https://www.3dmgame.com/news/202404/3892153.html)
+
