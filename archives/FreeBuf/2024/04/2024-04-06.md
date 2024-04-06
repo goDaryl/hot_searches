@@ -41,3 +41,5 @@
 
 + [大模型安全的融合与挑战 | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/fevents/396736.html)
 
++ [《2024年网络安全成熟度报告》：仅11%的企业达到Level 2](https://www.freebuf.com/articles/paper/395810.html)
+
