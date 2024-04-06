@@ -139,3 +139,11 @@
 
 + [外包干了5天，技术退步明显.......](https://blog.csdn.net/lzz718719/article/details/137400995)
 
++ [#SOP#-如何使用AI辅助论文创作](https://blog.csdn.net/From_C/article/details/137414738)
+
++ [网课笔记02](https://blog.csdn.net/2301_80669633/article/details/137406049)
+
++ [【深耕 Python】Data Science with Python 数据科学（8）pandas数据结构：Series和DataFrame](https://blog.csdn.net/weixin_43031313/article/details/137402346)
+
++ [基于YOLOv8的铁路工人安全作业检测系统](https://blog.csdn.net/m0_63774211/article/details/137417877)
+
