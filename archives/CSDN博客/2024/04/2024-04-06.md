@@ -159,3 +159,11 @@
 
 + [【Linux】解密操作系统中的进程地址空间与页表管理](https://blog.csdn.net/Colorful___/article/details/137408403)
 
++ [计算机网络—HTTP协议：深入解析与应用实践](https://blog.csdn.net/weixin_64038246/article/details/137422171)
+
++ [京东滑块验证逆向分析与算法还原](https://blog.csdn.net/qiulin_wu/article/details/137401841)
+
++ [macU盘在电脑上读不出来 u盘mac读不出来怎么办 macu盘不能写入](https://blog.csdn.net/2401_82916694/article/details/137398236)
+
++ [云原生系列（六）—在k8s部署trident对接ontap的nfs存储并创建动态存储类](https://blog.csdn.net/weixin_43419745/article/details/137400447)
+
