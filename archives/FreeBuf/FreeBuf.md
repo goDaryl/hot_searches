@@ -43,3 +43,5 @@
 
 + [《2024年网络安全成熟度报告》：仅11%的企业达到Level 2](https://www.freebuf.com/articles/paper/395810.html)
 
++ [FreeBuf 周报 | Vultur 安卓银行木马“卷土重来”；黑客滥用谷歌虚假广告传播恶意软件](https://www.freebuf.com/news/396918.html)
+
