@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | Vultur 安卓银行木马“卷土重来”；黑客滥用谷歌虚假广告传播恶意软件](https://www.freebuf.com/news/396918.html)
 
++ [虚拟专用网络安装包“引狼入室”：疑似金眼狗（APT-Q-27）团伙的窃密行动](https://www.freebuf.com/articles/paper/396978.html)
+
