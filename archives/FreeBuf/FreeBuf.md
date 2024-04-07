@@ -61,3 +61,7 @@
 
 + [不懂js遇到前端加密该如何进行js逆向](https://www.freebuf.com/articles/web/396079.html)
 
++ [MSOLSpray：一款针对微软在线账号（AzureO365）的密码喷射与安全测试工具](https://www.freebuf.com/sectool/393043.html)
+
++ [SRC挖掘实战 | JS中能利用的那些信息](https://www.freebuf.com/articles/web/394873.html)
+

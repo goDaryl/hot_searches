@@ -39,3 +39,5 @@
 
 + [用户起诉华硕迟迟不提供手机 Bootloader 解锁工具，获得全额退款](https://m.ithome.com/html/760308.htm)
 
++ [小米 Redmi Pad Pro 平板亮相开启预约，随 Turbo 3 手机一同发布](https://m.ithome.com/html/760338.htm)
+

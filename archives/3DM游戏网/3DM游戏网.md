@@ -179,3 +179,23 @@
 
 + [《英雄传说：黎之轨迹2》日版宣布7月25日登陆Switch 定价4800日元](https://www.3dmgame.com/news/202404/3892189.html)
 
++ [《转生史莱姆》外传漫画《魔物之国的漫步指南》 因作者身体欠佳结束连载](https://www.3dmgame.com/news/202404/3892202.html)
+
++ [国产动物武侠CRPG游戏《灵兽江湖》Steam开启测试](https://www.3dmgame.com/news/202404/3892201.html)
+
++ [《犯罪现场清理员》序章免费发布 清理现场模拟器](https://www.3dmgame.com/news/202404/3892200.html)
+
++ [为《使命召唤：现代战争III》和《暗黑破坏神IV》打造的Game Ready驱动发布](https://www.3dmgame.com/news/202404/3892199.html)
+
++ [轻小说《青春猪头少年系列》最终卷今年发行 连载10年后完结](https://www.3dmgame.com/news/202404/3892198.html)
+
++ [Discord“战利品箱”恶搞视频24小时播放量破《GTA 6》记录 实则乌龙事件](https://www.3dmgame.com/news/202404/3892197.html)
+
++ [苹果解除iOS商店游戏模拟器限制 要求软件合法合规](https://www.3dmgame.com/news/202404/3892196.html)
+
++ [矮人机甲试驾！《矮人元祖》展示游戏玩法并邀请玩家进行游戏测试](https://www.3dmgame.com/news/202404/3892195.html)
+
++ [你做游戏，我出钱！Y3编辑器“创作星秀计划”正式开启！](https://www.3dmgame.com/news/202404/3892194.html)
+
++ [《Decadent》Steam页面上线 叙事型恐怖FPS](https://www.3dmgame.com/news/202404/3892193.html)
+
