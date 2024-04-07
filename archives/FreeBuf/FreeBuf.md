@@ -69,3 +69,5 @@
 
 + [注销手机号等于出卖自己？三大运营商回应](https://www.freebuf.com/news/397101.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/397104.html)
+
