@@ -147,3 +147,27 @@
 
 + [《赛博朋克2077：往日之影》任务受《指环王》启发](https://www.3dmgame.com/news/202404/3892176.html)
 
++ [马斯克的信心 人类有望20年内在火星自给自足](https://www.3dmgame.com/news/202404/3892188.html)
+
++ [《战争机器6》将展示顶级视觉效果 充分发挥当前主机性能](https://www.3dmgame.com/news/202404/3892186.html)
+
++ [拉瑞安慷慨解囊 向图书馆捐赠《博德之门3》游戏](https://www.3dmgame.com/news/202404/3892187.html)
+
++ [悬疑冒险探索游戏《DESOLATIUM》现已在Steam平台正式推出](https://www.3dmgame.com/news/202404/3892185.html)
+
++ [改编动漫《我独自升级》第二季制作确认 并公布官方预告](https://www.3dmgame.com/news/202404/3892184.html)
+
++ [《Extinction Rifts》Steam页面上线 第一人称FPS新游](https://www.3dmgame.com/news/202404/3892183.html)
+
++ [《地狱之刃2》开发者认为许多玩家喜欢较短游戏](https://www.3dmgame.com/news/202404/3892182.html)
+
++ [古装互动游戏《许愿，我要带她们回现代》公布发售日](https://www.3dmgame.com/news/202404/3892181.html)
+
++ [《权力的游戏》衍生剧《七王国的骑士：雇佣骑士》主演公布](https://www.3dmgame.com/news/202404/3892179.html)
+
++ [德国PS分享卡普空《虚实万象》截图 还记得这游戏吗？](https://www.3dmgame.com/news/202404/3892178.html)
+
++ [公布五年后 开发商确定《与狼同行2》仍在制作中](https://www.3dmgame.com/news/202404/3892180.html)
+
++ [《SILENT BREATH》Steam抢测 禁止惊叫恐怖探索](https://www.3dmgame.com/news/202404/3892177.html)
+
