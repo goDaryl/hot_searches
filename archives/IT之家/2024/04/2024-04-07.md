@@ -49,3 +49,5 @@
 
 + [金山办公 WPS 365 宣布 4 月 9 日全新发布：“一站式 AI 办公”](https://m.ithome.com/html/760314.htm)
 
++ [小米汽车回应“车主投诉 SU7 未交付掉漆”：后续会出台政策解决此类问题](https://m.ithome.com/html/760412.htm)
+
