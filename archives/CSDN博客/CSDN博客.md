@@ -101,3 +101,7 @@
 
 + [Python可视化之pandas](https://blog.csdn.net/YBK233/article/details/137425677)
 
++ [基于深度学习的电动自行车头盔佩戴检测系统](https://blog.csdn.net/MuRanstr/article/details/137396723)
+
++ [京东滑块验证逆向分析与算法还原](https://blog.csdn.net/qiulin_wu/article/details/137401841)
+
