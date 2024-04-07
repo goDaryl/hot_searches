@@ -101,3 +101,5 @@
 
 + [《暗黑破坏神4》加入Game Pass后 Xbox成为玩家首选平台](https://www.3dmgame.com/news/202404/3892171.html)
 
++ [国产情感怀旧《水远山遥》上架Steam 年内发售](https://www.3dmgame.com/news/202404/3892224.html)
+
