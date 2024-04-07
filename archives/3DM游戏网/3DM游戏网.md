@@ -199,3 +199,7 @@
 
 + [《Decadent》Steam页面上线 叙事型恐怖FPS](https://www.3dmgame.com/news/202404/3892193.html)
 
++ [《英灵殿之子》登陆PC平台 维京背景战斗经营新游](https://www.3dmgame.com/news/202404/3892204.html)
+
++ [传闻：世嘉和迪士尼正在合作开发新游戏 明年登陆移动端](https://www.3dmgame.com/news/202404/3892203.html)
+

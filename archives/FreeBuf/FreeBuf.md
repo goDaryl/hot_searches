@@ -65,3 +65,5 @@
 
 + [SRC挖掘实战 | JS中能利用的那些信息](https://www.freebuf.com/articles/web/394873.html)
 
++ [GPT-5将在6月发布刷屏，为什么关键在于「红队测试」](https://www.freebuf.com/articles/397090.html)
+
