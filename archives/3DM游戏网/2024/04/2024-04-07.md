@@ -225,3 +225,7 @@
 
 + [小米SU7有多火：日租金2000元起赶超保时捷！](https://www.3dmgame.com/news/202404/3892213.html)
 
++ [传索尼不再发行《星球大战：旧共和国武士重制版》](https://www.3dmgame.com/news/202404/3892217.html)
+
++ [强森：当初不该支持拜登当总统 对当下美国现状感到很恼火](https://www.3dmgame.com/news/202404/3892216.html)
+
