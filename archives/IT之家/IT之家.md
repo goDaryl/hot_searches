@@ -45,3 +45,7 @@
 
 + [超 4000 原生应用加入华为鸿蒙生态，两个月增长幅度达 20 倍](https://m.ithome.com/html/760332.htm)
 
++ [小米 WiFi 7 路由器 BE3600 千兆版开售，首发价 229 元](https://m.ithome.com/html/760328.htm)
+
++ [金山办公 WPS 365 宣布 4 月 9 日全新发布：“一站式 AI 办公”](https://m.ithome.com/html/760314.htm)
+

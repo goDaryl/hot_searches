@@ -213,3 +213,9 @@
 
 + [学者驳斥AI末日论 AI将创造更美好公平的世界](https://www.3dmgame.com/news/202404/3892206.html)
 
++ [黑人朱丽叶被网友群嘲 剧方发表声明：反对网暴](https://www.3dmgame.com/news/202404/3892212.html)
+
++ [实物大元祖高达谢幕 技术总监希望打造真正人类乘坐的](https://www.3dmgame.com/news/202404/3892210.html)
+
++ [迪士尼CEO谈LGBT觉醒文化：娱乐至上 内容有趣才重要](https://www.3dmgame.com/news/202404/3892211.html)
+
