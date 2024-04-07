@@ -229,3 +229,15 @@
 
 + [强森：当初不该支持拜登当总统 对当下美国现状感到很恼火](https://www.3dmgame.com/news/202404/3892216.html)
 
++ [赶紧升级Win11吧！Win10打补丁要收费了](https://www.3dmgame.com/news/202404/3892223.html)
+
++ [毕业生制作《置换：无名画家生存法则》试玩版放出 预计明年发售](https://www.3dmgame.com/news/202404/3892222.html)
+
++ [恐怖游戏《不要害怕2》实机宣传片 前作特别好评](https://www.3dmgame.com/news/202404/3892221.html)
+
++ [三星和SK海力士正在提高DRAM产量 将恢复至削减前水平](https://www.3dmgame.com/news/202404/3892220.html)
+
++ [韩媒炮轰西方政治正确 发布《星刃》女主性感写真视频](https://www.3dmgame.com/news/202404/3892219.html)
+
++ [英伟达RTX 4090 D将继续在中国市场销售](https://www.3dmgame.com/news/202404/3892218.html)
+
