@@ -103,3 +103,13 @@
 
 + [国产情感怀旧《水远山遥》上架Steam 年内发售](https://www.3dmgame.com/news/202404/3892224.html)
 
++ [免费格斗游戏《超级龙拳力3》4月26日上线](https://www.3dmgame.com/news/202404/3892229.html)
+
++ [休闲建造游戏《星球乐园》现已发售PC版](https://www.3dmgame.com/news/202404/3892228.html)
+
++ [16人联机《一揆团结》4月18日登陆Switch](https://www.3dmgame.com/news/202404/3892227.html)
+
++ [塔防游戏《六方守护者》5月2日发售PC版](https://www.3dmgame.com/news/202404/3892226.html)
+
++ [爽快美少女肉鸽《战姬拉斯蒂尔 无限的迷宫城》即将开启抢鲜体验](https://www.3dmgame.com/news/202404/3892225.html)
+
