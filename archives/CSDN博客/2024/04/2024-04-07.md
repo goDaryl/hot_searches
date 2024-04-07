@@ -147,3 +147,7 @@
 
 + [基于YOLOv8的铁路工人安全作业检测系统](https://blog.csdn.net/m0_63774211/article/details/137417877)
 
++ [了解自动化机器学习 AutoML](https://blog.csdn.net/fyfugoyfa/article/details/137412467)
+
++ [QT Creator概览](https://blog.csdn.net/m0_73736495/article/details/137370795)
+

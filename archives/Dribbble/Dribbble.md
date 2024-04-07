@@ -83,3 +83,7 @@
 
 + [Klaipeda and Palanga Icons](https://dribbble.com/shots/)
 
++ [KAWAII City](https://dribbble.com/shots/)
+
++ [Noah Kahan Patch Designs for 2024 World Tour](https://dribbble.com/shots/)
+
