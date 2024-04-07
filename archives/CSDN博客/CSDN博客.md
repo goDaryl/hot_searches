@@ -105,3 +105,17 @@
 
 + [京东滑块验证逆向分析与算法还原](https://blog.csdn.net/qiulin_wu/article/details/137401841)
 
++ [华为ensp中高级acl (控制列表) 原理和配置命令 （详解）](https://blog.csdn.net/jxjdhdnd/article/details/137440566)
+
++ [【Python】数据挖掘与机器学习(一)](https://blog.csdn.net/joeyoj/article/details/137432849)
+
++ [设计模式深度解析：AI大模型下的策略模式与模板方法模式对比解析](https://blog.csdn.net/danci_/article/details/137477329)
+
++ [网络网络层之(3)IPv6地址](https://blog.csdn.net/Once_day/article/details/137433526)
+
++ [使用GPT需要注意的事项](https://blog.csdn.net/sf_jiang/article/details/137441357)
+
++ [网课笔记02](https://blog.csdn.net/2301_80669633/article/details/137406049)
+
++ [微信小程序的页面交互2](https://blog.csdn.net/2301_76669854/article/details/137432866)
+
