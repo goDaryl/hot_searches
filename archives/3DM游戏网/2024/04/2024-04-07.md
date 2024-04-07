@@ -219,3 +219,9 @@
 
 + [迪士尼CEO谈LGBT觉醒文化：娱乐至上 内容有趣才重要](https://www.3dmgame.com/news/202404/3892211.html)
 
++ [微星推出RTX4060 8G DUKE 3X暗黑龙爵显卡：纯黑外观](https://www.3dmgame.com/news/202404/3892214.html)
+
++ [《星刃》开发商Shift Up将继续开发单人游戏](https://www.3dmgame.com/news/202404/3892215.html)
+
++ [小米SU7有多火：日租金2000元起赶超保时捷！](https://www.3dmgame.com/news/202404/3892213.html)
+
