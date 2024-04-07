@@ -45,3 +45,5 @@
 
 + [FreeBuf 早报 | 全球首个涉AI安全双边协议签署；Omni酒店出现全国性IT故障](https://www.freebuf.com/news/396890.html)
 
++ [大模型安全测试入门指南](https://www.freebuf.com/articles/web/395864.html)
+

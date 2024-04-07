@@ -135,3 +135,15 @@
 
 + [吉田表示想要开发新的《最终幻想：战略版》游戏](https://www.3dmgame.com/news/202404/3892165.html)
 
++ [《暗黑破坏神4》加入Game Pass后 Xbox成为玩家首选平台](https://www.3dmgame.com/news/202404/3892171.html)
+
++ [神业达成 高玩无续命干掉《怒首领蜂最大往生》最难BOSS阴蜂](https://www.3dmgame.com/news/202404/3892172.html)
+
++ [神医再世 《龙之信条2》多位玩家自制MOD应对狂龙症](https://www.3dmgame.com/news/202404/3892173.html)
+
++ [《星露谷物语》1.6版本主机端和移动端正在开发中 将尽快上线](https://www.3dmgame.com/news/202404/3892174.html)
+
++ [警企联动 闵行开展网络安全宣传进企业活动](https://www.3dmgame.com/news/202404/3892175.html)
+
++ [《赛博朋克2077：往日之影》任务受《指环王》启发](https://www.3dmgame.com/news/202404/3892176.html)
+
