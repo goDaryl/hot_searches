@@ -151,3 +151,13 @@
 
 + [QT Creator概览](https://blog.csdn.net/m0_73736495/article/details/137370795)
 
++ [正排索引 vs 倒排索引 - 搜索引擎具体原理](https://blog.csdn.net/m0_75215937/article/details/137414259)
+
++ [开源大语言模型(LLM)汇总（持续更新中）](https://blog.csdn.net/qq_32907491/article/details/137403265)
+
++ [基于SpringBoot Vue养老院管理](https://blog.csdn.net/qq_32340877/article/details/137403410)
+
++ [微信小程序的页面交互2](https://blog.csdn.net/2301_76669854/article/details/137432866)
+
++ [【鸿蒙 HarmonyOS】@ohos.promptAction (弹窗)](https://blog.csdn.net/weixin_71403100/article/details/137438482)
+

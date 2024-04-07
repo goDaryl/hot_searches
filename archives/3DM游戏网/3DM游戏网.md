@@ -123,3 +123,15 @@
 
 + [《星刃》新预告片 介绍第七空降队队长塔奇](https://www.3dmgame.com/news/202404/3892163.html)
 
++ [《奇异人生》开发商被指控种族主义 性别歧视等](https://www.3dmgame.com/news/202404/3892170.html)
+
++ [CDPR调侃育碧：我们未来的游戏将是5A级](https://www.3dmgame.com/news/202404/3892167.html)
+
++ [传闻：《波斯王子》新作下周公布 5月14日上线Steam](https://www.3dmgame.com/news/202404/3892169.html)
+
++ [Xbox成立新团队 致力于游戏保存和向上兼容](https://www.3dmgame.com/news/202404/3892168.html)
+
++ [《NeverAwake》新DLC今夏上线 追加新关卡和玩法](https://www.3dmgame.com/news/202404/3892166.html)
+
++ [吉田表示想要开发新的《最终幻想：战略版》游戏](https://www.3dmgame.com/news/202404/3892165.html)
+
