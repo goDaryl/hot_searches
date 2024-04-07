@@ -77,3 +77,9 @@
 
 + [Noah Kahan Patch Designs for 2024 World Tour](https://dribbble.com/shots/)
 
++ [AI Art ????](https://dribbble.com/shots/)
+
++ [Dentistry 4 dummies ????????](https://dribbble.com/shots/)
+
++ [Fox Troubles](https://dribbble.com/shots/)
+
