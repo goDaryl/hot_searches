@@ -101,3 +101,23 @@
 
 + [Free Jira Time Tracker by Everhour](https://www.producthunt.com/posts/free-jira-time-tracker-by-everhour)
 
++ [Notes Tab](https://www.producthunt.com/posts/notes-tab)
+
++ [Yazero](https://www.producthunt.com/posts/yazero)
+
++ [UI Bakery AI App Generator](https://www.producthunt.com/posts/ui-bakery-ai-app-generator)
+
++ [RedCom.ai](https://www.producthunt.com/posts/redcom-ai)
+
++ [DataConstruct](https://www.producthunt.com/posts/dataconstruct)
+
++ [Goaly](https://www.producthunt.com/posts/goaly-3)
+
++ [Muraena](https://www.producthunt.com/posts/muraena)
+
++ [Robolly 2.0](https://www.producthunt.com/posts/robolly-2-0)
+
++ [Lancepilot](https://www.producthunt.com/posts/lancepilot)
+
++ [Reform](https://www.producthunt.com/posts/reform-2)
+

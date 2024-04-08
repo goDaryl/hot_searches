@@ -59,3 +59,7 @@
 
 + [22% 的员工承认违规使用 AI](https://www.freebuf.com/news/397169.html)
 
++ [FireProx：一款功能强大的AWS API网关管理与IP地址轮换代理工具](https://www.freebuf.com/sectool/393078.html)
+
++ [估值超两千亿，“暗网版微信”准备上市](https://www.freebuf.com/articles/neopoints/397165.html)
+
