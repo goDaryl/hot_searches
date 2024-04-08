@@ -125,3 +125,5 @@
 
 + [外包干了5天，技术退步明显.......](https://blog.csdn.net/lzz718719/article/details/137400995)
 
++ [神经网络是如何学习预测的？](https://blog.csdn.net/glaxy1/article/details/137468403)
+
