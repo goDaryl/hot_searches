@@ -105,3 +105,21 @@
 
 + [文献学习-30-GRAB-Net: 用于医学点云分割的图的边界感知网络](https://blog.csdn.net/Metaphysicist/article/details/137511715)
 
++ [Dify开源大语言模型(LLM) 应用开发平台如何使用Docker部署与远程访问](https://blog.csdn.net/a1657054242/article/details/137525676)
+
++ [Spring Boot：数据库的整合](https://blog.csdn.net/qq_56886142/article/details/136979315)
+
++ [[工具使用]绕过付费-适用于谷歌/火狐/Edge浏览器](https://blog.csdn.net/m0_46363249/article/details/137520577)
+
++ [网络安全（黑客技术）—2024自学手册](https://blog.csdn.net/dexi113/article/details/137470967)
+
++ [Linux系统Docker部署Apache Superset并实现公网实时访问本地数据](https://blog.csdn.net/qiuqiushuibx/article/details/137510800)
+
++ [HTTP【超文本传输协议】和HTTPS【超文本传输安全协议】有什么区别？](https://blog.csdn.net/Reggie97/article/details/137479353)
+
++ [鸿蒙学习记录](https://blog.csdn.net/C__Try/article/details/137435876)
+
++ [SpringBoot的核心特性](https://blog.csdn.net/qw12320/article/details/137481895)
+
++ [免费分享一套微信小程序在线订餐(点餐)配送系统(SpringBoot+Vue)，帅呆了~~](https://blog.csdn.net/caoli201314/article/details/137423213)
+
