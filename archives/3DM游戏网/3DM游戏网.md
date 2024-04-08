@@ -157,3 +157,23 @@
 
 + [动作类肉鸽游戏《超级幻想王国》现已登录Steam平台](https://www.3dmgame.com/news/202404/3892241.html)
 
++ [电影《哈尔的移动城堡》新预告 4月30日国内上映](https://www.3dmgame.com/news/202404/3892259.html)
+
++ [开发者表示《地狱潜者2》新增的直升机工厂只能用地狱炸弹摧毁](https://www.3dmgame.com/news/202404/3892260.html)
+
++ [官方提醒3DS和WiiU在线服务4月9日终止 但宝可梦两项服务继续](https://www.3dmgame.com/news/202404/3892261.html)
+
++ [DNF衍生类魂新作《第一狂战士：卡赞》进入后期打磨阶段](https://www.3dmgame.com/news/202404/3892256.html)
+
++ [传闻：《毁灭战士》新作今年公布 或在6月Xbox展示会亮相](https://www.3dmgame.com/news/202404/3892257.html)
+
++ [男子将游戏账号出租仅一天就被封十年 索赔3万败诉](https://www.3dmgame.com/news/202404/3892258.html)
+
++ [《龙珠：电光火石0》Xbox商店页面被撤下 玩家担心延期](https://www.3dmgame.com/news/202404/3892252.html)
+
++ [ARPG《命运的分形》Steam版售价188元 性感妹冒险](https://www.3dmgame.com/news/202404/3892253.html)
+
++ [Steam特别好评复古射击游戏《Nightmare Reaper》即将推出NS实体版](https://www.3dmgame.com/news/202404/3892254.html)
+
++ [经典《机动武斗传G高达》30周年纪念全新策划公开](https://www.3dmgame.com/news/202404/3892255.html)
+
