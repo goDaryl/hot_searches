@@ -177,3 +177,7 @@
 
 + [经典《机动武斗传G高达》30周年纪念全新策划公开](https://www.3dmgame.com/news/202404/3892255.html)
 
++ [《地狱潜者2》机器人种族被歼灭 东线终结族成首要目标](https://www.3dmgame.com/news/202404/3892263.html)
+
++ [需求飙升 产品供不应求：SSD在第二季度还要上涨25%](https://www.3dmgame.com/news/202404/3892262.html)
+
