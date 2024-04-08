@@ -51,3 +51,7 @@
 
 + [华为 MatePad Pro 13.2 英寸平板新增 SIM 卡版本，12GB+512GB 定价 7499 元](https://m.ithome.com/html/760506.htm)
 
++ [（更新：已修复）腾讯云崩了：控制台相关服务异常，正在紧急排查恢复](https://m.ithome.com/html/760568.htm)
+
++ [媒体分享 iPhone 16 渲染图，并探讨苹果引入“拍照按钮”背后理由](https://m.ithome.com/html/760501.htm)
+
