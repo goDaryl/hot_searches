@@ -101,3 +101,7 @@
 
 + [【项目实战经验】DataKit迁移MySQL到openGauss（下）](https://blog.csdn.net/GaussDB/article/details/137345997)
 
++ [【热门话题】Stable Diffusion：本地部署教程](https://blog.csdn.net/qq_44214428/article/details/137440705)
+
++ [文献学习-30-GRAB-Net: 用于医学点云分割的图的边界感知网络](https://blog.csdn.net/Metaphysicist/article/details/137511715)
+
