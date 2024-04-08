@@ -55,3 +55,5 @@
 
 + [媒体分享 iPhone 16 渲染图，并探讨苹果引入“拍照按钮”背后理由](https://m.ithome.com/html/760501.htm)
 
++ [古尔曼：苹果 2024 年年底前发布 iPad（第 11 代）和 iPad mini（第 7 代）](https://m.ithome.com/html/760445.htm)
+
