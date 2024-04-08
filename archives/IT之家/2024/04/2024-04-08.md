@@ -25,3 +25,5 @@
 
 + [小米 Redmi Pad Pro 平板配置曝光：12.1 英寸 LCD 大屏，10000mAh 电池](https://m.ithome.com/html/760374.htm)
 
++ [消息称华为明天起将连续 5 天召开新品介绍会，P70 发布时间未知](https://m.ithome.com/html/760437.htm)
+
