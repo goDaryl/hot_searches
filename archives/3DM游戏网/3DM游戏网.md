@@ -115,3 +115,9 @@
 
 + [沙发合作动作游戏《赶紧送走》4/19推出](https://www.3dmgame.com/news/202404/3892300.html)
 
++ [《辐射》电视剧第二季已获得2500万美元税收抵免](https://www.3dmgame.com/news/202404/3892307.html)
+
++ [消息称《女神异闻录6》已于2019年开始制作](https://www.3dmgame.com/news/202404/3892306.html)
+
++ [《地狱之刃2》售前直播探讨精神病女主经历](https://www.3dmgame.com/news/202404/3892305.html)
+
