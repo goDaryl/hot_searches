@@ -57,3 +57,5 @@
 
 + [非结构化数据资产分类分级建设实践与思考](https://www.freebuf.com/articles/database/396282.html)
 
++ [22% 的员工承认违规使用 AI](https://www.freebuf.com/news/397169.html)
+
