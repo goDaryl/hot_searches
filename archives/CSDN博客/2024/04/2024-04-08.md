@@ -173,3 +173,7 @@
 
 + [数据分析案例-牛油果价格和销量数据可视化分析与预测（文末送书）](https://blog.csdn.net/m0_64336780/article/details/135642869)
 
++ [Elasticsearch索引之嵌套类型：深度剖析与实战应用](https://blog.csdn.net/qq_26664043/article/details/137438939)
+
++ [数据挖掘及其近年来研究热点介绍](https://blog.csdn.net/qq_46009046/article/details/136990881)
+
