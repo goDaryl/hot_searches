@@ -101,3 +101,11 @@
 
 + [Fluxes](https://www.producthunt.com/posts/fluxes)
 
++ [WiseMap.ai](https://www.producthunt.com/posts/wisemap-ai)
+
++ [Drug Tariff Pro](https://www.producthunt.com/posts/drug-tariff-pro)
+
++ [Keyword Catcher](https://www.producthunt.com/posts/keyword-catcher-2)
+
++ [Pyramid Solitaire](https://www.producthunt.com/posts/pyramid-solitaire-2)
+
