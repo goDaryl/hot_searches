@@ -135,3 +135,25 @@
 
 + [《地狱潜者2》新补丁导致游戏崩溃 官方建议玩家休息几天](https://www.3dmgame.com/news/202404/3892234.html)
 
++ [《巫师》剧集新任杰洛特健身照 肌肉壮硕有力量感](https://www.3dmgame.com/news/202404/3892250.html)
+
++ [《魔兽世界 怀旧服》探索赛季“梦魇入侵”活动导致通货膨胀 引玩家不满](https://www.3dmgame.com/news/202404/3892249.html)
+
++ [《Whelm》游戏公开 企鹅主角物理沙盒生存建设](https://www.3dmgame.com/news/202404/3892251.html)
+
++ [《星刃》成PS商城预购最多游戏 美国玩家排第一](https://www.3dmgame.com/news/202404/3892248.html)
+
++ [《星刃》总监回应西方媒体批评质疑：这只是游戏而已](https://www.3dmgame.com/news/202404/3892247.html)
+
++ [《漫威蜘蛛侠2》DLC超级反派“甲壳虫”概念艺术泄露](https://www.3dmgame.com/news/202404/3892246.html)
+
++ [科幻RPG《Exodus》时间膨胀原理解释 将带来选择和后果](https://www.3dmgame.com/news/202404/3892242.html)
+
++ [《小骨：英雄杀手》免费更新! 推出全新的可玩角色“支配者”](https://www.3dmgame.com/news/202404/3892245.html)
+
++ [《蛋蛋蛋蛋蛋》Steam页面上线 小清新横版动作新游](https://www.3dmgame.com/news/202404/3892244.html)
+
++ [《全战战锤3》新DLC分成三部分单独售卖 每个售9美元](https://www.3dmgame.com/news/202404/3892243.html)
+
++ [动作类肉鸽游戏《超级幻想王国》现已登录Steam平台](https://www.3dmgame.com/news/202404/3892241.html)
+

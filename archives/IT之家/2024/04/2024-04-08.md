@@ -29,3 +29,9 @@
 
 + [小米澄清：智米创始人苏峻个人与奇瑞合作的汽车业务，与集团无关](https://m.ithome.com/html/760414.htm)
 
++ [小米汽车：SU7 电池设计寿命是 15 年 30 万公里](https://m.ithome.com/html/760458.htm)
+
++ [9 亿用户、估值 300 亿美元，「暗黑版微信」Telegram 决定上市](https://m.ithome.com/html/760367.htm)
+
++ [网传理想 L6 Pro 车型定价 25.98 万，官方回应：目前网上对价格的猜测都是假的](https://m.ithome.com/html/760405.htm)
+
