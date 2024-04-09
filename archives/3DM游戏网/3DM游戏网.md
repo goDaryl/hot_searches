@@ -121,3 +121,7 @@
 
 + [《地狱之刃2》售前直播探讨精神病女主经历](https://www.3dmgame.com/news/202404/3892305.html)
 
++ [CDPR仍然愿意为《赛博朋克2077》提供更多新内容](https://www.3dmgame.com/news/202404/3892309.html)
+
++ [小罗伯特·唐尼有意重返漫威宇宙饰演钢铁侠](https://www.3dmgame.com/news/202404/3892308.html)
+
