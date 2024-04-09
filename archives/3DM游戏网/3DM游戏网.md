@@ -111,3 +111,15 @@
 
 + [飞船生存RPG《极乐世界的回声》面向PC公布](https://www.3dmgame.com/news/202404/3892386.html)
 
++ [实体版《星球大战：法外狂徒》游戏安装需要联网](https://www.3dmgame.com/news/202404/3892392.html)
+
++ [2K发布视频介绍《上旋高手2k25》四大游戏模式](https://www.3dmgame.com/news/202404/3892391.html)
+
++ [《龙珠：超宇宙2》DLC新增两名高人气女角色](https://www.3dmgame.com/news/202404/3892390.html)
+
++ [Moon Studios已对奥日系列新作有了初步设想](https://www.3dmgame.com/news/202404/3892389.html)
+
++ [《过山车大亨3》RTX Remix路径追踪Mod分享](https://www.3dmgame.com/news/202404/3892388.html)
+
++ [点击式恐怖冒险游戏《坎德福斯传说》4/30推出](https://www.3dmgame.com/news/202404/3892387.html)
+
