@@ -239,3 +239,13 @@
 
 + [博主称小米SU7产能将提升：日产拉到400台以上 月产1.2万节奏](https://www.3dmgame.com/news/202404/3892366.html)
 
++ [SU7二手车溢价5万！小米回应车辆交付时间延长](https://www.3dmgame.com/news/202404/3892372.html)
+
++ [联想蝉联全球PC出货量榜首！大增7.8%超越市场](https://www.3dmgame.com/news/202404/3892369.html)
+
++ [百度文心一言上线语音定制功能：2秒完美复刻个人声音](https://www.3dmgame.com/news/202404/3892371.html)
+
++ [《NEKOTO》Steam页面上线 治愈系猫咪生活日常](https://www.3dmgame.com/news/202404/3892368.html)
+
++ [对话式AI游戏《心跳AI询问游戏》 5月24日发售](https://www.3dmgame.com/news/202404/3892367.html)
+

@@ -51,3 +51,5 @@
 
 + [罗永浩称自己已来不及造车，9 月将发布科技产品](https://m.ithome.com/html/760730.htm)
 
++ [小米 Redmi Pad Pro 平板预热：10000mAh 电池容量，支持反向充电](https://m.ithome.com/html/760649.htm)
+
