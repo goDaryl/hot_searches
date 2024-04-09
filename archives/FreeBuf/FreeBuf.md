@@ -43,3 +43,5 @@
 
 + [2024数据安全：超过60%组织的DLP“成熟度低”](https://www.freebuf.com/articles/paper/396114.html)
 
++ [FreeBuf早报 | 黑客可使用AI幻觉传播恶意软件；入侵iPhone的破解工具采购价飙升](https://www.freebuf.com/articles/397166.html)
+
