@@ -23,3 +23,5 @@
 
 + [归龙潮](https://www.taptap.cn/app/245662)
 
++ [祖宗模拟器](https://www.taptap.cn/app/238377)
+
