@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 黑客可使用AI幻觉传播恶意软件；入侵iPhone的破解工具采购价飙升](https://www.freebuf.com/articles/397166.html)
 
++ [安全编排自动化响应SOAR项目实践经验总结 | 方案篇](https://www.freebuf.com/articles/es/396714.html)
+

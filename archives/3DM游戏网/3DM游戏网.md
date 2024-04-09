@@ -149,3 +149,9 @@
 
 + [扎导力作《月球叛军2》新海报曝光 九大角色登场亮相](https://www.3dmgame.com/news/202404/3892310.html)
 
++ [集英社官方警告 《火影忍者》岸本齐史本人没有发布任何SNS](https://www.3dmgame.com/news/202404/3892324.html)
+
++ [MMORPG《寻路者》因更换发行商而暂时从Steam平台下架](https://www.3dmgame.com/news/202404/3892323.html)
+
++ [《无主之地》真人电影新剧照 六大主演集体亮相](https://www.3dmgame.com/news/202404/3892322.html)
+
