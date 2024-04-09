@@ -237,3 +237,5 @@
 
 + [《星空》新MOD发布 大幅度扩展据点建设要素](https://www.3dmgame.com/news/202404/3892360.html)
 
++ [博主称小米SU7产能将提升：日产拉到400台以上 月产1.2万节奏](https://www.3dmgame.com/news/202404/3892366.html)
+
