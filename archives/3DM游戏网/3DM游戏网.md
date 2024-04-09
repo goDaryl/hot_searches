@@ -155,3 +155,15 @@
 
 + [《无主之地》真人电影新剧照 六大主演集体亮相](https://www.3dmgame.com/news/202404/3892322.html)
 
++ [《Leo: The Firefighter Cat》Steam页面上线 10月发售](https://www.3dmgame.com/news/202404/3892330.html)
+
++ [《仙剑世界》“万物有灵”PV预告 三测将在5月开启](https://www.3dmgame.com/news/202404/3892325.html)
+
++ [类银河恶魔城游戏《希巴：新的黎明》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3892329.html)
+
++ [《妖精的尾巴：百年任务》新角色艺图公布 7月开播](https://www.3dmgame.com/news/202404/3892328.html)
+
++ [继日本官网后 任天堂再次更新其欧洲官网URL地址](https://www.3dmgame.com/news/202404/3892326.html)
+
++ [电子TCG开发者：已支付AI画师9万美元生成立绘](https://www.3dmgame.com/news/202404/3892327.html)
+

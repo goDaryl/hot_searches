@@ -33,3 +33,5 @@
 
 + [不收 3 块 5，高德志向不在盈利](https://m.ithome.com/html/760616.htm)
 
++ [智己 L6 新车发布会标错小米 SU7 Max 关键参数，小米敦促智己澄清](https://m.ithome.com/html/760658.htm)
+
