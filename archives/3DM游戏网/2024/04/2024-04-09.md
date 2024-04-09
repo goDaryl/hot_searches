@@ -225,3 +225,15 @@
 
 + [多人对战游戏《Tank Team》即将付费 开发者呼吁快领免费版](https://www.3dmgame.com/news/202404/3892357.html)
 
++ [马斯克：首艘无人驾驶的星舰将会在五年内登陆火星](https://www.3dmgame.com/news/202404/3892365.html)
+
++ [发现儿子玩游戏10分钟充6千 男子情绪失控自扇耳光](https://www.3dmgame.com/news/202404/3892364.html)
+
++ [Steam最新一周销量榜 《绝地潜兵2》连冠](https://www.3dmgame.com/news/202404/3892363.html)
+
++ [《魔兽世界》设计师将考迪克做成地精Boss 放进游戏](https://www.3dmgame.com/news/202404/3892362.html)
+
++ [低于大部分车企：比亚迪卖一辆车净赚9000元](https://www.3dmgame.com/news/202404/3892361.html)
+
++ [《星空》新MOD发布 大幅度扩展据点建设要素](https://www.3dmgame.com/news/202404/3892360.html)
+
