@@ -109,3 +109,19 @@
 
 + [yolo-yolov5介绍](https://blog.csdn.net/tywwwww/article/details/137498858)
 
++ [深入探索实时音视频技术：RTC程序设计权威指南](https://blog.csdn.net/qq_44273429/article/details/137556191)
+
++ [springboot3使用自定义注解+AOP+redis优雅实现防重复提交](https://blog.csdn.net/qq_62262918/article/details/137483835)
+
++ [【深度学习】YOLO-World: Real-Time Open-Vocabulary Object Detection，目标检测](https://blog.csdn.net/x1131230123/article/details/137506449)
+
++ [使用 Meltano 将数据从 Snowflake 导入到 Elasticsearch：开发者之旅](https://blog.csdn.net/UbuntuTouch/article/details/137534731)
+
++ [OpenHarmony开发-连接开发板调试应用](https://blog.csdn.net/weixin_41793160/article/details/137567835)
+
++ [【PHP系统学习】——Laravel框架数据库的连接以及数据库的增删改查的详细教程](https://blog.csdn.net/2301_77628600/article/details/137483256)
+
++ [咸鱼之王_手游_开服搭建架设_内购修复无bug运营版](https://blog.csdn.net/LuoZheng4698729/article/details/137527435)
+
++ [网络网络层之(7)PPPOE协议](https://blog.csdn.net/Once_day/article/details/137572822)
+

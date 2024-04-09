@@ -107,3 +107,7 @@
 
 + [《太阳之子》IGN7分 有创意、但重复显得无趣](https://www.3dmgame.com/news/202404/3892383.html)
 
++ [EA将Motive工作室加入《战地》开发团队](https://www.3dmgame.com/news/202404/3892385.html)
+
++ [飞船生存RPG《极乐世界的回声》面向PC公布](https://www.3dmgame.com/news/202404/3892386.html)
+
