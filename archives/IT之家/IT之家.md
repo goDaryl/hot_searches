@@ -55,3 +55,5 @@
 
 + [小米雷军发文预祝智界 S7 大卖：中国新能源车行业一起向前](https://m.ithome.com/html/760806.htm)
 
++ [2999 元起，中兴努比亚 nubia Flip 小折叠手机发布](https://m.ithome.com/html/760765.htm)
+
