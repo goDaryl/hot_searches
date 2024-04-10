@@ -129,3 +129,7 @@
 
 + [Glazed](https://www.producthunt.com/posts/glazed)
 
++ [Starmony](https://www.producthunt.com/posts/starmony)
+
++ [LingoPraxis](https://www.producthunt.com/posts/lingopraxis)
+
