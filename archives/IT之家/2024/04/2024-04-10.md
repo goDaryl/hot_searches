@@ -55,3 +55,5 @@
 
 + [余承东：全新华为 MateBook X Pro 将首次支持华为盘古大模型](https://m.ithome.com/html/760933.htm)
 
++ [高合回应车内摄像头照片泄露：本地图像数据不会上传云端](https://m.ithome.com/html/760918.htm)
+
