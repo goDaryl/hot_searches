@@ -75,3 +75,7 @@
 
 + [【东方】QUEEN【四季映姫 Ver. MMD】](http://www.acfun.cn/v/ac44275058)
 
++ [15块网购了两个电动车电瓶修复器！真的好用到爆炸！](http://www.acfun.cn/v/ac44290234)
+
++ [温柔《霜雪千年》翻唱|梨花香，缠着衣角掠过熙攘](http://www.acfun.cn/v/ac44291070)
+

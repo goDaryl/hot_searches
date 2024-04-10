@@ -51,3 +51,9 @@
 
 + [禁用了也没用？苹果隐私保护受到质疑](https://www.freebuf.com/news/397382.html)
 
++ [安全风险攻击面管理如何提升企业网络弹性？](https://www.freebuf.com/articles/397387.html)
+
++ [XZ后门检测工具和脚本最新汇总](https://www.freebuf.com/sectool/397401.html)
+
++ [JAVA安全 | Spring Security框架初探索](https://www.freebuf.com/articles/web/396932.html)
+
