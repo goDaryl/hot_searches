@@ -237,3 +237,19 @@
 
 + [英特尔预计今年出货4000万台AI PC 已出货500万颗AI PC芯片](https://www.3dmgame.com/news/202404/3892441.html)
 
++ [《星刃》深受男性玩家的喜爱：性感美女特别吸睛](https://www.3dmgame.com/news/202404/3892454.html)
+
++ [《Nimbusfall》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892455.html)
+
++ [《山门与幻境》DLC“我的江湖”4月18日上线 限时免费领取](https://www.3dmgame.com/news/202404/3892456.html)
+
++ [AI生成《辐射：新维加斯》电影版的样子 画面太美](https://www.3dmgame.com/news/202404/3892457.html)
+
++ [期待已久 官宣半天已有超28万玩家预约《魔兽世界》国服](https://www.3dmgame.com/news/202404/3892458.html)
+
++ [斜45度视角动作射击游戏《射戮骑士》Steam页面 年内发售](https://www.3dmgame.com/news/202404/3892451.html)
+
++ [微信Windows版更新：电脑收到文字消息能放大阅读了](https://www.3dmgame.com/news/202404/3892452.html)
+
++ [《真女神转生5：复仇》新角色系统曝出 玩法更多样](https://www.3dmgame.com/news/202404/3892453.html)
+
