@@ -213,3 +213,7 @@
 
 + [《攻壳机动队》4K修复版确认引进内地 档期待定](https://www.3dmgame.com/news/202404/3892438.html)
 
++ [传闻：《GTA6》男主角配音演员疑似被发现](https://www.3dmgame.com/news/202404/3892440.html)
+
++ [金亨泰表示《星刃》的主题故事受现实出租车司机罢工事件启发](https://www.3dmgame.com/news/202404/3892439.html)
+

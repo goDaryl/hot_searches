@@ -57,3 +57,7 @@
 
 + [JAVA安全 | Spring Security框架初探索](https://www.freebuf.com/articles/web/396932.html)
 
++ [网传桌面版telegram RCE 0day](https://www.freebuf.com/articles/system/397422.html)
+
++ [我参加了 OpenAI 红队的活动，并带来了一些笔记](https://www.freebuf.com/news/397407.html)
+
