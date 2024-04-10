@@ -125,3 +125,13 @@
 
 + [mysql运维知识总结](https://blog.csdn.net/sinat_31583645/article/details/136699950)
 
++ [从数据到文案：解锁AI大模型新潜力](https://blog.csdn.net/qq_32682301/article/details/137605760)
+
++ [【Machine Learning系列】带你快速学习十大机器学习算法](https://blog.csdn.net/zhangxia_/article/details/137590934)
+
++ [【微服务】------服务注册](https://blog.csdn.net/xiaoli8748/article/details/137564415)
+
++ [Harmony鸿蒙南向驱动开发-I2C](https://blog.csdn.net/m0_64420071/article/details/137569669)
+
++ [什么的零日攻击，如何防御零日攻击](https://blog.csdn.net/dexunxiaoqian/article/details/137555425)
+
