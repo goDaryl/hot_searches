@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 谷歌 Chrome 新增 V8 沙盒；著名 YouTube 频道遭黑客攻击](https://www.freebuf.com/news/397295.html)
 
++ [PHP面向过程(无MVC框架类型)代码审计初尝试](https://www.freebuf.com/articles/web/396807.html)
+
