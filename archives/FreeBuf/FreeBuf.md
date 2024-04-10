@@ -41,3 +41,5 @@
 
 + [FreeBuf 早报 | 美国卫生部警告医院黑客攻击IT服务台；全新恶意软件 JSOutProx 曝光](https://www.freebuf.com/news/397038.html)
 
++ [安全敏感变量和内置浏览器API克星 | DOM Clobbering技术防御详解](https://www.freebuf.com/articles/web/396018.html)
+

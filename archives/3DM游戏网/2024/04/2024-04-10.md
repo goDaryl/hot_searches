@@ -123,3 +123,7 @@
 
 + [点击式恐怖冒险游戏《坎德福斯传说》4/30推出](https://www.3dmgame.com/news/202404/3892387.html)
 
++ [《魔兽世界：大灾变》经典服5月21日上线](https://www.3dmgame.com/news/202404/3892394.html)
+
++ [优衣库推出《塞尔达传说：王国之泪》联名T恤](https://www.3dmgame.com/news/202404/3892393.html)
+
