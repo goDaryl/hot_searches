@@ -217,3 +217,23 @@
 
 + [金亨泰表示《星刃》的主题故事受现实出租车司机罢工事件启发](https://www.3dmgame.com/news/202404/3892439.html)
 
++ [制片公司公开《玩具熊五夜后宫》电影续集幕后照片](https://www.3dmgame.com/news/202404/3892450.html)
+
++ [玩家质疑育碧刻意丑化《星球大战：法外狂徒》女主](https://www.3dmgame.com/news/202404/3892449.html)
+
++ [《原神》4.6版本前瞻特别节目确定 4月12日播出](https://www.3dmgame.com/news/202404/3892448.html)
+
++ [KK对战平台首届“吐槽大会”完美谢幕，“暴打”策划，整蛊作者笑爆全场！](https://www.3dmgame.com/news/202404/3892447.html)
+
++ [网易《漫威争锋》还将登陆主机平台 PS5和Xbox Series X|S](https://www.3dmgame.com/news/202404/3892446.html)
+
++ [《实况力量职业棒球2024-2025》7月18日发售 系列30周年纪念](https://www.3dmgame.com/news/202404/3892445.html)
+
++ [三人团队肉鸽游戏《永恒核心英雄》登录Steam平台](https://www.3dmgame.com/news/202404/3892444.html)
+
++ [《Inkbound》登陆Steam 肉鸽元素回合制战略RPG](https://www.3dmgame.com/news/202404/3892443.html)
+
++ [《小丑牌》大型更新测试版登陆Steam 体验大提升](https://www.3dmgame.com/news/202404/3892442.html)
+
++ [英特尔预计今年出货4000万台AI PC 已出货500万颗AI PC芯片](https://www.3dmgame.com/news/202404/3892441.html)
+
