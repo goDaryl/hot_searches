@@ -253,3 +253,23 @@
 
 + [《真女神转生5：复仇》新角色系统曝出 玩法更多样](https://www.3dmgame.com/news/202404/3892453.html)
 
++ [国人为何不买iPhone手机了：告别苹果象征身份等！](https://www.3dmgame.com/news/202404/3892466.html)
+
++ [《真·女神转生Ⅴ Vengeance》最新宣传片公开！ 下载版全平台开启预购](https://www.3dmgame.com/news/202404/3892467.html)
+
++ [《全面战争：战锤3》全新DLC《Thrones of Decay》将于春季发布](https://www.3dmgame.com/news/202404/3892468.html)
+
++ [《女鬼桥二 释魂路》宣布5月9日发售 率先登陆Steam](https://www.3dmgame.com/news/202404/3892462.html)
+
++ [14%的苹果iPhone产自印度 产值翻倍达140亿美元](https://www.3dmgame.com/news/202404/3892463.html)
+
++ [《最终幻想7：重生》原声大碟发售 7CD内附珍贵特典](https://www.3dmgame.com/news/202404/3892464.html)
+
++ [首批车主加价8千卖掉小米SU7：不是不爱 对方加价太猛](https://www.3dmgame.com/news/202404/3892465.html)
+
++ [索尼电视均价唯一破万：秒杀华为 比小米贵4倍](https://www.3dmgame.com/news/202404/3892459.html)
+
++ [《星刃》总监推荐多穿护甲 玩家不穿无伤击败Boss](https://www.3dmgame.com/news/202404/3892460.html)
+
++ [忍无可忍：法国一市教民众烹饪兔肉应对野兔泛滥](https://www.3dmgame.com/news/202404/3892461.html)
+

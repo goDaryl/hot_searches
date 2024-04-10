@@ -53,3 +53,5 @@
 
 + [直接发布新款 iPad Pro / Air，消息称苹果今年不举办春季特别活动](https://m.ithome.com/html/760903.htm)
 
++ [余承东：全新华为 MateBook X Pro 将首次支持华为盘古大模型](https://m.ithome.com/html/760933.htm)
+
