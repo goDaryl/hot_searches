@@ -63,3 +63,5 @@
 
 + [hideNsneak：一款功能强大的渗透测试基础设施管理工具](https://www.freebuf.com/sectool/393144.html)
 
++ [颠覆大众认知，苹果“强制”收集用户数据](https://www.freebuf.com/news/397382.html)
+

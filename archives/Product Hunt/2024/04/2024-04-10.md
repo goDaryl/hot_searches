@@ -127,3 +127,5 @@
 
 + [deco.cx 2.0](https://www.producthunt.com/posts/deco-cx-2-0)
 
++ [Glazed](https://www.producthunt.com/posts/glazed)
+
