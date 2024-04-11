@@ -41,3 +41,5 @@
 
 + [2024数据安全：超过60%组织的DLP“成熟度低”](https://www.freebuf.com/articles/paper/396114.html)
 
++ [CoralRaider勒索组织窃取亚洲金融机构数据事件解析](https://www.freebuf.com/articles/neopoints/397365.html)
+

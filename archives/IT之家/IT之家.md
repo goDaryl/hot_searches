@@ -29,3 +29,5 @@
 
 + [小米开放式耳机发布，649 元](https://m.ithome.com/html/761084.htm)
 
++ [100.8 万元起，新款保时捷 Taycan 纯电轿跑车开启预售](https://m.ithome.com/html/761089.htm)
+

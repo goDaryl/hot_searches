@@ -111,3 +111,11 @@
 
 + [《杀戮尖塔2》正式公布2025年抢先体验](https://www.3dmgame.com/news/202404/3892480.html)
 
++ [《幻兽帕鲁》PvP模式“帕鲁竞技场”首爆预告 今年上线](https://www.3dmgame.com/news/202404/3892485.html)
+
++ [《死亡空间2：重制版》有可能被EA取消了 初代重制版销量并不好](https://www.3dmgame.com/news/202404/3892484.html)
+
++ [《吸血鬼幸存者》5月推出《魂斗罗》联动DLC](https://www.3dmgame.com/news/202404/3892483.html)
+
++ [像素游戏《格式塔：蒸汽与煤渣》5月22日发售](https://www.3dmgame.com/news/202404/3892482.html)
+
