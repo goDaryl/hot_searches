@@ -283,3 +283,9 @@
 
 + [华为发布全新MateBook X Pro笔电 11199元起](https://www.3dmgame.com/news/202404/3892567.html)
 
++ [《血源》部分关卡设计是因为PS4机能太弱](https://www.3dmgame.com/news/202404/3892570.html)
+
++ [《星刃》新一期游戏角色介绍视频——百合](https://www.3dmgame.com/news/202404/3892568.html)
+
++ [美剧《英雄》又要“重启”了 故事设定在《英雄》之后数年](https://www.3dmgame.com/news/202404/3892569.html)
+
