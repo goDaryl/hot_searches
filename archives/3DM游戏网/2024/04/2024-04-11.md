@@ -195,3 +195,19 @@
 
 + [EA Motive《钢铁侠》游戏开发还在继续 刚取得了一个重要里程碑](https://www.3dmgame.com/news/202404/3892502.html)
 
++ [《波斯王子：Rogue》15分钟实机 5月14日发售](https://www.3dmgame.com/news/202404/3892528.html)
+
++ [女子7000元买的iPhone 维修费高达14000元：官方回应](https://www.3dmgame.com/news/202404/3892530.html)
+
++ [RNG战队CEO自曝快破产：想卖NFT做“公众战队”](https://www.3dmgame.com/news/202404/3892531.html)
+
++ [《地痞街道2》新实机演示预告 2024年年内登陆Steam](https://www.3dmgame.com/news/202404/3892524.html)
+
++ [《燕云十六声》官宣公测定档7月26日 承诺绝不跳票](https://www.3dmgame.com/news/202404/3892525.html)
+
++ [“终焉之形”新职业泄密者透露《命运3》正在开发中](https://www.3dmgame.com/news/202404/3892526.html)
+
++ [主创透露《黑袍纠察队》第四季已经完成全部制作](https://www.3dmgame.com/news/202404/3892527.html)
+
++ [日本多位知名声优参演AI朗读剧活动中止 侵权舆论袭来](https://www.3dmgame.com/news/202404/3892529.html)
+

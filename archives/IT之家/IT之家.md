@@ -41,3 +41,5 @@
 
 + [小米推出 Redmi MAX 100 英寸电视新品，8999 元](https://m.ithome.com/html/761085.htm)
 
++ [小米 Redmi Turbo 3、Redmi Pad Pro 哈利・波特定制版发布：2699 元 / 2299 元](https://m.ithome.com/html/761083.htm)
+
