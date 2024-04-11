@@ -81,3 +81,7 @@
 
 + [Happy Hiker](https://dribbble.com/shots/)
 
++ [Dietrich Bonhoeffer (King of Spades)](https://dribbble.com/shots/)
+
++ [Nomint logotype design concept](https://dribbble.com/shots/)
+
