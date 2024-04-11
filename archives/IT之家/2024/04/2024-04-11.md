@@ -31,3 +31,7 @@
 
 + [100.8 万元起，新款保时捷 Taycan 纯电轿跑车开启预售](https://m.ithome.com/html/761089.htm)
 
++ [【IT之家开箱】Redmi Turbo3「冰钛」图赏：179g + 骁龙 8s Gen 3，轻薄小钢炮](https://m.ithome.com/html/761088.htm)
+
++ [【IT之家评测室】Redmi Turbo3 体验：榨干骁龙 8s Gen3 的性能小钢炮](https://m.ithome.com/html/761087.htm)
+

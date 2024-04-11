@@ -43,3 +43,5 @@
 
 + [CoralRaider勒索组织窃取亚洲金融机构数据事件解析](https://www.freebuf.com/articles/neopoints/397365.html)
 
++ [FreeBuf早报 | 上万台LG电视机容易被黑客控制；微信宣布打击租售微信账号行为](https://www.freebuf.com/news/397535.html)
+
