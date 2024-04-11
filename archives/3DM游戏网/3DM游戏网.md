@@ -281,3 +281,5 @@
 
 + [小米汽车：SU7车内摄像头不对外传输数据 可完全关闭](https://www.3dmgame.com/news/202404/3892565.html)
 
++ [华为发布全新MateBook X Pro笔电 11199元起](https://www.3dmgame.com/news/202404/3892567.html)
+
