@@ -49,3 +49,15 @@
 
 + [HE IS RISEN + MY STORY](https://dribbble.com/shots/)
 
++ [ilcons chapter 8](https://dribbble.com/shots/)
+
++ [How to beat the winter blues - Northshore Magazine](https://dribbble.com/shots/)
+
++ [Astronaut](https://dribbble.com/shots/)
+
++ [Devotion](https://dribbble.com/shots/)
+
++ [More Stickers](https://dribbble.com/shots/)
+
++ [H.U.M.A.N](https://dribbble.com/shots/)
+
