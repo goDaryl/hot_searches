@@ -131,3 +131,7 @@
 
 + [Musho](https://www.producthunt.com/posts/musho)
 
++ [Folderizer](https://www.producthunt.com/posts/folderizer)
+
++ [Slidey](https://www.producthunt.com/posts/slidey)
+
