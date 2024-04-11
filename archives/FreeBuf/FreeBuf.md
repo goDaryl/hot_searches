@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 上万台LG电视机容易被黑客控制；微信宣布打击租售微信账号行为](https://www.freebuf.com/news/397535.html)
 
++ [安全合规 | 出海企业安全资质之一：SOC2 鉴证报告](https://www.freebuf.com/articles/neopoints/396859.html)
+

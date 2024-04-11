@@ -35,3 +35,5 @@
 
 + [【IT之家评测室】Redmi Turbo3 体验：榨干骁龙 8s Gen3 的性能小钢炮](https://m.ithome.com/html/761087.htm)
 
++ [比亚迪混动 + 华为 HiCar，赛力斯蓝电 E5 荣耀版上市：9.98 万元起](https://m.ithome.com/html/761101.htm)
+

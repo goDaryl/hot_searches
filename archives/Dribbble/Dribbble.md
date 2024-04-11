@@ -93,3 +93,9 @@
 
 + [Bandoola](https://dribbble.com/shots/)
 
++ [THE WAR](https://dribbble.com/shots/)
+
++ [Noah Kahan Patch Designs for 2024 World Tour](https://dribbble.com/shots/)
+
++ [Dune Shift Circular Logo](https://dribbble.com/shots/)
+
