@@ -39,3 +39,5 @@
 
 + [小米汽车：SU7 续航低于 50km 可触发“超级省电模式”，将关闭多种配置并限速 90km/h](https://m.ithome.com/html/761108.htm)
 
++ [小米推出 Redmi MAX 100 英寸电视新品，8999 元](https://m.ithome.com/html/761085.htm)
+

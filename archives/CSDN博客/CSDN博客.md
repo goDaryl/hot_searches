@@ -141,3 +141,15 @@
 
 + [配置交换机端口安全](https://blog.csdn.net/2301_79898387/article/details/137558021)
 
++ [软件杯 深度学习人脸表情识别算法 - opencv python 机器视觉](https://blog.csdn.net/m0_43533/article/details/137590159)
+
++ [数据可视化-ECharts Html项目实战（11）](https://blog.csdn.net/qq_49513817/article/details/137600956)
+
++ [Elasticsearch：从 ES|QL 到 PHP 对象](https://blog.csdn.net/UbuntuTouch/article/details/137588806)
+
++ [Linux：自动化构建 - make](https://blog.csdn.net/fsdfafsdsd/article/details/137610823)
+
++ [外包干了9天，技术退步明显。。。。。](https://blog.csdn.net/2301_81967703/article/details/137570187)
+
++ [虚拟网络设备与网络安全：深入分析与实践应用](https://blog.csdn.net/IOT_AI/article/details/137534473)
+
