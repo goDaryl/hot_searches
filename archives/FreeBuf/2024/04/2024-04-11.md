@@ -63,3 +63,5 @@
 
 + [见证AI网络安全的火花，探索企业安全建设新路径](https://www.freebuf.com/fevents/397485.html)
 
++ [碰撞AI安全的火花，探索企业安全建设新路径](https://www.freebuf.com/fevents/397485.html)
+
