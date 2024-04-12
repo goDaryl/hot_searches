@@ -151,3 +151,5 @@
 
 + [Tranquil Expanse](https://www.producthunt.com/posts/tranquil-expanse)
 
++ [ExplainTXT](https://www.producthunt.com/posts/explaintxt)
+

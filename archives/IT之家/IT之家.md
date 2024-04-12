@@ -63,3 +63,7 @@
 
 + [雷军：小米 SU7 购车用户中女性占比近 30%](https://m.ithome.com/html/761478.htm)
 
++ [哈啰顺风车：前 10 位认证成功的小米 SU7 车主，免费送 1000 度电](https://m.ithome.com/html/761511.htm)
+
++ [长安启源 A05 / Q05 真香版电混车型上市，指导价 7.89 / 9.69 万元起](https://m.ithome.com/html/761411.htm)
+

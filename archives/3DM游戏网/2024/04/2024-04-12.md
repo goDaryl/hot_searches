@@ -249,3 +249,7 @@
 
 + [《刀剑神域：异绊集结》DLC“羁绊仪式Vol.2”4月18日发售 追加全新剧情](https://www.3dmgame.com/news/202404/3892647.html)
 
++ [《星刃》PS5容量30.4GB 预载19日开启](https://www.3dmgame.com/news/202404/3892651.html)
+
++ [AMD Strix Point图形性能高于RX 6400 指RTX 3050](https://www.3dmgame.com/news/202404/3892650.html)
+

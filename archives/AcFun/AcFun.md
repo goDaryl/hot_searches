@@ -131,3 +131,9 @@
 
 + [萌宠集合，这才是猛男该看的！第四百七十期](http://www.acfun.cn/v/ac44308669)
 
++ [自制左轮锂电钻](http://www.acfun.cn/v/ac44314470)
+
++ [【AC访谈录】2024年 第2期 闪光小羊——雨音咩咩](http://www.acfun.cn/v/ac44309045)
+
++ [阿伟 阿伟 我要迪士尼](http://www.acfun.cn/v/ac44314302)
+
