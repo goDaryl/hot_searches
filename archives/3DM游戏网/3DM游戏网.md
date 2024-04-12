@@ -199,3 +199,11 @@
 
 + [《哆啦A梦：大雄的地球交响乐》定档5月31日 和童年经典大银幕见](https://www.3dmgame.com/news/202404/3892613.html)
 
++ [《绝地潜兵2》新通行证发布：新武器太垃圾引热议](https://www.3dmgame.com/news/202404/3892627.html)
+
++ [传统神话动作Rogue《宝莲灯：太子沉香》正式版现已发售！首周九折！](https://www.3dmgame.com/news/202404/3892370.html)
+
++ [回合制战略游戏《指挥部：二战》现已在Steam平台正式推出](https://www.3dmgame.com/news/202404/3892628.html)
+
++ [《魔兽世界》公布“强袭风暴”模式统计数据 超过64万场比赛](https://www.3dmgame.com/news/202404/3892626.html)
+
