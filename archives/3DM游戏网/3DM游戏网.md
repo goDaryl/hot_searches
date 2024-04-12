@@ -255,3 +255,5 @@
 
 + [《我的世界》真人电影现已杀青 杰克·布莱克x杰森·莫玛](https://www.3dmgame.com/news/202404/3892652.html)
 
++ [OpenAI以泄密为由解雇两名研究人员 包括首席科学家盟友](https://www.3dmgame.com/news/202404/3892653.html)
+
