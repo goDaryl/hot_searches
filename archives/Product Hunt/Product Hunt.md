@@ -153,3 +153,11 @@
 
 + [ExplainTXT](https://www.producthunt.com/posts/explaintxt)
 
++ [Flexi Domain](https://www.producthunt.com/posts/flexi-domain)
+
++ [SwearBy (iOS)](https://www.producthunt.com/posts/swearby-ios)
+
++ [EZmeal private calorie app](https://www.producthunt.com/posts/ezmeal-private-calorie-app)
+
++ [What Is The Time](https://www.producthunt.com/posts/what-is-the-time-3)
+
