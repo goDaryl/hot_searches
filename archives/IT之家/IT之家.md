@@ -61,3 +61,5 @@
 
 + [微软 Surface Pro 10、Surface Laptop 6 商用版已开售，9888/12288 元起](https://m.ithome.com/html/761308.htm)
 
++ [雷军：小米 SU7 购车用户中女性占比近 30%](https://m.ithome.com/html/761478.htm)
+
