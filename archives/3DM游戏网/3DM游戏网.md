@@ -227,3 +227,19 @@
 
 + [新《布莱尔女巫》电影公布 将为系列再次重启作品](https://www.3dmgame.com/news/202404/3892634.html)
 
++ [曾是全国最大民营宽带！长城宽带等遭强制执行8.8亿元](https://www.3dmgame.com/news/202404/3892644.html)
+
++ [《星刃》女主伊芙手办欣赏 性感逼真包你满意](https://www.3dmgame.com/news/202404/3892645.html)
+
++ [华为P70系列详细参数和价格曝光！全系搭载麒麟9010](https://www.3dmgame.com/news/202404/3892646.html)
+
++ [《FIFA 16》Denuvo加密系统被黑客攻破 虽迟但到](https://www.3dmgame.com/news/202404/3892642.html)
+
++ [繁中版《超时空要塞：Shooting Insight》夏季发售 PS及Switch平台](https://www.3dmgame.com/news/202404/3892643.html)
+
++ [微软不遗余力推广Win11：全屏提醒用户Win10将停用](https://www.3dmgame.com/news/202404/3892639.html)
+
++ [消息泄露确认《女神异闻录4》重制版存在 但要等待](https://www.3dmgame.com/news/202404/3892640.html)
+
++ [Steam发布FPS游戏节宣传片 4月16日凌晨开启](https://www.3dmgame.com/news/202404/3892641.html)
+
