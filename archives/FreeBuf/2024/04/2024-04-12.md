@@ -63,3 +63,5 @@
 
 + [BST：一款功能强大的二进制字符串代码格式转换工具](https://www.freebuf.com/sectool/393155.html)
 
++ [金融监管总局发布《反保险欺诈工作办法（征求意见稿）》](https://www.freebuf.com/news/397772.html)
+
