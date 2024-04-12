@@ -173,3 +173,29 @@
 
 + [《游戏王》活动现场气味太大熏走女玩家：太臭受不了](https://www.3dmgame.com/news/202404/3892608.html)
 
++ [李彦宏首次回应为何不开源文心：闭源能赚到钱 聚集人才](https://www.3dmgame.com/news/202404/3892625.html)
+
++ [索尼圣莫尼卡工作室招聘启事可能暗示《战神》新作正在开发](https://www.3dmgame.com/news/202404/3892622.html)
+
++ [《星球大战：法外狂徒》不像育碧罐头：没有爬塔开图](https://www.3dmgame.com/news/202404/3892624.html)
+
++ [《圣剑传说 Visions of Mana》真人宣传片 夏季发售](https://www.3dmgame.com/news/202404/3892623.html)
+
++ [《黎明杀机》推出全新游戏内商城 大量外观物品降价](https://www.3dmgame.com/news/202404/3892621.html)
+
++ [《女神异闻录：夜幕魅影》今日公测 《女神异闻录5》联动同步开启](https://www.3dmgame.com/news/202404/3892620.html)
+
++ [城市建设游戏《颂钟长鸣》宣布4月23日开启Steam抢先体验](https://www.3dmgame.com/news/202404/3892618.html)
+
++ [合作游戏《内容警告》免费送后一周售出70万份](https://www.3dmgame.com/news/202404/3892619.html)
+
++ [《波斯王子：Rogue》与系列作品无关联 为全新故事和全新宇宙](https://www.3dmgame.com/news/202404/3892616.html)
+
++ [任天堂Switch会员新入库四款经典SFC游戏 现已上线](https://www.3dmgame.com/news/202404/3892615.html)
+
++ [开发者坚决不用Unity 《杀戮尖塔2》使用Godot开发](https://www.3dmgame.com/news/202404/3892614.html)
+
++ [电影《小倩》“讨厌人间”版预告 4月30日全国上映](https://www.3dmgame.com/news/202404/3892617.html)
+
++ [《哆啦A梦：大雄的地球交响乐》定档5月31日 和童年经典大银幕见](https://www.3dmgame.com/news/202404/3892613.html)
+
