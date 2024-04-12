@@ -57,3 +57,9 @@
 
 + [又一间谍软件“盯上”了苹果公司，波及到 92 个国家的 iPhone 用户](https://www.freebuf.com/news/397719.html)
 
++ [渗透测试 | 一次某医疗系统实战](https://www.freebuf.com/articles/web/383506.html)
+
++ [真是炸裂！俄APT组织成功窃取美国政府通信数据和微软源代码](https://www.freebuf.com/news/397778.html)
+
++ [BST：一款功能强大的二进制字符串代码格式转换工具](https://www.freebuf.com/sectool/393155.html)
+

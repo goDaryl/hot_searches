@@ -217,3 +217,13 @@
 
 + [OpenAI新GPT-4 Turbo模型上线 可供付费ChatGPT用户使用](https://www.3dmgame.com/news/202404/3892629.html)
 
++ [英国拟立法 禁止向16岁以下未成年人出售智能手机](https://www.3dmgame.com/news/202404/3892638.html)
+
++ [《星刃》媒体评测即将开始 评分4月24日解禁](https://www.3dmgame.com/news/202404/3892636.html)
+
++ [毛茸茸拯救世界！回合制肉鸽《异界失控》现已发售](https://www.3dmgame.com/news/202404/3892635.html)
+
++ [《忍者神龟：最后的浪人》真人改编电影正在制作中](https://www.3dmgame.com/news/202404/3892637.html)
+
++ [新《布莱尔女巫》电影公布 将为系列再次重启作品](https://www.3dmgame.com/news/202404/3892634.html)
+
