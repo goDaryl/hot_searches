@@ -105,3 +105,19 @@
 
 + [《古墓丽影三部曲合集》更新追加性感劳拉豹纹皮肤](https://www.3dmgame.com/news/202404/3892577.html)
 
++ [《波斯王子：Rogue》配置及新预告片公布](https://www.3dmgame.com/news/202404/3892585.html)
+
++ [《指环王：夏尔的传说》预告片将于4/22公布](https://www.3dmgame.com/news/202404/3892584.html)
+
++ [《遗迹2》DLC“被遗忘的王国”4月23日推出](https://www.3dmgame.com/news/202404/3892583.html)
+
++ [网传Deep Silver《天国：拯救2》将于4/18公布](https://www.3dmgame.com/news/202404/3892582.html)
+
++ [Discord正在删除Switch模拟器开发者及其服务器](https://www.3dmgame.com/news/202404/3892581.html)
+
++ [《辐射4》获次世代更新相比原版大幅度增强](https://www.3dmgame.com/news/202404/3892580.html)
+
++ [《堡垒之夜》联动《降世神通》今晚上线](https://www.3dmgame.com/news/202404/3892579.html)
+
++ [《星刃》官方发布怪物演示视频令人毛骨悚然](https://www.3dmgame.com/news/202404/3892578.html)
+

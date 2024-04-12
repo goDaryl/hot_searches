@@ -27,3 +27,5 @@
 
 + [realme 真我 GT Neo6 SE 手机发布：首发 6000nit 无双屏，首销价 1699 元起](https://m.ithome.com/html/761179.htm)
 
++ [华为无线鼠标星闪版发布：抗干扰能力提升 4 倍，首发价 209 元](https://m.ithome.com/html/761270.htm)
+
