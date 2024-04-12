@@ -163,3 +163,13 @@
 
 + [《博德之门3》又赢麻：斩获2024年BAFTA五项大奖](https://www.3dmgame.com/news/202404/3892594.html)
 
++ [《美国队长4》新剧照 罗斯将军想重组复仇者联盟](https://www.3dmgame.com/news/202404/3892609.html)
+
++ [冰球对战派对游戏《冰球大莽斗》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3892612.html)
+
++ [EA《Apex英雄》英国测试QA团队关闭 50人被裁](https://www.3dmgame.com/news/202404/3892611.html)
+
++ [《哆啦A梦：大雄的地球交响乐》定档预告 5月31日上映](https://www.3dmgame.com/news/202404/3892610.html)
+
++ [《游戏王》活动现场气味太大熏走女玩家：太臭受不了](https://www.3dmgame.com/news/202404/3892608.html)
+
