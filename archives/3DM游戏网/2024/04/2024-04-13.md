@@ -151,3 +151,13 @@
 
 + [手机真有读心术吗：专家称App监听的可能性几乎没有](https://www.3dmgame.com/news/202404/3892682.html)
 
++ [《沙耶之歌》女主布娃娃比发行商所有游戏收入还高](https://www.3dmgame.com/news/202404/3892686.html)
+
++ [小米应用商店新规今日生效：App不得默认自动续费](https://www.3dmgame.com/news/202404/3892687.html)
+
++ [《最终幻想7：永恒危机》蒂法兔女郎装扮预告赏](https://www.3dmgame.com/news/202404/3892683.html)
+
++ [Xbox云游戏服务UI更新 让玩家的社交功能更加便捷](https://www.3dmgame.com/news/202404/3892684.html)
+
++ [疯狂涌入试玩版 《星刃》开发商呼吁玩家“手下留情”](https://www.3dmgame.com/news/202404/3892685.html)
+
