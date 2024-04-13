@@ -63,3 +63,13 @@
 
 + [Agua de Iquitos Label Design](https://dribbble.com/shots/)
 
++ [Agumbe bus ride](https://dribbble.com/shots/)
+
++ [NIGHTLIFE BREWING CO](https://dribbble.com/shots/)
+
++ [Noah Kahan Patch Designs for 2024 World Tour](https://dribbble.com/shots/)
+
++ [Rebel Sound ????⚡](https://dribbble.com/shots/)
+
++ [Havana](https://dribbble.com/shots/)
+
