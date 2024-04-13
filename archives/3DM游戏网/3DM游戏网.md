@@ -161,3 +161,7 @@
 
 + [疯狂涌入试玩版 《星刃》开发商呼吁玩家“手下留情”](https://www.3dmgame.com/news/202404/3892685.html)
 
++ [《网络奇兵：重制版》PC版更新 女性主角正式加入](https://www.3dmgame.com/news/202404/3892688.html)
+
++ [策略游戏《Memoriapolis》预告 不支持中文](https://www.3dmgame.com/news/202404/3892689.html)
+
