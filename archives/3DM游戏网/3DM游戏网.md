@@ -189,3 +189,7 @@
 
 + [《辐射》真人剧大火 《辐射4》Steam在线超3.6万](https://www.3dmgame.com/news/202404/3892700.html)
 
++ [英伟达RTX 5090显卡 售价可能超2500美元](https://www.3dmgame.com/news/202404/3892703.html)
+
++ [神还原，细节拉满！粉丝用现实场景复刻《GTA6》预告片](https://www.3dmgame.com/news/202404/3892702.html)
+
