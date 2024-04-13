@@ -181,3 +181,5 @@
 
 + [3I独立展暗示《丝之歌》啥都没播 玩家再变“小丑”](https://www.3dmgame.com/news/202404/3892690.html)
 
++ [《星刃》PS5支持三种模式 支持2K/60FPS和4K/30FPS](https://www.3dmgame.com/news/202404/3892698.html)
+
