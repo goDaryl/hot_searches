@@ -103,3 +103,5 @@
 
 + [《杀戮尖塔2》明年在Steam开启抢先体验 前作广受好评](https://www.3dmgame.com/news/202404/3892658.html)
 
++ [《最终幻想7：重制版》第三部或于2027年发售](https://www.3dmgame.com/news/202404/3892659.html)
+
