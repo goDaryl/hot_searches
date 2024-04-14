@@ -71,3 +71,5 @@
 
 + [终于轮到我在海边跳了！dinosaur【竹熊】](http://www.acfun.cn/v/ac44316418)
 
++ [军粮试吃：俄罗斯伏特加军粮在男人节来一口！](http://www.acfun.cn/v/ac44319248)
+

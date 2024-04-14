@@ -43,3 +43,7 @@
 
 + [工控设备数据安全研究](https://www.freebuf.com/articles/paper/396959.html)
 
++ [“游蛇”黑产近期攻击活动分析](https://www.freebuf.com/articles/network/397236.html)
+
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/397807.html)
+
