@@ -131,3 +131,7 @@
 
 + [《博德之门3》大满贯 成为首个拿满五项年度大奖游戏](https://www.3dmgame.com/news/202404/3892718.html)
 
++ [FF16主角配音演员期待《最终幻想：战略版》复活](https://www.3dmgame.com/news/202404/3892720.html)
+
++ [《咒术回战 咒灵逃走》桌游5月23日发售 玩法更有趣](https://www.3dmgame.com/news/202404/3892719.html)
+
