@@ -135,3 +135,9 @@
 
 + [《咒术回战 咒灵逃走》桌游5月23日发售 玩法更有趣](https://www.3dmgame.com/news/202404/3892719.html)
 
++ [微软将在Win11“开始”菜单投放广告 已在测试中](https://www.3dmgame.com/news/202404/3892721.html)
+
++ [制作人证实《暗影诅咒：复刻版》将加入二周目功能](https://www.3dmgame.com/news/202404/3892722.html)
+
++ [《Naive Novel》Steam页面上线 校园恋爱冒险](https://www.3dmgame.com/news/202404/3892723.html)
+

@@ -47,3 +47,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/397807.html)
 
++ [SharkTeam：2024年第一季度Web3安全报告](https://www.freebuf.com/articles/web/397331.html)
+
