@@ -131,3 +131,5 @@
 
 + [IndieLogs](https://www.producthunt.com/posts/indielogs)
 
++ [FastBots](https://www.producthunt.com/posts/fastbots)
+
