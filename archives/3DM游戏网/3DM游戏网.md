@@ -213,3 +213,7 @@
 
 + [华硕ROG冰刃X 2024升级配置 10L主机14999元起](https://www.3dmgame.com/news/202404/3892800.html)
 
++ [《瑞克和莫蒂》编剧加盟《一拳超人》真人改编电影](https://www.3dmgame.com/news/202404/3892803.html)
+
++ [《恶意不息》发售宣传片 单人模式无需联网](https://www.3dmgame.com/news/202404/3892804.html)
+
