@@ -73,3 +73,5 @@
 
 + [Rebels & Renegades Merch Design](https://dribbble.com/shots/)
 
++ [How to beat the winter blues - Northshore Magazine](https://dribbble.com/shots/)
+
