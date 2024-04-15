@@ -103,3 +103,21 @@
 
 + [《沙漠大冒险》“沙尘暴”预告 现已支持免费试玩](https://www.3dmgame.com/news/202404/3892808.html)
 
++ [官方宝可梦卡牌会所即将营业 单间1小时387元](https://www.3dmgame.com/news/202404/3892817.html)
+
++ [虚幻5引擎再次惊艳还原《小丑》经典桥段](https://www.3dmgame.com/news/202404/3892816.html)
+
++ [《圣战士丹拜因》新作动画下月正式公布](https://www.3dmgame.com/news/202404/3892815.html)
+
++ [基努里维斯加盟电影《刺猬索尼克3》为反派配音](https://www.3dmgame.com/news/202404/3892814.html)
+
++ [《禁闭求生》完全版登陆任天堂Switch](https://www.3dmgame.com/news/202404/3892813.html)
+
++ [粉丝项目将使CliffB FPS《不法之徒》复活](https://www.3dmgame.com/news/202404/3892812.html)
+
++ [Skybound为3A级《无敌少侠》游戏举行众筹活动](https://www.3dmgame.com/news/202404/3892811.html)
+
++ [登山冒险游戏《超越》发行提前至5月2日](https://www.3dmgame.com/news/202404/3892810.html)
+
++ [粉丝自制虚幻5《上古卷轴5》佛克瑞斯城场景](https://www.3dmgame.com/news/202404/3892809.html)
+
