@@ -129,3 +129,5 @@
 
 + [Stampede Social](https://www.producthunt.com/posts/stampede-social)
 
++ [IndieLogs](https://www.producthunt.com/posts/indielogs)
+

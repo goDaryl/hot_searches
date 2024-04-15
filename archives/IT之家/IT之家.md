@@ -45,3 +45,5 @@
 
 + [韩国“人造太阳”打破纪录：1 亿摄氏度下持续运行 48 秒](https://m.ithome.com/html/761797.htm)
 
++ [门店称华为 Pura 70 系列手机有望月底前到货，有可能为 4 月 18 日](https://m.ithome.com/html/761865.htm)
+

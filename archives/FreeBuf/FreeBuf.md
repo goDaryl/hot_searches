@@ -61,3 +61,5 @@
 
 + [ipv4Bypass：一款基于IPv6实现的IPv4安全绕过与渗透测试工具](https://www.freebuf.com/sectool/393196.html)
 
++ [受国家支持的黑客正积极利用Palo Alto Networks 防火墙零日漏洞](https://www.freebuf.com/news/397973.html)
+
