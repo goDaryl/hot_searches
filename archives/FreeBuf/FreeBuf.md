@@ -57,3 +57,7 @@
 
 + [Cyera 获得 3 亿美元融资，以推动人工智能的安全应用](https://www.freebuf.com/news/397915.html)
 
++ [非结构化数据资产分类分级建设实践与思考](https://www.freebuf.com/articles/database/396282.html)
+
++ [ipv4Bypass：一款基于IPv6实现的IPv4安全绕过与渗透测试工具](https://www.freebuf.com/sectool/393196.html)
+
