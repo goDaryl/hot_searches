@@ -197,3 +197,9 @@
 
 + [华为Pura 70系列正式官宣：确认三角形镜头 辨识度拉满](https://www.3dmgame.com/news/202404/3892791.html)
 
++ [《最后的生还者》剧集再获奖项：2024年美国作家协会奖最佳新剧编剧奖](https://www.3dmgame.com/news/202404/3892797.html)
+
++ [《冰雪之地》Steam页面上线 雪地车生存驾驶模拟](https://www.3dmgame.com/news/202404/3892796.html)
+
++ [天玑之王预定！Redmi K70至尊版回归天玑平台：天玑9300+加持](https://www.3dmgame.com/news/202404/3892795.html)
+
