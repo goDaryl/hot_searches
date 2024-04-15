@@ -55,3 +55,5 @@
 
 + [应急响应 | 扑朔迷离的黑链](https://www.freebuf.com/articles/network/397134.html)
 
++ [Cyera 获得 3 亿美元融资，以推动人工智能的安全应用](https://www.freebuf.com/news/397915.html)
+
