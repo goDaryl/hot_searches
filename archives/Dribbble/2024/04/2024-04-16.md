@@ -91,3 +91,7 @@
 
 + [Robotic Celebrity Head Pedal Icon](https://dribbble.com/shots/)
 
++ [Dietrich Bonhoeffer (King of Spades)](https://dribbble.com/shots/)
+
++ [Rebels & Renegades Apparel Graphic](https://dribbble.com/shots/)
+
