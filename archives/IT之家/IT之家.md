@@ -47,3 +47,5 @@
 
 + [Bose 睡眠产品悄然退出大陆：高价耳机一夜间变电子垃圾？](https://m.ithome.com/html/762044.htm)
 
++ [特斯拉大裁员：部分员工抵达工厂才发现自己被解雇](https://m.ithome.com/html/762092.htm)
+

@@ -57,3 +57,7 @@
 
 + [一个人的信息安全部（3）——数据防泄露【附有DLP选型对比表】](https://www.freebuf.com/articles/security-management/397806.html)
 
++ [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
+
++ [如何使用Git-Secrets防止将敏感信息意外上传至Git库](https://www.freebuf.com/sectool/393277.html)
+

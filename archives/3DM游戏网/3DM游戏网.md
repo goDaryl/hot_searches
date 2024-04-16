@@ -209,3 +209,19 @@
 
 + [《私人订制：我的专属韩国女团》发售日预告 4月17日发售](https://www.3dmgame.com/news/202404/3892861.html)
 
++ [复古RPG《Dream Tactics》登陆Steam 稍后登陆Switch](https://www.3dmgame.com/news/202404/3892869.html)
+
++ [百度发布新一代智能计算操作系统 定名万源](https://www.3dmgame.com/news/202404/3892868.html)
+
++ [休闲独立游戏《大家一起观颜察色。》系列销量突破100万](https://www.3dmgame.com/news/202404/3892867.html)
+
++ [尼古拉斯·凯奇主演的恐怖片《世外桃源》 其怪物形象源自迪士尼经典角色](https://www.3dmgame.com/news/202404/3892866.html)
+
++ [《绝地潜兵2》开发者承诺将修改火焰伤害：现在太离谱](https://www.3dmgame.com/news/202404/3892865.html)
+
++ [《崩坏：星穹铁道》砂金角色PV——「金手指」](https://www.3dmgame.com/news/202404/3892864.html)
+
++ [《星刃》玩家试玩版游戏时长达114小时 让官方震惊](https://www.3dmgame.com/news/202404/3892863.html)
+
++ [时隔25年高玩发现N64版《恶魔城》秘技 开局即可解锁全角色](https://www.3dmgame.com/news/202404/3892862.html)
+
