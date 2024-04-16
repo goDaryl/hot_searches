@@ -269,3 +269,9 @@
 
 + [《侠探杰克》主演：感觉像“美版007” 角色有些过时](https://www.3dmgame.com/news/202404/3892887.html)
 
++ [“ATLUS Exclusive《暗喻幻想：ReFantazio》”特别节目4月23日直播！](https://www.3dmgame.com/news/202404/3892892.html)
+
++ [百度三大AI开发神器亮相 李彦宏：会说话就能成开发者](https://www.3dmgame.com/news/202404/3892893.html)
+
++ [《真·女神转生Ⅴ Vengeance》 介绍新舞台“达识：新宿区”](https://www.3dmgame.com/news/202404/3892894.html)
+
