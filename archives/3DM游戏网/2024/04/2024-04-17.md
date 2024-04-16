@@ -109,3 +109,9 @@
 
 + [传闻：《黑手党4》或将很快公布 三至四周](https://www.3dmgame.com/news/202404/3892904.html)
 
++ [叙事游戏《千年抵抗》5月9日登陆PC和Switch](https://www.3dmgame.com/news/202404/3892909.html)
+
++ [Switch《长号冠军》更新追加两首新歌及直播模式](https://www.3dmgame.com/news/202404/3892908.html)
+
++ [《我的世界》与《功夫熊猫》联动DLC震撼登场](https://www.3dmgame.com/news/202404/3892907.html)
+
