@@ -61,3 +61,5 @@
 
 + [华为余承东回应 Pura 70 系列手机何时开售：再过两天将有好消息](https://m.ithome.com/html/762143.htm)
 
++ [极越汽车：自称“买小米 SU7 被辞”员工实际以个人身份为竞品宣发且旷工](https://m.ithome.com/html/762222.htm)
+

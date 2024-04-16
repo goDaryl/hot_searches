@@ -275,3 +275,5 @@
 
 + [《真·女神转生Ⅴ Vengeance》 介绍新舞台“达识：新宿区”](https://www.3dmgame.com/news/202404/3892894.html)
 
++ [《冰汽时代2》PC配置公开 推荐2060 Super](https://www.3dmgame.com/news/202404/3892895.html)
+
