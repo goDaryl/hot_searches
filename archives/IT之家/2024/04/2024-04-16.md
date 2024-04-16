@@ -53,3 +53,7 @@
 
 + [太空垃圾砸中佛罗里达州民宅，NASA 确认其来自国际空间站](https://m.ithome.com/html/762030.htm)
 
++ [吉利银河 E8 龙腾版车型上市，售价 16.58 万元起](https://m.ithome.com/html/761989.htm)
+
++ [消息称苹果 iPhone 16 Pro 机型起步存储升至 256GB](https://m.ithome.com/html/762083.htm)
+
