@@ -225,3 +225,25 @@
 
 + [时隔25年高玩发现N64版《恶魔城》秘技 开局即可解锁全角色](https://www.3dmgame.com/news/202404/3892862.html)
 
++ [亨利卡维尔要当爸爸了！确认女友娜塔莉已经怀孕](https://www.3dmgame.com/news/202404/3892880.html)
+
++ [特斯拉中国裁员真实比例最高达50%！远不止10%](https://www.3dmgame.com/news/202404/3892879.html)
+
++ [前《魔兽》制作人呼吁抵制政治正确游戏：大家都别买！](https://www.3dmgame.com/news/202404/3892878.html)
+
++ [《命运2》玩家单人通关新高难活动 开发者：难以置信](https://www.3dmgame.com/news/202404/3892877.html)
+
++ [任天堂提醒玩家 长期吃灰的Switch至少半年充满一次电](https://www.3dmgame.com/news/202404/3892876.html)
+
++ [《零号奴隶X》现已登录STEAM 生物朋克风复古再现](https://www.3dmgame.com/news/202404/3892875.html)
+
++ [《掼个蛋蛋》Steam页面上线 4月月内正式发售](https://www.3dmgame.com/news/202404/3892874.html)
+
++ [《数码宝贝02最初的召唤》发布终极预告 4月20日上映](https://www.3dmgame.com/news/202404/3892873.html)
+
++ [科幻美剧《羊毛战记》女主分享新消息：两季连拍](https://www.3dmgame.com/news/202404/3892872.html)
+
++ [克苏鲁式俯视角动作冒险游戏《死寂之旅》现已登录Steam平台](https://www.3dmgame.com/news/202404/3892871.html)
+
++ [蜗牛游戏公布游戏 《颂钟长鸣》抢先体验版本发布日期](https://www.3dmgame.com/news/202404/3892870.html)
+
