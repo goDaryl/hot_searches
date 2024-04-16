@@ -41,3 +41,5 @@
 
 + [关于近期俄乌网络攻击活动追踪分析报告](https://www.freebuf.com/articles/paper/396967.html)
 
++ [OWASP发布10大开源软件风险清单](https://www.freebuf.com/articles/network/397888.html)
+
