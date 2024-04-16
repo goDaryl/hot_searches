@@ -189,3 +189,21 @@
 
 + [《死亡之夜》更新上线 追加角色捏体以及新丧尸等](https://www.3dmgame.com/news/202404/3892845.html)
 
++ [玩家正试图计算《辐射》真人剧女主获得多少经验值](https://www.3dmgame.com/news/202404/3892859.html)
+
++ [罚款翻了超3倍！日本将出台新规严管苹果谷歌等巨头](https://www.3dmgame.com/news/202404/3892860.html)
+
++ [《星球大战：法外狂徒》创意总监透露 客串角色会让新老粉丝都满意](https://www.3dmgame.com/news/202404/3892858.html)
+
++ [动画剧集《T・P BON》新宣传片 5月2日开播](https://www.3dmgame.com/news/202404/3892857.html)
+
++ [真正意义的PSP 高玩将PS游戏机魔改成可玩掌机大小](https://www.3dmgame.com/news/202404/3892856.html)
+
++ [《庄园领主》Steam愿望单突破250万 超越《黑帝斯2》成为榜一](https://www.3dmgame.com/news/202404/3892855.html)
+
++ [《绝地潜兵2》数据挖掘内容未来仅有部分会加入游戏](https://www.3dmgame.com/news/202404/3892854.html)
+
++ [肉鸽游戏《PROJECT TACHYON》Steam页面 今年发售](https://www.3dmgame.com/news/202404/3892853.html)
+
++ [《消逝的光芒2》噩梦模式即将上线 高难度游戏体验](https://www.3dmgame.com/news/202404/3892852.html)
+
