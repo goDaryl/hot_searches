@@ -53,3 +53,7 @@
 
 + [研究表明，全球互联网流量竟有一半来自机器人](https://www.freebuf.com/news/398215.html)
 
++ [不用担心！人工智能技术是辅助工具，不是“竞争者”](https://www.freebuf.com/news/398199.html)
+
++ [企业安全 | 从ATT&CK学习攻击者攻击路线](https://www.freebuf.com/articles/es/397509.html)
+
