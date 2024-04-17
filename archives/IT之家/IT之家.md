@@ -35,3 +35,9 @@
 
 + [华为余承东与合肥市委书记张红文会谈，江淮高端新能源汽车基地曝光](https://m.ithome.com/html/762282.htm)
 
++ [小米汽车：SU7 车机端视频软件会员与手机端对应 App 互通](https://m.ithome.com/html/762278.htm)
+
++ [比亚迪方程豹“SUPER 3”亮相，设计灵感来自星战](https://m.ithome.com/html/762251.htm)
+
++ [比亚迪方程豹“豹 8”发布：定位大型 SUV 车型，下半年正式上市](https://m.ithome.com/html/762257.htm)
+
