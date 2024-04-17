@@ -239,3 +239,19 @@
 
 + [NHK小岛秀夫特别广播节目第二期5月18日播出 对话导演山崎贵](https://www.3dmgame.com/news/202404/3892963.html)
 
++ [NASA承认：上个月坠落在佛罗里达的太空碎片来自国际空间站](https://www.3dmgame.com/news/202404/3892979.html)
+
++ [卡普空也要搞正确？通过本地化翻译让游戏充满包容性多元化](https://www.3dmgame.com/news/202404/3892978.html)
+
++ [斯坦福大学最新AI报告出炉 中国AI专利全球第一](https://www.3dmgame.com/news/202404/3892977.html)
+
++ [首款骁龙8 Gen4小屏旗舰！曝小米15系列进入内测阶段](https://www.3dmgame.com/news/202404/3892976.html)
+
++ [《邪夜将至》Steam页面上线 经典学园主角RPG重制](https://www.3dmgame.com/news/202404/3892975.html)
+
++ [《辐射》真人剧第二季有望看到经典怪物死亡爪加入](https://www.3dmgame.com/news/202404/3892974.html)
+
++ [《吃豆人无尽地道争豆 暴食没有极限》防御篇 5月9日发售](https://www.3dmgame.com/news/202404/3892973.html)
+
++ [《尘白禁区》发文宣布：将禁止未成年人注册游戏](https://www.3dmgame.com/news/202404/3892972.html)
+
