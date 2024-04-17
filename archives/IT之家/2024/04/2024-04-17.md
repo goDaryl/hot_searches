@@ -61,3 +61,9 @@
 
 + [消息称问界新 M5 汽车首日预定已突破 6000 单，华为赛力斯联合打造](https://m.ithome.com/html/762438.htm)
 
++ [印度 15 万家商店考虑停止销售一加，小米子品牌 Poco 也面临调查](https://m.ithome.com/html/762435.htm)
+
++ [中国对讲机龙头海能达：美国法院暂停禁售令及罚款，将恢复相关产品销售](https://m.ithome.com/html/762308.htm)
+
++ [我国首款自主研制洲际客机，国产大飞机 C929 项目启动联合攻关](https://m.ithome.com/html/762379.htm)
+

@@ -283,3 +283,7 @@
 
 + [70%开发者认为服务型游戏不可持续](https://www.3dmgame.com/news/202404/3892991.html)
 
++ [电影《杀破狼3》《新纵横四海》立项](https://www.3dmgame.com/news/202404/3892995.html)
+
++ [《对马岛之鬼》PC配置公开 极高特效需RTX 4080](https://www.3dmgame.com/news/202404/3892994.html)
+
