@@ -111,3 +111,9 @@
 
 + [Burger Logo Design](https://dribbble.com/shots/)
 
++ [Mainspring Branded Graphic #3](https://dribbble.com/shots/)
+
++ [Bandana Series Vol.01](https://dribbble.com/shots/)
+
++ [Ree Ree's Cookie Dough - Mascot](https://dribbble.com/shots/)
+
