@@ -129,3 +129,13 @@
 
 + [任天堂发布魔性游戏音效歌曲宣传Switch畅销游戏](https://www.3dmgame.com/news/202404/3892910.html)
 
++ [太空大作《家园3》全新预告 带你了解本作宇宙历史](https://www.3dmgame.com/news/202404/3892919.html)
+
++ [《浪人崛起》销量低于预期 光荣下调财年营收](https://www.3dmgame.com/news/202404/3892920.html)
+
++ [《星刃》早期动捕视频欣赏 果然还是男人更懂女人](https://www.3dmgame.com/news/202404/3892921.html)
+
++ [《GTA6》发行商Take-Two将裁员5% 并取消部分游戏](https://www.3dmgame.com/news/202404/3892918.html)
+
++ [《冰汽时代2》正式发售时将支持DLSS和XeSS](https://www.3dmgame.com/news/202404/3892917.html)
+
