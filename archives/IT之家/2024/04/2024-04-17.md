@@ -49,3 +49,5 @@
 
 + [激光雷达「千元机」来了，速腾出品](https://m.ithome.com/html/762232.htm)
 
++ [华为：问界新 M5 预订通道现已开启，4 月 23 日发布](https://m.ithome.com/html/762313.htm)
+
