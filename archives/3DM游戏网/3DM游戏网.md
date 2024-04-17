@@ -277,3 +277,9 @@
 
 + [联想小新Pro 16 2024独显版上市 首发价7999元](https://www.3dmgame.com/news/202404/3892990.html)
 
++ [英伟达携手合作伙伴打造小型游戏PC新生态 RTX 4060系列率先支持](https://www.3dmgame.com/news/202404/3892992.html)
+
++ [英伟达新显卡驱动发布 优化《恶意不息》《庄园领主》](https://www.3dmgame.com/news/202404/3892993.html)
+
++ [70%开发者认为服务型游戏不可持续](https://www.3dmgame.com/news/202404/3892991.html)
+
