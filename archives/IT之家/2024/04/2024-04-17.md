@@ -47,3 +47,5 @@
 
 + [AI“刘强东”直播带货首秀，观看量超 2000 万](https://m.ithome.com/html/762340.htm)
 
++ [激光雷达「千元机」来了，速腾出品](https://m.ithome.com/html/762232.htm)
+
