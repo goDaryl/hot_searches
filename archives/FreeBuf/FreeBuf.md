@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 第二届全球人工智能安全峰会将举办；乌克兰黑客入侵俄无人机开发商](https://www.freebuf.com/news/398063.html)
 
++ [平衡的艺术：网络安全与便利性之间的协同与挑战](https://www.freebuf.com/articles/neopoints/397362.html)
+
