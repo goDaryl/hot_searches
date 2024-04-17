@@ -29,3 +29,7 @@
 
 + [华为 Pura 70 Ultra 手机部分配置曝光：超一英寸 RYYB 镜头，真皮后壳](https://m.ithome.com/html/762267.htm)
 
++ [IT之家实拍：比亚迪方程豹“5839”产品矩阵正式集结](https://m.ithome.com/html/762260.htm)
+
++ [魏建军直播亲测长城 NOA：「高速小意思，城市真无图」，自曝智驾团队 3000 人，完全不焦虑](https://m.ithome.com/html/762226.htm)
+
