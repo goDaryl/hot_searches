@@ -281,3 +281,5 @@
 
 + [大神改造3dfx Voodoo显卡 甚至配备了VGA和DVI接口](https://www.3dmgame.com/news/202404/3893086.html)
 
++ [AMD减少RDNA 2架构高端GPU供应](https://www.3dmgame.com/news/202404/3893090.html)
+
