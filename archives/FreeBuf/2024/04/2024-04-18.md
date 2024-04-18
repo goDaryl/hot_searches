@@ -57,3 +57,7 @@
 
 + [信息安全管理——企业业务信息安全管理](https://www.freebuf.com/articles/security-management/397363.html)
 
++ [NETworkManager：功能强大的网络管理与问题排除工具](https://www.freebuf.com/sectool/393287.html)
+
++ [构建网络防御体系，情报共享至关重要](https://www.freebuf.com/articles/398320.html)
+

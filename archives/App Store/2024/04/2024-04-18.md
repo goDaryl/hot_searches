@@ -215,3 +215,7 @@
 
 + [今日水印相机-时间地点经纬度打卡拍照](https://itunes.apple.com/cn/app/id1319071502?mt=8)
 
++ [支付宝-便捷生活，一点就好](https://itunes.apple.com/cn/app/id333206289?mt=8)
+
++ [Delta - Game Emulator](https://itunes.apple.com/cn/app/id1048524688?mt=8)
+
