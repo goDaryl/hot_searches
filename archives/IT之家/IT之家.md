@@ -29,3 +29,5 @@
 
 + [小米推出 Redmi 智能电视 2025 款：50 英寸 1399 元，65 英寸 2199 元](https://m.ithome.com/html/762505.htm)
 
++ [迅雷推出浏览器 App：自带 20G 云盘空间，支持用户脚本](https://m.ithome.com/html/762450.htm)
+

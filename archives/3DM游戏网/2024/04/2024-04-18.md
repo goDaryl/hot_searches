@@ -121,3 +121,23 @@
 
 + [传《星空》PS5版曾开发四年之久 B社被微软收购后便放弃](https://www.3dmgame.com/news/202404/3893007.html)
 
++ [《全面战争：战锤3》DLC“腐朽王座”宣布4月30日发售](https://www.3dmgame.com/news/202404/3893018.html)
+
++ [《对马岛之鬼》PC版包含新PS覆盖界面和奖杯支持](https://www.3dmgame.com/news/202404/3893020.html)
+
++ [《Yars Rising》Steam页面上线 横版动作射击](https://www.3dmgame.com/news/202404/3893017.html)
+
++ [模拟游戏《矮人要塞》现已推出冒险模式测试版](https://www.3dmgame.com/news/202404/3893015.html)
+
++ [《严阵以待》开发者被黑客攻击 游戏源代码遭盗取](https://www.3dmgame.com/news/202404/3893014.html)
+
++ [《死亡岛2》第二个付费DLC现已上线 Epic国区50元](https://www.3dmgame.com/news/202404/3893013.html)
+
++ [《盗贼之海》玩家超4000万 月底还登陆PS5](https://www.3dmgame.com/news/202404/3893012.html)
+
++ [《生化危机》官方整活：请玩家选出没有坠毁的直升机](https://www.3dmgame.com/news/202404/3893011.html)
+
++ [动作RPG《恶意不息》PC配置公开 推荐RTX 3070TI](https://www.3dmgame.com/news/202404/3893010.html)
+
++ [《星空》新Mod增加50个太空遭遇事件 提升游戏体验](https://www.3dmgame.com/news/202404/3893009.html)
+
