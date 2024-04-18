@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 联合健康因勒索攻击损失8.72亿美元；攻击者冒充微软进行网络钓鱼](https://www.freebuf.com/news/398246.html)
 
++ [针对加密货币矿池的路由攻击](https://www.freebuf.com/vuls/398172.html)
+

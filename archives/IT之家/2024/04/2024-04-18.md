@@ -31,3 +31,5 @@
 
 + [迅雷推出浏览器 App：自带 20G 云盘空间，支持用户脚本](https://m.ithome.com/html/762450.htm)
 
++ [小米汽车：SU7 标准版代客泊车功能需待后续 OTA 推送，Pro / Max 交付后即可用](https://m.ithome.com/html/762504.htm)
+

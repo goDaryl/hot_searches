@@ -141,3 +141,19 @@
 
 + [《星空》新Mod增加50个太空遭遇事件 提升游戏体验](https://www.3dmgame.com/news/202404/3893009.html)
 
++ [经典FPS游戏《天旋地转3》开发者已免费公开源代码](https://www.3dmgame.com/news/202404/3893024.html)
+
++ [威世智和孩之宝总裁宣布离职 继任者正在寻找中](https://www.3dmgame.com/news/202404/3893025.html)
+
++ [《蟹蟹寻宝奇遇》4月25日登陆Switch 寄居蟹类魂动作冒险](https://www.3dmgame.com/news/202404/3893023.html)
+
++ [《星刃》玩家认为女店员比女主漂亮 总监想让她成为新作女主](https://www.3dmgame.com/news/202404/3893021.html)
+
++ [网飞小说改编剧集《百年孤独》预告 年内上线](https://www.3dmgame.com/news/202404/3893016.html)
+
++ [世嘉1989年出品的街机格斗游戏《战斧》将被改编成动画剧集](https://www.3dmgame.com/news/202404/3893026.html)
+
++ [《星刃》媒体评分将于4月24日晚10点解禁](https://www.3dmgame.com/news/202404/3893022.html)
+
++ [独立武侠单机游戏《下一站江湖Ⅱ》今日发售](https://www.3dmgame.com/news/202404/3893019.html)
+
