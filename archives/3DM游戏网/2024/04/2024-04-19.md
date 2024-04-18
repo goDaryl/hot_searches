@@ -105,3 +105,7 @@
 
 + [《热浪赛车》7月16日登陆PC和NS 模拟街机风](https://www.3dmgame.com/news/202404/3893100.html)
 
++ [《刺客信条》艾吉奥月末加入《荣耀战魂》](https://www.3dmgame.com/news/202404/3893102.html)
+
++ [主视角冷兵器RPG《天国：拯救2》年内发售](https://www.3dmgame.com/news/202404/3893101.html)
+
