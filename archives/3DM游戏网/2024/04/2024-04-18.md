@@ -275,3 +275,9 @@
 
 + [真理财产品！华为Pura 70突然开售：现已有加价转卖 最高加3000元](https://www.3dmgame.com/news/202404/3893078.html)
 
++ [印度又搞动作！一加将被停售 小米子品牌Poco也被查](https://www.3dmgame.com/news/202404/3893089.html)
+
++ [《绿色地狱》免费更新#20“食蚁兽”喔～你的鼻子真长啊！](https://www.3dmgame.com/news/202404/3893088.html)
+
++ [大神改造3dfx Voodoo显卡 甚至配备了VGA和DVI接口](https://www.3dmgame.com/news/202404/3893086.html)
+
