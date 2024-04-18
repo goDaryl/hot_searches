@@ -101,3 +101,7 @@
 
 + [南京杭州开讲啦！网易Y3高校游戏制作人大赛宣讲会如约而至，易起点燃游戏梦](https://www.3dmgame.com/news/202404/3893048.html)
 
++ [《寓言之地》5月13日正式发售 EA版获特别好评](https://www.3dmgame.com/news/202404/3893099.html)
+
++ [《热浪赛车》7月16日登陆PC和NS 模拟街机风](https://www.3dmgame.com/news/202404/3893100.html)
+
