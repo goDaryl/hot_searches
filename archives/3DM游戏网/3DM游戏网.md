@@ -259,3 +259,19 @@
 
 + [曝索尼Xperia 1 VI将于5月17日发布：“电老虎”4K带鱼屏终于被砍！](https://www.3dmgame.com/news/202404/3893072.html)
 
++ [《暧昧梦：AImAIm》免费发布 AI参与制作诡异恐怖新游](https://www.3dmgame.com/news/202404/3893085.html)
+
++ [《歧路旅人》重新上架Switch美服商店 恢复正常售卖](https://www.3dmgame.com/news/202404/3893084.html)
+
++ [猫猫模拟器《小猫咪大城市》将于5月9日上线！](https://www.3dmgame.com/news/202404/3893083.html)
+
++ [《猫咪斗恶龙3》将于2024年8月8日发售](https://www.3dmgame.com/news/202404/3893082.html)
+
++ [量大管饱！战斗爽！割草肉鸽打僵尸游戏《黎明前夜》今日发售！](https://www.3dmgame.com/news/202404/3893081.html)
+
++ [雷军：今年年底小米汽车交付中心将覆盖40座城市](https://www.3dmgame.com/news/202404/3893080.html)
+
++ [传奇桌面游戏联手宝可梦！艾赐魔袋中国宣布推出宝可梦版璀璨宝石](https://www.3dmgame.com/news/202404/3893079.html)
+
++ [真理财产品！华为Pura 70突然开售：现已有加价转卖 最高加3000元](https://www.3dmgame.com/news/202404/3893078.html)
+
