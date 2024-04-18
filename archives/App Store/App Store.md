@@ -219,3 +219,7 @@
 
 + [Delta - Game Emulator](https://itunes.apple.com/cn/app/id1048524688?mt=8)
 
++ [轻巧清单](https://itunes.apple.com/cn/app/id6479569746?mt=8)
+
++ [华为商城-VMALL](https://itunes.apple.com/cn/app/id1455432631?mt=8)
+
