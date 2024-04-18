@@ -193,3 +193,17 @@
 
 + [《家园3》第一年更新路线图公布 PC配置要求降低](https://www.3dmgame.com/news/202404/3893036.html)
 
++ [南京杭州开讲啦！网易Y3高校游戏制作人大赛宣讲会如约而至，易起点燃游戏梦](https://www.3dmgame.com/news/202404/3893048.html)
+
++ [日本游戏发行商Level-5 2024年展会宣布延期](https://www.3dmgame.com/news/202404/3893049.html)
+
++ [前用户体验主管吐槽微软：Windows11优化的真不行](https://www.3dmgame.com/news/202404/3893050.html)
+
++ [独立游戏《恶魔轮盘》发售仅一周多便卖出超过100万份](https://www.3dmgame.com/news/202404/3893051.html)
+
++ [新作《天国：拯救2》意外泄露 2024年发售登陆主机和PC](https://www.3dmgame.com/news/202404/3893045.html)
+
++ [《艾尔登法环》“一键”通关？玩家用莫斯代码挑战成功](https://www.3dmgame.com/news/202404/3893046.html)
+
++ [《死亡搁浅》登场倒三轮摩托全新拼模公开 精致酷炫](https://www.3dmgame.com/news/202404/3893047.html)
+
