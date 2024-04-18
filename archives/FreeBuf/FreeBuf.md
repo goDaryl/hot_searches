@@ -67,3 +67,5 @@
 
 + [什么时候才能真正实现威胁情报共享？](https://www.freebuf.com/articles/398320.html)
 
++ [为什么企业安全预算总是不够花？](https://www.freebuf.com/articles/neopoints/398394.html)
+
