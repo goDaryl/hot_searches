@@ -27,3 +27,5 @@
 
 + [华为联合设计，AITO 问界新 M5 车型预售 12 小时订单破万](https://m.ithome.com/html/762500.htm)
 
++ [小米推出 Redmi 智能电视 2025 款：50 英寸 1399 元，65 英寸 2199 元](https://m.ithome.com/html/762505.htm)
+

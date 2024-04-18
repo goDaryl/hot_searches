@@ -41,3 +41,5 @@
 
 + [有手就会？记一次绕过防重放的漏洞挖掘](https://www.freebuf.com/vuls/397142.html)
 
++ [探索通过GPT和云平台搭建网安实战培训环境](https://www.freebuf.com/articles/neopoints/397366.html)
+
