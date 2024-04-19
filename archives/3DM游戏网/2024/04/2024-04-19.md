@@ -277,3 +277,9 @@
 
 + [《天国：拯救2》更多细节：开发6年  NPC记住玩家行为](https://www.3dmgame.com/news/202404/3893184.html)
 
++ [《疯狂的麦克斯：狂暴女神》新剧照发布](https://www.3dmgame.com/news/202404/3893188.html)
+
++ [《城市：天际线2》主机版跳票 不再今春发售](https://www.3dmgame.com/news/202404/3893186.html)
+
++ [领先半年时间 英特尔率先组装ASML新一代光刻机](https://www.3dmgame.com/news/202404/3893187.html)
+
