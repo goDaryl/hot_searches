@@ -49,3 +49,5 @@
 
 + [美团王兴罕见点评理想：MEGA 是给李想造的车，L6 才是给员工造的](https://m.ithome.com/html/762867.htm)
 
++ [报告预计 Pura 70 系列手机出货量年内超千万，华为将重夺中国市场榜首](https://m.ithome.com/html/762879.htm)
+

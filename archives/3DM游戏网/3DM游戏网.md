@@ -231,3 +231,9 @@
 
 + [《使命召唤》旧作现身Xbox云游戏 或即将登陆XGP](https://www.3dmgame.com/news/202404/3893159.html)
 
++ [吸血鬼主题生存游戏《夜族崛起》发布全新区域首个实机预告片：“莫尔提姆废墟”](https://www.3dmgame.com/news/202404/3893165.html)
+
++ [万智牌发布最新系列：光雷驿镖客](https://www.3dmgame.com/news/202404/3893164.html)
+
++ [《江湖录》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202404/3893163.html)
+
