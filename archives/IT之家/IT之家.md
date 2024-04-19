@@ -43,3 +43,5 @@
 
 + [长城汽车董事长魏建军动态测试小米 SU7，称“值得我们研究学习”](https://m.ithome.com/html/762720.htm)
 
++ [雷军：小米汽车 SU7 无线 CarPlay 预计 5 月初通过 OTA 推送](https://m.ithome.com/html/762736.htm)
+
