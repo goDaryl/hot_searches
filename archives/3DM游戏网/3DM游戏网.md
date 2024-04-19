@@ -127,3 +127,27 @@
 
 + [《星球大战：法外狂徒》内置卡牌游戏沙巴克](https://www.3dmgame.com/news/202404/3893109.html)
 
++ [只只大冒险续作《只只大冒险 2》Steam页面上线 预定2025年第二季度推出](https://www.3dmgame.com/news/202404/3893116.html)
+
++ [网飞新片《职业杀手》曝正式预告 6月7日上线](https://www.3dmgame.com/news/202404/3893117.html)
+
++ [拉瑞安确认有两个新项目正在开发 均为自家IP](https://www.3dmgame.com/news/202404/3893118.html)
+
++ [《百英雄传》即将发售 开发商已在考虑制作续集](https://www.3dmgame.com/news/202404/3893119.html)
+
++ [《造物主2》5月26日发售 暂不支持中文](https://www.3dmgame.com/news/202404/3893120.html)
+
++ [Devolver 2023年财报：《咩咩启示录》成功抗压](https://www.3dmgame.com/news/202404/3893121.html)
+
++ [《星刃》四年前实机视频 与现在版本相比差距大吗？](https://www.3dmgame.com/news/202404/3893122.html)
+
++ [传闻：索尼正计划收购派拉蒙](https://www.3dmgame.com/news/202404/3893114.html)
+
++ [《恶意不息》抢先体验版时长15-25小时 游戏亮点很多](https://www.3dmgame.com/news/202404/3893115.html)
+
++ [《代号南乡子》测试资格限量发放 5月17日测试开启](https://www.3dmgame.com/news/202404/3893087.html)
+
++ [亚马逊正式续订《辐射》第二季 三人一狗回归](https://www.3dmgame.com/news/202404/3893112.html)
+
++ [《消逝的光芒2》开发商称赞腾讯：了不起的合作伙伴](https://www.3dmgame.com/news/202404/3893113.html)
+
