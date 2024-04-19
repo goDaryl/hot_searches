@@ -49,3 +49,21 @@
 
 + [Bandana Series Vol.01](https://dribbble.com/shots/)
 
++ [Dune Shift Alternative Logo](https://dribbble.com/shots/)
+
++ [Tuxedo](https://dribbble.com/shots/)
+
++ [Abducted By Aliens](https://dribbble.com/shots/)
+
++ [No Risk](https://dribbble.com/shots/)
+
++ [Anxious and Tired – lettering t-shirt print](https://dribbble.com/shots/)
+
++ [Vilnius and Nida Travel Icons](https://dribbble.com/shots/)
+
++ [The Red October Ghoul.](https://dribbble.com/shots/)
+
++ [Barnhaus](https://dribbble.com/shots/)
+
++ [Everything is stardust](https://dribbble.com/shots/)
+
