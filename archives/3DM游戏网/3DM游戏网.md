@@ -151,3 +151,19 @@
 
 + [《消逝的光芒2》开发商称赞腾讯：了不起的合作伙伴](https://www.3dmgame.com/news/202404/3893113.html)
 
++ [《消逝的光芒2》“噩梦降临”更新上线 最高难度实装](https://www.3dmgame.com/news/202404/3893128.html)
+
++ [《星刃》与韩国女歌手BIBI联动MV 画面绝美！](https://www.3dmgame.com/news/202404/3893127.html)
+
++ [《城市：天际线2》为DLC提供退款 并承认让玩家感到失望](https://www.3dmgame.com/news/202404/3893126.html)
+
++ [《骷髅船员》发行商Modern Wolf重组 发生裁员](https://www.3dmgame.com/news/202404/3893125.html)
+
++ [海岛冒险农场模拟游戏《寻宝湾》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202404/3893124.html)
+
++ [《无限暖暖》“奇想测试”4月24日开启 推荐配置RTX2060](https://www.3dmgame.com/news/202404/3893123.html)
+
++ [《黑神话》官方感谢海信电视支持：慧眼高明彻底澄清](https://www.3dmgame.com/news/202404/3893130.html)
+
++ [趣味掌机Playdate游戏开发者收入已超过50万美元](https://www.3dmgame.com/news/202404/3893129.html)
+

@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 黑客组织“沙虫”神秘面纱被揭开；美国政府天眼数据泄露](https://www.freebuf.com/news/398367.html)
 
++ [安全编排自动化响应SOAR项目实践经验总结 | 安全运营优化篇](https://www.freebuf.com/articles/es/398296.html)
+
