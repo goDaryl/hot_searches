@@ -53,3 +53,9 @@
 
 + [企业安全 | 数据安全规划实践](https://www.freebuf.com/articles/398273.html)
 
++ [SRC挖掘实战 | JS中能利用的那些信息](https://www.freebuf.com/articles/web/394873.html)
+
++ [93% 的违规行为引发系统宕机、数据泄露等问题](https://www.freebuf.com/news/398505.html)
+
++ [ProbeManager：一款功能强大的入侵检测系统集中化管理工具](https://www.freebuf.com/sectool/393288.html)
+

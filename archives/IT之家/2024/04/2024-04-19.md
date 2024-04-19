@@ -45,3 +45,7 @@
 
 + [雷军：小米汽车 SU7 无线 CarPlay 预计 5 月初通过 OTA 推送](https://m.ithome.com/html/762736.htm)
 
++ [小米林斌晒深圳国际总部大楼效果图，将建 1000 平小米之家放 SU7 汽车](https://m.ithome.com/html/762858.htm)
+
++ [美团王兴罕见点评理想：MEGA 是给李想造的车，L6 才是给员工造的](https://m.ithome.com/html/762867.htm)
+
