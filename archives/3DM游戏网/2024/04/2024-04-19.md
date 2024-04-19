@@ -167,3 +167,27 @@
 
 + [趣味掌机Playdate游戏开发者收入已超过50万美元](https://www.3dmgame.com/news/202404/3893129.html)
 
++ [《星露谷物语》1.6.4版本更新上线 优化中文翻译](https://www.3dmgame.com/news/202404/3893142.html)
+
++ [《绝地潜兵2》开发者愿意联动：但要符合游戏设定](https://www.3dmgame.com/news/202404/3893141.html)
+
++ [先菌子后小人 模拟游戏《羊肚菌：猎人2》现已正式发售](https://www.3dmgame.com/news/202404/3893140.html)
+
++ [育碧《全境封锁：中心地带》并没有被取消 但经历了重大变化](https://www.3dmgame.com/news/202404/3893139.html)
+
++ [《老男孩》改编电视剧正在制作中 原版电影导演朴赞郁亲自执导](https://www.3dmgame.com/news/202404/3893136.html)
+
++ [好评如潮，开放世界竞速游戏天花板竟然是它？](https://www.3dmgame.com/news/202404/3893138.html)
+
++ [网飞《巫师》剧集第5季将是最终季：第4季现已开拍](https://www.3dmgame.com/news/202404/3893137.html)
+
++ [电影《小倩》片尾曲MV “只要今生”双人海报](https://www.3dmgame.com/news/202404/3893135.html)
+
++ [《Apex英雄》城市突袭收集活动预告 动力小子威望皮上线](https://www.3dmgame.com/news/202404/3893134.html)
+
++ [《堕落之主》开发商2023年财报：史上收入最高 超6千万美元](https://www.3dmgame.com/news/202404/3893133.html)
+
++ [《全战：战锤3》埃斯佩斯·冯·邓肯实机预告 4月30日发售](https://www.3dmgame.com/news/202404/3893132.html)
+
++ [第一人称合作生存游戏《斯盖尔仪式》现已正式发售 获多半好评](https://www.3dmgame.com/news/202404/3893131.html)
+
