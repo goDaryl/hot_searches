@@ -95,3 +95,7 @@
 
 + [Tattoo Series](https://dribbble.com/shots/)
 
++ [Mascotte design](https://dribbble.com/shots/)
+
++ [Anxious and Tired – lettering t-shirt print](https://dribbble.com/shots/)
+
