@@ -25,3 +25,5 @@
 
 + [微信 iOS 版 8.0.49 最新官方正式版下载发布](https://m.ithome.com/html/762831.htm)
 
++ [78.9 万元起，极氪 009 光辉版上市：四座豪华纯电 MPV、800V 平台](https://m.ithome.com/html/762999.htm)
+

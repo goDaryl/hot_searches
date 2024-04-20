@@ -41,3 +41,5 @@
 
 + [美国最大的医疗服务提供商因网络攻击损失 8.72 亿美元](https://www.freebuf.com/news/398310.html)
 
++ [深信服西部天威战队：impacket中横向工具的深入分析](https://www.freebuf.com/articles/system/331639.html)
+
