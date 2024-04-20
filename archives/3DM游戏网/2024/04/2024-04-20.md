@@ -105,3 +105,15 @@
 
 + [EA《肯泽拉传说：扎乌》上市预告 现已正式发售](https://www.3dmgame.com/news/202404/3893192.html)
 
++ [《寂静岭2：重制版》男主外貌微调 看起来更年轻了](https://www.3dmgame.com/news/202404/3893198.html)
+
++ [育碧《星球大战：法外狂徒》太空玩法揭秘](https://www.3dmgame.com/news/202404/3893197.html)
+
++ [全球游戏基金会为新兴市场开发商提供资助 最高5万美元](https://www.3dmgame.com/news/202404/3893196.html)
+
++ [《勇敢的心：叶落归根》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202404/3893195.html)
+
++ [《堕落之主》大卖 帮助CI Games实现6000万美元创纪录营收](https://www.3dmgame.com/news/202404/3893194.html)
+
++ [拉瑞安CEO谈成功之道 善待玩家、口碑制胜](https://www.3dmgame.com/news/202404/3893193.html)
+
