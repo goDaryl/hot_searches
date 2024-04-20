@@ -43,3 +43,5 @@
 
 + [雷军直播两小时：连线魏建军，点评马斯克，回应一切](https://m.ithome.com/html/763058.htm)
 
++ [小米手环 9 通过多家机构认证，即将上市发布](https://m.ithome.com/html/763053.htm)
+
