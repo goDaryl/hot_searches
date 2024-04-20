@@ -193,3 +193,7 @@
 
 + [高通暗示骁龙X系列4月24日亮相 联想和惠普都在准备新机型](https://www.3dmgame.com/news/202404/3893236.html)
 
++ [《英雄联盟》2024 LPL春季赛 BLG 3-1 TES夺冠](https://www.3dmgame.com/news/202404/3893238.html)
+
++ [《战神4》迎来发售6周年](https://www.3dmgame.com/news/202404/3893237.html)
+

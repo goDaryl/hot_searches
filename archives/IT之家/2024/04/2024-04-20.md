@@ -59,3 +59,5 @@
 
 + [谷歌 Pixel 9 Pro 真机图片曝光：Tensor G4 芯片 + 16GB 内存](https://m.ithome.com/html/763051.htm)
 
++ [一加 Ace 3 Pro 手机主要规格曝光，骁龙 8 Gen 3 处理器 + 1.5K 曲屏](https://m.ithome.com/html/763104.htm)
+
