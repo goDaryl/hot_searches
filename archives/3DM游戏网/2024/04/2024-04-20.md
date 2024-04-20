@@ -187,3 +187,7 @@
 
 + [《绝地潜兵2》一周消灭20亿虫子任务仅用12小时完成](https://www.3dmgame.com/news/202404/3893230.html)
 
++ [利好PS5 Pro 《GTA6》将非常注重光追表现](https://www.3dmgame.com/news/202404/3893235.html)
+
++ [英伟达承认AI市场“竞争激烈” 重申旗下业务包括硬件和软件](https://www.3dmgame.com/news/202404/3893234.html)
+

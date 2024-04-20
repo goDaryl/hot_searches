@@ -181,3 +181,13 @@
 
 + [K8S 哲学 - yaml文件](https://blog.csdn.net/gu2022_3_5_21_23/article/details/137960683)
 
++ [贪吃蛇项目实战——学习详解](https://blog.csdn.net/strive_mianyang/article/details/137963046)
+
++ [本地部署和运行大型语言模型（Large Language Models, LLMs）的工具Ollama](https://blog.csdn.net/inthat/article/details/137977512)
+
++ [Python江苏南京二手房源爬虫数据可视化系统设计与实现](https://blog.csdn.net/u013818205/article/details/137876999)
+
++ [【K8S系列】深入解析K8S中PV 和PVC](https://blog.csdn.net/weixin_36755535/article/details/138003564)
+
++ [Python实现本地视频/音频播放器](https://blog.csdn.net/cnds123/article/details/137874107)
+
