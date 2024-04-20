@@ -163,3 +163,21 @@
 
 + [网络安全（黑客技术）—2024自学手册](https://blog.csdn.net/S18374/article/details/137870588)
 
++ [云原生的基石：containerd引领未来容器发展趋势](https://blog.csdn.net/qq_32682301/article/details/138002634)
+
++ [Scala 04 —— 函数式编程底层逻辑](https://blog.csdn.net/m0_74120525/article/details/137978562)
+
++ [如何在CentOS本地搭建DataEase数据分析服务并实现远程查看数据分析](https://blog.csdn.net/2201_75743654/article/details/137996652)
+
++ [Flask中的JWT认证构建安全的用户身份验证系统](https://blog.csdn.net/weixin_52908342/article/details/137982799)
+
++ [【热门话题】探索与心得：深入体验Microsoft Edge浏览器](https://blog.csdn.net/qq_44214428/article/details/137996022)
+
++ [AI大模型探索之路-应用篇17：GLM大模型-大数据自助查询平台架构实践](https://blog.csdn.net/xiaobing259/article/details/137969860)
+
++ [在html页面中使用Vue3和Element-Plus实现基金成本计算器](https://blog.csdn.net/weixin_42728767/article/details/137959163)
+
++ [7、docker 集群](https://blog.csdn.net/weixin_44986037/article/details/137710685)
+
++ [K8S 哲学 - yaml文件](https://blog.csdn.net/gu2022_3_5_21_23/article/details/137960683)
+

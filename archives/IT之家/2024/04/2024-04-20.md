@@ -49,3 +49,7 @@
 
 + [我国成功掌握“次临界刻棒技术”，并成功实现工程应用](https://m.ithome.com/html/763007.htm)
 
++ [比亚迪的电、华为的「魂」，外资车企找到卖车「新姿势」](https://m.ithome.com/html/763077.htm)
+
++ [长城坦克 300 Hi4-T 车型官图公布，明日带来更多消息](https://m.ithome.com/html/762993.htm)
+
