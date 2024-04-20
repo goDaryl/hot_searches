@@ -73,3 +73,7 @@
 
 + [【诸葛】胡说八道：泡沫经济破灭后的新变化](http://www.acfun.cn/v/ac44356694)
 
++ [《高手每时每刻都在发育》](http://www.acfun.cn/v/ac44356345)
+
++ [【小子贼疯×余若】 いえない/ “说出口的话，就连〇友也做不了” （Cover:MAISONdes）](http://www.acfun.cn/v/ac44357112)
+

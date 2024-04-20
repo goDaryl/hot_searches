@@ -29,3 +29,5 @@
 
 + [华为 Pura 70 Ultra 卫星消息支持发送图片，对方可用畅连接收](https://m.ithome.com/html/763018.htm)
 
++ [消息称苹果 macOS 15 将对其计算器 App 进行“史上最重大更新”](https://m.ithome.com/html/763006.htm)
+
