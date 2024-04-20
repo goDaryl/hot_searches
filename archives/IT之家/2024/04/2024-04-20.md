@@ -31,3 +31,5 @@
 
 + [消息称苹果 macOS 15 将对其计算器 App 进行“史上最重大更新”](https://m.ithome.com/html/763006.htm)
 
++ [九号智能电动车 F2z 110 上市：支持切歌、导航等，售价 5399 元](https://m.ithome.com/html/762983.htm)
+
