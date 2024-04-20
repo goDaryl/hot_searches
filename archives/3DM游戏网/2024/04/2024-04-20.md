@@ -117,3 +117,13 @@
 
 + [拉瑞安CEO谈成功之道 善待玩家、口碑制胜](https://www.3dmgame.com/news/202404/3893193.html)
 
++ [《守望先锋2》主机玩家键鼠伪装手柄会导致永久封号](https://www.3dmgame.com/news/202404/3893199.html)
+
++ [欧盟最快下月批准苹果开放第三方NFC移动支付权限](https://www.3dmgame.com/news/202404/3893200.html)
+
++ [英特尔独显新驱动发布 DX11老游戏性能最多提升48%](https://www.3dmgame.com/news/202404/3893201.html)
+
++ [《肯泽拉传说》导演想要一部《凯恩的遗产》电视剧](https://www.3dmgame.com/news/202404/3893202.html)
+
++ [陶德不想给《上古卷轴6》确定一个具体的上市日期](https://www.3dmgame.com/news/202404/3893203.html)
+
