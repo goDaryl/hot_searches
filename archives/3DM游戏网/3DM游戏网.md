@@ -159,3 +159,11 @@
 
 + [《最后的信念》实体版7月4日登陆PS5/Switch 银恶城类魂](https://www.3dmgame.com/news/202404/3893265.html)
 
++ [《疯狂的麦克斯：狂暴女神》筹备15年 曾想做成动画](https://www.3dmgame.com/news/202404/3893270.html)
+
++ [《Volt Recharge》Steam页面上线 遥控四驱赛车](https://www.3dmgame.com/news/202404/3893271.html)
+
++ [《辐射》电视剧演员谈剧情悬念：希望在第二季揭晓](https://www.3dmgame.com/news/202404/3893269.html)
+
++ [见证历史 中国电动汽车期内销量份额已超过50%](https://www.3dmgame.com/news/202404/3893268.html)
+
