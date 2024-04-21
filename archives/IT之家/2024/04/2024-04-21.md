@@ -33,3 +33,5 @@
 
 + [全新梅赛德斯-AMG C 63 / S 63 车型上市，售价 119.18 万元起](https://m.ithome.com/html/763127.htm)
 
++ [特斯拉全系车型在华降价，Model 3 / Y 当前 23.19 万 / 24.99 万元起售](https://m.ithome.com/html/763159.htm)
+
