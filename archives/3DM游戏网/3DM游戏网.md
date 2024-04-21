@@ -147,3 +147,9 @@
 
 + [瑞幸咖啡辟谣不招聘上海人：坚决反对任何地域歧视](https://www.3dmgame.com/news/202404/3893261.html)
 
++ [贝塞斯达在开发《辐射3》之前曾遭遇大量死亡威胁](https://www.3dmgame.com/news/202404/3893264.html)
+
++ [微软开始全屏弹窗提示Win10用户升级Win11系统](https://www.3dmgame.com/news/202404/3893263.html)
+
++ [《星影馆杀人事件》免费登陆Steam 恐怖视觉探索](https://www.3dmgame.com/news/202404/3893262.html)
+
