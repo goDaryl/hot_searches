@@ -25,3 +25,7 @@
 
 + [纽约时报：不管爱、恨还是恐惧，TikTok 已经改变了美国](https://m.ithome.com/html/763198.htm)
 
++ [微信群“踢人”属于啥行为？法院裁定不属于民事法律调整的范畴](https://m.ithome.com/html/763179.htm)
+
++ [消息称小米 Redmi 13 手机继续搭载骁龙 4 Gen 2，快充升级为 33W](https://m.ithome.com/html/763222.htm)
+
