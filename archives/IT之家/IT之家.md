@@ -43,3 +43,9 @@
 
 + [世界首套！我国为月球绘制高清地质“写真集”](https://m.ithome.com/html/763146.htm)
 
++ [清华教授扔出量子密码学重磅炸弹引起业界轰动，但算法被发现 Bug](https://m.ithome.com/html/763143.htm)
+
++ [华为 × 赛力斯，问界新 M5 官宣新车色“大溪地灰”](https://m.ithome.com/html/763166.htm)
+
++ [魅族新机通过 3C 认证：66W 有线快充，预计为魅族 21X](https://m.ithome.com/html/763119.htm)
+
