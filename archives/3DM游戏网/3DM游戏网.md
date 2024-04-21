@@ -109,3 +109,9 @@
 
 + [任天堂Switch 2或采用三星第5代V-NAND](https://www.3dmgame.com/news/202404/3893242.html)
 
++ [11年测试终于完结《七日杀》官方宣布6月推出正式版](https://www.3dmgame.com/news/202404/3893245.html)
+
++ [《辐射76》Steam同时在线峰值已超过6万人](https://www.3dmgame.com/news/202404/3893243.html)
+
++ [基利安·墨菲可能将在《孤岛惊魂7》中饰演大反派](https://www.3dmgame.com/news/202404/3893244.html)
+

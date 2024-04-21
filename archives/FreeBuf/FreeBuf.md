@@ -43,3 +43,5 @@
 
 + [保护人工智能系统和LLM栈的重要性：AI模型、LLM实施和安全方法论](https://www.freebuf.com/articles/neopoints/398298.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/398526.html)
+
