@@ -145,3 +145,5 @@
 
 + [《抓抓地牢》Steam试玩发布 抓娃娃机元素地牢探险](https://www.3dmgame.com/news/202404/3893260.html)
 
++ [瑞幸咖啡辟谣不招聘上海人：坚决反对任何地域歧视](https://www.3dmgame.com/news/202404/3893261.html)
+
