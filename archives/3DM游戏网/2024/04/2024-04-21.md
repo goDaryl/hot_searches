@@ -153,3 +153,9 @@
 
 + [《星影馆杀人事件》免费登陆Steam 恐怖视觉探索](https://www.3dmgame.com/news/202404/3893262.html)
 
++ [《博德之门3》上市日期为回避《星空》而提前一个月](https://www.3dmgame.com/news/202404/3893267.html)
+
++ [阔别五年之后《南茜·朱尔》即将推出第34款游戏](https://www.3dmgame.com/news/202404/3893266.html)
+
++ [《最后的信念》实体版7月4日登陆PS5/Switch 银恶城类魂](https://www.3dmgame.com/news/202404/3893265.html)
+
