@@ -183,3 +183,13 @@
 
 + [传闻：《索尼克：未知边境2》正在开发中](https://www.3dmgame.com/news/202404/3893317.html)
 
++ [《宝可梦 GO》捏人改动过于正确 遭玩家晒图集体抗议](https://www.3dmgame.com/news/202404/3893324.html)
+
++ [《幻兽帕鲁》最新更新发布 调整优化与修复问题](https://www.3dmgame.com/news/202404/3893323.html)
+
++ [梦枕貘原作小说改编动画《饿狼传：孤狼之道》官方预告公布](https://www.3dmgame.com/news/202404/3893322.html)
+
++ [零售商泄露：《生化危机2》等游戏或将推出PS5实体版](https://www.3dmgame.com/news/202404/3893321.html)
+
++ [《Lunarium》Steam页面上线 奇幻动作冒险RPG](https://www.3dmgame.com/news/202404/3893320.html)
+
