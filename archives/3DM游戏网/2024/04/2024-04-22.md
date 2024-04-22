@@ -209,3 +209,7 @@
 
 + [Embracer Group宣布拆分重组 分为三家独立上市公司](https://www.3dmgame.com/news/202404/3893325.html)
 
++ [曝悉尼妹在《蜘蛛侠4》中饰演黑猫 和荷兰弟谈恋爱](https://www.3dmgame.com/news/202404/3893333.html)
+
++ [苹果四面受敌销量骤减 推出一款1800元的iPhone才是出路](https://www.3dmgame.com/news/202404/3893334.html)
+
