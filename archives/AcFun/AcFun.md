@@ -105,3 +105,5 @@
 
 + [琴诺QQ弹弹的ლ(´ڡ`ლ)](http://www.acfun.cn/v/ac44372762)
 
++ [【快乐17】AC娘的炸酱面狂想曲【PV还原/人力音mad】](http://www.acfun.cn/v/ac44378023)
+

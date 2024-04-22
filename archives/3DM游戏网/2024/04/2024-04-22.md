@@ -193,3 +193,19 @@
 
 + [《Lunarium》Steam页面上线 奇幻动作冒险RPG](https://www.3dmgame.com/news/202404/3893320.html)
 
++ [黄仁勋谈未来 人形机器人一定是主流成本也没那么高](https://www.3dmgame.com/news/202404/3893332.html)
+
++ [TikTok“不卖就禁”新法案通过 官方发声：践踏言论自由](https://www.3dmgame.com/news/202404/3893331.html)
+
++ [《星刃》女主游泳视频展示：在水里动作流畅自然](https://www.3dmgame.com/news/202404/3893330.html)
+
++ [特斯拉全球频繁调价 马斯克透露原因：确保产量匹配市场需求](https://www.3dmgame.com/news/202404/3893329.html)
+
++ [30年经典游戏《Free Stars》将出续篇 官方开启众筹](https://www.3dmgame.com/news/202404/3893328.html)
+
++ [文字冒险游戏《饿殍：明末千里行》宣布4月23日发售 首发优惠29.6元](https://www.3dmgame.com/news/202404/3893327.html)
+
++ [《平凡职业造就世界最强》第三季动画PV公开 2024年秋季播出](https://www.3dmgame.com/news/202404/3893326.html)
+
++ [Embracer Group宣布拆分重组 分为三家独立上市公司](https://www.3dmgame.com/news/202404/3893325.html)
+
