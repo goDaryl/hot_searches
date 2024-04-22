@@ -41,3 +41,5 @@
 
 + [93% 的违规行为引发系统宕机、数据泄露等问题](https://www.freebuf.com/news/398505.html)
 
++ [学术派分析：大语言模型（LLM）的长文本之罪，AI模型无一幸免](https://www.freebuf.com/articles/paper/398416.html)
+
