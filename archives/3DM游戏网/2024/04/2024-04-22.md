@@ -173,3 +173,7 @@
 
 + [手游新作《魔法少女小圆：Magia Exedra》官宣 年内上线](https://www.3dmgame.com/news/202404/3893311.html)
 
++ [日本网红游戏厅《复古游戏秘密基地》众筹 遭火灾需重建](https://www.3dmgame.com/news/202404/3893316.html)
+
++ [12306强调 从未授权第三方平台发售火车票](https://www.3dmgame.com/news/202404/3893315.html)
+
