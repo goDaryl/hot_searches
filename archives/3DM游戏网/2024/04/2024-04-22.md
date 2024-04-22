@@ -237,3 +237,7 @@
 
 + [《鬼泣5》维吉尔战斗曲《Bury the Light》播放量过亿](https://www.3dmgame.com/news/202404/3893345.html)
 
++ [AMD为RDNA 3+架构GPU准备大量固件文件 为Strix Point发布做好准备](https://www.3dmgame.com/news/202404/3893348.html)
+
++ [《死侍3》全新预告公开 7月26日上映](https://www.3dmgame.com/news/202404/3893347.html)
+
