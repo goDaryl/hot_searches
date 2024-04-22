@@ -157,3 +157,19 @@
 
 + [手游《地下城与勇士：起源》官宣定档 5月21日上线](https://www.3dmgame.com/news/202404/3893302.html)
 
++ [多人派对游戏《猛兽派对》即将推出全新模式：猛兽大乱斗](https://www.3dmgame.com/news/202404/3893314.html)
+
++ [像素动作类肉鸽游戏《蚁眼还眼》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893313.html)
+
++ [知名演员孙艺洲真的Cos吕布了 网友：这造型绝了](https://www.3dmgame.com/news/202404/3893310.html)
+
++ [粉丝从新专辑推断泰勒·斯威夫特将出演《死侍3》中的炫音](https://www.3dmgame.com/news/202404/3893309.html)
+
++ [《巫师3》《赛博朋克2077》等源代码被公开 Mod作者狂喜](https://www.3dmgame.com/news/202404/3893308.html)
+
++ [《百英雄传》媒体评分出炉 IGN 7分：值得一玩](https://www.3dmgame.com/news/202404/3893307.html)
+
++ [《夜莺传说》新更新0.2情报公开 下周正式上线](https://www.3dmgame.com/news/202404/3893312.html)
+
++ [手游新作《魔法少女小圆：Magia Exedra》官宣 年内上线](https://www.3dmgame.com/news/202404/3893311.html)
+
