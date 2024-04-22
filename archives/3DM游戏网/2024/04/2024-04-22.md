@@ -233,3 +233,7 @@
 
 + [AI产业带动大容量HDD需求 希捷跟进西部数据涨价](https://www.3dmgame.com/news/202404/3893343.html)
 
++ [特斯拉谈第一批中国车主数人成今日对手：由衷感到开心](https://www.3dmgame.com/news/202404/3893346.html)
+
++ [《鬼泣5》维吉尔战斗曲《Bury the Light》播放量过亿](https://www.3dmgame.com/news/202404/3893345.html)
+
