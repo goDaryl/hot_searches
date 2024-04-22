@@ -43,3 +43,5 @@
 
 + [学术派分析：大语言模型（LLM）的长文本之罪，AI模型无一幸免](https://www.freebuf.com/articles/paper/398416.html)
 
++ [FreeBuf早报 | Meta 发布最强开源大模型；网络钓鱼即服务平台 LabHost 被瓦解](https://www.freebuf.com/news/398510.html)
+
