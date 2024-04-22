@@ -35,3 +35,9 @@
 
 + [华为 Pura 70 / Pro + 手机今日开售：5499 元起](https://m.ithome.com/html/763250.htm)
 
++ [古尔曼：苹果有望在年底直接发布 M4 版 Mac Mini，而不是 M3 版](https://m.ithome.com/html/763240.htm)
+
++ [一汽丰田新款格瑞维亚车型上市：大七座 MPV，售价 29.98 万元起](https://m.ithome.com/html/763239.htm)
+
++ [奇瑞风云 T9 预售价降至 15.49 万元，订单突破 1 万再降 5000 元](https://m.ithome.com/html/763233.htm)
+

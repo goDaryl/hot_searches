@@ -139,3 +139,21 @@
 
 + [《星刃》可在沙特阿拉伯发售 现已通过年龄分级](https://www.3dmgame.com/news/202404/3893294.html)
 
++ [奇幻剧情冒险游戏《往昔童话》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893305.html)
+
++ [《星刃》与女歌手BIBI联动MV幕后 妆扮造型大赞](https://www.3dmgame.com/news/202404/3893304.html)
+
++ [《Crossing The Sands》登陆Steam 复古3D迷宫RPG](https://www.3dmgame.com/news/202404/3893306.html)
+
++ [《You Donut Get It》PC版免费发布 甜甜圈跑酷](https://www.3dmgame.com/news/202404/3893298.html)
+
++ [《燕云十六声》新特色介绍：燕云运动会 易容乔装](https://www.3dmgame.com/news/202404/3893299.html)
+
++ [《星刃》所有国家版本都是未和谐版 国外玩家激动不已](https://www.3dmgame.com/news/202404/3893300.html)
+
++ [TGA创始人杰夫·吉斯利曝光《我们身边的狼2》新截图](https://www.3dmgame.com/news/202404/3893301.html)
+
++ [《死侍3》新海报公布 死侍和金刚狼难分难舍](https://www.3dmgame.com/news/202404/3893303.html)
+
++ [手游《地下城与勇士：起源》官宣定档 5月21日上线](https://www.3dmgame.com/news/202404/3893302.html)
+
