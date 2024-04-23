@@ -111,3 +111,15 @@
 
 + [《指环王：夏尔传说》公布 秋季登陆各大平台](https://www.3dmgame.com/news/202404/3893353.html)
 
++ [EA批评日本评级组织拒绝《死亡空间》 却给《星刃》开绿灯](https://www.3dmgame.com/news/202404/3893362.html)
+
++ [幻水精神续作《百英雄传》发布上市宣传片](https://www.3dmgame.com/news/202404/3893359.html)
+
++ [传《细胞分裂重制版》敌人能检测反射声光发现玩家](https://www.3dmgame.com/news/202404/3893361.html)
+
++ [支持4人对战《高尔夫之家2》今夏登陆多平台](https://www.3dmgame.com/news/202404/3893360.html)
+
++ [因任天堂要求独占萨姆斯未能加入《堡垒之夜》](https://www.3dmgame.com/news/202404/3893358.html)
+
++ [《暗喻幻想》第3波预告曝光10月11日发售](https://www.3dmgame.com/news/202404/3893357.html)
+
