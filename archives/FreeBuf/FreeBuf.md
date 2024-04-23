@@ -51,3 +51,7 @@
 
 + [攻防演练 | 从0开始实现一次完整的网络钓鱼（一）](https://www.freebuf.com/sectool/397442.html)
 
++ [如何使用trackerjacker映射和跟踪分析WiFi网络设备](https://www.freebuf.com/sectool/393414.html)
+
++ [拒绝支付！ 2024 年第一季度勒索赎金支付比例降至历史新低](https://www.freebuf.com/news/398976.html)
+
