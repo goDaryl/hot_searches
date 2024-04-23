@@ -103,3 +103,21 @@
 
 + [《星刃》游戏幕后开发第二期 深入了解游戏开发](https://www.3dmgame.com/news/202404/3893448.html)
 
++ [虚幻引擎5.4全新功能曝光 为游戏开发注入强大动力](https://www.3dmgame.com/news/202404/3893457.html)
+
++ [开发者表示《觉醒计划》并未取消 正在努力开发中](https://www.3dmgame.com/news/202404/3893456.html)
+
++ [酒店建造管理游戏《酒店建筑师》年内推出EA版](https://www.3dmgame.com/news/202404/3893455.html)
+
++ [《堡垒之夜》加入多首碧丽艾莉许热门歌曲](https://www.3dmgame.com/news/202404/3893454.html)
+
++ [街机游戏《忍者神龟：变种之怒》正式登陆主机平台](https://www.3dmgame.com/news/202404/3893450.html)
+
++ [复古风格科幻FPS《恐外症》7/23推出](https://www.3dmgame.com/news/202404/3893453.html)
+
++ [二战策略游戏《战争之人2》5/16正式发售](https://www.3dmgame.com/news/202404/3893452.html)
+
++ [叙事冒险游戏《Echoes》5月登陆Steam和Switch](https://www.3dmgame.com/news/202404/3893451.html)
+
++ [《飞向月球》确认登陆任天堂Switch 预告片曝光](https://www.3dmgame.com/news/202404/3893449.html)
+
