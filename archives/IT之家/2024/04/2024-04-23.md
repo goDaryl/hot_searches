@@ -33,3 +33,5 @@
 
 + [小米 10 Pro / Ultra 手机推送基于安卓 13 的澎湃 HyperOS 正式版更新](https://m.ithome.com/html/763340.htm)
 
++ [百度地图 V20 即将登陆特斯拉、华为智能座舱、极越，号称“成为 3 亿车的标配”](https://m.ithome.com/html/763429.htm)
+
