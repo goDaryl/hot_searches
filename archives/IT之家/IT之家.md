@@ -57,3 +57,9 @@
 
 + [中国铁路 12306 完成华为鸿蒙 HarmonyOS NEXT 原生应用核心版本开发](https://m.ithome.com/html/763674.htm)
 
++ [小米牵头承担的 2023 年国家重点研发计划“智能机器人”重点专项启动](https://m.ithome.com/html/763592.htm)
+
++ [余承东：售价低于 30 万的华为高阶智驾其实都是亏本销售](https://m.ithome.com/html/763617.htm)
+
++ [微信安卓版 8.0.49 最新官方正式版下载发布](https://m.ithome.com/html/763483.htm)
+
