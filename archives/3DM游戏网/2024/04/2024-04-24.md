@@ -121,3 +121,13 @@
 
 + [《飞向月球》确认登陆任天堂Switch 预告片曝光](https://www.3dmgame.com/news/202404/3893449.html)
 
++ [《星刃》总监家太穷上大学才买PS1 《FF》激发他做游戏](https://www.3dmgame.com/news/202404/3893462.html)
+
++ [真人剧开播后 《辐射》全系列单日玩家达到了500万](https://www.3dmgame.com/news/202404/3893460.html)
+
++ [《刺客信条：猎巫》早期细节曝光 将有巫术超能力、线性玩法](https://www.3dmgame.com/news/202404/3893461.html)
+
++ [EA Original游戏《肯泽拉传说：扎乌》现已推出 Steam国区118元](https://www.3dmgame.com/news/202404/3893459.html)
+
++ [城市构筑游戏《奇星协力》5月21日开启抢先体验](https://www.3dmgame.com/news/202404/3893458.html)
+
