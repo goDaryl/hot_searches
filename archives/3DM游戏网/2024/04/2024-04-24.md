@@ -131,3 +131,23 @@
 
 + [城市构筑游戏《奇星协力》5月21日开启抢先体验](https://www.3dmgame.com/news/202404/3893458.html)
 
++ [崔佛演员回忆《GTA5》曾收录语音 疑似被废弃的特工故事](https://www.3dmgame.com/news/202404/3893466.html)
+
++ [雅达利复活英宝格品牌 收购游戏《可靠快递》IP](https://www.3dmgame.com/news/202404/3893467.html)
+
++ [《漫威争锋》洛基实机 5月10日封闭A测](https://www.3dmgame.com/news/202404/3893468.html)
+
++ [《幽港迷城》电子版开发商的新项目因资金和裁员问题被迫在宣布时搁置](https://www.3dmgame.com/news/202404/3893469.html)
+
++ [腾讯游戏《剑灵2》新视频 国服首测招募开启](https://www.3dmgame.com/news/202404/3893470.html)
+
++ [《真女神转生5：复仇》拥有全新故事路线 时长超75个小时](https://www.3dmgame.com/news/202404/3893471.html)
+
++ [取代E3？IGN Live线下展会公开首批细节6月7日举办](https://www.3dmgame.com/news/202404/3893472.html)
+
++ [《哥特王朝：重制版》新截图 游戏发售日或将公布](https://www.3dmgame.com/news/202404/3893464.html)
+
++ [《星刃》女主韩语配音演员曝光：美女朴莉娜 曾为原神配音](https://www.3dmgame.com/news/202404/3893465.html)
+
++ [科幻片《异星战境》新预告 詹妮弗洛佩兹刘思慕主演](https://www.3dmgame.com/news/202404/3893463.html)
+

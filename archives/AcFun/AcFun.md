@@ -69,3 +69,7 @@
 
 + [【诸葛】胡说八道：具有特色的汉江奇迹](http://www.acfun.cn/v/ac44387239)
 
++ [《论川渝人的松弛感》 smart](http://www.acfun.cn/v/ac44388492)
+
++ [So crazy](http://www.acfun.cn/v/ac44387478)
+
