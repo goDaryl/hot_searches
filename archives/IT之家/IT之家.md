@@ -51,3 +51,5 @@
 
 + [华为发布全球首款五合一车控模组](https://m.ithome.com/html/763844.htm)
 
++ [华为乾崑智能汽车解决方案发布，ADS 3.0 等十大新品亮相](https://m.ithome.com/html/763820.htm)
+

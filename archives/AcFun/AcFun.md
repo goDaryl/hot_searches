@@ -93,3 +93,7 @@
 
 + [华为P70手机AI修图能擦除人体衣服，客服：AI大模型有漏洞，后续会优化](http://www.acfun.cn/v/ac44388573)
 
++ [Wiggle Wiggle](http://www.acfun.cn/v/ac44387247)
+
++ [这将颠覆你们对魔术的认知](http://www.acfun.cn/v/ac44386680)
+

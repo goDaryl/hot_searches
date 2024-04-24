@@ -63,3 +63,5 @@
 
 + [都是开源组件的锅？供应链成企业“致命威胁”](https://www.freebuf.com/articles/neopoints/398325.html)
 
++ [SolarWinds 漏洞四周年，供应链攻击已成企业“大麻烦”](https://www.freebuf.com/articles/neopoints/398325.html)
+
