@@ -57,3 +57,5 @@
 
 + [勒索软件团伙的运营模式正在发生变化](https://www.freebuf.com/news/399118.html)
 
++ [勒索软件运营模式发生重大变化，2024年第一季度增幅55%](https://www.freebuf.com/news/399118.html)
+
