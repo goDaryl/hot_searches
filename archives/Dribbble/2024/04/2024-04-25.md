@@ -65,3 +65,13 @@
 
 + [GeoShapes icon set](https://dribbble.com/shots/)
 
++ [Tuxedo](https://dribbble.com/shots/)
+
++ [Glyph Beer 40](https://dribbble.com/shots/)
+
++ [Timberland: Color Blast campaign](https://dribbble.com/shots/)
+
++ [Anxious and Tired – lettering t-shirt print](https://dribbble.com/shots/)
+
++ [Pure Sport](https://dribbble.com/shots/)
+
