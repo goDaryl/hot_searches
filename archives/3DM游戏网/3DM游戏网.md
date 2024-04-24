@@ -151,3 +151,15 @@
 
 + [科幻片《异星战境》新预告 詹妮弗洛佩兹刘思慕主演](https://www.3dmgame.com/news/202404/3893463.html)
 
++ [拳头免费2v2格斗游戏《2XKO》俄洛伊实机 明年发售](https://www.3dmgame.com/news/202404/3893475.html)
+
++ [PS Plus三档会员新增四款试玩游戏：《原始袭变》等](https://www.3dmgame.com/news/202404/3893477.html)
+
++ [回合制卡牌策略游戏《铁烙印》现已上架Steam平台 并提供试玩Demo](https://www.3dmgame.com/news/202404/3893476.html)
+
++ [Twitch关闭韩国业务 AfreecaTV和CHZZK成直播新欢](https://www.3dmgame.com/news/202404/3893474.html)
+
++ [《塔拉萨号》6月19日登陆Steam 海底沉船神秘探索](https://www.3dmgame.com/news/202404/3893473.html)
+
++ [恐怖游戏《逃离食人族一家》上架Steam 帮少女逃脱](https://www.3dmgame.com/news/202404/3893478.html)
+
