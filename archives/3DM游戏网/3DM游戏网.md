@@ -177,3 +177,17 @@
 
 + [《鬼屋魔影：重制版》发布后 开发商Pieces宣布裁员](https://www.3dmgame.com/news/202404/3893479.html)
 
++ [Steam更新退款政策 EA累计时间计入退款时间](https://www.3dmgame.com/news/202404/3893491.html)
+
++ [传闻：索尼将在今年关闭PS3的在线服务器和商店](https://www.3dmgame.com/news/202404/3893490.html)
+
++ [Steam特别好评城市建造游戏《堡垒：猎鹰战纪》发布全新免费DLC预告片](https://www.3dmgame.com/news/202404/3893489.html)
+
++ [PS名作《Dokapon：愤怒的铁拳》复刻版8月1日登陆Switch](https://www.3dmgame.com/news/202404/3893488.html)
+
++ [《遗迹2》新DLC“被遗忘的王国”发售 评价褒贬不一](https://www.3dmgame.com/news/202404/3893492.html)
+
++ [动作角色扮演游戏《琉隐九绝》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202404/3893487.html)
+
++ [德国希望本国开发商也能做出《博德之门3》量级游戏](https://www.3dmgame.com/news/202404/3893486.html)
+
