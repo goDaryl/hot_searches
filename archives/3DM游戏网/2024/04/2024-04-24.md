@@ -191,3 +191,19 @@
 
 + [德国希望本国开发商也能做出《博德之门3》量级游戏](https://www.3dmgame.com/news/202404/3893486.html)
 
++ [雷军宣布：小米SU7 2024年交付目标超过10万辆](https://www.3dmgame.com/news/202404/3893500.html)
+
++ [《超次元盘上游戏》Steam页面上线 多种棋类具现战斗](https://www.3dmgame.com/news/202404/3893498.html)
+
++ [雅达利经典登月游戏重置版《超越登月者》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893499.html)
+
++ [暴雪承认《魔兽世界》对新手不友好 并计划改进](https://www.3dmgame.com/news/202404/3893497.html)
+
++ [社区经理透露 贝塞斯达法国工作室即将被关闭 已成立14年](https://www.3dmgame.com/news/202404/3893495.html)
+
++ [特斯拉称将推出自动驾驶叫车服务 与Uber正面竞争](https://www.3dmgame.com/news/202404/3893496.html)
+
++ [今夕是何年？《蜘蛛侠2》重映首日北美票房排名第二](https://www.3dmgame.com/news/202404/3893494.html)
+
++ [马斯克旗下人形机器人Optimus或明年年底前开始出售](https://www.3dmgame.com/news/202404/3893493.html)
+
