@@ -49,3 +49,19 @@
 
 + [City Sunset (Revival)](https://dribbble.com/shots/)
 
++ [Tiger-Sun illustration](https://dribbble.com/shots/)
+
++ [Matthew Alvarado Logotype](https://dribbble.com/shots/)
+
++ [Criminal Offensive Side eye](https://dribbble.com/shots/)
+
++ [Bandana Series Vol.01](https://dribbble.com/shots/)
+
++ [MoodGummz](https://dribbble.com/shots/)
+
++ [Noodle](https://dribbble.com/shots/)
+
++ [Owl City Cover Art](https://dribbble.com/shots/)
+
++ [GeoShapes icon set](https://dribbble.com/shots/)
+
