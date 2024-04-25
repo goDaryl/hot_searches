@@ -49,3 +49,5 @@
 
 + [立即修补！Flowmon最严重的漏洞已有公开利用程序](https://www.freebuf.com/news/399264.html)
 
++ [等保2.0测评：麒麟操作系统](https://www.freebuf.com/articles/system/383809.html)
+

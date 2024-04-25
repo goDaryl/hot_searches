@@ -203,3 +203,7 @@
 
 + [《切尔诺贝利清算人》发售日预告 6月6日发售](https://www.3dmgame.com/news/202404/3893588.html)
 
++ [《蟹蟹寻宝奇遇》开发者被好评震撼：不敢相信是真的](https://www.3dmgame.com/news/202404/3893589.html)
+
++ [《沙加：Emerald Beyond》登陆多平台发售 系列最新作](https://www.3dmgame.com/news/202404/3893590.html)
+
