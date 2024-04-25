@@ -207,3 +207,21 @@
 
 + [《沙加：Emerald Beyond》登陆多平台发售 系列最新作](https://www.3dmgame.com/news/202404/3893590.html)
 
++ [类《8号出口》游戏《女优! 离不开那个泳池了！》即将在4月推出](https://www.3dmgame.com/news/202404/3893596.html)
+
++ [Studio Colorido原创动画电影《我的鬼女孩》正式预告公开 5月24日上映](https://www.3dmgame.com/news/202404/3893599.html)
+
++ [《星刃》首日补丁添加“新游戏+”模式 升级全继承](https://www.3dmgame.com/news/202404/3893598.html)
+
++ [国际月球科研站建设时间表公布 2035年前基本配套建成](https://www.3dmgame.com/news/202404/3893597.html)
+
++ [《人类一败涂地》宣布登陆国行Switch 定价78元](https://www.3dmgame.com/news/202404/3893594.html)
+
++ [《April 24th》登陆Steam 第一人称恐怖探索](https://www.3dmgame.com/news/202404/3893595.html)
+
++ [知名网络作家唐家三少宣布将停更：真的老了 我歇歇](https://www.3dmgame.com/news/202404/3893593.html)
+
++ [《庄园领主》开发者提醒玩家：暂时不要强行建城墙](https://www.3dmgame.com/news/202404/3893592.html)
+
++ [受《辐射》真人剧启发 《指环王》IP所有者认为中土背景的衍生作品有惊人潜力](https://www.3dmgame.com/news/202404/3893591.html)
+
