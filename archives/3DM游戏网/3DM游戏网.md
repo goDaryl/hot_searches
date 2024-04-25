@@ -183,3 +183,13 @@
 
 + [《遮天》电视剧阵容官宣：尹正饰叶凡 祝绪丹饰姬紫月](https://www.3dmgame.com/news/202404/3893572.html)
 
++ [沉浸式模拟游戏《校园生活》现已登录Steam平台 6月推出试玩版](https://www.3dmgame.com/news/202404/3893580.html)
+
++ [古装互动游戏《许愿，我要带她们回现代》限时折扣价37.8元](https://www.3dmgame.com/news/202404/3893583.html)
+
++ [《龙之信条2》最新更新上线 调整修复多处问题](https://www.3dmgame.com/news/202404/3893582.html)
+
++ [《沙漠大冒险》媒体评分解禁 IGN和GS双6分](https://www.3dmgame.com/news/202404/3893581.html)
+
++ [《绝地求生》原版地图即将回归 5月14日登陆PC版](https://www.3dmgame.com/news/202404/3893579.html)
+
