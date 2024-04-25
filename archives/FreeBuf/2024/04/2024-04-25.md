@@ -41,3 +41,5 @@
 
 + [一次收获颇丰的Google漏洞挖掘旅程](https://www.freebuf.com/articles/paper/398295.html)
 
++ [《2024年网络弹性风险指数报告》：92%的组织并未准备好应对AI安全挑战](https://www.freebuf.com/articles/paper/398612.html)
+
