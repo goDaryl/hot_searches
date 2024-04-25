@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | GitHub被曝安全漏洞，全球最大“风控数据库”落入犯罪分子手中](https://www.freebuf.com/news/399159.html)
 
++ [立即修补！Flowmon最严重的漏洞已有公开利用程序](https://www.freebuf.com/news/399264.html)
+

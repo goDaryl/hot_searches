@@ -193,3 +193,13 @@
 
 + [《绝地求生》原版地图即将回归 5月14日登陆PC版](https://www.3dmgame.com/news/202404/3893579.html)
 
++ [《绝地潜兵2》官方呼吁玩家不要击杀身穿预购奖励套装的队友](https://www.3dmgame.com/news/202404/3893584.html)
+
++ [周鸿祎询问贾跃亭啥时回国 真想造车先要回中国](https://www.3dmgame.com/news/202404/3893585.html)
+
++ [《小丑牌》开发者承认游戏代码很烂：全靠希望稳住](https://www.3dmgame.com/news/202404/3893587.html)
+
++ [《海贼王》真人版第二季2025年播出 今年6月正式开拍](https://www.3dmgame.com/news/202404/3893586.html)
+
++ [《切尔诺贝利清算人》发售日预告 6月6日发售](https://www.3dmgame.com/news/202404/3893588.html)
+
