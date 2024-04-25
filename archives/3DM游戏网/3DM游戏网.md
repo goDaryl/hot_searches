@@ -229,3 +229,13 @@
 
 + [任天堂公布《纸片马里奥：千年之门》介绍影片 5月23日发售](https://www.3dmgame.com/news/202404/3893601.html)
 
++ [《辐射》电视剧观众希望能在《辐射5》中保留马特·贝瑞配音版的巧手先生](https://www.3dmgame.com/news/202404/3893604.html)
+
++ [《最终幻想16》后吉田直树想从黑暗幻想中休息一下](https://www.3dmgame.com/news/202404/3893605.html)
+
++ [科雷娱乐新作《熔炉密林》Steam开启抢先体验 首发九折优惠](https://www.3dmgame.com/news/202404/3893606.html)
+
++ [《百英雄传》近日更新修复问题 部分NPC名字为众筹支援者并非BUG](https://www.3dmgame.com/news/202404/3893602.html)
+
++ [台积电1.6nm技术A16首次公开 2026年开始量产](https://www.3dmgame.com/news/202404/3893603.html)
+
