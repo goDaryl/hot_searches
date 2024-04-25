@@ -297,3 +297,5 @@
 
 + [微软要求CPU必须支持SSE 4.2 否则Windows 11 24H2无法启动](https://www.3dmgame.com/news/202404/3893634.html)
 
++ [亚洲首个小猪佩奇户外主题乐园落户上海 2027年开业](https://www.3dmgame.com/news/202404/3893636.html)
+
