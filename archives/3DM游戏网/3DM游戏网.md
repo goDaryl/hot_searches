@@ -169,3 +169,17 @@
 
 + [《庄园领主》发行商感谢中国玩家 CEO中文说的这么好](https://www.3dmgame.com/news/202404/3893559.html)
 
++ [多人知识与策略游戏《Knowledge Domination》Steam页面上线 支持简中](https://www.3dmgame.com/news/202404/3893577.html)
+
++ [《恶意不息》总监：更多游戏应该推出抢先体验](https://www.3dmgame.com/news/202404/3893573.html)
+
++ [《星刃》女主手办新图和视频 伊芙完美身材展现](https://www.3dmgame.com/news/202404/3893578.html)
+
++ [《无职转生》Steam页面上线 3D迷宫探索RPG](https://www.3dmgame.com/news/202404/3893576.html)
+
++ [Steam版《逆转裁判：逆转合集》将于下个月底下架](https://www.3dmgame.com/news/202404/3893575.html)
+
++ [《最后的咒语》首个DLC“卢恩堡的矮人”正式发售 免费更新同步上线](https://www.3dmgame.com/news/202404/3893574.html)
+
++ [《遮天》电视剧阵容官宣：尹正饰叶凡 祝绪丹饰姬紫月](https://www.3dmgame.com/news/202404/3893572.html)
+
