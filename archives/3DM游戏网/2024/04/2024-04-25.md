@@ -239,3 +239,23 @@
 
 + [台积电1.6nm技术A16首次公开 2026年开始量产](https://www.3dmgame.com/news/202404/3893603.html)
 
++ [“SEGA黄金周大促”火热进行中 《人中之龙８》《女神异闻录３ Reload》首促！](https://www.3dmgame.com/news/202404/3893616.html)
+
++ [《超级猴子球 香蕉大乱斗》公开最新多人游戏预告片！](https://www.3dmgame.com/news/202404/3893615.html)
+
++ [《碧蓝幻想：Relink》11天销量破百万 80%销量来自日本以外](https://www.3dmgame.com/news/202404/3893614.html)
+
++ [拜登签署强制要求字节出售或封禁海外版抖音法令](https://www.3dmgame.com/news/202404/3893613.html)
+
++ [德普狠批好莱坞砸钱拍无新意烂片：观众们早已厌倦](https://www.3dmgame.com/news/202404/3893612.html)
+
++ [荣耀华为并列第一！Q1中国智能手机市场排名出炉](https://www.3dmgame.com/news/202404/3893611.html)
+
++ [KK官方对战平台全网招募地图代言人，引荐转发抽小米手机！](https://www.3dmgame.com/news/202404/3893610.html)
+
++ [策略RPG游戏 《绯红的神约Echocalypse》Steam页面上线 5月发售](https://www.3dmgame.com/news/202404/3893609.html)
+
++ [维塔士员工资料显示 《上古卷轴4》虚幻5重制版开发中](https://www.3dmgame.com/news/202404/3893608.html)
+
++ [《热血硬派国夫君外传》新DLC透露 《双截龙2》兄弟参战](https://www.3dmgame.com/news/202404/3893607.html)
+
