@@ -101,3 +101,7 @@
 
 + [《April 24th》登陆Steam 第一人称恐怖探索](https://www.3dmgame.com/news/202404/3893595.html)
 
++ [近十年了！《古墓丽影9：终极版》终于登陆PC](https://www.3dmgame.com/news/202404/3893644.html)
+
++ [《许愿，我要带她们回现代》Steam特别好评 首发37.8元](https://www.3dmgame.com/news/202404/3893645.html)
+
