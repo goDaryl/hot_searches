@@ -259,3 +259,13 @@
 
 + [《热血硬派国夫君外传》新DLC透露 《双截龙2》兄弟参战](https://www.3dmgame.com/news/202404/3893607.html)
 
++ [游戏版《SAND LAND》今日上市！同步公开宣传视频及鸟山明老师的感言](https://www.3dmgame.com/news/202404/3893620.html)
+
++ [Apple Arcade版《魔法气泡 益智消消乐》4月25日 迎来首次版本更新](https://www.3dmgame.com/news/202404/3893621.html)
+
++ [华为6月将有大动作 纯血鸿蒙+盘古大模型5.0](https://www.3dmgame.com/news/202404/3893619.html)
+
++ [Nintendo Switch™游戏《鬼灭之刃 争当最强队士！》今日正式发售！](https://www.3dmgame.com/news/202404/3893618.html)
+
++ [《真女神转生5：复仇》公开实体版预购特典：绘制有恶魔形象的“恶魔扑克牌”](https://www.3dmgame.com/news/202404/3893617.html)
+
