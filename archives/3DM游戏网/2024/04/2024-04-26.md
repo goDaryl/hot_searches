@@ -105,3 +105,5 @@
 
 + [《许愿，我要带她们回现代》Steam特别好评 首发37.8元](https://www.3dmgame.com/news/202404/3893645.html)
 
++ [全职猎人格斗游戏首曝13分钟对战实机演示](https://www.3dmgame.com/news/202404/3893646.html)
+
