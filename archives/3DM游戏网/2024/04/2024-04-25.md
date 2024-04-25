@@ -293,3 +293,7 @@
 
 + [国产修仙种田游戏《一方灵田》销量破10万 新内容更新上线](https://www.3dmgame.com/news/202404/3893622.html)
 
++ [《冰汽时代》销量超500万套 平均游玩时长24小时](https://www.3dmgame.com/news/202404/3893635.html)
+
++ [微软要求CPU必须支持SSE 4.2 否则Windows 11 24H2无法启动](https://www.3dmgame.com/news/202404/3893634.html)
+
