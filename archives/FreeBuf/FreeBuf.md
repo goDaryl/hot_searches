@@ -59,3 +59,5 @@
 
 + [超详细分享 | 你真的懂大语言模型么？](https://www.freebuf.com/articles/database/398617.html)
 
++ [数亿条 Discord 用户的个人信息正被出售](https://www.freebuf.com/news/399310.html)
+
