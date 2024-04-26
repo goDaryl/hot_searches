@@ -107,3 +107,15 @@
 
 + [全职猎人格斗游戏首曝13分钟对战实机演示](https://www.3dmgame.com/news/202404/3893646.html)
 
++ [《辐射4》次世代更新现已上线](https://www.3dmgame.com/news/202404/3893652.html)
+
++ [暴雪嘉年华2024被暴雪取消了 将在未来几年内回归](https://www.3dmgame.com/news/202404/3893651.html)
+
++ [沙盒游戏《灵魂面甲》发布游戏特性介绍视频](https://www.3dmgame.com/news/202404/3893650.html)
+
++ [售价超3千《艾尔登法环》女武神手臂开放预购](https://www.3dmgame.com/news/202404/3893649.html)
+
++ [Cygames发布《碧蓝幻想：Relink》内容更新预告](https://www.3dmgame.com/news/202404/3893648.html)
+
++ [ARPG《关于我转生变成史莱姆这档事》8月8日发售](https://www.3dmgame.com/news/202404/3893647.html)
+

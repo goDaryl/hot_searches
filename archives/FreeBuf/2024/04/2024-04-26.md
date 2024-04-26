@@ -41,3 +41,5 @@
 
 + [常见场景的业务逻辑漏洞以及安全设计](https://www.freebuf.com/articles/web/398127.html)
 
++ [经验分享 | 记一次通过子域模糊测试识别漏洞并获取高额赏金的经历](https://www.freebuf.com/articles/network/396858.html)
+
