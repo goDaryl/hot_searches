@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 多家输入法厂商发现漏洞；美医保巨头支付赎金后再发数据泄露](https://www.freebuf.com/news/399349.html)
 
++ [生成式人工智能系统的蠕虫病毒风险](https://www.freebuf.com/articles/paper/398032.html)
+
