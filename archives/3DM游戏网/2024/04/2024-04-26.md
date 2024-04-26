@@ -231,3 +231,7 @@
 
 + [Steam“Golden Week Sale”开跑！《女神异闻录３ Reload》加入Steam促销](https://www.3dmgame.com/news/202404/3893722.html)
 
++ [NS《喧哗番长 乙女 Double Pack》角色介绍&发售日公开！7月25日重返高中生活](https://www.3dmgame.com/news/202404/3893740.html)
+
++ [NS《深夏时光！二十世纪的暑假》：介绍本作舞台「艾草町」](https://www.3dmgame.com/news/202404/3893741.html)
+
