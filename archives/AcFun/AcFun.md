@@ -69,3 +69,5 @@
 
 + [【东方】Redial【上海人形 Ver. MMD】](http://www.acfun.cn/v/ac44398631)
 
++ [四月黑马新番（3）小伙仅仅看了三天视频，竟练成摇摆拳法打爆混混！](http://www.acfun.cn/v/ac44401864)
+
