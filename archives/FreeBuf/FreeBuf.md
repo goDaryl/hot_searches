@@ -59,3 +59,5 @@
 
 + [app小程序攻防-外挂？！记一次艰难的sign绕过](https://www.freebuf.com/articles/web/398447.html)
 
++ [app小程序攻防 | 外挂？！记一次艰难的sign绕过](https://www.freebuf.com/articles/web/398447.html)
+
