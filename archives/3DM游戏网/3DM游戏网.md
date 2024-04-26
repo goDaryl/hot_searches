@@ -235,3 +235,17 @@
 
 + [NS《深夏时光！二十世纪的暑假》：介绍本作舞台「艾草町」](https://www.3dmgame.com/news/202404/3893741.html)
 
++ [备受赞誉的肉鸽登山冒险游戏《孤山难越》PC平台二折促销！](https://www.3dmgame.com/news/202404/3893738.html)
+
++ [《潜渊症》血色危机更新大幅提升游戏难度，怪物将更快地吞噬你](https://www.3dmgame.com/news/202404/3893734.html)
+
++ [动作游戏杰作 《KAGE～Shadow of The Ninja》2024年8月29日发售](https://www.3dmgame.com/news/202404/3893739.html)
+
++ [《鸦卫奇旅》最新补丁修复本地化和多人游戏崩溃问题](https://www.3dmgame.com/news/202404/3893737.html)
+
++ [今冬发售！《星舰铳犬》全新宣传片 试玩已上架主机平台](https://www.3dmgame.com/news/202404/3893736.html)
+
++ [二战第一人称多人在线对战《人间地狱》现已发布更新15](https://www.3dmgame.com/news/202404/3893735.html)
+
++ [精彩5月好物不断！全新训练家收藏礼盒以及更多宝可梦卡牌新品即将发售！](https://www.3dmgame.com/news/202404/3893733.html)
+
