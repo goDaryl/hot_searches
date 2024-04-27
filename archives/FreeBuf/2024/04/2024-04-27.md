@@ -41,3 +41,5 @@
 
 + [等保2.0测评：麒麟操作系统](https://www.freebuf.com/articles/system/383809.html)
 
++ [RSAC 2024创新沙盒｜Mitiga：新一代云和SaaS 事件响应解决方案](https://www.freebuf.com/articles/neopoints/399516.html)
+
