@@ -133,3 +133,5 @@
 
 + [《庄园领主》Steam在线峰值接近16万](https://www.3dmgame.com/news/202404/3893761.html)
 
++ [在观看《死侍与金刚狼》之前不需要复习任何电影](https://www.3dmgame.com/news/202404/3893766.html)
+
