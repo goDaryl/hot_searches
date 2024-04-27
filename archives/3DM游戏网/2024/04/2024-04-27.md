@@ -135,3 +135,5 @@
 
 + [在观看《死侍与金刚狼》之前不需要复习任何电影](https://www.3dmgame.com/news/202404/3893766.html)
 
++ [小米SU7铝线替代铜线惹争议 博主：以后还会降成本](https://www.3dmgame.com/news/202404/3893767.html)
+
