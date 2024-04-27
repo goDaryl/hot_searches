@@ -49,3 +49,7 @@
 
 + [OWASP 发布十大开源软件风险清单（详解版）](https://www.freebuf.com/news/398276.html)
 
++ [MetaHub：一款针对漏洞管理的自动化安全上下文信息扩充与影响评估工具](https://www.freebuf.com/sectool/393615.html)
+
++ [攻防演练 | 记一些常用的反制红队CS的思路](https://www.freebuf.com/articles/web/375072.html)
+
