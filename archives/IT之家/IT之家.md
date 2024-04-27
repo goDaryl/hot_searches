@@ -33,3 +33,7 @@
 
 + [华为家庭存储测试微信备份功能，需搭配鸿蒙 HarmonyOS 4.2 及以上版本手机平板使用](https://m.ithome.com/html/764539.htm)
 
++ [“万年 8GB”：苹果已停止升级 Mac 起步内存，库克更看重软硬件集成度](https://m.ithome.com/html/764556.htm)
+
++ [达墨将推出 3.5 英寸移动硬盘：8TB 版本 799 元，20TB 版本 2399 元](https://m.ithome.com/html/764508.htm)
+
