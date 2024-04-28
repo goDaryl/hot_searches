@@ -57,3 +57,5 @@
 
 + [渗透测试 | 通读审计之HadSky](https://www.freebuf.com/vuls/398535.html)
 
++ [73% 的中小企业安全人员会错过，甚至忽略关键安全警报](https://www.freebuf.com/news/399601.html)
+

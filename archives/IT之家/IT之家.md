@@ -41,3 +41,5 @@
 
 + [理想汽车 CEO 李想发文感谢雷军：必须送对方一辆理想 L6 Max](https://m.ithome.com/html/764730.htm)
 
++ [AITO 汽车回应问界 M7 Plus 事故：安全气囊正常打开，动力电池包特性均正常](https://m.ithome.com/html/764742.htm)
+

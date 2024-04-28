@@ -191,3 +191,13 @@
 
 + [《饿狼传说：狼之城》新角色预告：马尔科·罗德里格斯](https://www.3dmgame.com/news/202404/3893827.html)
 
++ [宁德时代首席科学家吴凯 2027年小批量生产全固态电池](https://www.3dmgame.com/news/202404/3893832.html)
+
++ [《绝地潜兵2》新任务将由玩家决定之后更新的战备武器内容](https://www.3dmgame.com/news/202404/3893831.html)
+
++ [《明日方舟》新作动画“焰烬曙明”制作决定 上线日期待定](https://www.3dmgame.com/news/202404/3893830.html)
+
++ [Switch 2外设厂商魔派大量泄密：新卡带老主机不兼容](https://www.3dmgame.com/news/202404/3893829.html)
+
++ [漫改动画《2.5次元的诱惑》第三弹角色PV公开 2024年7月起两季连播](https://www.3dmgame.com/news/202404/3893828.html)
+
