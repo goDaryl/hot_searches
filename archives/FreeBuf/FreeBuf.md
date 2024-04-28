@@ -41,3 +41,5 @@
 
 + [cli4bofs：一款功能强大的BOF文件运行命令行接口工具](https://www.freebuf.com/sectool/393442.html)
 
++ [Junk gun勒索软件：“豌豆射手”同样可以重拳出击](https://www.freebuf.com/articles/paper/398522.html)
+
