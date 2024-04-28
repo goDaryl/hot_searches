@@ -231,3 +231,7 @@
 
 + [苹果Vision Pro发布不到3周就有买家近半价拍卖](https://www.3dmgame.com/news/202404/3893843.html)
 
++ [为打磨小米SU7细节：雷军曾买一筐手机支架逐一体验](https://www.3dmgame.com/news/202404/3893849.html)
+
++ [苹果称自家产品8G内存等于别人16G：就不用升级了](https://www.3dmgame.com/news/202404/3893848.html)
+
