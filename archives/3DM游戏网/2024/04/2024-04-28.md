@@ -119,3 +119,7 @@
 
 + [《五等分的花嫁 五等消除故事2》正式公开年内发售](https://www.3dmgame.com/news/202404/3893783.html)
 
++ [《星刃》实体版可玩到未和谐版本：需断网再安装游戏](https://www.3dmgame.com/news/202404/3893791.html)
+
++ [《庄园领主》销量破100万份 Steam在线峰值超17万](https://www.3dmgame.com/news/202404/3893792.html)
+
