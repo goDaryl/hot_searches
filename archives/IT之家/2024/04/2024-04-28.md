@@ -43,3 +43,7 @@
 
 + [AITO 汽车回应问界 M7 Plus 事故：安全气囊正常打开，动力电池包特性均正常](https://m.ithome.com/html/764742.htm)
 
++ [比亚迪高管：华为、小米等手机大部分由比亚迪生产，公司为目前中国最大电子代工厂](https://m.ithome.com/html/764727.htm)
+
++ [苹果警告用户：iPhone 充电时切勿放在枕头或毯子下面](https://m.ithome.com/html/764690.htm)
+

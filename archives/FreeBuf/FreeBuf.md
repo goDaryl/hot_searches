@@ -59,3 +59,9 @@
 
 + [73% 的中小企业安全人员会错过，甚至忽略关键安全警报](https://www.freebuf.com/news/399601.html)
 
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
++ [password 又排第一，超过25%的人重复使用同一个密码](https://www.freebuf.com/news/399631.html)
+
++ [firebase：一款功能强大的Firebase数据库安全漏洞与错误配置检测工具](https://www.freebuf.com/sectool/393614.html)
+
