@@ -47,3 +47,7 @@
 
 + [内含“政府首脑、毒枭”等人物的详细信息，World-Check 数据库遭泄露](https://www.freebuf.com/news/399706.html)
 
++ [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
+
++ [Frameless BITB：一款功能强大的BitB安全测试工具](https://www.freebuf.com/sectool/393749.html)
+

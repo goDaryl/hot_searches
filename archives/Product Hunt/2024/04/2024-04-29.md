@@ -101,3 +101,23 @@
 
 + [Dashcam](https://www.producthunt.com/posts/dashcam)
 
++ [Profolio](https://www.producthunt.com/posts/profolio-3)
+
++ [Bright](https://www.producthunt.com/posts/bright-60b17cda-fede-4d2f-8759-3f27988db55d)
+
++ [Stable Video](https://www.producthunt.com/posts/stable-video)
+
++ [Play AI](https://www.producthunt.com/posts/play-ai)
+
++ [SaaSykit](https://www.producthunt.com/posts/saasykit)
+
++ [Yardstick](https://www.producthunt.com/posts/yardstick)
+
++ [ProfessorAI](https://www.producthunt.com/posts/professorai-2)
+
++ [Intellecta](https://www.producthunt.com/posts/intellecta-2)
+
++ [My-legacy.ai](https://www.producthunt.com/posts/my-legacy-ai)
+
++ [Clubistry](https://www.producthunt.com/posts/clubistry)
+
