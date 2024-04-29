@@ -51,3 +51,7 @@
 
 + [Frameless BITB：一款功能强大的BitB安全测试工具](https://www.freebuf.com/sectool/393749.html)
 
++ [伦敦证券旗下数据库被窃取，泄露超500万条敏感信息](https://www.freebuf.com/news/399706.html)
+
++ [73% 中小企业安全人员容易错过或忽略关键安全警报](https://www.freebuf.com/news/399601.html)
+
