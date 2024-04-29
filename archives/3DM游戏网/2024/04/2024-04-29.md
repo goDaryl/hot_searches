@@ -173,3 +173,5 @@
 
 + [《铁拳8》S1赛季宣传片 免费更新详情一览](https://www.3dmgame.com/news/202404/3893926.html)
 
++ [意外！《星刃》被IGN法国打了8分 比IGN美国评分还高](https://www.3dmgame.com/news/202404/3893929.html)
+
