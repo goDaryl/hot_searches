@@ -101,3 +101,13 @@
 
 + [所有出口都要批准！日本将对半导体等实施出口管制](https://www.3dmgame.com/news/202404/3893842.html)
 
++ [2026年多人FPS新作《Breakthrough》提前泄露](https://www.3dmgame.com/news/202404/3893896.html)
+
++ [RTX4090焊点频频脱落 完全没法修！暴力包装运输惹的祸](https://www.3dmgame.com/news/202404/3893897.html)
+
++ [《王国之心2》的玩家时隔9年才注意到结局动画中的怪异建模问题](https://www.3dmgame.com/news/202404/3893893.html)
+
++ [《上古卷轴OL》DLC“黄金大道”上线测试服 免费体验](https://www.3dmgame.com/news/202404/3893894.html)
+
++ [《Goodnight Universe》Steam页面 不支持简中](https://www.3dmgame.com/news/202404/3893895.html)
+
