@@ -121,3 +121,11 @@
 
 + [Meeting Recorder for Product Teams](https://www.producthunt.com/posts/meeting-recorder-for-product-teams)
 
++ [Linckr](https://www.producthunt.com/posts/linckr)
+
++ [Bigma](https://www.producthunt.com/posts/bigma)
+
++ [VidGenesis](https://www.producthunt.com/posts/vidgenesis)
+
++ [Reply AI Chat](https://www.producthunt.com/posts/reply-ai-chat)
+
