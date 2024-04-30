@@ -225,3 +225,5 @@
 
 + [光荣：《浪人崛起》首发销量超过了《仁王》](https://www.3dmgame.com/news/202404/3894003.html)
 
++ [《GTA4》发售16周年 配音演员多达860名](https://www.3dmgame.com/news/202404/3894007.html)
+
