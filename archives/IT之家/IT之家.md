@@ -45,3 +45,7 @@
 
 + [网友从头开始“手搓” GPU，坦言项目难度要比预期更高](https://m.ithome.com/html/765193.htm)
 
++ [苹果 2024 款 iPad Pro 将配业内最佳 OLED 面板：屏幕更亮、续航更持久](https://m.ithome.com/html/765152.htm)
+
++ [中国南方航空向商飞购买 100 架 C919 国产大飞机，总计 99 亿美元](https://m.ithome.com/html/765111.htm)
+
