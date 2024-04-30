@@ -47,3 +47,5 @@
 
 + [美国邮政服务（USPS）被冒名，用于网络钓鱼攻击](https://www.freebuf.com/news/399846.html)
 
++ [攻防研究 | AI在“攻”的一些探索](https://www.freebuf.com/articles/web/399553.html)
+
