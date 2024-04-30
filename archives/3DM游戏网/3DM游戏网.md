@@ -133,3 +133,11 @@
 
 + [未达宣传N95标准 雷蛇RPG口罩罚款超110万美元](https://www.3dmgame.com/news/202404/3893957.html)
 
++ [《铁拳8》主播只用一键操作艾迪对战 胜率却高达42.8%](https://www.3dmgame.com/news/202404/3893965.html)
+
++ [托德确认《星空》主机Mod支持和新创作套件即将推出](https://www.3dmgame.com/news/202404/3893963.html)
+
++ [《美女,应接不暇》steam页面上线 5月15日发售](https://www.3dmgame.com/news/202404/3893964.html)
+
++ [《星刃》与《尼尔》对比视频 两个大美女争芳斗艳](https://www.3dmgame.com/news/202404/3893962.html)
+
