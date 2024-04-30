@@ -101,3 +101,21 @@
 
 + [《王国之心2》的玩家时隔9年才注意到结局动画中的怪异建模问题](https://www.3dmgame.com/news/202404/3893893.html)
 
++ [《马克思佩恩1、2》重制版今年夏季全面进入制作](https://www.3dmgame.com/news/202404/3893953.html)
+
++ [欧美3月热度收入榜：《绝地潜兵2》玩家数持续攀升](https://www.3dmgame.com/news/202404/3893952.html)
+
++ [《死亡回归》开发商暗示将公布新消息 或是推出改编漫画](https://www.3dmgame.com/news/202404/3893951.html)
+
++ [《宝可梦 GO》新补丁引发BUG 玩家角色变身“巨型宝可梦”](https://www.3dmgame.com/news/202404/3893950.html)
+
++ [育碧《不羁联盟》执行制作人表示：游戏发售日期即将到来](https://www.3dmgame.com/news/202404/3893949.html)
+
++ [《辐射》真人剧集首播两周吸引6500万名观众](https://www.3dmgame.com/news/202404/3893948.html)
+
++ [《达愿福神社》Steam页面上线 2025年发售](https://www.3dmgame.com/news/202404/3893947.html)
+
++ [《星刃》主线通关需14.5小时 加支线需21小时以上](https://www.3dmgame.com/news/202404/3893946.html)
+
++ [奇幻RPG游戏《辛特堡传说》全新预告放出 7月18日正式推出](https://www.3dmgame.com/news/202404/3893945.html)
+

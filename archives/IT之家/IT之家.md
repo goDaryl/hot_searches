@@ -25,3 +25,5 @@
 
 + [梅赛德斯-奔驰放弃支持苹果新版 CarPlay，专注自家车机系统](https://m.ithome.com/html/765131.htm)
 
++ [小米 MIX 4 手机获推澎湃 HyperOS 正式版更新](https://m.ithome.com/html/765110.htm)
+

@@ -41,3 +41,5 @@
 
 + [为遏制网络诈骗，日本警方在便利店投放虚假支付卡](https://www.freebuf.com/news/399593.html)
 
++ [网络安全意识宣传的挑战与改进策略：提升公众防护能力的探索](https://www.freebuf.com/articles/neopoints/398150.html)
+
