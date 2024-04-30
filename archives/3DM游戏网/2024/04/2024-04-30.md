@@ -179,3 +179,9 @@
 
 + [因服装和谐问题 前《魔兽世界》制作人发起“解放星刃”请愿 已有5万多人署名](https://www.3dmgame.com/news/202404/3893981.html)
 
++ [《完美音浪》Switch版已通过PEGI评级 或即将公布](https://www.3dmgame.com/news/202404/3893985.html)
+
++ [托德：《博德之门3》并非“爆款” 拉瑞安前作都很棒](https://www.3dmgame.com/news/202404/3893986.html)
+
++ [跨专业真能行？参加过Y3网易高校游戏制作人大赛的同学们现在怎么样了—Y3编辑器](https://www.3dmgame.com/news/202404/3893984.html)
+

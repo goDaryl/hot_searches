@@ -51,3 +51,7 @@
 
 + [人工智能技术或将成为威胁攻击者的新“助力”](https://www.freebuf.com/news/399865.html)
 
++ [净利润最大涨幅达524.28% | 网络安全上市企业2023年报速览](https://www.freebuf.com/news/topnews/399887.html)
+
++ [如何使用MultCheck从静态分析结果中识别恶意字节数据](https://www.freebuf.com/sectool/393748.html)
+
