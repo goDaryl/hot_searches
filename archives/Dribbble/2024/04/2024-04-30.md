@@ -69,3 +69,9 @@
 
 + [Agua de Iquitos Label Design Mockup](https://dribbble.com/shots/)
 
++ [Nelson on my Mind - Beer Label](https://dribbble.com/shots/)
+
++ [Agua de Iquitos Bottle Mockup](https://dribbble.com/shots/)
+
++ [Animal Kingdom (Personal Illustration Series)](https://dribbble.com/shots/)
+
