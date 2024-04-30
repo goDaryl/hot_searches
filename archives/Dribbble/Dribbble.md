@@ -49,3 +49,23 @@
 
 + [Out of the Woods](https://dribbble.com/shots/)
 
++ [The Roaming Bison](https://dribbble.com/shots/)
+
++ [American Herbarium - Overall Preview](https://dribbble.com/shots/)
+
++ [Floren - Parfume 3D Composition](https://dribbble.com/shots/)
+
++ [Sword Tiger ????️](https://dribbble.com/shots/)
+
++ [Stickers Cleaned Up & Colored](https://dribbble.com/shots/)
+
++ [ECOBREW CO.](https://dribbble.com/shots/)
+
++ [Animal Kingdom (Personal Illustration Series)](https://dribbble.com/shots/)
+
++ [SUBCLUB LA – Visual Identity](https://dribbble.com/shots/)
+
++ [DKNG is Seattle Bound!](https://dribbble.com/shots/)
+
++ [Pure Sport](https://dribbble.com/shots/)
+
