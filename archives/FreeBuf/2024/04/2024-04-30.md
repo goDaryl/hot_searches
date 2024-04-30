@@ -49,3 +49,5 @@
 
 + [攻防研究 | AI在“攻”的一些探索](https://www.freebuf.com/articles/web/399553.html)
 
++ [人工智能技术或将成为威胁攻击者的新“助力”](https://www.freebuf.com/news/399865.html)
+

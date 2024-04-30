@@ -37,3 +37,5 @@
 
 + [法拉第未来宣布退市：被纳斯达克交易所除名，将提出上诉](https://m.ithome.com/html/765185.htm)
 
++ [赛力斯拟引入重庆国资，收购 AITO 问界汽车工厂服务商 100% 股权](https://m.ithome.com/html/765168.htm)
+
