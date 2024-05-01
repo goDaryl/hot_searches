@@ -201,3 +201,7 @@
 
 + [时隔7个月富坚义博再次更新 《全职猎人》第405话制作中](https://www.3dmgame.com/news/202405/3894057.html)
 
++ [美银预测：2030年特斯拉FSD在中国的盈利可能超过20亿美元](https://www.3dmgame.com/news/202405/3894060.html)
+
++ [主机游戏需求低迷 AMD游戏业务重创：收入利润双降，主机销量下滑](https://www.3dmgame.com/news/202405/3894059.html)
+
