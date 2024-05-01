@@ -189,3 +189,11 @@
 
 + [《地球防卫军6》Steam版7月25日发售 支持中文](https://www.3dmgame.com/news/202405/3894048.html)
 
++ [三星目标2025年量产2nm工艺：性能和效率显著提升](https://www.3dmgame.com/news/202405/3894055.html)
+
++ [类模拟人生《InZoi》拥有可驾驶汽车 还可能出车祸](https://www.3dmgame.com/news/202405/3894054.html)
+
++ [ChatGPT历史聊天功能将不会再收集用户聊天记录](https://www.3dmgame.com/news/202405/3894053.html)
+
++ [《复仇者联盟4》作曲家暗示自己或将重返MCU](https://www.3dmgame.com/news/202405/3894052.html)
+
