@@ -55,3 +55,5 @@
 
 + [TikTok 因绕过苹果 App Store 应用内购系统引起争议](https://m.ithome.com/html/765429.htm)
 
++ [媒体：余承东仍是华为终端 BG 一把手，卸任 CEO 是把重心放在汽车业务的信号](https://m.ithome.com/html/765484.htm)
+
