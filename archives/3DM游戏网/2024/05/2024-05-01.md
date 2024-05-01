@@ -197,3 +197,7 @@
 
 + [《复仇者联盟4》作曲家暗示自己或将重返MCU](https://www.3dmgame.com/news/202405/3894052.html)
 
++ [台积电A14工厂建设或延期 目前重点推进N2和A16制程](https://www.3dmgame.com/news/202405/3894058.html)
+
++ [时隔7个月富坚义博再次更新 《全职猎人》第405话制作中](https://www.3dmgame.com/news/202405/3894057.html)
+
