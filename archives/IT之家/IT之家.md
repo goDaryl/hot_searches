@@ -29,3 +29,9 @@
 
 + [联合特斯拉，5 月 1 日起百度地图 App 可体验特斯拉车道级导航](https://m.ithome.com/html/765394.htm)
 
++ [消息称余承东担任华为终端 BG 董事长，何刚接任终端 BG CEO](https://m.ithome.com/html/765410.htm)
+
++ [Arc 浏览器 Windows 版正式发布：无需加入等待列表即可使用](https://m.ithome.com/html/765408.htm)
+
++ [北京大学宣布将开发鸿蒙 HarmonyOS 校园服务 App，参与学生有机会前往华为实习](https://m.ithome.com/html/765369.htm)
+
