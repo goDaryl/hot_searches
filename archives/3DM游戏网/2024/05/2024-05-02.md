@@ -117,3 +117,5 @@
 
 + [《星空》未来将加入登陆车 快速探索星球](https://www.3dmgame.com/news/202405/3894070.html)
 
++ [《星空》下轮更新5月15日上线 XSX将加入60帧模式](https://www.3dmgame.com/news/202405/3894072.html)
+
