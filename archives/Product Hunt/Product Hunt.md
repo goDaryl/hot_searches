@@ -101,3 +101,37 @@
 
 + [Otterly.ai](https://www.producthunt.com/posts/otterly-ai)
 
++ [1Flow](https://www.producthunt.com/posts/1flow)
+
++ [Autopilot for Slack](https://www.producthunt.com/posts/autopilot-for-slack)
+
++ [Playbook x GPT](https://www.producthunt.com/posts/playbook-x-gpt)
+
++ [Airbnb Icons](https://www.producthunt.com/posts/airbnb-icons)
+
++ [NextCommit](https://www.producthunt.com/posts/nextcommit)
+
++ [AaRead](https://www.producthunt.com/posts/aaread)
+
++ [FeaturePanel](https://www.producthunt.com/posts/featurepanel)
+
++ [fullwindcss](https://www.producthunt.com/posts/fullwindcss)
+
++ [Job Boardly](https://www.producthunt.com/posts/job-boardly)
+
++ [WIZPR RING](https://www.producthunt.com/posts/wizpr-ring)
+
++ [Monterey AI 2.0](https://www.producthunt.com/posts/monterey-ai-2-0)
+
++ [Mockey AI Pro](https://www.producthunt.com/posts/mockey-ai-pro)
+
++ [Waxwing](https://www.producthunt.com/posts/waxwing)
+
++ [Y.GY](https://www.producthunt.com/posts/y-gy)
+
++ [Vitae](https://www.producthunt.com/posts/vitae)
+
++ [QueryPal](https://www.producthunt.com/posts/querypal-2)
+
++ [BlockSurvey](https://www.producthunt.com/posts/blocksurvey-token-gated-forms-surveys)
+
