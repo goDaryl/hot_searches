@@ -99,3 +99,7 @@
 
 + [吃饱了砸饭碗是吧](http://www.acfun.cn/v/ac44445016)
 
++ [主机原罪现状](http://www.acfun.cn/v/ac44445665)
+
++ [质量还可以啊](http://www.acfun.cn/v/ac44444977)
+
