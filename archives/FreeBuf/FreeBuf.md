@@ -45,3 +45,5 @@
 
 + [xz-utils 后门代码分析](https://www.freebuf.com/vuls/399750.html)
 
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
