@@ -145,3 +145,11 @@
 
 + [Unity宣布任命新首席执行官 又是一位EA前高管](https://www.3dmgame.com/news/202405/3894077.html)
 
++ [公司大战？职场平台领英现已推出三款免费游戏](https://www.3dmgame.com/news/202405/3894086.html)
+
++ [乔什·布洛林很遗憾自己没能回归《死侍与金刚狼》](https://www.3dmgame.com/news/202405/3894087.html)
+
++ [发售仅两天 类塔科夫游戏《灰区战争》销量已突破40万](https://www.3dmgame.com/news/202405/3894088.html)
+
++ [美国3月销量榜：《龙之信条2》登顶 多款新作前十](https://www.3dmgame.com/news/202405/3894089.html)
+
