@@ -203,3 +203,11 @@
 
 + [高通第二财季营收93.89亿美元 净利润同比增长37%](https://www.3dmgame.com/news/202405/3894114.html)
 
++ [省钱新招！传特斯拉已放弃下代“一体化压铸”工艺](https://www.3dmgame.com/news/202405/3894117.html)
+
++ [THQ数字游戏展将于8月3日举行 会有惊喜](https://www.3dmgame.com/news/202405/3894118.html)
+
++ [英伟达ChatRTX迎0.3版本更新 新增照片搜索、AI语音识别等功能](https://www.3dmgame.com/news/202405/3894115.html)
+
++ [《模拟毒贩2》将于6月21日发售 将加入近战战斗系统](https://www.3dmgame.com/news/202405/3894116.html)
+
