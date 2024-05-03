@@ -47,3 +47,5 @@
 
 + [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
 
++ [Netfilter漏洞提权利用（CVE-2023-35001）](https://www.freebuf.com/vuls/399249.html)
+
