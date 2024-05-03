@@ -89,3 +89,9 @@
 
 + [Small Form Factor Computer](https://dribbble.com/shots/)
 
++ [St. John the Beloved Master Logo](https://dribbble.com/shots/)
+
++ [American Herbarium - Branding](https://dribbble.com/shots/)
+
++ [Whale Revisited](https://dribbble.com/shots/)
+
