@@ -129,3 +129,7 @@
 
 + [《太阳帝国的原罪2》厂商解释为何没有大规模宣传](https://www.3dmgame.com/news/202405/3894132.html)
 
++ [《辐射4》大型MOD《Vault 13》今夏发布试玩 初代3D重现](https://www.3dmgame.com/news/202405/3894134.html)
+
++ [索尼和阿波罗联合出资260亿美元 想要全现金收购派拉蒙](https://www.3dmgame.com/news/202405/3894133.html)
+
