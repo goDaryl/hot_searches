@@ -151,3 +151,5 @@
 
 + [《Arctic Eggs》Steam页面上线 诡异煎蛋游戏](https://www.3dmgame.com/news/202405/3894142.html)
 
++ [微软马上放弃Win10！Win 11份额不升反降至25%](https://www.3dmgame.com/news/202405/3894144.html)
+
