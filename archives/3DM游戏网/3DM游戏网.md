@@ -115,3 +115,9 @@
 
 + [育碧免费多人射击游戏《不羁联盟》5/21推出](https://www.3dmgame.com/news/202405/3894122.html)
 
++ [《Dread Delusion》5月登陆Steam 中世纪开放世界RPG](https://www.3dmgame.com/news/202405/3894128.html)
+
++ [《地狱之刃2》PC版超宽屏截图 最低配置GTX 1070](https://www.3dmgame.com/news/202405/3894126.html)
+
++ [EA在Steam开启发行商特卖 大量大作降价幅度超80%](https://www.3dmgame.com/news/202405/3894127.html)
+
