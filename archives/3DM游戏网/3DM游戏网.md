@@ -153,3 +153,15 @@
 
 + [微软马上放弃Win10！Win 11份额不升反降至25%](https://www.3dmgame.com/news/202405/3894144.html)
 
++ [《末夜部落》月底发布正式版 上市日期预告片欣赏](https://www.3dmgame.com/news/202405/3894149.html)
+
++ [《堡垒之夜》联动星战活动上线 新任务事件登场](https://www.3dmgame.com/news/202405/3894150.html)
+
++ [玩家猜测《星空》“破碎空间”DLC或聚焦瓦鲁恩家族](https://www.3dmgame.com/news/202405/3894145.html)
+
++ [《东方夜雀食堂》登陆Switch发售 酒屋经营模拟](https://www.3dmgame.com/news/202405/3894146.html)
+
++ [《夜族崛起》正式版下周发售 上市宣传片欣赏](https://www.3dmgame.com/news/202405/3894147.html)
+
++ [中国智能音箱创3年来最大跌幅 小米市场份额居首位](https://www.3dmgame.com/news/202405/3894148.html)
+
