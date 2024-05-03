@@ -95,3 +95,9 @@
 
 + [Whale Revisited](https://dribbble.com/shots/)
 
++ [Recent lettering works vol. 8](https://dribbble.com/shots/)
+
++ [Owl City Boom Box](https://dribbble.com/shots/)
+
++ [Surf Coffee](https://dribbble.com/shots/)
+
