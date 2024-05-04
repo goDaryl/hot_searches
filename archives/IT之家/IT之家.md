@@ -41,3 +41,7 @@
 
 + [领克 07 EM-P 将于 5 月 17 日上市：插电式混动车型，预售 18 万元起](https://m.ithome.com/html/765622.htm)
 
++ [斯蒂芬・埃洛普，被嫌弃的诺基亚末代 CEO 的一生](https://m.ithome.com/html/765649.htm)
+
++ [2024 款诺基亚 3210 4G 手机配置泄露：2.4 英寸 IPS 屏幕、紫光展锐 T107](https://m.ithome.com/html/765658.htm)
+
