@@ -25,3 +25,5 @@
 
 + [小米 Redmi Note 11T Pro 手机获推澎湃 HyperOS 正式版更新，附带谷歌 4 月安全补丁](https://m.ithome.com/html/765716.htm)
 
++ [国铁集团 2023 年总收入 1.25 万亿元，净利润 33 亿元双双打破历史纪录](https://m.ithome.com/html/765797.htm)
+
