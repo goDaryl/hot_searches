@@ -171,3 +171,5 @@
 
 + [选错阵营可从头再来 《灰区战争》加入注销角色选项](https://www.3dmgame.com/news/202405/3894198.html)
 
++ [《死侍3》曝全新剧照 7月26日上映](https://www.3dmgame.com/news/202405/3894201.html)
+
