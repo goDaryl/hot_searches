@@ -181,3 +181,5 @@
 
 + [《对马岛之鬼》PC版单人游戏不需要PSN账户](https://www.3dmgame.com/news/202405/3894202.html)
 
++ [这够用了吗！SK海力士突然宣布300TB容量SSD](https://www.3dmgame.com/news/202405/3894206.html)
+
