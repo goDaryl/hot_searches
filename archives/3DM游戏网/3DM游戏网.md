@@ -111,3 +111,5 @@
 
 + [《地狱之刃2》PC版详细系统配置需求公布](https://www.3dmgame.com/news/202405/3894167.html)
 
++ [《DEVIL BLADE REBOOT》Steam上架 纵版弹幕射击](https://www.3dmgame.com/news/202405/3894171.html)
+
