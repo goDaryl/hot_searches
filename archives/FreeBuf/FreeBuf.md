@@ -43,3 +43,5 @@
 
 + [RSAC 2024创新沙盒｜P0 Security的云访问治理平台](https://www.freebuf.com/articles/neopoints/399755.html)
 
++ [EDR的梦魇：Storm-0978使用新型内核注入技术“Step Bear”](https://www.freebuf.com/articles/paper/399038.html)
+
