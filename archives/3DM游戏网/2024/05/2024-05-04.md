@@ -141,3 +141,5 @@
 
 + [《永恒蔚蓝流光》登陆Switch发售 美丽海洋探索](https://www.3dmgame.com/news/202405/3894181.html)
 
++ [《七日杀》正式版最新宣传片公开 6月正式推出](https://www.3dmgame.com/news/202405/3894186.html)
+
