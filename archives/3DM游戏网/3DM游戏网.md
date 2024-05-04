@@ -155,3 +155,9 @@
 
 + [一年之后《红霞岛》当初承诺的DLC仍然没有推出](https://www.3dmgame.com/news/202405/3894188.html)
 
++ [如同千万大军攻打匈奴 五一假期连沙漠里都堵人了](https://www.3dmgame.com/news/202405/3894193.html)
+
++ [超务实任天堂法务部 向GitHub提出8535件侵权删除](https://www.3dmgame.com/news/202405/3894194.html)
+
++ [《英雄联盟》反作弊补丁让电脑无法启动？拳头澄清](https://www.3dmgame.com/news/202405/3894195.html)
+
