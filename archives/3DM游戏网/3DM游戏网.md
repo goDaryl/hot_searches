@@ -133,3 +133,5 @@
 
 + [《五年的回忆》Steam试玩发布 温馨童年回忆冒险](https://www.3dmgame.com/news/202405/3894222.html)
 
++ [D加密宕机导致《女神异闻录5：皇家版》无法运行](https://www.3dmgame.com/news/202405/3894223.html)
+

@@ -47,3 +47,5 @@
 
 + [小程序一次一密流量解密](https://www.freebuf.com/articles/web/390152.html)
 
++ [攻防演练中如何利用Hook绕过EDR的内存保护](https://www.freebuf.com/articles/system/398738.html)
+
