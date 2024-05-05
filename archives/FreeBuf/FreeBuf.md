@@ -43,3 +43,5 @@
 
 + [RSAC 2024创新沙盒｜RAD Security 云原生异常行为检测和响应新方案](https://www.freebuf.com/articles/neopoints/399517.html)
 
++ [记一次奇妙的某个edu渗透测试](https://www.freebuf.com/vuls/398169.html)
+
