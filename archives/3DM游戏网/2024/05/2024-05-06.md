@@ -107,3 +107,7 @@
 
 + [韩媒：韩系车在华大溃败 已经不是之前认识的中国了](https://www.3dmgame.com/news/202405/3894244.html)
 
++ [《光环》粉丝自制大型战役模式MOD重塑经典](https://www.3dmgame.com/news/202405/3894247.html)
+
++ [开局先喝奶《真人快打1》发布祖国人游戏预告](https://www.3dmgame.com/news/202405/3894246.html)
+
