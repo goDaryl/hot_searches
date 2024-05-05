@@ -45,3 +45,5 @@
 
 + [2024 年度电影总票房突破 200 亿：《热辣滚烫》暂列第一](https://m.ithome.com/html/765823.htm)
 
++ [支持调用车机真实分辨率，小米 CarWith 车联应用获推 2.2.2 版更新](https://m.ithome.com/html/765828.htm)
+

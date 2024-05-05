@@ -151,3 +151,9 @@
 
 + [《绝地潜兵2》Steam大量国家和地区停售 已开启退款](https://www.3dmgame.com/news/202405/3894228.html)
 
++ [《Good Job》开发商Paladin工作室倒闭 遣散45名员工](https://www.3dmgame.com/news/202405/3894234.html)
+
++ [iPhone 16全系机型最新机模曝光 标准版后摄大变](https://www.3dmgame.com/news/202405/3894233.html)
+
++ [发行商表示《庄园领主》首发大获成功 超出预期](https://www.3dmgame.com/news/202405/3894232.html)
+
