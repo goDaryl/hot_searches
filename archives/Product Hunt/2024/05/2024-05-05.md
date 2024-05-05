@@ -115,3 +115,27 @@
 
 + [Idea Spark](https://www.producthunt.com/posts/idea-spark-4)
 
++ [Iconbuddy Figma Plugin](https://www.producthunt.com/posts/iconbuddy-figma-plugin)
+
++ [NeighborHoodShare](https://www.producthunt.com/posts/neighborhoodshare)
+
++ [ContentPie](https://www.producthunt.com/posts/contentpie)
+
++ [MoneyMate - Chores & Allowance](https://www.producthunt.com/posts/moneymate-chores-allowance)
+
++ [Copilot Workspace Raycast Extension](https://www.producthunt.com/posts/copilot-workspace-raycast-extension)
+
++ [Piips](https://www.producthunt.com/posts/piips)
+
++ [EasyFrontend](https://www.producthunt.com/posts/easyfrontend)
+
++ [AgentCrew](https://www.producthunt.com/posts/agentcrew)
+
++ [Hammer](https://www.producthunt.com/posts/hammer-3)
+
++ [MicroAssets](https://www.producthunt.com/posts/microassets)
+
++ [Facta](https://www.producthunt.com/posts/facta)
+
++ [Actionize AI](https://www.producthunt.com/posts/actionize-ai)
+

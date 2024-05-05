@@ -35,3 +35,11 @@
 
 + [雷军回应“不应给年轻人太多建议”：每代人都有自己独特的想法](https://m.ithome.com/html/765824.htm)
 
++ [HTC U24 Pro 手机曝光：12GB 内存、骁龙 7 Gen 3 芯片、安卓 14 系统](https://m.ithome.com/html/765814.htm)
+
++ [小米 Redmi K40 手机获推澎湃 HyperOS 正式版更新](https://m.ithome.com/html/765839.htm)
+
++ [2 亿像素蔡司 APO“行业最大底长焦”+ 50MP LYT-900 主摄，vivo X100 Ultra 手机更多样张公布](https://m.ithome.com/html/765842.htm)
+
++ [信号穿越 600 公里，未来主流蓝牙设备可连接在轨卫星](https://m.ithome.com/html/765818.htm)
+
