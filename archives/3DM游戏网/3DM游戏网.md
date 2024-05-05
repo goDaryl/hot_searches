@@ -157,3 +157,7 @@
 
 + [发行商表示《庄园领主》首发大获成功 超出预期](https://www.3dmgame.com/news/202405/3894232.html)
 
++ [坚持五天了 富坚义博更新 《全职猎人》405话14页之多](https://www.3dmgame.com/news/202405/3894236.html)
+
++ [《庄园领主》下一版补丁将修复动物尸体占位BUG](https://www.3dmgame.com/news/202405/3894235.html)
+
