@@ -131,3 +131,5 @@
 
 + [《生化危机》近来每年一款大作的趋势似乎要中断](https://www.3dmgame.com/news/202405/3894218.html)
 
++ [《五年的回忆》Steam试玩发布 温馨童年回忆冒险](https://www.3dmgame.com/news/202405/3894222.html)
+
