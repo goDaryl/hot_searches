@@ -105,3 +105,21 @@
 
 + [Y.GY](https://www.producthunt.com/posts/y-gy)
 
++ [Amazon Q Developer](https://www.producthunt.com/posts/amazon-q-developer)
+
++ [Touch AI](https://www.producthunt.com/posts/touch-ai)
+
++ [Branding Archtypes Generator](https://www.producthunt.com/posts/branding-archtypes-generator)
+
++ [Timeframe](https://www.producthunt.com/posts/timeframe-2)
+
++ [BreadCrumbs](https://www.producthunt.com/posts/breadcrumbs-3)
+
++ [Logome](https://www.producthunt.com/posts/logome)
+
++ [Hexn.io](https://www.producthunt.com/posts/hexn-io)
+
++ [Snaplet Seed](https://www.producthunt.com/posts/snaplet-seed)
+
++ [Eraser AI](https://www.producthunt.com/posts/eraser-ai)
+
