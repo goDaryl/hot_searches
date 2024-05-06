@@ -119,3 +119,11 @@
 
 + [Switch版《路易鬼屋2HD》曝光精彩开场动画](https://www.3dmgame.com/news/202405/3894249.html)
 
++ [传华硕公布掌机ROG Ally 2024 小幅度升级](https://www.3dmgame.com/news/202405/3894253.html)
+
++ [《RTA in Japan Summer 2024》开始招募 8月9日开幕](https://www.3dmgame.com/news/202405/3894254.html)
+
++ [英国贸易协会TIGA呼吁独立游戏税收抵免 以支持英国游戏行业发展](https://www.3dmgame.com/news/202405/3894255.html)
+
++ [《家园3》首发不支持DLSS 3 支持FSR 2和DLSS 2](https://www.3dmgame.com/news/202405/3894252.html)
+

@@ -35,3 +35,5 @@
 
 + [吉利银河 E5 官宣明日亮相，品牌首款纯电紧凑 SUV 车型](https://m.ithome.com/html/765902.htm)
 
++ [喜欢噪音大的车？研究称或与施虐和精神变态倾向有关](https://m.ithome.com/html/765905.htm)
+
