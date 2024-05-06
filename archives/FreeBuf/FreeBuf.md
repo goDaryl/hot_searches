@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 英国禁止物联网设备默认使用弱密码；谷歌重拳打击恶意软件](https://www.freebuf.com/news/399869.html)
 
++ [渗透测试 | HTTP请求走私](https://www.freebuf.com/articles/web/399056.html)
+
