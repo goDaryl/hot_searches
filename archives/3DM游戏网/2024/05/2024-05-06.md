@@ -111,3 +111,11 @@
 
 + [开局先喝奶《真人快打1》发布祖国人游戏预告](https://www.3dmgame.com/news/202405/3894246.html)
 
++ [黄金树之影仍然是多结局 但没有本体游戏那么多](https://www.3dmgame.com/news/202405/3894251.html)
+
++ [游戏爱好者用虚幻5引擎开发印尼版本《师父》](https://www.3dmgame.com/news/202405/3894250.html)
+
++ [消息称动视暴雪旗下工作室曾开发大金刚新作](https://www.3dmgame.com/news/202405/3894248.html)
+
++ [Switch版《路易鬼屋2HD》曝光精彩开场动画](https://www.3dmgame.com/news/202405/3894249.html)
+
