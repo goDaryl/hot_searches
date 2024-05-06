@@ -65,3 +65,23 @@
 
 + [Hippo Logo](https://dribbble.com/shots/)
 
++ [HHC Living Monogram Logo](https://dribbble.com/shots/)
+
++ [Dulwich Bakery Ingredients Illustration](https://dribbble.com/shots/)
+
++ [Precious Metal 2](https://dribbble.com/shots/)
+
++ [Animal Kingdom (Personal Illustration Series)](https://dribbble.com/shots/)
+
++ [Musical Buddies](https://dribbble.com/shots/)
+
++ [Travel Through Cooking](https://dribbble.com/shots/)
+
++ [Below the water ????](https://dribbble.com/shots/)
+
++ [Glyph Beer 43](https://dribbble.com/shots/)
+
++ [Out of the Woods](https://dribbble.com/shots/)
+
++ [Marketers over Artists?](https://dribbble.com/shots/)
+
