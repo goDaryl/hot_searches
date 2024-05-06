@@ -139,3 +139,21 @@
 
 + [日本大阪动漫展 小岛秀夫和弩哥、拔叔同登台](https://www.3dmgame.com/news/202405/3894256.html)
 
++ [任天堂3DS和Wii U在线服务关闭后 仍有玩家保持在线](https://www.3dmgame.com/news/202405/3894270.html)
+
++ [《范马刃牙 VS 拳愿阿修罗》正式预告 6月6日播出](https://www.3dmgame.com/news/202405/3894267.html)
+
++ [动视放弃《托尼霍克职业滑板 3＋4》 只为支持《使命召唤》开发](https://www.3dmgame.com/news/202405/3894268.html)
+
++ [《Honcho》Steam页面上线 自贩机巡查模拟器](https://www.3dmgame.com/news/202405/3894269.html)
+
++ [特斯拉人形机器人再获升级 走路速度提升超30%](https://www.3dmgame.com/news/202405/3894266.html)
+
++ [类吸血鬼幸存者游戏《无畏勇者》因内购内容造大量差评](https://www.3dmgame.com/news/202405/3894262.html)
+
++ [《When You See It》Steam上线 寻找异常恐怖探索](https://www.3dmgame.com/news/202405/3894263.html)
+
++ [手绘风横版平台跳跃游戏《变色龙童绘历险》 5月30日发行](https://www.3dmgame.com/news/202405/3894264.html)
+
++ [RTS游戏《星际金属十字军》现已上架Steam平台 2024年第三季度推出](https://www.3dmgame.com/news/202405/3894265.html)
+
