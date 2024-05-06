@@ -123,3 +123,5 @@
 
 + [Eraser AI](https://www.producthunt.com/posts/eraser-ai)
 
++ [QRev](https://www.producthunt.com/posts/qrev)
+

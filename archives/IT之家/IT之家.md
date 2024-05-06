@@ -51,3 +51,7 @@
 
 + [雷军：逛了 2024 北京车展感觉很绝望，车企做产品“全靠蒙”“同质化”](https://m.ithome.com/html/766045.htm)
 
++ [消息称阿里重启淘宝网页版，618 取消预售](https://m.ithome.com/html/766065.htm)
+
++ [阿维塔 15“官方谍照”放出：首发增程、SUV 车型、车顶行李架](https://m.ithome.com/html/765972.htm)
+
