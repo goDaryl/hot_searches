@@ -49,3 +49,19 @@
 
 + [Flower pattern exploration](https://dribbble.com/shots/)
 
++ [Vanstock Poster Design](https://dribbble.com/shots/)
+
++ [Enter the pin (PSE '24)](https://dribbble.com/shots/)
+
++ [Passenger - Go Forage](https://dribbble.com/shots/)
+
++ [3D Illustration - Stock Portfolio](https://dribbble.com/shots/)
+
++ [The Roaming Bison](https://dribbble.com/shots/)
+
++ [Irene](https://dribbble.com/shots/)
+
++ [Champagne for Champayne ????](https://dribbble.com/shots/)
+
++ [Hippo Logo](https://dribbble.com/shots/)
+
