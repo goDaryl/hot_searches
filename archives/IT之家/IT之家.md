@@ -61,3 +61,9 @@
 
 + [魅族 20 Classic 手机闪存规格由 UFS 4.0 调整为 UFS 3.1](https://m.ithome.com/html/765949.htm)
 
++ [雷军称逛了 2024 北京车展感觉“绝望”，车企做产品“全靠蒙”“同质化”](https://m.ithome.com/html/766045.htm)
+
++ [淘宝回应“免单短信 BUG”：准备超 100 万份免单名额](https://m.ithome.com/html/766097.htm)
+
++ [“伊朗首款智能手机”Daria Bond 发布：天玑 7050 + 8GB RAM + 256GB 存储空间](https://m.ithome.com/html/765924.htm)
+

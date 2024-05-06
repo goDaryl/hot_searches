@@ -215,3 +215,7 @@
 
 + [《DOTA2》屠夫成路人最受欢迎英雄 使用场次超过10亿](https://www.3dmgame.com/news/202405/3894298.html)
 
++ [天猫618取消官方预售 将在5月20日直接开卖](https://www.3dmgame.com/news/202405/3894301.html)
+
++ [麦当娜在巴西海滩举办免费演唱会 超160万人参加](https://www.3dmgame.com/news/202405/3894300.html)
+
