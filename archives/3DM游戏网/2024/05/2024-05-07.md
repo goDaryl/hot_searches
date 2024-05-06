@@ -113,3 +113,9 @@
 
 + [动视旗下工作室曾一度开发3D《大金刚》游戏](https://www.3dmgame.com/news/202405/3894310.html)
 
++ [消息称任天堂正开发代号为宴会的全新游戏](https://www.3dmgame.com/news/202405/3894313.html)
+
++ [任天堂将在《塞尔达传说：王国之泪》周年发布OST](https://www.3dmgame.com/news/202405/3894312.html)
+
++ [打造最佳寿司餐厅《东京料理》即将登陆Switch](https://www.3dmgame.com/news/202405/3894311.html)
+
