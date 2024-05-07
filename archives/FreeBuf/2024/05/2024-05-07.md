@@ -47,3 +47,5 @@
 
 + [记一次EDU运气加成的高危漏洞挖掘](https://www.freebuf.com/vuls/399938.html)
 
++ [Reality Defender 夺冠，RSAC 2024 创新沙盒大赛结果出炉](https://www.freebuf.com/news/400051.html)
+
