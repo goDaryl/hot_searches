@@ -87,3 +87,7 @@
 
 + [一秒回到葬爱家族的歌，爱米西油，最近电力十足啊](http://www.acfun.cn/v/ac44473375)
 
++ [【柯基】史诗级纯音乐Audiomachine - Above and Beyond](http://www.acfun.cn/v/ac44475687)
+
++ [流汗黄豆](http://www.acfun.cn/v/ac44473307)
+
