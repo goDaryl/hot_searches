@@ -107,3 +107,9 @@
 
 + [苹果全新iPad Air 6发布：11/13英寸可选 4799元起！](https://www.3dmgame.com/news/202405/3894389.html)
 
++ [复古动作《火箭骑士历险记:重闪合集》6月11日发售](https://www.3dmgame.com/news/202405/3894393.html)
+
++ [经营外星医院《Galacticare》确定5月23日发售](https://www.3dmgame.com/news/202405/3894394.html)
+
++ [任天堂社长确认新主机就是Switch后续机型](https://www.3dmgame.com/news/202405/3894392.html)
+
