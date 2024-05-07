@@ -185,3 +185,13 @@
 
 + [《All You Need is Help》Steam页面上线 支持中文](https://www.3dmgame.com/news/202405/3894342.html)
 
++ [苹果iOS18将迎重磅AI升级 不联网也能分析生成文本](https://www.3dmgame.com/news/202405/3894350.html)
+
++ [弹幕射击动作类肉鸽游戏《蜂巢跳跃2：幸存者》即将在5月底抢先体验推出](https://www.3dmgame.com/news/202405/3894351.html)
+
++ [联发科发布天玑AI开发套件 终端生成式AI应用开发一站式解决方案](https://www.3dmgame.com/news/202405/3894347.html)
+
++ [《魔物学园4》Steam页面上线 经典恋爱冒险新篇](https://www.3dmgame.com/news/202405/3894348.html)
+
++ [《真女神转生5：复仇》特别节目5月10日播出 时长15分钟](https://www.3dmgame.com/news/202405/3894349.html)
+

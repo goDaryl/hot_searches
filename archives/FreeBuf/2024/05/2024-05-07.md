@@ -53,3 +53,5 @@
 
 + [观点 | 数据分类分级，是中国网安集体编织的“皇帝新衣”](https://www.freebuf.com/news/400129.html)
 
++ [如何利用开源工具探测恶意（C2）服务器](https://www.freebuf.com/articles/security-management/399909.html)
+
