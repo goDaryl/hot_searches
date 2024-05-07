@@ -33,3 +33,5 @@
 
 + [华为 nova 12 系列手机推送鸿蒙 HarmonyOS 4.2 正式版：Pro / Ultra 新增全屏 AOD 互动主题](https://m.ithome.com/html/766070.htm)
 
++ [英飞凌与小米汽车达成协议，向 SU7 供应碳化硅功率模块及芯片至 2027 年](https://m.ithome.com/html/766089.htm)
+
