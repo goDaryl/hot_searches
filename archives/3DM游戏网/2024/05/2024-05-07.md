@@ -119,3 +119,9 @@
 
 + [打造最佳寿司餐厅《东京料理》即将登陆Switch](https://www.3dmgame.com/news/202405/3894311.html)
 
++ [《GTA6》或于2025年秋季推出 有双持和肢解功能](https://www.3dmgame.com/news/202405/3894316.html)
+
++ [PS5 Pro规格曝光：GPU主频高达2.35GHz](https://www.3dmgame.com/news/202405/3894315.html)
+
++ [乐高星球大战动画特别篇《重建星系》定档Disney+](https://www.3dmgame.com/news/202405/3894314.html)
+

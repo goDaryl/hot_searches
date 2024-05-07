@@ -41,3 +41,5 @@
 
 + [代码审计 | 你一定会审的java系统](https://www.freebuf.com/articles/web/393271.html)
 
++ [AI伦理和安全风险管理终极指南](https://www.freebuf.com/articles/paper/400036.html)
+
