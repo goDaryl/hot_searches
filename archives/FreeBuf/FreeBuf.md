@@ -49,3 +49,7 @@
 
 + [Reality Defender 夺冠，RSAC 2024 创新沙盒大赛结果出炉](https://www.freebuf.com/news/400051.html)
 
++ [Tinyproxy 曝出严重漏洞，影响全球52000 台主机](https://www.freebuf.com/news/400126.html)
+
++ [观点 | 数据分类分级，是中国网安集体编织的“皇帝新衣”](https://www.freebuf.com/news/400129.html)
+
