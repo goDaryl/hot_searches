@@ -61,3 +61,5 @@
 
 + [拼多多将进军快递驿站，已获多地驿站经营许可证](https://m.ithome.com/html/766216.htm)
 
++ [2024 款苹果 iPad Air 11/13 英寸版发布：M2 芯片、横向 12MP 前置摄像头，599 美元起](https://m.ithome.com/html/766366.htm)
+
