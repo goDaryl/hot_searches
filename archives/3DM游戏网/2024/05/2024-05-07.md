@@ -125,3 +125,11 @@
 
 + [乐高星球大战动画特别篇《重建星系》定档Disney+](https://www.3dmgame.com/news/202405/3894314.html)
 
++ [新一代《超人》首张完整定妆照 大卫·科伦斯韦化身新钢铁之躯](https://www.3dmgame.com/news/202405/3894319.html)
+
++ [传《生化危机9》故事设定在东南亚岛屿 灵感来自新加坡](https://www.3dmgame.com/news/202405/3894320.html)
+
++ [韩媒称《星刃》销量600万份 PC版要2年后才会推出](https://www.3dmgame.com/news/202405/3894318.html)
+
++ [《塔罗斯的法则2》资料片或在制作中 期待吗？](https://www.3dmgame.com/news/202405/3894317.html)
+
