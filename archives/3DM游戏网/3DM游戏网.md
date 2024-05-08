@@ -285,3 +285,5 @@
 
 + [英伟达下一代AI芯片R系列/R100将在明年四季度量产](https://www.3dmgame.com/news/202405/3894480.html)
 
++ [罗技ZONE 300头戴式耳机开卖 蓝牙无线连接、售价599元](https://www.3dmgame.com/news/202405/3894481.html)
+
