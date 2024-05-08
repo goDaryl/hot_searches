@@ -129,3 +129,9 @@
 
 + [小小大星球工作室新作更偏重游戏性而非创意工具](https://www.3dmgame.com/news/202405/3894399.html)
 
++ [EA 2024财年Q4财报发布 《EA Sports FC》《Madden》驱动利润增长](https://www.3dmgame.com/news/202405/3894405.html)
+
++ [《太空医院》最新预告 游戏将于5月23日发售](https://www.3dmgame.com/news/202405/3894404.html)
+
++ [《死侍3》全新剧照曝光 死侍狗让人无法忽视](https://www.3dmgame.com/news/202405/3894403.html)
+
