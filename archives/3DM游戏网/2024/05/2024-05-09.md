@@ -109,3 +109,9 @@
 
 + [《驾驶拉力赛》今秋开启抢先体验 支持免费试玩](https://www.3dmgame.com/news/202405/3894489.html)
 
++ [日升动画研究所推出《圣战士丹拜因》新开场动画](https://www.3dmgame.com/news/202405/3894493.html)
+
++ [光环小说新作《The Third Life》揭秘背叛者的故事](https://www.3dmgame.com/news/202405/3894492.html)
+
++ [家庭电竞趴《任天堂世界锦标赛FC世界大会》正式官宣](https://www.3dmgame.com/news/202405/3894491.html)
+
