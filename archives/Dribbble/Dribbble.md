@@ -49,3 +49,21 @@
 
 + [Data & Compute - Spot Illustrations](https://dribbble.com/shots/)
 
++ [Hamm's Beer](https://dribbble.com/shots/)
+
++ [Apex Legends S12 - Case Study](https://dribbble.com/shots/)
+
++ [Chromatic Box - Photoshop Bundle](https://dribbble.com/shots/)
+
++ [Jaws - Vice Press](https://dribbble.com/shots/)
+
++ [Restaurants Logo Collection](https://dribbble.com/shots/)
+
++ [Caring - Mid-Century Illustrated Poster Design](https://dribbble.com/shots/)
+
++ [Second String All Stars](https://dribbble.com/shots/)
+
++ [Frank Lloyd Wright - Pearce House Art Print](https://dribbble.com/shots/)
+
++ [Enter the pin (PSE '24)](https://dribbble.com/shots/)
+
