@@ -183,3 +183,21 @@
 
 + [《Xenomon》开启众筹 开放世界即时战斗怪兽收集](https://www.3dmgame.com/news/202405/3894418.html)
 
++ [马斯克警告生物智能比例逐渐递减 终被人工智能超越](https://www.3dmgame.com/news/202405/3894438.html)
+
++ [传闻：Switch继任者最早今年9月官宣 明年3月发售](https://www.3dmgame.com/news/202405/3894437.html)
+
++ [《掠食》连续七年每天更新粉丝账号终于迎来终结](https://www.3dmgame.com/news/202405/3894436.html)
+
++ [清版弹幕射击游戏《赛博脉冲》即将于5月在Steam平台推出](https://www.3dmgame.com/news/202405/3894435.html)
+
++ [《Apex Legends：扭转乾坤》现已推出 +“踏入虚空”预告片](https://www.3dmgame.com/news/202405/3894434.html)
+
++ [《猎魔人》剧集希里演员为杰洛特新演员“锤弟”感到担忧](https://www.3dmgame.com/news/202405/3894433.html)
+
++ [Atlus《暗喻幻想》新情报 妖精眼战斗系统公开](https://www.3dmgame.com/news/202405/3894432.html)
+
++ [青山刚昌漫画《剑勇传说》宣布将动画化 青山刚昌担任监督](https://www.3dmgame.com/news/202405/3894431.html)
+
++ [万代开启《艾尔登法环》视频征集活动 为DLC预热](https://www.3dmgame.com/news/202405/3894430.html)
+

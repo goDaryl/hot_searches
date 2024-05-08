@@ -51,3 +51,9 @@
 
 + [自动化安全运营实操案例:Wazuh X 雷池WAF X 飞书](https://www.freebuf.com/articles/es/399740.html)
 
++ [新加坡批准《网络安全法》修正案，以保护关键基础设施](https://www.freebuf.com/news/400205.html)
+
++ [悬赏1000万美元，英美执法机构揭露LockBit勒索软件头目](https://www.freebuf.com/news/400211.html)
+
++ [黑客利用WordPress插件漏洞获取超额权限，500万个网站面临安全威胁](https://www.freebuf.com/news/400200.html)
+
