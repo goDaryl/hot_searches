@@ -57,3 +57,7 @@
 
 + [黑客利用WordPress插件漏洞获取超额权限，500万个网站面临安全威胁](https://www.freebuf.com/news/400200.html)
 
++ [攻防演练 | 安全编排自动化响应SOAR项目记录](https://www.freebuf.com/articles/es/399232.html)
+
++ [超详细分享 | 你真的懂大语言模型么？](https://www.freebuf.com/articles/database/398617.html)
+

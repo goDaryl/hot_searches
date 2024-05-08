@@ -201,3 +201,25 @@
 
 + [万代开启《艾尔登法环》视频征集活动 为DLC预热](https://www.3dmgame.com/news/202405/3894430.html)
 
++ [《拳愿阿修罗》画师达露没恩吐槽官方英文翻译太烂 准备请盗版翻译组拯救销量](https://www.3dmgame.com/news/202405/3894449.html)
+
++ [玩家指责微软说话不算数 曾承诺将继续支持Arkane](https://www.3dmgame.com/news/202405/3894447.html)
+
++ [苹果新iPad Pro正式发布：8999元起 3nm工艺M4芯片](https://www.3dmgame.com/news/202405/3894448.html)
+
++ [《暗区突围：无限》13分钟实机演示 海外测试开启](https://www.3dmgame.com/news/202405/3894439.html)
+
++ [《绝地潜兵2》社区经理因鼓励玩家给差评后已被开除](https://www.3dmgame.com/news/202405/3894440.html)
+
++ [嫦娥六号顺利进入环月轨道：成功实施近月制动](https://www.3dmgame.com/news/202405/3894441.html)
+
++ [《恶意不息》开发商CEO谈微软关闭工作室：这就是被收购的结局](https://www.3dmgame.com/news/202405/3894442.html)
+
++ [Kotaku炮轰Xbox负责人斯宾塞：是时候滚蛋了](https://www.3dmgame.com/news/202405/3894443.html)
+
++ [小高和刚祝贺《超侦探事件簿》增强版 曾断言NS独占](https://www.3dmgame.com/news/202405/3894444.html)
+
++ [推箱子《海天岛传说》发售日预告 5月22日发售](https://www.3dmgame.com/news/202405/3894445.html)
+
++ [基地建造RTS游戏《地下蚁国》将于6月结束抢先体验并推出1.0正式版](https://www.3dmgame.com/news/202405/3894446.html)
+
