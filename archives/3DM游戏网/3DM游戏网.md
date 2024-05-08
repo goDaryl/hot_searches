@@ -295,3 +295,5 @@
 
 + [EA CEO：生成式AI将彻底改变游戏开发 目标五年内构建更大、更沉浸式世界](https://www.3dmgame.com/news/202405/3894482.html)
 
++ [笑死！玩家将斯宾塞P成《匹诺曹的谎言》封面主角](https://www.3dmgame.com/news/202405/3894486.html)
+
