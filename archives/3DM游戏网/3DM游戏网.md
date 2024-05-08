@@ -113,3 +113,19 @@
 
 + [任天堂社长确认新主机就是Switch后续机型](https://www.3dmgame.com/news/202405/3894392.html)
 
++ [Arkane老大批评Xbox关闭工作室的决定：太糟糕了](https://www.3dmgame.com/news/202405/3894402.html)
+
++ [《死亡之旅：让它去死》重开发将吸取旧作更多元素](https://www.3dmgame.com/news/202405/3894400.html)
+
++ [致敬魔界村Neo Geo新作《GladMort》启动众筹](https://www.3dmgame.com/news/202405/3894401.html)
+
++ [体育运动合集《34项世界体育大赛》6月28日登陆多平台](https://www.3dmgame.com/news/202405/3894395.html)
+
++ [国内定档7月12日《神偷奶爸4》发新预告](https://www.3dmgame.com/news/202405/3894396.html)
+
++ [《开拓者：正义之怒》最终DLC将于六月推出](https://www.3dmgame.com/news/202405/3894397.html)
+
++ [《摇滚史密斯+》登陆育碧商店后还将登陆Steam](https://www.3dmgame.com/news/202405/3894398.html)
+
++ [小小大星球工作室新作更偏重游戏性而非创意工具](https://www.3dmgame.com/news/202405/3894399.html)
+
