@@ -103,3 +103,7 @@
 
 + [《驱灵者:新伊甸的幽灵》试玩版现已登陆PC、PS5和XSX](https://www.3dmgame.com/news/202405/3894586.html)
 
++ [捣蛋小黑猫模拟新作《小猫咪大城市》现已发售](https://www.3dmgame.com/news/202405/3894588.html)
+
++ [任天堂新主机曝光配备12G内存及256G高速闪存](https://www.3dmgame.com/news/202405/3894587.html)
+
