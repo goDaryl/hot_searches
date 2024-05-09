@@ -63,3 +63,5 @@
 
 + [2099 元起，realme 真我 GT Neo6 手机发布：搭载高通骁龙 8s Gen3 处理器](https://m.ithome.com/html/766738.htm)
 
++ [苹果 M4 款 iPad Pro GPU 跑分出炉：Geekbench 6 Metal 测试超 53000 分，相比 M2 提升约 15%](https://m.ithome.com/html/766770.htm)
+
