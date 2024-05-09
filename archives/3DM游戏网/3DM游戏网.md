@@ -289,3 +289,7 @@
 
 + [2023年全球十大IC设计公司营收榜 英伟达首度夺冠](https://www.3dmgame.com/news/202405/3894578.html)
 
++ [去年冻结之后 微软计划今年重启加薪计划](https://www.3dmgame.com/news/202405/3894582.html)
+
++ [Rocksteady危？华纳游戏称业绩不佳主因是《自杀小队》](https://www.3dmgame.com/news/202405/3894581.html)
+
