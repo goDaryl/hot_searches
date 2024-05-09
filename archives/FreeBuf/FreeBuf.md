@@ -43,3 +43,5 @@
 
 + [《2024年AI安全报告》：AIML工具使用量飙升594.82%](https://www.freebuf.com/articles/paper/400185.html)
 
++ [FreeBuf早报 | 可监听几乎所有VPN的黑客技术曝光； 英国立法禁止弱密码](https://www.freebuf.com/news/400298.html)
+

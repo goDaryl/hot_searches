@@ -123,3 +123,27 @@
 
 + [暑期档灾难冒险大片《龙卷风》曝全新预告](https://www.3dmgame.com/news/202405/3894494.html)
 
++ [《超侦探事件簿 雾雨谜宫 Plus》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202405/3894504.html)
+
++ [《Dawn of Defiance》Steam上线 开放世界战斗生存](https://www.3dmgame.com/news/202405/3894505.html)
+
++ [Krafton Q1财报：《绝地求生》转免费以来销量新高](https://www.3dmgame.com/news/202405/3894506.html)
+
++ [刚关闭Tango一天 微软又称需要《完美音浪》这样的小型游戏](https://www.3dmgame.com/news/202405/3894507.html)
+
++ [世嘉公布索尼克类糖豆人新作《索尼克大乱斗》 支持32人对战](https://www.3dmgame.com/news/202405/3894508.html)
+
++ [还有8000年？《空洞骑士：丝绸之歌》商店页面显示将于9998年发售](https://www.3dmgame.com/news/202405/3894509.html)
+
++ [游戏订阅停滞不前 今年3月仅比去年4月增长了1%](https://www.3dmgame.com/news/202405/3894502.html)
+
++ [陶德不想退休：我在B社干得很开心 不想停下来](https://www.3dmgame.com/news/202405/3894503.html)
+
++ [最新报告称微软Xbox裁员还没结束 更多员工将被裁掉](https://www.3dmgame.com/news/202405/3894499.html)
+
++ [《暗黑破坏神：不朽》全新职业“雾刃”首曝 定档5月23日](https://www.3dmgame.com/news/202405/3894500.html)
+
++ [Arkane奥斯汀被关闭前曾在开发一个沉浸模拟游戏](https://www.3dmgame.com/news/202405/3894501.html)
+
++ [《三角洲行动》黑鹰坠落登陆UE5 战役实机首曝](https://www.3dmgame.com/news/202405/3894498.html)
+
