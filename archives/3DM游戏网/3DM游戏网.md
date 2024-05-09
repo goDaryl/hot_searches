@@ -147,3 +147,17 @@
 
 + [《三角洲行动》黑鹰坠落登陆UE5 战役实机首曝](https://www.3dmgame.com/news/202405/3894498.html)
 
++ [对于《使命召唤》新作首发是否加入Game Pass 微软高层一直讨论了好几个月](https://www.3dmgame.com/news/202405/3894515.html)
+
++ [类肉鸽迷宫探索游戏《逃离疯狂帝国》现已上架Steam平台](https://www.3dmgame.com/news/202405/3894516.html)
+
++ [《Rock Paper Scissors》原型版免费发布 合理互殴游戏](https://www.3dmgame.com/news/202405/3894514.html)
+
++ [任天堂宣布Switch停止支持推特 6月10日起生效](https://www.3dmgame.com/news/202405/3894513.html)
+
++ [《泰坦之旅2》新截图 神话生物狮鹫和海马霸气](https://www.3dmgame.com/news/202405/3894512.html)
+
++ [4X大战略游戏《欧陆风云4》最新DLC《变革之风》现已正式推出](https://www.3dmgame.com/news/202405/3894511.html)
+
++ [巴西官方推出新法案 推动促进本国游戏开发商成长](https://www.3dmgame.com/news/202405/3894510.html)
+

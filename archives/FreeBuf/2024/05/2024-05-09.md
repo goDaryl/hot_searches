@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 可监听几乎所有VPN的黑客技术曝光； 英国立法禁止弱密码](https://www.freebuf.com/news/400298.html)
 
++ [信息安全管理 | 企业云安全管理](https://www.freebuf.com/articles/security-management/400193.html)
+
