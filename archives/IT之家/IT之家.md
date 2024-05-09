@@ -65,3 +65,5 @@
 
 + [苹果 M4 款 iPad Pro GPU 跑分出炉：Geekbench 6 Metal 测试超 53000 分，相比 M2 提升约 15%](https://m.ithome.com/html/766770.htm)
 
++ [消息称小米将不再以 Redmi 品牌发布路由器](https://m.ithome.com/html/766813.htm)
+
