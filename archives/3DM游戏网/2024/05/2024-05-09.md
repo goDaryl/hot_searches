@@ -265,3 +265,21 @@
 
 + [金亨泰对《星刃》M站评分很满意：这是很好的激励](https://www.3dmgame.com/news/202405/3894563.html)
 
++ [美不让华为用高通英特尔芯片：余承东早预见 麒麟有大招](https://www.3dmgame.com/news/202405/3894577.html)
+
++ [一帆风顺！解谜动作游戏《沉船遗礼》扬帆起航！](https://www.3dmgame.com/news/202405/3894576.html)
+
++ [《Den of Wolves》携手艺术家Issa Salliander，打造游戏内独特面具](https://www.3dmgame.com/news/202405/3894575.html)
+
++ [《点老救世记 - dotAGE》现已支持简体中文](https://www.3dmgame.com/news/202405/3894574.html)
+
++ [《终远的威尔修-EpiC:lycoris-》主要登场人物及可攻略角色介绍](https://www.3dmgame.com/news/202405/3894573.html)
+
++ [《GUNDAM 创坏者4》将于2024年8月29日登场！同步公开最新宣传视频](https://www.3dmgame.com/news/202405/3894572.html)
+
++ [任天堂原OL会员专享红白机版Switch手柄解禁 7月18日发售](https://www.3dmgame.com/news/202405/3894571.html)
+
++ [卡普空营收连续第十一年增长 《龙之信条2》销量达260万](https://www.3dmgame.com/news/202405/3894570.html)
+
++ [百度副总裁璩静回应被开除：买我们年卡我告诉你](https://www.3dmgame.com/news/202405/3894569.html)
+

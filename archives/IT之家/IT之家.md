@@ -59,3 +59,7 @@
 
 + [苹果 iPad Pro 新宣传视频遭负面评价，艺术圈名人纷纷吐槽](https://m.ithome.com/html/766670.htm)
 
++ [小米宣布澎湃 Hyper OS 系统版本模式调整：开发版 8 月停止发布，Beta 版 Q4 启动招募](https://m.ithome.com/html/766733.htm)
+
++ [2099 元起，realme 真我 GT Neo6 手机发布：搭载高通骁龙 8s Gen3 处理器](https://m.ithome.com/html/766738.htm)
+
