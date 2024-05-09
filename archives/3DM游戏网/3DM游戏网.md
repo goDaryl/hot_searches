@@ -283,3 +283,9 @@
 
 + [百度副总裁璩静回应被开除：买我们年卡我告诉你](https://www.3dmgame.com/news/202405/3894569.html)
 
++ [菲尔·斯宾塞在《辐射76》中被玩家投了核弹](https://www.3dmgame.com/news/202405/3894579.html)
+
++ [《指环王》新真人版电影制作中 彼得‧杰克逊担任制作人](https://www.3dmgame.com/news/202405/3894580.html)
+
++ [2023年全球十大IC设计公司营收榜 英伟达首度夺冠](https://www.3dmgame.com/news/202405/3894578.html)
+
