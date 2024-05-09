@@ -33,3 +33,9 @@
 
 + [遵从鸿蒙 5.0 规范：华为商城 App 众测升级，多端适配调整](https://m.ithome.com/html/766550.htm)
 
++ [排名第 1，华为 Pura 70 Ultra 手机 DXOMARK 影像测试总分 163](https://m.ithome.com/html/766619.htm)
+
++ [京东：今年 618 大促活动 5 月 31 日现货开售](https://m.ithome.com/html/766558.htm)
+
++ [vivo X100 Ultra 手机前摄搭载 JN1 传感器，4K 60 帧拍摄、自动对焦](https://m.ithome.com/html/766537.htm)
+

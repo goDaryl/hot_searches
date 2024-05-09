@@ -115,3 +115,11 @@
 
 + [家庭电竞趴《任天堂世界锦标赛FC世界大会》正式官宣](https://www.3dmgame.com/news/202405/3894491.html)
 
++ [《死亡岛2》玩家人数已超700万 官方计划推出新更新](https://www.3dmgame.com/news/202405/3894496.html)
+
++ [EA认为生成式AI将帮助他们 带来更具沉浸感的游戏](https://www.3dmgame.com/news/202405/3894497.html)
+
++ [操作暴脾气清扫工《狼人保洁》PC版现已发售](https://www.3dmgame.com/news/202405/3894495.html)
+
++ [暑期档灾难冒险大片《龙卷风》曝全新预告](https://www.3dmgame.com/news/202405/3894494.html)
+
