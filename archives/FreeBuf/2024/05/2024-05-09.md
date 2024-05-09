@@ -57,3 +57,9 @@
 
 + [渗透测试 | 如何利用MSF绕过安全设备检测](https://www.freebuf.com/defense/399976.html)
 
++ [wePWNise：一款功能强大的红队Office宏VBA代码生成工具](https://www.freebuf.com/sectool/394624.html)
+
++ [调查显示， 97% 企业遭勒索后都找警察](https://www.freebuf.com/news/400358.html)
+
++ [TunnelVision 漏洞曝光，几乎可监听所有VPN](https://www.freebuf.com/news/400347.html)
+
