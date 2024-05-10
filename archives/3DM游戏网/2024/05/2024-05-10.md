@@ -269,3 +269,25 @@
 
 + [OPUS 游戏系列宣布与电影《错过你的那些年》特别联动！](https://www.3dmgame.com/news/202405/3894663.html)
 
++ [张朝阳：两次错过腾讯 QQ面对搜狐收购曾报价9000万美元](https://www.3dmgame.com/news/202405/3894680.html)
+
++ [《真·女神转生Ⅴ Vengeance》最新资讯：新恶魔、新迷宫、强化主角等内容](https://www.3dmgame.com/news/202405/3894678.html)
+
++ [ATLUS新作《暗喻幻想：ReFantazio》公开本作的战斗系统及最新相关资讯](https://www.3dmgame.com/news/202405/3894679.html)
+
++ [《全面战争：法老》将更新免费战役地图 用全新的文明、部队与机制称霸青铜时代](https://www.3dmgame.com/news/202405/3894677.html)
+
++ [《塞尔达传说：王国之泪》新周边 官方设定集和大师之剑3D模型公布](https://www.3dmgame.com/news/202405/3894672.html)
+
++ [在超级游艇人生任务中勇闯公海，获得双倍GTAOL游戏币和声望值](https://www.3dmgame.com/news/202405/3894676.html)
+
++ [《幻想地球（Imagine Earth）》今日正式登陆苹果macOS平台](https://www.3dmgame.com/news/202405/3894675.html)
+
++ [献祭人民，妖怪治国？《我的可爱妻子》续作《我的可爱皇后》亮相叙事游戏节](https://www.3dmgame.com/news/202405/3894674.html)
+
++ [《鬼灭之刃 争当最强队士！》  7月17日登陆PC等平台](https://www.3dmgame.com/news/202405/3894673.html)
+
++ [《Rewrite 收获祭》Steam上线 Key社恋爱名作](https://www.3dmgame.com/news/202405/3894671.html)
+
++ [苹果在中国1年收400亿苹果税：抽佣率为全球最高标准](https://www.3dmgame.com/news/202405/3894670.html)
+
