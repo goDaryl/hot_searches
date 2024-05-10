@@ -123,3 +123,9 @@
 
 + [《雷纳提斯》携手《新美妙世界》推出联动内容](https://www.3dmgame.com/news/202405/3894589.html)
 
++ [科乐美财报：利润比上年创纪录地增长了70%](https://www.3dmgame.com/news/202405/3894599.html)
+
++ [英伟达：GTX10系列显卡游玩《铁拳8》可能随机崩溃](https://www.3dmgame.com/news/202405/3894598.html)
+
++ [《吸血鬼幸存者》联动《魂斗罗》DLC已推出 售11.25元](https://www.3dmgame.com/news/202405/3894597.html)
+
