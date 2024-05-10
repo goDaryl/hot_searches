@@ -255,3 +255,17 @@
 
 + [《符文工房》开发商Marvelous本财年将发售两款未公布新作 登陆主机和PC](https://www.3dmgame.com/news/202405/3894657.html)
 
++ [探索冒险游戏《界》steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202405/3894669.html)
+
++ [KK官方对战平台 游戏美女天团齐聚KK，“竞聘”上岗代言RPG新图](https://www.3dmgame.com/news/202405/3894668.html)
+
++ [安卓旗舰越来越贵！高通骁龙8历代芯片价格曝光 10年翻了近5倍](https://www.3dmgame.com/news/202405/3894667.html)
+
++ [澳门又要全民发钱 永居每人1万非永居6000](https://www.3dmgame.com/news/202405/3894666.html)
+
++ [马斯克：特斯拉今年将斥资超5亿美元扩大超充网络 新建数千座充电站](https://www.3dmgame.com/news/202405/3894665.html)
+
++ [微信严打公众号网络辱骂行为：一经发现将封号等处罚](https://www.3dmgame.com/news/202405/3894664.html)
+
++ [OPUS 游戏系列宣布与电影《错过你的那些年》特别联动！](https://www.3dmgame.com/news/202405/3894663.html)
+
