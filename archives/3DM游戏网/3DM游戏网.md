@@ -299,3 +299,7 @@
 
 + [微软暗示《使命召唤》新作首发会登陆Game Pass](https://www.3dmgame.com/news/202405/3894683.html)
 
++ [Xbox三家工作室被关 背后原因深度解读](https://www.3dmgame.com/news/202405/3894685.html)
+
++ [今天是顽皮狗《神秘海域4》发售8周年](https://www.3dmgame.com/news/202405/3894686.html)
+

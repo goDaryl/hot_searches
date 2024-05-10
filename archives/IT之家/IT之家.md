@@ -63,3 +63,11 @@
 
 + [哪吒 L 汽车首批交付现场：CEO 张勇深鞠躬，亲自给车主开门](https://m.ithome.com/html/766952.htm)
 
++ [vivo X100s 手机外观照公布：7.8mm 厚度，首发“四季人像”功能](https://m.ithome.com/html/766978.htm)
+
++ [新款奔驰 C 级车型上市：33.48 万元起，260 行车记录仪由标配变选装](https://m.ithome.com/html/766967.htm)
+
++ [比亚迪 SHARK（鲨鱼）皮卡官图亮相：方程豹豹 5 同平台，5 月 14 日发布](https://m.ithome.com/html/766858.htm)
+
++ [漫步者 N300 有源桌面音箱上架：双 Hi-Res 认证，首发价 749 元](https://m.ithome.com/html/766855.htm)
+
