@@ -27,3 +27,7 @@
 
 + [尘埃落定？工作软件显示百度副总裁璩静确已离职](https://m.ithome.com/html/766835.htm)
 
++ [199900 日元，小米 14 Ultra 手机登陆日本市场](https://m.ithome.com/html/766842.htm)
+
++ [2024 年中国品牌价值 500 强发布，抖音升至第一](https://m.ithome.com/html/766824.htm)
+

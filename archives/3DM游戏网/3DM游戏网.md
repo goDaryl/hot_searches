@@ -107,3 +107,19 @@
 
 + [任天堂新主机曝光配备12G内存及256G高速闪存](https://www.3dmgame.com/news/202405/3894587.html)
 
++ [《自杀小队》的失败 让华纳兄弟损失了2亿美元收入](https://www.3dmgame.com/news/202405/3894596.html)
+
++ [《美国卡车模拟》新DLC“内布拉斯加”发行日公布](https://www.3dmgame.com/news/202405/3894595.html)
+
++ [《黎明杀机》与《龙与地下城》联动公布](https://www.3dmgame.com/news/202405/3894594.html)
+
++ [《侏罗纪世界：进化》工作室宣布计划第3部作品](https://www.3dmgame.com/news/202405/3894593.html)
+
++ [大逃杀《吃豆人 无尽地道争豆》已登陆PC/主机](https://www.3dmgame.com/news/202405/3894592.html)
+
++ [《守望先锋2》联动保时捷D.Va机甲5月14日上线](https://www.3dmgame.com/news/202405/3894591.html)
+
++ [2.5D银河城《审判军团：堕天使》全新预告片曝光](https://www.3dmgame.com/news/202405/3894590.html)
+
++ [《雷纳提斯》携手《新美妙世界》推出联动内容](https://www.3dmgame.com/news/202405/3894589.html)
+

@@ -41,3 +41,5 @@
 
 + [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
 
++ [恶意软件正劫持安全软件更新进行分发](https://www.freebuf.com/articles/network/400194.html)
+
