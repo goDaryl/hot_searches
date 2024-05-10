@@ -59,3 +59,7 @@
 
 + [路由器聚焦 Xiaomi 品牌，小米高管回应不再发布 Redmi 路由器言论](https://m.ithome.com/html/767020.htm)
 
++ [消息称小米 15 样机配备 1.5K 新基材极窄直屏，正在测超声波指纹](https://m.ithome.com/html/766906.htm)
+
++ [哪吒 L 汽车首批交付现场：CEO 张勇深鞠躬，亲自给车主开门](https://m.ithome.com/html/766952.htm)
+

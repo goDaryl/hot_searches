@@ -295,3 +295,7 @@
 
 + [坤哥：《战神：诸神黄昏》将移植登陆到PC平台 即将官宣](https://www.3dmgame.com/news/202405/3894682.html)
 
++ [马斯克星链收入飞升：今年预计突破66亿美元](https://www.3dmgame.com/news/202405/3894684.html)
+
++ [微软暗示《使命召唤》新作首发会登陆Game Pass](https://www.3dmgame.com/news/202405/3894683.html)
+
