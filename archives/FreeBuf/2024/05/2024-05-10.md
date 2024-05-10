@@ -55,3 +55,9 @@
 
 + [漏洞挖掘 | 某OA系统任意文件上传](https://www.freebuf.com/articles/web/400213.html)
 
++ [EmploLeaks：一款针对企业安全的组织员工信息收集OSINT工具](https://www.freebuf.com/sectool/392259.html)
+
++ [波兰指控疑似俄罗斯“军事黑客”袭击其政府机构](https://www.freebuf.com/news/400468.html)
+
++ [RSAC 2024：AI安全已经刻不容缓](https://www.freebuf.com/news/400461.html)
+

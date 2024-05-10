@@ -43,3 +43,7 @@
 
 + [科大讯飞董事长刘庆峰谈购买蔚来第 50 万辆车：快得超过自己的迈巴赫](https://m.ithome.com/html/766754.htm)
 
++ [哪吒 L 明日首批交付，CEO 张勇称将鞠躬 90 度为车主开车门](https://m.ithome.com/html/766849.htm)
+
++ [长城汽车董事长魏建军预热灵魂摩托：不止 8 缸发动机，还有 DCT 变速器](https://m.ithome.com/html/766851.htm)
+

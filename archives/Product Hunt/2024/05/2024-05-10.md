@@ -101,3 +101,11 @@
 
 + [Weeblok](https://www.producthunt.com/posts/weeblok)
 
++ [HyperURLs](https://www.producthunt.com/posts/hyperurls)
+
++ [504 English Vocabulary Dictionary](https://www.producthunt.com/posts/504-english-vocabulary-dictionary)
+
++ [Otto - your personal biographer](https://www.producthunt.com/posts/otto-your-personal-biographer)
+
++ [Clipwing](https://www.producthunt.com/posts/clipwing)
+
