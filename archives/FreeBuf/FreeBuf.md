@@ -61,3 +61,5 @@
 
 + [RSAC 2024：AI安全已经刻不容缓](https://www.freebuf.com/news/400461.html)
 
++ [疑似俄罗斯“军事黑客”持续攻击波兰政府机构](https://www.freebuf.com/news/400468.html)
+
