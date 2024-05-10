@@ -291,3 +291,5 @@
 
 + [苹果在中国1年收400亿苹果税：抽佣率为全球最高标准](https://www.3dmgame.com/news/202405/3894670.html)
 
++ [苹果或采用了Armv9架构 从而让M4有更强的单核和多核性能](https://www.3dmgame.com/news/202405/3894681.html)
+
