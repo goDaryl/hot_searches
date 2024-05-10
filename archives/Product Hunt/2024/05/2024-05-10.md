@@ -109,3 +109,13 @@
 
 + [Clipwing](https://www.producthunt.com/posts/clipwing)
 
++ [Photo Tape](https://www.producthunt.com/posts/photo-tape)
+
++ [ManyExcel](https://www.producthunt.com/posts/manyexcel)
+
++ [Balance](https://www.producthunt.com/posts/balance-3698d76d-dd09-46ee-83eb-9153e61e8bb2)
+
++ [Meeting Reminders](https://www.producthunt.com/posts/meeting-reminders)
+
++ [Upp.Vote](https://www.producthunt.com/posts/upp-vote)
+

@@ -47,3 +47,7 @@
 
 + [长城汽车董事长魏建军预热灵魂摩托：不止 8 缸发动机，还有 DCT 变速器](https://m.ithome.com/html/766851.htm)
 
++ [史上首次！中芯国际成全球第二大纯晶圆代工厂，营收仅次于台积电](https://m.ithome.com/html/766983.htm)
+
++ [李彦宏内部点评璩静事件：优秀员工才代表真实的百度](https://m.ithome.com/html/766911.htm)
+
