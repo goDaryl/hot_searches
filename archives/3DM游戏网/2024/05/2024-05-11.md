@@ -183,3 +183,11 @@
 
 + [RTX5090/5080显卡肩并肩走来！测试功耗高达600W](https://www.3dmgame.com/news/202405/3894728.html)
 
++ [定档5月20日EA上线！《职场浮生记》难道996才是打工人的福报？](https://www.3dmgame.com/news/202405/3894732.html)
+
++ [《擅长捉弄的高木同学》作者漫画新作将于8月开启连载](https://www.3dmgame.com/news/202405/3894730.html)
+
++ [合作恐怖生存游戏《PANICORE》发售日公布 5月31日发售](https://www.3dmgame.com/news/202405/3894731.html)
+
++ [Steam Deck最新更新：改进显卡驱动 性能增强等](https://www.3dmgame.com/news/202405/3894729.html)
+
