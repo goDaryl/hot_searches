@@ -171,3 +171,13 @@
 
 + [以色列厂商Playtika领导层重组 两位高管被裁](https://www.3dmgame.com/news/202405/3894721.html)
 
++ [在富岳超算上训练大模型 日本联合研究团队发布Fugaku-LLM](https://www.3dmgame.com/news/202405/3894726.html)
+
++ [回合战术类肉鸽游戏《挺进超时空》现已登录Steam平台](https://www.3dmgame.com/news/202405/3894727.html)
+
++ [《电动小丑斯帕克3》将登陆Switch平台 发售日期待定](https://www.3dmgame.com/news/202405/3894725.html)
+
++ [《恐怖黎明》开发商CEO：RTS游戏冷门和好玩不可兼得](https://www.3dmgame.com/news/202405/3894724.html)
+
++ [《庄园领主》将允许养猪 但开发者尚未决定圈养方式](https://www.3dmgame.com/news/202405/3894723.html)
+
