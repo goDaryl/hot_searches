@@ -233,3 +233,9 @@
 
 + [首款可折叠iPhone可能使用三星的屏幕](https://www.3dmgame.com/news/202405/3894753.html)
 
++ [在索尼下架《对马岛之鬼》PC版后 玩家呼吁抵制这款游戏](https://www.3dmgame.com/news/202405/3894754.html)
+
++ [《地狱之刃2》还有11天就发售了 但销量连Steam前200都没有入围](https://www.3dmgame.com/news/202405/3894755.html)
+
++ [OpenAI澄清：下周不会发布搜索引擎](https://www.3dmgame.com/news/202405/3894756.html)
+
