@@ -181,3 +181,5 @@
 
 + [《庄园领主》将允许养猪 但开发者尚未决定圈养方式](https://www.3dmgame.com/news/202405/3894723.html)
 
++ [RTX5090/5080显卡肩并肩走来！测试功耗高达600W](https://www.3dmgame.com/news/202405/3894728.html)
+

@@ -55,3 +55,9 @@
 
 + [RSAC 2024：网安“思维转变”，集成才是更优的选择？](https://www.freebuf.com/news/400604.html)
 
++ [播放莫斯科胜利日阅兵式，疑似俄罗斯黑客入侵拉脱维亚电视台](https://www.freebuf.com/news/400597.html)
+
++ [恶意安卓应用程序假冒谷歌、Instagram、WhatsApp 窃取用户凭证](https://www.freebuf.com/news/400593.html)
+
++ [实战经验分享：Web应用逻辑漏洞挖掘技巧与案例分析](https://www.freebuf.com/articles/web/400377.html)
+
