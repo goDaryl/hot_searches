@@ -69,3 +69,5 @@
 
 + [厂商看过来 | FreeBuf会员体系2.0正式发布](https://www.freebuf.com/news/400694.html)
 
++ [网安江湖，谁可一战？知识大陆APP 首个小游戏上线](https://www.freebuf.com/fevents/400702.html)
+
