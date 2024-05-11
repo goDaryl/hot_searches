@@ -191,3 +191,9 @@
 
 + [Steam Deck最新更新：改进显卡驱动 性能增强等](https://www.3dmgame.com/news/202405/3894729.html)
 
++ [《漫威争锋》开发者讨论环境破坏：仅限部分区域](https://www.3dmgame.com/news/202405/3894735.html)
+
++ [苹果有望下月宣布升级版Siri 基于生成式AI打造](https://www.3dmgame.com/news/202405/3894733.html)
+
++ [为庆祝《如龙》系列角色真岛吾朗60岁生日 世嘉开启线上抽奖活动](https://www.3dmgame.com/news/202405/3894734.html)
+
