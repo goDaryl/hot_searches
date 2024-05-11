@@ -73,3 +73,7 @@
 
 + [【柯基】朝鲜歌曲《胜利的五月》](http://www.acfun.cn/v/ac44498313)
 
++ [来自安娜玩家的雾子cos](http://www.acfun.cn/v/ac44502518)
+
++ [【真曈】????焦糖｜カラメル????【HB to 冷】](http://www.acfun.cn/v/ac44501576)
+

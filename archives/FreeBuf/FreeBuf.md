@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 2023年中国网安上市公司平均薪酬发布；波音拒支付2亿美元赎金](https://www.freebuf.com/news/400514.html)
 
++ [货拉拉信息安全资产库建设实践](https://www.freebuf.com/articles/security-management/400323.html)
+
++ [FreeBuf 周报 | 英美执法机构揭露 LockBit 勒索软件头目；AI 安全已经刻不容缓](https://www.freebuf.com/news/400534.html)
+
