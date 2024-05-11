@@ -45,3 +45,7 @@
 
 + [全新 13 英寸苹果 iPad Air 亮度可达 600 尼特，比 11 英寸型号高 20%](https://m.ithome.com/html/767140.htm)
 
++ [6499 元 → 4299 元：小米 13 Ultra 手机 512G 版京东自营清仓](https://m.ithome.com/html/767239.htm)
+
++ [魅族 21 Note 手机规格曝光：1.5K 144Hz OLED 直屏，5500 毫安时电池 66W 有线充电](https://m.ithome.com/html/767200.htm)
+
