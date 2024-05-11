@@ -53,3 +53,7 @@
 
 + [iPhone AI 大升级：消息称苹果即将与 OpenAI 达成协议，iOS 18 用上 ChatGPT](https://m.ithome.com/html/767212.htm)
 
++ [全新极氪 001 车型 4 月销量 11729 台，获 25 万以上纯电冠军](https://m.ithome.com/html/767208.htm)
+
++ [上市 136 天，鸿蒙智行问界 M9 车型累计大定突破 80000 台](https://m.ithome.com/html/767192.htm)
+
