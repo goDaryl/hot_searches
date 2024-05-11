@@ -161,3 +161,13 @@
 
 + [《漫游者：命运碎片》官宣跳票 9月13日发行](https://www.3dmgame.com/news/202405/3894712.html)
 
++ [RGG宣布“港区女孩试镜” 为如龙系列新作招募女演员](https://www.3dmgame.com/news/202405/3894722.html)
+
++ [《哥斯拉大战金刚3》正式制作中 《尚气》编剧加盟](https://www.3dmgame.com/news/202405/3894719.html)
+
++ [华纳放弃从Steam下架Adult Swim Games发行的游戏的计划](https://www.3dmgame.com/news/202405/3894720.html)
+
++ [玩家并未战胜索尼！PC版游戏继续移除不支持PSN地区](https://www.3dmgame.com/news/202405/3894718.html)
+
++ [以色列厂商Playtika领导层重组 两位高管被裁](https://www.3dmgame.com/news/202405/3894721.html)
+
