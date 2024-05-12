@@ -161,3 +161,7 @@
 
 + [《塞尔达传说：王国之泪》新设定集承诺整理时间线](https://www.3dmgame.com/news/202405/3894785.html)
 
++ [前微软资深PR认为想要让XGP增长除非拿下GTA6](https://www.3dmgame.com/news/202405/3894788.html)
+
++ [传苹果放弃造车真实原因 高管体验ChatGPT后担心掉队](https://www.3dmgame.com/news/202405/3894787.html)
+
