@@ -49,3 +49,27 @@
 
 + [Charming alcohol ????](https://dribbble.com/shots/)
 
++ [Couple walking](https://dribbble.com/shots/)
+
++ [Share You space / shell (PSE '24)](https://dribbble.com/shots/)
+
++ [Framework](https://dribbble.com/shots/)
+
++ [Lasers](https://dribbble.com/shots/)
+
++ [Hold shift to run – t-shrit print](https://dribbble.com/shots/)
+
++ [Bootsy Collins Lettering](https://dribbble.com/shots/)
+
++ [Grrz](https://dribbble.com/shots/)
+
++ [Caring - Mid-Century Illustrated Poster Design](https://dribbble.com/shots/)
+
++ [Nobody Love New York Like New York Print](https://dribbble.com/shots/)
+
++ [Fallout](https://dribbble.com/shots/)
+
++ [AMONH](https://dribbble.com/shots/)
+
++ [Data & Compute - Spot Illustrations](https://dribbble.com/shots/)
+
