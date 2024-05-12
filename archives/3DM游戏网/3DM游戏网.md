@@ -169,3 +169,5 @@
 
 + [发售27年的《Tibia》利润大幅增长 工作室还在招人](https://www.3dmgame.com/news/202405/3894789.html)
 
++ [Dell搭载骁龙X Elite的新款笔电渲染图曝光](https://www.3dmgame.com/news/202405/3894791.html)
+
