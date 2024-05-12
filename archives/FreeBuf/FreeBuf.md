@@ -41,3 +41,5 @@
 
 + [漏洞挖掘 | 某OA系统任意文件上传](https://www.freebuf.com/articles/web/400213.html)
 
++ [针对区块链从业者的招聘陷阱：疑似Lazarus（APT-Q-1）窃密行动分析](https://www.freebuf.com/articles/paper/400513.html)
+
