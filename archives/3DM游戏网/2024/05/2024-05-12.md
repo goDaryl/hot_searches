@@ -171,3 +171,7 @@
 
 + [Dell搭载骁龙X Elite的新款笔电渲染图曝光](https://www.3dmgame.com/news/202405/3894791.html)
 
++ [PlayStation发表会或于5月下旬举办](https://www.3dmgame.com/news/202405/3894793.html)
+
++ [《对马岛之鬼》Steam下架后 未能入围销量榜Top 10](https://www.3dmgame.com/news/202405/3894792.html)
+
