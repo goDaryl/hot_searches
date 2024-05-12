@@ -73,3 +73,13 @@
 
 + [Data & Compute - Spot Illustrations](https://dribbble.com/shots/)
 
++ [HHC Living Tertiary Logo](https://dribbble.com/shots/)
+
++ [Shape Studies: 054](https://dribbble.com/shots/)
+
++ [The Original Trilogy](https://dribbble.com/shots/)
+
++ [Dubai Mall](https://dribbble.com/shots/)
+
++ [big plant](https://dribbble.com/shots/)
+
