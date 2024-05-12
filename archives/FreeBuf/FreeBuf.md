@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/400595.html)
 
++ [供应链投毒预警：恶意Py包伪装HTTP组件开展CStealer窃密后门攻击](https://www.freebuf.com/news/400487.html)
+
