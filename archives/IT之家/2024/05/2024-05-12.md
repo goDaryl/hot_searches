@@ -51,3 +51,13 @@
 
 + [华为今年已全面启动基于鲲鹏昇腾的原生开发，未来三年将每年投入 10 亿元培育生态](https://m.ithome.com/html/767253.htm)
 
++ [当小米 SU7 遇上苹果 CarPlay，博主展示 16.1 英寸 3K 中控 iPhone 车联体验](https://m.ithome.com/html/767392.htm)
+
++ [长安深蓝 L07 车型通过申报，提供增程 / 纯电两种动力可选](https://m.ithome.com/html/767337.htm)
+
++ [比亚迪方程豹“豹 8”量产版车型完成申报：搭载 2.0T 插混系统，匹配前后双电机](https://m.ithome.com/html/767326.htm)
+
++ [最快 IPO 的新造车，诞生了 —— 极氪](https://m.ithome.com/html/767316.htm)
+
++ [优化相机夜拍 / 长焦体验，华为 Pura 70 / Pro 手机获鸿蒙 OS 4.2.0.156 更新](https://m.ithome.com/html/767367.htm)
+
