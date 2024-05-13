@@ -189,3 +189,7 @@
 
 + [《辐射》沙荫市设计师不满真人剧中对沙荫市的剧情设定](https://www.3dmgame.com/news/202405/3894839.html)
 
++ [《美女，应接不暇》：5月15日，Steam上的美女互动与AI技术结合新玩法](https://www.3dmgame.com/news/202405/3894842.html)
+
++ [斩草除根 任天堂再次提出删除破解密码工具Lockpick](https://www.3dmgame.com/news/202405/3894843.html)
+
