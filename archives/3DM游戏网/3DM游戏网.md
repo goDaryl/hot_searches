@@ -125,3 +125,7 @@
 
 + [PS5独占游戏《星刃》发售活动引爆首尔商场](https://www.3dmgame.com/news/202405/3894805.html)
 
++ [《猩球崛起4》全球开画1.29亿美元 系列开局最高](https://www.3dmgame.com/news/202405/3894810.html)
+
++ [Steam官方：限制《地狱潜者2》上架国家的是索尼 不是Steam](https://www.3dmgame.com/news/202405/3894811.html)
+

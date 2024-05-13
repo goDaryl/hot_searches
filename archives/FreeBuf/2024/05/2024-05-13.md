@@ -43,3 +43,5 @@
 
 + [论从乙方转到甲方开始搞信息安全建设](https://www.freebuf.com/articles/neopoints/400444.html)
 
++ [FreeBuf早报 | 欧洲刑警组织发生数据泄露事件；疑似俄罗斯黑客入侵拉脱维亚电视台](https://www.freebuf.com/news/400583.html)
+

@@ -67,3 +67,7 @@
 
 + [【喷神James】20周年篇-最佳恶魔城 - 215](http://www.acfun.cn/v/ac44524103)
 
++ [《动物迷惑行为大赏205》](http://www.acfun.cn/v/ac44523547)
+
++ [这才是magnetic的正确打开方式](http://www.acfun.cn/v/ac44524016)
+
