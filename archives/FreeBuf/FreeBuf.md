@@ -61,3 +61,7 @@
 
 + [黑客组织 FIN7 借用 Google Ads 传播恶意软件](https://www.freebuf.com/news/400742.html)
 
++ [如何使用Shortemall自动扫描URL短链接中的隐藏内容](https://www.freebuf.com/sectool/400552.html)
+
++ [泄露500G数据，澳大利亚最大非银机构Firstmac遭勒索攻击](https://www.freebuf.com/news/400745.html)
+
