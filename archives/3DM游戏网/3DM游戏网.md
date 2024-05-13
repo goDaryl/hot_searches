@@ -239,3 +239,9 @@
 
 + [传苹果接近与OpenAI达成协议 将ChatGPT技术引入到iPhone](https://www.3dmgame.com/news/202405/3894866.html)
 
++ [AMD下一代Strix Halo APU现身 至少配32GB板载内存](https://www.3dmgame.com/news/202405/3894869.html)
+
++ [《使命召唤》2025、2026和2027三款新作细节泄露](https://www.3dmgame.com/news/202405/3894868.html)
+
++ [传《生化危机》RE引擎重制版开发中 2026年发售](https://www.3dmgame.com/news/202405/3894867.html)
+
