@@ -161,3 +161,25 @@
 
 + [《毁灭战士》新作再添新证据 在美国注册游戏商标](https://www.3dmgame.com/news/202405/3894827.html)
 
++ [《Necrophosis》Steam试玩发布 异世界风格恐怖探索](https://www.3dmgame.com/news/202405/3894838.html)
+
++ [《宝可梦：朱/紫》新配信宝可梦 2023世锦赛“暴鲤龙”](https://www.3dmgame.com/news/202405/3894837.html)
+
++ [研究人员推出xLSTM神经网络AI架构 并行化处理Token](https://www.3dmgame.com/news/202405/3894836.html)
+
++ [《绝地潜兵2》前首席编剧表示为了完美展现游戏的实时内容而筋疲力尽](https://www.3dmgame.com/news/202405/3894835.html)
+
++ [外媒揭秘比尔·盖茨怎么花钱 坐拥上万亿元财富](https://www.3dmgame.com/news/202405/3894834.html)
+
++ [微软一直和佳作擦肩而过 《GTA3》差点成Xbox独占](https://www.3dmgame.com/news/202405/3894828.html)
+
++ [曝美剧《幕府将军》续订第二季 主演真田广之已与FX签约](https://www.3dmgame.com/news/202405/3894833.html)
+
++ [《真女神转生5：复仇》即将发售 Switch原版宣布停售](https://www.3dmgame.com/news/202405/3894832.html)
+
++ [《寓言之地》正式版发售预告 5月14日正式发售](https://www.3dmgame.com/news/202405/3894831.html)
+
++ [《大江户仕草》免费登陆Steam 类《8番出口》解谜](https://www.3dmgame.com/news/202405/3894830.html)
+
++ [《最后的生还者》剧集第2季艾莉造型曝光：变成熟了](https://www.3dmgame.com/news/202405/3894829.html)
+
