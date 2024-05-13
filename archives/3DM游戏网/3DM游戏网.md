@@ -119,3 +119,7 @@
 
 + [网传史克威尔将裁减美国和欧洲分公司员工](https://www.3dmgame.com/news/202405/3894877.html)
 
++ [SE宣布多平台发行策略 今后3A游戏将覆盖全平台](https://www.3dmgame.com/news/202405/3894882.html)
+
++ [《刺客信条：影》首部预告5月16日公开 11月15日发售](https://www.3dmgame.com/news/202405/3894881.html)
+
