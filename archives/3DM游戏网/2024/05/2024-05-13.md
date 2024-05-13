@@ -237,3 +237,5 @@
 
 + [《狂想异星》登陆Steam 3D空间肉鸽动作射击](https://www.3dmgame.com/news/202405/3894862.html)
 
++ [传苹果接近与OpenAI达成协议 将ChatGPT技术引入到iPhone](https://www.3dmgame.com/news/202405/3894866.html)
+
