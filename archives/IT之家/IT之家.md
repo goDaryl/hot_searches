@@ -51,3 +51,7 @@
 
 + [小米“人在传感器”众筹上架：搭“低功耗毫米波雷达”可动态感知 6 米人体，119 元](https://m.ithome.com/html/767500.htm)
 
++ [vivo X100 Ultra 发布：官方称“买相机送手机”，售价 6499 元起](https://m.ithome.com/html/767652.htm)
+
++ [小米米家无线洗车机 2 上架：无线锂电设计，众筹价 279 元](https://m.ithome.com/html/767505.htm)
+
