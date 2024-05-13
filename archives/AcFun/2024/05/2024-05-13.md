@@ -71,3 +71,5 @@
 
 + [这才是magnetic的正确打开方式](http://www.acfun.cn/v/ac44524016)
 
++ [下晚自习后一个人在教室跳了ditto-newjeans](http://www.acfun.cn/v/ac44524049)
+

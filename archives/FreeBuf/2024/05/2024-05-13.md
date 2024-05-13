@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 欧洲刑警组织发生数据泄露事件；疑似俄罗斯黑客入侵拉脱维亚电视台](https://www.freebuf.com/news/400583.html)
 
++ [【年中直播】NGINX直播揭秘，应用安全防护的「杀手锏」](https://www.freebuf.com/news/400734.html)
+
++ [渗透实训 | 记一次后台多处对文件上传的WAF绕过](https://www.freebuf.com/articles/web/399569.html)
+
