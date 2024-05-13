@@ -115,3 +115,13 @@
 
 + [索尼成立由前Deviation开发者组成的新工作室](https://www.3dmgame.com/news/202405/3894800.html)
 
++ [《绝地潜兵2》星球大战MOD出现 毫无违和感](https://www.3dmgame.com/news/202405/3894809.html)
+
++ [杀意波动之鬼《街头霸王6》豪鬼第二套服装曝光](https://www.3dmgame.com/news/202405/3894808.html)
+
++ [骁龙8 Gen4瞄准A18性能攀升至4.26GHz](https://www.3dmgame.com/news/202405/3894807.html)
+
++ [彭博社记者称《对马岛之鬼2》仍在开发中](https://www.3dmgame.com/news/202405/3894806.html)
+
++ [PS5独占游戏《星刃》发售活动引爆首尔商场](https://www.3dmgame.com/news/202405/3894805.html)
+
