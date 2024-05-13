@@ -147,3 +147,17 @@
 
 + [《快餐店模拟器》Steam页面上线 模拟经营开店指南](https://www.3dmgame.com/news/202405/3894812.html)
 
++ [百合恋爱迷宫RPG《巫女与百合》新PV 确定5月24日发售](https://www.3dmgame.com/news/202405/3894821.html)
+
++ [多位知名爆料者透露索尼和乐高合作 将开发《地平线》系列新项目](https://www.3dmgame.com/news/202405/3894822.html)
+
++ [《完美音浪》成为微软和B社有史以来评价最高的游戏](https://www.3dmgame.com/news/202405/3894823.html)
+
++ [《EchoesⅡ》Steam页面上线 2D点阵风肉鸽RPG](https://www.3dmgame.com/news/202405/3894824.html)
+
++ [《地狱之刃2》全新截图公布 游戏风景美如画](https://www.3dmgame.com/news/202405/3894825.html)
+
++ [动作角色扮演游戏《野蛮人：终极BOSS战》现已推出试玩Demo 正式版6月6日推出](https://www.3dmgame.com/news/202405/3894826.html)
+
++ [《毁灭战士》新作再添新证据 在美国注册游戏商标](https://www.3dmgame.com/news/202405/3894827.html)
+
