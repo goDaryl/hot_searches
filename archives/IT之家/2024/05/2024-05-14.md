@@ -31,3 +31,5 @@
 
 + [旗下第一款“相机”，vivo X100 Ultra 手机亮相](https://m.ithome.com/html/767648.htm)
 
++ [21.99 万元起，智己电动轿车 L6 上市：全系配备灵蜥数字底盘、后轮转向](https://m.ithome.com/html/767659.htm)
+

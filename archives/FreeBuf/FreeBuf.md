@@ -43,3 +43,5 @@
 
 + [卡巴斯基：2024年Q1漏洞和利用报告](https://www.freebuf.com/articles/paper/400401.html)
 
++ [FreeBuf早报 | 中汽协回应特斯拉通过数据安全测试；黑客正瞄准AI模型平台用户账号](https://www.freebuf.com/articles/400809.html)
+
