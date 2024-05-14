@@ -107,3 +107,49 @@
 
 + [Nectar AI](https://www.producthunt.com/posts/nectar-ai)
 
++ [Happyfolks](https://www.producthunt.com/posts/happyfolks)
+
++ [Quartiles](https://www.producthunt.com/posts/quartiles)
+
++ [Canny Autopilot](https://www.producthunt.com/posts/canny-autopilot)
+
++ [KwesForms](https://www.producthunt.com/posts/kwesforms)
+
++ [Bebop](https://www.producthunt.com/posts/bebop-2)
+
++ [Snapfit](https://www.producthunt.com/posts/snapfit)
+
++ [ShortlistIQ](https://www.producthunt.com/posts/shortlistiq)
+
++ [EmailMe](https://www.producthunt.com/posts/emailme-2)
+
++ [SafeName](https://www.producthunt.com/posts/safename-2)
+
++ [Lune AI](https://www.producthunt.com/posts/lune-ai)
+
++ [Arcade](https://www.producthunt.com/posts/arcade-2c7db264-a375-4659-bc0c-2efe9f98f3b6)
+
++ [Wegic](https://www.producthunt.com/posts/wegic)
+
++ [S3 Data Monitoring by Lariat](https://www.producthunt.com/posts/s3-data-monitoring-by-lariat)
+
++ [stoic.](https://www.producthunt.com/posts/stoic-5)
+
++ [Pincone Inboxes](https://www.producthunt.com/posts/pincone-inboxes)
+
++ [SWay - Quit/less smoking (or vaping)](https://www.producthunt.com/posts/sway-quit-less-smoking-or-vaping)
+
++ [fynk](https://www.producthunt.com/posts/fynk)
+
++ [CustomerIQ](https://www.producthunt.com/posts/customeriq)
+
++ [SofaBrain](https://www.producthunt.com/posts/sofabrain-2)
+
++ [Sentrya 2.0](https://www.producthunt.com/posts/sentrya-2-0)
+
++ [SaveDay](https://www.producthunt.com/posts/saveday-2)
+
++ [Neurture](https://www.producthunt.com/posts/neurture)
+
++ [AIWatchfulCompanion](https://www.producthunt.com/posts/aiwatchfulcompanion-2)
+
