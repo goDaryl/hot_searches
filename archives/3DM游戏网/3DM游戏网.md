@@ -107,3 +107,27 @@
 
 + [治愈像素游戏《魔法餐作室》新预告 今年Q3发售](https://www.3dmgame.com/news/202405/3894972.html)
 
++ [恶搞游戏《世界上最糟糕的维修工》序章免费上线](https://www.3dmgame.com/news/202405/3894984.html)
+
++ [PlayStation未来3年中期计划 旗下游戏将继续登陆PC](https://www.3dmgame.com/news/202405/3894985.html)
+
++ [《黎明杀机》公开2V8玩法 联动《恶魔城》](https://www.3dmgame.com/news/202405/3894983.html)
+
++ [ChatGPT Windows版客户端将于今年晚些时候发布 Mac版客户端现已推出](https://www.3dmgame.com/news/202405/3894982.html)
+
++ [消息称任天堂将于9月推出塞尔达传说乐高积木](https://www.3dmgame.com/news/202405/3894981.html)
+
++ [奇特冒险游戏《小小冒险家》5/30推出](https://www.3dmgame.com/news/202405/3894979.html)
+
++ [2024年Q1：PS5出货量几乎是Xbox Series的5倍](https://www.3dmgame.com/news/202405/3894975.html)
+
++ [前幽浮和模拟人生开发成员成立仲夏工作室](https://www.3dmgame.com/news/202405/3894980.html)
+
++ [全新建造RPG游戏《神箱》 8月29日发售](https://www.3dmgame.com/news/202405/3894978.html)
+
++ [黎明杀机开发商新作《弗兰克斯通的阴影》信息](https://www.3dmgame.com/news/202405/3894977.html)
+
++ [《时空幻境：周年版》已在PC/主机平台推出](https://www.3dmgame.com/news/202405/3894976.html)
+
++ [《暗黑破坏神4》第四赛季“寻宝重生“现已正式上线](https://www.3dmgame.com/news/202405/3894974.html)
+
