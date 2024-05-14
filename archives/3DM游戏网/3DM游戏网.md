@@ -287,3 +287,7 @@
 
 + [印度博主中国旅游后发感慨：卫生基建设施远超印度](https://www.3dmgame.com/news/202405/3894963.html)
 
++ [大宇计划出售《仙剑奇侠传》海外地区IP版权](https://www.3dmgame.com/news/202405/3894966.html)
+
++ [《刺客信条：影》首发照旧不会登陆Steam](https://www.3dmgame.com/news/202405/3894964.html)
+
