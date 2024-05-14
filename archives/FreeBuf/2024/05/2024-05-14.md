@@ -55,3 +55,5 @@
 
 + [攻防演练 | 红队的我要如何拿分](https://www.freebuf.com/articles/web/400440.html)
 
++ [越来越的漏洞正在让NVD面临崩溃！](https://www.freebuf.com/news/400889.html)
+
