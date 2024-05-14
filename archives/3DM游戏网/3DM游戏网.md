@@ -291,3 +291,9 @@
 
 + [《刺客信条：影》首发照旧不会登陆Steam](https://www.3dmgame.com/news/202405/3894964.html)
 
++ [《指环王：力量之戒》第二季首曝预告 黑化索伦登场](https://www.3dmgame.com/news/202405/3894969.html)
+
++ [《绝地潜兵2》发售三个月 销量超过1200万套](https://www.3dmgame.com/news/202405/3894968.html)
+
++ [《加菲猫》海报恶搞好莱坞电影 《超人》等中标](https://www.3dmgame.com/news/202405/3894967.html)
+
