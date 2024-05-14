@@ -41,3 +41,5 @@
 
 + [网安江湖，谁可一战？知识大陆APP 首个小游戏上线](https://www.freebuf.com/fevents/400702.html)
 
++ [卡巴斯基：2024年Q1漏洞和利用报告](https://www.freebuf.com/articles/paper/400401.html)
+
