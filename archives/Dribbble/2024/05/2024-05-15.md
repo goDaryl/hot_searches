@@ -83,3 +83,11 @@
 
 + [Apex Legends S12 - Case Study](https://dribbble.com/shots/)
 
++ [Cocktails](https://dribbble.com/shots/)
+
++ [Visit Florida Lettering for Tourism videos](https://dribbble.com/shots/)
+
++ [Bitesized Mascots](https://dribbble.com/shots/)
+
++ [Interconnected world](https://dribbble.com/shots/)
+
