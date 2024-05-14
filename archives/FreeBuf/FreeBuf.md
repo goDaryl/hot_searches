@@ -67,3 +67,5 @@
 
 + [越来越多的漏洞正在让NVD崩溃！](https://www.freebuf.com/news/400889.html)
 
++ [新漏洞太多让美国NVD面临崩溃，还可能引发供应链风险](https://www.freebuf.com/news/400889.html)
+
