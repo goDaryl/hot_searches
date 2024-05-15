@@ -41,3 +41,5 @@
 
 + [Black Basta 勒索软件入侵全球 500 多个组织](https://www.freebuf.com/news/400733.html)
 
++ [蓝队技术 | 使用Sysmon日志识别和分析Windows恶意活动](https://www.freebuf.com/articles/system/400776.html)
+
