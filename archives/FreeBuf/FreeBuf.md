@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 23年中国IT安全软件市场同比增长4.7%；新漏洞太多让美国NVD面临崩溃](https://www.freebuf.com/news/400915.html)
 
++ [密评 | PDF文件中电子签章手工验签](https://www.freebuf.com/articles/database/400338.html)
+
++ [FreeBuf早报 | 23年中国IT安全软件市场同比增长4.7%；新漏洞太多让NVD面临崩溃](https://www.freebuf.com/news/400915.html)
+
