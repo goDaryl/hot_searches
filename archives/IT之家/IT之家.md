@@ -57,3 +57,5 @@
 
 + [小米 6A USB4 编织高速数据线上市：1 米长度、支持 240W 快充，99 元](https://m.ithome.com/html/768049.htm)
 
++ [苹果新 iPad Air / Pro 配电池健康选项：显示循环计数、支持 80% 充电限制](https://m.ithome.com/html/767978.htm)
+
