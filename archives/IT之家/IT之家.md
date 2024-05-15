@@ -59,3 +59,5 @@
 
 + [苹果新 iPad Air / Pro 配电池健康选项：显示循环计数、支持 80% 充电限制](https://m.ithome.com/html/767978.htm)
 
++ [4799 元起，华为 nova12 Ultra 星耀版手机售价公布](https://m.ithome.com/html/768151.htm)
+

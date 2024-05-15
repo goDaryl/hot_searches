@@ -267,3 +267,5 @@
 
 + [《Fight Life: Vanguard》Steam上线 中世幻想风战棋](https://www.3dmgame.com/news/202405/3895051.html)
 
++ [苹果挤爆牙膏！iPhone升级路线图：12G内存 折叠屏来了](https://www.3dmgame.com/news/202405/3895054.html)
+
