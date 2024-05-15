@@ -273,3 +273,11 @@
 
 + [2022年重启版《黑道圣徒》销量可能是系列最低的](https://www.3dmgame.com/news/202405/3895056.html)
 
++ [电竞世界杯：《彩虹六号：围攻》总奖金200万美元](https://www.3dmgame.com/news/202405/3895059.html)
+
++ [《超女：明日之女》定档2026年6月 《龙之家族》女星主演](https://www.3dmgame.com/news/202405/3895060.html)
+
++ [索尼：PS5销量将逐年下滑 PS商业模式自PS4以来已经发生重大转变](https://www.3dmgame.com/news/202405/3895058.html)
+
++ [联发科携手英伟达开发Arm处理器 计划2025年发布](https://www.3dmgame.com/news/202405/3895057.html)
+
