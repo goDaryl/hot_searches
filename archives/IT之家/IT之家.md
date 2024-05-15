@@ -25,3 +25,5 @@
 
 + [比亚迪发布首款新能源皮卡 SHARK：NEDC 续航 840KM，899980 比索起售](https://m.ithome.com/html/767970.htm)
 
++ [小米 45W GaN 小布丁充电器套装上架：USB-C，首发价 59 元](https://m.ithome.com/html/768044.htm)
+
