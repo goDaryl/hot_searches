@@ -49,3 +49,5 @@
 
 + [FreeBuf早报 | 23年中国IT安全软件市场同比增长4.7%；新漏洞太多让NVD面临崩溃](https://www.freebuf.com/news/400915.html)
 
++ [知名企业家个人信息遭大规模泄露，涉多个品牌，平均约2分钱一条！卖家称数据上亿](https://www.freebuf.com/news/400979.html)
+
