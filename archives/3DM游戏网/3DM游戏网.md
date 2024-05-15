@@ -141,3 +141,5 @@
 
 + [《刺客信条：影》短视频和艺术图泄露 男女主角登场](https://www.3dmgame.com/news/202405/3894987.html)
 
++ [《英雄联盟》骄傲月贺图：与LGBT群体一起庆祝](https://www.3dmgame.com/news/202405/3894991.html)
+

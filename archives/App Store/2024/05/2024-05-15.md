@@ -211,3 +211,7 @@
 
 + [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
 
++ [腾讯视频-庆余年第二季全网独播](https://itunes.apple.com/cn/app/id458318329?mt=8)
+
++ [今日头条](https://itunes.apple.com/cn/app/id529092160?mt=8)
+
