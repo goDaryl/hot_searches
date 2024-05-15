@@ -133,3 +133,11 @@
 
 + [Middleware: Open Source Dev Productivity](https://www.producthunt.com/posts/middleware-open-source-dev-productivity)
 
++ [Miitra Analytics](https://www.producthunt.com/posts/miitra-analytics)
+
++ [Productboard AI 2.0](https://www.producthunt.com/posts/productboard-ai-2-0)
+
++ [Jovu by Amplication](https://www.producthunt.com/posts/jovu-by-amplication)
+
++ [Stockle 2.0](https://www.producthunt.com/posts/stockle-2-0)
+
