@@ -111,3 +111,15 @@
 
 + [2099元起 真我GT Neo6首销：骁龙8s Gen3质价比之王](https://www.3dmgame.com/news/202405/3895062.html)
 
++ [《暗黑破坏神4》第4季寻宝重生装备强化玩法升级](https://www.3dmgame.com/news/202405/3895071.html)
+
++ [育碧主创介绍《刺客信条：影》男女双主角](https://www.3dmgame.com/news/202405/3895070.html)
+
++ [微软正式为部分Xbox云游戏添加PC键鼠支持](https://www.3dmgame.com/news/202405/3895069.html)
+
++ [齐藤阳介与横尾太郎及冈部启一合作开发新项目](https://www.3dmgame.com/news/202405/3895068.html)
+
++ [《死灵法师之剑：复活》将于夏末推出](https://www.3dmgame.com/news/202405/3895067.html)
+
++ [育碧官方确认《全境封锁：中心地带》已取消](https://www.3dmgame.com/news/202405/3895066.html)
+

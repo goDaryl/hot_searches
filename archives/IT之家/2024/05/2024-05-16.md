@@ -27,3 +27,7 @@
 
 + [小米 45W GaN 小布丁充电器套装上架：USB-C，首发价 59 元](https://m.ithome.com/html/768044.htm)
 
++ [一汽大众多款车型降价，消息称内部发起“突围行动”：背水一战、向死而生](https://m.ithome.com/html/768192.htm)
+
++ [华为夏季全场景新品发布会 2024 一文汇总：Pura 70 打头阵，电脑平板手表齐登场](https://m.ithome.com/html/768218.htm)
+
