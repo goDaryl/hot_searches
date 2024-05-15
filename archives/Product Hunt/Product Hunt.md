@@ -103,3 +103,31 @@
 
 + [Overboard](https://www.producthunt.com/posts/overboard-2)
 
++ [Gemini 1.5 Flash](https://www.producthunt.com/posts/gemini-1-5-flash)
+
++ [Equals 24](https://www.producthunt.com/posts/equals-24)
+
++ [Ghostly Chat](https://www.producthunt.com/posts/ghostly-chat)
+
++ [Oom](https://www.producthunt.com/posts/oom)
+
++ [Veo](https://www.producthunt.com/posts/veo-3)
+
++ [Jovu (by Amplication)](https://www.producthunt.com/posts/jovu-by-amplication)
+
++ [Blocks](https://www.producthunt.com/posts/blocks-e659617c-f661-4ec1-bd0a-5b7b2bf417a1)
+
++ [Open Source Productivity Intelligence](https://www.producthunt.com/posts/open-source-productivity-intelligence)
+
++ [TapScanner - The Everything Scanner](https://www.producthunt.com/posts/tapscanner-the-everything-scanner)
+
++ [TopicRanker](https://www.producthunt.com/posts/topicranker)
+
++ [Warmy.io](https://www.producthunt.com/posts/warmy-io-2)
+
++ [Glitter AI](https://www.producthunt.com/posts/glitter-ai)
+
++ [ThriveStack v0.1](https://www.producthunt.com/posts/thrivestack-v0-1)
+
++ [Receipt-AI](https://www.producthunt.com/posts/receipt-ai-1)
+

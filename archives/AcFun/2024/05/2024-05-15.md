@@ -87,3 +87,9 @@
 
 + [【热辣喵九】你只活一次，对吗？](http://www.acfun.cn/v/ac44543179)
 
++ [【千璃Senri】天下的乌鸦一般黑](http://www.acfun.cn/v/ac44546824)
+
++ [染上你的颜色【在海边】](http://www.acfun.cn/v/ac44541463)
+
++ [【柯基】影视金曲｜1980版《上海滩》主题曲](http://www.acfun.cn/v/ac44544210)
+
