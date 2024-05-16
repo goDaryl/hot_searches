@@ -155,3 +155,17 @@
 
 + [《刺客信条：影》规模与《起源》相似 体验极佳](https://www.3dmgame.com/news/202405/3895081.html)
 
++ [包括育碧上海成都 《刺客信条：影》工作室多达16家](https://www.3dmgame.com/news/202405/3895088.html)
+
++ [光谱资讯经典游戏《梦幻四驱车》Steam页面上线 5月30日发售](https://www.3dmgame.com/news/202405/3895089.html)
+
++ [二战背景RTS游戏《战争之人2》正式推出 Steam评价褒贬不一](https://www.3dmgame.com/news/202405/3895091.html)
+
++ [《MULLET MADJACK》登陆Steam 动画渲染快节奏FPS](https://www.3dmgame.com/news/202405/3895090.html)
+
++ [《刺客信条：影》可让玩家打造自己的间谍网](https://www.3dmgame.com/news/202405/3895092.html)
+
++ [Steam限时优惠：《美女，应接不暇》AI女友等你来探索](https://www.3dmgame.com/news/202405/3895093.html)
+
++ [真人恋爱互动游戏《怦然心动的她们》Steam页面上线 游戏发售日期待定](https://www.3dmgame.com/news/202405/3895095.html)
+
