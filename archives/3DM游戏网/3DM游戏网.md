@@ -287,3 +287,9 @@
 
 + [4月欧洲销量榜：《辐射4》登顶 《星刃》第九](https://www.3dmgame.com/news/202405/3895153.html)
 
++ [传AMD下一代移动处理器不再支持Win10](https://www.3dmgame.com/news/202405/3895156.html)
+
++ [《对马岛之鬼》PC版登顶Steam全球销量榜](https://www.3dmgame.com/news/202405/3895155.html)
+
++ [电影局：将加大引进外国电影的力度](https://www.3dmgame.com/news/202405/3895154.html)
+
