@@ -49,3 +49,11 @@
 
 + [华为与成都高投等完成对鼎桥通信的收购，诺基亚全面退出](https://m.ithome.com/html/768149.htm)
 
++ [【IT之家开箱】华为 MatePad Pro 13.2 英寸「罗兰紫」图赏：首发预装天生会画 App，无边大屏赋能绘画创作体验](https://m.ithome.com/html/768176.htm)
+
++ [今晚国内油价迎“两连降”，加满一箱 92 号汽油将少花 9 元](https://m.ithome.com/html/768186.htm)
+
++ [12306 回应火车票改签也要收手续费：为打击黄牛囤票及退票漏洞](https://m.ithome.com/html/768331.htm)
+
++ [昇腾社区回应发布会演示造假：现场图片为实时生成，展示均为真实代码](https://m.ithome.com/html/768396.htm)
+
