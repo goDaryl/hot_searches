@@ -59,3 +59,7 @@
 
 + [安全测试 | 探索windows游戏扫雷](https://www.freebuf.com/consult/399353.html)
 
++ [信息安全管理 | 应用系统安全管理](https://www.freebuf.com/articles/web/399234.html)
+
++ [警惕，Foxit PDF 阅读器存在设计”缺陷“](https://www.freebuf.com/news/401073.html)
+
