@@ -65,3 +65,7 @@
 
 + [龙芯中科：已有整机企业前来协商，希望为龙芯 3A6000 + 鸿蒙的桌面计算机提供支持](https://m.ithome.com/html/768216.htm)
 
++ [反向虚标？华为 MatePad 11.5''S 柔光版平板官宣 22.5W 快充，实际 66W](https://m.ithome.com/html/768352.htm)
+
++ [李佳琦谈 2024 年 618：今年大促难但要逼自己一把](https://m.ithome.com/html/768461.htm)
+
