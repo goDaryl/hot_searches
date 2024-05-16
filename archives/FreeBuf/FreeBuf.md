@@ -51,3 +51,9 @@
 
 + [深度剖析LLMjacking：针对云托管AI大模型服务的新型攻击](https://www.freebuf.com/articles/neopoints/400719.html)
 
++ [臭名昭著的黑客论坛BreachForums再遭FBI重锤](https://www.freebuf.com/news/401089.html)
+
++ [安全保护强势升级！安卓系统即将推出全新防盗、数据保护功能](https://www.freebuf.com/news/401064.html)
+
++ [《湖南省工业和信息化领域网络安全和数据安全管理支撑服务工作管理办法》发布](https://www.freebuf.com/news/401053.html)
+
