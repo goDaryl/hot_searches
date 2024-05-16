@@ -105,3 +105,9 @@
 
 + [Hold shift to run – t-shrit print](https://dribbble.com/shots/)
 
++ [Gazing Through the Gale](https://dribbble.com/shots/)
+
++ [Can Art Be Objective? See Caption](https://dribbble.com/shots/)
+
++ [Visit Florida Lettering for Tourism videos](https://dribbble.com/shots/)
+

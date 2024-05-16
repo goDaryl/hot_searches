@@ -33,3 +33,7 @@
 
 + [首款 2K 档麒麟 9000WL，消息称华为 MatePad 11.5"S 灵动款平板处理器与柔光版一致](https://m.ithome.com/html/768252.htm)
 
++ [苹果高管：“平板电脑很烂，但 iPad 除外”](https://m.ithome.com/html/768251.htm)
+
++ [用户反映苹果 iOS 17.5 存 Bug，数年前已删除照片竟“复活”](https://m.ithome.com/html/768235.htm)
+

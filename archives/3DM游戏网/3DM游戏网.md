@@ -141,3 +141,17 @@
 
 + [《陀螺战士》新作公开 11月登陆任天堂Switch](https://www.3dmgame.com/news/202405/3895072.html)
 
++ [育碧希望重返开放世界游戏领导地位：我们已重回正轨](https://www.3dmgame.com/news/202405/3895085.html)
+
++ [《鬼灭之刃 争当最强队士！》Steam预购开启 国区售价218元](https://www.3dmgame.com/news/202405/3895086.html)
+
++ [系列首次！《刺客信条：影》或将需要全程联网才能游玩](https://www.3dmgame.com/news/202405/3895087.html)
+
++ [PS Plus五月二档、三档游戏：《荒野大镖客2》、《法外枭雄：滚石城》等](https://www.3dmgame.com/news/202405/3895084.html)
+
++ [《古惑狼》开发商暗示新作 也有可能是《小龙斯派罗》](https://www.3dmgame.com/news/202405/3895083.html)
+
++ [ARPG《寻路者》Steam重新上架 不再需要全程联网](https://www.3dmgame.com/news/202405/3895082.html)
+
++ [《刺客信条：影》规模与《起源》相似 体验极佳](https://www.3dmgame.com/news/202405/3895081.html)
+

@@ -43,3 +43,5 @@
 
 + [LLMjacking：针对云托管AI大模型服务的新型攻击](https://www.freebuf.com/articles/neopoints/400719.html)
 
++ [FreeBuf早报 | FTC 对汽车制造商发出警告；日产汽车公司遭攻击](https://www.freebuf.com/news/401023.html)
+
