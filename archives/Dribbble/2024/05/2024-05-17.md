@@ -81,3 +81,9 @@
 
 + [Cutie Patootie](https://dribbble.com/shots/)
 
++ [Paris City Guide Web Design](https://dribbble.com/shots/)
+
++ [The Original Trilogy](https://dribbble.com/shots/)
+
++ [Gazing Through the Gale](https://dribbble.com/shots/)
+
