@@ -47,3 +47,7 @@
 
 + [筑牢数据安全防线：全面解读会《计师事务所数据安全管理暂行办法》](https://www.freebuf.com/articles/neopoints/400533.html)
 
++ [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
+
++ [深度剖析LLMjacking：针对云托管AI大模型服务的新型攻击](https://www.freebuf.com/articles/neopoints/400719.html)
+
