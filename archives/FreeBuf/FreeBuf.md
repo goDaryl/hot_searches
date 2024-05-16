@@ -41,3 +41,5 @@
 
 + [黑客利用DNS隧道技术扫描漏洞并实施攻击](https://www.freebuf.com/news/400844.html)
 
++ [LLMjacking：针对云托管AI大模型服务的新型攻击](https://www.freebuf.com/articles/neopoints/400719.html)
+
