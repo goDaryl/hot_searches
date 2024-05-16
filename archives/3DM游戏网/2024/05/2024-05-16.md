@@ -201,3 +201,17 @@
 
 + [欧洲4月销量榜：没有新作大作 PC和主机游戏销量放缓](https://www.3dmgame.com/news/202405/3895106.html)
 
++ [苹果公司：除了我们的iPad 其余平板产品烂到不行](https://www.3dmgame.com/news/202405/3895117.html)
+
++ [《凡人修仙传》剧版新海报 杨洋版韩立踏山而来](https://www.3dmgame.com/news/202405/3895112.html)
+
++ [《我的世界》庆祝15周年 系列游戏全平台优惠促销](https://www.3dmgame.com/news/202405/3895113.html)
+
++ [三消肉鸽游戏《霓虹乡》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202405/3895114.html)
+
++ [三上真司超好评名作《完美音浪》迎来最终更新 官方致谢](https://www.3dmgame.com/news/202405/3895115.html)
+
++ [英国回应玩家“停止杀死老游戏”请愿：没违法管不了](https://www.3dmgame.com/news/202405/3895116.html)
+
++ [电影《美国内战》国内定档 6月7日上映](https://www.3dmgame.com/news/202405/3895105.html)
+
