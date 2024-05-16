@@ -49,3 +49,23 @@
 
 + [Blue Like Jay](https://dribbble.com/shots/)
 
++ [El Gran Cinco de Mayo](https://dribbble.com/shots/)
+
++ [Paris City Guide Article Page](https://dribbble.com/shots/)
+
++ [Apex Legends S12 - Case Study](https://dribbble.com/shots/)
+
++ [Couple walking](https://dribbble.com/shots/)
+
++ [Jake's Carribean Rum](https://dribbble.com/shots/)
+
++ [Framework](https://dribbble.com/shots/)
+
++ [Mouse in the boat](https://dribbble.com/shots/)
+
++ [Bootsy Collins Lettering](https://dribbble.com/shots/)
+
++ [Soda Can Design - Beverage Packaging????](https://dribbble.com/shots/)
+
++ [Flatley Whiskey](https://dribbble.com/shots/)
+
