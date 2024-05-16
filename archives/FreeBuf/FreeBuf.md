@@ -65,3 +65,5 @@
 
 + [一个月副业收入过万？这位师傅真的好会搞钱](https://www.freebuf.com/articles/others-articles/401112.html)
 
++ [BobTheSmuggler：基于HTML Smuggling技术创建包含嵌入式压缩文档的HTML文件](https://www.freebuf.com/sectool/400557.html)
+

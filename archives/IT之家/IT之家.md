@@ -45,3 +45,7 @@
 
 + [（更新：麒麟 9000WM）首款 2K 档麒麟 9000WL，消息称华为 MatePad 11.5"S 灵动款平板处理器与柔光版一致](https://m.ithome.com/html/768252.htm)
 
++ [华为 WATCH FIT 3 智能手表发布：1.82 英寸 AMOLED 方屏，999 元起](https://m.ithome.com/html/768139.htm)
+
++ [华为与成都高投等完成对鼎桥通信的收购，诺基亚全面退出](https://m.ithome.com/html/768149.htm)
+
