@@ -49,3 +49,5 @@
 
 + [马王堆汉墓考古 AI 修复，“东方睡美人”辛追重现](https://m.ithome.com/html/768675.htm)
 
++ [华为余承东：问界新 M7 Max 焕新版开启预订，预售价 29.8 万起](https://m.ithome.com/html/768612.htm)
+
