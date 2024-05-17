@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 超百亿元投资与网络安全相关；Foxit PDF 阅读器存在设计“缺陷”](https://www.freebuf.com/news/401146.html)
 
++ [信息安全管 | 企业端点与主机安全](https://www.freebuf.com/articles/endpoint/400836.html)
+

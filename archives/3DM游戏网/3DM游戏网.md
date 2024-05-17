@@ -141,3 +141,15 @@
 
 + [《刺客信条：影》被贴上“觉醒文化 无礼”标签 众人抵制](https://www.3dmgame.com/news/202405/3895174.html)
 
++ [育碧股价暴跌15% 新财年开局不利](https://www.3dmgame.com/news/202405/3895186.html)
+
++ [沙盒经营模拟游戏《制片人》Steam页面上线 支持简中](https://www.3dmgame.com/news/202405/3895185.html)
+
++ [《刺客信条：影》有季节变化 每个季节的玩法各不相同](https://www.3dmgame.com/news/202405/3895184.html)
+
++ [《碧海黑帆》第二赛季计划公开：将有新的PvE和单人模式](https://www.3dmgame.com/news/202405/3895183.html)
+
++ [《地心护核者》正式版8月27日发售 登陆PC和主机](https://www.3dmgame.com/news/202405/3895182.html)
+
++ [育碧公布《不羁联盟》PC配置需求及全新宣传片 最低要求GTX 1050Ti](https://www.3dmgame.com/news/202405/3895181.html)
+
