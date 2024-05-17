@@ -199,3 +199,11 @@
 
 + [大佬为Switch安装Win 11系统 操作一次卡顿10秒](https://www.3dmgame.com/news/202405/3895206.html)
 
++ [《方舟》开发商Wildcard工作室裁员 承诺不会影响新作开发](https://www.3dmgame.com/news/202405/3895213.html)
+
++ [V社新作《Deadlock》大量内容泄露 6v6第三人称英雄射击游戏](https://www.3dmgame.com/news/202405/3895211.html)
+
++ [法米通删除《刺客信条：影》总监称呼弥助为“我们的武士”言论](https://www.3dmgame.com/news/202405/3895212.html)
+
++ [《纸嫁衣7》PV首曝 官方预约现已开启](https://www.3dmgame.com/news/202405/3895210.html)
+
