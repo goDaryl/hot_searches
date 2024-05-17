@@ -127,3 +127,17 @@
 
 + [游戏收藏达人樱井政博分享全方位游戏收纳秘籍](https://www.3dmgame.com/news/202405/3895170.html)
 
++ [《暗区突围：无限》反作弊更新 2千多个账号被封10年](https://www.3dmgame.com/news/202405/3895179.html)
+
++ [《庄园领主》销量现已超过200万套](https://www.3dmgame.com/news/202405/3895178.html)
+
++ [《玩具熊的五夜后宫2》定档 明年12月5日北美上映](https://www.3dmgame.com/news/202405/3895180.html)
+
++ [2024年夏日游戏节参展厂商公布 包含腾讯、网易、米哈游等](https://www.3dmgame.com/news/202405/3895177.html)
+
++ [夏日游戏节官方透露 2K将在展会中宣布其最大、最受欢迎系列之一的新作](https://www.3dmgame.com/news/202405/3895176.html)
+
++ [传微软强迫Xbox更多游戏登陆对手平台 不设红线](https://www.3dmgame.com/news/202405/3895175.html)
+
++ [《刺客信条：影》被贴上“觉醒文化 无礼”标签 众人抵制](https://www.3dmgame.com/news/202405/3895174.html)
+
