@@ -255,3 +255,7 @@
 
 + [《碧蓝幻想》开发商Cygames在新加坡成立子公司 扩展海外业务](https://www.3dmgame.com/news/202405/3895233.html)
 
++ [华硕ROG NUC迷你游戏PC上架 首发11999元起](https://www.3dmgame.com/news/202405/3895239.html)
+
++ [育碧计划使用AI 打造更有活力和更丰富的游戏](https://www.3dmgame.com/news/202405/3895240.html)
+
