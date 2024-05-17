@@ -185,3 +185,17 @@
 
 + [EA将《不朽者传奇》100%未来收入全部转给开发商](https://www.3dmgame.com/news/202405/3895199.html)
 
++ [Remedy首席财务官离开公司 寻找新的机遇](https://www.3dmgame.com/news/202405/3895207.html)
+
++ [《疯狂的麦克斯：狂暴女神》中国内地定档预告 6月7日上映](https://www.3dmgame.com/news/202405/3895208.html)
+
++ [迅雷最新会员数公布 一年暴增19% 成迅雷最赚钱业务](https://www.3dmgame.com/news/202405/3895209.html)
+
++ [Phoenix Labs取消距离抢先体验发布“仅剩几周”新作](https://www.3dmgame.com/news/202405/3895203.html)
+
++ [《匹诺曹的谎言》DLC扩展包将在今年下半年发售](https://www.3dmgame.com/news/202405/3895204.html)
+
++ [《星之卡比：新星同盟》国行版5月23日发售 定价249元](https://www.3dmgame.com/news/202405/3895205.html)
+
++ [大佬为Switch安装Win 11系统 操作一次卡顿10秒](https://www.3dmgame.com/news/202405/3895206.html)
+
