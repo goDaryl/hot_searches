@@ -223,3 +223,15 @@
 
 + [“Key社”启航点《Kanon》Steam页面 支持简中](https://www.3dmgame.com/news/202405/3895214.html)
 
++ [苹果iPhone 7音频门落幕：用户最高可获得349美元赔偿](https://www.3dmgame.com/news/202405/3895228.html)
+
++ [《星刃》更换服装似乎也让女主身体改变：更翘更大](https://www.3dmgame.com/news/202405/3895227.html)
+
++ [《我的世界》与谷歌合作庆祝15周年 搜索藏彩蛋变游戏](https://www.3dmgame.com/news/202405/3895226.html)
+
++ [《星露谷物语》千万销量获得巨大成功 作者生活方式并未改变](https://www.3dmgame.com/news/202405/3895225.html)
+
++ [R星员工领英个人资料显示：《GTA6》PC版确实存在](https://www.3dmgame.com/news/202405/3895224.html)
+
++ [落沙游戏《沙盒中的沙子》Steam页面 支持简繁中文](https://www.3dmgame.com/news/202405/3895223.html)
+
