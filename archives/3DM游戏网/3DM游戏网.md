@@ -169,3 +169,19 @@
 
 + [《麦登橄榄球25》预购开启 本体售价348元](https://www.3dmgame.com/news/202405/3895190.html)
 
++ [《机械恋心》Steam页面上线 5月发售](https://www.3dmgame.com/news/202405/3895200.html)
+
++ [定格动画风格探索游戏《温馨马车》 现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202405/3895201.html)
+
++ [日本三大汽车厂商联手 丰田、日产和本田开发汽车软件](https://www.3dmgame.com/news/202405/3895202.html)
+
++ [《一钉能赢》Steam页面 游戏支持简繁体中文](https://www.3dmgame.com/news/202405/3895195.html)
+
++ [互动剧神作？AI+真人互动影游《美女，应接不暇》口碑爆棚，这代入感实在太强了！](https://www.3dmgame.com/news/202405/3895196.html)
+
++ [《碧蓝幻想Versus：Rising》新DLC角色“贝雅特丽丝”预告 5月23日上线](https://www.3dmgame.com/news/202405/3895197.html)
+
++ [《美国队长4》主要演员表示 漫威电影将是一部基于现实的超级英雄电影](https://www.3dmgame.com/news/202405/3895198.html)
+
++ [EA将《不朽者传奇》100%未来收入全部转给开发商](https://www.3dmgame.com/news/202405/3895199.html)
+
