@@ -87,3 +87,7 @@
 
 + [Trentino, Italy](https://dribbble.com/shots/)
 
++ [Interconnected world](https://dribbble.com/shots/)
+
++ [THGT merch design](https://dribbble.com/shots/)
+
