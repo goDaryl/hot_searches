@@ -41,3 +41,5 @@
 
 + [筑牢数据安全防线：深入解读《会计师事务所数据安全管理暂行办法》](https://www.freebuf.com/articles/neopoints/400533.html)
 
++ [高可用隔离原则实践经验探讨](https://www.freebuf.com/news/399175.html)
+
