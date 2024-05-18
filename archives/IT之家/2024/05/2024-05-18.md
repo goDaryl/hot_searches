@@ -63,3 +63,7 @@
 
 + [被 Adobe 威胁后，苹果 iOS 版游戏模拟器“Delta”宣布更新应用图标](https://m.ithome.com/html/768878.htm)
 
++ [6999 元 → 5599 元：三星 Galaxy S24+ 手机 256G 版京东百亿补贴](https://m.ithome.com/html/768923.htm)
+
++ [荣耀 200 系列真机公布：阳光下具有不同纹理， 5 月 27 日发布](https://m.ithome.com/html/768956.htm)
+

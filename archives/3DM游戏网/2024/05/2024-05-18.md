@@ -175,3 +175,5 @@
 
 + [《暗黑4》Steam评价好转 现已是“多半好评”](https://www.3dmgame.com/news/202405/3895280.html)
 
++ [消息称特斯拉寻求在华建立数据中心，用于 FSD 完全自动驾驶](https://www.3dmgame.com/news/202405/3895284.html)
+
