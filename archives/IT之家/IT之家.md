@@ -33,3 +33,7 @@
 
 + [华为鸿蒙 HarmonyOS 系统可通过描述文件安装“企业内部应用”](https://m.ithome.com/html/768843.htm)
 
++ [网易 UU 加速棒发布：Type-C、独立 Wi-Fi 发射，首发价 98 元](https://m.ithome.com/html/768835.htm)
+
++ [35 亿欧元，西门子出售电机和大型传动业务](https://m.ithome.com/html/768783.htm)
+
