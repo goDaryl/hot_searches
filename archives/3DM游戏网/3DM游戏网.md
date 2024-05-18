@@ -151,3 +151,5 @@
 
 + [《艾尔登法环》制作人公开DLC新地点截图 神似《血源》](https://www.3dmgame.com/news/202405/3895269.html)
 
++ [坤哥：Epic大促第二部免费游戏线索 或是《模拟农场22》](https://www.3dmgame.com/news/202405/3895272.html)
+
