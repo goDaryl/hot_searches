@@ -49,3 +49,7 @@
 
 + [企业暴露面收敛管理](https://www.freebuf.com/sectool/392639.html)
 
++ [等保2.0系列安全计算环境之达梦DM8](https://www.freebuf.com/articles/security-management/282890.html)
+
++ [攻击者通过 Minecraft 包传播窃密程序](https://www.freebuf.com/articles/network/400337.html)
+
