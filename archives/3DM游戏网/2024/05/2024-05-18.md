@@ -167,3 +167,11 @@
 
 + [长江存储推出商用消费级QLC SSD 最大2TB](https://www.3dmgame.com/news/202405/3895279.html)
 
++ [《生化危机1：重制版》首批细节 节奏将比2代更慢](https://www.3dmgame.com/news/202405/3895283.html)
+
++ [索尼影业CEO：《毒液3》将是系列最后一部电影](https://www.3dmgame.com/news/202405/3895282.html)
+
++ [全新《笑傲江湖》电影官宣 王晶监制](https://www.3dmgame.com/news/202405/3895281.html)
+
++ [《暗黑4》Steam评价好转 现已是“多半好评”](https://www.3dmgame.com/news/202405/3895280.html)
+
