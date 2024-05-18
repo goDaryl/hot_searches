@@ -165,3 +165,5 @@
 
 + [雷军在杭州亲自交付小米SU7：握手鞠躬感谢车主](https://www.3dmgame.com/news/202405/3895273.html)
 
++ [长江存储推出商用消费级QLC SSD 最大2TB](https://www.3dmgame.com/news/202405/3895279.html)
+
