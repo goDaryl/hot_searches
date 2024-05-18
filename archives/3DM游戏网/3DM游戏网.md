@@ -109,3 +109,7 @@
 
 + [《逃离塔科夫》封禁3万作弊账号 解决痛点亡羊补牢？](https://www.3dmgame.com/news/202405/3895251.html)
 
++ [《刺客信条：影》日版预告被差评轰炸 超2.4万差评](https://www.3dmgame.com/news/202405/3895252.html)
+
++ [传闻：下一部Xbox主机或将于2026年推出](https://www.3dmgame.com/news/202405/3895253.html)
+

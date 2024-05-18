@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | 曝iOS 17.5自动恢复已删数年的照片；安卓将推数据保护新功能](https://www.freebuf.com/news/401265.html)
 
++ [Apache Zeppelin命令执行漏洞深入分析及1Day PoC放漏](https://www.freebuf.com/vuls/399695.html)
+
