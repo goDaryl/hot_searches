@@ -77,3 +77,5 @@
 
 + [选择你的游戏姬！](http://www.acfun.cn/v/ac44581169)
 
++ [qyq锐评冠军泰坦（TT）](http://www.acfun.cn/v/ac44580534)
+
