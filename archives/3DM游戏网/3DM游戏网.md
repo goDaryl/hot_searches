@@ -133,3 +133,9 @@
 
 + [类魂ARPG《艾诺提亚：失落之歌》5月22日发布试玩](https://www.3dmgame.com/news/202405/3895299.html)
 
++ [部分《纸片马里奥：千年之门》玩家预购订单被取消](https://www.3dmgame.com/news/202405/3895303.html)
+
++ [特斯拉将在中国建自驾数据中心 还要采用N卡先进芯片](https://www.3dmgame.com/news/202405/3895301.html)
+
++ [《Dino Dino》登陆Steam 恐龙知识科普游戏](https://www.3dmgame.com/news/202405/3895302.html)
+
