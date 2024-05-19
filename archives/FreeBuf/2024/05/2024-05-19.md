@@ -43,3 +43,5 @@
 
 + [Telegram汉化暗藏玄机，悄无声息释放后门病毒](https://www.freebuf.com/articles/paper/400961.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/401271.html)
+
