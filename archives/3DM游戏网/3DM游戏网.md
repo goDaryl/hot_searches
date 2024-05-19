@@ -159,3 +159,5 @@
 
 + [两款日式RPG游戏开启众筹并获得成功 解锁延伸目标](https://www.3dmgame.com/news/202405/3895312.html)
 
++ [《妖精的尾巴》人气角色妖精女王新手办 幽绝之铠美艳酷炫](https://www.3dmgame.com/news/202405/3895314.html)
+
