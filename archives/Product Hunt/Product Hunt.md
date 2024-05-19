@@ -117,3 +117,9 @@
 
 + [ANDRE](https://www.producthunt.com/posts/andre)
 
++ [PodPrep](https://www.producthunt.com/posts/podprep)
+
++ [Extra Blu](https://www.producthunt.com/posts/extra-blu)
+
++ [Magic Bookshelf - AI Stories](https://www.producthunt.com/posts/magic-bookshelf-ai-stories)
+
