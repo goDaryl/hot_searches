@@ -49,3 +49,25 @@
 
 + [✨ Soon...](https://dribbble.com/shots/)
 
++ [The Walrus - Bacteriophages](https://dribbble.com/shots/)
+
++ [Wild & Noble - Full Preview](https://dribbble.com/shots/)
+
++ [save](https://dribbble.com/shots/)
+
++ [THGT merch design](https://dribbble.com/shots/)
+
++ [Mid-Century Inspired Cocktail Illustrations](https://dribbble.com/shots/)
+
++ [Flatley Whiskey](https://dribbble.com/shots/)
+
++ [Slurp](https://dribbble.com/shots/)
+
++ [Playola logo design](https://dribbble.com/shots/)
+
++ [Stay For Long Custom illustrations](https://dribbble.com/shots/)
+
++ [Jake's Carribean Rum](https://dribbble.com/shots/)
+
++ [Bitesized Mascots](https://dribbble.com/shots/)
+
