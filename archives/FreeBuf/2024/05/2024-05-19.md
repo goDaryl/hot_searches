@@ -45,3 +45,7 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/401271.html)
 
++ [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
+
++ [警惕来自Timitator组织RUST特马的攻击](https://www.freebuf.com/articles/network/401183.html)
+
