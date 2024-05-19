@@ -155,3 +155,7 @@
 
 + [经典PC《PasocomMini PC-8801》迷你版公开 手掌大小](https://www.3dmgame.com/news/202405/3895308.html)
 
++ [复旦大学复活冷冻18个月人脑 网友惊叹三体成真](https://www.3dmgame.com/news/202405/3895313.html)
+
++ [两款日式RPG游戏开启众筹并获得成功 解锁延伸目标](https://www.3dmgame.com/news/202405/3895312.html)
+

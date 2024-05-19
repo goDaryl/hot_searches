@@ -123,3 +123,5 @@
 
 + [Magic Bookshelf - AI Stories](https://www.producthunt.com/posts/magic-bookshelf-ai-stories)
 
++ [OmniJobs](https://www.producthunt.com/posts/omnijobs)
+
