@@ -129,3 +129,7 @@
 
 + [《椅子》登陆PC平台 奇葩主角异次元动作游戏](https://www.3dmgame.com/news/202405/3895294.html)
 
++ [世嘉相关爆料人发帖推测任天堂NS2主机开发代号](https://www.3dmgame.com/news/202405/3895300.html)
+
++ [类魂ARPG《艾诺提亚：失落之歌》5月22日发布试玩](https://www.3dmgame.com/news/202405/3895299.html)
+
