@@ -51,3 +51,7 @@
 
 + [“匿铲”挖矿木马活动分析](https://www.freebuf.com/articles/network/400715.html)
 
++ [舍友服务器被入侵的一次复盘演练记录](https://www.freebuf.com/articles/web/376495.html)
+
++ [Pip3line：针对RawBytes修改和拦截的“瑞士军刀”](https://www.freebuf.com/sectool/400558.html)
+

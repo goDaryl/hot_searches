@@ -101,3 +101,19 @@
 
 + [Features.Vote](https://www.producthunt.com/posts/features-vote)
 
++ [ChatPlayground AI](https://www.producthunt.com/posts/chatplayground-ai)
+
++ [User Evaluation AI](https://www.producthunt.com/posts/user-evaluation-ai)
+
++ [Free Resume Review!](https://www.producthunt.com/posts/free-resume-review)
+
++ [Hepl](https://www.producthunt.com/posts/hepl)
+
++ [Clicks.so](https://www.producthunt.com/posts/clicks-so)
+
++ [Magicam](https://www.producthunt.com/posts/magicam-2)
+
++ [BlissCompass](https://www.producthunt.com/posts/blisscompass)
+
++ [ANDRE](https://www.producthunt.com/posts/andre)
+
