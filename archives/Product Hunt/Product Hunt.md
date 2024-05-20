@@ -131,3 +131,13 @@
 
 + [Edde AI](https://www.producthunt.com/posts/edde-ai)
 
++ [Formatify](https://www.producthunt.com/posts/formatify)
+
++ [YouTube Simplified](https://www.producthunt.com/posts/youtube-simplified)
+
++ [Jib](https://www.producthunt.com/posts/jib)
+
++ [Webstudio CMS](https://www.producthunt.com/posts/webstudio-cms)
+
++ [Iterate](https://www.producthunt.com/posts/iterate-3)
+

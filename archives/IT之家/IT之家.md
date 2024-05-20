@@ -49,3 +49,7 @@
 
 + [组台电脑成本越来越高：除 CPU / GPU 之外，内存和固态硬盘价格也疯涨](https://m.ithome.com/html/769150.htm)
 
++ [京东小时达官宣升级为“秒送”，号称“最快 9 分钟”送达](https://m.ithome.com/html/769156.htm)
+
++ [魅族 21 Note 手机今日开售：骁龙 8 Gen 2 处理器，售价 2599 元起](https://m.ithome.com/html/769133.htm)
+
