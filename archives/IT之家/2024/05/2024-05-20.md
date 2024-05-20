@@ -53,3 +53,9 @@
 
 + [魅族 21 Note 手机今日开售：骁龙 8 Gen 2 处理器，售价 2599 元起](https://m.ithome.com/html/769133.htm)
 
++ [消息称华为鸿蒙 HarmonyOS NEXT 系统内部排期 9 月，全场景新品将至](https://m.ithome.com/html/769293.htm)
+
++ [小鱼到太空后游泳都找不着北了，中国空间站 4 条斑马鱼状态良好](https://m.ithome.com/html/769154.htm)
+
++ [限时 4 小时百亿补贴：Redmi K70 手机 12G 版 1999 元大促（减 500 元）](https://m.ithome.com/html/769159.htm)
+
