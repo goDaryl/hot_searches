@@ -101,3 +101,7 @@
 
 + [Features.Vote](https://www.producthunt.com/posts/features-vote)
 
++ [Hoop.dev for Databases](https://www.producthunt.com/posts/hoop-dev-for-databases)
+
++ [TestSprite Beta](https://www.producthunt.com/posts/testsprite-beta)
+

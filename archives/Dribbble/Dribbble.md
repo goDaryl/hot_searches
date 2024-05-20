@@ -49,3 +49,25 @@
 
 + [Online Shop](https://dribbble.com/shots/)
 
++ [El Gran Cinco de Mayo](https://dribbble.com/shots/)
+
++ [McQueen Racing Merch](https://dribbble.com/shots/)
+
++ [r.e.m. beauty: Hypernova Hotel](https://dribbble.com/shots/)
+
++ [save](https://dribbble.com/shots/)
+
++ [St. John the Beloved Tertiary Logo](https://dribbble.com/shots/)
+
++ [Chum Bucket pattern](https://dribbble.com/shots/)
+
++ [????✏️????](https://dribbble.com/shots/)
+
++ [The Avery • Kitchen & Bar](https://dribbble.com/shots/)
+
++ [Trentino, Italy](https://dribbble.com/shots/)
+
++ [Wake Love – lettering for a poster and stickers](https://dribbble.com/shots/)
+
++ [The Original Trilogy](https://dribbble.com/shots/)
+
