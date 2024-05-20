@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 欧洲银行巨头数据泄露；首届全球网安能力建设高级别圆桌会议举办](https://www.freebuf.com/news/401188.html)
 
++ [深度解析 | 大模型原生安全](https://www.freebuf.com/articles/network/400726.html)
+
