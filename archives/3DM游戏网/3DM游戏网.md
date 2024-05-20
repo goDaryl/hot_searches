@@ -131,3 +131,17 @@
 
 + [粉丝为《胆小狗英雄》制作改编游戏效果不错](https://www.3dmgame.com/news/202405/3895337.html)
 
++ [玩家发现《原神》有趣BUG 神里绫人变成超辉光女神](https://www.3dmgame.com/news/202405/3895340.html)
+
++ [索尼电影集团董事长：《塞尔达传说》电影对我们意义重大](https://www.3dmgame.com/news/202405/3895341.html)
+
++ [《黑神话：悟空》主创谈心路历程：迎难而上不惧困难](https://www.3dmgame.com/news/202405/3895342.html)
+
++ [数据挖掘显示《龙珠：电光火石0》或将10月1日发售](https://www.3dmgame.com/news/202405/3895343.html)
+
++ [IGN发文力挺《刺客信条：影》 亚裔不应只满足当武士](https://www.3dmgame.com/news/202405/3895344.html)
+
++ [《DOTA2》PGL瓦拉几亚S1 Spirit 3-2 XG夺冠](https://www.3dmgame.com/news/202405/3895338.html)
+
++ [《对马岛之鬼》超《战神4》成Steam首发最高的索尼单机游戏](https://www.3dmgame.com/news/202405/3895339.html)
+

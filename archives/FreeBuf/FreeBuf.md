@@ -43,3 +43,5 @@
 
 + [国际货币基金组织警告：网络攻击影响全球金融稳定](https://www.freebuf.com/articles/paper/401299.html)
 
++ [FreeBuf早报 | 欧洲银行巨头数据泄露；首届全球网安能力建设高级别圆桌会议举办](https://www.freebuf.com/news/401188.html)
+
