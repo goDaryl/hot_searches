@@ -129,3 +129,5 @@
 
 + [Track My Videos](https://www.producthunt.com/posts/track-my-videos)
 
++ [Edde AI](https://www.producthunt.com/posts/edde-ai)
+
