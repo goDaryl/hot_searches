@@ -59,3 +59,5 @@
 
 + [限时 4 小时百亿补贴：Redmi K70 手机 12G 版 1999 元大促（减 500 元）](https://m.ithome.com/html/769159.htm)
 
++ [长城董事长魏建军痛批哈弗 H6 营销：完全没有用户思维，不知用户关注什么](https://m.ithome.com/html/769366.htm)
+
