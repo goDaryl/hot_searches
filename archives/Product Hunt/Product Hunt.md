@@ -123,3 +123,9 @@
 
 + [VLLO](https://www.producthunt.com/posts/vllo)
 
++ [HR Integrations by SwagUp](https://www.producthunt.com/posts/hr-integrations-by-swagup)
+
++ [Multi AI Chat](https://www.producthunt.com/posts/multi-ai-chat)
+
++ [Track My Videos](https://www.producthunt.com/posts/track-my-videos)
+
