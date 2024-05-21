@@ -115,3 +115,15 @@
 
 + [《星刃》开发商新作对标《原神》瞄准2027年发售](https://www.3dmgame.com/news/202405/3895405.html)
 
++ [《霍格沃茨之遗》NS版开发商Shiver即将被任天堂收购](https://www.3dmgame.com/news/202405/3895414.html)
+
++ [暴雪总裁称赞《暗黑4》新赛季：重新点燃游戏魔力](https://www.3dmgame.com/news/202405/3895415.html)
+
++ [《暗黑：不朽》新职业“雾刃”背后秘密：为守护而生](https://www.3dmgame.com/news/202405/3895413.html)
+
++ [英伟达介绍《黑神话》特性：支持全景光追DLSS 3.5](https://www.3dmgame.com/news/202405/3895412.html)
+
++ [《星刃》销量超出预期 PC版和续作正在考虑中](https://www.3dmgame.com/news/202405/3895411.html)
+
++ [T2对《GTA6》有信心：游戏将提供前所未有的新体验](https://www.3dmgame.com/news/202405/3895410.html)
+
