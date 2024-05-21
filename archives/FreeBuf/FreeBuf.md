@@ -57,3 +57,5 @@
 
 + [FreeBuf资讯 | 数据违规后需在30天内披露；澳电子处方公司遭遇大规模勒索攻击](https://www.freebuf.com/news/401407.html)
 
++ [Fluent Bit 曝出严重漏洞，影响所有云提供商](https://www.freebuf.com/news/401435.html)
+
