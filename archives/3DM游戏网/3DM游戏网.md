@@ -185,3 +185,13 @@
 
 + [《真女神转生5：复仇》PS版下载大小公布 6月12日开启预载](https://www.3dmgame.com/news/202405/3895440.html)
 
++ [中车四方所联合研发 全球首台耐低温自动加氢机器人完成系统调试](https://www.3dmgame.com/news/202405/3895446.html)
+
++ [《心跳回忆》系列迎来30周年纪念 新情报敬请期待](https://www.3dmgame.com/news/202405/3895448.html)
+
++ [《逃离塔科夫》退款方式再引不满：50美元代金券](https://www.3dmgame.com/news/202405/3895449.html)
+
++ [《征服之歌》登陆Steam 类魔法门英雄无敌回合策略](https://www.3dmgame.com/news/202405/3895447.html)
+
++ [大脚车竞速游戏《大脚车对决》发布新预告 8月29日正式推出](https://www.3dmgame.com/news/202405/3895445.html)
+
