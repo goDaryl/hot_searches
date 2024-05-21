@@ -127,3 +127,15 @@
 
 + [T2对《GTA6》有信心：游戏将提供前所未有的新体验](https://www.3dmgame.com/news/202405/3895410.html)
 
++ [《Risimon》Steam页面上线 仿宝可梦冒险RPG](https://www.3dmgame.com/news/202405/3895418.html)
+
++ [尼古拉斯·凯奇恐怖片《长脚怪》发正式预告](https://www.3dmgame.com/news/202405/3895419.html)
+
++ [《地狱之刃2》开发商Ninja Theory的新项目已获Xbox批准](https://www.3dmgame.com/news/202405/3895420.html)
+
++ [微软将人工智能融入游戏中：展示《我的世界》AI功能](https://www.3dmgame.com/news/202405/3895421.html)
+
++ [P社《你的人生》第三次跳票 这次官方连发售日也不敢承诺了](https://www.3dmgame.com/news/202405/3895416.html)
+
++ [网易《九畿：岐风之旅》实机预告 辰极纪测试即将开启](https://www.3dmgame.com/news/202405/3895417.html)
+

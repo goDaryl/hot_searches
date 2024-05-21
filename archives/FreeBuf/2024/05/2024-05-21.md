@@ -43,3 +43,5 @@
 
 + [2024 年第一季度勒索软件态势](https://www.freebuf.com/articles/network/400339.html)
 
++ [FreeBuf早报 | 国内3万余条新生儿信息被倒卖；澳电子处方公司遭遇大规模勒索软件攻击](https://www.freebuf.com/news/401407.html)
+

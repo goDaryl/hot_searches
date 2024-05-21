@@ -29,3 +29,11 @@
 
 + [何小鹏回应小米竞争：现在卖得好不代表能力强，汽车行业是长线竞争](https://m.ithome.com/html/769393.htm)
 
++ [苹果 iOS 17.5.1 正式版发布：修复已删除照片“复活”问题](https://m.ithome.com/html/769417.htm)
+
++ [和 iPad Pro 掰手腕，微软新 Surface Pro 登场：性能提升 90%，首搭 OLED 屏幕](https://m.ithome.com/html/769420.htm)
+
++ [618 会员三折起：B站年卡 88 元补贴购，夸克网盘 9 元 / 月官方探底](https://m.ithome.com/html/769356.htm)
+
++ [小米 45W GaN 小布丁充电器套装今晚开售：USB-C 接口，首发价 59 元](https://m.ithome.com/html/769240.htm)
+
