@@ -195,3 +195,9 @@
 
 + [大脚车竞速游戏《大脚车对决》发布新预告 8月29日正式推出](https://www.3dmgame.com/news/202405/3895445.html)
 
++ [死侍演员：不敢相信漫威竟然允许我拍成人评级电影](https://www.3dmgame.com/news/202405/3895452.html)
+
++ [苹果最大降价：iPhone15甩货 国人买账！1小时卖15亿](https://www.3dmgame.com/news/202405/3895451.html)
+
++ [《睡魔》第二季预告短视频发布 无尽家族悉数亮相](https://www.3dmgame.com/news/202405/3895450.html)
+
