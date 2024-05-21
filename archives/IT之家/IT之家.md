@@ -37,3 +37,5 @@
 
 + [小米 45W GaN 小布丁充电器套装今晚开售：USB-C 接口，首发价 59 元](https://m.ithome.com/html/769240.htm)
 
++ [iQOO Neo9S Pro 手机发布：搭载天玑 9300+，限时优惠价 2699 元起](https://m.ithome.com/html/769371.htm)
+

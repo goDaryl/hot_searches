@@ -139,3 +139,15 @@
 
 + [网易《九畿：岐风之旅》实机预告 辰极纪测试即将开启](https://www.3dmgame.com/news/202405/3895417.html)
 
++ [《刺客信条：影》多元化团队曝光 从叙事总监到首席编剧再到关卡设计师](https://www.3dmgame.com/news/202405/3895426.html)
+
++ [庆祝成立10周年 《心跳文学部》开发商免费推出互动剧情游戏《热爱生活》](https://www.3dmgame.com/news/202405/3895425.html)
+
++ [Newzoo：PC游戏市场去年增长远大于主机游戏](https://www.3dmgame.com/news/202405/3895427.html)
+
++ [《王国之心》全系列宣布登陆Steam 6月13日发售](https://www.3dmgame.com/news/202405/3895424.html)
+
++ [著名支持开发商Keywords工作室或将被私募股权公司收购](https://www.3dmgame.com/news/202405/3895423.html)
+
++ [《街头霸王6》将追加全新机能 支持角色BGM定制](https://www.3dmgame.com/news/202405/3895422.html)
+

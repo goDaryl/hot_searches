@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 国内3万余条新生儿信息被倒卖；澳电子处方公司遭遇大规模勒索软件攻击](https://www.freebuf.com/news/401407.html)
 
++ [应用安全设计方法——ASTRIDE威胁建模详解](https://www.freebuf.com/articles/system/401043.html)
+
++ [FreeBuf早报 | 3万余条新生儿信息被倒卖；澳电子处方公司遭遇大规模勒索软件攻击](https://www.freebuf.com/news/401407.html)
+
