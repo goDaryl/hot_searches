@@ -151,3 +151,15 @@
 
 + [《街头霸王6》将追加全新机能 支持角色BGM定制](https://www.3dmgame.com/news/202405/3895422.html)
 
++ [Take-Two年度财报：去年亏损高达37.4亿美元](https://www.3dmgame.com/news/202405/3895433.html)
+
++ [《死侍3》新预告和海报 官方剧情简介逆天了](https://www.3dmgame.com/news/202405/3895429.html)
+
++ [《你是聊天AI》Steam页面上线 AI对话模拟游戏](https://www.3dmgame.com/news/202405/3895432.html)
+
++ [传闻：2K将在夏日游戏节上正式公开《四海兄弟4》](https://www.3dmgame.com/news/202405/3895431.html)
+
++ [放置类养成游戏《勇者蛋生》现已在Steam平台正式推出](https://www.3dmgame.com/news/202405/3895430.html)
+
++ [微软想要让《使命召唤》称为XGP的核心组成部分](https://www.3dmgame.com/news/202405/3895428.html)
+
