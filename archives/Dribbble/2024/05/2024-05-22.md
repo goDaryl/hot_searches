@@ -73,3 +73,17 @@
 
 + [Bitesized Mascots](https://dribbble.com/shots/)
 
++ [The Walrus - Bacteriophages](https://dribbble.com/shots/)
+
++ [Big A](https://dribbble.com/shots/)
+
++ [St. John the Beloved Secondary Logo](https://dribbble.com/shots/)
+
++ [Modernist Portrait Logo](https://dribbble.com/shots/)
+
++ [Glyph Beer 44](https://dribbble.com/shots/)
+
++ [Bison Puzzle](https://dribbble.com/shots/)
+
++ [The Avery • Kitchen & Bar](https://dribbble.com/shots/)
+
