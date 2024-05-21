@@ -265,3 +265,7 @@
 
 + [OpenAI下架类似斯嘉丽·约翰逊声音 斯嘉丽曾拒绝对方的配音邀约](https://www.3dmgame.com/news/202405/3895485.html)
 
++ [《艾尔登法环：黄金树幽影》故事PV今晚11点发布](https://www.3dmgame.com/news/202405/3895486.html)
+
++ [《星空》60FPS更新后 Xbox玩家提升了72%](https://www.3dmgame.com/news/202405/3895484.html)
+
