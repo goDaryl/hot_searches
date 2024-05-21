@@ -95,3 +95,7 @@
 
 + [【AC独家】翻唱｜遇见acer是我的《命运》](http://www.acfun.cn/v/ac44599160)
 
++ [【STN快报第七季57】里昂在东南亚分别找到了病和毒](http://www.acfun.cn/v/ac44599770)
+
++ [救救我，我快碎了——！【朱聂的日常】](http://www.acfun.cn/v/ac44597992)
+
