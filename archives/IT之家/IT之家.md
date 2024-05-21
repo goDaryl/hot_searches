@@ -57,3 +57,5 @@
 
 + [《英雄联盟》免费改名活动上线，召唤师 ID 系统升级完成](https://m.ithome.com/html/769550.htm)
 
++ [华为 P60、Mate 50、Mate X3 系列等机型开启鸿蒙 HarmonyOS 4.2 正式版升级](https://m.ithome.com/html/769467.htm)
+
