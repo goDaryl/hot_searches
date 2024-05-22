@@ -49,3 +49,23 @@
 
 + [3D Illustrations For Somnia](https://dribbble.com/shots/)
 
++ [AFJS logo](https://dribbble.com/shots/)
+
++ [Jake's Carribean Rum](https://dribbble.com/shots/)
+
++ [Glyph Beer 44](https://dribbble.com/shots/)
+
++ [Paris City Guide Mobile Website](https://dribbble.com/shots/)
+
++ [r.e.m. beauty: Hypernova Hotel](https://dribbble.com/shots/)
+
++ [save](https://dribbble.com/shots/)
+
++ [Big A](https://dribbble.com/shots/)
+
++ [McQueen Racing Merch](https://dribbble.com/shots/)
+
++ [Bone Voyage ????????](https://dribbble.com/shots/)
+
++ [Mid-Century Inspired Cocktail Illustrations](https://dribbble.com/shots/)
+
