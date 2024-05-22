@@ -135,3 +135,5 @@
 
 + [IGN收购Eurogamer GamesIndustry和VG247等五家媒体](https://www.3dmgame.com/news/202405/3895504.html)
 
++ [虚幻5恐怖游戏《Still Wakes the Deep》PC配置公布](https://www.3dmgame.com/news/202405/3895509.html)
+

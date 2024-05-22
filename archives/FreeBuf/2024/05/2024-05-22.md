@@ -43,3 +43,5 @@
 
 + [通过扩展指令增强基于覆盖引导的模糊测试](https://www.freebuf.com/articles/security-management/400924.html)
 
++ [FreeBuf资讯 | 谷歌抨击微软安全漏洞；Arup遭遇2500万美元深度伪造骗局](https://www.freebuf.com/news/401523.html)
+
