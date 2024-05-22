@@ -137,3 +137,17 @@
 
 + [虚幻5恐怖游戏《Still Wakes the Deep》PC配置公布](https://www.3dmgame.com/news/202405/3895509.html)
 
++ [《刺客信条：影》新视频宣传日本文化 网友们疯狂嘲讽](https://www.3dmgame.com/news/202405/3895515.html)
+
++ [像素游戏《策划模拟器》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202405/3895516.html)
+
++ [Xbox展示《地狱之刃2》定制Xbox Series X主机 只送不卖](https://www.3dmgame.com/news/202405/3895514.html)
+
++ [硬件杀手？Xbox Series X|S无法稳定30帧运行《地狱之刃2》](https://www.3dmgame.com/news/202405/3895513.html)
+
++ [V社6v6射击游戏《Deadlock》更多细节泄露：更类似Dota](https://www.3dmgame.com/news/202405/3895512.html)
+
++ [《Margin of the Strange》众筹开启 神秘世界冒险](https://www.3dmgame.com/news/202405/3895511.html)
+
++ [索尼PlayStation伦敦工作室正式关闭并发布告别宣言](https://www.3dmgame.com/news/202405/3895510.html)
+
