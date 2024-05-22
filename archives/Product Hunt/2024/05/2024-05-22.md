@@ -123,3 +123,7 @@
 
 + [CANVID for Windows](https://www.producthunt.com/posts/canvid-for-windows)
 
++ [ChatGPT4o](https://www.producthunt.com/posts/chatgpt4o)
+
++ [must.fm for Spotify Stats](https://www.producthunt.com/posts/must-fm-for-spotify-stats)
+

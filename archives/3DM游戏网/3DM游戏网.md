@@ -271,3 +271,7 @@
 
 + [iPhone16Pro Max首发新窄边框技术 屏占比创苹果新高](https://www.3dmgame.com/news/202405/3895575.html)
 
++ [华硕ROG XG27AQDMG开售 2K 240Hz OLED](https://www.3dmgame.com/news/202405/3895577.html)
+
++ [《上古卷轴OL》开发者：过去十年提供内容超10个单机游戏](https://www.3dmgame.com/news/202405/3895578.html)
+
