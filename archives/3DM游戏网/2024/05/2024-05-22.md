@@ -151,3 +151,39 @@
 
 + [索尼PlayStation伦敦工作室正式关闭并发布告别宣言](https://www.3dmgame.com/news/202405/3895510.html)
 
++ [圆谷宣布将推出多款休闲类奥特曼游戏 2025年发布](https://www.3dmgame.com/news/202405/3895533.html)
+
++ [《绝地潜兵2》工作室正在考虑降低更新频率以放慢游戏节奏](https://www.3dmgame.com/news/202405/3895534.html)
+
++ [爱尔兰设立新独立游戏基金 开发者可获高达1.5万英镑资助](https://www.3dmgame.com/news/202405/3895531.html)
+
++ [《怪医黑杰克》新日剧女主角公开 皮诺可正式亮相](https://www.3dmgame.com/news/202405/3895529.html)
+
++ [机甲迷宫探索游戏《机械工程师》现已推出1.0正式版](https://www.3dmgame.com/news/202405/3895528.html)
+
++ [《黑神话：悟空》80个Boss辟谣：是国内玩家推测的](https://www.3dmgame.com/news/202405/3895527.html)
+
++ [《地狱之刃2》Steam在线峰值不到4000 跻身全球销量榜第四名](https://www.3dmgame.com/news/202405/3895525.html)
+
++ [寒冬生存游戏《永冻纪元》Steam页面 发售日待定](https://www.3dmgame.com/news/202405/3895526.html)
+
++ [调查显示：近一半玩家将游戏作为自我表达的一种形式](https://www.3dmgame.com/news/202405/3895524.html)
+
++ [冒险游戏《义侠罗宾汉》Steam页面 支持简中](https://www.3dmgame.com/news/202405/3895532.html)
+
++ [《王国之心》系列Steam页面上线 仅三代支持中文](https://www.3dmgame.com/news/202405/3895530.html)
+
++ [档期冲突 《哥斯拉大战金刚》导演亚当·温加德将不再执导续集](https://www.3dmgame.com/news/202405/3895522.html)
+
++ [《燕云十六声》绝美舞蹈幕后揭秘 舞蹈大师助力呈现](https://www.3dmgame.com/news/202405/3895521.html)
+
++ [《Echoes Of Despair》登陆Steam 恐怖冒险新游](https://www.3dmgame.com/news/202405/3895520.html)
+
++ [育碧多人射击游戏《不羁联盟》部分玩家遭遇无法加入游戏问题](https://www.3dmgame.com/news/202405/3895519.html)
+
++ [探索解谜游戏《纸间谜迹》现已在Steam平台正式发售](https://www.3dmgame.com/news/202405/3895523.html)
+
++ [策略游戏《Drill Core》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202405/3895517.html)
+
++ [《古墓丽影三部曲重制版合集》全平台实体版正式公布](https://www.3dmgame.com/news/202405/3895518.html)
+
