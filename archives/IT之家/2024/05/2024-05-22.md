@@ -53,3 +53,7 @@
 
 + [华为路由器发货量破亿](https://m.ithome.com/html/769736.htm)
 
++ [小米“致敬复刻”苹果 iPad Pro 液压机《Crush》争议广告，暗示将在印度推出 Civi 系列手机](https://m.ithome.com/html/769812.htm)
+
++ [【IT之家评测室】影像灭霸正式登场！vivo X100 Ultra 深度体验](https://m.ithome.com/html/769768.htm)
+

@@ -267,3 +267,7 @@
 
 + [大湾区首个大规模全液冷智算中心完工 可提供1.5万P算力](https://www.3dmgame.com/news/202405/3895565.html)
 
++ [平台整治炫富拜金 全身没8位数不出门网红王红权星被封](https://www.3dmgame.com/news/202405/3895576.html)
+
++ [iPhone16Pro Max首发新窄边框技术 屏占比创苹果新高](https://www.3dmgame.com/news/202405/3895575.html)
+
