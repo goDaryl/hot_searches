@@ -101,3 +101,7 @@
 
 + [Botsheets DB](https://www.producthunt.com/posts/botsheets-db)
 
++ [Rise 2.0](https://www.producthunt.com/posts/rise-2-0)
+
++ [FoxyApps 2.0](https://www.producthunt.com/posts/foxyapps-2-0)
+
