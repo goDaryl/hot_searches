@@ -55,3 +55,9 @@
 
 + [微软计划于 2024 年下半年逐步弃用 VBScript](https://www.freebuf.com/news/401655.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+
++ [如何使用WindowsSpyBlocker防止Windows系统被恶意监控和跟踪](https://www.freebuf.com/sectool/401355.html)
+
++ [“内卷漩涡”之下，网安企业出海会成为新出路吗？](https://www.freebuf.com/articles/neopoints/401648.html)
+
