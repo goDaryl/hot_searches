@@ -99,3 +99,7 @@
 
 + [Glyph Beer 45](https://dribbble.com/shots/)
 
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
++ [Share it with me!](https://dribbble.com/shots/)
+
