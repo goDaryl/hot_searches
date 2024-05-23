@@ -65,3 +65,15 @@
 
 + [El Gran Cinco de Mayo](https://dribbble.com/shots/)
 
++ [The Grainmaker Brush Set (Now available for Adobe Illustrator)](https://dribbble.com/shots/)
+
++ [Pure American Liver](https://dribbble.com/shots/)
+
++ [Modernist Portrait Logo](https://dribbble.com/shots/)
+
++ [St. John the Beloved Secondary Logo](https://dribbble.com/shots/)
+
++ [3D Illustrations For Somnia](https://dribbble.com/shots/)
+
++ [Caffè Rosso | Brand Illustrations 2](https://dribbble.com/shots/)
+
