@@ -131,3 +131,9 @@
 
 + [《地狱潜者2》开发商想保持独立 并成为下一个暴雪或FS社](https://www.3dmgame.com/news/202405/3895597.html)
 
++ [传重生开发《泰坦陨落》精神续作 正为其招募人才](https://www.3dmgame.com/news/202405/3895600.html)
+
++ [《地狱潜者2》老大讨厌极端玩家的威胁和粗鲁行为](https://www.3dmgame.com/news/202405/3895601.html)
+
++ [《刺客信条：影》的双主角似乎都是LGBTQ+](https://www.3dmgame.com/news/202405/3895602.html)
+
