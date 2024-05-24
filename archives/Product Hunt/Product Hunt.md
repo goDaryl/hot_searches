@@ -163,3 +163,5 @@
 
 + [TailorLinx](https://www.producthunt.com/posts/tailorlinx)
 
++ [Virtual Psoriasis Coach](https://www.producthunt.com/posts/virtual-psoriasis-coach)
+
