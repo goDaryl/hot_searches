@@ -149,3 +149,7 @@
 
 + [从零开始傅里叶变换](https://blog.csdn.net/anniewwy/article/details/139155195)
 
++ [【测试SQLite】测试SQLite支持的SQL语句分类](https://blog.csdn.net/m0_57532432/article/details/139094633)
+
++ [【云原生】kubernetes中的service原理、应用实战案例解析](https://blog.csdn.net/littlefun591/article/details/139147828)
+
