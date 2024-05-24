@@ -117,3 +117,11 @@
 
 + [Embracer表示《死亡岛2》销量已超过300万套](https://www.3dmgame.com/news/202405/3895679.html)
 
++ [顽皮狗尼尔：AI将推动故事创作发展 但是存在道德问题](https://www.3dmgame.com/news/202405/3895688.html)
+
++ [《法外枭雄：滚石城》Steam版没有D加密 真是好消息](https://www.3dmgame.com/news/202405/3895689.html)
+
++ [FC经典《北海道连锁杀人案》重制版9月发售](https://www.3dmgame.com/news/202405/3895687.html)
+
++ [任天堂Switch在日本超越NDS成为最畅销游戏主机](https://www.3dmgame.com/news/202405/3895685.html)
+
