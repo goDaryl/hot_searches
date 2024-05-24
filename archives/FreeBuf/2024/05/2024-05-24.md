@@ -59,3 +59,5 @@
 
 + [对某厂商演示系统（EDU）一次奇妙的漏洞挖掘](https://www.freebuf.com/vuls/401313.html)
 
++ [EFuzz：基于程序环境的通用模糊测试工具](https://www.freebuf.com/sectool/401465.html)
+
