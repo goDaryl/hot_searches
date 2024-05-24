@@ -55,3 +55,7 @@
 
 + [Epic 喜加一：《模拟农场 22》免费领取](https://m.ithome.com/html/770241.htm)
 
++ [食堂免费发酸奶大麻花？小米承认误将测试邮件全量发送至 IoT 开发者](https://m.ithome.com/html/770487.htm)
+
++ [世界首例！我国完成猪肝移植活体人手术，癌症患者肝功能恢复正常](https://m.ithome.com/html/770429.htm)
+
