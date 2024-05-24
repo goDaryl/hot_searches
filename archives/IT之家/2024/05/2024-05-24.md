@@ -39,3 +39,5 @@
 
 + [英伟达市值逼近 2.6 万亿美元，超德国上市公司市值总和](https://m.ithome.com/html/770238.htm)
 
++ [消息称小米汽车更新今年 SU7 交付目标：全年冲刺 12 万辆](https://m.ithome.com/html/770186.htm)
+
