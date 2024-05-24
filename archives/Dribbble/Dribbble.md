@@ -49,3 +49,25 @@
 
 + [Plant Shop Logo Concept](https://dribbble.com/shots/)
 
++ [St. John the Beloved Secondary Logo](https://dribbble.com/shots/)
+
++ [Iabet](https://dribbble.com/shots/)
+
++ [P & P [illustration]](https://dribbble.com/shots/)
+
++ [El Gran Cinco de Mayo](https://dribbble.com/shots/)
+
++ [The Grainmaker Brush Set (Now available for Adobe Illustrator)](https://dribbble.com/shots/)
+
++ [Mouse in the boat](https://dribbble.com/shots/)
+
++ [Vandelux Tour Poster Design](https://dribbble.com/shots/)
+
++ [Purple Mecha](https://dribbble.com/shots/)
+
++ [Pedro](https://dribbble.com/shots/)
+
++ [Hiking for the win (PSE '24)](https://dribbble.com/shots/)
+
++ [Bison Puzzle](https://dribbble.com/shots/)
+
