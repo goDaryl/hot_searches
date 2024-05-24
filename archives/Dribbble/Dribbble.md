@@ -71,3 +71,19 @@
 
 + [Bison Puzzle](https://dribbble.com/shots/)
 
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
++ [Joyful embrace](https://dribbble.com/shots/)
+
++ [California Root Fest: Merch Full Preview](https://dribbble.com/shots/)
+
++ [Brooklyn Nets Illustrations](https://dribbble.com/shots/)
+
++ [1950's vibe road trip scene](https://dribbble.com/shots/)
+
++ [Hortulus Bier](https://dribbble.com/shots/)
+
++ [Glyph Beer 45](https://dribbble.com/shots/)
+
++ [California Roots Fest - Scraf](https://dribbble.com/shots/)
+
