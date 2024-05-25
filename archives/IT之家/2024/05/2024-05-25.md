@@ -31,3 +31,7 @@
 
 + [周鸿祎喜提极氪 009 光辉后，360 与极氪宣布在安全、大模型领域深度合作](https://m.ithome.com/html/770509.htm)
 
++ [老黄官宣 GPU「年更」！利润暴涨 427%，股价创历史新高](https://m.ithome.com/html/770532.htm)
+
++ [旗舰功能下放：小米 13 系列手机相册新增智能扩图和魔法消除 Pro](https://m.ithome.com/html/770450.htm)
+

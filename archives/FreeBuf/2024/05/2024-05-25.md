@@ -47,3 +47,5 @@
 
 + [FreeBuf 周报 | Grandoreiro木马重浮水面；人工智能安全研究“严重缺乏”](https://www.freebuf.com/news/401783.html)
 
++ [自然资源部发布《智能网联汽车时空数据安全处理基本要求（征求意见稿）》](https://www.freebuf.com/news/401871.html)
+

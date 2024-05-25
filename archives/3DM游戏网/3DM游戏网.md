@@ -125,3 +125,13 @@
 
 + [游戏又“中枪” 动视被起诉要为校园枪击案“负责”](https://www.3dmgame.com/news/202405/3895764.html)
 
++ [编程也要“正确”化？虚幻引擎编程标准离大谱！](https://www.3dmgame.com/news/202405/3895768.html)
+
++ [《最后的生还者2》艾萨克演员将加盟剧版再次扮演](https://www.3dmgame.com/news/202405/3895767.html)
+
++ [宫崎英高非常重视《装甲核心》系列：不想就此止步](https://www.3dmgame.com/news/202405/3895769.html)
+
++ [索尼在《漫威蜘蛛侠2》中使用了AI来同步对话字幕](https://www.3dmgame.com/news/202405/3895765.html)
+
++ [《猫咖时间到！》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202405/3895766.html)
+
