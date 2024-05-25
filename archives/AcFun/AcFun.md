@@ -117,3 +117,9 @@
 
 + [看到的不一定是真的，用示波器打败小玩具“漂浮的羽毛”](http://www.acfun.cn/v/ac44634904)
 
++ [【东方】推特东方小视频选集 第183期](http://www.acfun.cn/v/ac44638293)
+
++ [Oppa do you trust me 无遮挡](http://www.acfun.cn/v/ac44638392)
+
++ [Cha Cha 无遮挡](http://www.acfun.cn/v/ac44638326)
+
