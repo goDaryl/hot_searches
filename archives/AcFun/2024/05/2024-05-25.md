@@ -81,3 +81,11 @@
 
 + [【英雄联盟】联盟不朽 阿狸皮肤宣传片](http://www.acfun.cn/v/ac44634402)
 
++ [【自填翻】妙词甜嗓 中文版使一颗心免于哀伤](http://www.acfun.cn/v/ac44634695)
+
++ [【AC独家】acer的电子女友一日vlog1｜“美容院拔火罐+自习室+馄饨+逛超市+插花”](http://www.acfun.cn/v/ac44637385)
+
++ [有些人天生就是主角](http://www.acfun.cn/v/ac44635657)
+
++ [大爷这个工作的确很辛苦](http://www.acfun.cn/v/ac44635749)
+

@@ -149,3 +149,7 @@
 
 + [《自动贩卖机生意模拟》Steam页面上线 支持中文](https://www.3dmgame.com/news/202405/3895771.html)
 
++ [《塞尔达：王国之泪》早期喜忧参半：有信心成功但开发会很难](https://www.3dmgame.com/news/202405/3895777.html)
+
++ [多结局解谜冒险ADV《残音系少年少女》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895778.html)
+
