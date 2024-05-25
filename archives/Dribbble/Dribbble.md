@@ -97,3 +97,11 @@
 
 + [Recent lettering works vol. 9](https://dribbble.com/shots/)
 
++ [Hortulus Bier](https://dribbble.com/shots/)
+
++ [r.e.m. beauty: Hypernova Hotel](https://dribbble.com/shots/)
+
++ [McQueen Racing Merch](https://dribbble.com/shots/)
+
++ [Glenkenny Whiskey Label rendered by Steven Noble](https://dribbble.com/shots/)
+
