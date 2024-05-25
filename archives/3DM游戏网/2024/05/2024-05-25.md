@@ -191,3 +191,5 @@
 
 + [《Moonless Moon》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895792.html)
 
++ [实时RPG《Scars of Mars》6月20日登陆PC Steam](https://www.3dmgame.com/news/202405/3895798.html)
+
