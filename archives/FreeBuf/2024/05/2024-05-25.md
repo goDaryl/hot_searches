@@ -41,3 +41,5 @@
 
 + [“内卷漩涡”之下，网安企业出海会成为新出路吗？](https://www.freebuf.com/articles/neopoints/401648.html)
 
++ [UTG-Q-010:针对AI和游戏行业的定向攻击活动](https://www.freebuf.com/articles/paper/401522.html)
+
