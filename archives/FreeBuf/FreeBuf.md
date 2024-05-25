@@ -43,3 +43,7 @@
 
 + [UTG-Q-010:针对AI和游戏行业的定向攻击活动](https://www.freebuf.com/articles/paper/401522.html)
 
++ [Web3常见钓鱼方式分析与安全防范建议](https://www.freebuf.com/articles/web/401745.html)
+
++ [FreeBuf 周报 | Grandoreiro木马重浮水面；人工智能安全研究“严重缺乏”](https://www.freebuf.com/news/401783.html)
+
