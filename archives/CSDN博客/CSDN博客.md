@@ -205,3 +205,21 @@
 
 + [docker三种自定义网络(虚拟网络) & overlay实现原理](https://blog.csdn.net/qq_42152032/article/details/139158796)
 
++ [【LLM多模态】LLava模型架构和训练过程 | CLIP模型](https://blog.csdn.net/qq_35812205/article/details/136586853)
+
++ [[自动驾驶技术]-6 Tesla自动驾驶方案之硬件（AI Day 2021）](https://blog.csdn.net/wendywm0496/article/details/139157048)
+
++ [K-means聚类模型教程（个人总结版）](https://blog.csdn.net/qq_16064553/article/details/139159414)
+
++ [大创项目推荐 深度学习手势识别 - yolo python opencv cnn 机器视觉](https://blog.csdn.net/laafeer/article/details/139156621)
+
++ [指纹识别概念解析](https://blog.csdn.net/mickey2007/article/details/138695045)
+
++ [2024年5月大语言模型论文推荐：模型优化、缩放到推理、基准测试和增强性能](https://blog.csdn.net/m0_46510245/article/details/139211565)
+
++ [OFDM 802.11a的FPGA实现（二十一）发射主控模块MCU（含代码）](https://blog.csdn.net/xxqlover/article/details/139155642)
+
++ [一起学习大模型 - 从底层了解Token Embeddings的原理（2）](https://blog.csdn.net/kljyrx/article/details/139146920)
+
++ [自定义 Spring AOP 切面实战（鉴权、记录日志）](https://blog.csdn.net/weixin_42118323/article/details/139155404)
+
