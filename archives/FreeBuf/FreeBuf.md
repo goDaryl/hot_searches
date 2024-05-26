@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/401809.html)
 
++ [大模型与软件供应链安全的融合探索](https://www.freebuf.com/articles/neopoints/400852.html)
+
