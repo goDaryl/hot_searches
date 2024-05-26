@@ -135,3 +135,7 @@
 
 + [《Weyrdlets》Steam试玩发布 休闲桌面宠物育成](https://www.3dmgame.com/news/202405/3895815.html)
 
++ [《东京咖啡》7月登陆Steam 咖啡馆经营模拟](https://www.3dmgame.com/news/202405/3895821.html)
+
++ [《城市：天际线2》将优化游戏经济系统 但有一些代价](https://www.3dmgame.com/news/202405/3895820.html)
+
