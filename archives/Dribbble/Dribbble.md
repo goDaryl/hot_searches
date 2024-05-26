@@ -49,3 +49,27 @@
 
 + [St. John the Beloved Secondary Logo](https://dribbble.com/shots/)
 
++ [Plant Shop Logo Concept](https://dribbble.com/shots/)
+
++ [Special Edition](https://dribbble.com/shots/)
+
++ [Bone Voyage ????????](https://dribbble.com/shots/)
+
++ [Glug](https://dribbble.com/shots/)
+
++ [Trails for All](https://dribbble.com/shots/)
+
++ [Paris City Guide Mobile Website](https://dribbble.com/shots/)
+
++ [The Grainmaker Brush Set (Now available for Adobe Illustrator)](https://dribbble.com/shots/)
+
++ [save](https://dribbble.com/shots/)
+
++ [Pedro](https://dribbble.com/shots/)
+
++ [Purple Mecha](https://dribbble.com/shots/)
+
++ [Brooklyn Nets Illustrations](https://dribbble.com/shots/)
+
++ [Bagel Friends](https://dribbble.com/shots/)
+
