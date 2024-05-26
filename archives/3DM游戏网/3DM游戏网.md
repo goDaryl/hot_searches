@@ -119,3 +119,19 @@
 
 + [《深渊绝赌：千王处刑》Steam页面上线 推理冒险新游](https://www.3dmgame.com/news/202405/3895808.html)
 
++ [《晕晕电波症候群》Steam上线 节奏冒险新游](https://www.3dmgame.com/news/202405/3895819.html)
+
++ [疑似《自杀小队：消灭正义联盟》急冻人截图泄露](https://www.3dmgame.com/news/202405/3895816.html)
+
++ [拉瑞安新游戏代号公布 仍然借用斯温·芬克爱犬的名字](https://www.3dmgame.com/news/202405/3895817.html)
+
++ [马斯克谈未来 一切按需分配高收入会很普遍](https://www.3dmgame.com/news/202405/3895818.html)
+
++ [爆料称微软计划让《使命召唤21》登陆任天堂新主机](https://www.3dmgame.com/news/202405/3895812.html)
+
++ [《DOTA2》国内30岁玩家 成功从统帅冲到了冠绝](https://www.3dmgame.com/news/202405/3895813.html)
+
++ [消息称微软将允许第三方厂商生产属于自己的Xbox主机](https://www.3dmgame.com/news/202405/3895814.html)
+
++ [《Weyrdlets》Steam试玩发布 休闲桌面宠物育成](https://www.3dmgame.com/news/202405/3895815.html)
+
