@@ -73,3 +73,17 @@
 
 + [Bagel Friends](https://dribbble.com/shots/)
 
++ [Recent lettering works vol. 9](https://dribbble.com/shots/)
+
++ [r.e.m. beauty: Hypernova Hotel](https://dribbble.com/shots/)
+
++ [腐った](https://dribbble.com/shots/)
+
++ [Fall Down](https://dribbble.com/shots/)
+
++ [Wishing that all your days are good hair days!](https://dribbble.com/shots/)
+
++ [Folk Music](https://dribbble.com/shots/)
+
++ [Glenkenny Whiskey Label rendered by Steven Noble](https://dribbble.com/shots/)
+
