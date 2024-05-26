@@ -125,3 +125,5 @@
 
 + [Modernist Portrait Logo](https://dribbble.com/shots/)
 
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
