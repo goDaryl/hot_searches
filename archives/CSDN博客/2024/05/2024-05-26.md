@@ -145,3 +145,5 @@
 
 + [混合现实技术文档：关键技术 (4)](https://blog.csdn.net/yyyyyy3802/article/details/139155245)
 
++ [2024年中国电机工程学会杯数学建模思路 - 案例：最短时间生产计划安排](https://blog.csdn.net/math_assistant/article/details/139155305)
+
