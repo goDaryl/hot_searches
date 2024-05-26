@@ -145,3 +145,9 @@
 
 + [微软宣布告别Cortana、写字板：Win11 24H2彻底移除](https://www.3dmgame.com/news/202405/3895822.html)
 
++ [《围攻与沙狐》登陆Steam 银河恶魔城2D动作冒险](https://www.3dmgame.com/news/202405/3895826.html)
+
++ [《终极闪光：破坏者》厂商很焦虑：发行商换3次了](https://www.3dmgame.com/news/202405/3895827.html)
+
++ [沉浸式电影感体验 《地狱之刃2》非官方VR mod发布](https://www.3dmgame.com/news/202405/3895825.html)
+
