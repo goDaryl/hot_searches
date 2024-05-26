@@ -223,3 +223,17 @@
 
 + [自定义 Spring AOP 切面实战（鉴权、记录日志）](https://blog.csdn.net/weixin_42118323/article/details/139155404)
 
++ [数据仓库实验四：聚类分析实验](https://blog.csdn.net/Morse_Chen/article/details/139152128)
+
++ [智能车竞赛指南：从零到一，驶向自动驾驶的未来](https://blog.csdn.net/black_cat7/article/details/139011312)
+
++ [深入探索时间序列预测之谜，从RNN挑战到LSTM、GRU的革新路径（附matlab代码实现）](https://blog.csdn.net/2302_81053261/article/details/139159093)
+
++ [Springboot项目——网页版本五子棋](https://blog.csdn.net/2201_75456895/article/details/139129303)
+
++ [3D工业视觉](https://blog.csdn.net/qq_41204464/article/details/139069500)
+
++ [详解ArcGIS 水文分析模型构建](https://blog.csdn.net/weixin_42984235/article/details/139155381)
+
++ [【python】python社交交友平台系统设计与实现（源码+数据库）【独一无二】](https://blog.csdn.net/weixin_44244190/article/details/139158954)
+
