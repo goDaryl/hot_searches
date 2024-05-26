@@ -55,3 +55,7 @@
 
 + [华为李小龙：EMUI9.1.1 及 HarmonyOS 手机均支持室内定位](https://m.ithome.com/html/770799.htm)
 
++ [华为车 BU 首次公开招募「天才少年」，求解五大智驾难题](https://m.ithome.com/html/770828.htm)
+
++ [魏建军谈哈弗 H6 销量下滑：无序及恶意竞争给行业带来混乱，但长城不会参与](https://m.ithome.com/html/770813.htm)
+
