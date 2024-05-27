@@ -109,3 +109,49 @@
 
 + [冯 • 诺依曼体系结构和操作系统](https://blog.csdn.net/Mesar33/article/details/139206126)
 
++ [spring boot3整合邮件服务实现邮件发送功能](https://blog.csdn.net/qq_62262918/article/details/139244604)
+
++ [激活函数：赋予神经网络非线性生命力的魔法](https://blog.csdn.net/universsky2015/article/details/139251347)
+
++ [【Linux进程篇】掌握进程优先级与环境变量：提升系统效能的秘诀](https://blog.csdn.net/m0_74755811/article/details/139245471)
+
++ [使用Python操作Jenkins](https://blog.csdn.net/xiangxi1204/article/details/139236143)
+
++ [sql server 中的6种约束](https://blog.csdn.net/zgscwxd/article/details/139240383)
+
++ [云原生Kubernetes: 云主机部署K8S 1.30版本 单Master架构](https://blog.csdn.net/cronaldo91/article/details/139235168)
+
++ [满帮集团 Eureka 和 ZooKeeper 的上云实践](https://blog.csdn.net/alisystemsoftware/article/details/139244599)
+
++ [Android：使用Kotlin搭建MVI架构模式](https://blog.csdn.net/ChinaDragon10/article/details/139248511)
+
++ [webserver服务器从零搭建到上线（五）｜noncopyable类和Logger类](https://blog.csdn.net/caiziming_001/article/details/138509662)
+
++ [springboot+vue+mybatis基于java web的公益网站的设计与实现+jsp+PPT+论文+讲解+售后](https://blog.csdn.net/boke1314/article/details/139247620)
+
++ [【设计模式深度剖析】【5】【结构型】【桥接模式】| 以电视和遥控器为例加深理解](https://blog.csdn.net/qq_28727015/article/details/139250923)
+
++ [音视频开发9 FFmpeg 解复用框架说明，重要知识点](https://blog.csdn.net/hunandede/article/details/139218790)
+
++ [Webpack性能调优：从加载器到插件的全面优化](https://blog.csdn.net/A1215383843/article/details/139247975)
+
++ [Habicht定理中有关子结式命题3.4.6的证明](https://blog.csdn.net/tianwangwxm/article/details/139249256)
+
++ [5月第四讲:k8s 怎么精准获取deployment关联的pods](https://blog.csdn.net/m0_73143885/article/details/139250377)
+
++ [linux（Centos）等级保护测评2.0指标](https://blog.csdn.net/2302_76378481/article/details/139231528)
+
++ [SpringBoot基于微信小程序的上门幼儿照护服务系统(源码+lw+部署文档+讲解等)](https://blog.csdn.net/2401_82797350/article/details/139249146)
+
++ [鸿蒙开发接口UI界面：【@ohos.mediaquery (媒体查询)】](https://blog.csdn.net/2301_76813281/article/details/139248333)
+
++ [开发多个工具包的黑产团伙GXC正在积极拥抱AI技术](https://blog.csdn.net/2301_81464130/article/details/139236460)
+
++ [解锁Spring Cloud Gateway过滤器秘籍：从动态配置到安全实战，构建微服务超级门户？](https://blog.csdn.net/z_344791576/article/details/139126676)
+
++ [Windows 10 IoT Enterprise 2019 LTSC High End OEM Software 详细介绍](https://blog.csdn.net/Pearflower_/article/details/139239354)
+
++ [Yolov5——训练目标检测模型详解（含完整源码）](https://blog.csdn.net/qq_46137895/article/details/139236067)
+
++ [fpga系列 HDL 00 : 可编程逻辑器件原理](https://blog.csdn.net/ResumeProject/article/details/139241028)
+
