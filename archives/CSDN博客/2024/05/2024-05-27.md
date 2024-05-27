@@ -341,3 +341,19 @@
 
 + [【UE5.4】猫猫都能看懂的Android打包新版攻略](https://blog.csdn.net/qq_35587645/article/details/139207695)
 
++ [spring suite gitlab使用手册](https://blog.csdn.net/dongjing991/article/details/139237877)
+
++ [大语言模型训练部署流程及步骤](https://blog.csdn.net/python12345_/article/details/139231477)
+
++ [【SpringCloud】负载均衡](https://blog.csdn.net/weixin_37833693/article/details/139234715)
+
++ [从零自制docker-15-【实现 mydocker run -d 支持后台运行容器】](https://blog.csdn.net/llovewuzhengzi/article/details/139237660)
+
++ [Windows 10 IoT Enterprise 2019 LTSC High End OEM Software 详细介绍](https://blog.csdn.net/Pearflower_/article/details/139239354)
+
++ [Ubuntu Nvidia Docker单机多卡环境配置](https://blog.csdn.net/sunny0121/article/details/139240079)
+
++ [【Spring Cloud】Feign整合服务容错中间件Sentinel](https://blog.csdn.net/Qingai521/article/details/139024263)
+
++ [Vue3中如何自定义消息总线](https://blog.csdn.net/astonishqft/article/details/139242478)
+
