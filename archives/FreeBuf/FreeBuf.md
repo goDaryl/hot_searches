@@ -59,3 +59,9 @@
 
 + [新型恶意软件 Gipy 出现，针对人工智能语音生成器应用程序](https://www.freebuf.com/news/401931.html)
 
++ [企业安全 | 浅谈安全团队建设](https://www.freebuf.com/articles/es/386257.html)
+
++ [美国医疗系统大事件：约三分之一的公民信息泄露](https://www.freebuf.com/news/401951.html)
+
++ [SqliSniper：针对HTTP Header的基于时间SQL盲注模糊测试工具](https://www.freebuf.com/sectool/401704.html)
+

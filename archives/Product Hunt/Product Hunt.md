@@ -103,3 +103,27 @@
 
 + [Text Workflow](https://www.producthunt.com/posts/text-workflow)
 
++ [Streaks66](https://www.producthunt.com/posts/streaks66)
+
++ [&udm=14](https://www.producthunt.com/posts/udm-14)
+
++ [CharMap 4.0](https://www.producthunt.com/posts/charmap-4-0)
+
++ [ChatGPT Notepad](https://www.producthunt.com/posts/chatgpt-notepad)
+
++ [IKI.AI](https://www.producthunt.com/posts/iki-ai)
+
++ [ReplyBoard](https://www.producthunt.com/posts/replyboard)
+
++ [AI Menti Builder](https://www.producthunt.com/posts/ai-menti-builder)
+
++ [SaaS Names](https://www.producthunt.com/posts/saas-names)
+
++ [Rehance](https://www.producthunt.com/posts/rehance)
+
++ [Marlee](https://www.producthunt.com/posts/marlee)
+
++ [Outfit.fm](https://www.producthunt.com/posts/outfit-fm)
+
++ [StickerAIArt](https://www.producthunt.com/posts/stickeraiart)
+
