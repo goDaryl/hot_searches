@@ -197,3 +197,19 @@
 
 + [《使命召唤：黑色行动6》真人预告即将发布 或以海湾战争为背景](https://www.3dmgame.com/news/202405/3895886.html)
 
++ [AMD Zen5处理器又又改名了！变着花样领先Intel一代](https://www.3dmgame.com/news/202405/3895892.html)
+
++ [马斯克AI公司完成60亿美元融资 估值已达180亿美元](https://www.3dmgame.com/news/202405/3895893.html)
+
++ [大宇舍3A制作转向精致单机作品 新任总经理展望未来](https://www.3dmgame.com/news/202405/3895894.html)
+
++ [CDPR总监：工作室最优秀开发者中很多都是Mod作者](https://www.3dmgame.com/news/202405/3895890.html)
+
++ [知乎最新变动：PC网页端非登录用户已无法查看回答全文](https://www.3dmgame.com/news/202405/3895891.html)
+
++ [堀井雄二回应玩家担心 明确《勇者斗恶龙12》仍在开发](https://www.3dmgame.com/news/202405/3895887.html)
+
++ [吉利李书福曾呼吁：国内部分城市陆续解禁摩托车](https://www.3dmgame.com/news/202405/3895888.html)
+
++ [《勇者斗恶龙3 HD-2D重制版》先导预告 将登陆主机和PC](https://www.3dmgame.com/news/202405/3895889.html)
+
