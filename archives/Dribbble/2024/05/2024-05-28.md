@@ -49,3 +49,27 @@
 
 + [Purple Mecha](https://dribbble.com/shots/)
 
++ [Believe...](https://dribbble.com/shots/)
+
++ [Iabet](https://dribbble.com/shots/)
+
++ [Plant Shop Logo Concept](https://dribbble.com/shots/)
+
++ [Zeke's Village Market: Seasonal Apparel](https://dribbble.com/shots/)
+
++ [SCB 2025](https://dribbble.com/shots/)
+
++ [Joyful embrace](https://dribbble.com/shots/)
+
++ [1950's vibe road trip scene](https://dribbble.com/shots/)
+
++ [Recent lettering works vol. 9](https://dribbble.com/shots/)
+
++ [California Root Fest: Merch Full Preview](https://dribbble.com/shots/)
+
++ [Mexico City Vibes](https://dribbble.com/shots/)
+
++ [Hiking for the win (PSE '24)](https://dribbble.com/shots/)
+
++ [Print is Not Dead](https://dribbble.com/shots/)
+
