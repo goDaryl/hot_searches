@@ -177,3 +177,11 @@
 
 + [用AI比赛助手降维打击数学建模，比赛过程详细介绍，这保研不就稳了吗](https://blog.csdn.net/weixin_39032019/article/details/139213384)
 
++ [深度神经网络详解](https://blog.csdn.net/weixin_42132035/article/details/139157612)
+
++ [【AI前沿洞察】大模型降价](https://blog.csdn.net/AI_Gump/article/details/139157250)
+
++ [Spring Cloud应用框架](https://blog.csdn.net/qq_41256535/article/details/139144429)
+
++ [Golang单元测试](https://blog.csdn.net/chenlong_cxy/article/details/137794336)
+

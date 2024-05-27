@@ -27,3 +27,7 @@
 
 + [德国太阳能发电过剩，电价跌至负值](https://m.ithome.com/html/770854.htm)
 
++ [京东秒送支持华为手机实况窗功能，可显示配送状态、预计时长](https://m.ithome.com/html/770829.htm)
+
++ [广东跨市“地铁”今日开通：全长 258 公里，横跨广州、惠州等 5 座城市](https://m.ithome.com/html/770758.htm)
+
