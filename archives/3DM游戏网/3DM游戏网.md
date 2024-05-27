@@ -213,3 +213,7 @@
 
 + [《勇者斗恶龙3 HD-2D重制版》先导预告 将登陆主机和PC](https://www.3dmgame.com/news/202405/3895889.html)
 
++ [科乐美称如果重制版获得成功 就可能会有《合金装备》新作](https://www.3dmgame.com/news/202405/3895896.html)
+
++ [《3番线》6月登陆Steam 类8番出口恐怖解谜新游](https://www.3dmgame.com/news/202405/3895895.html)
+

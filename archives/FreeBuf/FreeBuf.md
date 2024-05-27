@@ -65,3 +65,5 @@
 
 + [SqliSniper：针对HTTP Header的基于时间SQL盲注模糊测试工具](https://www.freebuf.com/sectool/401704.html)
 
++ [供应链系统大事件：约三分之一的公民信息泄露](https://www.freebuf.com/news/401951.html)
+
