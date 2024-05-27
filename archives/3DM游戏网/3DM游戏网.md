@@ -159,3 +159,17 @@
 
 + [《死亡之夜》5月31日Steam正式推出 好评末日生存](https://www.3dmgame.com/news/202405/3895865.html)
 
++ [传闻：任天堂可能有两款马里奥游戏正在开发中](https://www.3dmgame.com/news/202405/3895873.html)
+
++ [传苹果iOS 18将首次集成AI 目前仍是Beta版](https://www.3dmgame.com/news/202405/3895874.html)
+
++ [《铁拳8》新DLC角色“Lidia”预告 今夏上线](https://www.3dmgame.com/news/202405/3895868.html)
+
++ [剧情向冒险游戏《星际迷航：复苏》现已在Steam平台正式推出](https://www.3dmgame.com/news/202405/3895872.html)
+
++ [玩家推测《勇者斗恶龙12》被砍 SE并未明确回应](https://www.3dmgame.com/news/202405/3895871.html)
+
++ [真骨灰玩家？马斯克X晒图通关《暗黑4》101层大秘境](https://www.3dmgame.com/news/202405/3895870.html)
+
++ [《纸片马力欧RPG：千年之门重置版》与纸飞机专家联动推出限定主题纸飞机](https://www.3dmgame.com/news/202405/3895869.html)
+
