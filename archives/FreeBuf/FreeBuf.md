@@ -55,3 +55,7 @@
 
 + [转发 | 工业和信息化部印发《工业和信息化领域数据安全风险评估实施细则（试行）》](https://www.freebuf.com/news/401842.html)
 
++ [多达 500 GB，印度军方和警方生物识别数据泄露](https://www.freebuf.com/news/401925.html)
+
++ [新型恶意软件 Gipy 出现，针对人工智能语音生成器应用程序](https://www.freebuf.com/news/401931.html)
+

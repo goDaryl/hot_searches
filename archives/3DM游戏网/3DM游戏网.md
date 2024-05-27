@@ -181,3 +181,9 @@
 
 + [卡牌肉鸽游戏《打倒白雪公主！乌拉！》现已于Steam推出免费序章并获特别好评](https://www.3dmgame.com/news/202405/3895875.html)
 
++ [《动物井》开发者表示游戏没有直接续作 但正在开发相同世界观的新作](https://www.3dmgame.com/news/202405/3895880.html)
+
++ [传闻：FIFA授权2K开发足球游戏 预计今年年内发售](https://www.3dmgame.com/news/202405/3895881.html)
+
++ [《来自地狱的女人》登陆Steam 向男友复仇解谜](https://www.3dmgame.com/news/202405/3895879.html)
+
