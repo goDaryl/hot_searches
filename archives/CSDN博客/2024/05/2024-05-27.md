@@ -357,3 +357,21 @@
 
 + [Vue3中如何自定义消息总线](https://blog.csdn.net/astonishqft/article/details/139242478)
 
++ [数据挖掘实战-基于余弦相似度的印度美食推荐系统](https://blog.csdn.net/m0_64336780/article/details/137450506)
+
++ [语音深度鉴伪识别项目实战：基于深度学习的语音深度鉴伪识别算法模型(一)音频数据编码与预处理](https://blog.csdn.net/master_hunter/article/details/139242246)
+
++ [【Fiddler抓包工具】第五节.安卓、IOS抓包+fildder插件](https://blog.csdn.net/qq_64861334/article/details/139240924)
+
++ [使用 Elasticsearch 作为 Azure OpenAI On Your Data 的向量数据库](https://blog.csdn.net/UbuntuTouch/article/details/139234265)
+
++ [【机器学习300问】100、怎么理解卷积神经网络CNN中的池化操作？](https://blog.csdn.net/qq_39780701/article/details/139220829)
+
++ [YOLOv10：全面的效率-准确性驱动模型设计](https://blog.csdn.net/qq_41739364/article/details/139237740)
+
++ [云原生Kubernetes: 云主机部署K8S 1.30版本 单Master架构](https://blog.csdn.net/cronaldo91/article/details/139235168)
+
++ [超融合架构下，虚拟机高可用机制如何构建？](https://blog.csdn.net/weixin_43696211/article/details/139238293)
+
++ [.net core 8 配置中心热部署以及集成Consul实现微服务式调用](https://blog.csdn.net/weixin_63568353/article/details/139243277)
+
