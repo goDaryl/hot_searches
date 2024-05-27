@@ -173,3 +173,11 @@
 
 + [《纸片马力欧RPG：千年之门重置版》与纸飞机专家联动推出限定主题纸飞机](https://www.3dmgame.com/news/202405/3895869.html)
 
++ [英伟达将提前导入FOPLP封装技术：2025年应用于GB200](https://www.3dmgame.com/news/202405/3895878.html)
+
++ [亚马逊为《古墓丽影》3A新作招聘开发者 参与游戏发行](https://www.3dmgame.com/news/202405/3895877.html)
+
++ [艾伦声优梶裕贵AI合成声音软件推出 支持两者理应共存](https://www.3dmgame.com/news/202405/3895876.html)
+
++ [卡牌肉鸽游戏《打倒白雪公主！乌拉！》现已于Steam推出免费序章并获特别好评](https://www.3dmgame.com/news/202405/3895875.html)
+
