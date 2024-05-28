@@ -201,3 +201,15 @@
 
 + [《机器人之梦》定档海报及预告 6月8日国内上映](https://www.3dmgame.com/news/202405/3895947.html)
 
++ [RTX 5090细节曝光：性能提升恐怖 用单片式GB202芯片](https://www.3dmgame.com/news/202405/3895962.html)
+
++ [联想可能正在开发一款更低价的掌上游戏电脑](https://www.3dmgame.com/news/202405/3895961.html)
+
++ [《我推的孩子》动画第二季首个宣传PV公布 7月3日开播](https://www.3dmgame.com/news/202405/3895960.html)
+
++ [Steam《开放世界生存制作》游戏节开幕 大量佳作优惠](https://www.3dmgame.com/news/202405/3895959.html)
+
++ [隔了两个月，修仙终于可以生娃了！](https://www.3dmgame.com/news/202405/3895958.html)
+
++ [消息人士：《生化危机9》已推迟至2025年末/2026年](https://www.3dmgame.com/news/202405/3895957.html)
+
