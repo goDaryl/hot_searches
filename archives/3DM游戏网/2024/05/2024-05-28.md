@@ -127,3 +127,23 @@
 
 + [《黑神话：悟空》目前已登顶Steam愿望单榜首](https://www.3dmgame.com/news/202405/3895918.html)
 
++ [《龙珠：电光火石0》ESRB评级变化 移除血腥标签添加游戏内购](https://www.3dmgame.com/news/202405/3895929.html)
+
++ [《犹大》将带来类似生化奇兵体验：开放式玩法沉浸体验](https://www.3dmgame.com/news/202405/3895927.html)
+
++ [虚假手机游戏成真 《Raid Run》Steam页面上线](https://www.3dmgame.com/news/202405/3895928.html)
+
++ [《DOTA2》TI13直邀战队公布 仅6支队伍获邀](https://www.3dmgame.com/news/202405/3895926.html)
+
++ [英国销量周榜：《纸片马里奥：千年之门》首发登顶](https://www.3dmgame.com/news/202405/3895925.html)
+
++ [《无人深空》开发商新作《Light No Fire》或将于夏日游戏节发布新预告](https://www.3dmgame.com/news/202405/3895924.html)
+
++ [《Rack and Slay》登陆Steam 撞球肉鸽地牢探险](https://www.3dmgame.com/news/202405/3895923.html)
+
++ [《寂静岭》新专场直播公布 将深度展示真人电影、更新游戏情报](https://www.3dmgame.com/news/202405/3895922.html)
+
++ [育碧：《刺客信条：影》将带来玩家们最想要的东西](https://www.3dmgame.com/news/202405/3895921.html)
+
++ [发售十天后 《对马岛之鬼》仍然是Steam畅销榜游戏](https://www.3dmgame.com/news/202405/3895920.html)
+

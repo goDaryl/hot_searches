@@ -27,3 +27,11 @@
 
 + [比亚迪高管确认：第五代 DM 混动技术将开创油耗“2 时代”](https://m.ithome.com/html/771097.htm)
 
++ [抖音整治摆拍！即日起演绎内容需明确标注，否则最高永久封号](https://m.ithome.com/html/771019.htm)
+
++ [小米 80W 升降式风冷无线充套装到手价 299 元，原价 499 元](https://m.ithome.com/html/771037.htm)
+
++ [维信诺宣布全系供货荣耀 200 系列手机屏幕，独供荣耀 200Pro](https://m.ithome.com/html/771099.htm)
+
++ [线上专供，荣耀 200 手机提供 8+256GB 配置 2499 元](https://m.ithome.com/html/771083.htm)
+
