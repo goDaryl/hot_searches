@@ -107,3 +107,23 @@
 
 + [书籍学习|基于SprinBoot+vue的书籍学习平台(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/139262031)
 
++ [“提升人工智能大模型智能：策略与挑战“](https://blog.csdn.net/u014727709/article/details/139252478)
+
++ [使用 Ollama框架 下载和使用 Llama3 AI大模型的完整指南](https://blog.csdn.net/jxjdhdnd/article/details/139184347)
+
++ [分布式锁的设计与实现：基于Redis的方案](https://blog.csdn.net/shippingxing/article/details/139253133)
+
++ [Golang协程和通道](https://blog.csdn.net/chenlong_cxy/article/details/137794384)
+
++ [基于形态学滤波的心电信号ECG处理（MATLAB 2021B）](https://blog.csdn.net/weixin_39402231/article/details/139244368)
+
++ [鸿蒙高级题库](https://blog.csdn.net/qq_73735007/article/details/139241450)
+
++ [内网安全-隧道搭建&穿透上线&内网穿透-nps自定义上线&内网渗透-Linux上线-cs上线Linux主机](https://blog.csdn.net/rumil/article/details/139277821)
+
++ [【线性代数】【一】1. 1 线性方程组与线性组合](https://blog.csdn.net/liuyider/article/details/139244934)
+
++ [SwiftUI 5.0（iOS 17）进一步定制 TipKit 外观让撸码如虎添翼](https://blog.csdn.net/mydo/article/details/139227594)
+
++ [网络工程师：网络可靠性技术](https://blog.csdn.net/limengshi138392/article/details/139277664)
+

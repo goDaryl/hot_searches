@@ -111,3 +111,9 @@
 
 + [一战生存恐怖游戏《CONSCRIPT》年内登陆各平台](https://www.3dmgame.com/news/202405/3896004.html)
 
++ [Switch《艾兰岛》6月20日发售 改为一次性买断制](https://www.3dmgame.com/news/202405/3896010.html)
+
++ [任天堂联手乐高推出首个《塞尔达传说》主题套装](https://www.3dmgame.com/news/202405/3896009.html)
+
++ [《死神：勇敢的灵魂》今年夏季登陆任天堂Switch](https://www.3dmgame.com/news/202405/3896008.html)
+
