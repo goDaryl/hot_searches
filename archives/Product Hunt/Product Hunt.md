@@ -135,3 +135,7 @@
 
 + [Passkeyd](https://www.producthunt.com/posts/passkeyd)
 
++ [Squire AI](https://www.producthunt.com/posts/squire-ai)
+
++ [Just Polls](https://www.producthunt.com/posts/just-polls)
+
