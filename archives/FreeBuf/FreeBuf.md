@@ -53,3 +53,7 @@
 
 + [人为”错误“仍旧是网络安全最致命的缺点](https://www.freebuf.com/news/402039.html)
 
++ [Genzai：一款针对物联网安全的多功能实用性工具套件](https://www.freebuf.com/sectool/401702.html)
+
++ [近八成CSO认为，人为”错误“是最致命的“漏洞”](https://www.freebuf.com/news/402039.html)
+
