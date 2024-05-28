@@ -51,3 +51,5 @@
 
 + [攻防演练 | 从0开始实现一次完整的网络钓鱼（二）](https://www.freebuf.com/sectool/400954.html)
 
++ [人为”错误“仍旧是网络安全最致命的缺点](https://www.freebuf.com/news/402039.html)
+
