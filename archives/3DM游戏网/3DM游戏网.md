@@ -157,3 +157,19 @@
 
 + [丧尸生存《欢迎来到帕拉迪泽》推出免费内容更新](https://www.3dmgame.com/news/202405/3895930.html)
 
++ [《博德之门3》总监：我们陷入困境时 没有选择牺牲质量](https://www.3dmgame.com/news/202405/3895942.html)
+
++ [传闻：《勇者斗恶龙3 HD-2D重制版》将在6月任天堂直面会上亮相](https://www.3dmgame.com/news/202405/3895941.html)
+
++ [V社新作新实机泄露 23名英雄技能演示](https://www.3dmgame.com/news/202405/3895940.html)
+
++ [《JUMP运动漫画奖》举行 井上雄彦担任评委](https://www.3dmgame.com/news/202405/3895939.html)
+
++ [《枪匠模拟器》发布更新增添武器模式 Steam促销中](https://www.3dmgame.com/news/202405/3895938.html)
+
++ [动作节奏游戏《Aaero2》新预告放出 将于9月登录Xbox平台](https://www.3dmgame.com/news/202405/3895937.html)
+
++ [回合制策略冒险游戏《征服之歌》销量突破50万 首个DLC今年秋季发售](https://www.3dmgame.com/news/202405/3895936.html)
+
++ [《哥特王朝：重制版》新截图 恐怖森林尸体遍地](https://www.3dmgame.com/news/202405/3895935.html)
+
