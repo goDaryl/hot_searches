@@ -103,3 +103,11 @@
 
 + [支持试玩 像素剧情《Until Then》6月25日发售](https://www.3dmgame.com/news/202405/3896003.html)
 
++ [《星刃》开发者透露更多外观和更新并讨论续作](https://www.3dmgame.com/news/202405/3896007.html)
+
++ [Xbox与前Rocksteady创始人创建的新工作室合作](https://www.3dmgame.com/news/202405/3896006.html)
+
++ [CDPR表示希望更频繁地推出大型游戏](https://www.3dmgame.com/news/202405/3896005.html)
+
++ [一战生存恐怖游戏《CONSCRIPT》年内登陆各平台](https://www.3dmgame.com/news/202405/3896004.html)
+
