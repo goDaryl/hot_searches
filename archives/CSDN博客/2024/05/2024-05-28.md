@@ -155,3 +155,15 @@
 
 + [fpga系列 HDL 00 : 可编程逻辑器件原理](https://blog.csdn.net/ResumeProject/article/details/139241028)
 
++ [【大模型】 基于AI和全球化进程的权衡：开源大模型与闭源大模型](https://blog.csdn.net/Skrrapper/article/details/139187243)
+
++ [node.js学习P3-P10](https://blog.csdn.net/dundundunsis/article/details/138962787)
+
++ [Prometheus Operator创建告警规则并接入钉钉报警](https://blog.csdn.net/weixin_44946147/article/details/139251316)
+
++ [闲话 .NET（7）：.NET Core 能淘汰 .NET FrameWork 吗？](https://blog.csdn.net/yangshuquan/article/details/139249941)
+
++ [OrangePi Kunpeng Pro开发板初体验——家庭小型服务器](https://blog.csdn.net/sz793919425/article/details/139237439)
+
++ [YOLOv10介绍与推理--图片和视频演示（附源码）](https://blog.csdn.net/stq054188/article/details/139248118)
+
