@@ -275,3 +275,7 @@
 
 + [丰田展示适用于多种燃料的紧凑型发动机 多元化动力总成战略](https://www.3dmgame.com/news/202405/3895989.html)
 
++ [希捷BarraCuda 530系列SSD上市 1TB首发499元，读取速度7400MB/s](https://www.3dmgame.com/news/202405/3895995.html)
+
++ [《龙之信条2》全平台销量现已超300万套](https://www.3dmgame.com/news/202405/3895994.html)
+
