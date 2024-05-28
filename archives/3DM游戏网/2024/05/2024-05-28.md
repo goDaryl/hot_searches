@@ -147,3 +147,13 @@
 
 + [发售十天后 《对马岛之鬼》仍然是Steam畅销榜游戏](https://www.3dmgame.com/news/202405/3895920.html)
 
++ [《工人与资源：苏维埃共和国》将于6月20日正式发售](https://www.3dmgame.com/news/202405/3895934.html)
+
++ [《炒饭大师》Steam页面上线 各种炒饭制作模拟器](https://www.3dmgame.com/news/202405/3895933.html)
+
++ [竞速游戏《无限试驾：太阳王冠》将于5月30日发布特别公告](https://www.3dmgame.com/news/202405/3895932.html)
+
++ [派对竞速游戏《终极神速》现已在Steam平台正式发售 收获好评](https://www.3dmgame.com/news/202405/3895931.html)
+
++ [丧尸生存《欢迎来到帕拉迪泽》推出免费内容更新](https://www.3dmgame.com/news/202405/3895930.html)
+
