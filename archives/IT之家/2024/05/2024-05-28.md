@@ -59,3 +59,7 @@
 
 + [8+10 核 M3：苹果 2024 款 MacBook Air 上市两月京东立减 1200 元](https://m.ithome.com/html/771283.htm)
 
++ [比亚迪第五代 DM 技术发布：2.9L 全球最低百公里亏电油耗、2100 公里综合续航](https://m.ithome.com/html/771350.htm)
+
++ [小米否认将推“万兆 NAS”产品：仅作白模示意，目前没有规划](https://m.ithome.com/html/771337.htm)
+
