@@ -49,3 +49,5 @@
 
 + [一代传奇落幕，再见了迈锐宝](https://m.ithome.com/html/771577.htm)
 
++ [奇瑞 x 华为首车智界 S7 开启大规模交付，奇瑞董事长尹同跃亲自交车](https://m.ithome.com/html/771450.htm)
+
