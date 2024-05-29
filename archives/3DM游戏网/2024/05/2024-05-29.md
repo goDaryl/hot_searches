@@ -171,3 +171,23 @@
 
 + [《CHEFWARE》PC免费发布 精品迷你游戏合集](https://www.3dmgame.com/news/202405/3896020.html)
 
++ [多个百万级炫富网红账号被封 官媒定性毒瘤早就该拔](https://www.3dmgame.com/news/202405/3896046.html)
+
++ [《波斯王子：Rogue》更新计划公布 更新游戏内容筹备中](https://www.3dmgame.com/news/202405/3896047.html)
+
++ [《头脑特工队2》中文配音预告片 6月21日上映](https://www.3dmgame.com/news/202405/3896045.html)
+
++ [光辉已逝 手游公司Gameloft裁员超百人关闭工作室](https://www.3dmgame.com/news/202405/3896044.html)
+
++ [Atlus辟谣《真女神转生5：复仇》加入XGP：视频模版错误](https://www.3dmgame.com/news/202405/3896043.html)
+
++ [《Slayscape》Steam页面上线 PvPvE卡牌战斗](https://www.3dmgame.com/news/202405/3896042.html)
+
++ [CD Projekt Q1财报：《往日之影》热销 利润远超去年同期](https://www.3dmgame.com/news/202405/3896041.html)
+
++ [上帝模拟游戏《造物主2》现已在Steam平台正式推出 收获特别好评](https://www.3dmgame.com/news/202405/3896039.html)
+
++ [电影《美国内战》终极预告 6月7日内地上映](https://www.3dmgame.com/news/202405/3896040.html)
+
++ [小岛安利《疯狂的麦克斯》新片 斯内克演员“找到了”](https://www.3dmgame.com/news/202405/3896038.html)
+
