@@ -287,3 +287,5 @@
 
 + [迪士尼年度巨制《海洋奇缘2》首支预告重磅来袭](https://www.3dmgame.com/news/202405/3896094.html)
 
++ [《使命召唤21》将登录所有层级Game Pass 包含PC版](https://www.3dmgame.com/news/202405/3896096.html)
+
