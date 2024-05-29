@@ -257,3 +257,5 @@
 
 + [复古赛车《旧日飞车》Steam心愿单突破三万 今夏抢测](https://www.3dmgame.com/news/202405/3896072.html)
 
++ [全球研发投入前十企业排行 中企仅华为一家上榜](https://www.3dmgame.com/news/202405/3896081.html)
+
