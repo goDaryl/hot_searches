@@ -137,3 +137,5 @@
 
 + [六一儿童节创意项目：教你用HTML5和CSS3制作可爱的雪糕动画](https://blog.csdn.net/xingyu_qie/article/details/139271203)
 
++ [小熊家务帮day5 客户管理模块1 （小程序认证，手机验证码认证等）](https://blog.csdn.net/lihao1875699404/article/details/139274388)
+
