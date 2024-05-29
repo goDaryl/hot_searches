@@ -131,3 +131,7 @@
 
 + [组装赛车游戏《Screw Drivers》将开启抢先体验](https://www.3dmgame.com/news/202405/3896011.html)
 
++ [《黑神话：悟空》新片段发布 国产之光玩家很期待](https://www.3dmgame.com/news/202405/3896018.html)
+
++ [Tango Gameworks被关前曾在开发两款游戏](https://www.3dmgame.com/news/202405/3896019.html)
+
