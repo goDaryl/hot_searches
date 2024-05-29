@@ -27,3 +27,5 @@
 
 + [消息称苹果批准 iPhone 16 Pro 显示屏量产，边框更窄](https://m.ithome.com/html/771353.htm)
 
++ [小米 4 位 4 控插线板上市：独立开关、750℃ 阻燃外壳，39 元起](https://m.ithome.com/html/771376.htm)
+

@@ -117,3 +117,17 @@
 
 + [《死神：勇敢的灵魂》今年夏季登陆任天堂Switch](https://www.3dmgame.com/news/202405/3896008.html)
 
++ [《不羁联盟》发挥亮眼 首发一周玩家数量达800万](https://www.3dmgame.com/news/202405/3896017.html)
+
++ [《剑灵2》全新实机预告发布 经典IP双端“重生”](https://www.3dmgame.com/news/202405/3896016.html)
+
++ [《黑色沙漠》国服由腾讯代理 全新实机预告发布](https://www.3dmgame.com/news/202405/3896015.html)
+
++ [腾讯《极品飞车：集结》新预告 开放世界赛车手游](https://www.3dmgame.com/news/202405/3896014.html)
+
++ [腾讯文明IP手游《世界启元》新预告 乐趣无穷！](https://www.3dmgame.com/news/202405/3896013.html)
+
++ [《赛博朋克2077》开发团队已全面转向新项目](https://www.3dmgame.com/news/202405/3896012.html)
+
++ [组装赛车游戏《Screw Drivers》将开启抢先体验](https://www.3dmgame.com/news/202405/3896011.html)
+
