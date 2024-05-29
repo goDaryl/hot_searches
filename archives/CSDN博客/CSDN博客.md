@@ -205,3 +205,7 @@
 
 + [html--龟派气功](https://blog.csdn.net/stqer/article/details/139268151)
 
++ [使用Ollama和Open WebUI管理本地开源大模型的完整指南](https://blog.csdn.net/jxjdhdnd/article/details/139234154)
+
++ [SpringBoot实现接口防抖的几种方案，杜绝重复提交](https://blog.csdn.net/kangbin825/article/details/139260550)
+

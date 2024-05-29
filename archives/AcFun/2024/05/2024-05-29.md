@@ -135,3 +135,13 @@
 
 + [你喜欢吗？](http://www.acfun.cn/v/ac44670014)
 
++ [斑目&祐介：穷哥们的抽象背后是一场持续了十余年的艺术探索【女神闲谈】](http://www.acfun.cn/v/ac44671733)
+
++ [黑皮辣妹 + 肉腿，简直犯规了！……▎大师精选¹¹⁸](http://www.acfun.cn/v/ac44670767)
+
++ [跳了ビビデバ](http://www.acfun.cn/v/ac44671637)
+
++ [【重音テト】喜欢人类的公告恶龙⧸好きな人間発表ドラゴン【3D PV】](http://www.acfun.cn/v/ac44675574)
+
++ [[UTAU翻唱] 熱異常 ft. AC娘 (ACMusumeII)](http://www.acfun.cn/v/ac44674294)
+
