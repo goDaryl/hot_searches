@@ -199,3 +199,15 @@
 
 + [原Epic独占《指环王：重返莫瑞亚》Steam页面 发售日期待定](https://www.3dmgame.com/news/202405/3896141.html)
 
++ [《绝地潜兵2》开发商新CEO承认游戏里武器没有想象中的有趣](https://www.3dmgame.com/news/202405/3896152.html)
+
++ [索尼新CEO：游戏登陆PC是为了吸引玩家买PS5玩续集](https://www.3dmgame.com/news/202405/3896151.html)
+
++ [《坎巴拉太空计划2》开发商确认6月底将进行裁员](https://www.3dmgame.com/news/202405/3896153.html)
+
++ [《王者天下：大将军回归》全新海报公开 7月12日上映](https://www.3dmgame.com/news/202405/3896150.html)
+
++ [欧盟宣布成立人工智能办公室 对AI进行监管](https://www.3dmgame.com/news/202405/3896149.html)
+
++ [《尼尔：机械纪元》推出联名红酒：听游戏配乐酿造](https://www.3dmgame.com/news/202405/3896148.html)
+

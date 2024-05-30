@@ -105,3 +105,7 @@
 
 + [Phantom Islands](https://dribbble.com/shots/)
 
++ [Do not live for others' opinions](https://dribbble.com/shots/)
+
++ [Shape Studies: 056](https://dribbble.com/shots/)
+
