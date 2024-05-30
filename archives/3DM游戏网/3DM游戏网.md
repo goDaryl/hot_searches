@@ -213,3 +213,11 @@
 
 + [微软发布DirectSR预览版 统一英伟达AMDIntel超分技术](https://www.3dmgame.com/news/202405/3896154.html)
 
++ [《原神》克洛琳德角色PV——「最终保险」](https://www.3dmgame.com/news/202405/3896157.html)
+
++ [《绝地求生》被疑抽奖概率造假 遭到韩国公正委员会调查](https://www.3dmgame.com/news/202405/3896158.html)
+
++ [《无人深空》第十三次远征活动“漂泊”现已正式上线](https://www.3dmgame.com/news/202405/3896156.html)
+
++ [第一人称合作恐怖游戏《昏暗潜水员》官方预告放出 6月20日推出抢先体验版](https://www.3dmgame.com/news/202405/3896155.html)
+
