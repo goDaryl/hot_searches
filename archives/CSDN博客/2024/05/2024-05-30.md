@@ -131,3 +131,11 @@
 
 + [传输控制协议（TCP，Transmission Control Protocol）及三次握手（Three-Way Handshake）四次挥手（Four-Way Handshake）](https://blog.csdn.net/weixin_74457789/article/details/139287965)
 
++ [AI大模型探索之路-实战篇11： Function Calling技术整合：强化Agent智能数据分析平台功能](https://blog.csdn.net/xiaobing259/article/details/139216752)
+
++ [Mybatis进阶——动态SQL（1）](https://blog.csdn.net/cool_tao6/article/details/139178024)
+
++ [【架构之路】聊聊什么是微服务](https://blog.csdn.net/jinxinxin1314/article/details/139309243)
+
++ [云计算-高级云架构 (Advanced Cloud Architecture)](https://blog.csdn.net/qq_54813250/article/details/139250853)
+

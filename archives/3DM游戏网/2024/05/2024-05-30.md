@@ -161,3 +161,17 @@
 
 + [《使命召唤》x《辐射》联动“放逐者”捆绑包泄露](https://www.3dmgame.com/news/202405/3896119.html)
 
++ [《辐射》系列游戏席卷美国4月玩家游玩时长排行榜](https://www.3dmgame.com/news/202405/3896134.html)
+
++ [《真女神转生5：复仇》新宣传PV公布 6月14日发售](https://www.3dmgame.com/news/202405/3896130.html)
+
++ [经营游戏《原地起啡》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202405/3896135.html)
+
++ [总有几个好评的 日媒评选动慢真人改编排行《死亡笔记》第三](https://www.3dmgame.com/news/202405/3896133.html)
+
++ [《地下城与勇士》手游上市首周收入1.4亿美元 吸金怪兽！](https://www.3dmgame.com/news/202405/3896132.html)
+
++ [像素风地下城建造游戏《地牢大师》现已在Steam推出抢先体验版](https://www.3dmgame.com/news/202405/3896131.html)
+
++ [《绝地战警：生死与共》国内定档 6月22日上映](https://www.3dmgame.com/news/202405/3896129.html)
+
