@@ -175,3 +175,27 @@
 
 + [《绝地战警：生死与共》国内定档 6月22日上映](https://www.3dmgame.com/news/202405/3896129.html)
 
++ [多人射击游戏《牛仔3030》现已在Steam平台推出抢先体验版 已获好评](https://www.3dmgame.com/news/202405/3896142.html)
+
++ [深度牧场生活模拟游戏《Rancher: A new life》Steam页面 明年发行](https://www.3dmgame.com/news/202405/3896143.html)
+
++ [ 《反转21克》今日上线，与七位红颜一起揭开电影级科幻的谜团！](https://www.3dmgame.com/news/202405/3896144.html)
+
++ [拉瑞安老板：《巫师4》《GTA6》会让《博德3》相形见绌](https://www.3dmgame.com/news/202405/3896145.html)
+
++ [为梦想真的窒息了 贾跃亭承认法拉第可能永远无法盈利](https://www.3dmgame.com/news/202405/3896146.html)
+
++ [《霍格沃茨之遗》本周公布新消息 PS独占任务将登陆其他平台](https://www.3dmgame.com/news/202405/3896147.html)
+
++ [《燕云十六声》伞武器情报：出招变化莫测 势入千钧](https://www.3dmgame.com/news/202405/3896136.html)
+
++ [《华纳大乱斗》重启获热度 但需要付费解锁英雄引玩家不满](https://www.3dmgame.com/news/202405/3896137.html)
+
++ [《双人成行》新更新导致云存档丢失 EA分享通关存档](https://www.3dmgame.com/news/202405/3896138.html)
+
++ [据报道《正当防卫》改编电影正在制作中 由《蓝甲虫》导演执导](https://www.3dmgame.com/news/202405/3896139.html)
+
++ [《工房库：噩梦历险记》 登陆Switch 经典奇幻名作](https://www.3dmgame.com/news/202405/3896140.html)
+
++ [原Epic独占《指环王：重返莫瑞亚》Steam页面 发售日期待定](https://www.3dmgame.com/news/202405/3896141.html)
+
