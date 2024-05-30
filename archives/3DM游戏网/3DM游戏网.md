@@ -211,3 +211,5 @@
 
 + [《尼尔：机械纪元》推出联名红酒：听游戏配乐酿造](https://www.3dmgame.com/news/202405/3896148.html)
 
++ [微软发布DirectSR预览版 统一英伟达AMDIntel超分技术](https://www.3dmgame.com/news/202405/3896154.html)
+
