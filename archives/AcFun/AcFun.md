@@ -101,3 +101,7 @@
 
 + [【MMD】秀美淑姿 Sour式御姐Luka「Hand In Hand」Vocaloidカバー](http://www.acfun.cn/v/ac44677278)
 
++ [狠货油炸蚂蚱来了狠狠吃！](http://www.acfun.cn/v/ac44685687)
+
++ [【A站独家】能减肥成功的都是狠人](http://www.acfun.cn/v/ac44671242)
+
