@@ -127,3 +127,7 @@
 
 + [CDPR将为《赛博朋克2077》提供FSR3支持 尽管没专门团队](https://www.3dmgame.com/news/202405/3896110.html)
 
++ [SIE：PS4仍然很重要 主机月活一半是PS4玩家](https://www.3dmgame.com/news/202405/3896112.html)
+
++ [ARPG《Kristala》抢先体验版6月7日推出 化身猫战士](https://www.3dmgame.com/news/202405/3896113.html)
+
