@@ -43,3 +43,7 @@
 
 + [周星驰首部微短剧《金猪玉叶》6 月 2 日上线，24 集 100 多处致敬](https://m.ithome.com/html/771680.htm)
 
++ [极氪 007 以 1 分 41 秒 740 成绩刷新浙赛圈速纪录](https://m.ithome.com/html/771740.htm)
+
++ [会员 618 补新券：爱优腾B站年卡 88 元起，百度网盘 / WPS 会员 5.8 折起](https://m.ithome.com/html/771566.htm)
+
