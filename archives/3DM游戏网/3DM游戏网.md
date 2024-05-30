@@ -279,3 +279,7 @@
 
 + [可口可乐国内悄然涨价：消息称提价幅度16%](https://www.3dmgame.com/news/202405/3896176.html)
 
++ [《DEBUG女友》登陆Steam 与可爱女友的游戏创作之旅](https://www.3dmgame.com/news/202405/3896188.html)
+
++ [《死亡搁浅》等游戏获得苹果2024年设计大奖提名](https://www.3dmgame.com/news/202405/3896189.html)
+
