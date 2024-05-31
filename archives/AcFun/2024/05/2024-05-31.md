@@ -65,3 +65,9 @@
 
 + [「Time machine 」“此生只有一次机会，亦渴望时间倒流”](http://www.acfun.cn/v/ac44684782)
 
++ [不愧是被写入北影教材的人，华语十佳电影，再过100年也不过时！《香蕉天堂》](http://www.acfun.cn/v/ac44688454)
+
++ [考古 青蛇](http://www.acfun.cn/v/ac44688757)
+
++ [红尾水鸲生气的样子，又凶又萌！](http://www.acfun.cn/v/ac44688285)
+

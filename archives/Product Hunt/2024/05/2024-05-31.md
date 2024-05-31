@@ -101,3 +101,11 @@
 
 + [Bash](https://www.producthunt.com/posts/bash-4)
 
++ [Stripe fee calculator](https://www.producthunt.com/posts/stripe-fee-calculator)
+
++ [SvelteShip](https://www.producthunt.com/posts/svelteship)
+
++ [Trip Tunes](https://www.producthunt.com/posts/trip-tunes)
+
++ [Justinmind User Flows](https://www.producthunt.com/posts/justinmind-user-flows)
+

@@ -49,3 +49,27 @@
 
 + [Create Something](https://dribbble.com/shots/)
 
++ [Bubble Bliss](https://dribbble.com/shots/)
+
++ [Traveller Chair](https://dribbble.com/shots/)
+
++ [Converse Warsaw](https://dribbble.com/shots/)
+
++ [Shawn Kemp](https://dribbble.com/shots/)
+
++ [Crow grid](https://dribbble.com/shots/)
+
++ [Sendero Tag Label](https://dribbble.com/shots/)
+
++ [Foo Fighters Graphic](https://dribbble.com/shots/)
+
++ [Atomic Transport!](https://dribbble.com/shots/)
+
++ [Music Lovers 1/3](https://dribbble.com/shots/)
+
++ [Spirit of the forest](https://dribbble.com/shots/)
+
++ [Hiking for the win (PSE '24)](https://dribbble.com/shots/)
+
++ [Web design for SAS Design Studio](https://dribbble.com/shots/)
+
