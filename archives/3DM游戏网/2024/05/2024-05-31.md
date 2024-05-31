@@ -207,3 +207,5 @@
 
 + [索尼5月发布会整合：《战神5》PC版和大量新作消息](https://www.3dmgame.com/news/202405/3896238.html)
 
++ [《刀锋战士》主演正在洽谈加入《侏罗纪世界》新片](https://www.3dmgame.com/news/202405/3896252.html)
+
