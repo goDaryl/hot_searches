@@ -109,3 +109,9 @@
 
 + [Justinmind User Flows](https://www.producthunt.com/posts/justinmind-user-flows)
 
++ [Rupt](https://www.producthunt.com/posts/rupt-3)
+
++ [Qaiz](https://www.producthunt.com/posts/qaiz)
+
++ [Backseat AI by Tyler1](https://www.producthunt.com/posts/backseat-ai-by-tyler1)
+
