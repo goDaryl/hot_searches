@@ -43,3 +43,5 @@
 
 + [魅族“不务正业”？魅友共创便携麻将官宣明天众筹上线](https://m.ithome.com/html/771897.htm)
 
++ [全国学生可领，网易宣布免费赠送 VIP 邮箱、网易云音乐等会员礼包](https://m.ithome.com/html/771942.htm)
+
