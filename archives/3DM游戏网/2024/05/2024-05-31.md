@@ -213,3 +213,23 @@
 
 + [入手最佳时机！iPhone顶配首次降到8000元以内](https://www.3dmgame.com/news/202405/3896253.html)
 
++ [KK官方对战平台怀旧专区正式上线 寻找洛丹伦，重返RPG黄金年代！](https://www.3dmgame.com/news/202405/3896263.html)
+
++ [【方块方舟】欢乐像素世界，童趣无限，儿童节版本开启！](https://www.3dmgame.com/news/202405/3896264.html)
+
++ [《哆啦A梦：大雄的地球交响乐》今日上映 “乐”在其中的冒险之旅正式开启](https://www.3dmgame.com/news/202405/3896262.html)
+
++ [《暗黑破坏神4》1周年纪念活动：宝藏哥布林入侵！](https://www.3dmgame.com/news/202405/3896261.html)
+
++ [《龙之信条2》新更新补丁上线 仓库道具数量上限提升](https://www.3dmgame.com/news/202405/3896260.html)
+
++ [沙盒建造游戏《Plasma》宣布停止开发 Steam版改为免费游玩](https://www.3dmgame.com/news/202405/3896259.html)
+
++ [OpenAI 推出为大学开发的 ChatGPT Edu 教育版 对话和数据不用于训练模型](https://www.3dmgame.com/news/202405/3896258.html)
+
++ [雷神演员或将出演《变形金刚+特种部队》电影](https://www.3dmgame.com/news/202405/3896257.html)
+
++ [索尼英雄射击游戏《Concord》不是免费游戏 需要购买](https://www.3dmgame.com/news/202405/3896255.html)
+
++ [《最终幻想7：重生》团队希望在三部曲最后一部中提供更自由和不同类型的体验](https://www.3dmgame.com/news/202405/3896256.html)
+

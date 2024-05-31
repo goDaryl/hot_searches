@@ -59,3 +59,7 @@
 
 + [涉及 5.6 亿客户，票务大师（Ticketmaster）遭遇网络攻击](https://www.freebuf.com/news/402357.html)
 
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
++ [SNCScan：针对SAP安全网络通信（SNC）的安全分析与评估工具](https://www.freebuf.com/sectool/402047.html)
+
