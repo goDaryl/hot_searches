@@ -291,3 +291,7 @@
 
 + [Acer发布三款OLED游戏显示器 定位于高端市场](https://www.3dmgame.com/news/202405/3896292.html)
 
++ [SIE新游《Concord》被曝又是一个ZZZQ游戏](https://www.3dmgame.com/news/202405/3896295.html)
+
++ [索尼影视：将使用人工智能制作电影 能省太多钱](https://www.3dmgame.com/news/202405/3896294.html)
+
