@@ -57,3 +57,5 @@
 
 + [Gartner：生成式人工智能对基础设施和运营的影响显著增加](https://www.freebuf.com/news/402340.html)
 
++ [涉及 5.6 亿客户，票务大师（Ticketmaster）遭遇网络攻击](https://www.freebuf.com/news/402357.html)
+
