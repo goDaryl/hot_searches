@@ -53,3 +53,11 @@
 
 + [王化否认“小米逼供应商买车”传闻：法务部又有新收获](https://m.ithome.com/html/772001.htm)
 
++ [消息称小米 15 系列手机“两款杯型”均配定制豪威主摄，全系标配 50MP 1/1.3 英寸方案](https://m.ithome.com/html/772007.htm)
+
++ [上市 2499 元：摩尔线程 MTT S70 国产显卡 876 元送鼠标垫](https://m.ithome.com/html/772016.htm)
+
++ [泰勒斯威夫特开个演唱会，端掉了美国最大“黑票务网站”Live Nation](https://m.ithome.com/html/771985.htm)
+
++ [吉利汽车发布银河 Flyme Auto 智能座舱与 Flyme Sound 无界之声音响系统，将搭载于银河 E5](https://m.ithome.com/html/771907.htm)
+

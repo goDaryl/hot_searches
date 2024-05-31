@@ -287,3 +287,7 @@
 
 + [武侠RPG《活侠传》反向跳票 6月14日发售](https://www.3dmgame.com/news/202405/3896285.html)
 
++ [《小小梦魇3》跳票到2025年发售 团队需要更多时间](https://www.3dmgame.com/news/202405/3896293.html)
+
++ [Acer发布三款OLED游戏显示器 定位于高端市场](https://www.3dmgame.com/news/202405/3896292.html)
+
