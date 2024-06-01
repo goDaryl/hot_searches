@@ -49,3 +49,25 @@
 
 + [Boots in the Park 2023](https://dribbble.com/shots/)
 
++ [Like-Wha?](https://dribbble.com/shots/)
+
++ [Shawn Kemp](https://dribbble.com/shots/)
+
++ [Spirit of the forest](https://dribbble.com/shots/)
+
++ [Grocery Warmup Sketch](https://dribbble.com/shots/)
+
++ [Mcneese University x Crust Pizza - Pattern Illustration](https://dribbble.com/shots/)
+
++ [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
+
++ [Offical Creative Pain Pattern](https://dribbble.com/shots/)
+
++ [Summer Vibe](https://dribbble.com/shots/)
+
++ [Phantom Islands](https://dribbble.com/shots/)
+
++ [腐った](https://dribbble.com/shots/)
+
++ [AFJS logo concept](https://dribbble.com/shots/)
+
