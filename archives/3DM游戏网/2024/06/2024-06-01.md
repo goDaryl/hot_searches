@@ -147,3 +147,5 @@
 
 + [和《血源》无关！PS1复古《梦魇卡丁车》正式推出](https://www.3dmgame.com/news/202406/3896323.html)
 
++ [《世上英雄》正式定档6月14日发售 原价29元](https://www.3dmgame.com/news/202406/3896324.html)
+
