@@ -175,3 +175,11 @@
 
 + [黑客团伙利用Python、Golang和Rust恶意软件袭击印国防部门；OpenAI揭秘，AI模型如何被用于全球虚假信息传播？ | 安全周报0531](https://blog.csdn.net/weixin_55163056/article/details/139358698)
 
++ [【机器学习】基于YOLOv10实现你的第一个视觉AI大模型](https://blog.csdn.net/weixin_48007632/article/details/139307081)
+
++ [GPT-4o：免费且更快的模型](https://blog.csdn.net/qq_31329349/article/details/139354720)
+
++ [Prompt工程与实践](https://blog.csdn.net/m0_74120525/article/details/139304005)
+
++ [Netty中半包粘包的产生与处理：短连接、固定长度、固定分隔符、预设长度；redis、http协议举例；网络数据的发送和接收过程](https://blog.csdn.net/weixin_45863010/article/details/139308110)
+
