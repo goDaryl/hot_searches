@@ -101,3 +101,11 @@
 
 + [C# 工厂模式学习](https://blog.csdn.net/lijingguang/article/details/139347573)
 
++ [【计算机网络】——物理层（图文并茂）](https://blog.csdn.net/2203_76003626/article/details/139306049)
+
++ [RedisSearch与Elasticsearch：技术对比与选择指南](https://blog.csdn.net/qq_26664043/article/details/138033153)
+
++ [18.Redis之哨兵](https://blog.csdn.net/m0_47017197/article/details/139330770)
+
++ [网络分层与各层网络协议介绍](https://blog.csdn.net/xieliru/article/details/139360738)
+
