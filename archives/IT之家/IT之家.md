@@ -55,3 +55,7 @@
 
 + [周鸿祎称余承东“大嘴”外号已过时应叫“余大炮”，对方回复“你才是大炮”](https://m.ithome.com/html/772414.htm)
 
++ [华为余承东：享界 S9 价格是迈巴赫十分之一，但比迈巴赫更豪华](https://m.ithome.com/html/772412.htm)
+
++ [京东苹果 618 加码：iPhone 15 Pro 5896 元破冰新低，AirPods 3 984 元探底](https://m.ithome.com/html/772422.htm)
+
