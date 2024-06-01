@@ -59,3 +59,7 @@
 
 + [京东苹果 618 加码：iPhone 15 Pro 5896 元破冰新低，AirPods 3 984 元探底](https://m.ithome.com/html/772422.htm)
 
++ [华为余承东：鸿蒙智行今年销量已达 13.4 万辆，内部正讨论是否打造硬派越野车型](https://m.ithome.com/html/772370.htm)
+
++ [十年后全球前十车企里几家来自中国？华为余承东称“可能六七成”，蔚来李斌称“五家”](https://m.ithome.com/html/772389.htm)
+
