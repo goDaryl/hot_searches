@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | 星链被俄罗斯网络攻破；拍卖行佳士得遭遇网络攻击](https://www.freebuf.com/news/402331.html)
 
++ [记录一次cnvd事件型证书漏洞挖掘](https://www.freebuf.com/vuls/402033.html)
+
