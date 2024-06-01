@@ -109,3 +109,19 @@
 
 + [网络分层与各层网络协议介绍](https://blog.csdn.net/xieliru/article/details/139360738)
 
++ [“开源与闭源：AI大模型发展的未来之路“](https://blog.csdn.net/u014727709/article/details/139282471)
+
++ [Stable Diffusion AI绘画：从创意词汇到艺术图画的魔法之旅](https://blog.csdn.net/qq_32682301/article/details/139313196)
+
++ [【活动】GPT-4O：AI语言生成技术的新里程碑](https://blog.csdn.net/qq_44214428/article/details/139371880)
+
++ [开源与闭源 AI 模型：发展路径的比较与前瞻](https://blog.csdn.net/qyj19920704/article/details/139319610)
+
++ [matlab GUI界面设计](https://blog.csdn.net/weixin_68256171/article/details/139351890)
+
++ [CSS3 の flex弹性布局](https://blog.csdn.net/2301_80293400/article/details/139380588)
+
++ [【上海大学计算机组成原理实验报告】六、内存系统实验](https://blog.csdn.net/HackerKevon/article/details/139380732)
+
++ [基于ELK的日志管理【开发实践】](https://blog.csdn.net/qq_40656637/article/details/139238411)
+
