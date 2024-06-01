@@ -101,3 +101,15 @@
 
 + [奇幻动作冒险游戏《星之旅》Steam页面上线 支持简中](https://www.3dmgame.com/news/202405/3896247.html)
 
++ [合作PvE小队射击游戏《Mortal Void》Steam页面上线 支持中文](https://www.3dmgame.com/news/202406/3896306.html)
+
++ [Private Division或将关闭 《坎巴拉》本计划卖给P社](https://www.3dmgame.com/news/202406/3896305.html)
+
++ [传SIE将在夏季游戏节上公布更多第一方游戏](https://www.3dmgame.com/news/202406/3896304.html)
+
++ [《宇宙机器人》主创：这真的是一个很大很大的游戏](https://www.3dmgame.com/news/202406/3896303.html)
+
++ [《真三国无双：起源》Steam商店页公开 支持中文配音](https://www.3dmgame.com/news/202406/3896302.html)
+
++ [《宇宙机器人》最受玩家欢迎 《Concord》预告好评率仅18%](https://www.3dmgame.com/news/202406/3896301.html)
+

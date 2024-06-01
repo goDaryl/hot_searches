@@ -43,3 +43,5 @@
 
 + [ViperSoftX 启用基于深度学习的 OCR 引擎进行窃密](https://www.freebuf.com/articles/network/401601.html)
 
++ [FreeBuf 周报 | 星链被俄罗斯网络攻破；拍卖行佳士得遭遇网络攻击](https://www.freebuf.com/news/402331.html)
+

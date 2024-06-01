@@ -133,3 +133,11 @@
 
 + [橙派探险记：开箱香橙派 AIpro 与疲劳驾驶检测的奇幻之旅](https://blog.csdn.net/weixin_53050357/article/details/139307881)
 
++ [语音深度鉴伪识别项目实战：基于深度学习的语音深度鉴伪识别算法模型(二)音频数据预处理及去噪算法+Python源码应用](https://blog.csdn.net/master_hunter/article/details/139353544)
+
++ [微信小程序-页面导航](https://blog.csdn.net/2301_79188932/article/details/139361508)
+
++ [html--女巫](https://blog.csdn.net/stqer/article/details/139236250)
+
++ [数据可视化分析工具DataEase](https://blog.csdn.net/wbsu2004/article/details/139283479)
+
