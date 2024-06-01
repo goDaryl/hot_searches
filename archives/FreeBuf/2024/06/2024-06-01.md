@@ -41,3 +41,5 @@
 
 + [Linux应急响应思路和技巧：进程分析篇](https://www.freebuf.com/articles/system/401918.html)
 
++ [ViperSoftX 启用基于深度学习的 OCR 引擎进行窃密](https://www.freebuf.com/articles/network/401601.html)
+
