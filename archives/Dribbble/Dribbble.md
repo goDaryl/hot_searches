@@ -71,3 +71,13 @@
 
 + [AFJS logo concept](https://dribbble.com/shots/)
 
++ [ilcons Around the world icons](https://dribbble.com/shots/)
+
++ [Shape Studies: 056](https://dribbble.com/shots/)
+
++ [Birdie Houses](https://dribbble.com/shots/)
+
++ [Sendero Tag Label](https://dribbble.com/shots/)
+
++ [1950's vibe road trip scene](https://dribbble.com/shots/)
+
