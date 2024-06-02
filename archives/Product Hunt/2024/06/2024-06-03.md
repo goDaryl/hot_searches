@@ -105,3 +105,5 @@
 
 + [Zest](https://www.producthunt.com/posts/zest-2dbf1b37-b73e-4f92-a290-ffe003f4ab08)
 
++ [MaxFocus: Link Preview](https://www.producthunt.com/posts/maxfocus-link-preview)
+
