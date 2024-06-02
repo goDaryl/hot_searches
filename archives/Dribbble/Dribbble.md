@@ -85,3 +85,9 @@
 
 + [Chris Rea Lettering](https://dribbble.com/shots/)
 
++ [Pedro](https://dribbble.com/shots/)
+
++ [Foo Fighters Graphic](https://dribbble.com/shots/)
+
++ [Villagers: Dog and Cat](https://dribbble.com/shots/)
+
