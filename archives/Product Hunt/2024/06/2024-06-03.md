@@ -101,3 +101,5 @@
 
 + [DocentPro — Explore the world](https://www.producthunt.com/posts/docentpro-explore-the-world)
 
++ [Fairytrail Travel App](https://www.producthunt.com/posts/fairytrail-travel-app)
+
