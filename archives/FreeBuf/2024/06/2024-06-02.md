@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/402387.html)
 
++ [实战案例 | 绕过计算型验证码](https://www.freebuf.com/articles/web/401619.html)
+
