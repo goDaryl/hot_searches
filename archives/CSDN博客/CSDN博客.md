@@ -125,3 +125,9 @@
 
 + [基于ELK的日志管理【开发实践】](https://blog.csdn.net/qq_40656637/article/details/139238411)
 
++ [YOLOv8 segment介绍](https://blog.csdn.net/fengbingchun/article/details/139377787)
+
++ [前端Vue小兔鲜儿电商项目实战Day04](https://blog.csdn.net/ltt159264/article/details/139326042)
+
++ [【码银送书第二十期】《游戏运营与出海实战：策略、方法与技巧》](https://blog.csdn.net/weixin_53197693/article/details/139339817)
+
