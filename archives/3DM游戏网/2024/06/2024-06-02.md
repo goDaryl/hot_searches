@@ -123,3 +123,5 @@
 
 + [《星球大战：银河猎手》登陆NS 上市宣传片欣赏](https://www.3dmgame.com/news/202406/3896355.html)
 
++ [《Tell Me Why》6月限定免费 经典超能力剧情冒险](https://www.3dmgame.com/news/202406/3896358.html)
+

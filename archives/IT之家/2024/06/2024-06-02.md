@@ -29,3 +29,5 @@
 
 + [华为联合设计，鸿蒙智行问界新 M7 Ultra 车型上市首日大定破 12000 台](https://m.ithome.com/html/772464.htm)
 
++ [华为余承东：欢迎特斯拉 FSD 入华，华为智驾体验略优一些](https://m.ithome.com/html/772416.htm)
+
