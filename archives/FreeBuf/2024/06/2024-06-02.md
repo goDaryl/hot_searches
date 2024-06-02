@@ -43,3 +43,5 @@
 
 + [Android安全 | SoumniBot恶意软件非常规分析和检测规避方法](https://www.freebuf.com/articles/mobile/400880.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/402387.html)
+

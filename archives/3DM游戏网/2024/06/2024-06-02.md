@@ -101,3 +101,11 @@
 
 + [华为手机回归：小米、荣耀、OV等打响线下渠道守卫战](https://www.3dmgame.com/news/202405/3896297.html)
 
++ [《50 Floors》免费登陆Steam 类《8番出口》惊悚解谜](https://www.3dmgame.com/news/202406/3896349.html)
+
++ [AI驱动！英伟达将推游戏内助手G-Assist](https://www.3dmgame.com/news/202406/3896350.html)
+
++ [Netflix动画《古墓丽影：劳拉传奇》首曝预告 海莉配音](https://www.3dmgame.com/news/202406/3896347.html)
+
++ [Take Two决心将旗下知名IP移植到手机平台](https://www.3dmgame.com/news/202406/3896348.html)
+
