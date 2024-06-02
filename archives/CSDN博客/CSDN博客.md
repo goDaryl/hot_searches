@@ -187,3 +187,7 @@
 
 + [Vue插槽与作用域插槽](https://blog.csdn.net/qq_42210428/article/details/139379966)
 
++ [Spring原理-IOC和AOP](https://blog.csdn.net/qq_37398465/article/details/137465288)
+
++ [开源VS闭源：大模型发展路径之争，你站哪一派？](https://blog.csdn.net/m290345792/article/details/139389220)
+
