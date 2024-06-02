@@ -133,3 +133,5 @@
 
 + [5月安卓手机性能榜出炉 vivo霸榜前10占8位](https://www.3dmgame.com/news/202406/3896361.html)
 
++ [《宇宙机器人》将会有超过150个PlayStation角色登场](https://www.3dmgame.com/news/202406/3896363.html)
+
