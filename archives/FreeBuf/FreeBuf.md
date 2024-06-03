@@ -53,3 +53,5 @@
 
 + [卡巴斯基发布可扫描Linux已知威胁的免费工具](https://www.freebuf.com/news/402471.html)
 
++ [从目录浏览漏洞到某融合通信调度系统的getshell](https://www.freebuf.com/defense/402101.html)
+
