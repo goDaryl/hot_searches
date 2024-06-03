@@ -109,3 +109,11 @@
 
 + [Buglab AI](https://www.producthunt.com/posts/buglab-ai)
 
++ [Atlas.co](https://www.producthunt.com/posts/atlas-co-1)
+
++ [Linkz.ai 3.0](https://www.producthunt.com/posts/linkz-ai-3-0)
+
++ [human.software](https://www.producthunt.com/posts/human-software)
+
++ [Deepshot 2.0](https://www.producthunt.com/posts/deepshot-2-0)
+

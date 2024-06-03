@@ -181,3 +181,9 @@
 
 + [复古策略探索游戏《SKALD：攻打黑修院》现已正式推出 Steam获特别好评](https://www.3dmgame.com/news/202406/3896418.html)
 
++ [《海贼王》漫画衍生插图小说公布 聚焦于女性角色](https://www.3dmgame.com/news/202406/3896425.html)
+
++ [英伟达显卡玩家获赠3个月PC版XGP 6月4日起开领](https://www.3dmgame.com/news/202406/3896424.html)
+
++ [《ContractVille》Steam抢先体验 开放世界城市建设](https://www.3dmgame.com/news/202406/3896423.html)
+
