@@ -133,3 +133,33 @@
 
 + [夏季游戏节2024本周六早上5点直播 宣传片发布](https://www.3dmgame.com/news/202406/3896394.html)
 
++ [斯坦福大学研究 儿时沉迷宝可梦玩家会有宝可梦特定脑活动](https://www.3dmgame.com/news/202406/3896413.html)
+
++ [复古风科幻生存恐怖游戏《零号协议》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3896409.html)
+
++ [小岛秀夫安利韩剧《超异能族》 最后三集哭着看完](https://www.3dmgame.com/news/202406/3896412.html)
+
++ [GOG已确认：如果用户有遗嘱 那就可以继承账户](https://www.3dmgame.com/news/202406/3896411.html)
+
++ [《致命公司》公布V55更新 6月25日上线](https://www.3dmgame.com/news/202406/3896410.html)
+
++ [《冰汽时代2》并非抑郁模拟器：不是为了让人感到痛苦](https://www.3dmgame.com/news/202406/3896408.html)
+
++ [《我的世界》更新1.21发布 修复不少问题](https://www.3dmgame.com/news/202406/3896407.html)
+
++ [动作对战游戏《时光迷失》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3896406.html)
+
++ [传闻：任天堂正在开发《斯普拉遁》新作 代号“Spiral”](https://www.3dmgame.com/news/202406/3896405.html)
+
++ [顽皮狗总裁：我们不会变成只开发《最后的生还者》的工作室 多个项目制作中](https://www.3dmgame.com/news/202406/3896401.html)
+
++ [《街头霸王6》发售一周年  官方致谢并宣布多项纪念活动](https://www.3dmgame.com/news/202406/3896402.html)
+
++ [《毁灭战士》生父约翰·罗梅洛的自传小说正在被改编成纪录片](https://www.3dmgame.com/news/202406/3896400.html)
+
++ [《寂静岭2：重制版》将扩展世界 取消固定视角带来新元素](https://www.3dmgame.com/news/202406/3896399.html)
+
++ [格斗游戏《香肠传奇：竞技场》上架Steam 2025年发售](https://www.3dmgame.com/news/202406/3896404.html)
+
++ [类塔科夫FPS游戏《灰区战争》宣布抢先体验首月销量超90万份](https://www.3dmgame.com/news/202406/3896403.html)
+
