@@ -49,3 +49,31 @@
 
 + [Cosmic Summer](https://dribbble.com/shots/)
 
++ [Music Lovers 1/3](https://dribbble.com/shots/)
+
++ [Chris Rea Lettering](https://dribbble.com/shots/)
+
++ [Offical Creative Pain Pattern](https://dribbble.com/shots/)
+
++ [Pegasus](https://dribbble.com/shots/)
+
++ [Like-Wha?](https://dribbble.com/shots/)
+
++ [Apple no.3](https://dribbble.com/shots/)
+
++ [Villagers: Dog and Cat](https://dribbble.com/shots/)
+
++ [Crow grid](https://dribbble.com/shots/)
+
++ [Flamingo Flag & Anthem](https://dribbble.com/shots/)
+
++ [Traveller Chair](https://dribbble.com/shots/)
+
++ [St. John the Beloved Banner Logo](https://dribbble.com/shots/)
+
++ [Career and Job landing](https://dribbble.com/shots/)
+
++ [Elections in Mexico](https://dribbble.com/shots/)
+
++ [Lighthouse](https://dribbble.com/shots/)
+
