@@ -117,3 +117,15 @@
 
 + [Deepshot 2.0](https://www.producthunt.com/posts/deepshot-2-0)
 
++ [Guess World Flags](https://www.producthunt.com/posts/guess-world-flags)
+
++ [Hexpay - P2P crypto payments](https://www.producthunt.com/posts/hexpay-p2p-crypto-payments)
+
++ [Gojiberry for Shopify](https://www.producthunt.com/posts/gojiberry-for-shopify)
+
++ [Marevo](https://www.producthunt.com/posts/marevo)
+
++ [Kerlig AI](https://www.producthunt.com/posts/kerlig-ai)
+
++ [Advomate](https://www.producthunt.com/posts/advomate)
+

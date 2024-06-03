@@ -187,3 +187,11 @@
 
 + [《ContractVille》Steam抢先体验 开放世界城市建设](https://www.3dmgame.com/news/202406/3896423.html)
 
++ [艰难的决定？《自杀小队：消灭正义联盟》停止发布每周开发更新](https://www.3dmgame.com/news/202406/3896427.html)
+
++ [《街头霸王6》总玩家游戏数据公开 总战斗局数已达20亿](https://www.3dmgame.com/news/202406/3896428.html)
+
++ [《绝地潜兵2》再整花活 任务星球被炸成黑洞 玩家被遣返回超级地球](https://www.3dmgame.com/news/202406/3896429.html)
+
++ [KK官方对战平台”推广员计划“发布！简单三步，地图福利周周领！](https://www.3dmgame.com/news/202406/3896426.html)
+
