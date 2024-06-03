@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 普华永道海量内部文件曝光；英国BBC员工数据泄露](https://www.freebuf.com/news/402336.html)
 
++ [企业安全建设 | 一份有价值的汇报方案](https://www.freebuf.com/consult/402218.html)
+
