@@ -125,3 +125,9 @@
 
 + [SpringBootWeb请求响应](https://blog.csdn.net/2301_79602614/article/details/139321968)
 
++ [【人工智能】第一部分：ChatGPT的基本概念和技术背景](https://blog.csdn.net/double222222/article/details/139388107)
+
++ [留言板——增添功能(持久化存储数据，使用MyBatis)](https://blog.csdn.net/cool_tao6/article/details/139333752)
+
++ [网络原理———TCP/IP—网络层IP协议](https://blog.csdn.net/m0_60963435/article/details/139375894)
+

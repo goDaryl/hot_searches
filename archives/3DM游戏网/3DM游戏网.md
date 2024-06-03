@@ -123,3 +123,13 @@
 
 + [消息称《对马岛之鬼》续作正式投入开发](https://www.3dmgame.com/news/202406/3896389.html)
 
++ [《宝可梦：大集结》新宝可梦“苍炎刃鬼”公布 6月13日上线](https://www.3dmgame.com/news/202406/3896398.html)
+
++ [《鸣蟇村》Steam页面上线 日式恐怖探险新游](https://www.3dmgame.com/news/202406/3896397.html)
+
++ [日本男星真田广之或参演《对马岛之鬼》电影](https://www.3dmgame.com/news/202406/3896396.html)
+
++ [泰国武侠新作《燃烧之剑：死亡之日》上架Steam 暂不支持中文](https://www.3dmgame.com/news/202406/3896395.html)
+
++ [夏季游戏节2024本周六早上5点直播 宣传片发布](https://www.3dmgame.com/news/202406/3896394.html)
+

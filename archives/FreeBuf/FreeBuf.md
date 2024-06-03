@@ -43,3 +43,5 @@
 
 + [数据安全——数据分类分级落地实践](https://www.freebuf.com/articles/database/401637.html)
 
++ [FreeBuf早报 | 普华永道海量内部文件曝光；英国BBC员工数据泄露](https://www.freebuf.com/news/402336.html)
+
