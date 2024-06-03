@@ -195,3 +195,19 @@
 
 + [KK官方对战平台”推广员计划“发布！简单三步，地图福利周周领！](https://www.3dmgame.com/news/202406/3896426.html)
 
++ [设计师谈《寂静岭2：重制版》女主和谐：对性感过度纠正](https://www.3dmgame.com/news/202406/3896437.html)
+
++ [《魔兽世界》今日起接入战网功能：巫妖王之怒怀旧服率先开服](https://www.3dmgame.com/news/202406/3896436.html)
+
++ [黄仁勋称不喜欢裁员：宁愿磨炼他们 使其更强大](https://www.3dmgame.com/news/202406/3896435.html)
+
++ [联想拯救者成为《黑神话》合作伙伴 全面支持测试调优](https://www.3dmgame.com/news/202406/3896434.html)
+
++ [送PS5游戏机！参与3DM游戏APP有奖活动赢好礼](https://www.3dmgame.com/news/202406/3896433.html)
+
++ [乘联会崔东树：1-4月中国新能源车占全球总额超60%](https://www.3dmgame.com/news/202406/3896432.html)
+
++ [《涂鸦英雄工厂》Steam试玩发布 肉鸽塔防工厂建设](https://www.3dmgame.com/news/202406/3896431.html)
+
++ [还得再等等 夏日游戏节不会公布《王国之心4》新消息](https://www.3dmgame.com/news/202406/3896430.html)
+

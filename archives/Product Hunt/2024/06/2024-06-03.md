@@ -129,3 +129,9 @@
 
 + [Advomate](https://www.producthunt.com/posts/advomate)
 
++ [Does It Exist](https://www.producthunt.com/posts/does-it-exist)
+
++ [SplitHub.io](https://www.producthunt.com/posts/splithub-io)
+
++ [Figgy](https://www.producthunt.com/posts/figgy-2)
+
