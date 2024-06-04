@@ -265,3 +265,5 @@
 
 + [Steam最新一周销量榜 Steam Deck再次登顶](https://www.3dmgame.com/news/202406/3896527.html)
 
++ [《最终幻想7：重生》更新1.040补丁 提高整体游戏稳定性](https://www.3dmgame.com/news/202406/3896531.html)
+
