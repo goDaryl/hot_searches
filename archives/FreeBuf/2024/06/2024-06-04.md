@@ -41,3 +41,5 @@
 
 + [记录一次cnvd事件型证书漏洞挖掘](https://www.freebuf.com/vuls/402033.html)
 
++ [国际货币基金组织警告：网络攻击影响全球金融稳定](https://www.freebuf.com/articles/paper/401299.html)
+

@@ -29,3 +29,7 @@
 
 + [来自月球的微博：嫦娥六号官微首次发文“现在我正在月球挖土”](https://m.ithome.com/html/772865.htm)
 
++ [1859 元 + 3 期免息：小米 Redmi K70 手机京东再降新低](https://m.ithome.com/html/772891.htm)
+
++ [汽车专属车联网“手机卡”亮相：买车直接预装、实名登记，无需单独开套餐](https://m.ithome.com/html/772832.htm)
+

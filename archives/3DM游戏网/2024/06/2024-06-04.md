@@ -117,3 +117,11 @@
 
 + [《合金弹头：战略版》Steam页面公布配置需求](https://www.3dmgame.com/news/202406/3896454.html)
 
++ [《异形：夺命舰》新海报公开 被抱脸虫骑脸](https://www.3dmgame.com/news/202406/3896460.html)
+
++ [《博德之门3》官方Mod工具将于9月推出 延续游戏生命力](https://www.3dmgame.com/news/202406/3896459.html)
+
++ [索尼官宣400块PC转接器 挽救PSVR2颓势](https://www.3dmgame.com/news/202406/3896458.html)
+
++ [消息称NGC《星际火狐：突击》将登陆Switch 2](https://www.3dmgame.com/news/202406/3896457.html)
+
