@@ -273,3 +273,7 @@
 
 + [《黑神话：悟空》PS5商店页可添加心愿单 8月20日上午10点发售](https://www.3dmgame.com/news/202406/3896532.html)
 
++ [传Xbox 6月发布会有第一方游戏 公布即发售](https://www.3dmgame.com/news/202406/3896536.html)
+
++ [ARM放豪言 2029年Arm芯片将占50%的PC市场](https://www.3dmgame.com/news/202406/3896535.html)
+

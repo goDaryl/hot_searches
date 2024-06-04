@@ -145,3 +145,9 @@
 
 + [【东方/爵士】東方ふゅーじょん Spreading Full Colors 专辑赏析【UI-70】](http://www.acfun.cn/v/ac44711891)
 
++ [【AC独家】翻唱《心墙》](http://www.acfun.cn/v/ac44735112)
+
++ [喜欢小花小鱼 还有给我拍照的你](http://www.acfun.cn/v/ac44735550)
+
++ [【昔呀KIKO】这粉丝怎么喜欢被骂呀！](http://www.acfun.cn/v/ac44728003)
+
