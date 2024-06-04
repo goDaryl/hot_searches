@@ -231,3 +231,9 @@
 
 + [传闻：《最终幻想9：重制版》开发进展顺利 将登陆多平台](https://www.3dmgame.com/news/202406/3896505.html)
 
++ [Steam Deck五月最热游戏榜单 《黑帝斯2》登顶](https://www.3dmgame.com/news/202406/3896516.html)
+
++ [《魔兽世界》“熊猫人幻境”玩家仅用48分钟升到满级](https://www.3dmgame.com/news/202406/3896515.html)
+
++ [《黑暗之魂：救赎》衍生漫画发售 女主角挑战暗黑界](https://www.3dmgame.com/news/202406/3896514.html)
+

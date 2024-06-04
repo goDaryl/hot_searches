@@ -61,3 +61,5 @@
 
 + [Telegram 上泄露的 3.61 亿条记录被挂在暗网上了](https://www.freebuf.com/news/402579.html)
 
++ [SploitScan：一款多功能实用型安全漏洞管理平台](https://www.freebuf.com/sectool/402358.html)
+
