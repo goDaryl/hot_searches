@@ -85,3 +85,11 @@
 
 + [Jake's Details](https://dribbble.com/shots/)
 
++ [Doodling with music lyrics](https://dribbble.com/shots/)
+
++ [Shape Studies: 056](https://dribbble.com/shots/)
+
++ [Guts #2](https://dribbble.com/shots/)
+
++ [Luncheonette Food Packaging Branding](https://dribbble.com/shots/)
+
