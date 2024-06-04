@@ -79,3 +79,9 @@
 
 + [【歌回录像】泻药刚下飞机，人在新西兰 2024-04-10](http://www.acfun.cn/v/ac44721016)
 
++ [这就是深圳omakase吗](http://www.acfun.cn/v/ac44727788)
+
++ [舰长专属 Red](http://www.acfun.cn/v/ac44725109)
+
++ [翠鸟吃鱼，一口吞下一条大活鱼](http://www.acfun.cn/v/ac44726588)
+
