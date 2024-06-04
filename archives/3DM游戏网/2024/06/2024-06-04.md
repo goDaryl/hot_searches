@@ -145,3 +145,19 @@
 
 + [《正当防卫》开发商雪崩工作室裁员50人 关闭两处工作室](https://www.3dmgame.com/news/202406/3896461.html)
 
++ [《黎明杀机：龙与地下城》联动上线 新地图杀手幸存者登场](https://www.3dmgame.com/news/202406/3896478.html)
+
++ [《神秘岛》续作重置版《Riven》发售日公布 计划于6月26日推出](https://www.3dmgame.com/news/202406/3896472.html)
+
++ [今年夏日游戏节不会发布重大公告 将重点专注现有游戏](https://www.3dmgame.com/news/202406/3896473.html)
+
++ [益智游戏《Unbox the Room》Steam页面上线 支持中文](https://www.3dmgame.com/news/202406/3896477.html)
+
++ [整活软件《流氓软件》上架Steam平台 Demo已上线](https://www.3dmgame.com/news/202406/3896476.html)
+
++ [《铁血战士》新电影有望是艾丽·范宁主演](https://www.3dmgame.com/news/202406/3896474.html)
+
++ [英国最大游戏零售商每况愈下 停止订阅会员积分服务](https://www.3dmgame.com/news/202406/3896475.html)
+
++ [《黑神话》或将在夏日游戏节发布新预告 并开启预购](https://www.3dmgame.com/news/202406/3896471.html)
+

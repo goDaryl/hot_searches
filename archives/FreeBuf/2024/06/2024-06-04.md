@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 网络僵尸病毒迎“末日倒计时”；暗网现大量欧洲政客信息](https://www.freebuf.com/news/402535.html)
 
++ [用Camille工具搭建隐私合规检测平台](https://www.freebuf.com/sectool/401903.html)
+
