@@ -71,3 +71,17 @@
 
 + [Trails for All](https://dribbble.com/shots/)
 
++ [AFJS logo concept](https://dribbble.com/shots/)
+
++ [Hortulus Bier Crop](https://dribbble.com/shots/)
+
++ [Travel Tracker Website Hero Section](https://dribbble.com/shots/)
+
++ [Music Lovers 1/3](https://dribbble.com/shots/)
+
++ [Cat Robot](https://dribbble.com/shots/)
+
++ [Offical Creative Pain Pattern](https://dribbble.com/shots/)
+
++ [Jake's Details](https://dribbble.com/shots/)
+
