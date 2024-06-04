@@ -125,3 +125,23 @@
 
 + [消息称NGC《星际火狐：突击》将登陆Switch 2](https://www.3dmgame.com/news/202406/3896457.html)
 
++ [合作恐怖游戏《Haunted Paws》Steam页面上线 支持中文](https://www.3dmgame.com/news/202406/3896469.html)
+
++ [《流放之路2》主机版开发者日志 支持双人同屏游玩](https://www.3dmgame.com/news/202406/3896465.html)
+
++ [没有《GTA6》新预告！主持人公布夏季游戏节不会出现的内容](https://www.3dmgame.com/news/202406/3896470.html)
+
++ [《内容警告》售出220万份 2个月内获得880万名玩家](https://www.3dmgame.com/news/202406/3896468.html)
+
++ [传闻：《歧路旅人2》将在本月登陆Xbox和XGP](https://www.3dmgame.com/news/202406/3896466.html)
+
++ [《辐射》系列热度不减 玩家将其移植到3DS上进行体验 适配性极佳](https://www.3dmgame.com/news/202406/3896467.html)
+
++ [《HAELE 3D》登陆Steam 专业手部造型设计模拟器](https://www.3dmgame.com/news/202406/3896464.html)
+
++ [马斯克的X现在正式允许出现成人内容 只要双方是自愿](https://www.3dmgame.com/news/202406/3896463.html)
+
++ [《天国：拯救2》主机版锁30帧 只有PC版支持60帧](https://www.3dmgame.com/news/202406/3896462.html)
+
++ [《正当防卫》开发商雪崩工作室裁员50人 关闭两处工作室](https://www.3dmgame.com/news/202406/3896461.html)
+

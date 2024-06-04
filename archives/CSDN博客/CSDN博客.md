@@ -131,3 +131,13 @@
 
 + [驱动开发之platform总线](https://blog.csdn.net/m0_46392035/article/details/139275208)
 
++ [【软件工程】第六章](https://blog.csdn.net/qq_62597581/article/details/139383429)
+
++ [Amazon云计算AWS（三）](https://blog.csdn.net/Morse_Chen/article/details/139356807)
+
++ [Android电量优化，让你的手机续航更持久](https://blog.csdn.net/a_lwh____/article/details/139427730)
+
++ [鲁教版七年级数学下册-笔记](https://blog.csdn.net/ZHHX666/article/details/139132073)
+
++ [指纹采集技术](https://blog.csdn.net/mickey2007/article/details/139295288)
+
