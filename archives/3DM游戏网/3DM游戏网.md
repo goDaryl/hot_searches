@@ -211,3 +211,23 @@
 
 + [灭霸演员乔什·布洛林也将加入《利刃出鞘3》](https://www.3dmgame.com/news/202406/3896503.html)
 
++ [开放阴间《炭熄》中式民俗恐怖游戏实机视频发布 6月19日上架Steam](https://www.3dmgame.com/news/202406/3896513.html)
+
++ [KK官方对战平台争霸赛启动 三国战火燃雪原，盖世英雄显真章！](https://www.3dmgame.com/news/202406/3896511.html)
+
++ [《匹诺曹的谎言》联合SK海力士推出“T31联名款”固态硬盘周边](https://www.3dmgame.com/news/202406/3896512.html)
+
++ [继夏日游戏节之后 《暗喻幻想》特别节目6月8日播出](https://www.3dmgame.com/news/202406/3896510.html)
+
++ [《香肠派对: Foodtopia》首批剧照公布 7月11日播出](https://www.3dmgame.com/news/202406/3896509.html)
+
++ [《蜘蛛侠：纵横宇宙》制作人承诺：没有使用任何AI](https://www.3dmgame.com/news/202406/3896508.html)
+
++ [亚洲最大机库开工建设 可同时容纳9架宽体机维修](https://www.3dmgame.com/news/202406/3896506.html)
+
++ [《Meowstro》Steam页面上线 MIDI音乐设计猫咪演奏](https://www.3dmgame.com/news/202406/3896504.html)
+
++ [P.A.WORKS原创动画《真夜中PUNCH》新宣传片公布 7月8日开播](https://www.3dmgame.com/news/202406/3896507.html)
+
++ [传闻：《最终幻想9：重制版》开发进展顺利 将登陆多平台](https://www.3dmgame.com/news/202406/3896505.html)
+
