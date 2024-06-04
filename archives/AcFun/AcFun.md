@@ -131,3 +131,17 @@
 
 + [【高考应援】此刻，向下一个未来出发](http://www.acfun.cn/v/ac44731409)
 
++ [【何止】这才叫科幻神作！195万人打出9.4分，二刷依然被震撼到《星际穿越》](http://www.acfun.cn/v/ac44731317)
+
++ [桃 花 运](http://www.acfun.cn/v/ac44734934)
+
++ [QT双排【双彩】](http://www.acfun.cn/v/ac44734322)
+
++ [【A站独家】单位饮水机被小伙投放母猪催情素整整两年](http://www.acfun.cn/v/ac44701930)
+
++ [《打枪实录之四面楚歌》](http://www.acfun.cn/v/ac44728451)
+
++ [【ACFUN声唱云参赛【牛铲铲头号黑粉】 大香蕉  牛铲铲还不录歌？什么时候录？你个死线战士](http://www.acfun.cn/v/ac44732366)
+
++ [【东方/爵士】東方ふゅーじょん Spreading Full Colors 专辑赏析【UI-70】](http://www.acfun.cn/v/ac44711891)
+

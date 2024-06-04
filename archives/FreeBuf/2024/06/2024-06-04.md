@@ -63,3 +63,5 @@
 
 + [SploitScan：一款多功能实用型安全漏洞管理平台](https://www.freebuf.com/sectool/402358.html)
 
++ [SpeedyTest：一款基于纯Python的网络连接质量检测和OSINT工具](https://www.freebuf.com/sectool/402401.html)
+
