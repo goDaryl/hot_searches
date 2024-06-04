@@ -277,3 +277,7 @@
 
 + [ARM放豪言 2029年Arm芯片将占50%的PC市场](https://www.3dmgame.com/news/202406/3896535.html)
 
++ [《魔法餐作室》发售日公布 新增Switch版本](https://www.3dmgame.com/news/202406/3896537.html)
+
++ [挑战英伟达！AMD公布新款AI芯片 也要一年一更新](https://www.3dmgame.com/news/202406/3896538.html)
+
