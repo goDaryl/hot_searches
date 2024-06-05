@@ -125,3 +125,7 @@
 
 + [6月14日发售《真女神转生5：复仇》公布上市宣传片](https://www.3dmgame.com/news/202406/3896547.html)
 
++ [育碧称《波斯王子：时之沙》重制版开发顺利 值得期待！](https://www.3dmgame.com/news/202406/3896555.html)
+
++ [《艾尔登法环：黄金树幽影》新截图 DLC时长30-40小时](https://www.3dmgame.com/news/202406/3896554.html)
+

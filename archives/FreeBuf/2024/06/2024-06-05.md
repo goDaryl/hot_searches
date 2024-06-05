@@ -41,3 +41,5 @@
 
 + [FreeBuf早报 | 普华永道海量内部文件曝光；英国BBC员工数据泄露](https://www.freebuf.com/news/402336.html)
 
++ [大模型供应链安全 | 加载数据集或模型可能就中毒](https://www.freebuf.com/articles/web/402217.html)
+

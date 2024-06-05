@@ -131,3 +131,9 @@
 
 + [python数据可视化](https://blog.csdn.net/SQL__Learning/article/details/139355072)
 
++ [使用wheelnav.js构建酷炫的动态导航菜单](https://blog.csdn.net/yelangkingwuzuhu/article/details/139452569)
+
++ [性能测试学习-基本使用-元件组件介绍(二）](https://blog.csdn.net/danchejikafo/article/details/139279661)
+
++ [如何用结构化写好GPT的Prompt提示词](https://blog.csdn.net/a807862470a/article/details/139439080)
+
