@@ -33,3 +33,5 @@
 
 + [消息称小米 Redmi K80 Pro 手机采用“50MP 3.x 直立长焦”方案，搭载 2K 纯直屏](https://m.ithome.com/html/772949.htm)
 
++ [2025 QS 世界大学排名发布：麻省理工学院 13 连冠，北大清华跻身前 20](https://m.ithome.com/html/773172.htm)
+

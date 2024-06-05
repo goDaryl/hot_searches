@@ -129,3 +129,19 @@
 
 + [《艾尔登法环：黄金树幽影》新截图 DLC时长30-40小时](https://www.3dmgame.com/news/202406/3896554.html)
 
++ [《使命召唤》或亮相电竞世界杯 奖金池近300万美元](https://www.3dmgame.com/news/202406/3896562.html)
+
++ [冒险/室内设计游戏《Cozy Dungeons》Steam页面上线 支持中文](https://www.3dmgame.com/news/202406/3896563.html)
+
++ [《杀手3》VR版将独占登录Meta Quest 3平台 宣传预告放出](https://www.3dmgame.com/news/202406/3896561.html)
+
++ [《黎明杀机》开发商今年再次裁员 这次高达95人](https://www.3dmgame.com/news/202406/3896560.html)
+
++ [《沙行者》序章免费发布 复古风策略RPG新游](https://www.3dmgame.com/news/202406/3896559.html)
+
++ [宫崎英高：《艾尔登法环》DLC地图非常大 玩家会再次惊奇](https://www.3dmgame.com/news/202406/3896558.html)
+
++ [《艾尔登法环：黄金树幽影》IGN日本前瞻 11分钟实机](https://www.3dmgame.com/news/202406/3896557.html)
+
++ [科幻恐怖电影《异形：夺命舰》新预告 与异形狭路相逢](https://www.3dmgame.com/news/202406/3896556.html)
+
