@@ -299,3 +299,5 @@
 
 + [爆料称《最后的生还者2》PC版早已开发完毕 至今已超半年](https://www.3dmgame.com/news/202406/3896638.html)
 
++ [著名推特主：PS5《艾尔登法环》DLC大小16.5G](https://www.3dmgame.com/news/202406/3896641.html)
+
