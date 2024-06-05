@@ -285,3 +285,9 @@
 
 + [夏日游戏节索尼还有新作？多家媒体已预约体验](https://www.3dmgame.com/news/202406/3896610.html)
 
++ [N卡新驱动发布 现已支持《艾尔登法环：黄金树幽影》](https://www.3dmgame.com/news/202406/3896636.html)
+
++ [AMD确认Ryzen AI 300系列处理器不支持Win10](https://www.3dmgame.com/news/202406/3896635.html)
+
++ [小米机器人公司迁入小米汽车工厂：已研发出铁大铁蛋等](https://www.3dmgame.com/news/202406/3896634.html)
+
