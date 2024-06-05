@@ -61,3 +61,5 @@
 
 + [LeakSearch：针对网络公开凭证的安全扫描与检测工具](https://www.freebuf.com/sectool/402611.html)
 
++ [TikTok 零日漏洞被利用，可一键劫持高级账户](https://www.freebuf.com/news/402783.html)
+
