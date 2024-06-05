@@ -221,3 +221,19 @@
 
 + [索尼修改PS5主机零售包装 移除“支持8K”标识](https://www.3dmgame.com/news/202406/3896596.html)
 
++ [《黑帝斯2》抢先体验2号补丁上线 游戏平衡性大改动](https://www.3dmgame.com/news/202406/3896605.html)
+
++ [3DS模拟器Folium收费登陆苹果商店 任天堂暂未回应](https://www.3dmgame.com/news/202406/3896606.html)
+
++ [像素风动作平台游戏《Pipsqueak!》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202406/3896607.html)
+
++ [KK官方对战平台 怀旧浪潮来袭，共赴RPG经典地图梦幻之旅！](https://www.3dmgame.com/news/202406/3896608.html)
+
++ [《命运2：终焉之形》全球发布](https://www.3dmgame.com/news/202406/3896609.html)
+
++ [战略游戏《海盗：加勒比海战》预告 年内发售](https://www.3dmgame.com/news/202406/3896602.html)
+
++ [《圣剑传说Visions of Mana》PS4版发布将延期](https://www.3dmgame.com/news/202406/3896603.html)
+
++ [喜剧电影《摇滚校园》导演和主演正在呼吁拍摄续集](https://www.3dmgame.com/news/202406/3896604.html)
+
