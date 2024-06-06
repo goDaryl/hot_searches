@@ -193,3 +193,5 @@
 
 + [计算机网络 —— 数据链路层（局域网）](https://blog.csdn.net/qq_67693066/article/details/139461932)
 
++ [【乐吾乐2D可视化组态编辑器】Web组态、SCADA、数据可视化](https://blog.csdn.net/le5le_iot/article/details/139498241)
+
