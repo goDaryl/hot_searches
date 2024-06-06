@@ -125,3 +125,5 @@
 
 + [AB测试实战](https://blog.csdn.net/qq_64685283/article/details/139471584)
 
++ [LangChain学习记录（四）Agent](https://blog.csdn.net/qq_43384376/article/details/139465753)
+
