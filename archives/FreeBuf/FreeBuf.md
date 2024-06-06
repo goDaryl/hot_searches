@@ -55,3 +55,9 @@
 
 + [易泄露用户数据，微软新AI工具 Recall 被白帽锤了？](https://www.freebuf.com/news/402814.html)
 
++ [HVV 网在即，盘点极具威胁的勒索软件组织 TOP 8](https://www.freebuf.com/news/402620.html)
+
++ [迎头痛击：Jenkins - Bcrypt密码哈希破解（权限提升的重要性）](https://www.freebuf.com/articles/web/402450.html)
+
++ [Security Onion开源IDS入侵检测系统最新版搭建教程](https://www.freebuf.com/articles/network/402457.html)
+
