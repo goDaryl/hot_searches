@@ -33,3 +33,5 @@
 
 + [历史性时刻！英伟达超苹果成全球市值第二高公司，逼近微软](https://m.ithome.com/html/773418.htm)
 
++ [8499 元：联想 YOGA Air 14 新增“在桃公主”配色，6 月 8 日开售](https://m.ithome.com/html/773398.htm)
+
