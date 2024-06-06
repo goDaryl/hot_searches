@@ -49,3 +49,23 @@
 
 + [Nerdy Nuts](https://dribbble.com/shots/)
 
++ [Haven House Master Logo](https://dribbble.com/shots/)
+
++ [Blue Loon](https://dribbble.com/shots/)
+
++ [Chris Rea Lettering](https://dribbble.com/shots/)
+
++ [Fitonist - Brand assets for the fitness application](https://dribbble.com/shots/)
+
++ [Sendero Tag Label](https://dribbble.com/shots/)
+
++ [untitled (Madder Spirit)](https://dribbble.com/shots/)
+
++ [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
+
++ [Snake Rum](https://dribbble.com/shots/)
+
++ [Crow grid](https://dribbble.com/shots/)
+
++ [Women's Basketball Merch Concept](https://dribbble.com/shots/)
+
