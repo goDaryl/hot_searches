@@ -117,3 +117,7 @@
 
 + [城市建造游戏《Dystopika》发布游戏特色预告](https://www.3dmgame.com/news/202406/3896648.html)
 
++ [恐怖游戏爱好者福音 夏季游戏节上将展示多个恐怖游戏](https://www.3dmgame.com/news/202406/3896653.html)
+
++ [超越苹果！英伟达市值首次超过3万亿美元](https://www.3dmgame.com/news/202406/3896654.html)
+
