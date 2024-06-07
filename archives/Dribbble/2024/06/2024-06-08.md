@@ -67,3 +67,15 @@
 
 + [Spirit of the forest](https://dribbble.com/shots/)
 
++ [Summer Slasher Sale - G.A.R.M. Co.](https://dribbble.com/shots/)
+
++ [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
+
++ [Haven House Master Logo](https://dribbble.com/shots/)
+
++ [Flamingo Flag & Anthem](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #8](https://dribbble.com/shots/)
+
++ [Sendero Tag Label](https://dribbble.com/shots/)
+
