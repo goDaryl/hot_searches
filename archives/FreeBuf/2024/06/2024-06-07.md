@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 伊朗朝觐组织涉嫌数据泄露；俄罗斯政府机构遭遇木马攻击](https://www.freebuf.com/news/402797.html)
 
++ [渗透测试 | 如何通过git clone CVE-2024-32002 实现RCE](https://www.freebuf.com/vuls/401434.html)
+
