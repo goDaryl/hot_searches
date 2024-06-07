@@ -237,3 +237,9 @@
 
 + [比亚迪王传福：国外害怕中国车 证明我们做得还不错](https://www.3dmgame.com/news/202406/3896803.html)
 
++ [传音与腾讯合作 手机将搭载GVoice游戏语音技术](https://www.3dmgame.com/news/202406/3896809.html)
+
++ [PS5版《ARK : Survival Ascended》免费追加地图「核心岛」已上架！](https://www.3dmgame.com/news/202406/3896808.html)
+
++ [NS《深夏时光！ 二十世纪的暑假》介绍丰富暑假时光的各种事件！](https://www.3dmgame.com/news/202406/3896807.html)
+
