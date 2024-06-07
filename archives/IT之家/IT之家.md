@@ -25,3 +25,9 @@
 
 + [16G+1T 跌破两千元：realme GT Neo5 手机 150W 版 1999 元限时购](https://m.ithome.com/html/773610.htm)
 
++ [四试告捷，SpaceX 星舰史上首次完成试飞任务](https://m.ithome.com/html/773658.htm)
+
++ [曝苹果 iPhone 16 / Pro 系列 OLED 屏再次由三星、LG 显示包揽，今年订单量达 1.3 亿块](https://m.ithome.com/html/773637.htm)
+
++ [贾跃亭透露法拉第未来完成第 12 台车的零部件采购，去年售出 4 台、租赁 6 台](https://m.ithome.com/html/773641.htm)
+

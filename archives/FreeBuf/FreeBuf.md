@@ -41,3 +41,5 @@
 
 + [FreeBuf早报 | 纽交所IT系统出现重大技术故障；微软Copilot+新功能存在严重安全隐患](https://www.freebuf.com/news/402665.html)
 
++ [Windows取证分析 | 如何最大程度提升分析效率](https://www.freebuf.com/articles/system/401354.html)
+
