@@ -227,3 +227,13 @@
 
 + [摩尔线程、羽人科技完成70亿参数大模型训练测试：稳定性极佳](https://www.3dmgame.com/news/202406/3896795.html)
 
++ [我国5G商用五周年：用户普及率突破60% 建成全球规模最大5G网络](https://www.3dmgame.com/news/202406/3896804.html)
+
++ [NEOWIZ 《匹诺曹的谎言》在 “2024苹果设计奖“中荣获“视觉与图像“奖项](https://www.3dmgame.com/news/202406/3896805.html)
+
++ [苹果iPhone和手表屏幕细微裂痕将不再涵盖在保修内](https://www.3dmgame.com/news/202406/3896806.html)
+
++ [《黑神话：悟空》实体豪华典藏版版泄露 820元起限量三万套](https://www.3dmgame.com/news/202406/3896802.html)
+
++ [比亚迪王传福：国外害怕中国车 证明我们做得还不错](https://www.3dmgame.com/news/202406/3896803.html)
+
