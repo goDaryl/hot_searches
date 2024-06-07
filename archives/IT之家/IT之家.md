@@ -31,3 +31,9 @@
 
 + [贾跃亭透露法拉第未来完成第 12 台车的零部件采购，去年售出 4 台、租赁 6 台](https://m.ithome.com/html/773641.htm)
 
++ [苹果 iPhone 16 四款机型“身材”参数曝光：Pro Max 边框预定“全球最窄”](https://m.ithome.com/html/773530.htm)
+
++ [小米米家商务双肩包上架：分层收纳、可放 15.6 英寸笔记本，249 元](https://m.ithome.com/html/773683.htm)
+
++ [长安汽车董事长朱华荣：汽车行业卷出中国品牌新高度，卷出了四个老汉](https://m.ithome.com/html/773512.htm)
+
