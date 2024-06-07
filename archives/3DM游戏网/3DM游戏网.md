@@ -255,3 +255,11 @@
 
 + [酷冷至尊展示57英寸双4K mini LED游戏显示器](https://www.3dmgame.com/news/202406/3896815.html)
 
++ [《战地3》《战地4》Xbox 360和PS3版11月停服](https://www.3dmgame.com/news/202406/3896819.html)
+
++ [动画剧集《终结者：零》发剧照 8月29日上线](https://www.3dmgame.com/news/202406/3896818.html)
+
++ [亚马逊网游《新世界》即将登陆主机平台](https://www.3dmgame.com/news/202406/3896817.html)
+
++ [《无限试驾：太阳王冠》Steam国区138元 4K推荐RTX 4090](https://www.3dmgame.com/news/202406/3896816.html)
+
