@@ -253,3 +253,5 @@
 
 + [携程创始人建议女随母姓：随父姓是男女不平等的陋习](https://www.3dmgame.com/news/202406/3896814.html)
 
++ [酷冷至尊展示57英寸双4K mini LED游戏显示器](https://www.3dmgame.com/news/202406/3896815.html)
+
