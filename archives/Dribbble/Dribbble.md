@@ -49,3 +49,19 @@
 
 + [Fitonist - Brand assets for the fitness application](https://dribbble.com/shots/)
 
++ [Nerdy Nuts](https://dribbble.com/shots/)
+
++ [Doodling with music lyrics](https://dribbble.com/shots/)
+
++ [Flamingo Flag & Anthem](https://dribbble.com/shots/)
+
++ [Chris Rea Lettering](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #8](https://dribbble.com/shots/)
+
++ [AFJS logo concept](https://dribbble.com/shots/)
+
++ [Mcneese University x Crust Pizza - Pattern Illustration](https://dribbble.com/shots/)
+
++ [Kiss](https://dribbble.com/shots/)
+
