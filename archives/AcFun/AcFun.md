@@ -77,3 +77,5 @@
 
 + [20240607“专解明朝疑难杂症”的直播](http://www.acfun.cn/v/ac44767203)
 
++ [【AC独家】给acer唱《千百度》](http://www.acfun.cn/v/ac44741617)
+
