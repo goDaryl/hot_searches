@@ -65,3 +65,15 @@
 
 + [Kiss](https://dribbble.com/shots/)
 
++ [Out for a rip ????](https://dribbble.com/shots/)
+
++ [Nicene Creed (Core Christianity)](https://dribbble.com/shots/)
+
++ [Swedish Columbia Bus](https://dribbble.com/shots/)
+
++ [Summer Vibe](https://dribbble.com/shots/)
+
++ [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
+
++ [Running](https://dribbble.com/shots/)
+
