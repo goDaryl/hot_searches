@@ -45,3 +45,9 @@
 
 + [国家网信办：“小牛说车”故意夸大歪曲事实并抹黑诋毁企业及创始人，已依法依约关闭账号](https://m.ithome.com/html/773970.htm)
 
++ [《黑神话：悟空》国区售价全球最低，开启预购火速登顶 Steam 热销榜](https://m.ithome.com/html/773967.htm)
+
++ [小米 MIX Fold 4 折叠屏手机通过工信部入网审核，支持天通卫星通信](https://m.ithome.com/html/773907.htm)
+
++ [吉利李书福：中国汽车工业内卷程度全球第一，既是好事也是坏事](https://m.ithome.com/html/773824.htm)
+
