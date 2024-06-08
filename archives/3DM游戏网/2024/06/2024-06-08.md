@@ -143,3 +143,13 @@
 
 + [2K Games正式宣布《文明7》 2025年推出](https://www.3dmgame.com/news/202406/3896828.html)
 
++ [《无畏契约》即将登陆主机平台 6月14日开始封测](https://www.3dmgame.com/news/202406/3896852.html)
+
++ [《黑神话：悟空》采用D加密技术 PC配置需求公布](https://www.3dmgame.com/news/202406/3896851.html)
+
++ [《索尼克×夏特 世代重启》预告片 10月25日登陆全平台](https://www.3dmgame.com/news/202406/3896850.html)
+
++ [《文明7》Steam商店页上线 全新功能8月揭晓](https://www.3dmgame.com/news/202406/3896849.html)
+
++ [前《星际争霸2》设计师公布RTS新作《Battle Aces》](https://www.3dmgame.com/news/202406/3896848.html)
+

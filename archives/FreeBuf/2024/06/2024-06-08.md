@@ -41,3 +41,5 @@
 
 + [FreeBuf早报 | 澳大利亚矿业公司披露数据泄露事件；谷歌意外泄露内部文档](https://www.freebuf.com/news/402788.html)
 
++ [如何高效的手工检测是否存在SQL注入？](https://www.freebuf.com/sectool/401750.html)
+

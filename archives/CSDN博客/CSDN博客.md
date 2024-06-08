@@ -125,3 +125,17 @@
 
 + [自学黑客（网络安全）](https://blog.csdn.net/2401_85185266/article/details/139480990)
 
++ [【02数据库与小模型篇】0到1打造基于文心大模型和飞桨小模型的智能在线编辑器](https://blog.csdn.net/weixin_38898884/article/details/139520644)
+
++ [Mysql间隙锁死锁避免最佳实践](https://blog.csdn.net/weixin_65728526/article/details/139471124)
+
++ [Kafka的分区副本机制](https://blog.csdn.net/m0_62645012/article/details/139529163)
+
++ [【重磅开源】MapleBoot权限控制使用介绍（菜单权限、按钮权限、数据权限）](https://blog.csdn.net/qq_34988304/article/details/139515319)
+
++ [Javascript系统学习（三）](https://blog.csdn.net/m0_55049655/article/details/139490856)
+
++ [七月份大理站、ACM独立出版、高录用稳检索，2024年云计算与大数据国际学术会议（ICCBD 2024)](https://blog.csdn.net/2301_78893928/article/details/139503477)
+
++ [【微信小程序】连接蓝牙设备](https://blog.csdn.net/m0_46613429/article/details/137496388)
+
