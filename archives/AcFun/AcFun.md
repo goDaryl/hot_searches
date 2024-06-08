@@ -69,3 +69,9 @@
 
 + [电抛壳的Ruger mini14，但很抽象](http://www.acfun.cn/v/ac44767615)
 
++ [《吸猫只有零次和无数次》](http://www.acfun.cn/v/ac44766394)
+
++ [很晒很晒的抚摸抚摸](http://www.acfun.cn/v/ac44762375)
+
++ [【红伊】Make me wanna die【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44700956)
+
