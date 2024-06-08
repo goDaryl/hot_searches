@@ -227,3 +227,7 @@
 
 + [《七龙珠 电光炸裂！ZERO》预购 国区售价298元](https://www.3dmgame.com/news/202406/3896887.html)
 
++ [《96 号公路》制作者新作《Tides of Tomorrow》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202406/3896890.html)
+
++ [《心灵杀手2：夜泉镇》DLC多支实机 3个角色命运交错](https://www.3dmgame.com/news/202406/3896891.html)
+
