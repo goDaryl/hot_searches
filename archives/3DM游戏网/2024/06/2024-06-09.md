@@ -121,3 +121,5 @@
 
 + [《机甲战士5：部落》10月3日发售 PC配置公布](https://www.3dmgame.com/news/202406/3896910.html)
 
++ [自行车骑行游戏《Parcel Corps》9月3日发售](https://www.3dmgame.com/news/202406/3896916.html)
+

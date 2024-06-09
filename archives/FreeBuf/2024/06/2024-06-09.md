@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/403029.html)
 
++ [乌克兰卫星电视系统攻击事件安全分析](https://www.freebuf.com/articles/paper/402167.html)
+
