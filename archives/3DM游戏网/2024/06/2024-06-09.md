@@ -135,3 +135,5 @@
 
 + [烧脑大作战 解谜游戏新作《N.O.D.E.》发布新预告](https://www.3dmgame.com/news/202406/3896921.html)
 
++ [NVIDIA桌面GPU市占率飙升至88% Intel已被忽略不计](https://www.3dmgame.com/news/202406/3896923.html)
+
