@@ -91,3 +91,11 @@
 
 + [【猪肝来也】『夏日倾情』cover by 卫兰](http://www.acfun.cn/v/ac44776290)
 
++ [我把AC娘塞进了电脑任务管理器](http://www.acfun.cn/v/ac44776517)
+
++ [Etch A Sketch](http://www.acfun.cn/v/ac44776602)
+
++ [一个中年铁憨憨的欢乐乡村日常~](http://www.acfun.cn/v/ac44775332)
+
++ [一个月前救下它，养大后发现是白眼狼](http://www.acfun.cn/v/ac44773331)
+
