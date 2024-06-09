@@ -109,3 +109,15 @@
 
 + [奇幻动作冒险游戏《永恒之链》新预告/截图](https://www.3dmgame.com/news/202406/3896906.html)
 
++ [类魂动作RPG《遗迹：第一守卫》新实机宣传片](https://www.3dmgame.com/news/202406/3896915.html)
+
++ [OpenAI自研芯片进展曝光！百万年薪挖角谷歌人才](https://www.3dmgame.com/news/202406/3896914.html)
+
++ [爆料显示玩家明天终于又可以看到《腐烂国度3》了](https://www.3dmgame.com/news/202406/3896913.html)
+
++ [叙事潜行策略新作《埃里克斯霍姆：被偷走的梦》公布](https://www.3dmgame.com/news/202406/3896912.html)
+
++ [《没人想死》7月17日发售 新实机预告发布](https://www.3dmgame.com/news/202406/3896911.html)
+
++ [《机甲战士5：部落》10月3日发售 PC配置公布](https://www.3dmgame.com/news/202406/3896910.html)
+

@@ -135,3 +135,11 @@
 
 + [Redis-sentinel（哨兵模式）的搭建步骤及相关知识](https://blog.csdn.net/muxia_jhy/article/details/139546294)
 
++ [【机器学习】机器学习与医疗健康在智能诊疗中的融合应用与性能优化新探索](https://blog.csdn.net/Easonmax/article/details/139390369)
+
++ [HTML做成一个炫酷跳动爱心的页面](https://blog.csdn.net/qq_33851668/article/details/139524195)
+
++ [【教程】从0开始搭建大语言模型：Word和位置Embedding](https://blog.csdn.net/qq_41234663/article/details/139510817)
+
++ [【AIGC】基于大模型+知识库的Code Review实践](https://blog.csdn.net/luomao2012/article/details/139547328)
+
