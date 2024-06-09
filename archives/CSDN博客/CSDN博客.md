@@ -131,3 +131,7 @@
 
 + [异步复位和同步释放](https://blog.csdn.net/qq_34326957/article/details/139525353)
 
++ [高考分数查询结果自动推送至微信](https://blog.csdn.net/chinagaobo/article/details/139537778)
+
++ [Redis-sentinel（哨兵模式）的搭建步骤及相关知识](https://blog.csdn.net/muxia_jhy/article/details/139546294)
+
