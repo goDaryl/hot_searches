@@ -57,3 +57,7 @@
 
 + [“iPhone 显示无可用 SIM 卡”登微博热搜，苹果回应“可手动插拔卡 / 更新运营商配置文件”](https://m.ithome.com/html/774152.htm)
 
++ [小米充电宝 25000mAh 探索版外观曝光，单口输出最大 140W](https://m.ithome.com/html/774151.htm)
+
++ [“锐评”游戏《黑神话：悟空》引玩家不满，IGN 道歉“仅为玩笑，无冒犯意思”](https://m.ithome.com/html/774162.htm)
+
