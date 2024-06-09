@@ -49,3 +49,25 @@
 
 + [The Conquest of Happiness](https://dribbble.com/shots/)
 
++ [Luncheonette Food Packaging Branding](https://dribbble.com/shots/)
+
++ [Guts #2](https://dribbble.com/shots/)
+
++ [Visit India - Vintage Travel Poster](https://dribbble.com/shots/)
+
++ [Hero illustrations Future Tech](https://dribbble.com/shots/)
+
++ [untitled (Madder Spirit)](https://dribbble.com/shots/)
+
++ [Nerdy Nuts](https://dribbble.com/shots/)
+
++ [Kiss](https://dribbble.com/shots/)
+
++ [Nicene Creed (Core Christianity)](https://dribbble.com/shots/)
+
++ [Doodling with music lyrics](https://dribbble.com/shots/)
+
++ [AFJS logo concept](https://dribbble.com/shots/)
+
++ [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
+
