@@ -71,3 +71,13 @@
 
 + [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
 
++ [Blue Loon](https://dribbble.com/shots/)
+
++ [Hootenanny Illustration](https://dribbble.com/shots/)
+
++ [This weeks draggin' ????](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #8](https://dribbble.com/shots/)
+
++ [Villagers: Dog and Cat](https://dribbble.com/shots/)
+
