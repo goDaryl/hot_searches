@@ -101,3 +101,11 @@
 
 + [【重磅开源】MapleBoot权限控制使用介绍（菜单权限、按钮权限、数据权限）](https://blog.csdn.net/qq_34988304/article/details/139515319)
 
++ [【机器学习】GPT-4中的机器学习如何塑造人类与AI的新对话](https://blog.csdn.net/2301_77509762/article/details/139515212)
+
++ [kafka如何保证消息不丢失](https://blog.csdn.net/m0_62645012/article/details/139565489)
+
++ [ChatGPT Prompt技术全攻略-探索篇：前沿Prompt工程技术](https://blog.csdn.net/xiaobing259/article/details/139531348)
+
++ [Hadoop笔记](https://blog.csdn.net/HuDie340/article/details/139546024)
+
