@@ -109,3 +109,11 @@
 
 + [Afforai](https://www.producthunt.com/posts/afforai-3)
 
++ [Luna Ring](https://www.producthunt.com/posts/luna-ring)
+
++ [GitKraken's DevEx Platform](https://www.producthunt.com/posts/gitkraken-s-devex-platform)
+
++ [PhotoCaption](https://www.producthunt.com/posts/photocaption)
+
++ [Elai - Add interactions on top of videos](https://www.producthunt.com/posts/elai-add-interactions-on-top-of-videos)
+
