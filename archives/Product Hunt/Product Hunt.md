@@ -123,3 +123,21 @@
 
 + [tak.chat for Shopify](https://www.producthunt.com/posts/tak-chat-for-shopify)
 
++ [Rolly](https://www.producthunt.com/posts/rolly)
+
++ [SmartEReply](https://www.producthunt.com/posts/smartereply)
+
++ [Ophiuchi](https://www.producthunt.com/posts/ophiuchi)
+
++ [Rendertone](https://www.producthunt.com/posts/rendertone)
+
++ [SQL Playground](https://www.producthunt.com/posts/sql-playground-2)
+
++ [CoffeePedia](https://www.producthunt.com/posts/coffeepedia)
+
++ [Deckster](https://www.producthunt.com/posts/deckster)
+
++ [EducUp Study](https://www.producthunt.com/posts/educup-study)
+
++ [Sumr tldr](https://www.producthunt.com/posts/sumr-tldr)
+
