@@ -215,3 +215,5 @@
 
 + [《Worship》公布新宣传片 肉鸽异风信仰冒险](https://www.3dmgame.com/news/202406/3896995.html)
 
++ [《千锤百炼》公布新宣传片 开放世界生存制作](https://www.3dmgame.com/news/202406/3896998.html)
+
