@@ -43,3 +43,9 @@
 
 + [挪威公司称发现欧洲最大稀土矿，总储量高达 880 万吨](https://m.ithome.com/html/774226.htm)
 
++ [先马推出“小坚果”M-ATX 台式机箱：黑白双色、自带提手，售 59.9 元](https://m.ithome.com/html/774201.htm)
+
++ [微软 Xbox Series X / S 游戏机 1TB 白色无光驱版发布，还有 2TB 特别版](https://m.ithome.com/html/774213.htm)
+
++ [4K 144Hz 75 英寸：雷鸟鹏 7 Pro 电视 3521 元 6 期免息](https://m.ithome.com/html/774192.htm)
+

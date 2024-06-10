@@ -117,3 +117,9 @@
 
 + [Elai - Add interactions on top of videos](https://www.producthunt.com/posts/elai-add-interactions-on-top-of-videos)
 
++ [SaaSy Help](https://www.producthunt.com/posts/saasy-help)
+
++ [Acalytica](https://www.producthunt.com/posts/acalytica)
+
++ [tak.chat for Shopify](https://www.producthunt.com/posts/tak-chat-for-shopify)
+
