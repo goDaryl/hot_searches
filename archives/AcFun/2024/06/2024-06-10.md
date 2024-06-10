@@ -61,3 +61,5 @@
 
 + [军粮试吃：军粮里最好吃的巧克力就在这里，23舰艇救生食品](http://www.acfun.cn/v/ac44781315)
 
++ [【东方】千年幻想乡 ～ History of the Moo【NyxTheShield Remix】](http://www.acfun.cn/v/ac44773966)
+

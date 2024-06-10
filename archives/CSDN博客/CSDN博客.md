@@ -133,3 +133,5 @@
 
 + [实习记录2](https://blog.csdn.net/qq_44013675/article/details/139498313)
 
++ [高考分数查询结果自动推送至微信（卷Ⅰ）](https://blog.csdn.net/chinagaobo/article/details/139537778)
+
