@@ -117,3 +117,9 @@
 
 + [育碧分享13分钟时长《刺客信条：影》加长版实机演示](https://www.3dmgame.com/news/202406/3897021.html)
 
++ [育碧发布全新《地产大亨》游戏 今年9月正式发售](https://www.3dmgame.com/news/202406/3897026.html)
+
++ [《阿凡达：潘多拉边境》7月16日推出首个故事DLC](https://www.3dmgame.com/news/202406/3897025.html)
+
++ [《纪元117：罗马和平》明年登陆主机和PC平台](https://www.3dmgame.com/news/202406/3897027.html)
+
