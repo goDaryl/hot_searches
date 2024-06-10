@@ -209,3 +209,9 @@
 
 + [恐怖主题合作FPS新作《Phantom Line》发布新预告](https://www.3dmgame.com/news/202406/3896992.html)
 
++ [Xbox游戏发布会消息汇总 多款重磅大作展示](https://www.3dmgame.com/news/202406/3896996.html)
+
++ [美媒锐评苹果进军AI真实目的 并不是为了用户](https://www.3dmgame.com/news/202406/3896997.html)
+
++ [《Worship》公布新宣传片 肉鸽异风信仰冒险](https://www.3dmgame.com/news/202406/3896995.html)
+
