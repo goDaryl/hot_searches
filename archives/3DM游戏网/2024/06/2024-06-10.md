@@ -235,3 +235,7 @@
 
 + [《勇闯死人谷：暗黑之日》新预告 试玩版10月发布](https://www.3dmgame.com/news/202406/3897006.html)
 
++ [《尼尔：机械纪元》2B最新手办公开 精致酷炫可摘眼罩](https://www.3dmgame.com/news/202406/3897009.html)
+
++ [斯宾塞谈传闻中的Xbox掌机：要有本地运行游戏的能力](https://www.3dmgame.com/news/202406/3897008.html)
+

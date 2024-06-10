@@ -51,3 +51,5 @@
 
 + [6499 元 + 24 期免息：vivo X Fold3 折叠屏手机京东新低](https://m.ithome.com/html/774237.htm)
 
++ [小米智能摄像机 C500 双摄版发布：AI 双摄联动，众筹价 319 元](https://m.ithome.com/html/774239.htm)
+
