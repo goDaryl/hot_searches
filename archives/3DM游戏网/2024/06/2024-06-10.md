@@ -195,3 +195,11 @@
 
 + [《星际卡车司机》新增Xbox Series版本 9月发售](https://www.3dmgame.com/news/202406/3896982.html)
 
++ [冷战变为热战的平行世界 多人军事游戏《83》预告片](https://www.3dmgame.com/news/202406/3896991.html)
+
++ [《Atomfall》公布最新宣传片 单人生存动作新游](https://www.3dmgame.com/news/202406/3896990.html)
+
++ [《龙腾世纪：影障守护者》首批细节 7位同伴介绍](https://www.3dmgame.com/news/202406/3896989.html)
+
++ [《逃离塔科夫》预告片展示新内容和下一步改动方向](https://www.3dmgame.com/news/202406/3896988.html)
+
