@@ -123,3 +123,17 @@
 
 + [《纪元117：罗马和平》明年登陆主机和PC平台](https://www.3dmgame.com/news/202406/3897027.html)
 
++ [《龙腾世纪：影障守护者》起源机制回归 有六个派系](https://www.3dmgame.com/news/202406/3897034.html)
+
++ [《不羁联盟》第一赛季预告公布 将于7月2日上线](https://www.3dmgame.com/news/202406/3897032.html)
+
++ [动视澄清：《使命召唤21：黑色行动6》容量没有300GB](https://www.3dmgame.com/news/202406/3897033.html)
+
++ [《飙酷车神：轰鸣盛典》更新预告 2024年11月推出](https://www.3dmgame.com/news/202406/3897031.html)
+
++ [《碧海黑帆》新宣传片：新赛季PvP模式 飞龙登场](https://www.3dmgame.com/news/202406/3897028.html)
+
++ [美游戏连锁店泄露《合金装备3重制版》11月发售](https://www.3dmgame.com/news/202406/3897030.html)
+
++ [《午夜杀生重制版》公布四人模式游戏预告](https://www.3dmgame.com/news/202406/3897029.html)
+

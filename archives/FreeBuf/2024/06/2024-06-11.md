@@ -41,3 +41,5 @@
 
 + [阿里云2025届实习生招聘开启](https://www.freebuf.com/jobs/403009.html)
 
++ [GitHub Actions不当操作导致的隐私泄露](https://www.freebuf.com/articles/es/402937.html)
+
