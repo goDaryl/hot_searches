@@ -47,3 +47,5 @@
 
 + [名字中含“小米汽车”，小米起诉疑似碰瓷小米汽车的公司](https://m.ithome.com/html/774400.htm)
 
++ [苹果 iOS / iPadOS 18 开发者预览版 Beta 发布，依然支持 iPhone XR / XS / XS Max](https://m.ithome.com/html/774338.htm)
+
