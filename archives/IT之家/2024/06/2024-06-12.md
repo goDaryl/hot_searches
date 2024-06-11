@@ -35,3 +35,5 @@
 
 + [消息称小米 15 标准版手机延续小直屏设计：1.5K LTPO、5000 万像素 1/1.3 英寸主摄](https://m.ithome.com/html/774394.htm)
 
++ [苹果“Apple ID”将成历史，新名称“Apple 账户”已实装 iOS / iPadOS 18 开发者预览版](https://m.ithome.com/html/774458.htm)
+
