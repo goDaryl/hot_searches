@@ -29,3 +29,9 @@
 
 + [指导价 718 万元，全新红旗国礼车型正式上市](https://m.ithome.com/html/774559.htm)
 
++ [首发第五代 DM 技术，消息称比亚迪秦 L + 海豹 06 汽车累计新增订单已破 8 万](https://m.ithome.com/html/774503.htm)
+
++ [苹果 iOS 18 更新细节内容一览：App 隐藏名称、手电筒光照宽度可调节](https://m.ithome.com/html/774530.htm)
+
++ [消息称小米 15 标准版手机延续小直屏设计：1.5K LTPO、5000 万像素 1/1.3 英寸主摄](https://m.ithome.com/html/774394.htm)
+
