@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 人工智能安全来到临界点；90% 的安全威胁来自社会工程](https://www.freebuf.com/news/403012.html)
 
++ [2024HW | 常见红队使用工具](https://www.freebuf.com/sectool/402023.html)
+

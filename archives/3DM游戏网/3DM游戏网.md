@@ -151,3 +151,15 @@
 
 + [《生化危机7》7月登陆iPhone 《生化危机2：重制版》也在开发中](https://www.3dmgame.com/news/202406/3897035.html)
 
++ [黑曜石意外泄露《宣誓》发布日期 官方博文随后被删改](https://www.3dmgame.com/news/202406/3897046.html)
+
++ [《合金装备Δ：食蛇者》新游戏截图公布 画质出色](https://www.3dmgame.com/news/202406/3897045.html)
+
++ [《明末：渊虚之羽》全新截图 冷艳女侠大战可怕敌人](https://www.3dmgame.com/news/202406/3897047.html)
+
++ [首个内容更新 《波斯王子：Rogue》“火之神殿”更新上线](https://www.3dmgame.com/news/202406/3897044.html)
+
++ [《宣誓》27分钟深入展示视频 将有第三人称视角](https://www.3dmgame.com/news/202406/3897043.html)
+
++ [5minlab将在 Wholesome Direct 2024 上发布新游戏《Undusted》](https://www.3dmgame.com/news/202406/3897042.html)
+
