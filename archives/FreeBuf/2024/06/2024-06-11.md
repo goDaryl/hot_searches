@@ -71,3 +71,5 @@
 
 + [USRC 夏日清凉正当时 |挖洞不停歇，好礼连连送](https://www.freebuf.com/articles/403257.html)
 
++ [苹果AI的新选择，越来越像人的GPT-4o会欺骗人类吗？](https://www.freebuf.com/articles/403253.html)
+

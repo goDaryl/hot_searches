@@ -49,3 +49,7 @@
 
 + [苹果 iOS / iPadOS 18 开发者预览版 Beta 发布，依然支持 iPhone XR / XS / XS Max](https://m.ithome.com/html/774338.htm)
 
++ [比亚迪宋 L DM-i 汽车官宣，口号“大宋来了”](https://m.ithome.com/html/774471.htm)
+
++ [苹果 iOS 18 / iPadOS 18 / watchOS 11 / macOS 15 支持机型一览，部分老设备将无法升级](https://m.ithome.com/html/774335.htm)
+
