@@ -25,3 +25,7 @@
 
 + [苹果 iOS 18 拥抱个性化：像 2008 年以来安卓系统一样定制主屏幕](https://m.ithome.com/html/774317.htm)
 
++ [苹果牌“AI”登场：帮你管理通知、总结邮件等，iPhone 15 Pro / Max 以及 M 系列 iPad / Mac 专享](https://m.ithome.com/html/774329.htm)
+
++ [指导价 718 万元，全新红旗国礼车型正式上市](https://m.ithome.com/html/774559.htm)
+
