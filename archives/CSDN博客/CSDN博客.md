@@ -101,3 +101,29 @@
 
 + [MySQL之查询性能优化(十三)](https://blog.csdn.net/Cover_sky/article/details/139570856)
 
++ [博客赚钱全攻略：从新手到专家的变现之路](https://blog.csdn.net/coder_heweilai/article/details/139566996)
+
++ [【机器学习】机器学习引领AI：重塑人类社会的新纪元](https://blog.csdn.net/EterNity_TiMe_/article/details/139552471)
+
++ [【FFmpeg】SDL 音视频开发 ② ( SDL 视频显示函数 | 设置渲染器目标纹理 | 设置渲染器颜色 | 清除渲染器 | 渲染器绘制矩形 | 纹理拷贝 | 窗口中显示渲染纹理 )](https://blog.csdn.net/han1202012/article/details/139592113)
+
++ [MySQL高性能（MySQL锁）](https://blog.csdn.net/chenjiap/article/details/131626639)
+
++ [【MySQL】复合查询+表的内外连接](https://blog.csdn.net/fight_p/article/details/139197431)
+
++ [Hadoop 2.0：主流开源云架构（一）](https://blog.csdn.net/Morse_Chen/article/details/139574023)
+
++ [OSI七层网络参考模型](https://blog.csdn.net/g841805/article/details/139471661)
+
++ [网络协议四](https://blog.csdn.net/qq_41834780/article/details/139589473)
+
++ [XSS(跨站脚本攻击)](https://blog.csdn.net/weixin_58189050/article/details/139553470)
+
++ [CA证书及PKI](https://blog.csdn.net/Dean_xiu/article/details/139585362)
+
++ [鸿蒙原生开发——轻内核A核源码分析系列三 物理内存（2）](https://blog.csdn.net/maniuT/article/details/139604027)
+
++ [5分钟在阿里云上部署了超级玛丽小游戏，是一种什么样的体验？](https://blog.csdn.net/caoli201314/article/details/139592637)
+
++ [linux 网桥学习](https://blog.csdn.net/qq_50247813/article/details/139548231)
+
