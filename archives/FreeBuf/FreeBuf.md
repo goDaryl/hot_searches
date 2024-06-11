@@ -65,3 +65,5 @@
 
 + [AI与密码安全：利用机器学习提升密码安全性](https://www.freebuf.com/articles/network/401063.html)
 
++ [耗资上亿购买零日漏洞，全球商业间谍软件正在野蛮生长](https://www.freebuf.com/articles/neopoints/403223.html)
+

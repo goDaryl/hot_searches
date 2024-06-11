@@ -229,3 +229,11 @@
 
 + [历史性一刻！苹果iPhone终于支持通话录音了](https://www.3dmgame.com/news/202406/3897079.html)
 
++ [创米哈游最高记录！《绝区零》预约数破4000万：7月4日公测](https://www.3dmgame.com/news/202406/3897083.html)
+
++ [欧美流行“笨手机” 功能有限有效减少看屏幕欲望](https://www.3dmgame.com/news/202406/3897084.html)
+
++ [Steam最新一周销量榜 《黑神话：悟空》成功登顶](https://www.3dmgame.com/news/202406/3897081.html)
+
++ [《收获日3》公布前瞻PV，6月27日敬请期待](https://www.3dmgame.com/news/202406/3897082.html)
+
