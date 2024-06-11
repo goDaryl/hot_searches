@@ -39,3 +39,5 @@
 
 + [iPhone 15 / Pro 系列独占，苹果 iOS 18 引入 85%、90%、95% 充电限制选项](https://m.ithome.com/html/774349.htm)
 
++ [苹果 iOS 18 拥抱个性化：像 2008 年以来安卓系统一样定制主屏幕](https://m.ithome.com/html/774317.htm)
+

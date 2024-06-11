@@ -71,3 +71,9 @@
 
 + [【幻塔MMD】奈美西斯 - ザムザ](http://www.acfun.cn/v/ac44780325)
 
++ [【AC独家】acer的电子女友vlog7｜差不多是一只电子小猪了](http://www.acfun.cn/v/ac44793775)
+
++ [【ACFUN声唱云参赛2024】八个人挑战各唱各的《棠梨煎雪》少女心事，只想悄悄说与你听](http://www.acfun.cn/v/ac44792923)
+
++ [女帝♡汉库克！美腿简直…犯规级诱惑！～♡～](http://www.acfun.cn/v/ac44746367)
+

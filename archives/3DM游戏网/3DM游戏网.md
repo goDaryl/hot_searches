@@ -137,3 +137,17 @@
 
 + [《午夜杀生重制版》公布四人模式游戏预告](https://www.3dmgame.com/news/202406/3897029.html)
 
++ [育碧发布会只字未提《超越善恶2》似乎仍是一场空谈](https://www.3dmgame.com/news/202406/3897041.html)
+
++ [Switch发布18.1.0系统更新 现已停止支持X](https://www.3dmgame.com/news/202406/3897040.html)
+
++ [Steam新品节开幕 一目了然新游抢先看](https://www.3dmgame.com/news/202406/3897039.html)
+
++ [《星球大战：亡命之徒》新截图：画面绝美 对战激烈](https://www.3dmgame.com/news/202406/3897038.html)
+
++ [由于剧集大获成功 《辐射5》发售时间可能会提前](https://www.3dmgame.com/news/202406/3897037.html)
+
++ [《刺客信条：影》全新截图 黑人武士和美女忍者亮相](https://www.3dmgame.com/news/202406/3897036.html)
+
++ [《生化危机7》7月登陆iPhone 《生化危机2：重制版》也在开发中](https://www.3dmgame.com/news/202406/3897035.html)
+

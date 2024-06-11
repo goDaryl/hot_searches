@@ -43,3 +43,5 @@
 
 + [GitHub Actions不当操作导致的隐私泄露](https://www.freebuf.com/articles/es/402937.html)
 
++ [FreeBuf早报 | 人工智能安全来到临界点；90% 的安全威胁来自社会工程](https://www.freebuf.com/news/403012.html)
+
