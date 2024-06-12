@@ -297,3 +297,5 @@
 
 + [《圣剑传说》发售日公布 Steam版8月30日发售](https://www.3dmgame.com/news/202406/3897192.html)
 
++ [《腐烂国度3》更多细节披露 武器有更深入的自定义](https://www.3dmgame.com/news/202406/3897193.html)
+

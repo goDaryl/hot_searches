@@ -77,3 +77,5 @@
 
 + [华为 Mate 40、nova 11 / 10 / 9 系列等 16 款机型获推鸿蒙 HarmonyOS 4.2 正式版：新增摇一摇权限管理、互动主题](https://m.ithome.com/html/774694.htm)
 
++ [领克公布首款纯电轿车 ZERO 官图、内饰设计，今晚 8 点全球首发](https://m.ithome.com/html/774623.htm)
+
