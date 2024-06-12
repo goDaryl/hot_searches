@@ -47,3 +47,5 @@
 
 + [企业安全 | 浅谈企业安全培训](https://www.freebuf.com/articles/es/403022.html)
 
++ [国家能源局印发《电力网络安全事件应急预案》](https://www.freebuf.com/news/403231.html)
+
