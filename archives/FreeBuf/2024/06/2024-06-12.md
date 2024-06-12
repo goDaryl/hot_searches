@@ -59,3 +59,5 @@
 
 + [代码审计：必须要知道的注入型漏洞风险参数来源](https://www.freebuf.com/articles/web/402219.html)
 
++ [SwaggerSpy：一款针对SwaggerHub的自动化OSINT安全工具](https://www.freebuf.com/sectool/402971.html)
+
