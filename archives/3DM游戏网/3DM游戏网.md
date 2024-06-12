@@ -143,3 +143,17 @@
 
 + [《仓鼠游乐场》正式版即将登场 7月11日全平台发售](https://www.3dmgame.com/news/202406/3897106.html)
 
++ [互动影游《我为情狂》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202406/3897122.html)
+
++ [AI赋能《守护与智友》虚拟宠物即将上线，引领数字陪伴新潮流](https://www.3dmgame.com/news/202406/3897121.html)
+
++ [《漫威蜘蛛侠2》将推出8款新战衣 6月18日上线](https://www.3dmgame.com/news/202406/3897120.html)
+
++ [《质量效应》中的冲刺和《龙腾世纪：审判》冲刺一样也是假象 并非改变了移动速度](https://www.3dmgame.com/news/202406/3897119.html)
+
++ [《德州电锯杀人狂》开发商大幅裁员 人数高达250](https://www.3dmgame.com/news/202406/3897118.html)
+
++ [《Screw Drivers》免费登陆Steam 物理规则竞速战斗](https://www.3dmgame.com/news/202406/3897117.html)
+
++ [《战争机器：事变日》是完全线性游戏 与《战争机器5》不同](https://www.3dmgame.com/news/202406/3897116.html)
+
