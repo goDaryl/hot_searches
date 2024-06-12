@@ -295,3 +295,5 @@
 
 + [和IBM合作 日本将研发2nm芯片Chiplet先进封装技术](https://www.3dmgame.com/news/202406/3897189.html)
 
++ [《圣剑传说》发售日公布 Steam版8月30日发售](https://www.3dmgame.com/news/202406/3897192.html)
+
