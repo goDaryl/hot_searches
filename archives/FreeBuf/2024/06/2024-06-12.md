@@ -61,3 +61,7 @@
 
 + [SwaggerSpy：一款针对SwaggerHub的自动化OSINT安全工具](https://www.freebuf.com/sectool/402971.html)
 
++ [FreeBuf 赠书第 107 期 | 这本书讲透了 NOA 智驾！](https://www.freebuf.com/fevents/403307.html)
+
++ [科大讯飞SAST产品技术选型实践](https://www.freebuf.com/articles/network/403347.html)
+
