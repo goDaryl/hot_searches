@@ -157,3 +157,19 @@
 
 + [《战争机器：事变日》是完全线性游戏 与《战争机器5》不同](https://www.3dmgame.com/news/202406/3897116.html)
 
++ [《原子之心》新补丁上线 PC版添加光线追踪支持](https://www.3dmgame.com/news/202406/3897128.html)
+
++ [《野狗子》通关需15小时 主机版最高以4k/60帧运行](https://www.3dmgame.com/news/202406/3897129.html)
+
++ [动视暴雪外包公司涉嫌侵犯员工权利 被工会正式起诉](https://www.3dmgame.com/news/202406/3897127.html)
+
++ [《Before Exit：超市》Steam上线 超市关张大吉模拟器](https://www.3dmgame.com/news/202406/3897126.html)
+
++ [《乐高堡垒之夜》将推出休闲模式和专家模式 预计6月13日发布](https://www.3dmgame.com/news/202406/3897125.html)
+
++ [R级动画剧集《香肠派对: Foodtopia》正式预告 7月11日发售](https://www.3dmgame.com/news/202406/3897130.html)
+
++ [苹果推出新开发工具 更多3A大作将登陆Mac设备](https://www.3dmgame.com/news/202406/3897124.html)
+
++ [悟空收藏版和豪华版首轮秒售罄！《黑神话：悟空》实体版开启第二轮预约](https://www.3dmgame.com/news/202406/3897123.html)
+

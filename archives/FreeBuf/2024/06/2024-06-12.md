@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 公安部网安局公布常见高考网络谣言；niconico 动画弹幕网站服务中断](https://www.freebuf.com/news/403146.html)
 
++ [企业安全 | 浅谈企业安全培训](https://www.freebuf.com/articles/es/403022.html)
+
