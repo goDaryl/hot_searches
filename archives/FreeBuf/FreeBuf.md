@@ -67,3 +67,5 @@
 
 + [网安标委发布《网络安全标准实践指南—敏感个人信息识别指南（征求意见稿）》](https://www.freebuf.com/news/403338.html)
 
++ [渗透测试 | 一次某医疗系统实战](https://www.freebuf.com/articles/web/383506.html)
+
