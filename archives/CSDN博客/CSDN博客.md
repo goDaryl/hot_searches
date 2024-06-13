@@ -111,3 +111,23 @@
 
 + [产品经理研读：Agent的九种设计模式(图解+代码)](https://blog.csdn.net/python12345678_/article/details/139650757)
 
++ [MySQL Online DDL原理解读](https://blog.csdn.net/qq_26664043/article/details/139666138)
+
++ [博客赚钱全攻略：从新手到专家的变现之路](https://blog.csdn.net/coder_heweilai/article/details/139566996)
+
++ [使用 Elasticsearch 设计大规模向量搜索](https://blog.csdn.net/UbuntuTouch/article/details/139645211)
+
++ [从零开始使用 Elasticsearch（8.14.0）搭建全文搜索引擎](https://blog.csdn.net/wenbingy/article/details/139617671)
+
++ [【云计算】Docker部署Nextcloud网盘并实现随地公网远程访问](https://blog.csdn.net/weixin_46022776/article/details/139596988)
+
++ [Vue3.0：前端开发的新纪元，核心特性全览](https://blog.csdn.net/wjs0406/article/details/139630224)
+
++ [web安全-前端层面](https://blog.csdn.net/qq_40588441/article/details/139606912)
+
++ [一站到底-Vue移动端从零到一构建高效应用](https://blog.csdn.net/2302_76329106/article/details/139597639)
+
++ [vue 生命周期 钩子函数 keep-alive activated deactivated](https://blog.csdn.net/u011149152/article/details/139658147)
+
++ [HTML下雪/烟花](https://blog.csdn.net/joe_g12345/article/details/139634573)
+
