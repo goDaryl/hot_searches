@@ -101,3 +101,7 @@
 
 + [Zeacon](https://www.producthunt.com/posts/zeacon)
 
++ [AI drafts by Help Scout](https://www.producthunt.com/posts/ai-drafts-by-help-scout)
+
++ [Music News](https://www.producthunt.com/posts/music-news)
+
