@@ -147,3 +147,7 @@
 
 + [《波斯王子：时之砂》重制版将重塑女主法拉 让其更伟大](https://www.3dmgame.com/news/202406/3897209.html)
 
++ [《刺客信条：影》采用全局光追 系列首款仅登次世代游戏](https://www.3dmgame.com/news/202406/3897222.html)
+
++ [清版动作肉鸽游戏《怪兽快跑》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897221.html)
+

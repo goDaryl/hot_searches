@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 大数据赋能打击保险欺诈；微软计划“隐藏”Windows回忆功能](https://www.freebuf.com/news/403369.html)
 
++ [智能汽车网络安全的那些事 | 身份和密钥中心](https://www.freebuf.com/articles/database/403138.html)
+
