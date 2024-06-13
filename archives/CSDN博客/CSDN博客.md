@@ -149,3 +149,7 @@
 
 + [Mac电脑-后端开发通用配置](https://blog.csdn.net/weixin_41824063/article/details/139543800)
 
++ [RawChat：优化AI对话体验，全面兼容GPT功能平台](https://blog.csdn.net/a1657054242/article/details/139614983)
+
++ [kubernetes（k8s）集群部署（2）](https://blog.csdn.net/weixin_72819498/article/details/139579175)
+

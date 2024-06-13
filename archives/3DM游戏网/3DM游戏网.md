@@ -191,3 +191,11 @@
 
 + [《阿门罗》、《地狱王座》开发商League of Geeks宣布暂时停摆](https://www.3dmgame.com/news/202406/3897235.html)
 
++ [《刺客信条：影》总监表示将在正式发布前修改预告片中的历史错误](https://www.3dmgame.com/news/202406/3897245.html)
+
++ [iPhone16和RTX5090等都要涨价 直奔2万元大关](https://www.3dmgame.com/news/202406/3897246.html)
+
++ [华纳确认《自杀小队》游戏将完成年一开发路线图](https://www.3dmgame.com/news/202406/3897244.html)
+
++ [《英雄传说：界之轨迹》中文版9月26日发售 与日版同步](https://www.3dmgame.com/news/202406/3897243.html)
+
