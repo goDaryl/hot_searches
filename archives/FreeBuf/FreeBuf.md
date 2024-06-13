@@ -51,3 +51,9 @@
 
 + [人工智能大模型再次曝出漏洞，Google 邮件 EmailGPT 扩展成为"受害者"](https://www.freebuf.com/news/403414.html)
 
++ [我在甲方安全岗带薪摸鱼，竟被领导夸奖……](https://www.freebuf.com/fevents/403458.html)
+
++ [WithSecure：边缘软件和基础设施设备被大规模利用](https://www.freebuf.com/news/403455.html)
+
++ [深入探索Web API安全测试：策略、实践与案例分析](https://www.freebuf.com/articles/web/403234.html)
+

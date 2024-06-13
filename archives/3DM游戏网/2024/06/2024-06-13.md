@@ -199,3 +199,5 @@
 
 + [《英雄传说：界之轨迹》中文版9月26日发售 与日版同步](https://www.3dmgame.com/news/202406/3897243.html)
 
++ [休闲种田游戏《舒舒服服小岛时光》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202406/3897247.html)
+

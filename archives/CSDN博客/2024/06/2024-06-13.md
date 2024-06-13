@@ -153,3 +153,7 @@
 
 + [kubernetes（k8s）集群部署（2）](https://blog.csdn.net/weixin_72819498/article/details/139579175)
 
++ [【AI大数据计算原理与代码实例讲解】Kafka](https://blog.csdn.net/universsky2015/article/details/139639740)
+
++ [【Linux】网络编程套接字](https://blog.csdn.net/m0_62714628/article/details/139583268)
+
