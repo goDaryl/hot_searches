@@ -109,3 +109,11 @@
 
 + [到嘴边又憋了回去【今天有什么好笑的 #1592】](http://www.acfun.cn/v/ac44818778)
 
++ [【AC独家】acer的电子女友vlog8｜到了吃西瓜的季节啦～](http://www.acfun.cn/v/ac44819841)
+
++ [《梦觉一枕繁华》——剑网3指尖江湖五周年同人曲](http://www.acfun.cn/v/ac44814005)
+
++ [let s go buddy (变装POKÉDANCE全曲翻跳）](http://www.acfun.cn/v/ac44817540)
+
++ [Minana呀](http://www.acfun.cn/v/ac44817422)
+
