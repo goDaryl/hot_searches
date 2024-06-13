@@ -73,3 +73,5 @@
 
 + [俄罗斯海军舰艇编队抵达古巴哈瓦那港](http://www.acfun.cn/v/ac44815504)
 
++ [《当》AI秋哥演唱歌曲](http://www.acfun.cn/v/ac44822741)
+
