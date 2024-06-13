@@ -43,3 +43,7 @@
 
 + [比亚迪海豹 06 GT 实车谍照曝光，预计今年三季度上市](https://m.ithome.com/html/774747.htm)
 
++ [华为鸿蒙 HarmonyOS 首超苹果 iOS！成 2024 年 Q1 中国第二大手机操作系统](https://m.ithome.com/html/774895.htm)
+
++ [“小爱同学”接入字节跳动豆包大模型，小米 SU7 已搭载](https://m.ithome.com/html/774840.htm)
+
