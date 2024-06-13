@@ -57,3 +57,7 @@
 
 + [深入探索Web API安全测试：策略、实践与案例分析](https://www.freebuf.com/articles/web/403234.html)
 
++ [Dorkish：一款针对OSINT和网络侦查任务的Chrome扩展](https://www.freebuf.com/sectool/403386.html)
+
++ [众多顶级旅游App存在索取用户敏感权限等行为](https://www.freebuf.com/news/403449.html)
+
