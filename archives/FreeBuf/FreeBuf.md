@@ -41,3 +41,5 @@
 
 + [Gophish钓鱼测试平台(二)——链接下载文件功能添加](https://www.freebuf.com/sectool/402459.html)
 
++ [生成式人工智能是DevSecOps的福音还是噩梦？](https://www.freebuf.com/articles/security-management/401921.html)
+
