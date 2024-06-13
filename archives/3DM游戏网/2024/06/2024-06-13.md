@@ -259,3 +259,9 @@
 
 + [苹果库克：Apple智能很强 终于能让我们少刷手机了](https://www.3dmgame.com/news/202406/3897274.html)
 
++ [《太空房地产》今夏发售 登陆Steam抢先体验](https://www.3dmgame.com/news/202406/3897279.html)
+
++ [传OpenAI年化营收半年翻倍 增至34亿美元](https://www.3dmgame.com/news/202406/3897278.html)
+
++ [《海洋奇缘》真人电影女主敲定 2026年7月上映](https://www.3dmgame.com/news/202406/3897277.html)
+
