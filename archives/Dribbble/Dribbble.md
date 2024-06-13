@@ -69,3 +69,15 @@
 
 + [HHC Living Branded Graphic #2](https://dribbble.com/shots/)
 
++ [Elections in Mexico](https://dribbble.com/shots/)
+
++ [Commission work for Sellou App](https://dribbble.com/shots/)
+
++ [Jodar Farms Logo Design](https://dribbble.com/shots/)
+
++ [Camerimage Torun](https://dribbble.com/shots/)
+
++ [pose!](https://dribbble.com/shots/)
+
++ [Nike icons from my archive](https://dribbble.com/shots/)
+
