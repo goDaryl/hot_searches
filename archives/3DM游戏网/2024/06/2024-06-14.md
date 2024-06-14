@@ -137,3 +137,31 @@
 
 + [TV动画《迷宫饭》第2季制作决定 新视觉图](https://www.3dmgame.com/news/202406/3897298.html)
 
++ [《祭品小镇》Steam页面上线 9月19日发售](https://www.3dmgame.com/news/202406/3897311.html)
+
++ [Epic移动商城和《堡垒之夜》明年在日本登陆iOS平台](https://www.3dmgame.com/news/202406/3897313.html)
+
++ [《天国：拯救2》新截图 将有独特的犯罪和审判系统](https://www.3dmgame.com/news/202406/3897312.html)
+
++ [系列前首席编剧大赞《龙腾世纪：影障守护者》实机演示 比预告片要好](https://www.3dmgame.com/news/202406/3897314.html)
+
++ [PS5新系统更新上线：添加Discord语音快捷启动功能](https://www.3dmgame.com/news/202406/3897315.html)
+
++ [克苏鲁风格生存恐怖游戏《理智边缘》 现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897316.html)
+
++ [《电锯甜心RePOP》宣布9月25日发售 登陆多平台支持中文](https://www.3dmgame.com/news/202406/3897301.html)
+
++ [沙盒生存建造游戏《ASKA》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897304.html)
+
++ [《绝地潜兵2》武器和支援主要平衡性补丁现已推出](https://www.3dmgame.com/news/202406/3897305.html)
+
++ [《流放之路2》PS5 25分钟沙发合作实机 打击感强烈](https://www.3dmgame.com/news/202406/3897306.html)
+
++ [《英雄立志传：三国志》Steam页面 发售日待定](https://www.3dmgame.com/news/202406/3897307.html)
+
++ [魔兽总经理John Hight宣布离职 已在暴雪任职12年](https://www.3dmgame.com/news/202406/3897308.html)
+
++ [《刺客信条：影》官方实机解析视频 战斗潜行系统革新](https://www.3dmgame.com/news/202406/3897309.html)
+
++ [《盗贼之海》登陆PS主机后 称霸欧美5月下载榜](https://www.3dmgame.com/news/202406/3897310.html)
+
