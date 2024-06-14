@@ -113,3 +113,7 @@
 
 + [【Dance Cover】T-ARA bunny style](http://www.acfun.cn/v/ac44822211)
 
++ [【ACFUN声唱2024】第一轮第一期：首战即决战，一曲定乾坤！](http://www.acfun.cn/v/ac44823103)
+
++ [小姐姐：你礼貌吗？【今日好笑视频 #543】](http://www.acfun.cn/v/ac44820280)
+
