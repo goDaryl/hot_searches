@@ -27,3 +27,5 @@
 
 + [4999 元起，荣耀首款小折叠手机 Magic V Flip 正式发布：全面外屏 + 高通骁龙 8+ Gen1](https://m.ithome.com/html/775017.htm)
 
++ [售价 17.59 万元起，长安深蓝 G318 车型上市一小时订单突破 3000 辆](https://m.ithome.com/html/775028.htm)
+

@@ -133,3 +133,15 @@
 
 + [山东大学软件学院项目实训-创新实训-基于大模型的旅游平台（三十二）- 微服务(12)](https://blog.csdn.net/qq_64663346/article/details/139630574)
 
++ [如何愉快地实施数仓模型，对比下厨做饭](https://blog.csdn.net/u012955829/article/details/139610522)
+
++ [Nginx+KeepAlived高可用负载均衡集群的部署](https://blog.csdn.net/F12138X/article/details/139637864)
+
++ [vue聊天发送Emoji表情](https://blog.csdn.net/qq_45963071/article/details/139642304)
+
++ [四、Nginx配置文件-负载均衡](https://blog.csdn.net/weixin_42171272/article/details/139631240)
+
++ [Kafka 负载均衡挑战及解决思路](https://blog.csdn.net/Hedon954/article/details/139620760)
+
++ [使用canvas制作一个无人机旋转特效](https://blog.csdn.net/weixin_44714345/article/details/139627096)
+

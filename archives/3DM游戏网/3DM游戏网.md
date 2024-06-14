@@ -123,3 +123,7 @@
 
 + [《我的世界》更新上线 带来全新地下试炼内容](https://www.3dmgame.com/news/202406/3897293.html)
 
++ [《刺客信条：影》主创回应马斯克负面评论 解释男主为何是黑人](https://www.3dmgame.com/news/202406/3897297.html)
+
++ [《龙腾世纪：影障守护者》没有微交易 不会强制Steam用户绑定EA账户](https://www.3dmgame.com/news/202406/3897296.html)
+
