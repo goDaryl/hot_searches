@@ -201,3 +201,7 @@
 
 + [恐怖游戏《翌日 -波奇狗的历险记-》Steam页面上线 支持简中](https://www.3dmgame.com/news/202406/3897332.html)
 
++ [《漫威争锋》新角色“潘妮·帕克”预告 驾驶蜘蛛机甲](https://www.3dmgame.com/news/202406/3897336.html)
+
++ [《怪物猎人：荒野》总监：我做的怪猎都会注重生态环境](https://www.3dmgame.com/news/202406/3897335.html)
+
