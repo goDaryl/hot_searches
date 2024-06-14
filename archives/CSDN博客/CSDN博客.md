@@ -131,3 +131,5 @@
 
 + [HTML下雪/烟花](https://blog.csdn.net/joe_g12345/article/details/139634573)
 
++ [山东大学软件学院项目实训-创新实训-基于大模型的旅游平台（三十二）- 微服务(12)](https://blog.csdn.net/qq_64663346/article/details/139630574)
+
