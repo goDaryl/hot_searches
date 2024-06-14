@@ -49,3 +49,25 @@
 
 + [Jodar Farms Logo Design](https://dribbble.com/shots/)
 
++ [????️ ???? ????️](https://dribbble.com/shots/)
+
++ [Case Study: Travel Tracker Service Website](https://dribbble.com/shots/)
+
++ [Pocahontas](https://dribbble.com/shots/)
+
++ [???? NY Rats](https://dribbble.com/shots/)
+
++ [This weeks draggin' ????](https://dribbble.com/shots/)
+
++ [Believe in the Creative Process](https://dribbble.com/shots/)
+
++ [Illustration](https://dribbble.com/shots/)
+
++ [Grayscale Textured Wave](https://dribbble.com/shots/)
+
++ [Dropdead – lettering + illustration print](https://dribbble.com/shots/)
+
++ [The Conquest of Happiness](https://dribbble.com/shots/)
+
++ [The Gryphon](https://dribbble.com/shots/)
+
