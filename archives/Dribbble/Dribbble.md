@@ -71,3 +71,15 @@
 
 + [The Gryphon](https://dribbble.com/shots/)
 
++ [Characters in Transit - 1](https://dribbble.com/shots/)
+
++ [HHC Living Branded Graphic #2](https://dribbble.com/shots/)
+
++ [Night Bazaar Spook: Poster Illustration](https://dribbble.com/shots/)
+
++ [Avocado Hugs](https://dribbble.com/shots/)
+
++ [Commission work for Sellou App](https://dribbble.com/shots/)
+
++ [Guts #2](https://dribbble.com/shots/)
+
