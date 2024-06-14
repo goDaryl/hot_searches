@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 黑客疑似已掌握黑莓公司34万亿文件；纽约时报发生重大数据泄露事故](https://www.freebuf.com/news/403416.html)
 
++ [白盒代码审计：关于VsCode中CodeQL的应用](https://www.freebuf.com/articles/web/402726.html)
+

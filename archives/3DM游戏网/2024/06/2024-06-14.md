@@ -127,3 +127,13 @@
 
 + [《龙腾世纪：影障守护者》没有微交易 不会强制Steam用户绑定EA账户](https://www.3dmgame.com/news/202406/3897296.html)
 
++ [《国足勇夺世界杯》Steam页面 发售日期待定](https://www.3dmgame.com/news/202406/3897303.html)
+
++ [《神鬼寓言4》计划于2025年底发售 大家期待吗？](https://www.3dmgame.com/news/202406/3897302.html)
+
++ [《奇异人生：双重曝光》开发者确认 玩家能够保留前作中麦克斯选择的结局](https://www.3dmgame.com/news/202406/3897300.html)
+
++ [《龙腾世纪4》技能树很庞大 游戏等级上限为50级](https://www.3dmgame.com/news/202406/3897299.html)
+
++ [TV动画《迷宫饭》第2季制作决定 新视觉图](https://www.3dmgame.com/news/202406/3897298.html)
+
