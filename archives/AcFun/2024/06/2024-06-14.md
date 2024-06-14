@@ -103,3 +103,13 @@
 
 + [1324期：大车失控，毁车数十辆，没有一个轻伤](http://www.acfun.cn/v/ac44821119)
 
++ [疯狂的鬼秤：厂商帮忙造假，连黄金都敢短斤少两](http://www.acfun.cn/v/ac44825651)
+
++ [爸爸哭着要参加儿童节【今天有什么好笑的 #1593】](http://www.acfun.cn/v/ac44825477)
+
++ [《蓝色星原：旅谣》首曝PV＆实机演示](http://www.acfun.cn/v/ac44821540)
+
++ [【金坷垃】雑踏、僕らの街](http://www.acfun.cn/v/ac44822669)
+
++ [【Dance Cover】T-ARA bunny style](http://www.acfun.cn/v/ac44822211)
+
