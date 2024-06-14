@@ -55,3 +55,7 @@
 
 + [用键盘模拟器假装积极工作，富国银行解雇十余名“高科技摸鱼”员工](https://m.ithome.com/html/775141.htm)
 
++ [极简手机 Light Phone III 发布：时隔 6 年回归，电池可更换、实体拍照键，首发享半价 399 美元](https://m.ithome.com/html/775143.htm)
+
++ [小米 MIX Fold 4 手机通过 3C 入网认证：支持天通卫星通信，三证齐全只待发布](https://m.ithome.com/html/775043.htm)
+
