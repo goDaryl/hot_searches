@@ -143,3 +143,7 @@
 
 + [Libretto.fm](https://www.producthunt.com/posts/libretto-fm)
 
++ [Chatty Bots](https://www.producthunt.com/posts/chatty-bots)
+
++ [NewRA.ai](https://www.producthunt.com/posts/newra-ai)
+
