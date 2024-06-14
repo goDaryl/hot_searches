@@ -31,3 +31,7 @@
 
 + [消息称小红书两年工龄就是“活化石”，高薪难掩高强度工作与组织动荡](https://m.ithome.com/html/774892.htm)
 
++ [京东因 2024 央视春晚超额大奖被罚 5 万元](https://m.ithome.com/html/775064.htm)
+
++ [比亚迪宋 L DM-i 完成申报，采用全新设计，预计搭载第五代 DM 混动技术](https://m.ithome.com/html/774984.htm)
+
