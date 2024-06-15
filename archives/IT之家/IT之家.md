@@ -41,3 +41,5 @@
 
 + [消息称 iQOO 13 手机电池容量有望超过 6000mAh，配备 2K 直屏 + 超声波指纹解锁](https://m.ithome.com/html/775181.htm)
 
++ [22.89 万元起，岚图 FREE 318 车型发布：搭载百度 Apollo L2.9 智驾辅助](https://m.ithome.com/html/775293.htm)
+
