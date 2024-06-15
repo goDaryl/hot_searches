@@ -43,3 +43,5 @@
 
 + [22.89 万元起，岚图 FREE 318 车型发布：搭载百度 Apollo L2.9 智驾辅助](https://m.ithome.com/html/775293.htm)
 
++ [中兴 Axon 60 Ultra 手机上架官网：骁龙 8 Gen 2 处理器 + 6000mAh 电池，售价 6999 元起](https://m.ithome.com/html/775213.htm)
+
