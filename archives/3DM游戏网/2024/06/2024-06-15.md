@@ -117,3 +117,11 @@
 
 + [《铲子骑士：希望之铲DX》面向PC平台公布](https://www.3dmgame.com/news/202406/3897376.html)
 
++ [《艾尔登法环：黄金树幽影》将有首日补丁 带来新发型、最近物品选项卡等功能](https://www.3dmgame.com/news/202406/3897381.html)
+
++ [传《刺客信条》之父正为Xbox开发虚幻5 3A游戏](https://www.3dmgame.com/news/202406/3897382.html)
+
++ [《刺客信条》核心应用ANIMUS HUB或与新作《影》同时推出](https://www.3dmgame.com/news/202406/3897383.html)
+
++ [《荒野枪巫》开发商Galvanic Games倒闭 销量后劲不足](https://www.3dmgame.com/news/202406/3897380.html)
+
