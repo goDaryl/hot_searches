@@ -191,3 +191,7 @@
 
 + [《最终幻想战略版：重制版》开发传闻再获力挺](https://www.3dmgame.com/news/202406/3897412.html)
 
++ [四川霸气上新“陆地航母” 西南最大动车所](https://www.3dmgame.com/news/202406/3897417.html)
+
++ [《赛博朋克2077》被取消DLC泄露：登月&第二次企业大战](https://www.3dmgame.com/news/202406/3897418.html)
+
