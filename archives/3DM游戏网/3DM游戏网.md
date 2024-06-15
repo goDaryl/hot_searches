@@ -195,3 +195,7 @@
 
 + [《赛博朋克2077》被取消DLC泄露：登月&第二次企业大战](https://www.3dmgame.com/news/202406/3897418.html)
 
++ [OpenAI董事会再添新人！美国前国安局局长重磅加入](https://www.3dmgame.com/news/202406/3897420.html)
+
++ [沈腾马丽喜剧《接班人计划》定档 7月18日上映](https://www.3dmgame.com/news/202406/3897419.html)
+
