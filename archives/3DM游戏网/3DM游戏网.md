@@ -181,3 +181,13 @@
 
 + [为电竞正名！国际奥委会执委会提议举办电竞奥运会](https://www.3dmgame.com/news/202406/3897405.html)
 
++ [《天国：拯救2》开发商介绍MOD工具和DLC规划](https://www.3dmgame.com/news/202406/3897416.html)
+
++ [《eFootball》第七赛季更新加入欧洲杯和美洲杯赛事](https://www.3dmgame.com/news/202406/3897415.html)
+
++ [《命运2：终焉之形》成今年M站评分并列第一作品](https://www.3dmgame.com/news/202406/3897414.html)
+
++ [《博德之门3》影心最初过于刻薄 随后被大幅调整](https://www.3dmgame.com/news/202406/3897413.html)
+
++ [《最终幻想战略版：重制版》开发传闻再获力挺](https://www.3dmgame.com/news/202406/3897412.html)
+
