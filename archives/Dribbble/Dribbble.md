@@ -95,3 +95,7 @@
 
 + [Shiner Bock - Ram Illustration](https://dribbble.com/shots/)
 
++ [Pattern for Swedish Columbia](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Master Logo](https://dribbble.com/shots/)
+
