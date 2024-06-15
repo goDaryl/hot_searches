@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | 白帽报告苹果Vision Pro特有漏洞；欧盟各政党遭受 DDoS 攻击](https://www.freebuf.com/news/403591.html)
 
++ [组件风险分析与修复指引：Spring Web5.2.23.RELEASE](https://www.freebuf.com/articles/web/402506.html)
+

@@ -125,3 +125,11 @@
 
 + [《荒野枪巫》开发商Galvanic Games倒闭 销量后劲不足](https://www.3dmgame.com/news/202406/3897380.html)
 
++ [Tango Gameworks开发者纪录工作室的最后一天](https://www.3dmgame.com/news/202406/3897387.html)
+
++ [吉田澄清《最终幻想9：重制版》并非由他的团队打造](https://www.3dmgame.com/news/202406/3897386.html)
+
++ [《铲子骑士：口袋地牢》免费DLC将加入MOD支持](https://www.3dmgame.com/news/202406/3897385.html)
+
++ [《园艺大师》7月12日正式发售 支持中文](https://www.3dmgame.com/news/202406/3897384.html)
+
