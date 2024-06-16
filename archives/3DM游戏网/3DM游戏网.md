@@ -101,3 +101,7 @@
 
 + [《活侠传》Steam多半差评 存档有问题](https://www.3dmgame.com/news/202406/3897375.html)
 
++ [《方舟：生存飞升》PS5和XSX运行分辨率大部分时候仅720P](https://www.3dmgame.com/news/202406/3897426.html)
+
++ [《Pipsqueak!》开启众筹 横版动作新游](https://www.3dmgame.com/news/202406/3897425.html)
+

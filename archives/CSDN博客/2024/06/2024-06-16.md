@@ -125,3 +125,11 @@
 
 + [微信小程序04: 获取openId和unionId](https://blog.csdn.net/pingzhuyan/article/details/139291769)
 
++ [AI 大模型的赛点：通用与垂直之争](https://blog.csdn.net/qyj19920704/article/details/139667679)
+
++ [x86计算机的启动初期流程 Linux 启动流程](https://blog.csdn.net/eloudy/article/details/139710073)
+
++ [SringBoot 如何使用HTTPS请求及Nginx配置Https](https://blog.csdn.net/xuxiannian/article/details/139474599)
+
++ [卡尔曼滤波原理及应用（一）](https://blog.csdn.net/qq_67958647/article/details/139599050)
+

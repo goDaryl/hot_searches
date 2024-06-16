@@ -43,3 +43,5 @@
 
 + [CISA网络安全事件应急手册](https://www.freebuf.com/sectool/403142.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/403610.html)
+
