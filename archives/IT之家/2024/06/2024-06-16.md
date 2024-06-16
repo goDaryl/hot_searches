@@ -45,3 +45,7 @@
 
 + [R7-7840HS 准系统 + 30 天试玩：零刻 SER7 迷你主机 1973 元再降价](https://m.ithome.com/html/775491.htm)
 
++ [光线传媒董事长王长田：电影《三体》由张艺谋导演](https://m.ithome.com/html/775524.htm)
+
++ [华为最强智驾：乾崑 ADS 2.0 升级到 ADS 3.0 无需更换硬件](https://m.ithome.com/html/775511.htm)
+
