@@ -129,3 +129,9 @@
 
 + [华为纯血鸿蒙完全独立于安卓iOS 采用纯国产微内核](https://www.3dmgame.com/news/202406/3897438.html)
 
++ [《银河战士Prime 4》公布7周年 仍然没有确切消息](https://www.3dmgame.com/news/202406/3897441.html)
+
++ [人气动漫《怪兽8号》将推游戏 登陆手机/Steam平台](https://www.3dmgame.com/news/202406/3897440.html)
+
++ [农场模拟游戏新作《风和日暖》登陆Steam平台](https://www.3dmgame.com/news/202406/3897439.html)
+
