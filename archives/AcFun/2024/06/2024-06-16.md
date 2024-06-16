@@ -113,3 +113,19 @@
 
 + [这才是最纯粹的看腿](http://www.acfun.cn/v/ac44842991)
 
++ [一人成团绝美和声《光の旋律》（ACFUN声唱2024参赛曲目）附纯人声](http://www.acfun.cn/v/ac44844320)
+
++ [《新白袜子传奇》秋水组合怪叫演唱](http://www.acfun.cn/v/ac44843383)
+
++ [来杯奶茶，打包带走。【今日好笑视频 #547】](http://www.acfun.cn/v/ac44840289)
+
++ [兄弟们来学蝴蝶步了！](http://www.acfun.cn/v/ac44842919)
+
++ [这狗都不用喂了，自己就长大了](http://www.acfun.cn/v/ac44842971)
+
++ [【柯基】《乌兰巴托的夜》](http://www.acfun.cn/v/ac44843025)
+
++ [刚跑完步的大姐姐最吸引人](http://www.acfun.cn/v/ac44842959)
+
++ [这就是爱情吧【今天有什么好笑的 #1595】](http://www.acfun.cn/v/ac44843813)
+
