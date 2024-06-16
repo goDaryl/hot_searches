@@ -165,3 +165,13 @@
 
 + [《死亡空间：重制版》Steam三折新史低促销 74.4元](https://www.3dmgame.com/news/202406/3897456.html)
 
++ [USB4 v2还得等一年多！160Gbps带宽四倍于USB4](https://www.3dmgame.com/news/202406/3897461.html)
+
++ [《加菲猫家族》全球票房已破2亿美元](https://www.3dmgame.com/news/202406/3897460.html)
+
++ [《黑神话：悟空》媒体前瞻泄露 不是类魂游戏](https://www.3dmgame.com/news/202406/3897459.html)
+
++ [苹果：任何支持富文本的地方都可以支持Genmoji](https://www.3dmgame.com/news/202406/3897458.html)
+
++ [旅行者1号满血复活 NASA修复人类最遥远探测器](https://www.3dmgame.com/news/202406/3897457.html)
+
