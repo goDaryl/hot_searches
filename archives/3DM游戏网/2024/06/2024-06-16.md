@@ -135,3 +135,5 @@
 
 + [农场模拟游戏新作《风和日暖》登陆Steam平台](https://www.3dmgame.com/news/202406/3897439.html)
 
++ [玩家血祭《上古卷轴5》NPC已达1千次！直到六代问世](https://www.3dmgame.com/news/202406/3897442.html)
+
