@@ -49,3 +49,21 @@
 
 + [Grayscale Textured Wave](https://dribbble.com/shots/)
 
++ [????️ ???? ????️](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Master Logo](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #8](https://dribbble.com/shots/)
+
++ [Camerimage Torun](https://dribbble.com/shots/)
+
++ [The Gryphon](https://dribbble.com/shots/)
+
++ [Hats](https://dribbble.com/shots/)
+
++ [Women's Basketball Merch Concept](https://dribbble.com/shots/)
+
++ [Just a simple cat  (PSE '24)](https://dribbble.com/shots/)
+
++ [???? NY Rats](https://dribbble.com/shots/)
+
