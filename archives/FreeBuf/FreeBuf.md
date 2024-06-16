@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/403610.html)
 
++ [CVE-2024-2961 漏洞分析](https://www.freebuf.com/articles/web/403508.html)
+
