@@ -163,3 +163,5 @@
 
 + [电影版《三体》将由张艺谋执导 目前在筹备阶段](https://www.3dmgame.com/news/202406/3897455.html)
 
++ [《死亡空间：重制版》Steam三折新史低促销 74.4元](https://www.3dmgame.com/news/202406/3897456.html)
+
