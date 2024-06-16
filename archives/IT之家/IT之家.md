@@ -51,3 +51,5 @@
 
 + [理想车友聚会发生多车追尾，智驾负责人韩龄回应：碰撞前已触发预警和 AEB](https://m.ithome.com/html/775558.htm)
 
++ [256G 款五折清仓：小米 Redmi Note 12 标准版 5G 手机 799 元新低](https://m.ithome.com/html/775512.htm)
+
