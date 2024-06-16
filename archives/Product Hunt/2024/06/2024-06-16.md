@@ -109,3 +109,25 @@
 
 + [AI Tools Directory](https://www.producthunt.com/posts/ai-tools-directory-4)
 
++ [Drip](https://www.producthunt.com/posts/drip-11)
+
++ [MechanicBotAI](https://www.producthunt.com/posts/mechanicbotai)
+
++ [Inbox Zero AI](https://www.producthunt.com/posts/inbox-zero-ai)
+
++ [Jobform Automator](https://www.producthunt.com/posts/jobform-automator)
+
++ [histories](https://www.producthunt.com/posts/histories)
+
++ [PlantIdentify - Plant Detector](https://www.producthunt.com/posts/plantidentify-plant-detector)
+
++ [DynaUI](https://www.producthunt.com/posts/dynaui)
+
++ [PaperSync](https://www.producthunt.com/posts/papersync-2)
+
++ [Passkeys by Hanko](https://www.producthunt.com/posts/passkeys-by-hanko)
+
++ [Gört](https://www.producthunt.com/posts/gort)
+
++ [Teameet](https://www.producthunt.com/posts/teameet)
+
