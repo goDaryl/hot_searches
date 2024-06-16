@@ -127,3 +127,5 @@
 
 + [《潜行者2》外媒上手前瞻：狩猎开始了，潜行者们！](https://www.3dmgame.com/news/202406/3897427.html)
 
++ [华为纯血鸿蒙完全独立于安卓iOS 采用纯国产微内核](https://www.3dmgame.com/news/202406/3897438.html)
+
