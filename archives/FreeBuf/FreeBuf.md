@@ -57,3 +57,5 @@
 
 + [cloud_enum：一款针对不同平台云环境安全的OSINT工具](https://www.freebuf.com/sectool/403421.html)
 
++ [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
+

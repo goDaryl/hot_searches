@@ -199,3 +199,11 @@
 
 + [《堕落之主》续作宣布2026年发售 Epic拥有永久独占权](https://www.3dmgame.com/news/202406/3897508.html)
 
++ [曝苹果正研发超薄手机：明年发布 命名iPhone 17 Slim](https://www.3dmgame.com/news/202406/3897515.html)
+
++ [港服PS Plus三档会员新增试玩游戏：《星刃》](https://www.3dmgame.com/news/202406/3897514.html)
+
++ [《银河破裂者》新DLC“无尽沼泽”6月22日发售 大型免费更新同步上线](https://www.3dmgame.com/news/202406/3897512.html)
+
++ [《The Crust》7月15日Steam抢先体验 月球殖民经营模拟](https://www.3dmgame.com/news/202406/3897513.html)
+
