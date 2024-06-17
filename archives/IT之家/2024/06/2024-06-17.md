@@ -47,3 +47,7 @@
 
 + [消息称小米 15 标准版手机采用直立长焦、超声波指纹，无缘 5200mAh 电池](https://m.ithome.com/html/775650.htm)
 
++ [AI 一键去衣“1 块 5 一张”，北京一男子非法制造七千余张不雅照片被捕](https://m.ithome.com/html/775729.htm)
+
++ [美国得州现“奇葩”房源，内含数据中心却无卧室](https://m.ithome.com/html/775617.htm)
+
