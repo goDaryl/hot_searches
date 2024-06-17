@@ -85,3 +85,9 @@
 
 + [Case Study: Music App Design](https://dribbble.com/shots/)
 
++ [Pattern for Swedish Columbia](https://dribbble.com/shots/)
+
++ [Bank](https://dribbble.com/shots/)
+
++ [Condors](https://dribbble.com/shots/)
+
