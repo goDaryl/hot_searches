@@ -189,3 +189,9 @@
 
 + [大众点评_token,mtgsig](https://blog.csdn.net/weixin_54573778/article/details/139725964)
 
++ [MLOps模型部署的三种策略：批处理、实时、边缘计算](https://blog.csdn.net/m0_46510245/article/details/139736390)
+
++ [电路笔记 :LM3481MM/NOPB升压模块，升压电路原理](https://blog.csdn.net/ResumeProject/article/details/139721070)
+
++ [30 天 52% 回报：GPT-4o 量化交易机器人](https://blog.csdn.net/yuff100/article/details/139718086)
+
