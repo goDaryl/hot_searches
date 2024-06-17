@@ -41,3 +41,5 @@
 
 + [个人数据被公开！大量车辆与驾驶数据被用来训练AI大模型](https://www.freebuf.com/news/403553.html)
 
++ [越南数据保护要求](https://www.freebuf.com/articles/database/402690.html)
+

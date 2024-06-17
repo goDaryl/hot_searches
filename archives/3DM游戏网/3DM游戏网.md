@@ -117,3 +117,11 @@
 
 + [同名动漫改编游戏《怪兽8号》公开首支预告片](https://www.3dmgame.com/news/202406/3897469.html)
 
++ [《暗黑破坏神4》首席技术美工宣布离职](https://www.3dmgame.com/news/202406/3897474.html)
+
++ [《暗喻幻想》开发者全新视频揭秘战斗系统细节](https://www.3dmgame.com/news/202406/3897471.html)
+
++ [且看且珍惜樱井政博即将结束视频创作生涯](https://www.3dmgame.com/news/202406/3897473.html)
+
++ [吉田直树希望《最终幻想14》能登陆任天堂新主机](https://www.3dmgame.com/news/202406/3897472.html)
+

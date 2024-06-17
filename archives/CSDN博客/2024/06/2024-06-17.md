@@ -133,3 +133,11 @@
 
 + [体验亚马逊AIGC——Amazon Bedrock](https://blog.csdn.net/m0_73367097/article/details/139678880)
 
++ [mybatis-plus使用拦截器实现sql完整打印](https://blog.csdn.net/weixin_55768452/article/details/139717597)
+
++ [AI 大模型的赛点：通用与垂直之争](https://blog.csdn.net/qyj19920704/article/details/139667679)
+
++ [奥特曼谈AI的机遇、挑战与人类自我反思：中国将拥有独特的大语言模型](https://blog.csdn.net/Gabriel100yi/article/details/139723480)
+
++ [微信小程序地图](https://blog.csdn.net/weixin_52350720/article/details/139727749)
+
