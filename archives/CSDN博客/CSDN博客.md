@@ -179,3 +179,13 @@
 
 + [学习记录：VS2019+OpenCV3.4.1实现SURF库函数的调用](https://blog.csdn.net/weixin_42532989/article/details/139716219)
 
++ [基于STM32和人工智能的智能气象站系统](https://blog.csdn.net/2401_84204806/article/details/139726213)
+
++ [第28讲：Ceph集群使用RBD块存储与K8S Volumes集成](https://blog.csdn.net/weixin_44953658/article/details/139731529)
+
++ [基于FPGA的VGA协议实现](https://blog.csdn.net/weixin_52345779/article/details/139717723)
+
++ [开源低代码平台，JeecgBoot v3.7.0 里程碑版本发布](https://blog.csdn.net/zhangdaiscott/article/details/139732278)
+
++ [大众点评_token,mtgsig](https://blog.csdn.net/weixin_54573778/article/details/139725964)
+

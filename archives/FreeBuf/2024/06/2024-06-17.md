@@ -53,3 +53,5 @@
 
 + [新型 TIKTAG 攻击曝光，专门针对谷歌浏览器和 Linux 系统](https://www.freebuf.com/news/403690.html)
 
++ [华硕曝出高危漏洞，影响 7 款路由器](https://www.freebuf.com/news/403718.html)
+
