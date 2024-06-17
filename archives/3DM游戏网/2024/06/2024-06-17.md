@@ -189,3 +189,13 @@
 
 + [《勇者斗恶龙10》7.1版更新内容 誓约之园新冒险](https://www.3dmgame.com/news/202406/3897503.html)
 
++ [《Near The Sun》Steam页面上线 横版动作冒险](https://www.3dmgame.com/news/202406/3897509.html)
+
++ [漫改动画《SHY 腼腆英雄》第二季预告发布 7月1日起正式播出](https://www.3dmgame.com/news/202406/3897510.html)
+
++ [腾讯《金庸武侠世界》今天开播 新版黄蓉郭靖等亮相](https://www.3dmgame.com/news/202406/3897511.html)
+
++ [治愈系沙盒建造游戏《林间小世界》推出Steam新品节试玩Demo 愿望单已达1百万](https://www.3dmgame.com/news/202406/3897507.html)
+
++ [《堕落之主》续作宣布2026年发售 Epic拥有永久独占权](https://www.3dmgame.com/news/202406/3897508.html)
+
