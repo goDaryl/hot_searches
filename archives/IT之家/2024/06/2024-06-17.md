@@ -31,3 +31,7 @@
 
 + [广州一酒店 Wi-Fi 费“一天 110 元”引热议，你能接受住店网络单独收费吗](https://m.ithome.com/html/775610.htm)
 
++ [骁龙 680 处理器：Redmi Pad SE 11 英寸平板 128G 版 686 元限时新低](https://m.ithome.com/html/775595.htm)
+
++ [12.29 万元起，奇瑞艾瑞泽 8 汽车 2.0T+8AT、1.6T+8155 新版型上市](https://m.ithome.com/html/775605.htm)
+
