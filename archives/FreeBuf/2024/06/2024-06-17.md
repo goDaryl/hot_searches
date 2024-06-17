@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 电信诈骗盯上高考考生；微软告密者称公司将商业利益置于安全之上](https://www.freebuf.com/news/403601.html)
 
++ [企业安全 | 浅谈企业风险评估](https://www.freebuf.com/articles/es/403346.html)
+

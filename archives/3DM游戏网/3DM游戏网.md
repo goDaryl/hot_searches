@@ -135,3 +135,17 @@
 
 + [《神奇女侠》游戏概念图和首批细节泄露 有复仇系统](https://www.3dmgame.com/news/202406/3897475.html)
 
++ [外太空模拟建造游戏《地壳》发售预告公布 7月15日抢先体验推出](https://www.3dmgame.com/news/202406/3897485.html)
+
++ [《Fate/Samurai Remnant》DLC第三弹“断章・白龙红鬼演义”公布 6月20日上线](https://www.3dmgame.com/news/202406/3897482.html)
+
++ [《影之诗：Worlds Beyond》延期 预定2025年春发售](https://www.3dmgame.com/news/202406/3897484.html)
+
++ [《刺客信条：影》弥助头盔收藏品亮相 玩家：他不是武士](https://www.3dmgame.com/news/202406/3897483.html)
+
++ [土耳其神话《夜痕：被遗忘之神》预告 对抗冥界大军](https://www.3dmgame.com/news/202406/3897486.html)
+
++ [陶德：B社没有计划移植或重制初代《辐射》游戏](https://www.3dmgame.com/news/202406/3897481.html)
+
++ [《黑神话：悟空》8分钟上手视频 IGN上手前瞻](https://www.3dmgame.com/news/202406/3897480.html)
+
