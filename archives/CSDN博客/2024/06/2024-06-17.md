@@ -155,3 +155,27 @@
 
 + [Web3失败下互联网的未来转型之路](https://blog.csdn.net/weixin_45034594/article/details/139677071)
 
++ [elasticsearch过滤器filter：原理及使用](https://blog.csdn.net/qq_26664043/article/details/139701377)
+
++ [AI大模型在运动项目的深度融合和在穿戴设备的实践及未来运动健康技术发展](https://blog.csdn.net/rjdeng/article/details/139669113)
+
++ [哈喽GPT-4o——对GPT-4o 文本创作的思考与看法](https://blog.csdn.net/guorui_java/article/details/139730560)
+
++ [轨迹优化 | 图解欧氏距离场与梯度场算法(附ROS C++/Python实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/139727349)
+
++ [Spring Boot中的各种事件](https://blog.csdn.net/Xiaowu_First/article/details/139691643)
+
++ [植物大战僵尸杂交版全新版v2.1解决全屏问题](https://blog.csdn.net/dh45498/article/details/139721255)
+
++ [FPGA的VGA协议实现](https://blog.csdn.net/luck_liao/article/details/139724288)
+
++ [VUE3脚手架工具cli配置搭建及创建VUE工程](https://blog.csdn.net/tangshiyilang/article/details/139679949)
+
++ [实战项目: 负载均衡](https://blog.csdn.net/LYC_462857656/article/details/139312642)
+
++ [jenkins docker配置方法](https://blog.csdn.net/Snow_760/article/details/139728729)
+
++ [贪心算法学习五](https://blog.csdn.net/2301_79881188/article/details/139708443)
+
++ [学习记录：VS2019+OpenCV3.4.1实现SURF库函数的调用](https://blog.csdn.net/weixin_42532989/article/details/139716219)
+

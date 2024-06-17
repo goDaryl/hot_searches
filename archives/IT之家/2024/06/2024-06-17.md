@@ -35,3 +35,7 @@
 
 + [12.29 万元起，奇瑞艾瑞泽 8 汽车 2.0T+8AT、1.6T+8155 新版型上市](https://m.ithome.com/html/775605.htm)
 
++ [售 17.59 万元起，长安深蓝 G318 车型上市 70 小时订单破万](https://m.ithome.com/html/775592.htm)
+
++ [人口爆炸，孟加拉国靠什么养活 1.7 亿人](https://m.ithome.com/html/775555.htm)
+
