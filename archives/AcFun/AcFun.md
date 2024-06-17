@@ -135,3 +135,11 @@
 
 + [【vlog】i人勇闯音乐节 快乐！寻！宝！藏！](http://www.acfun.cn/v/ac44851496)
 
++ [暴雷！恶心！有屎以来最垃圾的武侠游戏，首日好评率跌破30％！](http://www.acfun.cn/v/ac44858813)
+
++ [有一种崩溃叫陪娃写作业，看一遍笑一遍](http://www.acfun.cn/v/ac44857337)
+
++ [王静静地诞生。【KING】](http://www.acfun.cn/v/ac44856811)
+
++ [象棋：全盘没一子过河就被杀败了](http://www.acfun.cn/v/ac44857350)
+
