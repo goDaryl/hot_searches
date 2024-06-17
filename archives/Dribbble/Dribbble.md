@@ -49,3 +49,23 @@
 
 + [Shows I Wish I Went To #8](https://dribbble.com/shots/)
 
++ [Dennis Rodman](https://dribbble.com/shots/)
+
++ [Rolling Fun](https://dribbble.com/shots/)
+
++ [Weird chess game](https://dribbble.com/shots/)
+
++ [Customer Feedback Coaster](https://dribbble.com/shots/)
+
++ [HHC Living Branded Graphic #2](https://dribbble.com/shots/)
+
++ [Memento Mori](https://dribbble.com/shots/)
+
++ [Box print sneak peek](https://dribbble.com/shots/)
+
++ [Alien Romulus](https://dribbble.com/shots/)
+
++ [Brewery Lettering](https://dribbble.com/shots/)
+
++ [Characters + pattern I Client: Fiverr](https://dribbble.com/shots/)
+
