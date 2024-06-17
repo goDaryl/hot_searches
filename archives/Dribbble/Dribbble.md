@@ -105,3 +105,7 @@
 
 + [Chicago Red Stars Illustration and close up](https://dribbble.com/shots/)
 
++ [Brandon Sharper – wordmark for a business consultant](https://dribbble.com/shots/)
+
++ [Steel ball](https://dribbble.com/shots/)
+

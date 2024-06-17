@@ -59,3 +59,5 @@
 
 + [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
 
++ [FreeBuf 全球网络安全产业投融资观察（5月）](https://www.freebuf.com/articles/neopoints/403747.html)
+
