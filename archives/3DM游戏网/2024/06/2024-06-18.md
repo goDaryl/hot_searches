@@ -205,3 +205,5 @@
 
 + [《黑执事》漫画将长期停载 作者休整酝酿故事最高潮](https://www.3dmgame.com/news/202406/3897571.html)
 
++ [全球第一款RTX4070 ITX迷你卡诞生！单风扇无压力](https://www.3dmgame.com/news/202406/3897584.html)
+
