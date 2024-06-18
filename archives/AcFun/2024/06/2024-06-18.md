@@ -101,3 +101,27 @@
 
 + [★求投五蕉★网络上常见的热门短视频集锦 第一千七百九十八期](http://www.acfun.cn/v/ac44862725)
 
++ [我的回合！【今天有什么好笑的 #1597】](http://www.acfun.cn/v/ac44865527)
+
++ [【猪肝来也】『我在人民广场吃炸鸡』cover by阿肆](http://www.acfun.cn/v/ac44860455)
+
++ [韩服最强王者菁英对决 #2502ㅣ来了](http://www.acfun.cn/v/ac44859688)
+
++ [飞的真远！block26飞盘发射器上手【战术陈皮】](http://www.acfun.cn/v/ac44860473)
+
++ [测试看看呀](http://www.acfun.cn/v/ac44858129)
+
++ [高考结束后妈妈陪孩子来理发。【今日好笑视频 #550】](http://www.acfun.cn/v/ac44857408)
+
++ [女人不喝醉  男人没机会](http://www.acfun.cn/v/ac44858815)
+
++ [谁都可以过得比我好，但闺蜜绝对不能](http://www.acfun.cn/v/ac44861228)
+
++ [国外研发蹦着走的挖掘机，履带都不要了，把我看的一愣一愣的](http://www.acfun.cn/v/ac44858571)
+
++ [背痛](http://www.acfun.cn/v/ac44861130)
+
++ [重生之这一世，我将取代那个人成为新的装机之王](http://www.acfun.cn/v/ac44855100)
+
++ [1326期：大车盲区，卡人推行，现场略吓人](http://www.acfun.cn/v/ac44858368)
+
