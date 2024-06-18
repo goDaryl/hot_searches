@@ -55,3 +55,9 @@
 
 + [国家广播电视总局：确保本月实现酒店电视开机看直播](https://m.ithome.com/html/775962.htm)
 
++ [消息称华为考虑在鸿蒙应用商店收取 20% 佣金，低于苹果和谷歌](https://m.ithome.com/html/776081.htm)
+
++ [《黑神话：悟空》PC 实体豪华 / 收藏版今晚 8 点再次开抢，售价 820/1998 元](https://m.ithome.com/html/775826.htm)
+
++ [中国电影龙标邮票首发：一套 1 枚，面值 1.20 元](https://m.ithome.com/html/775900.htm)
+
