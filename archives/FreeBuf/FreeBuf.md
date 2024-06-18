@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 日本立法强制苹果开放第三方应用商店；新型 TIKTAG 攻击曝光](https://www.freebuf.com/news/403702.html)
 
++ [企业安全 | 某用户商用密码实战](https://www.freebuf.com/articles/403745.html)
+
