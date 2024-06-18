@@ -269,3 +269,13 @@
 
 + [为何国人越来越不爱看好莱坞电影：文化自信暴增等！](https://www.3dmgame.com/news/202406/3897614.html)
 
++ [《死侍与金刚狼》导演仍在开发自己的《星战》电影](https://www.3dmgame.com/news/202406/3897620.html)
+
++ [Xbox Game Pass 6月下旬新增游戏公开](https://www.3dmgame.com/news/202406/3897619.html)
+
++ [LG发布2024 OLED B4系列电视 120Hz刷新率](https://www.3dmgame.com/news/202406/3897617.html)
+
++ [黑曜石解释《宣誓》画风从暗黑转为鲜艳风格](https://www.3dmgame.com/news/202406/3897615.html)
+
++ [玩家使用MOD 让《星空》在XSS上成功实现120帧](https://www.3dmgame.com/news/202406/3897618.html)
+
