@@ -43,3 +43,7 @@
 
 + [OneNote 作为恶意软件分发新渠道持续增长](https://www.freebuf.com/articles/network/402076.html)
 
++ [超详细分享 | 你真的懂大语言模型么？](https://www.freebuf.com/articles/database/398617.html)
+
++ [FreeBuf早报 | 日本立法强制苹果开放第三方应用商店；新型 TIKTAG 攻击曝光](https://www.freebuf.com/news/403702.html)
+

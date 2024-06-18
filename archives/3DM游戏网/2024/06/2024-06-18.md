@@ -127,3 +127,7 @@
 
 + [类模拟人生游戏《Life by You》被Paradox取消](https://www.3dmgame.com/news/202406/3897540.html)
 
++ [《漫威金刚狼》PC版实机演示泄露 罗根疯狂打斗](https://www.3dmgame.com/news/202406/3897545.html)
+
++ [虚幻5恐怖游戏《Still Wakes the Deep》IGN 6分](https://www.3dmgame.com/news/202406/3897546.html)
+
