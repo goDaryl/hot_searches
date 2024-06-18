@@ -159,3 +159,15 @@
 
 + [宫崎英高不介意《艾尔登法环》无缝联机Mod 未来会完善合作玩法](https://www.3dmgame.com/news/202406/3897551.html)
 
++ [《夺宝奇兵：古老之圈》总监表示 曾花费无数小时重温系列电影](https://www.3dmgame.com/news/202406/3897565.html)
+
++ [Xbox营销主管跳槽罗布乐思 团队即将进行精简化](https://www.3dmgame.com/news/202406/3897564.html)
+
++ [陶德：很后悔没为老滚5等添加更多内容 未来会改变](https://www.3dmgame.com/news/202406/3897566.html)
+
++ [《双城之战》第二季不是终点 更多英雄联盟故事即将推出](https://www.3dmgame.com/news/202406/3897563.html)
+
++ [Xbox营销主管离职 微软将重组Xbox营销团队](https://www.3dmgame.com/news/202406/3897562.html)
+
++ [《阿凡达：潘多拉边境》Steam版发售 限时六折优惠](https://www.3dmgame.com/news/202406/3897561.html)
+
