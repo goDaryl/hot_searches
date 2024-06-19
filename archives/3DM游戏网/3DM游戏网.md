@@ -281,3 +281,7 @@
 
 + [人气漫改《忍者杀手》动作游戏7月24日登陆Switch](https://www.3dmgame.com/news/202406/3897713.html)
 
++ [Nintendo Switch™版《空战奇兵7 未知天际 豪华版》已于今日展开数字预购！](https://www.3dmgame.com/news/202406/3897716.html)
+
++ [男生收到4070TiS礼物后大哭 女生：显卡威力这么大？](https://www.3dmgame.com/news/202406/3897715.html)
+

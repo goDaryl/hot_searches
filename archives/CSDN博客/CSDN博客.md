@@ -173,3 +173,17 @@
 
 + [立创开源学习篇（一）](https://blog.csdn.net/zjb6668/article/details/139780241)
 
++ [访问0xdddddddd内存地址引发软件崩溃的实战问题排查](https://blog.csdn.net/chenlycly/article/details/139800126)
+
++ [【自动驾驶技术】自动驾驶汽车AI芯片汇总——TESLA篇（FSD介绍）](https://blog.csdn.net/m0_49963403/article/details/139703987)
+
++ [Mybatis中 #{} 和 ${} 的区别](https://blog.csdn.net/ningbaidexia/article/details/139748197)
+
++ [硬盘格式化NTFS好还是exFAT好 U盘存储文件用哪个格式好? 硬盘用exfat还是ntfs mac不能读取移动硬盘怎么解决](https://blog.csdn.net/2301_81704405/article/details/139790833)
+
++ [学习信号和槽（2）](https://blog.csdn.net/plj521/article/details/139024619)
+
++ [HarmonyOS 角落里的知识 —— 状态管理](https://blog.csdn.net/m0_64422261/article/details/139775333)
+
++ [密码学及其应用 —— 密码学领域的最新进展](https://blog.csdn.net/weixin_65190179/article/details/136804976)
+
