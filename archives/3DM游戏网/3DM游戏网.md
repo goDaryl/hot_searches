@@ -257,3 +257,13 @@
 
 + [山田尚子执导动画电影《你的颜色》确定引入 档期待定](https://www.3dmgame.com/news/202406/3897693.html)
 
++ [Redmi K70 618卖爆 卢伟冰：K70至尊版会更强](https://www.3dmgame.com/news/202406/3897703.html)
+
++ [文件显示被马斯克收购后 X平台2023上半年收入同比暴跌40%](https://www.3dmgame.com/news/202406/3897704.html)
+
++ [Runway推出视频生成模型Gen-3 Alpha 能生成细节逼真视频](https://www.3dmgame.com/news/202406/3897705.html)
+
++ [《逆转检察官1&2 御剑精选集》Steam预购开启 国区定价198元](https://www.3dmgame.com/news/202406/3897706.html)
+
++ [经典FPS《时空分裂者》在台通过PS4和PS5评级](https://www.3dmgame.com/news/202406/3897707.html)
+
