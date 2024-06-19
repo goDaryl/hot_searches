@@ -141,3 +141,19 @@
 
 + [育碧封杀日本历史学家 因其大骂《刺客信条：影》弥助](https://www.3dmgame.com/news/202406/3897638.html)
 
++ [《深夏时光！二十世纪的暑假》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3897645.html)
+
++ [重燃90年代热血FPS《法外枭雄：滚石城》正式登陆 Steam](https://www.3dmgame.com/news/202406/3897646.html)
+
++ [《马力欧＆路易吉RPG 兄弟齐航！》11月7日登录Switch 系列首次全3D化](https://www.3dmgame.com/news/202406/3897647.html)
+
++ [中式民俗多人生存建造冒险《炭熄》6月24日steam正式发布](https://www.3dmgame.com/news/202406/3897648.html)
+
++ [暴雪：《守望先锋》玩家数突破1亿 达到新的里程碑](https://www.3dmgame.com/news/202406/3897649.html)
+
++ [《Ultimate Hunting》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202406/3897650.html)
+
++ [《星刃》新更新补丁上线 添加两套新服装](https://www.3dmgame.com/news/202406/3897651.html)
+
++ [开发者谈《勇者斗恶龙3 重制版》实际已经开发3年多](https://www.3dmgame.com/news/202406/3897652.html)
+

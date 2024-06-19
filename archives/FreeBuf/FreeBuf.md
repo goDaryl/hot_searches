@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 黑客竟能用表情符号控制恶意软件；克利夫兰证实受到勒索软件攻击](https://www.freebuf.com/news/403833.html)
 
++ [SRC必会技巧——CORS跨域漏洞](https://www.freebuf.com/vuls/403124.html)
+
