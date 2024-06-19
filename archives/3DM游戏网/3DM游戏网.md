@@ -127,3 +127,17 @@
 
 + [牧场物语系列制作团队推出新作《魔农传记》](https://www.3dmgame.com/news/202406/3897627.html)
 
++ [《勇者斗恶龙1&2 HD-2D 重制版》Steam商店页面上线 2025年发售支持中文](https://www.3dmgame.com/news/202406/3897643.html)
+
++ [打得痛快 刷得过瘾《英勇之地》端游今日正式公测](https://www.3dmgame.com/news/202406/3897644.html)
+
++ [点击游戏《香蕉》成Steam平台最受欢迎游戏记录第9名 《博德之门3》跌出前10](https://www.3dmgame.com/news/202406/3897642.html)
+
++ [创意游戏《键盘猫祸》免费登陆PC 打字不能疏于抚猫](https://www.3dmgame.com/news/202406/3897641.html)
+
++ [《银河战士Prime 4》新截图 萨姆斯再次踏上冒险旅途](https://www.3dmgame.com/news/202406/3897640.html)
+
++ [免费韩游《王权与自由》国际服9月17日推出 Steam锁国区](https://www.3dmgame.com/news/202406/3897639.html)
+
++ [育碧封杀日本历史学家 因其大骂《刺客信条：影》弥助](https://www.3dmgame.com/news/202406/3897638.html)
+

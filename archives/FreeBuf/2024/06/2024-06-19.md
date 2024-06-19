@@ -43,3 +43,5 @@
 
 + [Keytap3 | 敲键盘的声音，也能出卖你](https://www.freebuf.com/articles/mobile/403631.html)
 
++ [FreeBuf早报 | 黑客竟能用表情符号控制恶意软件；克利夫兰证实受到勒索软件攻击](https://www.freebuf.com/news/403833.html)
+
