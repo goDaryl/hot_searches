@@ -207,3 +207,19 @@
 
 + [搞笑合作游戏《Purrrifiers》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3897676.html)
 
++ [前索尼全球工作室主席：游戏公司急着裁员毫无耐心](https://www.3dmgame.com/news/202406/3897685.html)
+
++ [《绝地潜兵2》差评披风真实存在并已完成制作 Arrowhead正在寻找发布时机](https://www.3dmgame.com/news/202406/3897684.html)
+
++ [宫崎英高透露个人最喜欢游戏：《黑暗之魂》和《血源诅咒》](https://www.3dmgame.com/news/202406/3897683.html)
+
++ [《街头霸王6》维加角色指南 6月26日参战](https://www.3dmgame.com/news/202406/3897682.html)
+
++ [年度游戏提名《迷失》将于圣诞假期登陆Switch！](https://www.3dmgame.com/news/202406/3897679.html)
+
++ [《夺命微笑2》曝首支预告 惊悚“危”笑高能归来 笑里藏刀最为致命](https://www.3dmgame.com/news/202406/3897681.html)
+
++ [《Go-Go Town！》Steam抢先体验 合作城镇建设](https://www.3dmgame.com/news/202406/3897680.html)
+
++ [《马力欧派对：空前盛会》将是迄今最大的马趴作品](https://www.3dmgame.com/news/202406/3897678.html)
+
