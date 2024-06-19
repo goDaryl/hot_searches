@@ -41,3 +41,5 @@
 
 + [新型 TIKTAG 攻击曝光，专门针对谷歌浏览器和 Linux 系统](https://www.freebuf.com/news/403690.html)
 
++ [Keytap3 | 敲键盘的声音，也能出卖你](https://www.freebuf.com/articles/mobile/403631.html)
+
