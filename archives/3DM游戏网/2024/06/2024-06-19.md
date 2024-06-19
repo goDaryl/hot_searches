@@ -201,3 +201,9 @@
 
 + [《Stickers for You》登陆Steam 城市探索收集贴纸](https://www.3dmgame.com/news/202406/3897665.html)
 
++ [漫改游戏《妖精的尾巴2》公布预告 将于2024年冬季推出](https://www.3dmgame.com/news/202406/3897677.html)
+
++ [《英灵神殿》确定推出桌上游戏 探索战斗要素不缺](https://www.3dmgame.com/news/202406/3897675.html)
+
++ [搞笑合作游戏《Purrrifiers》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3897676.html)
+
