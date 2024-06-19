@@ -57,3 +57,5 @@
 
 + [渗透测试 | Web安全中的XSS攻击详细教学（附通关教程）](https://www.freebuf.com/articles/web/403527.html)
 
++ [Pentest Muse：一款专为网络安全人员设计的AI助手](https://www.freebuf.com/sectool/403576.html)
+

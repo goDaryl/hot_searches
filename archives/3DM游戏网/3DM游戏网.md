@@ -223,3 +223,17 @@
 
 + [《马力欧派对：空前盛会》将是迄今最大的马趴作品](https://www.3dmgame.com/news/202406/3897678.html)
 
++ [「妖精尾巴」、最终之战即将揭幕～主机游戏『FAIRY TAIL 2』决定于今年冬季发售！](https://www.3dmgame.com/news/202406/3897690.html)
+
++ [《原神》希格雯角色PV——「日常问候」](https://www.3dmgame.com/news/202406/3897691.html)
+
++ [《艾尔登法环》衍生漫画临时停载 作者也要玩黄金书幽影](https://www.3dmgame.com/news/202406/3897692.html)
+
++ [治愈系探索冒险游戏《雾方福地》现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202406/3897686.html)
+
++ [《方舟生存飞升》全新社交玩法“方舟俱乐部”开启](https://www.3dmgame.com/news/202406/3897687.html)
+
++ [《蜘蛛侠2》《宇宙机器人》成PS Portal最热门游戏](https://www.3dmgame.com/news/202406/3897688.html)
+
++ [发售近三年 《怪物猎人物语2》累计销量突破200万](https://www.3dmgame.com/news/202406/3897689.html)
+
