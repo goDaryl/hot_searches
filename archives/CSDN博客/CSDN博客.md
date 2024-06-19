@@ -123,3 +123,11 @@
 
 + [聊聊系统架构之负载均衡优化实践](https://blog.csdn.net/shuaisunny/article/details/139785207)
 
++ [【C++修行之道】C/C++内存管理](https://blog.csdn.net/2301_79558858/article/details/139779057)
+
++ [SpringBoot三层架构](https://blog.csdn.net/2302_77758423/article/details/139723324)
+
++ [记录Vue3+TS 定义接口interface、ref、reactive的使用场景以及使用泛型的原因](https://blog.csdn.net/qq_37803607/article/details/139742853)
+
++ [微服务中的相关概念](https://blog.csdn.net/qq_38096989/article/details/139784980)
+
