@@ -47,3 +47,5 @@
 
 + [SRC必会技巧——CORS跨域漏洞](https://www.freebuf.com/vuls/403124.html)
 
++ [AMD多项内部数据被黑客挂到暗网出售](https://www.freebuf.com/news/403901.html)
+
