@@ -103,3 +103,13 @@
 
 + [《艾尔登法环：黄金树幽影》是M站评分最高的DLC 超越《巫师3：血与酒》](https://www.3dmgame.com/news/202406/3897725.html)
 
++ [索尼不会参加科隆游戏展Gamescom 2024](https://www.3dmgame.com/news/202406/3897730.html)
+
++ [第三人称枪斗动作游戏《SPINE》新截图](https://www.3dmgame.com/news/202406/3897729.html)
+
++ [传闻《腐烂国度3》可能会在2025年发行](https://www.3dmgame.com/news/202406/3897728.html)
+
++ [NS版《大金刚国度 归来HD》由死亡之屋开发商移植](https://www.3dmgame.com/news/202406/3897727.html)
+
++ [《勇者斗恶龙3HD》新亮点揭晓 开发商已经更换](https://www.3dmgame.com/news/202406/3897726.html)
+
