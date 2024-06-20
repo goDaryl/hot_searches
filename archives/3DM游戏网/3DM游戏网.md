@@ -127,3 +127,5 @@
 
 + [法国牧羊人步行模拟器《Transhumance》公开](https://www.3dmgame.com/news/202406/3897731.html)
 
++ [鸟类策略卡牌游戏《展翅翱翔》将登陆PS4和PS5](https://www.3dmgame.com/news/202406/3897738.html)
+

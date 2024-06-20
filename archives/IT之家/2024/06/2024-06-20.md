@@ -31,3 +31,7 @@
 
 + [一加 6100mAh“冰川电池”厚度曝光：5.51mm，薄过普通 5000mAh 电池](https://m.ithome.com/html/776276.htm)
 
++ [618 等等党大胜：B站QQ 迅雷网易优酷会员 168 元破冰新低（总价 2194 元）](https://m.ithome.com/html/776384.htm)
+
++ [11.79 万元起，新一代哈弗 H6 车型正式上市：1.5T 与 2.0T 动力可选](https://m.ithome.com/html/776379.htm)
+

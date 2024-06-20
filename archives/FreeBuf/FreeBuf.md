@@ -43,3 +43,5 @@
 
 + [精华版 | 2024 Q1全球威胁报告一览](https://www.freebuf.com/articles/neopoints/403760.html)
 
++ [FreeBuf早报 | 近五分之一SQL已终止支持；加密劫持活动正针对公开的Docker API](https://www.freebuf.com/news/403943.html)
+
