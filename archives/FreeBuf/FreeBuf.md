@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 近五分之一SQL已终止支持；加密劫持活动正针对公开的Docker API](https://www.freebuf.com/news/403943.html)
 
++ [企业安全 | 云网边端一体化安全建设规划](https://www.freebuf.com/articles/403836.html)
+
