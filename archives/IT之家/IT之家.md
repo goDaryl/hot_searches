@@ -29,3 +29,5 @@
 
 + [要想体验 Apple Intelligence 必须买 iPhone 15 Pro？苹果：完全是出于速度考虑而非营销套路](https://m.ithome.com/html/776372.htm)
 
++ [一加 6100mAh“冰川电池”厚度曝光：5.51mm，薄过普通 5000mAh 电池](https://m.ithome.com/html/776276.htm)
+

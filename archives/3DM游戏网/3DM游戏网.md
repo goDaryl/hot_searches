@@ -113,3 +113,17 @@
 
 + [《勇者斗恶龙3HD》新亮点揭晓 开发商已经更换](https://www.3dmgame.com/news/202406/3897726.html)
 
++ [《龙腾世纪：影障守护者》等级上限50级 技能树分三种](https://www.3dmgame.com/news/202406/3897737.html)
+
++ [宫崎英高还将进一步打磨提升魂类游戏战斗体验](https://www.3dmgame.com/news/202406/3897736.html)
+
++ [《星球大战绝地：幸存者》旧主机版本完成分级 发售临近](https://www.3dmgame.com/news/202406/3897735.html)
+
++ [《永劫无间》联动高达设计师全新角色造型惊艳亮相](https://www.3dmgame.com/news/202406/3897734.html)
+
++ [20周年纪念版要来 《超越善恶》原版游戏下架停售](https://www.3dmgame.com/news/202406/3897733.html)
+
++ [Bluepoint在开发原创新作而非只专注重制游戏](https://www.3dmgame.com/news/202406/3897732.html)
+
++ [法国牧羊人步行模拟器《Transhumance》公开](https://www.3dmgame.com/news/202406/3897731.html)
+
