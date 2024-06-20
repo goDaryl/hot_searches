@@ -53,3 +53,7 @@
 
 + [会员 618 倒数 10 小时：WPS、夸克年内探底，京东 PLUS 联合会员年卡 98 元](https://m.ithome.com/html/776371.htm)
 
++ [小米副董事长林斌被指“违背承诺”减持套现 1.6 亿元，官方回应：是做公益](https://m.ithome.com/html/776506.htm)
+
++ [比亚迪：宋 PLUS 即将迎来第 100 万辆下线，将一直在海洋网销售](https://m.ithome.com/html/776440.htm)
+
