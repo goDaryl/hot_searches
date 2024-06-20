@@ -201,3 +201,13 @@
 
 + [主播复健《艾尔登法环》 死一次喝一口酒 陪饮80口仍未打过拉达冈](https://www.3dmgame.com/news/202406/3897774.html)
 
++ [《百日战纪》原发行商放弃发行 开发商负债开发](https://www.3dmgame.com/news/202406/3897779.html)
+
++ [FPS游戏《EVE Vanguard》Steam页面 暂不支持中文](https://www.3dmgame.com/news/202406/3897778.html)
+
++ [《海盗共和国》登陆Steam 海盗王国建设经营](https://www.3dmgame.com/news/202406/3897777.html)
+
++ [回合制战术策略游戏《改名师》登录Steam平台 预计10月推出](https://www.3dmgame.com/news/202406/3897776.html)
+
++ [我国AI企业数量超4000家 去年产业规模达5784亿元](https://www.3dmgame.com/news/202406/3897775.html)
+
