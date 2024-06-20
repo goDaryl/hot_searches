@@ -193,3 +193,11 @@
 
 + [诺奖得主：AI并没有提高工作质量 只让富人更富有](https://www.3dmgame.com/news/202406/3897770.html)
 
++ [上海烛龙《白荆回廊》Steam页面公布 上线日期待定](https://www.3dmgame.com/news/202406/3897771.html)
+
++ [BD Games旗下多款Steam游戏被BAN 或因刷好评送游戏](https://www.3dmgame.com/news/202406/3897772.html)
+
++ [血源粉丝作《梦魇卡丁车》成Steam最受好评作品之一](https://www.3dmgame.com/news/202406/3897773.html)
+
++ [主播复健《艾尔登法环》 死一次喝一口酒 陪饮80口仍未打过拉达冈](https://www.3dmgame.com/news/202406/3897774.html)
+
