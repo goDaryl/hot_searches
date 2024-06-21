@@ -135,3 +135,7 @@
 
 + [【BES2500x系列 -- RTX5操作系统】CMSIS-RTOS RTX -- 实时操作系统的核心，为嵌入式系统注入活力 --（一）](https://blog.csdn.net/csh1807266489/article/details/139068411)
 
++ [【PL理论】(34) 类型系统：不完备性 | 为什么推导树推导失败？ | 实现类型系统 | 调整到类型系统 | 思考：强制程序员写类型还是自动推断类型？](https://blog.csdn.net/weixin_50502862/article/details/139729809)
+
++ [利用Python爬取天气数据并实现数据可视化，一个完整的Python项目案例讲解](https://blog.csdn.net/2301_78150559/article/details/139800658)
+
