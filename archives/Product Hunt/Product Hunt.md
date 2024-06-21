@@ -105,3 +105,7 @@
 
 + [Penjo 3.0 - Pencil Journal](https://www.producthunt.com/posts/penjo-3-0-pencil-journal)
 
++ [Eternity AC](https://www.producthunt.com/posts/eternity-ac)
+
++ [Sol](https://www.producthunt.com/posts/sol-3)
+
