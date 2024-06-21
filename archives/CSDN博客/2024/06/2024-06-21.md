@@ -129,3 +129,9 @@
 
 + [硬盘格式化NTFS好还是exFAT好 U盘存储文件用哪个格式好? 硬盘用exfat还是ntfs mac不能读取移动硬盘怎么解决](https://blog.csdn.net/2301_81704405/article/details/139790833)
 
++ [SpringCloud之Nacos](https://blog.csdn.net/jbjmh/article/details/139755843)
+
++ [Linux--视频推流及问题](https://blog.csdn.net/qq_47258284/article/details/139766573)
+
++ [【BES2500x系列 -- RTX5操作系统】CMSIS-RTOS RTX -- 实时操作系统的核心，为嵌入式系统注入活力 --（一）](https://blog.csdn.net/csh1807266489/article/details/139068411)
+

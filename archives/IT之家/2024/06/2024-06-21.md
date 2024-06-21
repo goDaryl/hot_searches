@@ -31,3 +31,7 @@
 
 + [华为宣布 6 月 26 日参加 2024 MWC 上海展会，官方“5GA”网络标识现已曝光](https://m.ithome.com/html/776599.htm)
 
++ [中国国航宣布斥资约 108 亿美元购置 100 架 C919 增程型国产大飞机](https://m.ithome.com/html/776569.htm)
+
++ [华为 BRE-AL00a 新机证件照公布：双曲面 OLED 屏，预计为畅享 70X](https://m.ithome.com/html/776590.htm)
+
