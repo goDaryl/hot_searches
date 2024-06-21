@@ -213,3 +213,9 @@
 
 + [战术生存游戏《Space Prison》7月19日发售 Demo已上线](https://www.3dmgame.com/news/202406/3897864.html)
 
++ [B社母公司Zenimax注册新游戏商标 玩家猜测与《狂怒》系列有关](https://www.3dmgame.com/news/202406/3897868.html)
+
++ [《Ai Vpet/守护与智友》：AI虚拟宠物的革新，立即申请Steam测试体验](https://www.3dmgame.com/news/202406/3897867.html)
+
++ [阿汤哥主演《明日边缘》导演：华纳经常提出要拍续集](https://www.3dmgame.com/news/202406/3897866.html)
+

@@ -199,3 +199,7 @@
 
 + [Linux的命令写一篇文章](https://blog.csdn.net/2301_79527080/article/details/139848676)
 
++ [2024广东省职业技能大赛云计算赛项实战——Ansible部署Zabbix](https://blog.csdn.net/kuuuugua/article/details/139782761)
+
++ [[贪心算法]忍者道具](https://blog.csdn.net/StudyingPanda/article/details/139836648)
+

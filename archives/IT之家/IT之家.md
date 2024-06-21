@@ -49,3 +49,5 @@
 
 + [余承东预告华为开发者大会 2024：将揭晓鸿蒙生态、HarmonyOS NEXT 鸿蒙星河版最新进展](https://m.ithome.com/html/776708.htm)
 
++ [余承东宣布华为 HarmonyOS NEXT 纯血鸿蒙开启开发者 Beta 测试，将于四季度正式投入商用](https://m.ithome.com/html/776768.htm)
+
