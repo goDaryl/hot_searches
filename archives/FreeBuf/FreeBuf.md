@@ -41,3 +41,5 @@
 
 + [网安人必备！开源网络安全工具TOP 10（附下载地址）](https://www.freebuf.com/sectool/403842.html)
 
++ [RedTail 僵尸网络积极利用新漏洞发起攻击](https://www.freebuf.com/articles/network/402454.html)
+

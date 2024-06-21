@@ -119,3 +119,5 @@
 
 + [经典PS游戏《恐惧反应》回归现代游戏平台](https://www.3dmgame.com/news/202406/3897811.html)
 
++ [经典PS动作游戏《我是东巴2》将登陆现代平台](https://www.3dmgame.com/news/202406/3897819.html)
+
