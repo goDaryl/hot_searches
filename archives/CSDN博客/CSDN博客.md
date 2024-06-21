@@ -235,3 +235,9 @@
 
 + [【物联网】物联网操作系统简介](https://blog.csdn.net/xiaoyingxixi1989/article/details/139839622)
 
++ [深入探索Java开发世界：MySQL~类型分析大揭秘](https://blog.csdn.net/qq_51601665/article/details/139863745)
+
++ [【Linux】进程信号2——阻塞信号，捕捉信号](https://blog.csdn.net/2301_80224556/article/details/139826279)
+
++ [低代码开发：加速工业数智化转型发展](https://blog.csdn.net/sdgfafg_25/article/details/139860573)
+
