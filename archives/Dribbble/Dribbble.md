@@ -67,3 +67,11 @@
 
 + [Box print sneak peek](https://dribbble.com/shots/)
 
++ [Just a simple cat  (PSE '24)](https://dribbble.com/shots/)
+
++ [Offsite badge](https://dribbble.com/shots/)
+
++ [Food is a political and revolutionary act.](https://dribbble.com/shots/)
+
++ [Jackson Offshore Safety Poster](https://dribbble.com/shots/)
+
