@@ -255,3 +255,5 @@
 
 + [摩尔线程显卡终于支持Win11系统！性能暴涨125%](https://www.3dmgame.com/news/202406/3897886.html)
 
++ [微软：Copilot+ PC在游戏方面会越来越好](https://www.3dmgame.com/news/202406/3897887.html)
+
