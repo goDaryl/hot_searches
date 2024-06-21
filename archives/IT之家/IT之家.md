@@ -57,3 +57,5 @@
 
 + [微信鸿蒙版即将发布？消息称腾讯多款产品正适配华为 HarmonyOS 系统](https://m.ithome.com/html/776790.htm)
 
++ [华为发布鸿蒙 HarmonyOS NEXT 全新星盾安全架构，禁止开放 9 类不合理权限](https://m.ithome.com/html/776788.htm)
+
