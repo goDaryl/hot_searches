@@ -139,3 +139,15 @@
 
 + [利用Python爬取天气数据并实现数据可视化，一个完整的Python项目案例讲解](https://blog.csdn.net/2301_78150559/article/details/139800658)
 
++ [SpringBoot复习](https://blog.csdn.net/weixin_45534587/article/details/139561352)
+
++ [HarmonyOS角落里的知识：一杯冰美式的时间 -- 之打字机](https://blog.csdn.net/m0_64422261/article/details/139775116)
+
++ [openEuler搭建hadoop Standalone 模式](https://blog.csdn.net/qq_24330181/article/details/139833686)
+
++ [前端科举八股文-REACT篇](https://blog.csdn.net/qq_38280242/article/details/139482474)
+
++ [VMware虚拟机三种网络模式设置 - NAT（网络地址转换模式）](https://blog.csdn.net/A79800/article/details/139777513)
+
++ [Springboot基于ElasticSearch全文搜索引擎策略实现](https://blog.csdn.net/LQzhang_11/article/details/139827479)
+
