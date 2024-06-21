@@ -187,3 +187,5 @@
 
 + [文字叙事游戏《栖云代号：遗忘之境》Steam页面 支持简体中文](https://www.3dmgame.com/news/202406/3897845.html)
 
++ [AMD重启多显卡支持！最多四块 192GB显存](https://www.3dmgame.com/news/202406/3897853.html)
+
