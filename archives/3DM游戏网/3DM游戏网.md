@@ -251,3 +251,7 @@
 
 + [角色设计师：我提议的漂亮女角常被修改 被改成丑女](https://www.3dmgame.com/news/202406/3897871.html)
 
++ [华为：鸿蒙内核已超越Linux内核 不再被欧美垄断](https://www.3dmgame.com/news/202406/3897885.html)
+
++ [摩尔线程显卡终于支持Win11系统！性能暴涨125%](https://www.3dmgame.com/news/202406/3897886.html)
+
