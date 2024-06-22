@@ -181,3 +181,7 @@
 
 + [作物检测：YOLOv8+SwanLab](https://blog.csdn.net/weixin_44813538/article/details/139860520)
 
++ [人工智能--搭建人工神经网络](https://blog.csdn.net/2302_76516899/article/details/139868184)
+
++ [计算机网络（概述）](https://blog.csdn.net/weixin_46906696/article/details/139884028)
+
