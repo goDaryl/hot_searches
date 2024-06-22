@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | 有 92% 的企业曾遭遇社工攻击；拜登下令禁用卡巴斯基杀毒软件](https://www.freebuf.com/news/404097.html)
 
++ [代码审计中XSS挖掘一些体会](https://www.freebuf.com/vuls/403863.html)
+
