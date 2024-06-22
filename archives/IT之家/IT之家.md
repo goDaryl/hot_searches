@@ -35,3 +35,9 @@
 
 + [鸿蒙星河，IT之家，亮](https://m.ithome.com/html/776871.htm)
 
++ [微信鸿蒙版即将发布？腾讯多款产品正适配华为 HarmonyOS 系统](https://m.ithome.com/html/776790.htm)
+
++ [延迟推送半个月后，小米 SU7 系列迎来澎湃 OS 1.2.2 版本升级](https://m.ithome.com/html/776869.htm)
+
++ [OPPO、vivo、小米、联想应用商店 64 位适配率已达 98.9% 以上，32 位逐步清理](https://m.ithome.com/html/776839.htm)
+
