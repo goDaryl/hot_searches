@@ -49,3 +49,7 @@
 
 + [将首发天玑 9400 芯片，vivo X200 Pro 手机曝光：5000 万潜望相机 + 6000mAh 电池](https://m.ithome.com/html/776884.htm)
 
++ [“鸿蒙 PC 版”部分应用 UI 曝光？华为发布 HarmonyOS 二合一设备应用设计指南](https://m.ithome.com/html/776954.htm)
+
++ [【一图知】华为 HDC 2024 开发者大会：纯血鸿蒙开发者 Beta 测试、仓颉编程语言与盘古大模型 5.0 登场](https://m.ithome.com/html/776852.htm)
+
