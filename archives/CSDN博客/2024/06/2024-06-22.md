@@ -129,3 +129,9 @@
 
 + [【BES2500x系列 -- RTX5操作系统】CMSIS-RTOS RTX -- 实时操作系统的核心，为嵌入式系统注入活力 --（一）](https://blog.csdn.net/csh1807266489/article/details/139068411)
 
++ [【机器学习】Lasso回归：稀疏建模与特征选择的艺术](https://blog.csdn.net/qq_44214428/article/details/139840817)
+
++ [如何完美解决 org.springframework.http.converter.HttpMessageNotReadableException: JSON parse 错误](https://blog.csdn.net/qq_44866828/article/details/139839569)
+
++ [量子计算：1 从薛定谔的猫开始](https://blog.csdn.net/Janexjy/article/details/139871391)
+

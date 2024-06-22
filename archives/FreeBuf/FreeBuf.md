@@ -43,3 +43,5 @@
 
 + [谣言粉碎机 | 人体内安装窃听器的五种可能](https://www.freebuf.com/articles/neopoints/403551.html)
 
++ [FreeBuf 周报 | 有 92% 的企业曾遭遇社工攻击；拜登下令禁用卡巴斯基杀毒软件](https://www.freebuf.com/news/404097.html)
+

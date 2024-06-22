@@ -113,3 +113,5 @@
 
 + [尽管担任社长 宫崎英高95%时间还是在做游戏](https://www.3dmgame.com/news/202406/3897896.html)
 
++ [微软回应《黑神话：悟空》Xbox Series X/S版延期](https://www.3dmgame.com/news/202406/3897900.html)
+
