@@ -33,3 +33,5 @@
 
 + [《黑神话：悟空》延期上线 Xbox Series S|X，微软回应：正与游戏科学合作将其带到自家平台上](https://m.ithome.com/html/776870.htm)
 
++ [鸿蒙星河，IT之家，亮](https://m.ithome.com/html/776871.htm)
+
