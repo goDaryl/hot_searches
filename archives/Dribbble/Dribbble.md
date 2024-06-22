@@ -81,3 +81,5 @@
 
 + [Be brave](https://dribbble.com/shots/)
 
++ [Strength Over Temptation](https://dribbble.com/shots/)
+
