@@ -83,3 +83,7 @@
 
 + [Strength Over Temptation](https://dribbble.com/shots/)
 
++ [Laughlin Leather Co. Master Logo](https://dribbble.com/shots/)
+
++ [I know what you did last shandy](https://dribbble.com/shots/)
+
