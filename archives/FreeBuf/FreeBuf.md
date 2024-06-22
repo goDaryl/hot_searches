@@ -41,3 +41,5 @@
 
 + [马上报名 | 红蓝军攻防与数据安全主题研讨会·北京站启动](https://www.freebuf.com/fevents/403953.html)
 
++ [谣言粉碎机 | 人体内安装窃听器的五种可能](https://www.freebuf.com/articles/neopoints/403551.html)
+
