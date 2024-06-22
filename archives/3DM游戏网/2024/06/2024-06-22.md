@@ -171,3 +171,5 @@
 
 + [《超级肌肉猫》将登陆主机平台 发售日待定](https://www.3dmgame.com/news/202406/3897923.html)
 
++ [生成式AI“上车” 帕萨特等海外版车型支持ChatGPT](https://www.3dmgame.com/news/202406/3897929.html)
+

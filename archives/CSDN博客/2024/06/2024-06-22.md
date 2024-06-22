@@ -163,3 +163,5 @@
 
 + [VPN的概述](https://blog.csdn.net/m0_61858762/article/details/139856509)
 
++ [Kafka第一篇——内部组件概念架构启动服务器zookeeper选举以及底层原理](https://blog.csdn.net/m0_74106420/article/details/137249443)
+

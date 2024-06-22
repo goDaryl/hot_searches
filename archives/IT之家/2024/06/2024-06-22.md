@@ -41,3 +41,11 @@
 
 + [OPPO、vivo、小米、联想应用商店 64 位适配率已达 98.9% 以上，32 位逐步清理](https://m.ithome.com/html/776839.htm)
 
++ [2025 款吉利帝豪官图公布：换装银色车标，现款 6.99 万元起](https://m.ithome.com/html/776822.htm)
+
++ [钉钉总裁叶军吐槽百度：搜出来前 10 条结果都是差不多的广告](https://m.ithome.com/html/776929.htm)
+
++ [中国南方航空将购买 100 架 C919 STD 飞机，总价约为 99 亿美元](https://m.ithome.com/html/776844.htm)
+
++ [将首发天玑 9400 芯片，vivo X200 Pro 手机曝光：5000 万潜望相机 + 6000mAh 电池](https://m.ithome.com/html/776884.htm)
+
