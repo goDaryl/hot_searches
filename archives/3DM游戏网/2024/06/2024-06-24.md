@@ -103,3 +103,7 @@
 
 + [《喋血复仇》Steam史低促销 仅售29.8元](https://www.3dmgame.com/news/202406/3897990.html)
 
++ [《塞尔达传说：智慧的再现》容量比《梦见岛》还小](https://www.3dmgame.com/news/202406/3897991.html)
+
++ [支持跨平台联机《狂野飙车：传奇集结》全平台上市](https://www.3dmgame.com/news/202406/3897992.html)
+
