@@ -119,3 +119,7 @@
 
 + [《微软飞行模拟》游戏玩家超过1500万](https://www.3dmgame.com/news/202406/3897953.html)
 
++ [2024年多地高考分数已可查：微信、支付宝查分攻略来了](https://www.3dmgame.com/news/202406/3897958.html)
+
++ [《南田物语》延期发售新日期未定 准备不够充分](https://www.3dmgame.com/news/202406/3897959.html)
+

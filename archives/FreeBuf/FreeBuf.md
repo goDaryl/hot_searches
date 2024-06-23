@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/404188.html)
 
++ [安卓远控威胁探索：SpyNote初步接触到伪装加密钱包样本分析](https://www.freebuf.com/articles/blockchain-articles/403771.html)
+
