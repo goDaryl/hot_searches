@@ -43,3 +43,5 @@
 
 + [Mitmproxy 数据包解密实战篇](https://www.freebuf.com/articles/web/403793.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/404188.html)
+

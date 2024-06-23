@@ -143,3 +143,7 @@
 
 + [机械原理课程设计，机械原理大作业，matlab解析法，机构运动学动力学分析](https://blog.csdn.net/m0_74307014/article/details/139869768)
 
++ [鸿蒙 HarmonyOS NEXT星河版APP应用开发—上篇](https://blog.csdn.net/weixin_45793745/article/details/139888913)
+
++ [LabVIEW机器视觉在质量控制中的应用](https://blog.csdn.net/bjcyck/article/details/139874026)
+

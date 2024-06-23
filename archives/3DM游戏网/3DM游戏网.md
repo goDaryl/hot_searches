@@ -109,3 +109,13 @@
 
 + [前《光环》开发人员开发免费UE5《光环》游戏](https://www.3dmgame.com/news/202406/3897949.html)
 
++ [《艾尔登法环：黄金树幽影》Steam中文区多半差评 数值体验差、优化太烂](https://www.3dmgame.com/news/202406/3897957.html)
+
++ [《Diorama Builder》登陆Steam 好评场景模型模拟器](https://www.3dmgame.com/news/202406/3897955.html)
+
++ [《银河破裂者》剧情DLC“无尽沼泽”和扩展3更新现已上线](https://www.3dmgame.com/news/202406/3897956.html)
+
++ [SE转变态度 对生成式AI的使用将更加谨慎](https://www.3dmgame.com/news/202406/3897954.html)
+
++ [《微软飞行模拟》游戏玩家超过1500万](https://www.3dmgame.com/news/202406/3897953.html)
+
