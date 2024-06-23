@@ -139,3 +139,7 @@
 
 + [【2024.6.22】今日科技时事：科技前沿大事件](https://blog.csdn.net/double222222/article/details/139876088)
 
++ [MySQL 高级(进阶) SQL 语句](https://blog.csdn.net/Vince15dvd/article/details/139837082)
+
++ [机械原理课程设计，机械原理大作业，matlab解析法，机构运动学动力学分析](https://blog.csdn.net/m0_74307014/article/details/139869768)
+
