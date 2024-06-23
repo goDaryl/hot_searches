@@ -123,3 +123,11 @@
 
 + [《南田物语》延期发售新日期未定 准备不够充分](https://www.3dmgame.com/news/202406/3897959.html)
 
++ [《艾尔登法环：黄金树幽影》PS5没有奖杯引发讨论](https://www.3dmgame.com/news/202406/3897963.html)
+
++ [《星刃》1.004升级档导致画面模糊问题 厂商正在修复](https://www.3dmgame.com/news/202406/3897961.html)
+
++ [《七日杀》发布日程公布 7月25日PC/主机版正式发售](https://www.3dmgame.com/news/202406/3897962.html)
+
++ [《蓝色协议》开发人员正在研究游戏陷入困境原因](https://www.3dmgame.com/news/202406/3897960.html)
+
