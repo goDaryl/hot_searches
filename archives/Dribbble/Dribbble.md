@@ -49,3 +49,25 @@
 
 + [???? NY Rats](https://dribbble.com/shots/)
 
++ [Minsk T-shirt Design](https://dribbble.com/shots/)
+
++ [The Gryphon](https://dribbble.com/shots/)
+
++ [Be brave](https://dribbble.com/shots/)
+
++ [Dennis Rodman](https://dribbble.com/shots/)
+
++ [Murals for Pack Animals, San Francisco](https://dribbble.com/shots/)
+
++ [Gentry Brand - Branding](https://dribbble.com/shots/)
+
++ [Box print sneak peek](https://dribbble.com/shots/)
+
++ [Creative Works West](https://dribbble.com/shots/)
+
++ [My Vinyls iOS App Icon](https://dribbble.com/shots/)
+
++ [Doug](https://dribbble.com/shots/)
+
++ [❤️ The Journey](https://dribbble.com/shots/)
+
