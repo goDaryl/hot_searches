@@ -63,3 +63,5 @@
 
 + [可能G17之后最好的TPB玩具之一](http://www.acfun.cn/v/ac44904618)
 
++ [队友拒绝投降！3/0，长痛还是翻盘！？快速看完一局韩服王者斗殴局#572 Millimas](http://www.acfun.cn/v/ac44903906)
+
