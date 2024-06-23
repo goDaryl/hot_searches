@@ -131,3 +131,11 @@
 
 + [《蓝色协议》开发人员正在研究游戏陷入困境原因](https://www.3dmgame.com/news/202406/3897960.html)
 
++ [《Project L33T》7月Steam抢测 战术撤离新游](https://www.3dmgame.com/news/202406/3897967.html)
+
++ [二维码日均消耗100亿个会被用完？专家回应可用到宇宙毁灭](https://www.3dmgame.com/news/202406/3897965.html)
+
++ [PlayStation Portal 3.0.0更新导致玩家遭遇连接问题](https://www.3dmgame.com/news/202406/3897966.html)
+
++ [动作肉鸽《Champion Shift》登陆Steam 限时六折优惠](https://www.3dmgame.com/news/202406/3897964.html)
+
