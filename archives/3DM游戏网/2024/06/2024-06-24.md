@@ -131,3 +131,13 @@
 
 + [《最终幻想16》登陆PC后 可能还会登陆Xbox Series](https://www.3dmgame.com/news/202406/3897996.html)
 
++ [《火箭联盟》将加入FIFA电竞世界杯 邀请16个国家参赛](https://www.3dmgame.com/news/202406/3898008.html)
+
++ [秒杀网飞版！御姐Natalie完美COS叶奈法](https://www.3dmgame.com/news/202406/3898007.html)
+
++ [《节奏地牢》衍生作《节奏裂隙》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3898006.html)
+
++ [偶像大师VR版9月举行线下活动 三位萌妹现场出演](https://www.3dmgame.com/news/202406/3898005.html)
+
++ [《艾尔登法环：黄金树幽影》舞狮Boss是两个人合作扮演](https://www.3dmgame.com/news/202406/3898009.html)
+
