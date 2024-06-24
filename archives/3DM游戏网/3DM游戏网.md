@@ -223,3 +223,7 @@
 
 + [传索尼为PS5打造向下兼容PS3功能 仅限部分游戏](https://www.3dmgame.com/news/202406/3898049.html)
 
++ [《黄金树幽影》太难引起公愤  国外玩家打造简单模式MOD](https://www.3dmgame.com/news/202406/3898051.html)
+
++ [逃脱解谜冒险游戏《黄昏旅店》TV动画化决定](https://www.3dmgame.com/news/202406/3898052.html)
+
