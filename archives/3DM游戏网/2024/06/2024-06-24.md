@@ -219,3 +219,7 @@
 
 + [小伙安装安全卫士喜提360全家桶 不能卸载删除干净](https://www.3dmgame.com/news/202406/3898048.html)
 
++ [三星计划Q3继续提高存储产品定价 预计涨幅10%至15%](https://www.3dmgame.com/news/202406/3898050.html)
+
++ [传索尼为PS5打造向下兼容PS3功能 仅限部分游戏](https://www.3dmgame.com/news/202406/3898049.html)
+
