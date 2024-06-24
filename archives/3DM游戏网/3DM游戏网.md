@@ -175,3 +175,5 @@
 
 + [《使命召唤》联动高达主艺图公布 多款COD游戏参战](https://www.3dmgame.com/news/202406/3898023.html)
 
++ [沙特世界最大电竞赛事将《绝地求生》纳入正式比赛项目](https://www.3dmgame.com/news/202406/3898027.html)
+
