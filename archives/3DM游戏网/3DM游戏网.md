@@ -167,3 +167,11 @@
 
 + [索尼发放社区挑战奖励：宇宙机器人头像 限时兑换](https://www.3dmgame.com/news/202406/3898018.html)
 
++ [技嘉发布巨型RTX4070Ti SUPER：供电接口“消失”](https://www.3dmgame.com/news/202406/3898026.html)
+
++ [暴雪宣布重返2024科隆游戏展 与保时捷合作展出1:1大小D.Va雕像](https://www.3dmgame.com/news/202406/3898025.html)
+
++ [科乐美《伊甸星原》漫改主机游戏仍在开发中 开放世界游戏](https://www.3dmgame.com/news/202406/3898024.html)
+
++ [《使命召唤》联动高达主艺图公布 多款COD游戏参战](https://www.3dmgame.com/news/202406/3898023.html)
+
