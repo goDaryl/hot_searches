@@ -113,3 +113,21 @@
 
 + [三角恋动画《恋爱无法用双子除尽》公开第二部预告](https://www.3dmgame.com/news/202406/3897993.html)
 
++ [类肉鸽节奏游戏《危险节奏3》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202406/3898003.html)
+
++ [好评免费《Frostrain》更新1.4发布 肉鸽卡牌构建](https://www.3dmgame.com/news/202406/3898000.html)
+
++ [社区经理暗示《幻兽帕鲁》或即将登陆PlayStation](https://www.3dmgame.com/news/202406/3898004.html)
+
++ [Steam国产“开放阴间”生存游戏《炭熄》，今日正式发售！](https://www.3dmgame.com/news/202406/3898002.html)
+
++ [《杀死公主》开发者再次建议玩家玩盗版游戏而非视频通关](https://www.3dmgame.com/news/202406/3898001.html)
+
++ [《龙腾世纪4》为何更名 因为游戏主角并非索拉斯](https://www.3dmgame.com/news/202406/3897999.html)
+
++ [《DOTA2》TI13全部参赛队伍出炉 中国战队三支](https://www.3dmgame.com/news/202406/3897998.html)
+
++ [彭博社：苹果仍在研发Vision Pro 2 还有AR眼睛](https://www.3dmgame.com/news/202406/3897997.html)
+
++ [《最终幻想16》登陆PC后 可能还会登陆Xbox Series](https://www.3dmgame.com/news/202406/3897996.html)
+

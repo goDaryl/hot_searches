@@ -127,3 +127,9 @@
 
 + [《计算机英语》 Unit 3 Software Engineering 软件工程](https://blog.csdn.net/qq_64684039/article/details/139880231)
 
++ [ES全文检索支持繁简和IK分词检索](https://blog.csdn.net/qq_29864051/article/details/139861589)
+
++ [深入研究源码：Android10](https://blog.csdn.net/2401_85610714/article/details/139897532)
+
++ [数学建模系列（3/4）：典型建模方法](https://blog.csdn.net/weidl001/article/details/139851374)
+
