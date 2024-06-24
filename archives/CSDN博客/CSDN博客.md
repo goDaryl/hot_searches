@@ -137,3 +137,21 @@
 
 + [【CSS】深入解释CSS 2D变换](https://blog.csdn.net/xuelian3015/article/details/139885737)
 
++ [【AI大模型】驱动的未来：穿戴设备如何革新血液、皮肤检测与营养健康管理](https://blog.csdn.net/rjdeng/article/details/139848831)
+
++ [【DevOps】Kubernetes中Pod的CPU和内存资源管理详解](https://blog.csdn.net/benshu_001/article/details/139889141)
+
++ [springboot+vue+mybatis旅游管理+PPT+论文+讲解+售后](https://blog.csdn.net/boke1314/article/details/139907839)
+
++ [三十八篇：架构大师之路：探索软件设计的无限可能](https://blog.csdn.net/fanjianglin/article/details/139907774)
+
++ [【云原生】kubernetes最新版本1.30.2，集群搭建部署全方位攻略](https://blog.csdn.net/littlefun591/article/details/139848310)
+
++ [C++20中的Feature Test Mocros](https://blog.csdn.net/fengbingchun/article/details/139896405)
+
++ [西瓜视频基于 Hertz 的微服务落地实践](https://blog.csdn.net/weixin_44186218/article/details/139906136)
+
++ [C++ 20新特性之属性的标准化](https://blog.csdn.net/hope_wisdom/article/details/139907268)
+
++ [Seaborn：数据可视化的强大工具](https://blog.csdn.net/Aaron_945/article/details/139908225)
+
