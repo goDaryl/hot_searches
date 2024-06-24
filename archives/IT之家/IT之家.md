@@ -29,3 +29,7 @@
 
 + [广汽埃安昊铂回应“男篮周琦怒怼假送车”：双方保持密切沟通，协商奖励交付活动时间](https://m.ithome.com/html/777134.htm)
 
++ [苹果承认 8GB 不够用？Xcode 16 新功能最少需 16GB 内存](https://m.ithome.com/html/777182.htm)
+
++ [少赚 1500 亿美元，软银创始人孙正义称“很后悔卖掉英伟达股票”](https://m.ithome.com/html/777162.htm)
+
