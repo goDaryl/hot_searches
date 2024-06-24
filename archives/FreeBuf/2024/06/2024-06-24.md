@@ -41,3 +41,5 @@
 
 + [企业安全 | 云网边端一体化安全建设规划](https://www.freebuf.com/articles/403836.html)
 
++ [使用JSRPC实现前端加密破解，自动化加密](https://www.freebuf.com/articles/web/403647.html)
+
