@@ -49,3 +49,15 @@
 
 + [Flor de Maguey](https://dribbble.com/shots/)
 
++ [doom floppy](https://dribbble.com/shots/)
+
++ [Lofi pattern for music label](https://dribbble.com/shots/)
+
++ [Murals for Pack Animals, San Francisco](https://dribbble.com/shots/)
+
++ [Simms Fishing Apparel Design](https://dribbble.com/shots/)
+
++ [HHC Living Branded Graphic #3](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
