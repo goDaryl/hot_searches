@@ -101,3 +101,13 @@
 
 + [清库存了！Steam Deck掌机LCD型号开启8.5折特卖](https://www.3dmgame.com/news/202406/3898102.html)
 
++ [《传奇米老鼠：重制版》9月24日发售 登陆全平台](https://www.3dmgame.com/news/202406/3898154.html)
+
++ [模拟建造游戏《学园构想家》7月16日登陆主机 PC获特别好评](https://www.3dmgame.com/news/202406/3898152.html)
+
++ [《路易吉洋楼2HD》由开发《黄昏公主HD》的工作室制作](https://www.3dmgame.com/news/202406/3898153.html)
+
++ [男生复读分数从383涨到603：不敢信](https://www.3dmgame.com/news/202406/3898151.html)
+
++ [黑暗奇幻风格《德罗斯》新增NS版 7月12日上线](https://www.3dmgame.com/news/202406/3898150.html)
+

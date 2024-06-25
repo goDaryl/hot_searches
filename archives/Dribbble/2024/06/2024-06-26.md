@@ -49,3 +49,27 @@
 
 + [Just a simple cat  (PSE '24)](https://dribbble.com/shots/)
 
++ [Coffee & Tea Logo Collection](https://dribbble.com/shots/)
+
++ [Sours & Cobblers](https://dribbble.com/shots/)
+
++ [Lotus Flower](https://dribbble.com/shots/)
+
++ [The Archer](https://dribbble.com/shots/)
+
++ [soccer](https://dribbble.com/shots/)
+
++ [Alien Romulus](https://dribbble.com/shots/)
+
++ [Gentry Brand: Full Preview](https://dribbble.com/shots/)
+
++ [Configuration](https://dribbble.com/shots/)
+
++ [Creative Works West](https://dribbble.com/shots/)
+
++ [Kite](https://dribbble.com/shots/)
+
++ [Minsk T-shirt Design](https://dribbble.com/shots/)
+
++ [Buckeye Illustration](https://dribbble.com/shots/)
+
