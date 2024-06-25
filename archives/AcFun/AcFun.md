@@ -141,3 +141,13 @@
 
 + [A站反手剑唯一指定代言人](http://www.acfun.cn/v/ac44914058)
 
++ [【OC原创曲】Pale Blue｜假若能让大家幸福的话【手书PV】](http://www.acfun.cn/v/ac44916834)
+
++ [开 启 自 瞄 ！！！欢乐八点档-961](http://www.acfun.cn/v/ac44914904)
+
++ [【付小远】深圳学生有属于自己的《那些年》！付小远原创歌曲Official MV《盛夏七月》](http://www.acfun.cn/v/ac44916564)
+
++ [【扒】孩子的朋友超有钱，带我去舞台上看演唱会《辛普森一家》之金钱试炼](http://www.acfun.cn/v/ac44915688)
+
++ [只是长胖](http://www.acfun.cn/v/ac44915199)
+
