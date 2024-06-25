@@ -123,3 +123,5 @@
 
 + [SSL/TLS、SSH、IPSec等安全协议的工作原理和实现方式](https://blog.csdn.net/YT21198/article/details/139903630)
 
++ [如何发现Redis热Key，有哪些解决方案？](https://blog.csdn.net/lxy1290439047/article/details/139597888)
+

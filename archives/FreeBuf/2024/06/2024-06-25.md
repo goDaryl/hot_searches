@@ -43,3 +43,5 @@
 
 + [记一次OA系统被植入冰蝎内存马后的溯源](https://www.freebuf.com/defense/403407.html)
 
++ [FreeBuf早报 | 马斯克深度伪造视频骗局在网上泛滥；美国制裁12名卡巴斯基实验室高管](https://www.freebuf.com/news/404271.html)
+

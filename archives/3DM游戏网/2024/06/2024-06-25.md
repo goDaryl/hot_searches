@@ -121,3 +121,23 @@
 
 + [《无主之地》电影剧照精彩还原潘多拉星球景观](https://www.3dmgame.com/news/202406/3898067.html)
 
++ [《灾厄堡垒》Steam愿望单突破20万 即时战略塔防](https://www.3dmgame.com/news/202406/3898073.html)
+
++ [《往日不再》编剧曾为续作积极准备 包括剧本地图概念图](https://www.3dmgame.com/news/202406/3898074.html)
+
++ [《战争雷霆》开发商Gaijin就使用挑战者号遇难图像问题而致歉](https://www.3dmgame.com/news/202406/3898075.html)
+
++ [《街头涂鸦》重制版游戏实机截图泄露：画风更写实](https://www.3dmgame.com/news/202406/3898076.html)
+
++ [《蓝色协议》开发商万代南梦宫在线已破产 全球发行或泡汤](https://www.3dmgame.com/news/202406/3898077.html)
+
++ [像素轻肉鸽生存游戏《Karate Survivor》Steam页面 支持简体中文](https://www.3dmgame.com/news/202406/3898078.html)
+
++ [黑曜石：若不是Xbox收购 《宣誓》就不会是单人RPG](https://www.3dmgame.com/news/202406/3898069.html)
+
++ [传《黎明杀机》将与《古墓丽影》联动 劳拉7月上线](https://www.3dmgame.com/news/202406/3898070.html)
+
++ [《魔兽世界》新服务器名称确定：吉安娜与死亡猎手](https://www.3dmgame.com/news/202406/3898071.html)
+
++ [显卡杀手？虚幻5打造的《生化奇兵》概念视频来了](https://www.3dmgame.com/news/202406/3898072.html)
+
