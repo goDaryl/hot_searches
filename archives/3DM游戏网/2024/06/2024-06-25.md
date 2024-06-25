@@ -205,3 +205,9 @@
 
 + [《七龙珠：破界斗士》第六赛季6月26日上线 添加新侵略者](https://www.3dmgame.com/news/202406/3898108.html)
 
++ [经典《终末的女武神》新篇《众神默示录》正式开启连载](https://www.3dmgame.com/news/202406/3898113.html)
+
++ [《超越善恶 20周年版》Steam发售 国区售价98元](https://www.3dmgame.com/news/202406/3898112.html)
+
++ [《头脑特工队2》超越《沙丘2》成为今年票房最高电影](https://www.3dmgame.com/news/202406/3898111.html)
+

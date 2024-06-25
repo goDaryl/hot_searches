@@ -55,3 +55,5 @@
 
 + [澳大利亚 Ticketek 发生云泄露，约 3000 万人受影响](https://www.freebuf.com/news/404400.html)
 
++ [不一样的SRC挖洞思路: HTTP请求拆分漏洞实战](https://www.freebuf.com/articles/web/404034.html)
+
