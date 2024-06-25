@@ -65,3 +65,5 @@
 
 + [DarkGPT：基于GPT-4-200k设计的人工智能OSINT助手](https://www.freebuf.com/sectool/404301.html)
 
++ [绕过命令过滤器：探索UnixLinux中的Bypass技术](https://www.freebuf.com/articles/web/404231.html)
+

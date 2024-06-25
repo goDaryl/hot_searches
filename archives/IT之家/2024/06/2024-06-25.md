@@ -53,3 +53,5 @@
 
 + [Qt 与华为合作，跨平台快速开发开源鸿蒙 OpenHarmony 应用](https://m.ithome.com/html/777488.htm)
 
++ [富士康停产风波让苹果一头扎进 iPhone 生产自动化：组装工锐减 50%、全面替代仍存挑战](https://m.ithome.com/html/777409.htm)
+
