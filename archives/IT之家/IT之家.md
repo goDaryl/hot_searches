@@ -57,3 +57,7 @@
 
 + [赛力斯股价跌停，内部人士回应：市场的正常波动和表现](https://m.ithome.com/html/777590.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 系统输入能力升级：支持剪切板识别、智能关联输入信息](https://m.ithome.com/html/777400.htm)
+
++ [2023 年度国家科学技术奖励公布：共评出 250 个项目，华为、比亚迪、科大讯飞等公司获奖](https://m.ithome.com/html/777399.htm)
+
