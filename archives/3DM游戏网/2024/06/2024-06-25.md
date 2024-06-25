@@ -233,3 +233,29 @@
 
 + [《最终幻想14：黄金的遗产》国际服抢先体验本周开启 SE：请别剧透](https://www.3dmgame.com/news/202406/3898117.html)
 
++ [iOS 18 新Beta测试上线 开发者已可尝试iPhone镜像](https://www.3dmgame.com/news/202406/3898137.html)
+
++ [宝可梦卡牌插画大赛有选手涉嫌使用AI 被取消参赛资格](https://www.3dmgame.com/news/202406/3898136.html)
+
++ [《黑神话：悟空》Steam超400万人想买 近七成来自中国](https://www.3dmgame.com/news/202406/3898135.html)
+
++ [《斗罗大陆2》电视剧全阵容剧照 李小冉饰演比比东](https://www.3dmgame.com/news/202406/3898130.html)
+
++ [联动白雪公主！小米Civi 4 Pro迪士尼公主限定版宣布6月27日发布](https://www.3dmgame.com/news/202406/3898134.html)
+
++ [微软调整用户账号规则 用Win11必须先注册登录账号](https://www.3dmgame.com/news/202406/3898133.html)
+
++ [谷歌：满足Epic开放第三方商店要求需耗资超6千万美金](https://www.3dmgame.com/news/202406/3898132.html)
+
++ [《地球防卫军6》Steam开启预购 国区原价398元](https://www.3dmgame.com/news/202406/3898131.html)
+
++ [《红霞岛》总监：会等5到10年才会再玩自己做的游戏](https://www.3dmgame.com/news/202406/3898128.html)
+
++ [知名网红主播吃鸡老爹涉丑闻 被合伙人游戏工作室断绝关系](https://www.3dmgame.com/news/202406/3898127.html)
+
++ [能加油才没焦虑 插混车今年销量暴增70% 增速是纯电车4倍](https://www.3dmgame.com/news/202406/3898126.html)
+
++ [加入《Ai Vpet/守护与智友》测试服，探索个性化AI虚拟宠物的世界](https://www.3dmgame.com/news/202406/3898125.html)
+
++ [Steam最新一周销量榜 《艾尔登法环》登顶](https://www.3dmgame.com/news/202406/3898129.html)
+

@@ -47,3 +47,5 @@
 
 + [消息称 vivo X200 Pro 手机有望采用等深微曲直屏，配备百瓦快充 6000 毫安时电池](https://m.ithome.com/html/777335.htm)
 
++ [消息称 iQOO 13 手机首批搭载骁龙 8 Gen 4，延续 iQOO 12 外观设计](https://m.ithome.com/html/777391.htm)
+
