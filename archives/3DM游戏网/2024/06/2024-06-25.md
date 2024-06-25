@@ -155,3 +155,39 @@
 
 + [《Dungeon World》Steam抢测 像素风肉鸽沙盒生存](https://www.3dmgame.com/news/202406/3898079.html)
 
++ [北大教授建议年轻人不要躺平 继续卷才能成功](https://www.3dmgame.com/news/202406/3898103.html)
+
++ [英伟达总市值三天蒸发4万亿元 曾一度成为市值最高公司](https://www.3dmgame.com/news/202406/3898100.html)
+
++ [清库存了！Steam Deck掌机LCD型号开启8.5折特卖](https://www.3dmgame.com/news/202406/3898102.html)
+
++ [半数以上开发者认为游戏行业现状糟糕：投资方和管理层的锅](https://www.3dmgame.com/news/202406/3898101.html)
+
++ [《艾尔登法环：黄金树幽影》超酷截图 享受绝美风景](https://www.3dmgame.com/news/202406/3898099.html)
+
++ [战场策略模拟游戏《角斗士公会经理》现已在Steam平台正式推出](https://www.3dmgame.com/news/202406/3898097.html)
+
++ [美女主播使用脑电波成功击败《黄金树幽影》首个Boss](https://www.3dmgame.com/news/202406/3898096.html)
+
++ [《生化危机0》将改编电影：艾达王加盟 2025上映](https://www.3dmgame.com/news/202406/3898094.html)
+
++ [《海鸟野学的精神鉴定录》免费登陆Steam 克苏鲁背景ADV](https://www.3dmgame.com/news/202406/3898093.html)
+
++ [《蜡笔小新：我们的恐龙日记》确认引进 档期待定](https://www.3dmgame.com/news/202406/3898092.html)
+
++ [腾讯官宣科幻网剧《乡村教师》 改编自刘慈欣同名小说](https://www.3dmgame.com/news/202406/3898098.html)
+
++ [《漫威争锋》发布新地图预告：东京2099蜘蛛岛](https://www.3dmgame.com/news/202406/3898095.html)
+
++ [俯视角战术射击手游《战术冷却》Steam页面 今年发行](https://www.3dmgame.com/news/202406/3898090.html)
+
++ [《泰拉瑞亚》开发者随性“收编”MOD开发人员 来就给钱](https://www.3dmgame.com/news/202406/3898091.html)
+
++ [虚幻5.4技术演示画面逼真 但RTX4080很难达到4K/60帧](https://www.3dmgame.com/news/202406/3898087.html)
+
++ [前暴雪开发者驳斥英国维权组织起诉Vavle：论点站不住脚](https://www.3dmgame.com/news/202406/3898088.html)
+
++ [斯嘉丽·约翰逊确定将出演《侏罗纪世界》新片：称赞剧本非常棒](https://www.3dmgame.com/news/202406/3898086.html)
+
++ [《伊甸园工匠》序章免费发布 开放世界科幻生存建设](https://www.3dmgame.com/news/202406/3898089.html)
+
