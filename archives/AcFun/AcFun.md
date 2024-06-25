@@ -75,3 +75,11 @@
 
 + [Day by day](http://www.acfun.cn/v/ac44911148)
 
++ [童颜不会单独出现！★手机竖屏1192★](http://www.acfun.cn/v/ac44910834)
+
++ [雨后小故事](http://www.acfun.cn/v/ac44912816)
+
++ [第一视角带你感受下国内奖金最高强度最大的公路车比赛](http://www.acfun.cn/v/ac44909734)
+
++ [你体验的一天，却是他们的每一天](http://www.acfun.cn/v/ac44909751)
+
