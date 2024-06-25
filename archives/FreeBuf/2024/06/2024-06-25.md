@@ -47,3 +47,5 @@
 
 + [境外僵尸网络攻击溯源与样本分析](https://www.freebuf.com/articles/system/403885.html)
 
++ [网安标委发布《网络安全标准实践指南— 一键停止收集车外数据指引（征求意见稿）》](https://www.freebuf.com/news/404368.html)
+
