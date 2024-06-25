@@ -41,3 +41,5 @@
 
 + [FreeBuf 周报 | 有 92% 的企业曾遭遇社工攻击；拜登下令禁用卡巴斯基杀毒软件](https://www.freebuf.com/news/404097.html)
 
++ [记一次OA系统被植入冰蝎内存马后的溯源](https://www.freebuf.com/defense/403407.html)
+

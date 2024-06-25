@@ -117,3 +117,7 @@
 
 + [五十岚孝司称《血污：夜之仪式》续作正式立项](https://www.3dmgame.com/news/202406/3898063.html)
 
++ [传Xbox计划在2024年再收购一个大型发行商](https://www.3dmgame.com/news/202406/3898068.html)
+
++ [《无主之地》电影剧照精彩还原潘多拉星球景观](https://www.3dmgame.com/news/202406/3898067.html)
+
