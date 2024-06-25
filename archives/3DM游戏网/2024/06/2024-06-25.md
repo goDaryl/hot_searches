@@ -141,3 +141,17 @@
 
 + [显卡杀手？虚幻5打造的《生化奇兵》概念视频来了](https://www.3dmgame.com/news/202406/3898072.html)
 
++ [开放世界生存制作《尼莫伊德-生存沙盒》现已登录Steam平台 10月推出抢先体验版](https://www.3dmgame.com/news/202406/3898084.html)
+
++ [《战锤40K：星际战士2》Kadaku星介绍 9月9日发售](https://www.3dmgame.com/news/202406/3898085.html)
+
++ [亚克系统为新《双截龙》游戏注册商标 或是初代完全重制](https://www.3dmgame.com/news/202406/3898083.html)
+
++ [《新蝙蝠侠2》2025年初开拍 导演和男主均回归](https://www.3dmgame.com/news/202406/3898082.html)
+
++ [英国零售商GAME否认将停止线下销售实体游戏报道](https://www.3dmgame.com/news/202406/3898081.html)
+
++ [2D多人策略游戏《蘑菇围城》现已登录Steam平台 预计8月6日推出试玩版](https://www.3dmgame.com/news/202406/3898080.html)
+
++ [《Dungeon World》Steam抢测 像素风肉鸽沙盒生存](https://www.3dmgame.com/news/202406/3898079.html)
+
