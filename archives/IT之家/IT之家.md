@@ -49,3 +49,7 @@
 
 + [消息称 iQOO 13 手机首批搭载骁龙 8 Gen 4，延续 iQOO 12 外观设计](https://m.ithome.com/html/777391.htm)
 
++ [《完蛋！我被美女包围了！》手机版官宣，6 月 28 日限量免费试玩](https://m.ithome.com/html/777542.htm)
+
++ [Qt 与华为合作，跨平台快速开发开源鸿蒙 OpenHarmony 应用](https://m.ithome.com/html/777488.htm)
+

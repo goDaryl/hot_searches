@@ -259,3 +259,11 @@
 
 + [Steam最新一周销量榜 《艾尔登法环》登顶](https://www.3dmgame.com/news/202406/3898129.html)
 
++ [《星刃》销量已突破100万 PC版筹备中 未来将推出DLC和续作](https://www.3dmgame.com/news/202406/3898140.html)
+
++ [《超级猴子球 香蕉大乱斗》今日正式上线！“世嘉通行证”内容预告片及15种装扮配件](https://www.3dmgame.com/news/202406/3898141.html)
+
++ [小岛秀夫分享尬事 飞机上发现《死亡搁浅》山寨电影](https://www.3dmgame.com/news/202406/3898139.html)
+
++ [6月国产网络游戏版号 《洛克王国：世界》等过审](https://www.3dmgame.com/news/202406/3898138.html)
+
