@@ -103,3 +103,47 @@
 
 + [ShitSaaS](https://www.producthunt.com/posts/shitsaas)
 
++ [AfterHour](https://www.producthunt.com/posts/afterhour)
+
++ [Asset Manager Quest](https://www.producthunt.com/posts/asset-manager-quest)
+
++ [StoryLife](https://www.producthunt.com/posts/storylife)
+
++ [Oasa R1 lawn mower](https://www.producthunt.com/posts/oasa-r1-lawn-mower)
+
++ [Dot by New Computer](https://www.producthunt.com/posts/dot-by-new-computer)
+
++ [Real Estate Investing Simulator (Beta)](https://www.producthunt.com/posts/real-estate-investing-simulator-beta)
+
++ [AI-Flow](https://www.producthunt.com/posts/ai-flow-4)
+
++ [Scene](https://www.producthunt.com/posts/scene-3)
+
++ [mypapers.ai](https://www.producthunt.com/posts/mypapers-ai)
+
++ [Faktor](https://www.producthunt.com/posts/faktor)
+
++ [Pig Latin Translator](https://www.producthunt.com/posts/pig-latin-translator-2)
+
++ [Inbox by Vanilla](https://www.producthunt.com/posts/inbox-by-vanilla)
+
++ [Jimbo](https://www.producthunt.com/posts/jimbo)
+
++ [Kreativo Cover](https://www.producthunt.com/posts/kreativo-cover)
+
++ [Feedback.](https://www.producthunt.com/posts/feedback-4)
+
++ [Surf MenuBar](https://www.producthunt.com/posts/surf-menubar)
+
++ [DemoDazzle](https://www.producthunt.com/posts/demodazzle)
+
++ [QualiBooth](https://www.producthunt.com/posts/qualibooth)
+
++ [Ozone](https://www.producthunt.com/posts/ozone-3)
+
++ [Add to Sheets](https://www.producthunt.com/posts/add-to-sheets)
+
++ [Zebracat](https://www.producthunt.com/posts/zebracat)
+
++ [Relay.app](https://www.producthunt.com/posts/relay-app-2)
+

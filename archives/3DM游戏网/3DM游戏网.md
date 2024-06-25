@@ -211,3 +211,7 @@
 
 + [《头脑特工队2》超越《沙丘2》成为今年票房最高电影](https://www.3dmgame.com/news/202406/3898111.html)
 
++ [《七日杀》1.0测试版向所有玩家开放 正式版7月上线](https://www.3dmgame.com/news/202406/3898114.html)
+
++ [业内人士Jeff Grubb透露 索尼正在打造PS3模拟器](https://www.3dmgame.com/news/202406/3898115.html)
+
