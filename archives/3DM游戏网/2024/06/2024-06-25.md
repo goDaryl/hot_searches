@@ -215,3 +215,21 @@
 
 + [业内人士Jeff Grubb透露 索尼正在打造PS3模拟器](https://www.3dmgame.com/news/202406/3898115.html)
 
++ [《逸剑风云决》大更新秋季免费上线，夏促将有史低价！](https://www.3dmgame.com/news/202406/3898121.html)
+
++ [《方舟生存飞升》“恐龙战队”联名MOD销量超60W套](https://www.3dmgame.com/news/202406/3898122.html)
+
++ [Steam夏日特卖宣传片公布 活动本周五上线](https://www.3dmgame.com/news/202406/3898123.html)
+
++ [KK官方对战平台“钻石”推广员专访：日常玩游戏竟能月入上千？](https://www.3dmgame.com/news/202406/3898124.html)
+
++ [《地牢与餐桌》Steam页面上线 地下城探索收集冒险](https://www.3dmgame.com/news/202406/3898118.html)
+
++ [《终极僵尸防御2》7月26日发售 支持简繁体中文](https://www.3dmgame.com/news/202406/3898119.html)
+
++ [《城市：天际线2》1.1.5f1补丁更新上线 经济系统大改](https://www.3dmgame.com/news/202406/3898120.html)
+
++ [赛车动画《极速星舞》完播 改编视觉小说游戏宣布 聚焦赛车手的日常和幕后](https://www.3dmgame.com/news/202406/3898116.html)
+
++ [《最终幻想14：黄金的遗产》国际服抢先体验本周开启 SE：请别剧透](https://www.3dmgame.com/news/202406/3898117.html)
+
