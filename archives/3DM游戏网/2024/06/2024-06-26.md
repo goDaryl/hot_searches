@@ -213,3 +213,5 @@
 
 + [策略模拟游戏《领主与村民》最新DLC“豪门望族”现已在Steam平台正式推出](https://www.3dmgame.com/news/202406/3898203.html)
 
++ [《Pomberito》登陆Steam 南美洲民间恐怖冒险](https://www.3dmgame.com/news/202406/3898206.html)
+

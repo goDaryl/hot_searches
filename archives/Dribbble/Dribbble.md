@@ -93,3 +93,7 @@
 
 + [HHC Living Brand Pattern](https://dribbble.com/shots/)
 
++ [Be brave](https://dribbble.com/shots/)
+
++ ["Call Me Maybe" - NFT art](https://dribbble.com/shots/)
+
