@@ -61,3 +61,17 @@
 
 + [Flor de Maguey](https://dribbble.com/shots/)
 
++ [Regal Eagle](https://dribbble.com/shots/)
+
++ [Gentry Brand - Branding](https://dribbble.com/shots/)
+
++ [Minsk T-shirt Design](https://dribbble.com/shots/)
+
++ [Illustration [ work in progress ]](https://dribbble.com/shots/)
+
++ [San Juan Island Half Marathon Race Swag](https://dribbble.com/shots/)
+
++ [Smoke city](https://dribbble.com/shots/)
+
++ [1/2 size studio ????????](https://dribbble.com/shots/)
+
