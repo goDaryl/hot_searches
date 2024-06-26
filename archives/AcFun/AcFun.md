@@ -77,3 +77,11 @@
 
 + [挑战邓紫棋的rap，好难](http://www.acfun.cn/v/ac44917865)
 
++ [我买还不行吗？★手机竖屏1193★](http://www.acfun.cn/v/ac44917010)
+
++ [托尼：你看这个新发型怎么样？](http://www.acfun.cn/v/ac44918476)
+
++ [特厨探店 |90%河南人都吃过的一道菜是什么？—鲍三羊肉炝锅面](http://www.acfun.cn/v/ac44909873)
+
++ [爵士版《茉莉花》](http://www.acfun.cn/v/ac44918988)
+

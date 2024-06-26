@@ -39,3 +39,5 @@
 
 + [哪吒 L 纯电版车型 6 月 28 日正式上市，预售 14 万元起](https://m.ithome.com/html/777625.htm)
 
++ [爆料称荣耀新款笔记本将突破行业轻薄记录](https://m.ithome.com/html/777623.htm)
+
