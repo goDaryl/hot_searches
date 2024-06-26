@@ -101,3 +101,25 @@
 
 + [正则表达式与文本处理器](https://blog.csdn.net/qq_74956938/article/details/139962526)
 
++ [深度解析：机器学习如何助力GPT-5实现语言理解的飞跃](https://blog.csdn.net/2301_77509762/article/details/139997963)
+
++ [AI交互及爬虫【数据分析】](https://blog.csdn.net/2301_81874719/article/details/139817865)
+
++ [量子计算的崛起：开启计算新纪元](https://blog.csdn.net/double222222/article/details/139919935)
+
++ [微软Edge浏览器全解析](https://blog.csdn.net/m0_61505785/article/details/139952139)
+
++ [solidity智能合约如何实现跨合约调用函数](https://blog.csdn.net/qq_38420688/article/details/139954151)
+
++ [MySQL 高性能配置详解与最佳实践](https://blog.csdn.net/qq_38411796/article/details/139900001)
+
++ [【高考志愿】电气工程](https://blog.csdn.net/xiaoyingxixi1989/article/details/139995476)
+
++ [高考十字路口：24年考生如何权衡专业与学校的抉择？](https://blog.csdn.net/u014727709/article/details/139912153)
+
++ [生命在于学习——Python人工智能原理（4.4）](https://blog.csdn.net/qq_15131581/article/details/139949863)
+
++ [单域名、多域名和通配符证书分别适合的群体](https://blog.csdn.net/gavinwang152152/article/details/139987041)
+
++ [对于GPT-5的些许期待](https://blog.csdn.net/ak2111/article/details/139934524)
+
