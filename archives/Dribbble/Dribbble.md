@@ -81,3 +81,11 @@
 
 + [Coffee & Tea Logo Collection](https://dribbble.com/shots/)
 
++ [Be brave](https://dribbble.com/shots/)
+
++ [Mad Cats!](https://dribbble.com/shots/)
+
++ [Simms Fishing Apparel Design](https://dribbble.com/shots/)
+
++ [WHIP](https://dribbble.com/shots/)
+
