@@ -129,3 +129,7 @@
 
 + [从元语言角度评价华为仓颉](https://blog.csdn.net/cfy_banq/article/details/139912185)
 
++ [【C++进阶学习】第四弹——多态——迈向C++更深处的关键一步](https://blog.csdn.net/2301_80220607/article/details/139968988)
+
++ [服务器(Linux系统的使用)——自学习梳理](https://blog.csdn.net/qq_63125992/article/details/139927474)
+
