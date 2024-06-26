@@ -45,3 +45,5 @@
 
 + [华为坤灵 eKitStor Xtreme 200 M.2 闪存条（固态硬盘）上线官网，2TB 建议零售价 1887.6 元](https://m.ithome.com/html/777751.htm)
 
++ [贵 100 元，华为 Pura70 北斗卫星消息版手机售价曝光：12+512GB 售价 6099 元](https://m.ithome.com/html/777742.htm)
+

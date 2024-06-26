@@ -221,3 +221,19 @@
 
 + [《最后纪元》发布首个赛季更新前瞻 7月10日上线](https://www.3dmgame.com/news/202406/3898209.html)
 
++ [热血少年漫《伊甸星原》最终回6月26日放出 结束6年连载](https://www.3dmgame.com/news/202406/3898213.html)
+
++ [KK官方对战平台爆图《重返战法牧》新职业上线 圣骑降临，buff叠满！](https://www.3dmgame.com/news/202406/3898214.html)
+
++ [调查称超一半的游戏开发者认为行业不太乐观 前景暗淡](https://www.3dmgame.com/news/202406/3898215.html)
+
++ [肉鸽游戏《怪物大厨》Steam页面上线 支持中文](https://www.3dmgame.com/news/202406/3898216.html)
+
++ [日本Falcom最新访谈 轨迹系列10年内必定完结](https://www.3dmgame.com/news/202406/3898217.html)
+
++ [游戏争端打飞的线下真实 美国20岁玩家被告谋杀未遂](https://www.3dmgame.com/news/202406/3898210.html)
+
++ [魔兽世界巫妖王之怒怀旧服27日开启 回归礼物等明日公布](https://www.3dmgame.com/news/202406/3898211.html)
+
++ [《咒术回战》官方放出涩谷站宣传展览实拍 全是线稿过于抽象](https://www.3dmgame.com/news/202406/3898212.html)
+
