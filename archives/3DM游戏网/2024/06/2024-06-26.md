@@ -237,3 +237,17 @@
 
 + [《咒术回战》官方放出涩谷站宣传展览实拍 全是线稿过于抽象](https://www.3dmgame.com/news/202406/3898212.html)
 
++ [荣耀发布手机行业首个端侧AI反诈检测技术 可向用户发出风险提醒](https://www.3dmgame.com/news/202406/3898223.html)
+
++ [《龙腾世纪》开发者指名批评《上古卷轴6》：宣布太早](https://www.3dmgame.com/news/202406/3898224.html)
+
++ [数字生活新伙伴：《Ai Vpet/守护与智友》测试服开放在即](https://www.3dmgame.com/news/202406/3898222.html)
+
++ [人才缺口超百万！新能源汽修引热议：车企大佬在线指南](https://www.3dmgame.com/news/202406/3898221.html)
+
++ [《Zooparasite》Steam页面上线 沉浸式恐怖冒险](https://www.3dmgame.com/news/202406/3898220.html)
+
++ [《艾尔登法环》“黄金树幽影”平衡性调整更新发布 更多调整准备中](https://www.3dmgame.com/news/202406/3898219.html)
+
++ [外山圭一郎：《野狗子》是现代动作版的《死魂曲》](https://www.3dmgame.com/news/202406/3898218.html)
+
