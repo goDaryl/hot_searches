@@ -107,3 +107,7 @@
 
 + [revid.ai](https://www.producthunt.com/posts/revid-ai)
 
++ [Insights Hub](https://www.producthunt.com/posts/insights-hub)
+
++ [City Chase](https://www.producthunt.com/posts/city-chase)
+

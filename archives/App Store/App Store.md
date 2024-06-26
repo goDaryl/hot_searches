@@ -205,3 +205,9 @@
 
 + [猫眼-电影演唱会演出休闲玩乐购票平台](https://itunes.apple.com/cn/app/id504274740?mt=8)
 
++ [书旗小说-看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id733689509?mt=8)
+
++ [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
+
++ [知乎](https://itunes.apple.com/cn/app/id432274380?mt=8)
+
