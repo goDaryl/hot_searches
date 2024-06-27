@@ -293,3 +293,9 @@
 
 + [《冰汽时代2》宣布跳票 游戏延期至9月20日](https://www.3dmgame.com/news/202406/3898343.html)
 
++ [《艾尔登法环：黄金树幽影》发售3天 销量破500万套](https://www.3dmgame.com/news/202406/3898346.html)
+
++ [荣耀手机将采用华为麒麟芯片？荣耀CMO回应：纯属胡扯](https://www.3dmgame.com/news/202406/3898344.html)
+
++ [《星球大战：赏金猎人》升级版公布 8月1日发售](https://www.3dmgame.com/news/202406/3898345.html)
+
