@@ -25,3 +25,5 @@
 
 + [最高优惠 600 元，小米 Redmi K70 Pro 手机降价：骁龙 8 Gen 3，2799 元起](https://m.ithome.com/html/778002.htm)
 
++ [荣耀 CMO 姜海荣否认采用华为麒麟芯片：纯属胡扯！](https://m.ithome.com/html/778095.htm)
+

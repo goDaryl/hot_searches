@@ -49,3 +49,23 @@
 
 + [I know what you did last shandy](https://dribbble.com/shots/)
 
++ [Gentry Brand: Full Preview](https://dribbble.com/shots/)
+
++ [Lotus Flower](https://dribbble.com/shots/)
+
++ [3D Illustrations For MAF](https://dribbble.com/shots/)
+
++ [Doug](https://dribbble.com/shots/)
+
++ [Sours & Cobblers](https://dribbble.com/shots/)
+
++ [Kite](https://dribbble.com/shots/)
+
++ [Regal Eagle](https://dribbble.com/shots/)
+
++ [Dave Matthews Band 2024 US Summer Tour Poster](https://dribbble.com/shots/)
+
++ [Gorilla Surf](https://dribbble.com/shots/)
+
++ [We are Family](https://dribbble.com/shots/)
+
