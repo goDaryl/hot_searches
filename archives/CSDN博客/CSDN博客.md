@@ -197,3 +197,5 @@
 
 + [我给我的学校写了个校园墙小程序](https://blog.csdn.net/2302_79791164/article/details/140017644)
 
++ [uniapp生成微信小程序二维码](https://blog.csdn.net/m0_67584973/article/details/140013607)
+

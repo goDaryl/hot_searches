@@ -63,3 +63,5 @@
 
 + [荣耀 CMO 姜海荣否认采用华为麒麟芯片：纯属胡扯！](https://m.ithome.com/html/778095.htm)
 
++ [华为 P40 / Mate 30、荣耀 30 / V30 系列等超 30 款设备获推鸿蒙 HarmonyOS 4.2 正式版：新增摇一摇权限管理、互动主题](https://m.ithome.com/html/778137.htm)
+
