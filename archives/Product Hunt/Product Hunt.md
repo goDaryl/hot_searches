@@ -173,3 +173,5 @@
 
 + [Linguist Translate](https://www.producthunt.com/posts/linguist-translate)
 
++ [Fin AI Copilot](https://www.producthunt.com/posts/fin-ai-copilot)
+

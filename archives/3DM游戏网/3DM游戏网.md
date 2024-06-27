@@ -259,3 +259,9 @@
 
 + [《暗喻幻想：ReFantazio》特别节目ATLUS Exclusive预定于7月6日发布！](https://www.3dmgame.com/news/202406/3898321.html)
 
++ [美国担心玉兔轧了阿姆斯特朗的脚印 网友支招：再去一趟放个保护罩](https://www.3dmgame.com/news/202406/3898329.html)
+
++ [比5G快10倍！中国移动：年内将在300个城市实现5G-A商用部署](https://www.3dmgame.com/news/202406/3898328.html)
+
++ [正在远离游戏玩家 黄仁勋表示主业由游戏转至AI](https://www.3dmgame.com/news/202406/3898327.html)
+
