@@ -53,3 +53,7 @@
 
 + [小米 Redmi K70 至尊版手机预热：暑期档唯一支持 IP68 的旗舰](https://m.ithome.com/html/778075.htm)
 
++ [小米汽车预热“车载多彩氛围灯”新单品，明日上午 10 点上线](https://m.ithome.com/html/778040.htm)
+
++ [小米 15 Pro 手机亮点曝光：超大硅负极电池、单点超声波屏下指纹等](https://m.ithome.com/html/778094.htm)
+
