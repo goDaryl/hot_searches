@@ -127,3 +127,11 @@
 
 + [电脑CPU速度很快，为什么3dMax还会出现卡顿的情况？](https://blog.csdn.net/mufenglaoshi/article/details/139986412)
 
++ [【AI 大模型】提示工程 ② ( 语言选择 - 英文更准确 | 自洽性 | 思维树 | 提示词正常输出 -＞ 思维链 -＞ 自洽性 -＞ 思维树 进化过程 | 提示词使用技巧 )](https://blog.csdn.net/han1202012/article/details/139808932)
+
++ [python数据可视化](https://blog.csdn.net/weixin_44774550/article/details/139966904)
+
++ [LabVIEW遇到无法控制国外设备时怎么办](https://blog.csdn.net/bjcyck/article/details/139996851)
+
++ [Docker系列之安全](https://blog.csdn.net/J56793/article/details/139818061)
+

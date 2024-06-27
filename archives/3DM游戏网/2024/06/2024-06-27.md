@@ -125,3 +125,23 @@
 
 + [游戏开发者：游戏画面越来越逼真 导致开发时间也变长](https://www.3dmgame.com/news/202406/3898259.html)
 
++ [《极限竞速：地平线4》宣布将下架 玩家人数创历史新高](https://www.3dmgame.com/news/202406/3898269.html)
+
++ [Steam喜加一！益智游戏《真知之岛》免费领 原价110元](https://www.3dmgame.com/news/202406/3898266.html)
+
++ [《街头霸王》真人电影定档2026年3月20日 导演仍然待定](https://www.3dmgame.com/news/202406/3898268.html)
+
++ [《夜痕：被遗忘之神》新预告 土耳其版《魔法门黑暗弥塞亚》](https://www.3dmgame.com/news/202406/3898267.html)
+
++ [非公立未成年保护网游管理平台k-ID再获4500万美元融资](https://www.3dmgame.com/news/202406/3898265.html)
+
++ [《艾尔登法环》米凯拉建模视频 金发美女楚楚动人](https://www.3dmgame.com/news/202406/3898264.html)
+
++ [《丧尸围城：豪华复刻版》和《丧尸围城：复刻版》（2016）对比](https://www.3dmgame.com/news/202406/3898263.html)
+
++ [《哥特王朝：重制版》新截图 游戏发售日或于8月公布](https://www.3dmgame.com/news/202406/3898262.html)
+
++ [《龙腾世纪：影障守护者》新情报 游戏专精职业介绍](https://www.3dmgame.com/news/202406/3898261.html)
+
++ [AMD将展示神经纹理块压缩技术 减少游戏体积](https://www.3dmgame.com/news/202406/3898260.html)
+

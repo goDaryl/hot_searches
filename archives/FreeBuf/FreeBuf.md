@@ -43,3 +43,5 @@
 
 + [隐秘而又复杂的恶意软件：SSLoad](https://www.freebuf.com/articles/network/403682.html)
 
++ [FreeBuf早报 | AI工具恶意应用榜单出炉；新加坡公民身份被盗的暗网活动激增230%](https://www.freebuf.com/news/404551.html)
+
