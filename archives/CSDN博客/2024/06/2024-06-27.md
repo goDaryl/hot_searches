@@ -123,3 +123,7 @@
 
 + [对于GPT-5的些许期待](https://blog.csdn.net/ak2111/article/details/139934524)
 
++ [H5、Vue3、UniApp实现抖音短视频功能](https://blog.csdn.net/qq_51076413/article/details/139970507)
+
++ [电脑CPU速度很快，为什么3dMax还会出现卡顿的情况？](https://blog.csdn.net/mufenglaoshi/article/details/139986412)
+
