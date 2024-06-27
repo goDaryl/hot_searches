@@ -287,3 +287,5 @@
 
 + [《AILIMIT无限机兵》开发者日志：打造别具一格的后启示录废土世界](https://www.3dmgame.com/news/202406/3898337.html)
 
++ [漫威影业今年将重返SDCC漫展](https://www.3dmgame.com/news/202406/3898342.html)
+

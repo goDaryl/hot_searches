@@ -187,3 +187,13 @@
 
 + [Spring Boot 初学者指南：快速启动你的项目](https://blog.csdn.net/2301_79339087/article/details/140010807)
 
++ [AI在创造还是毁掉音乐？](https://blog.csdn.net/weixin_42306958/article/details/140005703)
+
++ [【机器学习】机器学习重要方法——迁移学习：理论、方法与实践](https://blog.csdn.net/Easonmax/article/details/139470015)
+
++ [标签接口开发（富含完整CRUD开发流程）](https://blog.csdn.net/m0_64637029/article/details/139999957)
+
++ [告别模糊时代，扫描全能王带来清晰世界](https://blog.csdn.net/weixin_51390582/article/details/139470895)
+
++ [我给我的学校写了个校园墙小程序](https://blog.csdn.net/2302_79791164/article/details/140017644)
+
