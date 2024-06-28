@@ -51,3 +51,5 @@
 
 + [TeamViewer 遭遇黑客攻击，企业网络被攻破](https://www.freebuf.com/news/404728.html)
 
++ [不求甚解之考古某企业数字化平台](https://www.freebuf.com/articles/web/404677.html)
+
