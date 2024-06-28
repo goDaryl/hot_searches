@@ -55,3 +55,7 @@
 
 + [小米汽车：向锁单 SU7 等待 3 个月以上用户不定期赠送礼品](https://m.ithome.com/html/778357.htm)
 
++ [问界新 M5 汽车交付量破万：24.98 万元起，全系华为高阶智驾](https://m.ithome.com/html/778261.htm)
+
++ [3299 元，小米 Civi 4 Pro 迪士尼公主限定版手机发布：复古化妆镜设计](https://m.ithome.com/html/778174.htm)
+
