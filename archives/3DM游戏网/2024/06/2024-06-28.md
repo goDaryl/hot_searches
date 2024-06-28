@@ -207,3 +207,5 @@
 
 + [《暗黑破坏神：不朽》×《魔兽世界》联动开启 7月4日上线](https://www.3dmgame.com/news/202406/3898395.html)
 
++ [雅达利经典竞速游戏复活作《NeoSprint》现已在Steam平台正式发售](https://www.3dmgame.com/news/202406/3898402.html)
+
