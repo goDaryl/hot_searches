@@ -117,3 +117,11 @@
 
 + [Vue组件生命周期深度剖析：从创建到销毁的八大钩子实战指南](https://blog.csdn.net/m0_48173416/article/details/139975222)
 
++ [AI从业者怎么做Science？清华大学AIR周浩：从文本生成到蛋白质设计的跨界探索](https://blog.csdn.net/HyperAI/article/details/140009904)
+
++ [【RAG检索增强生成】深入探索检索增强生成（RAG）技术](https://blog.csdn.net/xiaobing259/article/details/139905208)
+
++ [Spring Boot中集成Redis实现缓存功能](https://blog.csdn.net/weixin_44626980/article/details/139992959)
+
++ [Python爬虫实战之爬取京东商品数据](https://blog.csdn.net/zhou6343178/article/details/140023294)
+

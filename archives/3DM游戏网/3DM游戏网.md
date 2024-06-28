@@ -127,3 +127,19 @@
 
 + [育碧老总宣布计划重制多款经典刺客信条游戏](https://www.3dmgame.com/news/202406/3898352.html)
 
++ [开发商宣布《月姬格斗》全球销量已突破50万份](https://www.3dmgame.com/news/202406/3898369.html)
+
++ [Xbox与亚马逊合作 通过Fire TV设备提供Xbox云游戏服务](https://www.3dmgame.com/news/202406/3898365.html)
+
++ [《消逝的光芒2》新合作模式高塔突袭 限时开放至7月18日](https://www.3dmgame.com/news/202406/3898367.html)
+
++ [FPS新作《CONCORD》7月开启B测 PC需PSN账号](https://www.3dmgame.com/news/202406/3898368.html)
+
++ [AMD FSR 3.1上线 首发5款游戏都是索尼第一方作品](https://www.3dmgame.com/news/202406/3898366.html)
+
++ [《龙腾世纪：影障守护者》角色编辑器介绍 捏个帅哥美女](https://www.3dmgame.com/news/202406/3898364.html)
+
++ [FromSoftware母公司遭勒索软件团伙攻击 威胁公布内部数据](https://www.3dmgame.com/news/202406/3898363.html)
+
++ [《刺客信条：影》开发者遭到人身攻击后 育碧CEO：强烈谴责](https://www.3dmgame.com/news/202406/3898362.html)
+
