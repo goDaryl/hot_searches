@@ -107,3 +107,23 @@
 
 + [《路易吉洋馆2HD》模拟器版支持60帧 体验更佳](https://www.3dmgame.com/news/202406/3898350.html)
 
++ [《赛博朋克2077》续作将更加地道的美国风](https://www.3dmgame.com/news/202406/3898361.html)
+
++ [《艾尔登法环》官方漫画作者停更狂肝《黄金树幽影》](https://www.3dmgame.com/news/202406/3898355.html)
+
++ [育碧《不羁联盟》玩家人数突破1100万](https://www.3dmgame.com/news/202406/3898360.html)
+
++ [《妙探闯通关：魔鬼剧场重制版》8/14推出](https://www.3dmgame.com/news/202406/3898359.html)
+
++ [Steam夏日特卖已开启 多款大作提供折扣](https://www.3dmgame.com/news/202406/3898358.html)
+
++ [叫好不叫座？《地狱之刃2》媒体赞誉宣传片](https://www.3dmgame.com/news/202406/3898357.html)
+
++ [任天堂出招严打游戏信息泄露 确保玩家体验最佳](https://www.3dmgame.com/news/202406/3898356.html)
+
++ [《英雄传说：界之轨迹》预告释出 全新旅程即将开启](https://www.3dmgame.com/news/202406/3898354.html)
+
++ [Q版和风剑戟游戏《鬼谭》将于7月登陆主机平台](https://www.3dmgame.com/news/202406/3898353.html)
+
++ [育碧老总宣布计划重制多款经典刺客信条游戏](https://www.3dmgame.com/news/202406/3898352.html)
+
