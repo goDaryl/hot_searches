@@ -213,3 +213,15 @@
 
 + [热血动漫改编同名动画《防风铃》第二季预告片放出 2025年播出](https://www.3dmgame.com/news/202406/3898404.html)
 
++ [黑客组织自曝已获取角川书店1.5T数据 威胁不付赎金就公布数据](https://www.3dmgame.com/news/202406/3898406.html)
+
++ [夏日促销来袭，《底特律：化身为人》享四折！](https://www.3dmgame.com/news/202406/3898407.html)
+
++ [《逸剑风云决》夏促史低价开启，优惠捆绑包同步上线](https://www.3dmgame.com/news/202406/3898408.html)
+
++ [《第一后裔》6月30日开启预载 全球解锁时间公布](https://www.3dmgame.com/news/202406/3898409.html)
+
++ [真人互动影游《恋爱单选题》Steam页面 发售日待定](https://www.3dmgame.com/news/202406/3898410.html)
+
++ [未来游戏展8月21日科隆展期间举行新一期发布会](https://www.3dmgame.com/news/202406/3898405.html)
+
