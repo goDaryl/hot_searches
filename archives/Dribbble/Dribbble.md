@@ -67,3 +67,15 @@
 
 + [Minsk T-shirt Design](https://dribbble.com/shots/)
 
++ [Creative Works West](https://dribbble.com/shots/)
+
++ [Sours & Cobblers](https://dribbble.com/shots/)
+
++ [Give me the money!](https://dribbble.com/shots/)
+
++ [Kansas City Chiefs ????](https://dribbble.com/shots/)
+
++ [Gentry Brand: Full Preview](https://dribbble.com/shots/)
+
++ [Talkative (Pilgrim's Progress Playing Cards)](https://dribbble.com/shots/)
+
