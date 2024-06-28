@@ -41,3 +41,7 @@
 
 + [349 元，小米米家迪士尼公主限定吹风机开售：11 万转高速马达](https://m.ithome.com/html/778179.htm)
 
++ [小米新品保温壶 1.5L / 2L 上市：316L 不锈钢内胆，售价 99 元起](https://m.ithome.com/html/778157.htm)
+
++ [比亚迪乌兹别克斯坦工厂首批量产新能源汽车“ 宋 PLUS DM-i 冠军版”正式下线](https://m.ithome.com/html/778203.htm)
+
