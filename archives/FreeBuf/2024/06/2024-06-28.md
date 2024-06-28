@@ -47,3 +47,7 @@
 
 + [深入讨论代码审计：实战技巧与案例漏洞剖析](https://www.freebuf.com/articles/web/403667.html)
 
++ [5G 连接存在漏洞，移动设备易被绕过或受到 DoS 攻击](https://www.freebuf.com/news/404737.html)
+
++ [TeamViewer 遭遇黑客攻击，企业网络被攻破](https://www.freebuf.com/news/404728.html)
+

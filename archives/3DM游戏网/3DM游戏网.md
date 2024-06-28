@@ -169,3 +169,27 @@
 
 + [开发商Gameloft再次大量裁员 多伦多工作室遭重](https://www.3dmgame.com/news/202406/3898376.html)
 
++ [人类首份月背“土特产”在中国 嫦娥六号带回1935.3克月球样品](https://www.3dmgame.com/news/202406/3898392.html)
+
++ [杰洛特配音演员Doug Cockle：《巫师》系列是小众游戏 没想过会爆红](https://www.3dmgame.com/news/202406/3898393.html)
+
++ [宫崎英高承认自己也很菜：老头环里道具无所不用](https://www.3dmgame.com/news/202406/3898394.html)
+
++ [5v5 FPS游戏《Concord》实机演示 8月24日发售](https://www.3dmgame.com/news/202406/3898380.html)
+
++ [贝塞斯达蒙特利尔工作室正式申请加入工会](https://www.3dmgame.com/news/202406/3898384.html)
+
++ [纵向卷轴射击类街机游戏《Smoking Gun》Steam页面 今年发售](https://www.3dmgame.com/news/202406/3898386.html)
+
++ [今夏首部惊悚大片《寂静之地：入侵日》今日上映 来影院清凉一“吓”](https://www.3dmgame.com/news/202406/3898387.html)
+
++ [粉丝用虚幻5重制《潜行者》场景 阴森恐怖逼真难忘](https://www.3dmgame.com/news/202406/3898385.html)
+
++ [《仙剑2》新版官方小说发售 针对游戏原作补充剧情](https://www.3dmgame.com/news/202406/3898388.html)
+
++ [V社推出新榜单：最热门Steam Deck游戏排行](https://www.3dmgame.com/news/202406/3898389.html)
+
++ [《宝可梦：大集结》国际服新宝可梦“凤王” 7月21日上线](https://www.3dmgame.com/news/202406/3898390.html)
+
++ [《飙酷车神》在线MOD作者表示 要警惕厂商关闭老游戏服务器的趋势](https://www.3dmgame.com/news/202406/3898391.html)
+
