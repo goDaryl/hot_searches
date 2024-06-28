@@ -101,3 +101,37 @@
 
 + [Linux网络编程：套接字编程](https://blog.csdn.net/weixin_73234157/article/details/139325103)
 
++ [【AI落地应用实战】如何让扫描工具更会思考——智能高清滤镜2.0实战测评](https://blog.csdn.net/air__Heaven/article/details/140021905)
+
++ [elasticsearch去重：collapse、cardinality、terms+top_hits实现总结](https://blog.csdn.net/qq_26664043/article/details/139904112)
+
++ [告别模糊时代，扫描全能王带来清晰世界](https://blog.csdn.net/weixin_51390582/article/details/139470895)
+
++ [Google 深夜突袭，Gemma 2 狂卷 Llama 3](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/140032632)
+
++ [Vue组件生命周期深度剖析：从创建到销毁的八大钩子实战指南](https://blog.csdn.net/m0_48173416/article/details/139975222)
+
++ [基于星火大模型的群聊对话分角色要素提取挑战赛-Lora微调与prompt构造](https://blog.csdn.net/qq_44511981/article/details/140043813)
+
++ [【Python数据分析与可视化】：使用【Matplotlib】实现销售数据的全面分析 ——【Matplotlib】数模学习](https://blog.csdn.net/2303_77720864/article/details/140043738)
+
++ [第十九届全国大学生智能车各分赛区所需要的比赛系统器材](https://blog.csdn.net/zhuoqingjoking97298/article/details/140043222)
+
++ [使用QGIS进行研究区域制图实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/140025433)
+
++ [springboot + Vue前后端项目（第二十记）](https://blog.csdn.net/panpj0915/article/details/140023569)
+
++ [【vuejs】首次页面加载时触发那些声明周期钩子函数](https://blog.csdn.net/weixin_45046532/article/details/140036744)
+
++ [ONLYOFFICE8.1版本桌面编辑器测评](https://blog.csdn.net/u014727709/article/details/139982927)
+
++ [rk3568 OpenHarmony4.0 如何去除锁屏](https://blog.csdn.net/Devlin_/article/details/139996178)
+
++ [微服务+云原生：打造高效、灵活的分布式系统](https://blog.csdn.net/weixin_53269650/article/details/139922774)
+
++ [畅谈GPT-5](https://blog.csdn.net/2302_79376097/article/details/139986116)
+
++ [uniapp开发手机APP、H5网页、微信小程序、长列表插件](https://blog.csdn.net/qq_51076413/article/details/140012439)
+
++ [高考分数有限，专业与学校的抉择：你该怎么选？](https://blog.csdn.net/2301_79339087/article/details/140021278)
+
