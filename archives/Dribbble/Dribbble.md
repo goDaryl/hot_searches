@@ -49,3 +49,21 @@
 
 + [Illustration [ work in progress ]](https://dribbble.com/shots/)
 
++ [Accelerate ESG](https://dribbble.com/shots/)
+
++ [Summer Aesthetic Illustrations](https://dribbble.com/shots/)
+
++ [I know what you did last shandy](https://dribbble.com/shots/)
+
++ [Dave Matthews Band 2024 US Summer Tour Poster](https://dribbble.com/shots/)
+
++ [Blue Ribbon Beer Branding Design](https://dribbble.com/shots/)
+
++ [St. John the Beloved Signage Design](https://dribbble.com/shots/)
+
++ [Logo concept for "Nashe Mesto"](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [Minsk T-shirt Design](https://dribbble.com/shots/)
+
