@@ -59,3 +59,7 @@
 
 + [3299 元，小米 Civi 4 Pro 迪士尼公主限定版手机发布：复古化妆镜设计](https://m.ithome.com/html/778174.htm)
 
++ [华为 Pura 70 北斗卫星消息版手机采用麒麟 9010E 处理器](https://m.ithome.com/html/778427.htm)
+
++ [计划 2028 年前后发射，我国“嫦娥八号”已收到 30 余份国际合作申请](https://m.ithome.com/html/778201.htm)
+
