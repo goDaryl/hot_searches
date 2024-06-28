@@ -143,3 +143,29 @@
 
 + [《刺客信条：影》开发者遭到人身攻击后 育碧CEO：强烈谴责](https://www.3dmgame.com/news/202406/3898362.html)
 
++ [勇夺塔顶：加入限时“高塔突袭”开放体验版，体验《消逝的光芒2》的全新合作模式](https://www.3dmgame.com/news/202406/3898377.html)
+
++ [《英雄传说：界之轨迹》立绘截图 凯文卢法斯等人登场](https://www.3dmgame.com/news/202406/3898378.html)
+
++ [罗布乐思正在开发“4D生成式AI” 可增强交互](https://www.3dmgame.com/news/202406/3898379.html)
+
++ [NEOWIZ参与Steam夏促活动，《匹诺曹的谎言》6折新史低！](https://www.3dmgame.com/news/202406/3898381.html)
+
++ [《收获日3》第二章DLC“警钟长鸣”现已正式推出](https://www.3dmgame.com/news/202406/3898382.html)
+
++ [为英国女王伊丽莎白二世设计 镀金Wii将在科隆游戏展上首次公开展示](https://www.3dmgame.com/news/202406/3898383.html)
+
++ [《宿星的女朋友3》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3898370.html)
+
++ [任天堂回应股东提问：为什么系列游戏间隔这么久？](https://www.3dmgame.com/news/202406/3898371.html)
+
++ [亚马逊：3A级新《古墓丽影》游戏距离正式公布不远了](https://www.3dmgame.com/news/202406/3898372.html)
+
++ [《模拟人生4》新资料片“怦然心动”公布 7月25日发售](https://www.3dmgame.com/news/202406/3898373.html)
+
++ [任天堂宫本茂回应年龄焦虑：希望把接力棒传给更年轻的开发者](https://www.3dmgame.com/news/202406/3898374.html)
+
++ [开发商Prophecy为购买过《部落3：对抗》等游戏的玩家提供新游戏1:1消费积分](https://www.3dmgame.com/news/202406/3898375.html)
+
++ [开发商Gameloft再次大量裁员 多伦多工作室遭重](https://www.3dmgame.com/news/202406/3898376.html)
+
