@@ -63,3 +63,5 @@
 
 + [计划 2028 年前后发射，我国“嫦娥八号”已收到 30 余份国际合作申请](https://m.ithome.com/html/778201.htm)
 
++ [小米 14 / Pro / Ultra、Redmi K60 至尊版宣布开启澎湃 OS 正式版内测尝鲜](https://m.ithome.com/html/778440.htm)
+
