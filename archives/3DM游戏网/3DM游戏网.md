@@ -111,3 +111,5 @@
 
 + [赛博朋克银恶游戏《天空之尘》面向PC公布](https://www.3dmgame.com/news/202406/3898453.html)
 
++ [《艾尔登法环：黄金树幽影》Steam评价转为多半好评](https://www.3dmgame.com/news/202406/3898457.html)
+
