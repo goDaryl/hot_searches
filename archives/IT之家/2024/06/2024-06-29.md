@@ -63,3 +63,5 @@
 
 + [起诉杨永信的周齐，停在谷底](https://m.ithome.com/html/778520.htm)
 
++ [小米米家胶囊咖啡机 N1 上架：一键萃取、杯量记忆，首发 379 元](https://m.ithome.com/html/778517.htm)
+
