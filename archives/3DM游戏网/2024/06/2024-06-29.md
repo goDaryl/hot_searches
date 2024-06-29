@@ -151,3 +151,13 @@
 
 + [我国纯自研水陆两栖大飞机 载荷表明符合性试飞圆满完成](https://www.3dmgame.com/news/202406/3898474.html)
 
++ [《死神：勇敢的灵魂》Switch版确认7月11日发售](https://www.3dmgame.com/news/202406/3898481.html)
+
++ [因健康问题 马斯克脑机接口公司第二位受试者手术推迟](https://www.3dmgame.com/news/202406/3898477.html)
+
++ [《艾诺提亚：失落之歌》实体版公布 9月19日发售](https://www.3dmgame.com/news/202406/3898480.html)
+
++ [XSEED将在2024年Anime Expo上公开一款神秘新作](https://www.3dmgame.com/news/202406/3898479.html)
+
++ [电影《死侍3》发布新预告 7月26日发售](https://www.3dmgame.com/news/202406/3898478.html)
+
