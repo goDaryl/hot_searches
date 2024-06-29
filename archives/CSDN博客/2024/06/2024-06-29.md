@@ -205,3 +205,7 @@
 
 + [YOLO 在OPENCV QT上如何使用？](https://blog.csdn.net/eydj2008/article/details/140033103)
 
++ [卷积神经网络](https://blog.csdn.net/2302_76516899/article/details/140053828)
+
++ [计算机网络知识整理笔记](https://blog.csdn.net/weixin_44187963/article/details/140046322)
+
