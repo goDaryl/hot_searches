@@ -111,3 +111,7 @@
 
 + [Glasp: Seamless Key Highlights to Notion](https://www.producthunt.com/posts/glasp-seamless-key-highlights-to-notion)
 
++ [Study with GPT](https://www.producthunt.com/posts/study-with-gpt)
+
++ [ChatScreen: Sider 2.0 for iOS](https://www.producthunt.com/posts/chatscreen-sider-2-0-for-ios)
+
