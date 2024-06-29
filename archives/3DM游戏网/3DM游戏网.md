@@ -139,3 +139,15 @@
 
 + [《无限暖暖》GI实机公布 第三季度PS5测试](https://www.3dmgame.com/news/202406/3898465.html)
 
++ [99年原版《生化危机2》确定将登陆GOG平台发售](https://www.3dmgame.com/news/202406/3898475.html)
+
++ [《往日不再》大概不会有续作 开发者劝粉丝“向前看”](https://www.3dmgame.com/news/202406/3898476.html)
+
++ [历史文件曝光大金刚潜在命名 差点改名叫Kong Dong](https://www.3dmgame.com/news/202406/3898471.html)
+
++ [《完蛋！我被美女包围了！》移动端pv 第三季度上线](https://www.3dmgame.com/news/202406/3898472.html)
+
++ [《沙丘3》或于2026年上映 “怪兽宇宙”新片定档2027](https://www.3dmgame.com/news/202406/3898473.html)
+
++ [我国纯自研水陆两栖大飞机 载荷表明符合性试飞圆满完成](https://www.3dmgame.com/news/202406/3898474.html)
+

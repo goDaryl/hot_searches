@@ -147,3 +147,7 @@
 
 + [GPT-5的即将登场](https://blog.csdn.net/2401_85655948/article/details/139985867)
 
++ [【专业英语 背诵】3](https://blog.csdn.net/m0_69194031/article/details/140052492)
+
++ [如何知道docker谁占用的显卡的显存？](https://blog.csdn.net/x1131230123/article/details/140048874)
+
