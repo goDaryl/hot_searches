@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | 近3亿人安装了危险的Chrome扩展；MOVEit又曝出高危漏洞](https://www.freebuf.com/news/404764.html)
 
++ [攻击者建立虚假奥运会票务网站进行钓鱼](https://www.freebuf.com/articles/network/404003.html)
+
