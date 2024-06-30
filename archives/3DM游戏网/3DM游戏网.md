@@ -169,3 +169,7 @@
 
 + [《妖精的尾巴：百年任务》最新剧照公开 7月7日开播](https://www.3dmgame.com/news/202406/3898545.html)
 
++ [Netflix同性爱情日剧《灵魂伴侣》曝光首张剧照](https://www.3dmgame.com/news/202406/3898546.html)
+
++ [《死亡回归》开发商打造3A动作游戏 使用虚幻引擎](https://www.3dmgame.com/news/202406/3898547.html)
+

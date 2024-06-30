@@ -179,3 +179,9 @@
 
 + [docker-mysql主从复制](https://blog.csdn.net/weixin_46466657/article/details/140064721)
 
++ [【深度学习】扫描全能王的AI驱动创新与智能高清滤镜技术解析](https://blog.csdn.net/s445320/article/details/140080340)
+
++ [【机器学习】在【Pycharm】中的应用：【线性回归模型】进行【房价预测】](https://blog.csdn.net/2303_77720864/article/details/140055251)
+
++ [在本地windows中利用wsl2部署docker应用](https://blog.csdn.net/m0_62177801/article/details/140082679)
+
