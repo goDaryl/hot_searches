@@ -141,3 +141,5 @@
 
 + [《Sprout Valley》PC版免费发布 猫咪岛屿生活模拟](https://www.3dmgame.com/news/202406/3898531.html)
 
++ [博物馆展览展出《荒野大镖客2》未曾公开的概念图](https://www.3dmgame.com/news/202406/3898532.html)
+
