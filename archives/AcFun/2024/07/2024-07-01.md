@@ -69,3 +69,5 @@
 
 + [【付小远】久违的韩语Cover～《星期五见面》IU/吉他弹唱](http://www.acfun.cn/v/ac44947094)
 
++ [我也给新番配音了](http://www.acfun.cn/v/ac44947283)
+
