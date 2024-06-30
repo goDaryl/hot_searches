@@ -101,3 +101,11 @@
 
 + [《海贼王》真人剧第二季 斯摩格、达斯琪演员公开](https://www.3dmgame.com/news/202406/3898461.html)
 
++ [银河恶魔城游戏《MARS 2120》正式版8/1推出](https://www.3dmgame.com/news/202406/3898512.html)
+
++ [Key社视觉小说《Summer Pockets》改编动画公布](https://www.3dmgame.com/news/202406/3898513.html)
+
++ [回合制动作元素游戏《岚外传》面向PC公布](https://www.3dmgame.com/news/202406/3898514.html)
+
++ [AMD Zen5锐龙AI 300笔记本推迟两周上市](https://www.3dmgame.com/news/202406/3898515.html)
+

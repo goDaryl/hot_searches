@@ -41,3 +41,5 @@
 
 + [LockBit造谣，美联储数据并未遭窃](https://www.freebuf.com/news/404624.html)
 
++ [供应链投毒预警 | utilitytool系列Py包开展XenoRAT远控木马投毒](https://www.freebuf.com/news/404197.html)
+

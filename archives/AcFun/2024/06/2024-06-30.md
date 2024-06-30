@@ -71,3 +71,7 @@
 
 + [【严查战犯】hjm四人坐牢实录](http://www.acfun.cn/v/ac44941955)
 
++ [测速+RGB，T238实现了我多年前的设想](http://www.acfun.cn/v/ac44942019)
+
++ [如果艾尔登法环是像素独立游戏](http://www.acfun.cn/v/ac44937052)
+
