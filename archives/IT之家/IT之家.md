@@ -31,3 +31,5 @@
 
 + [男子 9.8 万元购 AI 数字人直播，频繁被平台封禁引热议](https://m.ithome.com/html/778608.htm)
 
++ [夏普推出 5.7 英寸 LCD 小屏手机 Simple Sumaho 7：搭载高通骁龙 695](https://m.ithome.com/html/778624.htm)
+

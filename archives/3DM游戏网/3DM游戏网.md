@@ -109,3 +109,13 @@
 
 + [AMD Zen5锐龙AI 300笔记本推迟两周上市](https://www.3dmgame.com/news/202406/3898515.html)
 
++ [《迷央十丁目》登陆Steam 类八番出口惊悚解谜](https://www.3dmgame.com/news/202406/3898517.html)
+
++ [《绝地潜兵2》Steam玩家流失90% 当前在线3.3万](https://www.3dmgame.com/news/202406/3898518.html)
+
++ [《Concord》将会提供商城道具 但仅限装饰性物品](https://www.3dmgame.com/news/202406/3898519.html)
+
++ [实体光盘需求下降 索尼日本制造部门裁员250人](https://www.3dmgame.com/news/202406/3898520.html)
+
++ [《守望先锋》高级角色美术Ying Liu离开暴雪](https://www.3dmgame.com/news/202406/3898516.html)
+
