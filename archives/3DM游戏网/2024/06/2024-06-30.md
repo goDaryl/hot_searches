@@ -177,3 +177,9 @@
 
 + [托比·马奎尔迎来49岁生日 晒出自己两个孩子](https://www.3dmgame.com/news/202406/3898548.html)
 
++ [台积电今明两年将接收超60台EUV光刻机 投入超过123亿美元](https://www.3dmgame.com/news/202406/3898552.html)
+
++ [「黑暗嘉年华」及人气角色正式上线！首月玩家排行榜上的擂主会是谁呢？](https://www.3dmgame.com/news/202406/3898551.html)
+
++ [SIE这项专利可让游戏主播狂喜 可根据游玩生成迷你游戏](https://www.3dmgame.com/news/202406/3898550.html)
+

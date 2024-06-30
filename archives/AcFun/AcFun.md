@@ -141,3 +141,5 @@
 
 + [boogie up](http://www.acfun.cn/v/ac44943788)
 
++ [《心灵猎人》第10期：艾德·坎伯的召唤，深渊的凝视【墨菲】](http://www.acfun.cn/v/ac44946302)
+
