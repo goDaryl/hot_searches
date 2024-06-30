@@ -139,3 +139,5 @@
 
 + [羁绊爱时隔2年重新活动 Me in the dream发布](https://www.3dmgame.com/news/202406/3898526.html)
 
++ [《Sprout Valley》PC版免费发布 猫咪岛屿生活模拟](https://www.3dmgame.com/news/202406/3898531.html)
+
