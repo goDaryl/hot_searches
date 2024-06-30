@@ -165,3 +165,11 @@
 
 + [鸿蒙系统——强大的分布式系统](https://blog.csdn.net/m0_68038853/article/details/140059040)
 
++ [机器学习引领教育革命：智能教育的新时代](https://blog.csdn.net/EterNity_TiMe_/article/details/140001932)
+
++ [【机器学习案列分析】逻辑回归预测银行客户是否会开设定期存款账户](https://blog.csdn.net/qq_38614074/article/details/136841656)
+
++ [【Spring Boot】认识 JPA 的接口](https://blog.csdn.net/be_racle/article/details/140078199)
+
++ [湖科大《软件工程》考点总结2024](https://blog.csdn.net/m0_75240394/article/details/139962981)
+

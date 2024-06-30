@@ -167,3 +167,5 @@
 
 + [微软谷歌等八巨头联合对抗NVIDIA 三星也欲加入](https://www.3dmgame.com/news/202406/3898542.html)
 
++ [《妖精的尾巴：百年任务》最新剧照公开 7月7日开播](https://www.3dmgame.com/news/202406/3898545.html)
+
