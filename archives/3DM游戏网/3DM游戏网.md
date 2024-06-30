@@ -173,3 +173,7 @@
 
 + [《死亡回归》开发商打造3A动作游戏 使用虚幻引擎](https://www.3dmgame.com/news/202406/3898547.html)
 
++ [欧盟加大对AI巨头审查 OpenAI、微软与谷歌在列](https://www.3dmgame.com/news/202406/3898549.html)
+
++ [托比·马奎尔迎来49岁生日 晒出自己两个孩子](https://www.3dmgame.com/news/202406/3898548.html)
+
