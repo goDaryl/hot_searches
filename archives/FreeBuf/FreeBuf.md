@@ -45,3 +45,7 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/404778.html)
 
++ [代码审计 | 你一定会审的java系统](https://www.freebuf.com/articles/web/393271.html)
+
++ [pgAdmin后台命令执行漏洞（CVE-2023-5002）](https://www.freebuf.com/vuls/404237.html)
+
