@@ -43,3 +43,5 @@
 
 + [新勒索软件 Shinra 与 Limpopo 浮出水面](https://www.freebuf.com/articles/network/404049.html)
 
++ [FreeBuf早报 | 5G 连接存在漏洞；美国拟投资3.6亿元研发医疗设备漏洞管理方案](https://www.freebuf.com/news/404717.html)
+
