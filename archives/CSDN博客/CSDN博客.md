@@ -173,3 +173,9 @@
 
 + [基于springboot+vue+uniapp的语言课学习系统小程序](https://blog.csdn.net/shmp54/article/details/140086672)
 
++ [DeepMind的新论文，长上下文的大语言模型能否取代RAG或者SQL这样的传统技术呢?](https://blog.csdn.net/m0_46510245/article/details/140093674)
+
++ [nuxt3搭建和部署](https://blog.csdn.net/dan_seek/article/details/140079231)
+
++ [大家都在跳槽，我需要跳槽吗？](https://blog.csdn.net/cao1315020626/article/details/140083474)
+

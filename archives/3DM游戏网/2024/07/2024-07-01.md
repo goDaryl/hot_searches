@@ -187,3 +187,9 @@
 
 + [董明珠怼小米空调销量第一：全靠代工 没有技术](https://www.3dmgame.com/news/202407/3898588.html)
 
++ [《宣誓》同伴会对故事战斗和道德决策产生重要影响](https://www.3dmgame.com/news/202407/3898600.html)
+
++ [索尼承认可录制蓝光光碟即将停产 技术也没打算转让](https://www.3dmgame.com/news/202407/3898599.html)
+
++ [专家称清华北大可能正在制造蠢才：不应该把文凭等同于人才](https://www.3dmgame.com/news/202407/3898598.html)
+
