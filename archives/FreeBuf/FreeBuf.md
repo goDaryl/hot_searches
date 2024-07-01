@@ -41,3 +41,5 @@
 
 + [TeamViewer 遭遇黑客攻击，企业网络被攻破](https://www.freebuf.com/news/404728.html)
 
++ [新勒索软件 Shinra 与 Limpopo 浮出水面](https://www.freebuf.com/articles/network/404049.html)
+
