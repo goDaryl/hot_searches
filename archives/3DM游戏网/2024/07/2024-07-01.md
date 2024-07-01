@@ -167,3 +167,23 @@
 
 + [龙芯3A6000首次杀入美国市场 12种配置2710元起](https://www.3dmgame.com/news/202407/3898584.html)
 
++ [皮克斯电影《头脑特工队2》大获成功 全球票房突破10亿美元](https://www.3dmgame.com/news/202407/3898597.html)
+
++ [任天堂回应Switch2如何应对黄牛倒卖 确保产量足够](https://www.3dmgame.com/news/202407/3898595.html)
+
++ [热门漫画改编同名动画《怪兽8号》第二季制作宣传预告放出](https://www.3dmgame.com/news/202407/3898596.html)
+
++ [金亨泰承认《星刃》剧情质量存在遗憾 将在续作中改进](https://www.3dmgame.com/news/202407/3898594.html)
+
++ [塔防轻肉鸽游戏《余烬守卫》现已在Steam平台抢先体验推出 已获特别好评](https://www.3dmgame.com/news/202407/3898593.html)
+
++ [MOD作者发现《巫师3》隐藏剧情线 来自叶奈法的背叛](https://www.3dmgame.com/news/202407/3898592.html)
+
++ [《极限竞速：地平线5》夏日音乐特辑：与音乐同行的竞速之旅！](https://www.3dmgame.com/news/202407/3898591.html)
+
++ [《街霸6》联动《pop子》 经典台词印章背景登场](https://www.3dmgame.com/news/202407/3898590.html)
+
++ [Steam同时在线玩家数量再破记录 超3692万人同时在线](https://www.3dmgame.com/news/202407/3898589.html)
+
++ [董明珠怼小米空调销量第一：全靠代工 没有技术](https://www.3dmgame.com/news/202407/3898588.html)
+

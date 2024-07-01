@@ -159,3 +159,17 @@
 
 + [静态时序分析：ideal_clock、propagated_clock以及generated_clock的关系及其延迟计算规则（二）](https://blog.csdn.net/weixin_45791458/article/details/140070290)
 
++ [基于SpringBoot+数据可视化+协同过滤算法的非遗推荐系统设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/140092304)
+
++ [【Linux】部署NFS服务实现数据共享](https://blog.csdn.net/liu_chen_yang/article/details/138860283)
+
++ [【Elasticsearch】Elasticsearch索引创建与管理详解](https://blog.csdn.net/a1657054242/article/details/140093634)
+
++ [GaussDB关键技术原理：高性能（三）](https://blog.csdn.net/GaussDB/article/details/139861036)
+
++ [【python爬虫】豆瓣爬虫学习](https://blog.csdn.net/LongL_GuYu/article/details/140072604)
+
++ [【C++笔记整理—第1期】](https://blog.csdn.net/weixin_45697036/article/details/140077301)
+
++ [基于springboot+vue+uniapp的语言课学习系统小程序](https://blog.csdn.net/shmp54/article/details/140086672)
+
