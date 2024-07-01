@@ -101,3 +101,7 @@
 
 + [科幻生存游戏《多重人生》42分钟游戏实机](https://www.3dmgame.com/news/202407/3898568.html)
 
++ [外媒：觉得《黄金树幽影》太难 《悟空》可能不适合你](https://www.3dmgame.com/news/202407/3898620.html)
+
++ [地牢RPG《塔京》年内推出 首次推出中文](https://www.3dmgame.com/news/202407/3898619.html)
+
