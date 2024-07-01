@@ -217,3 +217,9 @@
 
 + [《战意》即将登陆腾讯WeGame平台 7月10日开启抢号不删档测试](https://www.3dmgame.com/news/202407/3898612.html)
 
++ [《海贼王》第二季发“制作开始”宣传片 五大主角回归](https://www.3dmgame.com/news/202407/3898615.html)
+
++ [《黑神话：悟空》没有任何难度选项 只有默认统一难度](https://www.3dmgame.com/news/202407/3898614.html)
+
++ [《异形》女星西格妮·韦弗 获威尼斯终身成就奖](https://www.3dmgame.com/news/202407/3898613.html)
+
