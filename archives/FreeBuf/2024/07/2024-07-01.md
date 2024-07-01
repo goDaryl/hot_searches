@@ -59,3 +59,5 @@
 
 + [攻防演练中的IPv6（上）针对IPv6的扫描与攻击](https://www.freebuf.com/defense/378522.html)
 
++ [Kimsuky 组织利用 TRANSLATEXT Chrome 扩展程序窃取敏感数据信息](https://www.freebuf.com/news/404872.html)
+
