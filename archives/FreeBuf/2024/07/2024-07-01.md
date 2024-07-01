@@ -49,3 +49,5 @@
 
 + [深度好文 | 从零开始构建大模型安全测试基准](https://www.freebuf.com/articles/es/404287.html)
 
++ [GitLab 曝一严重漏洞，威胁软件开发管道](https://www.freebuf.com/news/404873.html)
+

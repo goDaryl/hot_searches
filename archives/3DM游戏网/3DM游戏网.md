@@ -149,3 +149,13 @@
 
 + [《怪物猎人：荒野》新视频 介绍新舞台“封禁之地”](https://www.3dmgame.com/news/202407/3898573.html)
 
++ [《天穗之咲稻姬》动画公布第一话预览内容 7月6日开播](https://www.3dmgame.com/news/202407/3898583.html)
+
++ [回合制犯罪策略游戏《一网打尽》现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202407/3898582.html)
+
++ [世嘉为《疯狂出租车》新作招募开发者 经典名作开发中](https://www.3dmgame.com/news/202407/3898581.html)
+
++ [度假社开工 Valve偷摸封禁《军团要塞2》作弊机器人账户](https://www.3dmgame.com/news/202407/3898580.html)
+
++ [《幻兽帕鲁》社区经理提醒粉丝：不要在意游戏玩家数量争议](https://www.3dmgame.com/news/202407/3898579.html)
+

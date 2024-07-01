@@ -133,3 +133,19 @@
 
 + [C++(Python)肥皂泡沫普拉托边界膜曲面模型算法](https://blog.csdn.net/jiyotin/article/details/140087268)
 
++ [【愚公系列】《短视频生成与剪辑实战》005-使用 Midjourney 进行 Al 绘图](https://blog.csdn.net/aa2528877987/article/details/140086775)
+
++ [GPU算力是什么，哪些行业需要用到GPU算力？](https://blog.csdn.net/weixin_42994439/article/details/140047024)
+
++ [MySQL 高级SQL高级语句（二）](https://blog.csdn.net/lxplxplike/article/details/139851114)
+
++ [Mysql的主从复制和读写分离](https://blog.csdn.net/qqyqqyqqyqqy1/article/details/140061208)
+
++ [机器之心：自动化与机器人技术详解](https://blog.csdn.net/2303_80856850/article/details/140090887)
+
++ [竞赛选题 python的搜索引擎系统设计与实现](https://blog.csdn.net/m0_43533/article/details/140060257)
+
++ [低代码表单配置平台替代普通表单配置平台，前端部分重构的设计和思路](https://blog.csdn.net/EasonMu/article/details/140084588)
+
++ [鸿蒙NEXT](https://blog.csdn.net/2301_81771576/article/details/140060247)
+
