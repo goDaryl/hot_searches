@@ -201,3 +201,7 @@
 
 + [迪士尼《白雪公主》真人电影终于拍完 黑雪公主自豪](https://www.3dmgame.com/news/202407/3898601.html)
 
++ [《尘埃之谜》Steam抢先体验 美少女塔防RPG](https://www.3dmgame.com/news/202407/3898606.html)
+
++ [卡普空收购动画工作室迷你马 曾参与《龙之信条2》制作](https://www.3dmgame.com/news/202407/3898605.html)
+
