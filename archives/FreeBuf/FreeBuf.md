@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 5G 连接存在漏洞；美国拟投资3.6亿元研发医疗设备漏洞管理方案](https://www.freebuf.com/news/404717.html)
 
++ [谷歌拟允许独立 Web应用访问敏感的USB设备](https://www.freebuf.com/news/404867.html)
+
++ [深度好文 | 从零开始构建大模型安全测试基准](https://www.freebuf.com/articles/es/404287.html)
+
