@@ -29,3 +29,7 @@
 
 + [“爱奇艺限制投屏案”一审落槌，原告获 41 天黄金会员 VIP 时长补偿](https://m.ithome.com/html/778986.htm)
 
++ [小米米家运动杯 1L 上架：支持一键弹盖、独立茶仓，众筹价 79 元](https://m.ithome.com/html/778981.htm)
+
++ [2025 款极氪 X 紧凑型 SUV 上市，限时权益价 17.9 万元起](https://m.ithome.com/html/778958.htm)
+

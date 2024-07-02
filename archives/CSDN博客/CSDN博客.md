@@ -135,3 +135,11 @@
 
 + [GPT-4o文科成绩超一本线，理科为何表现不佳？](https://blog.csdn.net/ElevenSakura/article/details/140111964)
 
++ [【Spring】异步请求知识点与使用姿势小结](https://blog.csdn.net/qq_21383435/article/details/130375971)
+
++ [数学建模比赛介绍与写作建议](https://blog.csdn.net/qq_41938259/article/details/140080702)
+
++ [微服务中的Docker详细学习](https://blog.csdn.net/qq_54429126/article/details/140085742)
+
++ [PDF加密文件怎么加密？电脑文件加密只需这五个工具](https://blog.csdn.net/Susu_afmx/article/details/139997810)
+

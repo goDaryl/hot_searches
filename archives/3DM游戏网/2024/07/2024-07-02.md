@@ -125,3 +125,17 @@
 
 + [融合剑舞与战略玩法《祇：女神之道》发布试玩版](https://www.3dmgame.com/news/202407/3898625.html)
 
++ [免费动作游戏《猎人竞技场：革命》公布 7月18日开启CBT测试](https://www.3dmgame.com/news/202407/3898638.html)
+
++ [汽车节目《Top Gear》意外曝光车载Xbox主界面 微软予以否认](https://www.3dmgame.com/news/202407/3898636.html)
+
++ [《幽暗洞穴》登陆Steam 肉鸽卡牌构筑回合战斗](https://www.3dmgame.com/news/202407/3898634.html)
+
++ [世纪之谜解开？DF解释为啥PS5玩游戏经常比XSX更快](https://www.3dmgame.com/news/202407/3898635.html)
+
++ [《生化危机7》iOS版发售预告 有自动射击功能](https://www.3dmgame.com/news/202407/3898633.html)
+
++ [《地狱男爵：弯曲之人》电影发布首支预告片](https://www.3dmgame.com/news/202407/3898632.html)
+
++ [《龙腾世纪：影障守护者》有多种难度选项 还能定制难度](https://www.3dmgame.com/news/202407/3898631.html)
+
