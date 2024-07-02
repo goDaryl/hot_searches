@@ -271,3 +271,11 @@
 
 + [以色列AR笔记本电脑开发商裁员三分之一](https://www.3dmgame.com/news/202407/3898703.html)
 
++ [Xbox Game Pass 7月上旬新增游戏公布](https://www.3dmgame.com/news/202407/3898707.html)
+
++ [太空城市建造游戏《伊克西翁》将登陆PS5和Xbox Series](https://www.3dmgame.com/news/202407/3898706.html)
+
++ [恐怖游戏《寂静之地：前方之路》首个故事宣传片](https://www.3dmgame.com/news/202407/3898705.html)
+
++ [《丧尸围城》原版男主配音演员：Capcom没邀请我回归](https://www.3dmgame.com/news/202407/3898704.html)
+
