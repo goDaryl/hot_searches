@@ -279,3 +279,5 @@
 
 + [《丧尸围城》原版男主配音演员：Capcom没邀请我回归](https://www.3dmgame.com/news/202407/3898704.html)
 
++ [《绝区零》登顶99国免费游戏榜 7月4日公测](https://www.3dmgame.com/news/202407/3898708.html)
+
