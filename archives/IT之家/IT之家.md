@@ -61,3 +61,5 @@
 
 + [华为京东自营百亿补贴：华为 Mate 60 Pro+ 手机 7218 元官方新低](https://m.ithome.com/html/779179.htm)
 
++ [合资降价模式：上汽通用别克威朗 Pro 轿车“五折腰斩”售 6.88 万元起](https://m.ithome.com/html/779061.htm)
+
