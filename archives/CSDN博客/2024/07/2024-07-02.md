@@ -177,3 +177,5 @@
 
 + [硬件开发笔记（二十三）：贴片电阻的类别、封装介绍，AD21导入贴片电阻原理图封装库3D模型](https://blog.csdn.net/qq21497936/article/details/140110514)
 
++ [MySQL之高可用性和应用层优化(一)](https://blog.csdn.net/Cover_sky/article/details/140111699)
+
