@@ -35,3 +35,7 @@
 
 + [7 岁中国小女孩报告特斯拉汽车 BUG，马斯克明确回应会修复](https://m.ithome.com/html/779007.htm)
 
++ [消息称苹果 iPhone 16 Pro / Pro Max 将采用三星 M14 OLED 面板，谷歌 Pixel 9 也会用](https://m.ithome.com/html/778883.htm)
+
++ [小米 Redmi K80 / Pro 手机现身 IMEI 数据库，有望采用 2K 纯直屏](https://m.ithome.com/html/778906.htm)
+
