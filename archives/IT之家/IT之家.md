@@ -59,3 +59,5 @@
 
 + [小米 x 联发科联合实验室今日揭牌，首款全新合作机型 Redmi K70 至尊版支持原 / 铁超帧超分并发](https://m.ithome.com/html/779096.htm)
 
++ [华为京东自营百亿补贴：华为 Mate 60 Pro+ 手机 7218 元官方新低](https://m.ithome.com/html/779179.htm)
+
