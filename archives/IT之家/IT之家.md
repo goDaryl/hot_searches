@@ -39,3 +39,9 @@
 
 + [小米 Redmi K80 / Pro 手机现身 IMEI 数据库，有望采用 2K 纯直屏](https://m.ithome.com/html/778906.htm)
 
++ [苹果将 iPhone X、HomePod 和初代 AirPods 列为“过时产品”](https://m.ithome.com/html/778990.htm)
+
++ [“不涨薪，不上班”，全三工会发起三星成立 55 年来首次总罢工](https://m.ithome.com/html/779003.htm)
+
++ [京东 PLUS 综合分体系明天 11 点下线，现有会员服务 / 权益不受影响](https://m.ithome.com/html/779016.htm)
+
