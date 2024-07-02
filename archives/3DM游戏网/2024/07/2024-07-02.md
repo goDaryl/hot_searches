@@ -263,3 +263,5 @@
 
 + [微信iOS 8.0.50正式版发布 视频支持倍速播放了](https://www.3dmgame.com/news/202407/3898693.html)
 
++ [NEXON团队刷宝射击游戏“第一后裔”今日全球发售](https://www.3dmgame.com/news/202407/3898700.html)
+

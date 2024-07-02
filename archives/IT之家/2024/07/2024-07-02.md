@@ -57,3 +57,5 @@
 
 + [爆料称 iQOO Neo9S Pro+ 手机提档至 7 月 11 日发布：骁龙 8 Gen 3、超声波指纹](https://m.ithome.com/html/778980.htm)
 
++ [小米 x 联发科联合实验室今日揭牌，首款全新合作机型 Redmi K70 至尊版支持原 / 铁超帧超分并发](https://m.ithome.com/html/779096.htm)
+
