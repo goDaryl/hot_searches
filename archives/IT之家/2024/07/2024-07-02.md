@@ -51,3 +51,9 @@
 
 + [比亚迪 6 月新能源车销量 34.17 万辆，同比增长 35.02%](https://m.ithome.com/html/778944.htm)
 
++ [小米米家电饭煲 N1 3L 上市：6 层黑晶复合内胆、28 分钟快速煮饭，售价 159 元](https://m.ithome.com/html/778984.htm)
+
++ [14.98 万元起，一汽大众高尔夫 50 年传奇版车型上市：搭载 1.4T 发动机](https://m.ithome.com/html/779069.htm)
+
++ [爆料称 iQOO Neo9S Pro+ 手机提档至 7 月 11 日发布：骁龙 8 Gen 3、超声波指纹](https://m.ithome.com/html/778980.htm)
+
