@@ -115,3 +115,23 @@
 
 + [计算机网络八股文](https://blog.csdn.net/qq_45276167/article/details/137485321)
 
++ [【机器学习】FFmpeg+Whisper：二阶段法视频理解（video-to-text）大模型实战](https://blog.csdn.net/weixin_48007632/article/details/140106912)
+
++ [AI音乐革命：创新的门槛降低与产业未来的挑战](https://blog.csdn.net/u014727709/article/details/140092594)
+
++ [【MySQL】用户管理](https://blog.csdn.net/fight_p/article/details/139508138)
+
++ [Elasticsearch：Painless scripting 语言（二）](https://blog.csdn.net/UbuntuTouch/article/details/140100046)
+
++ [第二十站：Java未来光谱——量子计算与新兴技术的展望（第二篇）](https://blog.csdn.net/hummhumm/article/details/140062384)
+
++ [微服务-网关Gateway](https://blog.csdn.net/qq_54429126/article/details/140064099)
+
++ [阿里云服务器数据库迁云: 数据从传统到云端的安全之旅（WordPress个人博客实战教学）](https://blog.csdn.net/qq_57761637/article/details/139940280)
+
++ [算法学习路线总结: 算法工程师的修炼手册](https://blog.csdn.net/qq_26664043/article/details/140073461)
+
++ [改机软件有哪些？实现一键新机、改串号、改IMEI和手机参数的需求 硬改手机软件，新机环境模拟 设备伪装，一键改机，一键复原](https://blog.csdn.net/z920981023/article/details/140064792)
+
++ [GPT-4o文科成绩超一本线，理科为何表现不佳？](https://blog.csdn.net/ElevenSakura/article/details/140111964)
+

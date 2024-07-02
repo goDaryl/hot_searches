@@ -113,3 +113,15 @@
 
 + [《黑神话：悟空》7分钟高清实机视频分享](https://www.3dmgame.com/news/202407/3898621.html)
 
++ [《丧尸围城：豪华复刻版》上架Steam预购开启 采用D加密技术](https://www.3dmgame.com/news/202407/3898630.html)
+
++ [CAPCOM确认正在开发全新《生化危机》游戏](https://www.3dmgame.com/news/202407/3898629.html)
+
++ [《合金装备》电影版仍在开发中 制作方承诺为粉丝带来惊喜](https://www.3dmgame.com/news/202407/3898628.html)
+
++ [官方庆祝《恐龙危机》25周年引发玩家强烈呼吁](https://www.3dmgame.com/news/202407/3898627.html)
+
++ [经典丧尸游戏《丧尸围城：豪华复刻版》开启预售](https://www.3dmgame.com/news/202407/3898626.html)
+
++ [融合剑舞与战略玩法《祇：女神之道》发布试玩版](https://www.3dmgame.com/news/202407/3898625.html)
+
