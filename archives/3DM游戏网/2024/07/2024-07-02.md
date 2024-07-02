@@ -139,3 +139,21 @@
 
 + [《龙腾世纪：影障守护者》有多种难度选项 还能定制难度](https://www.3dmgame.com/news/202407/3898631.html)
 
++ [《光环》新作疑似开发中 前Bungie十年老将领衔制作](https://www.3dmgame.com/news/202407/3898639.html)
+
++ [《夜勤人》团队策略建造塔防新作《灾厄堡垒》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898640.html)
+
++ [SteamDeck 6月20款最受欢迎游戏 《艾尔登法环》榜单第一](https://www.3dmgame.com/news/202407/3898641.html)
+
++ [《真人快打1》比赛冠军太兴奋 弄坏现场设备奖金全赔](https://www.3dmgame.com/news/202407/3898642.html)
+
++ [《使命召唤》或即将与《死侍和金刚狼》电影联动](https://www.3dmgame.com/news/202407/3898637.html)
+
++ [《祇：女神之道》新截图 PC配置需求公布！采用D加密](https://www.3dmgame.com/news/202407/3898643.html)
+
++ [《怪奇物语》女星：第五季每集都很长 相当于拍了8部电影](https://www.3dmgame.com/news/202407/3898644.html)
+
++ [逆弹幕射击游戏《Seed of Heroes》Steam页面 2024年9月发售](https://www.3dmgame.com/news/202407/3898645.html)
+
++ [《金田一少年事件簿》金田一声优因病去世 享年56岁](https://www.3dmgame.com/news/202407/3898646.html)
+
