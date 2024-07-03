@@ -247,3 +247,7 @@
 
 + [据报道苹果高管菲利普·席勒将加入OpenAI董事会](https://www.3dmgame.com/news/202407/3898778.html)
 
++ [扎克伯格反感闭源AI：不应私藏 要把工具交到更多人手中](https://www.3dmgame.com/news/202407/3898784.html)
+
++ [不能落后中美！印度：我们要很快实现载人登陆月球](https://www.3dmgame.com/news/202407/3898785.html)
+

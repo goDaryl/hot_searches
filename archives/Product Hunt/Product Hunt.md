@@ -131,3 +131,13 @@
 
 + [Bashnode](https://www.producthunt.com/posts/bashnode)
 
++ [Birdesk](https://www.producthunt.com/posts/birdesk)
+
++ [Little One](https://www.producthunt.com/posts/little-one)
+
++ [Design Foundations](https://www.producthunt.com/posts/design-foundations)
+
++ [Slack community sites by Hall](https://www.producthunt.com/posts/slack-community-sites-by-hall)
+
++ [OWOX SQL Copilot](https://www.producthunt.com/posts/owox-sql-copilot)
+
