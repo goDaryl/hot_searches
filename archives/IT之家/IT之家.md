@@ -41,3 +41,5 @@
 
 + [小米 MIX Fold 4 折叠屏手机背面渲染图曝光](https://m.ithome.com/html/779259.htm)
 
++ [理想汽车增程器“跳舞”，官方复现并回应：被刷机改动](https://m.ithome.com/html/779279.htm)
+

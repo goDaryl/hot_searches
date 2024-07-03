@@ -215,3 +215,15 @@
 
 + [亨利·卡维尔主演的新版《高地人》导演透露 动作场面将从《疾速追杀》中获得启发](https://www.3dmgame.com/news/202407/3898763.html)
 
++ [比尔・盖茨展望“AI智能体”：能提供心理治疗服务](https://www.3dmgame.com/news/202407/3898773.html)
+
++ [《空洞骑士》启发 独立类银河恶魔城成功众筹4万美元](https://www.3dmgame.com/news/202407/3898772.html)
+
++ [《艾尔登法环》血源Mod推出：将间隙之地变亚楠](https://www.3dmgame.com/news/202407/3898768.html)
+
++ [取代索尼！曝iPhone 16将配备三星4800万主摄](https://www.3dmgame.com/news/202407/3898771.html)
+
++ [集英社游戏7月17日举行直播活动 公布新游计划](https://www.3dmgame.com/news/202407/3898770.html)
+
++ [感恩回馈！《三国群英传》单机系列现金返利，8代史低折扣](https://www.3dmgame.com/news/202407/3898769.html)
+
