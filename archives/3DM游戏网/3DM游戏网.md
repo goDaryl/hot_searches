@@ -167,3 +167,17 @@
 
 + [电影质感 当《星球大战绝地：幸存者》打上多个MOD](https://www.3dmgame.com/news/202407/3898729.html)
 
++ [《生化危机9》导演愿景：要把玩家吓得魂不附体 屁滚尿流](https://www.3dmgame.com/news/202407/3898749.html)
+
++ [谷歌碳排放量因AI能源需求激增近50% 零排放目标遇阻](https://www.3dmgame.com/news/202407/3898750.html)
+
++ [《燕云十六声》墨门遗孤容鸢介绍 武侠与科技结合](https://www.3dmgame.com/news/202407/3898744.html)
+
++ [万代推出全新设计电子宠物机 三款新生物饲育](https://www.3dmgame.com/news/202407/3898745.html)
+
++ [《北海道连续杀人事件 消失在鄂霍次克》Steam页面 9月12日发售](https://www.3dmgame.com/news/202407/3898746.html)
+
++ [《龙与地下城》5R规则首席设计师透露 部分改动受到《博德之门3》游玩感受影响](https://www.3dmgame.com/news/202407/3898747.html)
+
++ [梵蒂冈封圣首位游戏玩家 一位热爱《光环》的15岁孩子](https://www.3dmgame.com/news/202407/3898748.html)
+
