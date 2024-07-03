@@ -127,3 +127,7 @@
 
 + [WebInsights](https://www.producthunt.com/posts/webinsights)
 
++ [Calypso](https://www.producthunt.com/posts/calypso)
+
++ [Bashnode](https://www.producthunt.com/posts/bashnode)
+

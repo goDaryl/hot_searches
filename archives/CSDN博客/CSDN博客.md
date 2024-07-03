@@ -165,3 +165,11 @@
 
 + [【第二套】华为 2024 年校招-硬件电源岗](https://blog.csdn.net/joeqinyu/article/details/140124712)
 
++ [Qt——升级系列（Level Seven）：事件、文件](https://blog.csdn.net/weixin_66330442/article/details/139721625)
+
++ [【TS】TypeScript 原始数据类型深度解析](https://blog.csdn.net/qq_44214428/article/details/140123187)
+
++ [开启IT世界的第一步：高考新生的暑期学习指南](https://blog.csdn.net/xingyu_qie/article/details/140144929)
+
++ [Python爬虫与数据可视化：构建完整的数据采集与分析流程](https://blog.csdn.net/Z_suger7/article/details/140129933)
+

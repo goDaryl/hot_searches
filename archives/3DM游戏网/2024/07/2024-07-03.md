@@ -205,3 +205,13 @@
 
 + [《Spy Drops》Steam页面上线 致敬合金装备潜行动作](https://www.3dmgame.com/news/202407/3898759.html)
 
++ [日本政府终于淘汰软盘：废除所有软盘使用规定](https://www.3dmgame.com/news/202407/3898767.html)
+
++ [休闲种植《Tiny Garden》开启众筹 预定登陆PC/NS](https://www.3dmgame.com/news/202407/3898766.html)
+
++ [《Malleus Cocconum: The Heiress》Steam页面 支持中文](https://www.3dmgame.com/news/202407/3898765.html)
+
++ [嫌“黄金树幽影”难度不够？主播遇BUG关底出现两位拉塔恩](https://www.3dmgame.com/news/202407/3898764.html)
+
++ [亨利·卡维尔主演的新版《高地人》导演透露 动作场面将从《疾速追杀》中获得启发](https://www.3dmgame.com/news/202407/3898763.html)
+

@@ -55,3 +55,7 @@
 
 + [AttackGen：一款基于LLM的网络安全事件响应测试工具](https://www.freebuf.com/sectool/405042.html)
 
++ [最高可达 25 万美元！谷歌为 KVM 零日漏洞计划支付巨额奖金](https://www.freebuf.com/news/405089.html)
+
++ [SRC挖掘实战 | JS中能利用的那些信息](https://www.freebuf.com/articles/web/394873.html)
+
