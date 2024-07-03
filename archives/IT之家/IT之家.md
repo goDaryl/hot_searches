@@ -43,3 +43,5 @@
 
 + [理想汽车增程器“跳舞”，官方复现并回应：被刷机改动](https://m.ithome.com/html/779279.htm)
 
++ [影响 39 亿台安卓设备，Rafel 木马肆虐网络：中国是重灾区之一](https://m.ithome.com/html/779262.htm)
+
