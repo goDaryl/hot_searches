@@ -51,3 +51,5 @@
 
 + [Xbox 全球瘫痪，多个平台用户受影响](https://www.freebuf.com/news/405076.html)
 
++ [渗透测试 | 攻击者如何欺骗 POWERSHELL 安全日志并绕过 AMSI](https://www.freebuf.com/articles/system/404222.html)
+

@@ -181,3 +181,11 @@
 
 + [梵蒂冈封圣首位游戏玩家 一位热爱《光环》的15岁孩子](https://www.3dmgame.com/news/202407/3898748.html)
 
++ [《致命公司》迎来重大更新 添加新怪物和首辆载具](https://www.3dmgame.com/news/202407/3898751.html)
+
++ [三消桌面策略游戏《跨越：主动出击》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898752.html)
+
++ [眼镜社官宣正式加入万代南梦宫 继续开发《超机战》等名作](https://www.3dmgame.com/news/202407/3898753.html)
+
++ [《刀剑神域 碎梦边境》Steam预购 国区售价298元](https://www.3dmgame.com/news/202407/3898754.html)
+
