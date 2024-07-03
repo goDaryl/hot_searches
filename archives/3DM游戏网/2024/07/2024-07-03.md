@@ -133,3 +133,19 @@
 
 + [卡普空：《丧尸围城：豪华复刻版》更像重制版而非复刻版](https://www.3dmgame.com/news/202407/3898722.html)
 
++ [Roguelite骰子游戏《Dice of Arcana》Steam页面 发售日待定](https://www.3dmgame.com/news/202407/3898735.html)
+
++ [《热血》登陆多平台发售 物理规则街头大战僵尸](https://www.3dmgame.com/news/202407/3898733.html)
+
++ [赛车模拟游戏《雷霆竞速》发售日公布 7月17日正式推出](https://www.3dmgame.com/news/202407/3898734.html)
+
++ [《星球大战：亡命之徒》11分钟实机 大量玩法细节曝光](https://www.3dmgame.com/news/202407/3898723.html)
+
++ [外媒称《第一后裔》光追效果令人失望 建议完全禁用](https://www.3dmgame.com/news/202407/3898732.html)
+
++ [风格化点击冒险游戏《Kring》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898731.html)
+
++ [《Palia》开发商Singularity 6工作室被Daybreak收购](https://www.3dmgame.com/news/202407/3898730.html)
+
++ [经营模拟游戏《StarKeeper》Steam页面上线 支持简中](https://www.3dmgame.com/news/202407/3898728.html)
+

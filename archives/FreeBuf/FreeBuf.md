@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | OpenSSH 遭遇新威胁；日本动漫游戏巨头 Kadokawa 承认数据泄露](https://www.freebuf.com/news/404997.html)
 
++ [网络安全&密码学—python中的各种加密算法](https://www.freebuf.com/articles/web/404947.html)
+
