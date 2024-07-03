@@ -189,3 +189,11 @@
 
 + [《刀剑神域 碎梦边境》Steam预购 国区售价298元](https://www.3dmgame.com/news/202407/3898754.html)
 
++ [百合视觉小说《不恋爱就完蛋了》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202407/3898758.html)
+
++ [休闲派对游戏《BOTSU：滑稽机器人》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898755.html)
+
++ [价值近300亿！马斯克自曝训练Grok3 用了10万块NV H100](https://www.3dmgame.com/news/202407/3898757.html)
+
++ [《无主之地》电影演员解释参演原因：疫情太无聊](https://www.3dmgame.com/news/202407/3898756.html)
+
