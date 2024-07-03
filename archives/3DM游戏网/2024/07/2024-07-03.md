@@ -197,3 +197,11 @@
 
 + [《无主之地》电影演员解释参演原因：疫情太无聊](https://www.3dmgame.com/news/202407/3898756.html)
 
++ [《绝区零》艾莲角色展示 制服·剪刀·鲨鱼尾](https://www.3dmgame.com/news/202407/3898762.html)
+
++ [亚马逊《银翼杀手》续集电视剧集现已开始拍摄](https://www.3dmgame.com/news/202407/3898761.html)
+
++ [同名漫画改编动画《魔兽之王与赤子与尸之勇者》公布首个宣传PV](https://www.3dmgame.com/news/202407/3898760.html)
+
++ [《Spy Drops》Steam页面上线 致敬合金装备潜行动作](https://www.3dmgame.com/news/202407/3898759.html)
+

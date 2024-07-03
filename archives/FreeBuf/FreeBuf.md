@@ -53,3 +53,5 @@
 
 + [渗透测试 | 攻击者如何欺骗 POWERSHELL 安全日志并绕过 AMSI](https://www.freebuf.com/articles/system/404222.html)
 
++ [AttackGen：一款基于LLM的网络安全事件响应测试工具](https://www.freebuf.com/sectool/405042.html)
+

@@ -159,3 +159,9 @@
 
 + [某网页gpt的JS逆向](https://blog.csdn.net/2301_76620728/article/details/140134619)
 
++ [数据库安全：MySQL权限体系划分与实战操作](https://blog.csdn.net/wangyuxiang946/article/details/140132196)
+
++ [【探索Linux】P.36（传输层 —— TCP协议段格式）](https://blog.csdn.net/m0_75215937/article/details/139941931)
+
++ [【第二套】华为 2024 年校招-硬件电源岗](https://blog.csdn.net/joeqinyu/article/details/140124712)
+
