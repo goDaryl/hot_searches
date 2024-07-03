@@ -79,3 +79,9 @@
 
 + [大厨教你家乡特色美食茄子烩菜，吃一碗还想吃两碗，吃一次忘不了](http://www.acfun.cn/v/ac44958122)
 
++ [爵士翻唱Promise-所以我打破诺言【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44960409)
+
++ [MC石头：《诺言Dj》喊麦Dj版2024](http://www.acfun.cn/v/ac44957432)
+
++ [有人去现场了吗？2024深圳粤港澳大湾区车展](http://www.acfun.cn/v/ac44956045)
+

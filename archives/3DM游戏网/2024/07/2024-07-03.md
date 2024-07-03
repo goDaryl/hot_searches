@@ -123,3 +123,13 @@
 
 + [任天堂起诉Switch烧录卡和盗版游戏下载商店](https://www.3dmgame.com/news/202407/3898718.html)
 
++ [《肯泽拉传说：扎乌》游戏发售不足三个月 开发工作室已受到裁员影响](https://www.3dmgame.com/news/202407/3898727.html)
+
++ [动画改编手游《魔法少女小圆 Magia Exedra》Steam页面 今年上线](https://www.3dmgame.com/news/202407/3898725.html)
+
++ [不仅足球有！沙特6千万美元电竞世界杯利雅得开幕](https://www.3dmgame.com/news/202407/3898726.html)
+
++ [《Peppermint-Tinted Pyrade》PC免费发布 动作解谜](https://www.3dmgame.com/news/202407/3898724.html)
+
++ [卡普空：《丧尸围城：豪华复刻版》更像重制版而非复刻版](https://www.3dmgame.com/news/202407/3898722.html)
+
