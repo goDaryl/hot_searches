@@ -51,3 +51,5 @@
 
 + [在深中通道违停露营还遮挡车牌？中山交警：罚款 400 元，扣 18 分](https://m.ithome.com/html/779443.htm)
 
++ [【IT之家首发开箱】荣耀 MagicBook Art 14 图赏：荣耀首款旗舰超轻薄本](https://m.ithome.com/html/779236.htm)
+

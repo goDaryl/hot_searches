@@ -141,3 +141,7 @@
 
 + [OWOX SQL Copilot](https://www.producthunt.com/posts/owox-sql-copilot)
 
++ [Slack Community Sites by Hall](https://www.producthunt.com/posts/slack-community-sites-by-hall)
+
++ [GetSales.io](https://www.producthunt.com/posts/getsales-io)
+
