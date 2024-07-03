@@ -115,3 +115,11 @@
 
 + [《高达创坏者4》公开最新情报 即将开启公测](https://www.3dmgame.com/news/202407/3898715.html)
 
++ [《祇：女神之道》主线时长将超过20个小时](https://www.3dmgame.com/news/202407/3898721.html)
+
++ [《第一后裔》Steam在线峰值超21万 评价却褒贬不一](https://www.3dmgame.com/news/202407/3898720.html)
+
++ [《进击的巨人VR》7月23日率先登陆Quest VR平台](https://www.3dmgame.com/news/202407/3898719.html)
+
++ [任天堂起诉Switch烧录卡和盗版游戏下载商店](https://www.3dmgame.com/news/202407/3898718.html)
+

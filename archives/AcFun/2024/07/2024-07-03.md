@@ -75,3 +75,7 @@
 
 + [【独家】STAR-T-RAIN](http://www.acfun.cn/v/ac44959676)
 
++ [Super Shy](http://www.acfun.cn/v/ac44958922)
+
++ [大厨教你家乡特色美食茄子烩菜，吃一碗还想吃两碗，吃一次忘不了](http://www.acfun.cn/v/ac44958122)
+

@@ -27,3 +27,7 @@
 
 + [华为拟将问界等系列商标和专利转让给赛力斯，转让价 25 亿元](https://m.ithome.com/html/779238.htm)
 
++ [比亚迪初步奖励 21 位线索提供人，最高 30 万元](https://m.ithome.com/html/779245.htm)
+
++ [消息称苹果上调 A18 芯片订单，预计 iPhone 16 / Pro 系列需求强劲](https://m.ithome.com/html/779212.htm)
+
