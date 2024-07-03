@@ -149,3 +149,21 @@
 
 + [经营模拟游戏《StarKeeper》Steam页面上线 支持简中](https://www.3dmgame.com/news/202407/3898728.html)
 
++ [网易游戏发布暑期限玩通知 总计时长不超过24小时](https://www.3dmgame.com/news/202407/3898742.html)
+
++ [Xbox Live遇到严重问题无法登录 微软：修复要更多时间](https://www.3dmgame.com/news/202407/3898736.html)
+
++ [N站推出新Mod应用测试版 现仅支持《星露谷物语》](https://www.3dmgame.com/news/202407/3898743.html)
+
++ [《燧石枪:黎明之围》新预告 7月18日正式发售](https://www.3dmgame.com/news/202407/3898740.html)
+
++ [《街头霸王6》嘉米新手办推出：身材完美 表情还原](https://www.3dmgame.com/news/202407/3898741.html)
+
++ [《祇：女神之道》9分钟实机 动作和战略兼具](https://www.3dmgame.com/news/202407/3898739.html)
+
++ [迪士尼游戏官方发布持剑米老鼠预告 近期公布新游戏](https://www.3dmgame.com/news/202407/3898738.html)
+
++ [雷导新作《角斗士2》新剧照曝光 11月15日上映](https://www.3dmgame.com/news/202407/3898737.html)
+
++ [电影质感 当《星球大战绝地：幸存者》打上多个MOD](https://www.3dmgame.com/news/202407/3898729.html)
+

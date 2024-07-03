@@ -127,3 +127,5 @@
 
 + [系统安全及应用（命令）](https://blog.csdn.net/qq_63994746/article/details/140041812)
 
++ [阿里云 facechanin 人像写真大模型 API 实践](https://blog.csdn.net/qq_42586468/article/details/140091711)
+
