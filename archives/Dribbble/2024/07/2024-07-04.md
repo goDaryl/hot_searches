@@ -67,3 +67,13 @@
 
 + [Rumble Golf Brand Identity](https://dribbble.com/shots/)
 
++ [Johnny cash](https://dribbble.com/shots/)
+
++ [Houses_3](https://dribbble.com/shots/)
+
++ [Nuclear Blast Records](https://dribbble.com/shots/)
+
++ [Kite](https://dribbble.com/shots/)
+
++ [Moon Shine - The Cowboy & The Coyote](https://dribbble.com/shots/)
+
