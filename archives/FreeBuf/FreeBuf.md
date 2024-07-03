@@ -59,3 +59,5 @@
 
 + [SRC挖掘实战 | JS中能利用的那些信息](https://www.freebuf.com/articles/web/394873.html)
 
++ [AIGC在安全领域的应用 | FreeBuf 北京站议题前瞻](https://www.freebuf.com/fevents/405073.html)
+
