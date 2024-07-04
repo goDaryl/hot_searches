@@ -37,3 +37,7 @@
 
 + [售价 4799 元起，红魔 9S Pro/+ AI 游戏手机发布：首发第三代骁龙 8 领先版](https://m.ithome.com/html/779478.htm)
 
++ [小米之家全国 2000 家门店免费送 20 万支雪糕，本周末和下周末可领](https://m.ithome.com/html/779574.htm)
+
++ [全国首例，特斯拉 Model Y 入围江苏省政府用车采购目录](https://m.ithome.com/html/779538.htm)
+
