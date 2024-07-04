@@ -147,3 +147,21 @@
 
 + [外媒称Xbox又开始新一轮裁员 更多员工将被裁掉](https://www.3dmgame.com/news/202407/3898810.html)
 
++ [类吸血鬼幸存者轻肉鸽游戏《绝境使者》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898816.html)
+
++ [Nexon给出解决《第一后裔》帧数问题方案：删除重装](https://www.3dmgame.com/news/202407/3898817.html)
+
++ [真人互动影游《我为情狂》三上悠亚宣传片 7月13日推出](https://www.3dmgame.com/news/202407/3898818.html)
+
++ [《战锤40K：星际战士2》「链锯剑」宣传片 9月9日发售](https://www.3dmgame.com/news/202407/3898815.html)
+
++ [卡牌游戏《忘却前夜》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202407/3898819.html)
+
++ [滚导《超人》电影曝大量片场照 星爵男星想加入DCU](https://www.3dmgame.com/news/202407/3898820.html)
+
++ [复古平台跳跃游戏《Kiopioke!》发售日公布 7月18日正式推出](https://www.3dmgame.com/news/202407/3898821.html)
+
++ [滑板游戏《Session》玩家人数突破200万 新DLC公布](https://www.3dmgame.com/news/202407/3898822.html)
+
++ [《龙珠：电光火石0》拥有两种控制选项：标准和经典](https://www.3dmgame.com/news/202407/3898824.html)
+

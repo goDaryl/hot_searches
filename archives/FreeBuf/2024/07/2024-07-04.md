@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | Xbox 在全球范围内关闭；国家漏洞库CNNVD通报OpenSSH漏洞](https://www.freebuf.com/news/405054.html)
 
++ [企业安全 | 数据安全风险分析](https://www.freebuf.com/articles/405032.html)
+

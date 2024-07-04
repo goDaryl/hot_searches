@@ -141,3 +141,19 @@
 
 + [Frannie's Coconut Kefir](https://dribbble.com/shots/)
 
++ [Bowl Skatin'](https://dribbble.com/shots/)
+
++ [Helo - Logo Exploration](https://dribbble.com/shots/)
+
++ [Creative Meats](https://dribbble.com/shots/)
+
++ [Home Care App UI Elements](https://dribbble.com/shots/)
+
++ [Tennis](https://dribbble.com/shots/)
+
++ [Blue Loon BW](https://dribbble.com/shots/)
+
++ [Plants of the future](https://dribbble.com/shots/)
+
++ [User profile. Admin panel.](https://dribbble.com/shots/)
+
