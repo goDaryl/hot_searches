@@ -55,3 +55,5 @@
 
 + [赛力斯：每卖出一台车，华为方面都会收获一笔销售服务费](https://m.ithome.com/html/779634.htm)
 
++ [美国国防部称离不开华为设备，寻求豁免权](https://m.ithome.com/html/779712.htm)
+

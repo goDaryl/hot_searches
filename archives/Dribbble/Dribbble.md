@@ -223,3 +223,9 @@
 
 + [NexusCoin Cryptocurrency - Landing Page Concept](https://dribbble.com/shots/)
 
++ [Blockchain Explorer](https://dribbble.com/shots/)
+
++ [Trading Crypto Mobile App UI UX Design](https://dribbble.com/shots/)
+
++ [Nexcoin crypto platform](https://dribbble.com/shots/)
+

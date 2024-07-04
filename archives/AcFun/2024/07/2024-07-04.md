@@ -125,3 +125,11 @@
 
 + [一念之差，决定善恶！10年前PS4独占游戏让玩家决定主角结局](http://www.acfun.cn/v/ac44970896)
 
++ [在国内就小哥这种条件，是无论如何白嫖不到这么漂亮的超模女友的！！](http://www.acfun.cn/v/ac44965641)
+
++ [库存](http://www.acfun.cn/v/ac44965859)
+
++ [可算把AI玩明白了](http://www.acfun.cn/v/ac44965723)
+
++ [就你没玩绝区零是吧！](http://www.acfun.cn/v/ac44971407)
+
