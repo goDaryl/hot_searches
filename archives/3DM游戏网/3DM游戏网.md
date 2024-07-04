@@ -269,3 +269,11 @@
 
 + [微软支付超1亿元和解员工指控：拒绝对请病假等员工升职加薪](https://www.3dmgame.com/news/202407/3898870.html)
 
++ [千卡暴增至万卡GPU集群！摩尔线程AI旗舰产品夸娥重磅升级](https://www.3dmgame.com/news/202407/3898879.html)
+
++ [《神偷奶爸4》终极预告公布 电影票预售开启](https://www.3dmgame.com/news/202407/3898877.html)
+
++ [李彦宏：AI不是人类的竞争对手 工作机会正大量诞生](https://www.3dmgame.com/news/202407/3898878.html)
+
++ [《River Tails》登陆Switch 猫与鱼的动作冒险](https://www.3dmgame.com/news/202407/3898876.html)
+

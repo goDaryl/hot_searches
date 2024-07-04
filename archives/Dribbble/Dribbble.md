@@ -205,3 +205,17 @@
 
 + [Fire or dumpster fire ????????????](https://dribbble.com/shots/)
 
++ [Code Yeti - logo design](https://dribbble.com/shots/)
+
++ [Happy Independence Day USA](https://dribbble.com/shots/)
+
++ [Tips & Tricks: Case Knives PT.1](https://dribbble.com/shots/)
+
++ [Finance Mobile App Component](https://dribbble.com/shots/)
+
++ [Articles Mobile App](https://dribbble.com/shots/)
+
++ [Millennium Falcon badge](https://dribbble.com/shots/)
+
++ [Trading Platform Web Design](https://dribbble.com/shots/)
+
