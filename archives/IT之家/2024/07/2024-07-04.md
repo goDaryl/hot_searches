@@ -57,3 +57,5 @@
 
 + [美国国防部称离不开华为设备，寻求豁免权](https://m.ithome.com/html/779712.htm)
 
++ [特斯拉 Model 3 上线全新车漆“快银”，可花费 1.2 万元选配](https://m.ithome.com/html/779534.htm)
+
