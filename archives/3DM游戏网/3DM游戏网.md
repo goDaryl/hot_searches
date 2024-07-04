@@ -199,3 +199,9 @@
 
 + [《漫威争锋》“蜘蛛侠”角色预告片 7月24日封测开启](https://www.3dmgame.com/news/202407/3898826.html)
 
++ [上海迪士尼暑期门票飙至719元 官方回应还没到顶](https://www.3dmgame.com/news/202407/3898842.html)
+
++ [类塔科夫《灰区战争》大型“2号补丁”现已上线](https://www.3dmgame.com/news/202407/3898843.html)
+
++ [动视申请新专利：奖励向他人推广游戏的玩家](https://www.3dmgame.com/news/202407/3898841.html)
+
