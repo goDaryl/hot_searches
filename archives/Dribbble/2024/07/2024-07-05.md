@@ -131,3 +131,11 @@
 
 + [Doctor’s Dashboard Design Concept](https://dribbble.com/shots/)
 
++ [Summer Patio](https://dribbble.com/shots/)
+
++ [accordion.net.au](https://dribbble.com/shots/)
+
++ [Plans & billing settings — Untitled UI](https://dribbble.com/shots/)
+
++ [Orbite - Fintech Landing Page](https://dribbble.com/shots/)
+
