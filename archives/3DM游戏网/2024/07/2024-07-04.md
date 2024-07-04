@@ -131,3 +131,19 @@
 
 + [1小时达成众筹目标《小小花园》将登陆PC和Switch](https://www.3dmgame.com/news/202407/3898799.html)
 
++ [《AXIAL NULL》Steam页面上线 肉鸽战略战斗](https://www.3dmgame.com/news/202407/3898811.html)
+
++ [EA宣布本月底从旧世代主机下架三款《战地》系列游戏 并于11月关闭服务器](https://www.3dmgame.com/news/202407/3898812.html)
+
++ [除《使命召唤》外 其他动视游戏或将于8月登陆XGP](https://www.3dmgame.com/news/202407/3898813.html)
+
++ [《最终幻想7：重生》成为M站2024年上半年评分最高的游戏](https://www.3dmgame.com/news/202407/3898814.html)
+
++ [CDPR：没有《2077》最初失败 往日之影就不会如此出色](https://www.3dmgame.com/news/202407/3898807.html)
+
++ [《战地2042》即将在下周和《死亡空间》展开联动](https://www.3dmgame.com/news/202407/3898808.html)
+
++ [Capcom确认《祇：女神之道》在发售后没有DLC](https://www.3dmgame.com/news/202407/3898809.html)
+
++ [外媒称Xbox又开始新一轮裁员 更多员工将被裁掉](https://www.3dmgame.com/news/202407/3898810.html)
+

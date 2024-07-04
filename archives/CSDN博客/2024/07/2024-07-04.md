@@ -123,3 +123,9 @@
 
 + [课程设计——基于FPGA的双向移位寄存器](https://blog.csdn.net/BROKEN__Y/article/details/140110977)
 
++ [大数据、人工智能、云计算、物联网、区块链序言【大数据导论】](https://blog.csdn.net/2301_81874719/article/details/140105022)
+
++ [从人工到自动化到AIOps再到ChatOps：大模型在运维领域的应用](https://blog.csdn.net/jdcdev_/article/details/140105517)
+
++ [停车场车牌识别计费系统，用Python如何实现？](https://blog.csdn.net/2301_78150559/article/details/140120009)
+
