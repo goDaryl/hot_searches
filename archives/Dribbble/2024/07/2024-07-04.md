@@ -219,3 +219,7 @@
 
 + [Trading Platform Web Design](https://dribbble.com/shots/)
 
++ [GigGrove - Notifications](https://dribbble.com/shots/)
+
++ [NexusCoin Cryptocurrency - Landing Page Concept](https://dribbble.com/shots/)
+

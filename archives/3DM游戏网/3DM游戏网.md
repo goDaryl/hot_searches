@@ -277,3 +277,5 @@
 
 + [《River Tails》登陆Switch 猫与鱼的动作冒险](https://www.3dmgame.com/news/202407/3898876.html)
 
++ [《最终幻想14》画面升级后 著名低模葡萄毫发无损](https://www.3dmgame.com/news/202407/3898880.html)
+

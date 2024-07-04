@@ -195,3 +195,11 @@
 
 + [ELFK简介](https://blog.csdn.net/liu_chen_yang/article/details/139653744)
 
++ [人工智能--循环神经网络](https://blog.csdn.net/2302_76516899/article/details/140164034)
+
++ [Linux—KVM虚拟化中使用基本命令管理虚拟机(纯实例)](https://blog.csdn.net/jxjdhdnd/article/details/140122756)
+
++ [利用Python破解隔壁家的WiFi密码](https://blog.csdn.net/qq_37263429/article/details/140152343)
+
++ [【项目日记（四）】搜索引擎-Web模块](https://blog.csdn.net/weixin_69049913/article/details/140099617)
+

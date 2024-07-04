@@ -121,3 +121,7 @@
 
 + [【黑云仔】琥珀的身体 ACFUN声唱2024参赛曲](http://www.acfun.cn/v/ac44964946)
 
++ [灰色的性感【Babe】【泫雅】](http://www.acfun.cn/v/ac44970744)
+
++ [一念之差，决定善恶！10年前PS4独占游戏让玩家决定主角结局](http://www.acfun.cn/v/ac44970896)
+
