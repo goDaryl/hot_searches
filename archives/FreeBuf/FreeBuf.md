@@ -57,3 +57,5 @@
 
 + [SiCat：一款多功能漏洞利用管理与搜索工具](https://www.freebuf.com/sectool/404816.html)
 
++ [WAIC 2024开幕，上海AI Lab主任、首席科学家周伯文首次阐述“人工智能45°平衡律”](https://www.freebuf.com/news/405218.html)
+

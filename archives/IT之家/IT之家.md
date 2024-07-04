@@ -49,3 +49,7 @@
 
 + [米哈游新作《绝区零》今日 10 点全平台公测，登录即送 30 抽奖励](https://m.ithome.com/html/779518.htm)
 
++ [消息称小米 15 Pro 手机电池容量 5400mAh，支持百瓦级有线 / 无线充电](https://m.ithome.com/html/779596.htm)
+
++ [“抢”UID，米哈游新作《绝区零》开服提前：登录即送 30 抽奖励](https://m.ithome.com/html/779547.htm)
+

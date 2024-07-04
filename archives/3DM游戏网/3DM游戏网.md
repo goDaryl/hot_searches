@@ -257,3 +257,15 @@
 
 + [解谜游戏《Hogtie》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202407/3898864.html)
 
++ [《艾尔登法环》发布v1.12.3更新补丁 再次调整游戏平衡](https://www.3dmgame.com/news/202407/3898875.html)
+
++ [圆周率创新纪录202万亿位 用了接近1.5PB的SSD](https://www.3dmgame.com/news/202407/3898874.html)
+
++ [《黑神话：悟空》配音演员公布：蜘蛛精二姐配音现身](https://www.3dmgame.com/news/202407/3898873.html)
+
++ [《第一后裔》女性角色性感 物理摇晃弥补《星刃》空白](https://www.3dmgame.com/news/202407/3898872.html)
+
++ [赛力斯：每卖出一台车 华为都会收获一笔销售服务费](https://www.3dmgame.com/news/202407/3898871.html)
+
++ [微软支付超1亿元和解员工指控：拒绝对请病假等员工升职加薪](https://www.3dmgame.com/news/202407/3898870.html)
+
