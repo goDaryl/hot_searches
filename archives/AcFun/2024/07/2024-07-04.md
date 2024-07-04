@@ -65,3 +65,5 @@
 
 + [【ACFUN声唱2024】伥鬼 - 双怡](http://www.acfun.cn/v/ac44965974)
 
++ [碇真嗣和明日香训练：](http://www.acfun.cn/v/ac44964136)
+
