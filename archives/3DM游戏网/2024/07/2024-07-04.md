@@ -245,3 +245,15 @@
 
 + [《塞尔达传说：王国之泪》玩家打造“莱尼尔杀器” 全程硬控人马](https://www.3dmgame.com/news/202407/3898854.html)
 
++ [《Angelian Trigger》12月登陆Switch 3D射击新游](https://www.3dmgame.com/news/202407/3898868.html)
+
++ [《怪奇物语》第五季公布新片场照 拍摄已完成一半](https://www.3dmgame.com/news/202407/3898869.html)
+
++ [主创身陷丑闻 网飞《地平线》改编真人剧或被取消](https://www.3dmgame.com/news/202407/3898867.html)
+
++ [特斯拉：二代人形机器人Optimus将首次亮相世界人工智能大会](https://www.3dmgame.com/news/202407/3898866.html)
+
++ [《勇者斗恶龙3 HD-2D 重制版》主角或将不再区分男女 仅用代称表示](https://www.3dmgame.com/news/202407/3898865.html)
+
++ [解谜游戏《Hogtie》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202407/3898864.html)
+

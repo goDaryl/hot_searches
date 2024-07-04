@@ -45,3 +45,7 @@
 
 + [支付宝大楼现已更换新 Logo，仅保留一个“支”字](https://m.ithome.com/html/779608.htm)
 
++ [“真的很你”，苹果 iOS 18 简体中文宣传语被吐槽](https://m.ithome.com/html/779640.htm)
+
++ [米哈游新作《绝区零》今日 10 点全平台公测，登录即送 30 抽奖励](https://m.ithome.com/html/779518.htm)
+
