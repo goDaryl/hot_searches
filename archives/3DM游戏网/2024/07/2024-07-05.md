@@ -113,3 +113,11 @@
 
 + [3D动作肉鸽游戏《灰烬之城》公布游戏演示](https://www.3dmgame.com/news/202407/3898892.html)
 
++ [索尼PlayStation全面回归东京电玩展](https://www.3dmgame.com/news/202407/3898899.html)
+
++ [因帧数不稳定等原因《不羁联盟》主机版体验欠佳](https://www.3dmgame.com/news/202407/3898898.html)
+
++ [全新光追基准测试《突破限制》提供下载](https://www.3dmgame.com/news/202407/3898897.html)
+
++ [《索尼克×夏特世代重启》暗示第四名可玩角色](https://www.3dmgame.com/news/202407/3898896.html)
+

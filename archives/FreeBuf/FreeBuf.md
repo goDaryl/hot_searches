@@ -41,3 +41,5 @@
 
 + [攻防演练 | HVV蓝队复盘——总结（向上汇报）](https://www.freebuf.com/defense/374990.html)
 
++ [ESET：2024年H1威胁报告](https://www.freebuf.com/articles/405187.html)
+
