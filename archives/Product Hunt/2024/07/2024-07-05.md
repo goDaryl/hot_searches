@@ -131,3 +131,11 @@
 
 + [ResumeMuser](https://www.producthunt.com/posts/resumemuser)
 
++ [Fydetab Duo](https://www.producthunt.com/posts/fydetab-duo-2)
+
++ [Gofer](https://www.producthunt.com/posts/gofer)
+
++ [Pillser Ask](https://www.producthunt.com/posts/pillser-ask)
+
++ [QuickPods](https://www.producthunt.com/posts/quickpods)
+
