@@ -185,3 +185,11 @@
 
 + [ieaEnergy - Bio Energy Revolution Website](https://dribbble.com/shots/)
 
++ [Logofolio](https://dribbble.com/shots/)
+
++ [ValStream procurement analytics SaaS logo design: V data stream](https://dribbble.com/shots/)
+
++ [Contact - Subscription page design for public speaking training](https://dribbble.com/shots/)
+
++ [Kavian - Branding Exploration](https://dribbble.com/shots/)
+
