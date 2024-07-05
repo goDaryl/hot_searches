@@ -137,3 +137,13 @@
 
 + [这就是双胞胎的快乐吗？欢乐八点档-971](http://www.acfun.cn/v/ac44976746)
 
++ [台球大尸的神操作，这不是来打球，这是来搞笑的](http://www.acfun.cn/v/ac44978381)
+
++ [新人驾到！统统闪开！《TAKE ME HAND》](http://www.acfun.cn/v/ac44979740)
+
++ [AI真的是满足了很多人的奇葩幻想……](http://www.acfun.cn/v/ac44978357)
+
++ [夏天就要甜甜的！](http://www.acfun.cn/v/ac44978499)
+
++ [老乡鸡贵吗？让爸妈随便点，花了多少钱？](http://www.acfun.cn/v/ac44975766)
+
