@@ -127,3 +127,33 @@
 
 + [PS5首席架构师惊讶于光追/60帧普及 PS5游戏移植到PC不难](https://www.3dmgame.com/news/202407/3898902.html)
 
++ [动漫风格剧情推理游戏《回忆倒带》Steam页面上线](https://www.3dmgame.com/news/202407/3898913.html)
+
++ [育碧与日本公司合作 仍试图在游戏中加入NFT技术](https://www.3dmgame.com/news/202407/3898914.html)
+
++ [《丧尸围城：豪华复刻版》豪华版奖励曝光：17套服装](https://www.3dmgame.com/news/202407/3898915.html)
+
++ [《第一后裔》更新路线图公布 将有新后裔新皮肤新武器等](https://www.3dmgame.com/news/202407/3898916.html)
+
++ [《灌篮高手》重映定档海报及预告 8月3日重映](https://www.3dmgame.com/news/202407/3898917.html)
+
++ [射击刷宝游戏《Cosminers》Steam页面上线 明年发售](https://www.3dmgame.com/news/202407/3898908.html)
+
++ [动画《新吊带袜天使》主视觉图 制作人员名单公布](https://www.3dmgame.com/news/202407/3898907.html)
+
++ [黑暗风格恐怖解谜游戏《超越黑暗》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898910.html)
+
++ [Adult Swim发行再次下架4款游戏 开发者无法自发行](https://www.3dmgame.com/news/202407/3898911.html)
+
++ [《天国：拯救2》新截图 游戏中有各种技能的马儿](https://www.3dmgame.com/news/202407/3898912.html)
+
++ [《宣誓》玩家无法与同伴谈恋爱 ：确保所有关系正确](https://www.3dmgame.com/news/202407/3898909.html)
+
++ [黑暗风格的策略游戏《Anoxia Station》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202407/3898903.html)
+
++ [《生化奇兵4》还在开发 2K Cloud Chamber正大量招募人手](https://www.3dmgame.com/news/202407/3898904.html)
+
++ [《龙腾世纪：影障守护者》发售前 粉丝玩家正在制作全系列相关内容档案](https://www.3dmgame.com/news/202407/3898905.html)
+
++ [《逃离塔科夫》更新上线：PvE可离线进行但限制重重](https://www.3dmgame.com/news/202407/3898906.html)
+
