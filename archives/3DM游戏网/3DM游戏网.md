@@ -121,3 +121,9 @@
 
 + [《索尼克×夏特世代重启》暗示第四名可玩角色](https://www.3dmgame.com/news/202407/3898896.html)
 
++ [《龙腾世纪：影障守护者》职业和角色将有定制的盔甲和装备](https://www.3dmgame.com/news/202407/3898900.html)
+
++ [《龙腾世纪：影障守护者》将有非常强大的幻化系统](https://www.3dmgame.com/news/202407/3898901.html)
+
++ [PS5首席架构师惊讶于光追/60帧普及 PS5游戏移植到PC不难](https://www.3dmgame.com/news/202407/3898902.html)
+

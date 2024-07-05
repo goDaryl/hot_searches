@@ -43,3 +43,5 @@
 
 + [ESET：2024年H1威胁报告](https://www.freebuf.com/articles/405187.html)
 
++ [FreeBuf早报 | 上海启动未成年人网络环境整治专项行动；美国第二大人寿保险公司遭入侵](https://www.freebuf.com/news/405146.html)
+
