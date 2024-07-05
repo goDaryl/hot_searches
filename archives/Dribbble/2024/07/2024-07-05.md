@@ -217,3 +217,7 @@
 
 + [Logo Exploration](https://dribbble.com/shots/)
 
++ [Odi Agency: Comulate Rebrand](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Brand Mark](https://dribbble.com/shots/)
+
