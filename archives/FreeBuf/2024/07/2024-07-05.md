@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 上海启动未成年人网络环境整治专项行动；美国第二大人寿保险公司遭入侵](https://www.freebuf.com/news/405146.html)
 
++ [PowerShell 技术在网络安全测试中的应用](https://www.freebuf.com/articles/web/404542.html)
+
++ [FreeBuf早报 | Chrome 不再信任 Entrust 证书；美国第二大人寿保险公司遭入侵](https://www.freebuf.com/news/405146.html)
+
