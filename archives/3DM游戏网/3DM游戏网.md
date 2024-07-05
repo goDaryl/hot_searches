@@ -157,3 +157,27 @@
 
 + [《逃离塔科夫》更新上线：PvE可离线进行但限制重重](https://www.3dmgame.com/news/202407/3898906.html)
 
++ [游戏科学公司门口被人恶意涂鸦 抗议歧视女性？](https://www.3dmgame.com/news/202407/3898929.html)
+
++ [超现实FPS《Bodycam》更新删除新纳粹涂鸦：意外添加](https://www.3dmgame.com/news/202407/3898928.html)
+
++ [用上盘古大模型 国内首款开源鸿蒙人形机器人夸父亮相WAIC](https://www.3dmgame.com/news/202407/3898927.html)
+
++ [外媒称真人版《白雪公主》内部试映口碑良好 你期待吗？](https://www.3dmgame.com/news/202407/3898925.html)
+
++ [《自杀小队：消灭正义联盟》第二季路线图 新角色急冻人](https://www.3dmgame.com/news/202407/3898926.html)
+
++ [选手质疑沙特电竞世界杯歧视LGBT 负责人：我们欢迎所有人 但你们得入乡随俗](https://www.3dmgame.com/news/202407/3898923.html)
+
++ [极简风格策略建造游戏《翰墨尼斯：手工王国》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898924.html)
+
++ [中国公司开始大量订购英伟达H20芯片 老黄赚嗨了](https://www.3dmgame.com/news/202407/3898921.html)
+
++ [激爽复古像素拉力赛车《旧日飞车》发售日预告 7月19日EA发售](https://www.3dmgame.com/news/202407/3898922.html)
+
++ [《铁拳》总监：所有角色都像我的孩子 没有最喜欢的](https://www.3dmgame.com/news/202407/3898920.html)
+
++ [《艾尔登法环》开发人员建议修复PS5帧率问题 但数据挖掘者表示不会有效果](https://www.3dmgame.com/news/202407/3898919.html)
+
++ [火炬无限SS5赛季新在哪？“玩偶俱乐部”携手“PC公测”正式上线！](https://www.3dmgame.com/news/202407/3898918.html)
+
