@@ -101,3 +101,7 @@
 
 + [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/140176014)
 
++ [2024亚太杯中文赛数学建模B题【洪水灾害的数据分析与预测】思路详解](https://blog.csdn.net/smppbzyc/article/details/140191697)
+
++ [GPT-5的飞跃：从高中生到博士生，人工智能将如何重塑我们的未来？](https://blog.csdn.net/u014727709/article/details/140181899)
+
