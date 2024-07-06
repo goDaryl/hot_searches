@@ -33,3 +33,19 @@
 
 + [folke / tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
 
++ [albertobsd / keyhunt](https://github.com/albertobsd/keyhunt)
+
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [google / security-research](https://github.com/google/security-research)
+
++ [bevyengine / bevy](https://github.com/bevyengine/bevy)
+
++ [SuhailTechInfo / Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md)
+
++ [disposable-email-domains / disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains)
+
++ [danielmiessler / SecLists](https://github.com/danielmiessler/SecLists)
+
++ [GaiaNet-AI / gaianet-node](https://github.com/GaiaNet-AI/gaianet-node)
+

@@ -167,3 +167,23 @@
 
 + [Post-humanity](https://dribbble.com/shots/)
 
++ [Dribbbling Figma](https://dribbble.com/shots/)
+
++ [Roll Safe | Meme coin logo](https://dribbble.com/shots/)
+
++ [Asset Management & Investment Platform Dashboard](https://dribbble.com/shots/)
+
++ [Bitbar illustrations](https://dribbble.com/shots/)
+
++ [Refert logo](https://dribbble.com/shots/)
+
++ [Music Mobile App](https://dribbble.com/shots/)
+
++ [modern logo folio, minimalist logo, logo  mark](https://dribbble.com/shots/)
+
++ [New York poster](https://dribbble.com/shots/)
+
++ [Kindley - Resume Builder Dashboard](https://dribbble.com/shots/)
+
++ [Crypto wallet Market Maker](https://dribbble.com/shots/)
+
