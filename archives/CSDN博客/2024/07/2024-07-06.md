@@ -105,3 +105,27 @@
 
 + [GPT-5的飞跃：从高中生到博士生，人工智能将如何重塑我们的未来？](https://blog.csdn.net/u014727709/article/details/140181899)
 
++ [[Redis]哨兵机制](https://blog.csdn.net/a_zhee1/article/details/140165865)
+
++ [Pytorch实战（二）：VGG神经网络](https://blog.csdn.net/qq_51976293/article/details/140150360)
+
++ [探索迁移学习：通过实例深入理解机器学习的强大方法](https://blog.csdn.net/2202_76097976/article/details/140162318)
+
++ [【Spring Boot】统一数据返回](https://blog.csdn.net/smile_sundays/article/details/140185272)
+
++ [C++视觉开发 四.手势识别](https://blog.csdn.net/weixin_59409001/article/details/140117245)
+
++ [【Elasticsearch】Elasticsearch动态映射与静态映射详解](https://blog.csdn.net/a1657054242/article/details/140168913)
+
++ [将QT移植到IMX6ULL开发板](https://blog.csdn.net/m0_74712453/article/details/140180930)
+
++ [第十九届全国大学生智能汽车竞赛竞速赛裁判员手册](https://blog.csdn.net/zhuoqingjoking97298/article/details/140141397)
+
++ [docker](https://blog.csdn.net/weixin_63168851/article/details/140153771)
+
++ [外挂级OCR神器：免费文档解析、表格识别、手写识别、古籍识别、PDF转Word](https://blog.csdn.net/magicyangjay111/article/details/140205184)
+
++ [【项目日记（四）】搜索引擎-Web模块](https://blog.csdn.net/weixin_69049913/article/details/140099617)
+
++ [什么是文件共享](https://blog.csdn.net/la1466128339/article/details/140220370)
+

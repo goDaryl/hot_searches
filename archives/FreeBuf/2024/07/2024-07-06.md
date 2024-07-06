@@ -41,3 +41,5 @@
 
 + [SRC挖掘实战 | JS中能利用的那些信息](https://www.freebuf.com/articles/web/394873.html)
 
++ [AI大模型安全挑战和安全要求解读](https://www.freebuf.com/articles/neopoints/404657.html)
+
