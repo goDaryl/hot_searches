@@ -31,3 +31,5 @@
 
 + [joschan21 / digitalhippo](https://github.com/joschan21/digitalhippo)
 
++ [folke / tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
+
