@@ -207,3 +207,7 @@
 
 + [AIGC专栏12——EasyAnimateV3发布详解 支持图&文生视频 最大支持960x960x144帧视频生成](https://blog.csdn.net/weixin_44791964/article/details/140025591)
 
++ [Redis 多数据源 Spring Boot 实现](https://blog.csdn.net/xiewenfeng520/article/details/140207713)
+
++ [基于springboot+vue+uniapp的电影交流平台小程序](https://blog.csdn.net/shmp54/article/details/140219650)
+
