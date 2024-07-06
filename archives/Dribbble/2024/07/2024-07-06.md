@@ -205,3 +205,9 @@
 
 + [Horse and bridge](https://dribbble.com/shots/)
 
++ [Finance Ease- Finance management website](https://dribbble.com/shots/)
+
++ [Webots Marketing & Branding Visuals](https://dribbble.com/shots/)
+
++ [Careers Page Illustration](https://dribbble.com/shots/)
+
