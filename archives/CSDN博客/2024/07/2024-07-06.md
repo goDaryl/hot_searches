@@ -205,3 +205,5 @@
 
 + [2024年江苏省研究生数学建模竞赛B题人造革性能优化设计研究论文和代码](https://blog.csdn.net/qq_45857113/article/details/140227772)
 
++ [AIGC专栏12——EasyAnimateV3发布详解 支持图&文生视频 最大支持960x960x144帧视频生成](https://blog.csdn.net/weixin_44791964/article/details/140025591)
+
