@@ -45,3 +45,5 @@
 
 + [FreeBuf 周报 | 谷歌拟允许Web应用访问敏感USB设备；GitLab曝严重漏洞](https://www.freebuf.com/news/405330.html)
 
++ [记录一次CMS的代码审计](https://www.freebuf.com/articles/network/404563.html)
+

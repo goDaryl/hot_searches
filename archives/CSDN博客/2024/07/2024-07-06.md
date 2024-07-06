@@ -139,3 +139,5 @@
 
 + [微信小程序的自定义组件、常见组件、组件的数据及方法、组件的属性、slot、自定义组件样式、自定义组件样式隔离、数据监听 objservers、组件通信、生命周期、复用机制 behaviors、外部样式](https://blog.csdn.net/weixin_44166849/article/details/140116392)
 
++ [【研究】腾讯大幅削减业务方向，优化结构](https://blog.csdn.net/Gabriel100yi/article/details/140216658)
+
