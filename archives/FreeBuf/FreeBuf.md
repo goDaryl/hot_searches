@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/405345.html)
 
++ [TETRA攻击 | 全球关键基础设施&执法机构面临重大威胁](https://www.freebuf.com/articles/neopoints/404597.html)
+
