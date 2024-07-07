@@ -169,3 +169,13 @@
 
 + [Wood Fired Shirt](https://dribbble.com/shots/)
 
++ [Dwarf Ops SaaS animation](https://dribbble.com/shots/)
+
++ [checkmark, verification, safe, logo and brand identity](https://dribbble.com/shots/)
+
++ [GearsLink Logo Design](https://dribbble.com/shots/)
+
++ [Gaspo medicine abstract logo, minimalist logo](https://dribbble.com/shots/)
+
++ [Kiddie | Brand Guidelines](https://dribbble.com/shots/)
+
