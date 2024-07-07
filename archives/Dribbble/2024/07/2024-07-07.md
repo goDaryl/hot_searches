@@ -179,3 +179,11 @@
 
 + [Kiddie | Brand Guidelines](https://dribbble.com/shots/)
 
++ [Logo, Real Estate, Mortgage, Construction,  Logo Collection 2024](https://dribbble.com/shots/)
+
++ [Meditation ai app design](https://dribbble.com/shots/)
+
++ [M letter minimalist logo design. Makio logo](https://dribbble.com/shots/)
+
++ [Arrow Logo A logo](https://dribbble.com/shots/)
+
