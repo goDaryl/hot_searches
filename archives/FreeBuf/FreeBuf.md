@@ -41,3 +41,5 @@
 
 + [国际行动关闭了 593 台恶意 Cobalt Strike 服务器](https://www.freebuf.com/news/405155.html)
 
++ [横扫全球:Grandoreiro银行木马活动](https://www.freebuf.com/articles/system/404856.html)
+
