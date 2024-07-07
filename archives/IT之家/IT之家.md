@@ -37,3 +37,7 @@
 
 + [支持音视频通话与移动端互相转接，腾讯 QQ 更新 Windows 9.9.12、macOS 6.9.39、Linux 3.2.10 版本](https://m.ithome.com/html/780134.htm)
 
++ [理想 L6 提车 9 天后要换电机，官方回应：不符合“三包”退换车规定](https://m.ithome.com/html/780175.htm)
+
++ [网红摆拍生吃野生菌“见手青”，抖音：给予禁言 30 天等多项处罚](https://m.ithome.com/html/780172.htm)
+
