@@ -123,3 +123,7 @@
 
 + [【机器学习】Google开源大模型Gemma2：原理、微调训练及推理部署实战](https://blog.csdn.net/weixin_48007632/article/details/140188530)
 
++ [空闲时间写个收货地址静态页面，用到时直接拿来用，需要的道友一键复制即可。](https://blog.csdn.net/weixin_64537406/article/details/140225021)
+
++ [利用 STM32 实现多协议物联网网关：Modbus/Zigbee 到以太网/Wi-Fi 的数据桥接](https://blog.csdn.net/qq_40431685/article/details/140199307)
+
