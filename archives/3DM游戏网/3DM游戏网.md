@@ -141,3 +141,9 @@
 
 + [《Dawnmaker》登陆Steam 卡牌构建城镇建设](https://www.3dmgame.com/news/202407/3899084.html)
 
++ [小说改编动画《香格里拉边境》第二季预告片放出 10月13日播出](https://www.3dmgame.com/news/202407/3899102.html)
+
++ [《夜下降生2》DLC角色“Uzuki”新预告 8月上线](https://www.3dmgame.com/news/202407/3899100.html)
+
++ [《拼图世界》登陆Steam 经典P版S创意对战名作](https://www.3dmgame.com/news/202407/3899101.html)
+
