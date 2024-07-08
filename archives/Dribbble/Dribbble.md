@@ -77,3 +77,11 @@
 
 + [First Notion • Sleek Traditional Apparel Collection](https://dribbble.com/shots/)
 
++ [Johnny cash](https://dribbble.com/shots/)
+
++ [Los Angeles Rams](https://dribbble.com/shots/)
+
++ [Studying Abroad](https://dribbble.com/shots/)
+
++ [Plants of the future](https://dribbble.com/shots/)
+
