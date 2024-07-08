@@ -167,3 +167,5 @@
 
 + [BBA骨折促销 日系车销量崩盘：中国汽车市场下半年可能不降价了 这是原因](https://www.3dmgame.com/news/202407/3899111.html)
 
++ [中国AI大模型数量占全球超1/3！生成式AI专利申请量第一](https://www.3dmgame.com/news/202407/3899113.html)
+
