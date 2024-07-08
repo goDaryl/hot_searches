@@ -121,3 +121,19 @@
 
 + [Facebook数据仓库的变迁与启示](https://blog.csdn.net/qq_26664043/article/details/138449323)
 
++ [图像处理调试软件推荐](https://blog.csdn.net/bjcyck/article/details/140226395)
+
++ [【Linux】信号的处理](https://blog.csdn.net/JLX_1/article/details/139883359)
+
++ [Tabu Search — 温和介绍](https://blog.csdn.net/gongdiwudu/article/details/140208335)
+
++ [【研究】债务周期看地产，大拐点来了吗？](https://blog.csdn.net/Gabriel100yi/article/details/140250859)
+
++ [ElasticSearch 如何计算得分及一个不太成熟的使用](https://blog.csdn.net/x123453316/article/details/140234078)
+
++ [WPS+Python爬取百度之星排名](https://blog.csdn.net/m0_49303993/article/details/140238951)
+
++ [Kafka第四篇——生产数据总体概括，源码解析分区策略，数据收集器，Sender发送线程，key值](https://blog.csdn.net/m0_74106420/article/details/139889232)
+
++ [文件管理下：文件函数的学习](https://blog.csdn.net/2302_79964175/article/details/140243124)
+
