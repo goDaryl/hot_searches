@@ -35,3 +35,7 @@
 
 + [卢伟冰考察小米米家电饭煲生态链，网友提议：应在内胆、按键等用料上更扎实](https://m.ithome.com/html/780268.htm)
 
++ [2024 电竞世界杯《英雄联盟》T1 战队 3:1 TES 拿下总冠军](https://m.ithome.com/html/780263.htm)
+
++ [明年 1 月开测，iOS 18.4 正式上线：古尔曼称 Apple Intelligence“加持版”全新 Siri 今年不会推出](https://m.ithome.com/html/780264.htm)
+
