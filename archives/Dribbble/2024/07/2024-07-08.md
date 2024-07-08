@@ -151,3 +151,37 @@
 
 + [Violin](https://dribbble.com/shots/)
 
++ [Furniture Purchase - Vision OS](https://dribbble.com/shots/)
+
++ [RadiantRenew - Solar Panel Website](https://dribbble.com/shots/)
+
++ [Hero Exploration || Creative Agency](https://dribbble.com/shots/)
+
++ [Propwise: Inbox Messaging Property Management Web App SaaS ????](https://dribbble.com/shots/)
+
++ [Syncrowave - CRM Dashboard](https://dribbble.com/shots/)
+
++ [AIZ CRM - Shenzhen CRM Dashboard](https://dribbble.com/shots/)
+
++ [Digital River x FUI](https://dribbble.com/shots/)
+
++ [Etheros](https://dribbble.com/shots/)
+
++ [Fox Wallet App Lead Page Illustration](https://dribbble.com/shots/)
+
++ [Desert Dreams](https://dribbble.com/shots/)
+
++ [Social UI Works](https://dribbble.com/shots/)
+
++ [ChickFocus Onboarding Screens](https://dribbble.com/shots/)
+
++ [TypeQuest : Personality Test - Character Design](https://dribbble.com/shots/)
+
++ [CRM Mobile App - Cusana ✨](https://dribbble.com/shots/)
+
++ [KVARASCALEIE - AI Landing Page](https://dribbble.com/shots/)
+
++ [UnifiedHR → Add Employee](https://dribbble.com/shots/)
+
++ [Camp Buddy - Child Monitor Mobile App UI/UX and Branding ????](https://dribbble.com/shots/)
+
