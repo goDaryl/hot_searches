@@ -139,3 +139,5 @@
 
 + [动漫盗版站Animflix突然下线 月访问达数千万](https://www.3dmgame.com/news/202407/3899095.html)
 
++ [《Dawnmaker》登陆Steam 卡牌构建城镇建设](https://www.3dmgame.com/news/202407/3899084.html)
+
