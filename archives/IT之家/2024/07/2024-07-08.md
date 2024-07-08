@@ -33,3 +33,5 @@
 
 + [消息称华为 MatePad Pro 12.2 英寸平板预计 8 月发布，支持北斗卫星消息、星闪](https://m.ithome.com/html/780200.htm)
 
++ [卢伟冰考察小米米家电饭煲生态链，网友提议：应在内胆、按键等用料上更扎实](https://m.ithome.com/html/780268.htm)
+
