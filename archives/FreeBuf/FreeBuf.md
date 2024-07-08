@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 《人工智能全球治理上海宣言》发布；以太坊邮件列表泄露](https://www.freebuf.com/news/405347.html)
 
++ [企业安全 | 密网的部署](https://www.freebuf.com/articles/es/405102.html)
+
