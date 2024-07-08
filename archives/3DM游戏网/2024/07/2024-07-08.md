@@ -169,3 +169,13 @@
 
 + [中国AI大模型数量占全球超1/3！生成式AI专利申请量第一](https://www.3dmgame.com/news/202407/3899113.html)
 
++ [《Run, Vivian Run》Steam上线 少女幻想世界动作冒险](https://www.3dmgame.com/news/202407/3899118.html)
+
++ [Skydance宣布与派拉蒙合并 将成立价值280亿美元的“新派拉蒙”](https://www.3dmgame.com/news/202407/3899117.html)
+
++ [冻结所有高管年薪！韩国电池巨头SK On称公司已到绝境](https://www.3dmgame.com/news/202407/3899116.html)
+
++ [29岁程序员熬夜看球后突然瘫了 严重还会猝死](https://www.3dmgame.com/news/202407/3899115.html)
+
++ [粉丝自制《黑神话》蜘蛛精四妹建模 自带高贵气场](https://www.3dmgame.com/news/202407/3899114.html)
+
