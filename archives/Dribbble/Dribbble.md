@@ -145,3 +145,9 @@
 
 + [Creative Meats](https://dribbble.com/shots/)
 
++ [Lincoln's Funeral Train](https://dribbble.com/shots/)
+
++ [Sun Motter Typeface](https://dribbble.com/shots/)
+
++ [Bitcoin quiz](https://dribbble.com/shots/)
+
