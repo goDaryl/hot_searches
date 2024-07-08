@@ -103,3 +103,21 @@
 
 + [FPGA目前热议课题及技术瓶颈](https://blog.csdn.net/RadLU/article/details/140246066)
 
++ [【机器学习】基于密度的聚类算法：DBSCAN详解](https://blog.csdn.net/qq_44214428/article/details/140228957)
+
++ [免杀笔记 ----＞ DLL注入](https://blog.csdn.net/huohaowen/article/details/140218309)
+
++ [【宠粉赠书】Linux C与C++一线开发实践](https://blog.csdn.net/weixin_41793160/article/details/140216991)
+
++ [SwiftUI 6.0（iOS 18.0）滚动视图新增的滚动阶段（Scroll Phase）监听功能趣谈](https://blog.csdn.net/mydo/article/details/140224022)
+
++ [鸿蒙NEXT不再支持安卓这条路真的走的通吗?](https://blog.csdn.net/m0_68271787/article/details/140251053)
+
++ [背单词小程序课设（论文 + 代码）](https://blog.csdn.net/m0_72249799/article/details/140221090)
+
++ [迎接AI新时代：GPT-5即将登场的巨大变革与应用前瞻](https://blog.csdn.net/2202_76097976/article/details/140231265)
+
++ [KafKa学习](https://blog.csdn.net/jdaiwlsd/article/details/140233053)
+
++ [Facebook数据仓库的变迁与启示](https://blog.csdn.net/qq_26664043/article/details/138449323)
+

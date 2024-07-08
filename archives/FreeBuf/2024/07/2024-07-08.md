@@ -41,3 +41,5 @@
 
 + [ESET：2024年H1威胁报告](https://www.freebuf.com/articles/405187.html)
 
++ [揭秘AI万能钥匙，可实现批量越狱](https://www.freebuf.com/vuls/404946.html)
+
