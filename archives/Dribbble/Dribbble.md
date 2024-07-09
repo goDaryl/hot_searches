@@ -175,3 +175,7 @@
 
 + [Paradise Point ⛵](https://dribbble.com/shots/)
 
++ [LogiGo. - Logistic Dashboard](https://dribbble.com/shots/)
+
++ [Zendenta - Pay Bill Flow Case Study - a SaaS of Dental Clinic](https://dribbble.com/shots/)
+
