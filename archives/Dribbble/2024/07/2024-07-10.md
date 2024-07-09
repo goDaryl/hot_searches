@@ -117,3 +117,7 @@
 
 + [Moon Shine - The Cowboy & The Coyote](https://dribbble.com/shots/)
 
++ [Sebastopol Fruit](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Front Label Design](https://dribbble.com/shots/)
+
