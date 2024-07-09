@@ -35,3 +35,7 @@
 
 + [小米 Redmi Note 13 系列手机被曝增加区域检测：无法运行国际版系统](https://m.ithome.com/html/780373.htm)
 
++ [被宝马 X5 电吸门夹断拇指，美国一车主获赔 190 万美元](https://m.ithome.com/html/780428.htm)
+
++ [极氪首款家用 SUV 伪装照公布，爆料为“极氪 007 兄弟车型”](https://m.ithome.com/html/780307.htm)
+
