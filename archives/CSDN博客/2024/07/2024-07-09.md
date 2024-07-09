@@ -189,3 +189,5 @@
 
 + [基于springboot+vue+uniapp的机电公司管理信息系统](https://blog.csdn.net/shmp54/article/details/140279567)
 
++ [Spring的AOP进阶。（AOP的通知类型、通知顺序、切入点表达式和连接点。）](https://blog.csdn.net/2302_79020600/article/details/140264565)
+
