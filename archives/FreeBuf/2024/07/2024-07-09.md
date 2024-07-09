@@ -41,3 +41,5 @@
 
 + [横扫全球:Grandoreiro银行木马活动](https://www.freebuf.com/articles/system/404856.html)
 
++ [2024年10起最重大的网络攻击和数据泄露事件](https://www.freebuf.com/news/405374.html)
+
