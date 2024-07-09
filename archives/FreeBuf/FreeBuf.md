@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 揭露美炮制“伏特台风”内幕；泰勒演唱会16万张门票泄露](https://www.freebuf.com/news/405445.html)
 
++ [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
+
++ [大模型安全风险前沿：基于图像语义越狱多模态大模型](https://www.freebuf.com/articles/es/404715.html)
+
