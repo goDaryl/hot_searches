@@ -39,3 +39,9 @@
 
 + [极氪首款家用 SUV 伪装照公布，爆料为“极氪 007 兄弟车型”](https://m.ithome.com/html/780307.htm)
 
++ [苹果 iOS / iPadOS 18 开发者预览版 Beta 3 发布：增强主界面深色图标、引入新壁纸等](https://m.ithome.com/html/780487.htm)
+
++ [昔日“销冠”也降价：东风日产轩逸悦享版 9.98 万元起，轩逸・经典舒适版 6.98 万元起](https://m.ithome.com/html/780476.htm)
+
++ [上海临港 “莫比乌斯环”主体结构建设完成，公园年底前竣工](https://m.ithome.com/html/780320.htm)
+
