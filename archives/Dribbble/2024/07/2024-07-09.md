@@ -231,3 +231,25 @@
 
 + [World Props](https://dribbble.com/shots/)
 
++ [ITS](https://dribbble.com/shots/)
+
++ [NOOB energy 3D stylized loop animation](https://dribbble.com/shots/)
+
++ [Galaxea - NFT Web3 Landing Page](https://dribbble.com/shots/)
+
++ [F&O Trading - Mobile App FinTech](https://dribbble.com/shots/)
+
++ [AI Motion Animation](https://dribbble.com/shots/)
+
++ [Branding for Travel Platform](https://dribbble.com/shots/)
+
++ [Total Missed Weeks - Color](https://dribbble.com/shots/)
+
++ [FFTC Brand Identity](https://dribbble.com/shots/)
+
++ [Reflex.dev Redesign](https://dribbble.com/shots/)
+
++ [Doctor Analytic Tool Visual Identity](https://dribbble.com/shots/)
+
++ [Meerkat Logo](https://dribbble.com/shots/)
+
