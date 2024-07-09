@@ -187,3 +187,35 @@
 
 + [family day](https://dribbble.com/shots/)
 
++ [Enode – Mobile screens](https://dribbble.com/shots/)
+
++ [Branding Exploration - Edulite](https://dribbble.com/shots/)
+
++ [Passport - Web3 Loyalty App](https://dribbble.com/shots/)
+
++ [Synapse - AI Business Growth Company Website](https://dribbble.com/shots/)
+
++ [Play Button and Toggle Switch Logo Concept](https://dribbble.com/shots/)
+
++ [Untitled UI v5.0](https://dribbble.com/shots/)
+
++ [Bison leather stamp](https://dribbble.com/shots/)
+
++ [Xiaomi Plasma Charging by Milkinside](https://dribbble.com/shots/)
+
++ [pixel perfect - marketing agency website](https://dribbble.com/shots/)
+
++ [Glide - AI Meeting Dashboard](https://dribbble.com/shots/)
+
++ [Dive - Crypto Wallet App](https://dribbble.com/shots/)
+
++ [Logos created using AI ????](https://dribbble.com/shots/)
+
++ [Harmony app design](https://dribbble.com/shots/)
+
++ [TypeQuest : Personality Test - Landing Page Website](https://dribbble.com/shots/)
+
++ [Finster: AI Feature Mobile App Fintech Banking - Cards ????](https://dribbble.com/shots/)
+
++ [Screen Time Mobile App](https://dribbble.com/shots/)
+
