@@ -229,3 +229,7 @@
 
 + [上万块钱买了一块RTX4090显卡 结果竟然是RTX3080](https://www.3dmgame.com/news/202407/3899210.html)
 
++ [高通聘请了前AMD光追专家 以提升Adreno GPU游戏性能和兼容性](https://www.3dmgame.com/news/202407/3899213.html)
+
++ [追随英伟达！AMD将变成一家以开发软件为主的公司](https://www.3dmgame.com/news/202407/3899214.html)
+
