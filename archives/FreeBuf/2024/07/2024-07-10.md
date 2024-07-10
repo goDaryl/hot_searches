@@ -59,3 +59,5 @@
 
 + [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
 
++ [RADIUS身份验证协议惊现三十年的漏洞，CERT呼吁紧急关注](https://www.freebuf.com/news/405650.html)
+

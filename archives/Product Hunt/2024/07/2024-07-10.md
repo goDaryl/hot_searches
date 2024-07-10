@@ -163,3 +163,5 @@
 
 + [Raijin.ai](https://www.producthunt.com/posts/raijin-ai)
 
++ [gpt@franzai.com](https://www.producthunt.com/posts/gpt-franzai-com)
+
