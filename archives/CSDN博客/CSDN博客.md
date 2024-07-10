@@ -101,3 +101,11 @@
 
 + [Pandas在生物信息学中的应用详解](https://blog.csdn.net/eclipsercp/article/details/140309065)
 
++ [探展2024世界人工智能大会之合合信息扫描黑科技～](https://blog.csdn.net/weixin_42250835/article/details/140281879)
+
++ [Elasticsearch 缓存策略详解：优化你的搜索体验](https://blog.csdn.net/benshu_001/article/details/140309663)
+
++ [项目推荐—文本标注 poplar-annotation用法及相关问题解决](https://blog.csdn.net/weixin_56048772/article/details/140276745)
+
++ [智能微服务调度：Eureka中的区域感知性配置指南](https://blog.csdn.net/2401_85439108/article/details/140302504)
+

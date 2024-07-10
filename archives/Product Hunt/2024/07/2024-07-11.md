@@ -103,3 +103,5 @@
 
 + [Krut AI](https://www.producthunt.com/posts/krut-ai)
 
++ [Parallel DOM](https://www.producthunt.com/posts/parallel-dom)
+
