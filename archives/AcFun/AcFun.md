@@ -69,3 +69,5 @@
 
 + [Bunny style](http://www.acfun.cn/v/ac45195254)
 
++ [【歌回录像】试试新弹幕姬~（终于马上要补完啦！！） 2024-06-26](http://www.acfun.cn/v/ac45188571)
+
