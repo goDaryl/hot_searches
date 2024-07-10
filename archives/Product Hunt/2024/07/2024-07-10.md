@@ -165,3 +165,5 @@
 
 + [gpt@franzai.com](https://www.producthunt.com/posts/gpt-franzai-com)
 
++ [FranzAI](https://www.producthunt.com/posts/franzai)
+
