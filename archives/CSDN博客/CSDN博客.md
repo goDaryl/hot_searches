@@ -143,3 +143,11 @@
 
 + [微服务 | Springboot整合Seata+Nacos实现分布式事务](https://blog.csdn.net/m0_60500421/article/details/140269549)
 
++ [【MySQL】MySQL连接池原理与简易网站数据流动是如何进行](https://blog.csdn.net/fight_p/article/details/139605694)
+
++ [【微服务】Spring Cloud中如何使用Eureka](https://blog.csdn.net/jinxinxin1314/article/details/140310061)
+
++ [哈喽GPT-4o，程序员如何通过GPT-4o提高工作效率](https://blog.csdn.net/guorui_java/article/details/140257889)
+
++ [【HarmonyOS NEXT】鸿蒙线程安全容器集collections.TypedArray](https://blog.csdn.net/wu1004019946/article/details/140271320)
+

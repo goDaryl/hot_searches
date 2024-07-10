@@ -125,3 +125,19 @@
 
 + [《自杀小队：消灭正义联盟》第二季推迟至7/25上线](https://www.3dmgame.com/news/202407/3899226.html)
 
++ [动画电影《怪物史瑞克5》官宣 定档2026年7月](https://www.3dmgame.com/news/202407/3899233.html)
+
++ [《魔兽世界》国服巫妖王之怒战网商城回归 7月11日开放](https://www.3dmgame.com/news/202407/3899234.html)
+
++ [《七日世界》PC版免费发布 多人开放世界生存](https://www.3dmgame.com/news/202407/3899235.html)
+
++ [《吸血鬼幸存者》及两个DLC将于8月登录Apple Arcade](https://www.3dmgame.com/news/202407/3899236.html)
+
++ [美少女银河城游戏《边境猎人》预告 7月26日正式发售](https://www.3dmgame.com/news/202407/3899237.html)
+
++ [在线合作动作冒险游戏《DuneCrawl》Steam页面 发行日期待定](https://www.3dmgame.com/news/202407/3899238.html)
+
++ [《漫威金刚狼》开发接近完成 多位开发者离职加入CDPR](https://www.3dmgame.com/news/202407/3899231.html)
+
++ [《战地2042》和《死亡空间》联动活动现已上线](https://www.3dmgame.com/news/202407/3899232.html)
+
