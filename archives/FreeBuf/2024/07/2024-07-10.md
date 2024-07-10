@@ -53,3 +53,7 @@
 
 + [攻防演练工具 | Oracle数据库getshell的另一种思路](https://www.freebuf.com/defense/405383.html)
 
++ [RADIUS协议存在漏洞，网络和设备容易受到攻击](https://www.freebuf.com/news/405650.html)
+
++ [如何使用Vger对已经过身份验证的Jupyter实例进行安全检测](https://www.freebuf.com/sectool/405523.html)
+
