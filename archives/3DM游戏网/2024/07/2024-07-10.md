@@ -255,3 +255,9 @@
 
 + [CDPR危？ZZZQ女拳加盟 担任高级编剧](https://www.3dmgame.com/news/202407/3899294.html)
 
++ [《NBA 2K25》9月6日发售 杰森·塔图姆作为封面人物](https://www.3dmgame.com/news/202407/3899298.html)
+
++ [恐怖游戏？任天堂公开新游宣传片：笑み男](https://www.3dmgame.com/news/202407/3899297.html)
+
++ [《七日世界》Steam首发褒贬不一 网易回应收集个人数据担忧](https://www.3dmgame.com/news/202407/3899296.html)
+
