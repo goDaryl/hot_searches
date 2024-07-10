@@ -35,3 +35,7 @@
 
 + [iPhone 15 Pro Max 原型机上手，初探被苹果取消的触觉音量 / 电源按钮](https://m.ithome.com/html/780749.htm)
 
++ [售 17.99 万元起，全新一代一汽-大众迈腾上市：顶配车型搭载大疆智驾](https://m.ithome.com/html/780716.htm)
+
++ [售 22.49 万元起，大众 CC 家族众享款上市](https://m.ithome.com/html/780662.htm)
+
