@@ -57,3 +57,5 @@
 
 + [如何使用Vger对已经过身份验证的Jupyter实例进行安全检测](https://www.freebuf.com/sectool/405523.html)
 
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
