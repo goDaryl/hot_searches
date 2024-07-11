@@ -173,3 +173,11 @@
 
 + [京东.Vision首登苹果Vision Pro 背后的技术探索](https://blog.csdn.net/zheli1969917/article/details/140350941)
 
++ [【AI大模型】赋能儿童安全：楼层与室内定位实践与未来发展](https://blog.csdn.net/rjdeng/article/details/140259033)
+
++ [ubuntu将solidworks模型导入到ros(gazebo/rviz)](https://blog.csdn.net/qq_45703639/article/details/140352868)
+
++ [珍藏多年的计算机内核结构大全笔记，掌握计算机工作原理真不难](https://blog.csdn.net/mgzdwm/article/details/140247568)
+
++ [NI 5G大规模MIMO测试台：将理论变为现实](https://blog.csdn.net/qq_36666115/article/details/140335356)
+

@@ -57,3 +57,7 @@
 
 + [小米 Redmi K70 至尊版手机三款配色公布：冰璃、墨羽、晴雪](https://m.ithome.com/html/781097.htm)
 
++ [三星 Galaxy Ring 智能戒指发布：提供强大健康监测功能，售价 3099 元](https://m.ithome.com/html/780949.htm)
+
++ [三星 Galaxy Z Flip6 手机发布：折叠状态机身更薄 / 内置端侧 Galaxy AI，8999 元起](https://m.ithome.com/html/780947.htm)
+
