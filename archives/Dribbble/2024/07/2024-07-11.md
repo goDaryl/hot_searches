@@ -195,3 +195,11 @@
 
 + [Tank Logo Concept](https://dribbble.com/shots/)
 
++ [Gradients Logo Designs Part 2](https://dribbble.com/shots/)
+
++ [Cyberday Logo Design](https://dribbble.com/shots/)
+
++ [CreditProtect logo concept (unused)](https://dribbble.com/shots/)
+
++ [Dancing Badger Logo](https://dribbble.com/shots/)
+

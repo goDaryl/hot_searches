@@ -53,3 +53,5 @@
 
 + [多退少不补：三星 Galaxy Z Fold6 / Watch7 / Buds 3 等新品京东开售](https://m.ithome.com/html/780964.htm)
 
++ [中国电信直连卫星业务免费体验 1 整年：华为、荣耀、小米、OPPO、vivo 旗舰手机用户均可订购](https://m.ithome.com/html/781105.htm)
+
