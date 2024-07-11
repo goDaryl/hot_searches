@@ -53,3 +53,7 @@
 
 + [标品软件有限公司诚招安卓逆向开发工程师，氛围轻松不内卷](https://www.freebuf.com/news/405714.html)
 
++ [GitLab再曝关键漏洞，允许攻击者以其他用户身份运行管道](https://www.freebuf.com/news/405728.html)
+
++ [记一次Chatgpt挖掘任意用户登录漏洞](https://www.freebuf.com/articles/web/404896.html)
+
