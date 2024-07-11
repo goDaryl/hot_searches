@@ -61,3 +61,5 @@
 
 + [官方强烈建议升级，GitLab又曝严重的账户接管漏洞](https://www.freebuf.com/news/405728.html)
 
++ [SRC必会技巧——CORS跨域漏洞](https://www.freebuf.com/vuls/403124.html)
+

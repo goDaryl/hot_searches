@@ -135,3 +135,21 @@
 
 + [Almeta ML](https://www.producthunt.com/posts/almeta-ml)
 
++ [LSD](https://www.producthunt.com/posts/lsd)
+
++ [Sandee](https://www.producthunt.com/posts/sandee-2)
+
++ [Korvus](https://www.producthunt.com/posts/korvus)
+
++ [Swipe Sort](https://www.producthunt.com/posts/swipe-sort)
+
++ [kanna/terra](https://www.producthunt.com/posts/kanna-terra)
+
++ [CrawlrLabs](https://www.producthunt.com/posts/crawlrlabs)
+
++ [Free Monitoring Suite by WebGazer](https://www.producthunt.com/posts/free-monitoring-suite-by-webgazer)
+
++ [AnyoneCanAI](https://www.producthunt.com/posts/anyonecanai)
+
++ [Daminik](https://www.producthunt.com/posts/daminik)
+

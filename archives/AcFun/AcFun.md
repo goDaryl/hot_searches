@@ -97,3 +97,5 @@
 
 + [【幽默男刀】秋哥vol.2](http://www.acfun.cn/v/ac45157109)
 
++ [最终BOSS千年后竟变废柴！这款无限轮回的游戏隐藏了全部真相！](http://www.acfun.cn/v/ac45216220)
+
