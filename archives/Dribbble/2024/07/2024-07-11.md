@@ -161,3 +161,7 @@
 
 + [Dauernd - Creative Design Agency Responsive Page Website](https://dribbble.com/shots/)
 
++ [Community Mobile App](https://dribbble.com/shots/)
+
++ [InGuru](https://dribbble.com/shots/)
+
