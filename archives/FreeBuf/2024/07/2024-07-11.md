@@ -41,3 +41,5 @@
 
 + [2024年10起最重大的网络攻击和数据泄露事件](https://www.freebuf.com/news/405374.html)
 
++ [警惕：与ChatGPT共享业务数据可能十分危险](https://www.freebuf.com/news/405377.html)
+

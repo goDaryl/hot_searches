@@ -113,3 +113,11 @@
 
 + [罪恶工具开发商3D新作《双截龙：复兴》即将登场](https://www.3dmgame.com/news/202407/3899304.html)
 
++ [《Concord》新实机视频展示奖杯狩猎模式](https://www.3dmgame.com/news/202407/3899312.html)
+
++ [《黑石板》公布 结合《合金装备》《传送门》](https://www.3dmgame.com/news/202407/3899311.html)
+
++ [《战锤40K：星际战士2》新截图分享 画质出色印象深刻](https://www.3dmgame.com/news/202407/3899310.html)
+
++ [拳头取消了一款《任天堂明星大乱斗》风格格斗游戏](https://www.3dmgame.com/news/202407/3899309.html)
+
