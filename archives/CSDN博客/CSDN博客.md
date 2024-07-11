@@ -181,3 +181,11 @@
 
 + [NI 5G大规模MIMO测试台：将理论变为现实](https://blog.csdn.net/qq_36666115/article/details/140335356)
 
++ [数字化时代的供应链管理综合解决方案](https://blog.csdn.net/weixin_42794881/article/details/140342451)
+
++ [C++的介绍与认识](https://blog.csdn.net/2302_79376097/article/details/140299938)
+
++ [Elasticsearch：使用 Filebeat 从 Node.js Web 应用程序提取日志](https://blog.csdn.net/UbuntuTouch/article/details/140313786)
+
++ [软件供应链安全：如何防范潜在的攻击？](https://blog.csdn.net/weixin_55163056/article/details/140351805)
+
