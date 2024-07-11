@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 谷歌开放“暗网报告”功能；Eldorado 勒索软件登场](https://www.freebuf.com/news/405687.html)
 
++ [渗透测试 | SQL注入中的WAF绕过](https://www.freebuf.com/articles/web/404845.html)
+
