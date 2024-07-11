@@ -47,3 +47,7 @@
 
 + [渗透测试 | SQL注入中的WAF绕过](https://www.freebuf.com/articles/web/404845.html)
 
++ [标品软件有限公司诚招安卓逆向开发工程师，氛围轻松不加班](https://www.freebuf.com/news/405714.html)
+
++ [替代传统物理密钥，谷歌高级保护计划迎来重大更新！](https://www.freebuf.com/news/405698.html)
+

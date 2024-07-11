@@ -35,3 +35,7 @@
 
 + [OPPO、一加用户福利：ColorOS 15 被曝将支持苹果 iOS 实况照片等功能](https://m.ithome.com/html/780835.htm)
 
++ [三星 Galaxy Watch7 / Ultra 智能手表发布：3nm 处理器、升级 BioActive 生物传感器，国行 1999 元起](https://m.ithome.com/html/780950.htm)
+
++ [阿里巴巴再次减持网易云音乐，持股比例从 7.0% 降至 5.19%](https://m.ithome.com/html/780922.htm)
+
