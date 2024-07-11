@@ -43,3 +43,5 @@
 
 + [警惕：与ChatGPT共享业务数据可能十分危险](https://www.freebuf.com/news/405377.html)
 
++ [FreeBuf早报 | 谷歌开放“暗网报告”功能；Eldorado 勒索软件登场](https://www.freebuf.com/news/405687.html)
+

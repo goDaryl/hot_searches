@@ -121,3 +121,9 @@
 
 + [拳头取消了一款《任天堂明星大乱斗》风格格斗游戏](https://www.3dmgame.com/news/202407/3899309.html)
 
++ [微软宣布将上调Xbox Game Pass价格 增加新的档位](https://www.3dmgame.com/news/202407/3899315.html)
+
++ [科幻侦探游戏《没人想死》IGN十分钟演示](https://www.3dmgame.com/news/202407/3899314.html)
+
++ [AMD将收购AI模型公司Silo 力图缩小与N差距](https://www.3dmgame.com/news/202407/3899313.html)
+

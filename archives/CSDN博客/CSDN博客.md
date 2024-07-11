@@ -131,3 +131,11 @@
 
 + [探秘大语言模型：技术前沿与应用实践](https://blog.csdn.net/lenovo_E520/article/details/140274427)
 
++ [利用【Python】【线性规划】优化工厂生产：实现智能资源配置与利润最大化的现代解决方案](https://blog.csdn.net/2303_77720864/article/details/140337134)
+
++ [Spring Boot 项目中如何实现服务发现与负载均衡？请结合Eureka 或 Consul 以及 Ribbon 或 Spring Cloud LoadBalancer进行说明？](https://blog.csdn.net/liangzai215/article/details/140309408)
+
++ [Spark SQL](https://blog.csdn.net/m0_74120525/article/details/140335034)
+
++ [【微服务】第31节：Redis的哨兵模式](https://blog.csdn.net/m0_46013789/article/details/140321454)
+
