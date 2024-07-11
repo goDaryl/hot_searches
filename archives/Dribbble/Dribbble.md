@@ -79,3 +79,51 @@
 
 + [New York poster](https://dribbble.com/shots/)
 
++ [RevdUp Branding and Product Icon Design](https://dribbble.com/shots/)
+
++ [Alien's Sweet Summer Joy](https://dribbble.com/shots/)
+
++ [Gradients Logo Designs Part 2](https://dribbble.com/shots/)
+
++ [Hedge Logo](https://dribbble.com/shots/)
+
++ [Terraview Dashboard Design Concept](https://dribbble.com/shots/)
+
++ [Cyberday Logo Design](https://dribbble.com/shots/)
+
++ [Crypto Swap branding](https://dribbble.com/shots/)
+
++ [Apparte - design fragments](https://dribbble.com/shots/)
+
++ [Moving House](https://dribbble.com/shots/)
+
++ [safepark: hardware wallet, web3, crypto, app, dashboard](https://dribbble.com/shots/)
+
++ [Gaia store website for children e-commerce](https://dribbble.com/shots/)
+
++ [Trading Mobile App - Trinkerr](https://dribbble.com/shots/)
+
++ [Amidst the Waves](https://dribbble.com/shots/)
+
++ [✨ Reworkd.ai](https://dribbble.com/shots/)
+
++ [Electis - E-Commerce Component](https://dribbble.com/shots/)
+
++ [Anatomy by Planes Branding](https://dribbble.com/shots/)
+
++ [GoTofu](https://dribbble.com/shots/)
+
++ [Dancing Badger Logo](https://dribbble.com/shots/)
+
++ [The Vowels of Hell](https://dribbble.com/shots/)
+
++ [Settings — Untitled UI](https://dribbble.com/shots/)
+
++ [Versus Tennis Branding](https://dribbble.com/shots/)
+
++ [CreditProtect logo concept (unused)](https://dribbble.com/shots/)
+
++ [City Adventure](https://dribbble.com/shots/)
+
++ [Instacart Restaurants](https://dribbble.com/shots/)
+
