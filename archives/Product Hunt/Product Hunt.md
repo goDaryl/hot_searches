@@ -107,3 +107,5 @@
 
 + [Hiive50](https://www.producthunt.com/posts/hiive50)
 
++ [Market Genius](https://www.producthunt.com/posts/market-genius)
+
