@@ -127,3 +127,5 @@
 
 + [【机器学习】线性判别分析（LDA）：从理论到实践](https://blog.csdn.net/qq_44214428/article/details/140235009)
 
++ [第三期-书生大模型实战营学习记录02](https://blog.csdn.net/aomeng_Miracle/article/details/140359882)
+
