@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 菲律宾医保系统泄露4200万用户数据；英美警方联手打击麒麟勒索软件](https://www.freebuf.com/news/405725.html)
 
++ [企业安全 | 企业内一次钓鱼演练准备过程](https://www.freebuf.com/articles/es/405657.html)
+

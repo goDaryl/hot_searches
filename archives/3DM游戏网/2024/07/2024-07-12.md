@@ -169,3 +169,15 @@
 
 + [《Neon White》Xbox版已推出 完成全平台成就](https://www.3dmgame.com/news/202407/3899410.html)
 
++ [《双截龙再临》全新预告和截图 画面精美人物细致！](https://www.3dmgame.com/news/202407/3899419.html)
+
++ [Splash Damage工作室发生裁员 正在开发《变形金刚》新作](https://www.3dmgame.com/news/202407/3899422.html)
+
++ [前《博德之门3》编剧谈“人熊战”创意：原本只是一句玩笑话](https://www.3dmgame.com/news/202407/3899420.html)
+
++ [经典恐怖电影《闪灵》女主角谢莉·杜瓦尔去世 享年75岁](https://www.3dmgame.com/news/202407/3899421.html)
+
++ [冰汽时代2《执政官101》第1集 9月20日发售](https://www.3dmgame.com/news/202407/3899423.html)
+
++ [《真人快打1》7月27日公布第二年更新内容 或联动终结者](https://www.3dmgame.com/news/202407/3899424.html)
+

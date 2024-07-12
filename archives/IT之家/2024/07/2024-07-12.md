@@ -33,3 +33,5 @@
 
 + [萝卜快跑无人出租车是有人远程代驾？ 客服称没有人操控](https://m.ithome.com/html/781243.htm)
 
++ [苹果教育商店开启 2024 返校季活动：入手指定款 Mac / iPad 可选 AirPods 或 Apple Pencil](https://m.ithome.com/html/781037.htm)
+
