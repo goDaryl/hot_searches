@@ -43,3 +43,5 @@
 
 + [解读前端js中签名算法伪造H5游戏加分逻辑攻击](https://www.freebuf.com/articles/web/405478.html)
 
++ [FreeBuf早报 | 菲律宾医保系统泄露4200万用户数据；英美警方联手打击麒麟勒索软件](https://www.freebuf.com/news/405725.html)
+
