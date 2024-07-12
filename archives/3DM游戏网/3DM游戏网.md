@@ -305,3 +305,5 @@
 
 + [5G智能手机芯片2024Q1出货量 联发科超越高通登顶](https://www.3dmgame.com/news/202407/3899483.html)
 
++ [分析称Game Pass未来还会涨价](https://www.3dmgame.com/news/202407/3899487.html)
+
