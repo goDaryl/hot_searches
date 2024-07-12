@@ -109,3 +109,5 @@
 
 + [Market Genius](https://www.producthunt.com/posts/market-genius)
 
++ [What Beats Rock](https://www.producthunt.com/posts/what-beats-rock)
+

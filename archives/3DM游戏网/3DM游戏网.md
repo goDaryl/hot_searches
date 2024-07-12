@@ -181,3 +181,15 @@
 
 + [《真人快打1》7月27日公布第二年更新内容 或联动终结者](https://www.3dmgame.com/news/202407/3899424.html)
 
++ [《闪客快跑3》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202407/3899425.html)
+
++ [《Apex英雄》新地图艺术泄露：霓虹灯下的夜景街区](https://www.3dmgame.com/news/202407/3899426.html)
+
++ [新版《超人》正式Logo公布 整整一年后上映](https://www.3dmgame.com/news/202407/3899427.html)
+
++ [快节奏动作射击游戏《愤怒的大脚》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202407/3899428.html)
+
++ [青桔推出《黑神话：悟空》联名车 属于天命人的单车](https://www.3dmgame.com/news/202407/3899429.html)
+
++ [Switch现已成为任天堂寿命最长的主机 超过了红白机](https://www.3dmgame.com/news/202407/3899430.html)
+
