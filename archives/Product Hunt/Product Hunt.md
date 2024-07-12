@@ -101,3 +101,5 @@
 
 + [Daminik](https://www.producthunt.com/posts/daminik)
 
++ [Free Monitoring Suite by WebGazer](https://www.producthunt.com/posts/free-monitoring-suite-by-webgazer)
+
