@@ -121,3 +121,9 @@
 
 + [[C++]——同步异步日志系统（4）](https://blog.csdn.net/plj521/article/details/140292986)
 
++ [Linux-设备树及其基本语法](https://blog.csdn.net/2302_81030423/article/details/140336746)
+
++ [金蝶云苍穹-插件开发（四）GPT开发相关插件](https://blog.csdn.net/2302_79468488/article/details/140321455)
+
++ [【机器学习】线性判别分析（LDA）：从理论到实践](https://blog.csdn.net/qq_44214428/article/details/140235009)
+
