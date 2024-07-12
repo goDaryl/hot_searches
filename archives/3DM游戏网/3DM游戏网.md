@@ -231,3 +231,5 @@
 
 + [英国皇家邮政推出《龙与地下城》联动邮票 庆祝50周年](https://www.3dmgame.com/news/202407/3899439.html)
 
++ [《鬼灭之刃 争当最强队士！》全新预告 7月17日上线Steam平台](https://www.3dmgame.com/news/202407/3899435.html)
+
