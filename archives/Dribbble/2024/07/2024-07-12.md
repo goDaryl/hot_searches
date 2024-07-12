@@ -219,3 +219,17 @@
 
 + [Crowded subway car](https://dribbble.com/shots/)
 
++ [Tuna Illustration](https://dribbble.com/shots/)
+
++ [K-Music Radio Logo](https://dribbble.com/shots/)
+
++ [Starbase Brewing](https://dribbble.com/shots/)
+
++ [Tiny Tummies](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Secondary Logo](https://dribbble.com/shots/)
+
++ [Letter F Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [Financial Dashboard Iteration](https://dribbble.com/shots/)
+
