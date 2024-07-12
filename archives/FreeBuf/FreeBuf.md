@@ -41,3 +41,5 @@
 
 + [滥用云服务进行传播的恶意软件越来越多](https://www.freebuf.com/articles/network/405112.html)
 
++ [解读前端js中签名算法伪造H5游戏加分逻辑攻击](https://www.freebuf.com/articles/web/405478.html)
+
