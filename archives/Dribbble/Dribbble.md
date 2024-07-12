@@ -193,3 +193,21 @@
 
 + [Hank's Logo Exploration](https://dribbble.com/shots/)
 
++ [Charity App Design](https://dribbble.com/shots/)
+
++ [Cheetah Logo](https://dribbble.com/shots/)
+
++ [Chat AI](https://dribbble.com/shots/)
+
++ [Banner for crypto Launchpad platform](https://dribbble.com/shots/)
+
++ [Real Estate Website](https://dribbble.com/shots/)
+
++ [Life bird logo design](https://dribbble.com/shots/)
+
++ [Spatial Sticky Notes (Intro)](https://dribbble.com/shots/)
+
++ [Gorillas](https://dribbble.com/shots/)
+
++ [Pets chat](https://dribbble.com/shots/)
+
