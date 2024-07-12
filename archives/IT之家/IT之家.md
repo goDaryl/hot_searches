@@ -35,3 +35,5 @@
 
 + [苹果教育商店开启 2024 返校季活动：入手指定款 Mac / iPad 可选 AirPods 或 Apple Pencil](https://m.ithome.com/html/781037.htm)
 
++ [小米产品经理魏思琪：MIX Flip 折叠屏手机配备全功能大外屏，完成外屏超 200 常用应用适配](https://m.ithome.com/html/781237.htm)
+
