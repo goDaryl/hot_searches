@@ -65,3 +65,7 @@
 
 + [极氪 MIX“宝宝巴士”纯电 MPV 灰色款实车曝光，预计下半年上市](https://m.ithome.com/html/781547.htm)
 
++ [吉利高级副总裁杨学良呼吁车企摆脱内卷，走出内卷怪圈](https://m.ithome.com/html/781574.htm)
+
++ [“爱奇艺限制投屏案”补偿 41 天 VIP 后续，原告决定继续上诉](https://m.ithome.com/html/781566.htm)
+
