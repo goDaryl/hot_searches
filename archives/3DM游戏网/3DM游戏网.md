@@ -141,3 +141,13 @@
 
 + [马斯克：到2026年Neuralink将为超过1000名患者植入脑机芯片](https://www.3dmgame.com/news/202407/3899511.html)
 
++ [《致命公司》开发者在制作“最棒的更新”：给我几周时间](https://www.3dmgame.com/news/202407/3899516.html)
+
++ [拉瑞安在《博德》以外还曾考虑过靠《辐射》突破](https://www.3dmgame.com/news/202407/3899515.html)
+
++ [“梦见岛”风格新作《Castaway》公布上市日期](https://www.3dmgame.com/news/202407/3899514.html)
+
++ [街机风格动作游戏《后末日侠盗》将于月底发售](https://www.3dmgame.com/news/202407/3899513.html)
+
++ [任天堂禁止第三方翻译人员在简历里包含参与作品](https://www.3dmgame.com/news/202407/3899512.html)
+
