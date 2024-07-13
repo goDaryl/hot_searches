@@ -167,3 +167,7 @@
 
 + [《你的眼眸命中我心头》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202407/3899518.html)
 
++ [《魔法微量球6》免费第二赛季DLC更新现已发布](https://www.3dmgame.com/news/202407/3899526.html)
+
++ [《漫威争锋》7月末封测将举办活动 奖励可继承至正式发布](https://www.3dmgame.com/news/202407/3899525.html)
+

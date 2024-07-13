@@ -41,3 +41,11 @@
 
 + [比亚迪海狮 05 DM-i 完成申报，搭载 DM 5.0 动力系统](https://m.ithome.com/html/781456.htm)
 
++ [比亚迪汉新增车型完成申报：可选激光雷达，预计配备 DM 5.0 混动技术](https://m.ithome.com/html/781469.htm)
+
++ [小鹏新车 P7 + 完成工信部申报：车长超 5 米，“两段式”车尾设计](https://m.ithome.com/html/781445.htm)
+
++ [荣耀路由 5 发布：“艺术家居设计”Wi-Fi 7 路由器，到手 269 元起](https://m.ithome.com/html/781411.htm)
+
++ [华为 × 奇瑞合作车型第二弹：智界 R7 轿跑 SUV 完成工信部申报，预计 9 月上市](https://m.ithome.com/html/781447.htm)
+

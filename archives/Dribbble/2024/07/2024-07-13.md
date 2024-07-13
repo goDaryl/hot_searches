@@ -159,3 +159,39 @@
 
 + [Cards For "Imaginarium" Board Game](https://dribbble.com/shots/)
 
++ [2D Caracter to 3D](https://dribbble.com/shots/)
+
++ [Jmaclennan logo](https://dribbble.com/shots/)
+
++ [Son of man](https://dribbble.com/shots/)
+
++ [21/32 – Minnesota Chippers](https://dribbble.com/shots/)
+
++ [SKNUP](https://dribbble.com/shots/)
+
++ [Bill Evans, a Jazz Icon.](https://dribbble.com/shots/)
+
++ [Random Cute Animals????????????](https://dribbble.com/shots/)
+
++ [Turbines](https://dribbble.com/shots/)
+
++ [Product Design for Analytics SaaS](https://dribbble.com/shots/)
+
++ [Telematics Company SaaS Dashboard](https://dribbble.com/shots/)
+
++ [Casa Bella](https://dribbble.com/shots/)
+
++ [Blog analytics — Untitled UI](https://dribbble.com/shots/)
+
++ [modern letter logo, medical logo, logo design](https://dribbble.com/shots/)
+
++ [Serenity Visual Identity](https://dribbble.com/shots/)
+
++ [Free Box PSD Mockup](https://dribbble.com/shots/)
+
++ [Sprout and Letter B](https://dribbble.com/shots/)
+
++ [AdFairy iOS App Icon](https://dribbble.com/shots/)
+
++ [Blockchain Logo](https://dribbble.com/shots/)
+
