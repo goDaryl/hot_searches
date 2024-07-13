@@ -129,3 +129,5 @@
 
 + [解谜冒险游戏《UNDERGROUNDED》Steam页面 明年发行](https://www.3dmgame.com/news/202407/3899504.html)
 
++ [塔防解谜游戏《Castle Doombad Classic》Steam页面 年内发售](https://www.3dmgame.com/news/202407/3899506.html)
+
