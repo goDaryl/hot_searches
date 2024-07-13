@@ -101,3 +101,13 @@
 
 + [【人工智能】-- 迁移学习](https://blog.csdn.net/2302_76516899/article/details/140390322)
 
++ [展望未来：在【PyCharm】中结合【机器学习】实现高效的图形化处理](https://blog.csdn.net/2301_79181030/article/details/140407783)
+
++ [Mysql的语句执行很慢，如何分析排查？](https://blog.csdn.net/weixin_43942414/article/details/140388759)
+
++ [【Django+Vue3 线上教育平台项目实战】构建高效线上教育平台之首页模块](https://blog.csdn.net/m0_48173416/article/details/140361883)
+
++ [复现ORB3-YOLO8项目记录](https://blog.csdn.net/qq_57425280/article/details/140380032)
+
++ [2024 辽宁省大学数学建模竞赛C 题 改性生物碳对水中洛克沙胂和砷离子的吸附 完整思路 代码结果分享（仅供学习）](https://blog.csdn.net/weixin_52051317/article/details/140399589)
+
