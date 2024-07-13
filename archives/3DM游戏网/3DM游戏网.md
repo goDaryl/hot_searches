@@ -185,3 +185,5 @@
 
 + [片场武器有实弹走火摄影师被害 著名演员过失杀人诉讼已被驳回](https://www.3dmgame.com/news/202407/3899532.html)
 
++ [英伟达AI GPU供应链短缺情况改善 预计下半年AI服务器出货量大增](https://www.3dmgame.com/news/202407/3899534.html)
+

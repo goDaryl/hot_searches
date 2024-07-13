@@ -179,3 +179,5 @@
 
 + [复现ORB3-YOLO8项目记录](https://blog.csdn.net/qq_57425280/article/details/140380032)
 
++ [AIGC专栏13——ComfyUI 插件编写细节解析-以EasyAnimateV3为例](https://blog.csdn.net/weixin_44791964/article/details/140399075)
+
