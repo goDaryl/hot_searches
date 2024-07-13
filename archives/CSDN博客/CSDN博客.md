@@ -153,3 +153,7 @@
 
 + [竞赛 深度学习乳腺癌分类](https://blog.csdn.net/iuerfee/article/details/140373906)
 
++ [微软Edge浏览器全解析](https://blog.csdn.net/dengqingrui123/article/details/140327274)
+
++ [prompt第四讲-fewshot](https://blog.csdn.net/weixin_41885239/article/details/140394241)
+
