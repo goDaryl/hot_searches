@@ -131,3 +131,13 @@
 
 + [塔防解谜游戏《Castle Doombad Classic》Steam页面 年内发售](https://www.3dmgame.com/news/202407/3899506.html)
 
++ [《消逝的光芒》开发商Techland要求员工回归办公室](https://www.3dmgame.com/news/202407/3899507.html)
+
++ [《第一后裔》开发商回应掉落率争议：将更加透明](https://www.3dmgame.com/news/202407/3899508.html)
+
++ [致20颗星链卫星损毁 SpaceX猎鹰9号7年首次发射失败](https://www.3dmgame.com/news/202407/3899509.html)
+
++ [《最后的炼金术士》现已发售 上市宣传片欣赏](https://www.3dmgame.com/news/202407/3899510.html)
+
++ [马斯克：到2026年Neuralink将为超过1000名患者植入脑机芯片](https://www.3dmgame.com/news/202407/3899511.html)
+
