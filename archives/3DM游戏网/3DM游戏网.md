@@ -125,3 +125,7 @@
 
 + [正确到底！BioWare解释为何《龙腾世纪：影障守护者》没有血魔法](https://www.3dmgame.com/news/202407/3899497.html)
 
++ [发布13年 经典游戏《泰拉瑞亚》终生销量超5800万份](https://www.3dmgame.com/news/202407/3899505.html)
+
++ [解谜冒险游戏《UNDERGROUNDED》Steam页面 明年发行](https://www.3dmgame.com/news/202407/3899504.html)
+

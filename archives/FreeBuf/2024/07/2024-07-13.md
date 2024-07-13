@@ -45,3 +45,7 @@
 
 + [FreeBuf 周报 | 微软强制中国员工使用iPhone验证身份；DDoS 攻击再破记录](https://www.freebuf.com/news/405857.html)
 
++ [攻防演练 | HVV红队复盘——总结（向上汇报）](https://www.freebuf.com/defense/375594.html)
+
++ [SharkTeam：2024年上半年度Web3安全报告](https://www.freebuf.com/articles/web/405439.html)
+
