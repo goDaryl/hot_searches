@@ -143,3 +143,15 @@
 
 + [You cant win if you dont play!](https://dribbble.com/shots/)
 
++ [Coffee Branding / Drop Co](https://dribbble.com/shots/)
+
++ [NYC Pattern](https://dribbble.com/shots/)
+
++ [Heads or Tails](https://dribbble.com/shots/)
+
++ [Summer Yummies](https://dribbble.com/shots/)
+
++ [Axiom - Logo , Logo design](https://dribbble.com/shots/)
+
++ [Illustration "the Garden of the Morning Calm", South Korea](https://dribbble.com/shots/)
+
