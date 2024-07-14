@@ -149,3 +149,13 @@
 
 + [《我的三体：第四季》动画今日开播 时隔四年回归](https://www.3dmgame.com/news/202407/3899563.html)
 
++ [《日本漂移大师》延期至8月8日正式推出 日本舞台漂移故事](https://www.3dmgame.com/news/202407/3899567.html)
+
++ [Bungie前法律顾问介绍如何锁定《命运2》泄密人](https://www.3dmgame.com/news/202407/3899568.html)
+
++ [《星际公民》免费试玩活动启动 还可获老玩家指导](https://www.3dmgame.com/news/202407/3899566.html)
+
++ [《极限竞速》过场动画负责人加盟《光环》工作室](https://www.3dmgame.com/news/202407/3899565.html)
+
++ [《Moonless Moon》今夏Steam发售 声画互动新游](https://www.3dmgame.com/news/202407/3899564.html)
+
