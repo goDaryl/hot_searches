@@ -159,3 +159,11 @@
 
 + [《Moonless Moon》今夏Steam发售 声画互动新游](https://www.3dmgame.com/news/202407/3899564.html)
 
++ [《庄园领主》发行商重申对旗下开发者的坚定支持](https://www.3dmgame.com/news/202407/3899571.html)
+
++ [《燧石枪：黎明之围》剧情预告 展示多种游戏元素](https://www.3dmgame.com/news/202407/3899572.html)
+
++ [《深岩银河》标志性口号改编单曲MV现已发布](https://www.3dmgame.com/news/202407/3899569.html)
+
++ [买台无人车替我打工跑网约车？政策法规还不允许](https://www.3dmgame.com/news/202407/3899570.html)
+
