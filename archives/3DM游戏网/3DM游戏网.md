@@ -119,3 +119,25 @@
 
 + [角色设计师爆料称《古惑狼5》开发项目已被取消](https://www.3dmgame.com/news/202407/3899547.html)
 
++ [《星尘战线》8月30日Steam抢测 牌组构建太空探索](https://www.3dmgame.com/news/202407/3899559.html)
+
++ [游戏总监表示《宣誓》叙事风格更接近《永恒之柱》](https://www.3dmgame.com/news/202407/3899558.html)
+
++ [开发者承认《巫师3》中对猎魔人感官功能使用过度](https://www.3dmgame.com/news/202407/3899557.html)
+
++ [司机等红灯玩手机被狠罚引热议 官方回应就是违法](https://www.3dmgame.com/news/202407/3899556.html)
+
++ [《孵道》8月登陆PC平台 不可回头日式恐怖新游](https://www.3dmgame.com/news/202407/3899555.html)
+
++ [《头脑特工队2》国内票房破3亿 已上映24天](https://www.3dmgame.com/news/202407/3899554.html)
+
++ [多人射击新作《星鸣特攻》测试版玩家评价褒贬不一](https://www.3dmgame.com/news/202407/3899553.html)
+
++ [ARPG《雷纳提斯》发布Day1更新 9月将登陆Steam](https://www.3dmgame.com/news/202407/3899552.html)
+
++ [中国网文用户高达5.5亿！45岁以下用户占近80%](https://www.3dmgame.com/news/202407/3899551.html)
+
++ [迪士尼遭黑客攻击 超1.1TB数据外泄](https://www.3dmgame.com/news/202407/3899550.html)
+
++ [樱井对《任天堂明星大乱斗X》动画泄露仍耿耿于怀](https://www.3dmgame.com/news/202407/3899549.html)
+

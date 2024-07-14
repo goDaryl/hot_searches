@@ -79,3 +79,7 @@
 
 + [空灵清澈，斯卡布罗集市《Scarborough Fair》（ACFUN声唱2024参赛曲目）](http://www.acfun.cn/v/ac45272078)
 
++ [【ACFUN声唱云参赛2024】【牛铲铲】原来一辈子 它真的很遥远「在加纳共和国离婚」](http://www.acfun.cn/v/ac45330192)
+
++ [熬夜后跳Supernatural的人会得到应有的惩罚！](http://www.acfun.cn/v/ac45330263)
+
