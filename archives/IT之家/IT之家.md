@@ -31,3 +31,5 @@
 
 + [微软官方轻量级 Win11 验证 OS 系统悄然更新至 24H2 版本](https://m.ithome.com/html/781608.htm)
 
++ [斯巴鲁新款 BRZ STI Sport 跑车上市：2.4L 水平对置发动机，29.98 万-30.98 万元](https://m.ithome.com/html/781606.htm)
+
