@@ -127,3 +127,17 @@
 
 + [Creative Juice - AI Blogger Finance SaaS](https://dribbble.com/shots/)
 
++ [Alien on vacation illustration](https://dribbble.com/shots/)
+
++ [safepark: hardware wallet, web3, crypto, app, dashboard](https://dribbble.com/shots/)
+
++ [Glyph Beer 50](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Branding](https://dribbble.com/shots/)
+
++ [Metal Gear Sahelanthropus](https://dribbble.com/shots/)
+
++ [CaddyShack Boyz: Apparel Full Preview](https://dribbble.com/shots/)
+
++ [Plants of the future](https://dribbble.com/shots/)
+
