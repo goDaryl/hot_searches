@@ -169,3 +169,5 @@
 
 + [Class life logo design. Fashion logo with c l letter.](https://dribbble.com/shots/)
 
++ [Probit Logo Design](https://dribbble.com/shots/)
+

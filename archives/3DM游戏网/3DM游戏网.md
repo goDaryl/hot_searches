@@ -141,3 +141,9 @@
 
 + [樱井对《任天堂明星大乱斗X》动画泄露仍耿耿于怀](https://www.3dmgame.com/news/202407/3899549.html)
 
++ [《歌手》排名引热议！13.8和13.11哪个大 网友吵翻天](https://www.3dmgame.com/news/202407/3899560.html)
+
++ [《警察模拟器：巡警》10月登陆Switch 好评警官日常](https://www.3dmgame.com/news/202407/3899561.html)
+
++ [提前观看《无主之地》电影版的观众评价并不积极](https://www.3dmgame.com/news/202407/3899562.html)
+
