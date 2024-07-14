@@ -45,3 +45,7 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/405869.html)
 
++ [攻防演练 | 一次对某市级单位演习的总结学习](https://www.freebuf.com/defense/374008.html)
+
++ [浅谈进程隐藏技术](https://www.freebuf.com/articles/network/405372.html)
+

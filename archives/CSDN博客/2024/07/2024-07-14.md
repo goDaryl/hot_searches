@@ -149,3 +149,13 @@
 
 + [使机器人在执行任务时更加稳定](https://blog.csdn.net/weixin_74075792/article/details/140402527)
 
++ [AI时代：探索个人潜能的新视角](https://blog.csdn.net/2201_75539691/article/details/140407411)
+
++ [从零编写一个神经网络完成手写数字的识别分类（pytorch实现）](https://blog.csdn.net/qq_44886601/article/details/140398120)
+
++ [Elasticsearch：使用 Amazon Bedrock 的 semantic_text](https://blog.csdn.net/UbuntuTouch/article/details/140411571)
+
++ [使用Spring Boot实现服务发现和注册](https://blog.csdn.net/weixin_44627014/article/details/140384437)
+
++ [低代码商城构建专家：Mall-Cook](https://blog.csdn.net/2401_83063795/article/details/140394180)
+

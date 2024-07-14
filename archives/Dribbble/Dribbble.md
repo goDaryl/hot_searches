@@ -149,3 +149,9 @@
 
 + [Gummies Packaging Design - Noble Leaf](https://dribbble.com/shots/)
 
++ [Hank's Logo Exploration](https://dribbble.com/shots/)
+
++ [Finance - Wall Street Journal](https://dribbble.com/shots/)
+
++ [Nuclear Blast Records](https://dribbble.com/shots/)
+
