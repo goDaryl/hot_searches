@@ -115,3 +115,37 @@
 
 + [《塞尔达传说：智慧的再现》确认林克可操控](https://www.3dmgame.com/news/202407/3899583.html)
 
++ [万代推高端圣斗士黄金圣衣神话瞬全新手办 金光耀眼精致传神](https://www.3dmgame.com/news/202407/3899604.html)
+
++ [《七日世界》Steam同时在线峰值超23万 是首发两倍](https://www.3dmgame.com/news/202407/3899601.html)
+
++ [《上古卷轴5》设计师：开放世界游戏越来越乏味 让玩家没热情](https://www.3dmgame.com/news/202407/3899603.html)
+
++ [《博德之门3》获奖太多领不过来 拉瑞安游戏开发受影响](https://www.3dmgame.com/news/202407/3899602.html)
+
++ [治愈系冒险建造游戏《最后的炼金术师》现已在Steam平台正式推出](https://www.3dmgame.com/news/202407/3899600.html)
+
++ [《刺客信条：影》将出环保纸质包装版本 藏经阁发贺电](https://www.3dmgame.com/news/202407/3899599.html)
+
++ [Steam格斗游戏节提前举行 7月16日凌晨1点开启](https://www.3dmgame.com/news/202407/3899597.html)
+
++ [开放世界生存制作游戏《探矿者》已在Steam平台推出免费序章 获特别好评](https://www.3dmgame.com/news/202407/3899598.html)
+
++ [《幸福工厂》正式版前最终更新公布 好评工厂建设名作](https://www.3dmgame.com/news/202407/3899596.html)
+
++ [CDPR总监：制作《往日之影》就像是开发团队集体治疗](https://www.3dmgame.com/news/202407/3899595.html)
+
++ [《赛博朋克 2077》续作总监任职前曾以为自己会被CDPR解雇](https://www.3dmgame.com/news/202407/3899594.html)
+
++ [电竞世界杯《DOTA2》项目 LGD和XG双双晋级淘汰赛](https://www.3dmgame.com/news/202407/3899592.html)
+
++ [CDPR游戏总监：开发用AI省钱 将会导致游戏质量下降](https://www.3dmgame.com/news/202407/3899590.html)
+
++ [RTX 50系列显卡功耗曝光 5090最高、5050最低](https://www.3dmgame.com/news/202407/3899589.html)
+
++ [玩家热情不减 《GTA6》首爆预告播放量已超2亿](https://www.3dmgame.com/news/202407/3899593.html)
+
++ [高玩公开蒙眼速通《塞尔达：王国之泪》心得流程 超细一图流](https://www.3dmgame.com/news/202407/3899591.html)
+
++ [《异形：火力小队2》泄露 计划2025年第三季度发售](https://www.3dmgame.com/news/202407/3899588.html)
+

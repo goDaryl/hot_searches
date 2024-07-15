@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | Outlook修复严重远程执行漏洞；警惕iPhone被间谍软件控制](https://www.freebuf.com/news/405904.html)
 
++ [黑客在发布后 22 分钟在攻击中使用 PoC 漏洞](https://www.freebuf.com/news/405964.html)
+
++ [应急响应 | Windows取证速查：一文搞定取证流程](https://www.freebuf.com/articles/web/405135.html)
+
