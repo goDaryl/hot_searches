@@ -167,3 +167,33 @@
 
 + [Abstract flower character - passiflora. Variation of color.](https://dribbble.com/shots/)
 
++ [Travel Companion Mobile App - Flight Detail ✈️](https://dribbble.com/shots/)
+
++ [Landing Page - Healthcare](https://dribbble.com/shots/)
+
++ [Creative Marketing Strategies](https://dribbble.com/shots/)
+
++ [Meditalk : Online Health Consultation - Visual Identity](https://dribbble.com/shots/)
+
++ [Zendenta - Next Treatments for a SaaS Dental Clinic](https://dribbble.com/shots/)
+
++ [Saturn - Online Business Banking Website](https://dribbble.com/shots/)
+
++ [Precious Metal 3](https://dribbble.com/shots/)
+
++ [Cluster DaPP animation](https://dribbble.com/shots/)
+
++ [Design Studio Landing Page](https://dribbble.com/shots/)
+
++ [Gyurun - Travel Landing Page](https://dribbble.com/shots/)
+
++ [Blockchain wallet tab page](https://dribbble.com/shots/)
+
++ [HMI Web](https://dribbble.com/shots/)
+
++ [Wait](https://dribbble.com/shots/)
+
++ [Bace - News App](https://dribbble.com/shots/)
+
++ [Triplan - Project Management Platform](https://dribbble.com/shots/)
+
