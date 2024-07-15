@@ -141,3 +141,5 @@
 
 + [第三周周报：深度学习经典网络模型（一）](https://blog.csdn.net/qq_52684249/article/details/140403567)
 
++ [各种Attention|即插即用|适用于YoloV5、V7、V8、V9、V10（一）](https://blog.csdn.net/m0_47867638/article/details/140411261)
+

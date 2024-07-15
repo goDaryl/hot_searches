@@ -41,3 +41,5 @@
 
 + [在线PDF工具暴露了数万份用户上传的文件](https://www.freebuf.com/news/405809.html)
 
++ [安全编排自动化响应SOAR项目实践总结 | 应用场景拓展](https://www.freebuf.com/articles/es/405098.html)
+
