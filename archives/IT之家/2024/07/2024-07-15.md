@@ -61,3 +61,5 @@
 
 + [中国联通开测 WiFi 通话：小程序已上线、受邀用户可体验](https://m.ithome.com/html/781803.htm)
 
++ [小米米家口袋照片打印机 1S 上架：自定义边框水印，预售 399 元](https://m.ithome.com/html/781837.htm)
+
