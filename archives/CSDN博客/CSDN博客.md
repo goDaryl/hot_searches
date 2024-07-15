@@ -179,3 +179,11 @@
 
 + [根据vue学习react](https://blog.csdn.net/by_side_with_sun/article/details/140413098)
 
++ [机器人及其相关工科专业课程体系](https://blog.csdn.net/weixin_41628708/article/details/120575854)
+
++ [线性代数|机器学习-P24加速梯度下降(动量法)](https://blog.csdn.net/scar2016/article/details/140393244)
+
++ [「网络通信」HTTP 协议](https://blog.csdn.net/Ice_Sugar_7/article/details/140401635)
+
++ [易懂的吉文斯（Givens）变换（一）](https://blog.csdn.net/qq_34022877/article/details/140409133)
+

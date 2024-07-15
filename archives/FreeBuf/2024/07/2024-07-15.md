@@ -59,3 +59,5 @@
 
 + [渗透测试 | 中间人劫持深入剖析](https://www.freebuf.com/articles/network/405704.html)
 
++ [PingRAT：一款基于ICMP的隐蔽型C2流量转发工具](https://www.freebuf.com/sectool/405585.html)
+
