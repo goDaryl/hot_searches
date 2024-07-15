@@ -187,3 +187,7 @@
 
 + [易懂的吉文斯（Givens）变换（一）](https://blog.csdn.net/qq_34022877/article/details/140409133)
 
++ [【机器学习】机器学习与图像分类的融合应用与性能优化新探索](https://blog.csdn.net/Easonmax/article/details/140156956)
+
++ [【Django+Vue3 线上教育平台项目实战】构建课程详情页与集成视频播放功能](https://blog.csdn.net/m0_48173416/article/details/140386676)
+
