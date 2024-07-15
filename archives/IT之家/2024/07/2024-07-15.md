@@ -57,3 +57,7 @@
 
 + [华为官宣鸿蒙原生游戏参展 2024 ChinaJoy，7 月 26 日开幕](https://m.ithome.com/html/781806.htm)
 
++ [137 个中国电动汽车品牌将迎来大洗牌，分析师称到 2030 年只有 1/7 能盈利](https://m.ithome.com/html/781757.htm)
+
++ [中国联通开测 WiFi 通话：小程序已上线、受邀用户可体验](https://m.ithome.com/html/781803.htm)
+
