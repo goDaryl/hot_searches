@@ -101,3 +101,15 @@
 
 + [线性代数|机器学习-P24加速梯度下降(动量法)](https://blog.csdn.net/scar2016/article/details/140393244)
 
++ [【人工智能】-- 迁移学习](https://blog.csdn.net/2302_76516899/article/details/140390322)
+
++ [openGauss存储过程创建及应用](https://blog.csdn.net/GaussDB/article/details/140437636)
+
++ [springboot系列教程（三）：全局异常映射（含源码）](https://blog.csdn.net/weixin_43860634/article/details/140411470)
+
++ [MySQL 进阶（三）【SQL 优化】](https://blog.csdn.net/m0_64261982/article/details/140382352)
+
++ [[MySQL][表的约束][二][主键][自增长][唯一键][外键]详细讲解](https://blog.csdn.net/qq_37281656/article/details/140412298)
+
++ [开源PHP论坛HadSky本地部署与配置公网地址实现远程访问](https://blog.csdn.net/YYDsis/article/details/140393001)
+
