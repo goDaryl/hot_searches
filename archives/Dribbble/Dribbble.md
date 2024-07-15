@@ -257,3 +257,9 @@
 
 + [Website for Manufacturing Brand](https://dribbble.com/shots/)
 
++ [Cute Wizard Mascot](https://dribbble.com/shots/)
+
++ [Unused Sequence Logo Concept](https://dribbble.com/shots/)
+
++ [Ganttify - Website Design](https://dribbble.com/shots/)
+
