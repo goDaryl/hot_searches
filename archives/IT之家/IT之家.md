@@ -55,3 +55,7 @@
 
 + [消息称京东明日上线“京东超级 18”活动：随机上架高价产品、一口价 18 元](https://m.ithome.com/html/782196.htm)
 
++ [宝马之后，奔驰和奥迪也将退出价格战：多款车型涨价](https://m.ithome.com/html/782227.htm)
+
++ [小米 MIX Fold 4 / Redmi K70 至尊版 / 小米手环 9 等上架京东，至高 24 期免息（上架占位非预售）](https://m.ithome.com/html/782214.htm)
+
