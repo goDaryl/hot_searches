@@ -103,3 +103,27 @@
 
 + [Monogram - Type Exploration](https://dribbble.com/shots/)
 
++ [Olympic Torch Relay](https://dribbble.com/shots/)
+
++ [Just about McF***in' had it ????????](https://dribbble.com/shots/)
+
++ [Be Balanced](https://dribbble.com/shots/)
+
++ [Glyph Beer 51](https://dribbble.com/shots/)
+
++ [Stirred & Spirit Forward](https://dribbble.com/shots/)
+
++ [corner](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ [Dennis](https://dribbble.com/shots/)
+
++ [Precious Metal 3](https://dribbble.com/shots/)
+
++ [Sun Motter Typeface](https://dribbble.com/shots/)
+
++ [Casa Bella](https://dribbble.com/shots/)
+
++ [FCDC - Brand ID Assets](https://dribbble.com/shots/)
+
