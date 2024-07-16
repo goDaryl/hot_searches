@@ -151,3 +151,7 @@
 
 + [微信小程序实战-第4章 邀请函项目](https://blog.csdn.net/andyyah/article/details/140434397)
 
++ [redis主从复制](https://blog.csdn.net/2301_78327423/article/details/140422742)
+
++ [Http短轮询、WebSocket与SSE三种通讯方式和它们之间的区别](https://blog.csdn.net/weixin_45231569/article/details/140421706)
+
