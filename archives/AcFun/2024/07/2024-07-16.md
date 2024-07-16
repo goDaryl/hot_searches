@@ -93,3 +93,7 @@
 
 + [我是一颗花椰菜](http://www.acfun.cn/v/ac45407510)
 
++ [【HJM每周秀】VS【HXD每周秀】vol.4](http://www.acfun.cn/v/ac45415670)
+
++ [蓝色战衣 - 只是长胖](http://www.acfun.cn/v/ac45400371)
+
