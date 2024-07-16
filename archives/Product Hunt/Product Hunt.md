@@ -105,3 +105,5 @@
 
 + [Beeyond AI](https://www.producthunt.com/posts/beeyondai)
 
++ [Project Atlas Desktop](https://www.producthunt.com/posts/project-atlas-desktop)
+
