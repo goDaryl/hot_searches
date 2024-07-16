@@ -43,3 +43,5 @@
 
 + [应急响应实战 | 主机被入侵的经历分析](https://www.freebuf.com/articles/paper/405258.html)
 
++ [FreeBuf早报 | 南非矿业巨头遭网络攻击；日本拟修订《个人信息保护法》](https://www.freebuf.com/news/405950.html)
+
