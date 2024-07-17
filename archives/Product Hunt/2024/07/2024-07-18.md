@@ -105,3 +105,9 @@
 
 + [Jobright AI](https://www.producthunt.com/posts/jobright-ai-2)
 
++ [Sketch2scheme](https://www.producthunt.com/posts/sketch2scheme)
+
++ [Assignee History for JIRA Cloud](https://www.producthunt.com/posts/assignee-history-for-jira-cloud)
+
++ [TalkTastic for macOS](https://www.producthunt.com/posts/talktastic-for-macos)
+

@@ -105,3 +105,29 @@
 
 + [You cant win if you dont play!](https://dribbble.com/shots/)
 
++ [Casa Bella](https://dribbble.com/shots/)
+
++ [NYC Pattern](https://dribbble.com/shots/)
+
++ [The Vowels of Hell](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ [Tarot card #19 - The Sun - Daily Vector Art](https://dribbble.com/shots/)
+
++ [Space Pencil Art Print](https://dribbble.com/shots/)
+
++ [Believe](https://dribbble.com/shots/)
+
++ [corner](https://dribbble.com/shots/)
+
++ [Chippy & Co Fish the Driftless](https://dribbble.com/shots/)
+
++ [Be Balanced](https://dribbble.com/shots/)
+
++ [The Beetle Backs - Metamorphosis](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Branding](https://dribbble.com/shots/)
+
++ [Hank's Logo Exploration](https://dribbble.com/shots/)
+
