@@ -153,3 +153,29 @@
 
 + [Starbase Brewing](https://dribbble.com/shots/)
 
++ [???? API keys](https://dribbble.com/shots/)
+
++ [Bevel Glass](https://dribbble.com/shots/)
+
++ [Windows](https://dribbble.com/shots/)
+
++ [Finster: AI Chat Feature Mobile App Fintech Banking ????](https://dribbble.com/shots/)
+
++ [Spotify | All Ears on you 2](https://dribbble.com/shots/)
+
++ [Hero Section - Education Website](https://dribbble.com/shots/)
+
++ [Riddance - Application Design](https://dribbble.com/shots/)
+
++ [Finguard - Brand Identity](https://dribbble.com/shots/)
+
++ [Minimal sidebar navigation — Untitled UI](https://dribbble.com/shots/)
+
++ [Zendenta - Add Medical Checkup for a SaaS Dental Clinic](https://dribbble.com/shots/)
+
++ [Job Seeker Platform Landing Page](https://dribbble.com/shots/)
+
++ [Branding for  for supplements 1](https://dribbble.com/shots/)
+
++ [HR Landing Page](https://dribbble.com/shots/)
+
