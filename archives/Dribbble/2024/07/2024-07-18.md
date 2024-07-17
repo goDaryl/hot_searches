@@ -131,3 +131,15 @@
 
 + [Hank's Logo Exploration](https://dribbble.com/shots/)
 
++ [2D Caracter to 3D](https://dribbble.com/shots/)
+
++ [⛓️](https://dribbble.com/shots/)
+
++ [Cards For "Imaginarium" Board Game](https://dribbble.com/shots/)
+
++ [Alien on vacation illustration](https://dribbble.com/shots/)
+
++ [Ready to go](https://dribbble.com/shots/)
+
++ [Sun Motter Typeface](https://dribbble.com/shots/)
+

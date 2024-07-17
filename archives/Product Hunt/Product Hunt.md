@@ -111,3 +111,7 @@
 
 + [TalkTastic for macOS](https://www.producthunt.com/posts/talktastic-for-macos)
 
++ [Moonshine](https://www.producthunt.com/posts/moonshine)
+
++ [AutoReels.Ai](https://www.producthunt.com/posts/autoreels-ai)
+
