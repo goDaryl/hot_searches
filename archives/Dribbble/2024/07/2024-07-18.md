@@ -57,3 +57,51 @@
 
 + [Branding & Packaging Design for Sophia's Tea](https://dribbble.com/shots/)
 
++ [Dave Matthews Band Mansfield, MA Poster](https://dribbble.com/shots/)
+
++ [Turning gravity into a mere suggestion](https://dribbble.com/shots/)
+
++ [Off to work ????](https://dribbble.com/shots/)
+
++ [Just about McF***in' had it ????????](https://dribbble.com/shots/)
+
++ [Stillwell Collective Logo System](https://dribbble.com/shots/)
+
++ [Landscape Collage Series Textures](https://dribbble.com/shots/)
+
++ [Hope you are staying cool ????](https://dribbble.com/shots/)
+
++ [腐った](https://dribbble.com/shots/)
+
++ [Dragönsteel](https://dribbble.com/shots/)
+
++ [Starbase Brewing](https://dribbble.com/shots/)
+
++ [Finger](https://dribbble.com/shots/)
+
++ [Stay Mystic](https://dribbble.com/shots/)
+
++ [Sorry](https://dribbble.com/shots/)
+
++ [Metal Gear Sahelanthropus](https://dribbble.com/shots/)
+
++ [Unused illustration ????](https://dribbble.com/shots/)
+
++ [Noseride](https://dribbble.com/shots/)
+
++ [Glyph Beer 51](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Secondary Logo](https://dribbble.com/shots/)
+
++ [FCDC - Brand ID Assets](https://dribbble.com/shots/)
+
++ [Forks Crosswalk Mural 3/3](https://dribbble.com/shots/)
+
++ [Dennis](https://dribbble.com/shots/)
+
++ [Sports](https://dribbble.com/shots/)
+
++ [WIP](https://dribbble.com/shots/)
+
++ [You cant win if you dont play!](https://dribbble.com/shots/)
+
