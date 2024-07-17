@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | AT&T被曝支付赎金以防被盗数据泄露；卡巴斯基关闭美国分部](https://www.freebuf.com/news/406139.html)
 
++ [渗透实战 | 一次代码审计拿下目标站点](https://www.freebuf.com/vuls/404481.html)
+
++ [深入解析：Windows 提权技术全攻略](https://www.freebuf.com/articles/web/405941.html)
+
