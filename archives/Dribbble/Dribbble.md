@@ -49,3 +49,9 @@
 
 + [Badger Logo](https://dribbble.com/shots/)
 
++ [Revue XXI , n°64 - Journey to the borders of Europe.](https://dribbble.com/shots/)
+
++ [Logo design for a dress house](https://dribbble.com/shots/)
+
++ [Mini Dune Tree Scapes](https://dribbble.com/shots/)
+
