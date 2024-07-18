@@ -195,3 +195,39 @@
 
 + [Online Avatar Store Site](https://dribbble.com/shots/)
 
++ [Skills up app responsive](https://dribbble.com/shots/)
+
++ [Solufacil](https://dribbble.com/shots/)
+
++ [3D Illustrations For Somnia](https://dribbble.com/shots/)
+
++ [Fintech Dashboard](https://dribbble.com/shots/)
+
++ [Cheetah Logo](https://dribbble.com/shots/)
+
++ [DeFi project - 3d illustrations](https://dribbble.com/shots/)
+
++ [Checkstep – Logo Design](https://dribbble.com/shots/)
+
++ [Website design. Weaverly.](https://dribbble.com/shots/)
+
++ [Bearmint](https://dribbble.com/shots/)
+
++ [Noq homepage](https://dribbble.com/shots/)
+
++ [Fishing App: animation](https://dribbble.com/shots/)
+
++ [Branding for Crypto Agency](https://dribbble.com/shots/)
+
++ [Gaia - behance case study](https://dribbble.com/shots/)
+
++ [Ternary - Why Ternary Page](https://dribbble.com/shots/)
+
++ [Banner for crypto Launchpad platform](https://dribbble.com/shots/)
+
++ [Mountain & Dog Logo](https://dribbble.com/shots/)
+
++ [Design exploration for furniture app](https://dribbble.com/shots/)
+
++ [Web3Pulse - Website design of the crypto accounting platform](https://dribbble.com/shots/)
+
