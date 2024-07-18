@@ -37,3 +37,5 @@
 
 + [支持 26 键输入，小米 MIX Flip 手机外屏键盘尺寸与内屏“几乎一致”](https://m.ithome.com/html/782520.htm)
 
++ [华为开启暑促季活动：Pura 70 系列手机直降 500-1000 元，可叠加 100 元教育优惠](https://m.ithome.com/html/782508.htm)
+
