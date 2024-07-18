@@ -41,3 +41,5 @@
 
 + [恶意代码技术及恶意代码检测技术原理与实现](https://www.freebuf.com/articles/system/405255.html)
 
++ [探索编译的V8 JavaScript在恶意软件中的应用](https://www.freebuf.com/articles/system/405993.html)
+
