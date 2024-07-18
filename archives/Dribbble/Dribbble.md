@@ -123,3 +123,11 @@
 
 + [Casa Bella](https://dribbble.com/shots/)
 
++ [44 Races Logotype Concepts](https://dribbble.com/shots/)
+
++ [Clean Hero Identity Concept](https://dribbble.com/shots/)
+
++ [Lion Logo](https://dribbble.com/shots/)
+
++ [Bitesized](https://dribbble.com/shots/)
+
