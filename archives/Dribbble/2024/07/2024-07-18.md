@@ -177,3 +177,9 @@
 
 + [Landing Page Design for Chatz](https://dribbble.com/shots/)
 
++ [Foka - Product Website Exploration](https://dribbble.com/shots/)
+
++ [Header Exploration with 3D Illustration](https://dribbble.com/shots/)
+
++ [Finguard - Social Media & Card Design](https://dribbble.com/shots/)
+
