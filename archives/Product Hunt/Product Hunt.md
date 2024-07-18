@@ -175,3 +175,7 @@
 
 + [Bazium](https://www.producthunt.com/posts/bazium)
 
++ [ToyPal One](https://www.producthunt.com/posts/toypal-one)
+
++ [tinyPod](https://www.producthunt.com/posts/tinypod)
+
