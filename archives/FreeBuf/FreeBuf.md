@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 科技巨头未经授权用YouTube内容训练AI；土耳其企业面临新的勒索威胁](https://www.freebuf.com/news/406253.html)
 
++ [攻防演练 | 记一次打穿某车企全过程](https://www.freebuf.com/articles/web/372933.html)
+
++ [威胁探索 | CVE-2024-38112在野快捷有效的一个0day威胁利用](https://www.freebuf.com/articles/system/405801.html)
+
