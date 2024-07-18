@@ -231,3 +231,11 @@
 
 + [Web3Pulse - Website design of the crypto accounting platform](https://dribbble.com/shots/)
 
++ [F&O Trading - Trinkerr - FinTech](https://dribbble.com/shots/)
+
++ [BordUp - HR Management Dashboard](https://dribbble.com/shots/)
+
++ [Diaspora Nests](https://dribbble.com/shots/)
+
++ [G letter travel logo](https://dribbble.com/shots/)
+
