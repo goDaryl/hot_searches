@@ -189,3 +189,5 @@
 
 + [好用的AI搜索引擎](https://blog.csdn.net/m0_62458145/article/details/140500655)
 
++ [推荐一款强大的开源SSH连接工具 - Tabby](https://blog.csdn.net/lhmyy521125/article/details/140489033)
+
