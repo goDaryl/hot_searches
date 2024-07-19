@@ -101,3 +101,9 @@
 
 + [C++20之std::span：高效访问容器的神器](https://blog.csdn.net/haokan123456789/article/details/140504149)
 
++ [折叠屏遇上Galaxy AI，三星新一代Galaxy Z系列开启移动终端新篇章](https://blog.csdn.net/xlkjshuo/article/details/140524171)
+
++ [【数学建模】——多领域资源优化中的创新应用-六大经典问题解答](https://blog.csdn.net/2303_77720864/article/details/140504309)
+
++ [基于FPGA的多路选择器](https://blog.csdn.net/weixin_52345779/article/details/140531320)
+
