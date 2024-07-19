@@ -107,3 +107,23 @@
 
 + [基于FPGA的多路选择器](https://blog.csdn.net/weixin_52345779/article/details/140531320)
 
++ [【机器学习】Cross Validation: 强化模型泛化能力的利器](https://blog.csdn.net/qq_44214428/article/details/140416812)
+
++ [【机器学习】使用Python的dlib库实现人脸识别技术](https://blog.csdn.net/m0_52827996/article/details/140559322)
+
++ [做一只勤劳的小蜜蜂](https://blog.csdn.net/ygb_1024/article/details/140540467)
+
++ [SQL Server 和 MySQL 的主要区别](https://blog.csdn.net/modelsetget/article/details/140522310)
+
++ [‍我想我大抵是疯了，我喜欢上了写单元测试](https://blog.csdn.net/lhcong_/article/details/140517607)
+
++ [GPT-4o全方位综合指南：功能解析、使用技巧与最佳实践](https://blog.csdn.net/qq_44866828/article/details/140558229)
+
++ [使用Docker 实现 MySQL 循环复制（三）](https://blog.csdn.net/m0_60511809/article/details/140530169)
+
++ [【Windows】操作系统之任务管理器（第一篇）](https://blog.csdn.net/abclui/article/details/140527283)
+
++ [MPLS-EVPN笔记详述](https://blog.csdn.net/a728800/article/details/140533152)
+
++ [CodeGeeX-ALL-9B最新版Pycharm初体验](https://blog.csdn.net/chloeeolhc/article/details/140530455)
+

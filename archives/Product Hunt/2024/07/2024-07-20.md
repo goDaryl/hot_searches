@@ -109,3 +109,9 @@
 
 + [Pet App](https://www.producthunt.com/posts/pet-app)
 
++ [blogstatic.io](https://www.producthunt.com/posts/blogstatic-io)
+
++ [Flow Studio](https://www.producthunt.com/posts/flow-studio)
+
++ [Loops](https://www.producthunt.com/posts/loops-b4eb3c28-5d9d-4d4a-9414-e57e3faf3f67)
+

@@ -119,3 +119,21 @@
 
 + [Airplane Coffee](https://dribbble.com/shots/)
 
++ [22/32 – Montana Silvertips](https://dribbble.com/shots/)
+
++ [Where gravity meets its match!](https://dribbble.com/shots/)
+
++ [Arist Website UI/UX Design](https://dribbble.com/shots/)
+
++ [Valantis—Visual Language](https://dribbble.com/shots/)
+
++ [Logos & Marks Vol.7](https://dribbble.com/shots/)
+
++ [Total Goals Created - Color](https://dribbble.com/shots/)
+
++ [Financial Admin & Dashboard UI Kit](https://dribbble.com/shots/)
+
++ [Landing for Agency](https://dribbble.com/shots/)
+
++ [Appearance settings — Untitled UI](https://dribbble.com/shots/)
+
