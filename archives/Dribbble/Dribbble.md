@@ -229,3 +229,7 @@
 
 + [Social Media Exploration](https://dribbble.com/shots/)
 
++ [BeeCraft - Logo Design](https://dribbble.com/shots/)
+
++ [Collusion - Ecommerce UI UX Web Design for a Clothing Website](https://dribbble.com/shots/)
+
