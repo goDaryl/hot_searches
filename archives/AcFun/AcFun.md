@@ -81,3 +81,9 @@
 
 + [【孤牢者】恭喜秋秋哥一次过牢拉！](http://www.acfun.cn/v/ac45464917)
 
++ [以防大家不会叠大便](http://www.acfun.cn/v/ac45463045)
+
++ [【奥雷】根据台北仁爱路鬼屋传说改编！战栗恐怖令人心悸！《残月阴风吹古楼》](http://www.acfun.cn/v/ac45464201)
+
++ [AI的GPU都要烧了……](http://www.acfun.cn/v/ac45463011)
+
