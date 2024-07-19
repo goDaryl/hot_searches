@@ -49,3 +49,51 @@
 
 + [Sketches](https://dribbble.com/shots/)
 
++ [Casa Bella](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Secondary Logo](https://dribbble.com/shots/)
+
++ [Future Paradise: Illustration](https://dribbble.com/shots/)
+
++ [腐った](https://dribbble.com/shots/)
+
++ [Dennis](https://dribbble.com/shots/)
+
++ [Dave Matthews Band Mansfield, MA Poster](https://dribbble.com/shots/)
+
++ [WIP](https://dribbble.com/shots/)
+
++ [The Beetle Backs - Metamorphosis](https://dribbble.com/shots/)
+
++ [NYC Pattern](https://dribbble.com/shots/)
+
++ [Colorama Color Kit - Atomic Age Edition](https://dribbble.com/shots/)
+
++ [Olympic keepsakes](https://dribbble.com/shots/)
+
++ [Alien on vacation illustration](https://dribbble.com/shots/)
+
++ [Space Pencil Art Print](https://dribbble.com/shots/)
+
++ [FCDC - Brand ID Assets](https://dribbble.com/shots/)
+
++ [Sorry](https://dribbble.com/shots/)
+
++ [Metal Gear Sahelanthropus](https://dribbble.com/shots/)
+
++ [Starbase Brewing](https://dribbble.com/shots/)
+
++ [Turning gravity into a mere suggestion](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Branding](https://dribbble.com/shots/)
+
++ [Unused illustration ????](https://dribbble.com/shots/)
+
++ [You cant win if you dont play!](https://dribbble.com/shots/)
+
++ [Chippy & Co Fish the Driftless](https://dribbble.com/shots/)
+
++ [Sports](https://dribbble.com/shots/)
+
++ [Be Balanced](https://dribbble.com/shots/)
+
