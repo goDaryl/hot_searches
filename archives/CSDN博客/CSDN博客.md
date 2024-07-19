@@ -169,3 +169,9 @@
 
 + [黑客自学手册（网络安全）](https://blog.csdn.net/dexi1113/article/details/140527311)
 
++ [使用Pytorch中从头实现去噪扩散概率模型（DDPM）](https://blog.csdn.net/m0_46510245/article/details/140543357)
+
++ [Spring boot 2.0 升级到 3.3.1 的相关问题 （三）](https://blog.csdn.net/weixin_48990070/article/details/140496699)
+
++ [Springboot项目远程部署gitee仓库（docker+Jenkins+maven+git）](https://blog.csdn.net/wumingzei/article/details/140460615)
+
