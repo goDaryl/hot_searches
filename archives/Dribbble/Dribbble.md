@@ -143,3 +143,21 @@
 
 + [V logo](https://dribbble.com/shots/)
 
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ [Stillwell Collective Logo System](https://dribbble.com/shots/)
+
++ [Hank's Logo Exploration](https://dribbble.com/shots/)
+
++ [Tarot card #19 - The Sun - Daily Vector Art](https://dribbble.com/shots/)
+
++ [⛓️](https://dribbble.com/shots/)
+
++ [Finger](https://dribbble.com/shots/)
+
++ [The Vowels of Hell](https://dribbble.com/shots/)
+
++ [Precious Metal 3](https://dribbble.com/shots/)
+
++ [Believe](https://dribbble.com/shots/)
+
