@@ -165,3 +165,7 @@
 
 + [低代码前端框架Amis全面教程](https://blog.csdn.net/qq_40999403/article/details/140522988)
 
++ [基于STM32的智慧厨房安全全栈嵌入式系统：融合FreeRTOS、MQTT、Flask、Vue.js、Flutter等技术的解决方案](https://blog.csdn.net/qq_40431685/article/details/140520649)
+
++ [黑客自学手册（网络安全）](https://blog.csdn.net/dexi1113/article/details/140527311)
+
