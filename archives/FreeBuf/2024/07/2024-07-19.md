@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 中国政务云市场规模达794.5亿；代码托管平台 GitLab 正考虑出售](https://www.freebuf.com/news/406358.html)
 
++ [达梦（DM）数据库网络安全等级测评指南](https://www.freebuf.com/articles/database/405977.html)
+
