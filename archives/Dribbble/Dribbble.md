@@ -255,3 +255,13 @@
 
 + [AP monogram](https://dribbble.com/shots/)
 
++ [Syncron - Unused logo](https://dribbble.com/shots/)
+
++ [Login & Sign up - Dark Mode | UI/UX Design](https://dribbble.com/shots/)
+
++ [Sportswear](https://dribbble.com/shots/)
+
++ [Crypto.swap instagram design](https://dribbble.com/shots/)
+
++ [Abstract Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
