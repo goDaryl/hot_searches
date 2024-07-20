@@ -191,3 +191,7 @@
 
 + [澳洲屏幕文化博物馆将举办《捣蛋鹅》主题活动展览](https://www.3dmgame.com/news/202407/3899998.html)
 
++ [育碧CEO：并不害怕《GTA6》 反而会帮助自家游戏销售](https://www.3dmgame.com/news/202407/3900001.html)
+
++ [雷军：苹果十年造不出车 凭啥小米三年就能干成！](https://www.3dmgame.com/news/202407/3900000.html)
+
