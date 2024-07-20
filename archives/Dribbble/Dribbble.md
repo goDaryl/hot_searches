@@ -237,3 +237,15 @@
 
 + [Uber Ads_test](https://dribbble.com/shots/)
 
++ [Puma Golf Fair Isle Pattern](https://dribbble.com/shots/)
+
++ [Dashboard UI UX Design for Crypto Wallet & DEX Platform](https://dribbble.com/shots/)
+
++ [Explorations for a Brand ID Project](https://dribbble.com/shots/)
+
++ [In Technology we Trust](https://dribbble.com/shots/)
+
++ [Cute Crystal????](https://dribbble.com/shots/)
+
++ [N2SN©24](https://dribbble.com/shots/)
+
