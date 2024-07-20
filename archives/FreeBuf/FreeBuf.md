@@ -49,3 +49,5 @@
 
 + [双一流高校某教学系统存在多个高危漏洞](https://www.freebuf.com/vuls/405764.html)
 
++ [CodeQL：探索代码安全的利器](https://www.freebuf.com/vuls/406022.html)
+
