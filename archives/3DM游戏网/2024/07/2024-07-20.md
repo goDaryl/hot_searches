@@ -177,3 +177,13 @@
 
 + [网飞《鱿鱼游戏》剧改多人游戏将于2024年内发布](https://www.3dmgame.com/news/202407/3899982.html)
 
++ [《黑袍纠察队》“休伊”试镜滚导超人 结局显而易见](https://www.3dmgame.com/news/202407/3899997.html)
+
++ [汤姆·赫兰德下一部《蜘蛛侠》电影即将写好剧情草稿](https://www.3dmgame.com/news/202407/3899995.html)
+
++ [微软CEO：正合作解决蓝屏故障 马斯克：汽车供应链遭暴击](https://www.3dmgame.com/news/202407/3899996.html)
+
++ [PC主板市场似乎有所回暖 出货量较前年上升25%](https://www.3dmgame.com/news/202407/3899994.html)
+
++ [《斯普拉遁3》大型庆典活动将于9月上线 或为最终更新](https://www.3dmgame.com/news/202407/3899993.html)
+

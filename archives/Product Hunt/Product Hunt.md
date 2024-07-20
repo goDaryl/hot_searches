@@ -121,3 +121,5 @@
 
 + [UXWizz](https://www.producthunt.com/posts/uxwizz)
 
++ [VeedoAI](https://www.producthunt.com/posts/veedoai-2)
+
