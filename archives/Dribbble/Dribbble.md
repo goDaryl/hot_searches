@@ -113,3 +113,27 @@
 
 + [As Above, So Below](https://dribbble.com/shots/)
 
++ [Arist Website Design](https://dribbble.com/shots/)
+
++ [Turbines](https://dribbble.com/shots/)
+
++ [Colorama Color Kit - Atomic Age Edition](https://dribbble.com/shots/)
+
++ [Esports Academy](https://dribbble.com/shots/)
+
++ [Hero Exploration || Insurance Company](https://dribbble.com/shots/)
+
++ [2D Caracter to 3D](https://dribbble.com/shots/)
+
++ [Logo concept for specialty coffee](https://dribbble.com/shots/)
+
++ [DisputeFox Mobile App - Credit Score Dashboard](https://dribbble.com/shots/)
+
++ [Cards - Fintech Mobile App - Trinkerr](https://dribbble.com/shots/)
+
++ [Website for Insurance Company](https://dribbble.com/shots/)
+
++ [Real Estate Website Design](https://dribbble.com/shots/)
+
++ [Airplane Coffee](https://dribbble.com/shots/)
+
