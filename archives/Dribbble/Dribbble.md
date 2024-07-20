@@ -249,3 +249,9 @@
 
 + [N2SN©24](https://dribbble.com/shots/)
 
++ [Ternary - Homepage](https://dribbble.com/shots/)
+
++ [Cards - Fintech Mobile App - Trinkerr](https://dribbble.com/shots/)
+
++ [AP monogram](https://dribbble.com/shots/)
+
