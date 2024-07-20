@@ -47,3 +47,5 @@
 
 + [FreeBuf 周报 | 谷歌拟豪掷230亿美金收购Wiz；迪士尼泄露1.2TB内部数据](https://www.freebuf.com/news/406533.html)
 
++ [双一流高校某教学系统存在多个高危漏洞](https://www.freebuf.com/vuls/405764.html)
+
