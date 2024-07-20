@@ -71,3 +71,7 @@
 
 + [Party Train](http://www.acfun.cn/v/ac45468207)
 
++ [《忠犬八嘎》](http://www.acfun.cn/v/ac45468904)
+
++ [Good night kiss](http://www.acfun.cn/v/ac45468245)
+

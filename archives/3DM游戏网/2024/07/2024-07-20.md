@@ -143,3 +143,15 @@
 
 + [著名黑客女皇突然回归 玩家再次担心《黑神话》会被破解](https://www.3dmgame.com/news/202407/3899962.html)
 
++ [《黑神话：悟空》有大量宫崎英高时刻：毒沼泽、宝箱怪](https://www.3dmgame.com/news/202407/3899981.html)
+
++ [《猎杀：对决1896》获得ESRB评级 或为次世代升级](https://www.3dmgame.com/news/202407/3899980.html)
+
++ [PvE合作生存逃离ARPG《Surfpunk》Steam页面上线 支持中文](https://www.3dmgame.com/news/202407/3899979.html)
+
++ [《失落之魂》确认参加CJ 届时将展示游戏最新进展](https://www.3dmgame.com/news/202407/3899978.html)
+
++ [多人合作游戏《乱剪一通》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202407/3899977.html)
+
++ [Xbox EMEA营销主管：我们没有PlayStation那样的巨额营销资金](https://www.3dmgame.com/news/202407/3899976.html)
+

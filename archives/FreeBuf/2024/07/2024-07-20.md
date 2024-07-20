@@ -43,3 +43,7 @@
 
 + [“银狐”团伙再度出击：利用易语言远控木马实施钓鱼攻击](https://www.freebuf.com/articles/network/405790.html)
 
++ [到底是什么神仙安全软件，让全球如此多公司同时“蓝屏”](https://www.freebuf.com/news/406594.html)
+
++ [FreeBuf 周报 | 谷歌拟豪掷230亿美金收购Wiz；迪士尼泄露1.2TB内部数据](https://www.freebuf.com/news/406533.html)
+
