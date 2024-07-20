@@ -187,3 +187,7 @@
 
 + [《斯普拉遁3》大型庆典活动将于9月上线 或为最终更新](https://www.3dmgame.com/news/202407/3899993.html)
 
++ [不只是QA 贝塞斯达游戏工作室多个职位开发者成立工会](https://www.3dmgame.com/news/202407/3899999.html)
+
++ [澳洲屏幕文化博物馆将举办《捣蛋鹅》主题活动展览](https://www.3dmgame.com/news/202407/3899998.html)
+
