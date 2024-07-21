@@ -220,3 +220,13 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Financial Admin & Dashboard UI Kit](https://dribbble.com/shots/)
 
++ [Animals and Their Meat????????????????](https://dribbble.com/shots/)
+
++ [Eddy](https://dribbble.com/shots/)
+
++ [Motion Services](https://dribbble.com/shots/)
+
++ [Jack's Tobacco Logo](https://dribbble.com/shots/)
+
++ [Online Direct Purchase Website Design - COZY](https://dribbble.com/shots/)
+
