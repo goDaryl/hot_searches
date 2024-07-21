@@ -49,3 +49,48 @@
 
 + [As Above, So Below](https://dribbble.com/shots/)
 
++ [3D Illustrations For Somnia](https://dribbble.com/shots/)
+
++ ['a' logo mark](https://dribbble.com/shots/)
+
++ [AP monogram](https://dribbble.com/shots/)
+
++ [Dragönsteel](https://dribbble.com/shots/)
+
++ [Lock Screen for Natural AI](https://dribbble.com/shots/)
+
++ [Illustrations for Hermès China 2024
+Artistic Window](https://dribbble.com/shots/)
+
++ [FlexiCar Mobile App - Car Sharing SaaS](https://dribbble.com/shots/)
+
++ [Airplane Coffee](https://dribbble.com/shots/)
+
++ [Radio](https://dribbble.com/shots/)
+
++ [Hero Exploration || Insurance Company](https://dribbble.com/shots/)
+
++ [Real Estate Website Design](https://dribbble.com/shots/)
+
++ [Landing for Agency](https://dribbble.com/shots/)
+
++ [Precious Metal 3](https://dribbble.com/shots/)
+
++ [Griffin / gryphon, winged lion with eagle head logo design](https://dribbble.com/shots/)
+
++ [Arist Website UI/UX Design](https://dribbble.com/shots/)
+
++ [Website Design for Arist](https://dribbble.com/shots/)
+
++ [New message — Untitled UI](https://dribbble.com/shots/)
+
++ [The best place](https://dribbble.com/shots/)
+
++ [Karma](https://dribbble.com/shots/)
+
++ [Landscape Minis](https://dribbble.com/shots/)
+
++ [Space](https://dribbble.com/shots/)
+
++ [Puma Golf Fair Isle Pattern](https://dribbble.com/shots/)
+
