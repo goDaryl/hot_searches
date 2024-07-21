@@ -143,3 +143,5 @@
 
 + [【AI 大模型】函数调用 Function Calling ② ( Plugins、Actions 扩展 | 函数调用 Function Calling 引入 | 函数调用开发流程 | 代码示例 )](https://blog.csdn.net/han1202012/article/details/140380268)
 
++ [【论文阅读笔记】Hierarchical Neural Coding for Controllable CAD Model Generation](https://blog.csdn.net/hzf0701/article/details/140559988)
+
