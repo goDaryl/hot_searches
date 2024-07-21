@@ -43,3 +43,5 @@
 
 + [APT-Konni 组织针对韩国近期的攻击活动分析](https://www.freebuf.com/articles/system/405498.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/406541.html)
+

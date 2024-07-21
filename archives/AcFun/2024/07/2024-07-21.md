@@ -69,3 +69,7 @@
 
 + [第三周年夜 | 好逑【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac45459053)
 
++ [夏天当然少不了JK啦](http://www.acfun.cn/v/ac45471672)
+
++ [铛铛～芭蕾小猫](http://www.acfun.cn/v/ac45473923)
+

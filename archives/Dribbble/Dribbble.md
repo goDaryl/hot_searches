@@ -143,3 +143,21 @@
 
 + [Polaroid](https://dribbble.com/shots/)
 
++ [Alien on vacation illustration](https://dribbble.com/shots/)
+
++ [Mother.com startup brand logo design identity and packaging](https://dribbble.com/shots/)
+
++ [Unused Sequence Logo Concept](https://dribbble.com/shots/)
+
++ [Charity App Design](https://dribbble.com/shots/)
+
++ [3D icon Video store for OS design](https://dribbble.com/shots/)
+
++ [apparte - webdesign](https://dribbble.com/shots/)
+
++ [Ternary - Homepage](https://dribbble.com/shots/)
+
++ [Shark Logo](https://dribbble.com/shots/)
+
++ [Dragönsteel](https://dribbble.com/shots/)
+
