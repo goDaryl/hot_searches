@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/406541.html)
 
++ [JWT原理解析与实战通杀(附带POC)](https://www.freebuf.com/articles/web/405499.html)
+

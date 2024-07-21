@@ -73,3 +73,13 @@
 
 + [铛铛～芭蕾小猫](http://www.acfun.cn/v/ac45473923)
 
++ [【ACFUN声唱2024】Arrietty s Song(阿里埃蒂之歌)](http://www.acfun.cn/v/ac45467589)
+
++ [Bing Bing](http://www.acfun.cn/v/ac45472739)
+
++ [小废物变小神金，小米Fold4、Flip、K70至尊全发布](http://www.acfun.cn/v/ac45473288)
+
++ [陈桂林为何要杀尊者以外的人？手枪又怎么老卡壳？_电影《周处除三害》](http://www.acfun.cn/v/ac45470502)
+
++ [【东方】温柔的狼小姐【Mirae Somang 手书动画】](http://www.acfun.cn/v/ac45469492)
+

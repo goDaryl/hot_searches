@@ -35,3 +35,5 @@
 
 + [超 2100km，奇瑞风云 T10 创下插混 SUV“满油满电零补能”行驶最远距离吉尼斯世界纪录](https://m.ithome.com/html/783189.htm)
 
++ [DTS 音效正式回归：QQ 音乐 Android 13.8 版本发布更新](https://m.ithome.com/html/783207.htm)
+
