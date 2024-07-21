@@ -214,3 +214,9 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Dating App Design](https://dribbble.com/shots/)
 
++ [Music Player Mobile App](https://dribbble.com/shots/)
+
++ [Safe Vaults Web App - UI/UX Design for Crypto Dashboard](https://dribbble.com/shots/)
+
++ [Financial Admin & Dashboard UI Kit](https://dribbble.com/shots/)
+
