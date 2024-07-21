@@ -115,3 +115,11 @@
 
 + [想成为玛奇玛的狗吗？](http://www.acfun.cn/v/ac45475857)
 
++ [★求投五蕉★网络上常见的热门短视频集锦 第一千八百六十四期](http://www.acfun.cn/v/ac45474750)
+
++ [我的电子奸臣【今天有什么好笑的 #1630】](http://www.acfun.cn/v/ac45476002)
+
++ [i人勇闯广州漫展!](http://www.acfun.cn/v/ac45476099)
+
++ [【小毛线】开箱“FUN享夏日礼盒”](http://www.acfun.cn/v/ac45476246)
+

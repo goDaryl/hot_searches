@@ -161,3 +161,11 @@
 
 + [战术回合肉鸽新作《洗牌攻略》A测下周启动 预告片赏](https://www.3dmgame.com/news/202407/3900050.html)
 
++ [《疾风之刃》免费登陆Steam 动漫风多人合作动作](https://www.3dmgame.com/news/202407/3900055.html)
+
++ [可成为反派 《盗贼之海》第13赛季内容总览预告片](https://www.3dmgame.com/news/202407/3900053.html)
+
++ [延续前作故事 《热血三国志：乱世风云》11月发售](https://www.3dmgame.com/news/202407/3900054.html)
+
++ [知名企业家称被携程杀熟 最高等级会员价格却更贵](https://www.3dmgame.com/news/202407/3900052.html)
+
