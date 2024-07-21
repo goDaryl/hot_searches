@@ -155,3 +155,9 @@
 
 + [《.45弹寻血犬》Steam页面上线 回合制实时结合战斗](https://www.3dmgame.com/news/202407/3900042.html)
 
++ [经典焕发新生 《极品飞车7：地下狂飙》光追MOD](https://www.3dmgame.com/news/202407/3900051.html)
+
++ [《愿景之城》登陆Steam 城镇建设放置战略](https://www.3dmgame.com/news/202407/3900049.html)
+
++ [战术回合肉鸽新作《洗牌攻略》A测下周启动 预告片赏](https://www.3dmgame.com/news/202407/3900050.html)
+

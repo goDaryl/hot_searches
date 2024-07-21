@@ -147,3 +147,5 @@
 
 + [AI Renamer](https://www.producthunt.com/posts/ai-renamer)
 
++ [Design Sight](https://www.producthunt.com/posts/design-sight)
+
