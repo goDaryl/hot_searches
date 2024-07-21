@@ -230,3 +230,7 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Online Direct Purchase Website Design - COZY](https://dribbble.com/shots/)
 
++ [Dark Dashboard - Lookscout Design System](https://dribbble.com/shots/)
+
++ [Ai finance app design](https://dribbble.com/shots/)
+
