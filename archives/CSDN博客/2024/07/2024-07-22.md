@@ -101,3 +101,7 @@
 
 + [智能合约中重放攻击](https://blog.csdn.net/qq_38420688/article/details/140494155)
 
++ [利用【MATLAB】和【Python】进行【图与网络模型】的高级应用与分析】](https://blog.csdn.net/2303_77720864/article/details/140594882)
+
++ [论文阅读：Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting](https://blog.csdn.net/weixin_43378396/article/details/140576686)
+

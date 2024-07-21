@@ -94,3 +94,11 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Puma Golf Fair Isle Pattern](https://dribbble.com/shots/)
 
++ [Ai finance app design](https://dribbble.com/shots/)
+
++ [Mobile application for smart home control](https://dribbble.com/shots/)
+
++ [Buddybook.app | Buddies](https://dribbble.com/shots/)
+
++ [SIM Card Web Platform Design Template](https://dribbble.com/shots/)
+
