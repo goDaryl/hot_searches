@@ -208,3 +208,9 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [HPFS](https://dribbble.com/shots/)
 
++ [AI Recruiting Software](https://dribbble.com/shots/)
+
++ [Charging design by milkiniside](https://dribbble.com/shots/)
+
++ [Recycle Hex](https://dribbble.com/shots/)
+
