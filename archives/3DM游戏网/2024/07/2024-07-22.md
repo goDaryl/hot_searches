@@ -191,3 +191,7 @@
 
 + [英伟达中国特供GPU H20面临禁售：损失120亿美元](https://www.3dmgame.com/news/202407/3900108.html)
 
++ [宝可梦公司确认参加2024年科隆游戏展](https://www.3dmgame.com/news/202407/3900110.html)
+
++ [英伟达正为中国准备B20计算卡 与浪潮合作销售](https://www.3dmgame.com/news/202407/3900109.html)
+
