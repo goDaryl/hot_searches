@@ -125,3 +125,19 @@
 
 + [Colorama Color Kit - Atomic Age Edition](https://dribbble.com/shots/)
 
++ [Haven Haus Alternative Logo](https://dribbble.com/shots/)
+
++ [Sentinel - Danger Room Xmen art show](https://dribbble.com/shots/)
+
++ [Mobile Website Design for Arist](https://dribbble.com/shots/)
+
++ [Head](https://dribbble.com/shots/)
+
++ [Logo design ideas for a dress house fashion](https://dribbble.com/shots/)
+
++ [The National - London, UK Poster](https://dribbble.com/shots/)
+
++ [Football](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
