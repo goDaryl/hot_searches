@@ -87,3 +87,5 @@
 
 + [卡芙卡](http://www.acfun.cn/v/ac45476388)
 
++ [这条小鱼在乎(Cover: 王OK，洪佩瑜) ACFUN声唱2024第二轮第二期，感谢阿鱼做的视频](http://www.acfun.cn/v/ac45478292)
+
