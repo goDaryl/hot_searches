@@ -105,3 +105,17 @@
 
 + [微信小程序开发（百货商战）实战项目的分类的创建](https://blog.csdn.net/2301_77628600/article/details/140441072)
 
++ [[MySQL][事务管理][上][事务是什么?]详细讲解](https://blog.csdn.net/qq_37281656/article/details/140539118)
+
++ [【AI 大模型】函数调用 Function Calling ② ( Plugins、Actions 扩展 | 函数调用 Function Calling 引入 | 函数调用开发流程 | 代码示例 )](https://blog.csdn.net/han1202012/article/details/140380268)
+
++ [Nexus3 批量上传 jar 包、pom文件](https://blog.csdn.net/footless_bird/article/details/140600501)
+
++ [【Linux】Wmware ESxi 无法创建 VMFS 数据存储 datastore2 - 无法更新 /vmfs/devices/disks/naa.5000c500c05b3276 的磁盘分区。](https://blog.csdn.net/qq_35995514/article/details/140600638)
+
++ [HarmonyOS应用开发者高级认证，Next版本发布后最新题库 - 多选题序号2](https://blog.csdn.net/Gusha_/article/details/140580668)
+
++ [使用 Jenkins 实现持续集成和持续部署（CI/CD）](https://blog.csdn.net/yxyc666/article/details/140498510)
+
++ [数学建模~~~SPSS相关和回归分析](https://blog.csdn.net/binhyun/article/details/140582973)
+

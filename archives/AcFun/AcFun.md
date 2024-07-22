@@ -65,3 +65,7 @@
 
 + [里芙](http://www.acfun.cn/v/ac45480264)
 
++ [【中文翻唱】《乐意效劳》才怪咧！（はいよろこんで）【凰裳】](http://www.acfun.cn/v/ac45482801)
+
++ [麦芒30吊打iPhone？不愧是咱们最厉害的旗舰机皇啊！](http://www.acfun.cn/v/ac45482044)
+
