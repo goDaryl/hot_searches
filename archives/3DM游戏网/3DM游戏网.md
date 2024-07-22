@@ -189,3 +189,5 @@
 
 + [何时重登月球：美航天局正式宣布取消新一代月球车项目](https://www.3dmgame.com/news/202407/3900105.html)
 
++ [英伟达中国特供GPU H20面临禁售：损失120亿美元](https://www.3dmgame.com/news/202407/3900108.html)
+
