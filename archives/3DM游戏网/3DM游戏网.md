@@ -163,3 +163,7 @@
 
 + [《黑神话：悟空》发售还有29天 十个有趣事实](https://www.3dmgame.com/news/202407/3900080.html)
 
++ [《暗喻幻想》将在大阪和东京举办玩家试玩会 8月3日开启](https://www.3dmgame.com/news/202407/3900096.html)
+
++ [复古JRPG《章鱼的秘密》开启众筹 知名业界音乐设定师参与](https://www.3dmgame.com/news/202407/3900095.html)
+
