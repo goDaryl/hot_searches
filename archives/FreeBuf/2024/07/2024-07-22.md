@@ -43,3 +43,5 @@
 
 + [Electron引发的安全问题](https://www.freebuf.com/vuls/405564.html)
 
++ [FreeBuf早报 | 美国家具巨头遭勒索攻击；MarineMax数据泄露影响了超过12.3万人](https://www.freebuf.com/news/406451.html)
+
