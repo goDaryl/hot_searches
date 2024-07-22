@@ -172,3 +172,11 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Playing Music For Fun](https://dribbble.com/shots/)
 
++ [5 Psychometrical Types x 5 Personalities: Character Design](https://dribbble.com/shots/)
+
++ [Sound - Product Landing Page](https://dribbble.com/shots/)
+
++ [The Daughter and the Darkness](https://dribbble.com/shots/)
+
++ [Foodely - Food Delivery Mobile App](https://dribbble.com/shots/)
+
