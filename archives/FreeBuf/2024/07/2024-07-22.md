@@ -55,3 +55,9 @@
 
 + [99元，全款拿下云原生安全领域](https://www.freebuf.com/news/406660.html)
 
++ [攻防演练 | 记一些常用的反制红队CS的思路](https://www.freebuf.com/articles/web/375072.html)
+
++ [MasterParser：针对Linux日志的数字取证与事件响应DFIR工具](https://www.freebuf.com/sectool/405925.html)
+
++ [Windows蓝屏事件后，虚假CrowdStrike开始钓鱼](https://www.freebuf.com/news/406659.html)
+

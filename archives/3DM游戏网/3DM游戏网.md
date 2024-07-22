@@ -167,3 +167,5 @@
 
 + [复古JRPG《章鱼的秘密》开启众筹 知名业界音乐设定师参与](https://www.3dmgame.com/news/202407/3900095.html)
 
++ [《异形：夺命舰》宣布国内定档8月16日 同步北美](https://www.3dmgame.com/news/202407/3900097.html)
+

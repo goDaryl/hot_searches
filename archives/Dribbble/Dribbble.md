@@ -184,3 +184,11 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [StatsPRO, verified sports data & analytics logo design arena + ✔](https://dribbble.com/shots/)
 
++ [Secured finance - webdesign](https://dribbble.com/shots/)
+
++ [Graphic illustrations for the Financial Article](https://dribbble.com/shots/)
+
++ [Wind Energy Project](https://dribbble.com/shots/)
+
++ [Task Management Mobile App](https://dribbble.com/shots/)
+

@@ -51,3 +51,7 @@
 
 + [马斯克再出争议言论：借微软 Windows 蓝屏事件攻击 CrowdStrike 的“多元化”](https://m.ithome.com/html/783269.htm)
 
++ [宝马中国回应 4S 店拒不交车：初步调查均系个案，敦促经销商遵守约定](https://m.ithome.com/html/783348.htm)
+
++ [导致全球 850 万台电脑蓝屏死机后，CrowdStrike 上线故障修复指南中心](https://m.ithome.com/html/783308.htm)
+
