@@ -101,3 +101,7 @@
 
 + [【Linux】进程信号的详细介绍](https://blog.csdn.net/weixin_42976474/article/details/140589023)
 
++ [生成式人工智能的未来之路：对话系统与自主代理的交汇与展望](https://blog.csdn.net/Srlua/article/details/140611304)
+
++ [微信小程序开发（百货商战）实战项目的分类的创建](https://blog.csdn.net/2301_77628600/article/details/140441072)
+
