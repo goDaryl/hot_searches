@@ -63,3 +63,7 @@
 
 + [华为“金牌客服”李小龙：Pura 70 标准版手机后续支持 AI 扩图](https://m.ithome.com/html/783407.htm)
 
++ [上汽大众新途岳限时 10.99 万元起，较指导价优惠 4.87 万元](https://m.ithome.com/html/783354.htm)
+
++ [贾跃亭：法拉第未来第二品牌会打造 AI 人民之车，将大规模放量](https://m.ithome.com/html/783506.htm)
+
