@@ -65,3 +65,5 @@
 
 + [倒计时2天 | 红蓝军攻防与数据安全论坛 · 北京站](https://www.freebuf.com/fevents/406771.html)
 
++ [专访李星霖 | 退役军人30岁自学网络安全，5年跻身通信企业网安专家，他怎么做到的？](https://www.freebuf.com/articles/people/406184.html)
+
