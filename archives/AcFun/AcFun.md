@@ -61,3 +61,7 @@
 
 + [【柯基】《英国掷弹兵行进曲》（The British Grenadiers）](http://www.acfun.cn/v/ac45485380)
 
++ [【何止】你可能不会看，但我不可能不推荐《家在水草丰茂的地方》](http://www.acfun.cn/v/ac45485422)
+
++ [【奥雷】台湾80年代的灵幻电影代表作！它是你的童年吗？《灵幻童子》](http://www.acfun.cn/v/ac45486971)
+
