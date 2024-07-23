@@ -101,3 +101,13 @@
 
 + [【MySQL进阶篇】存储对象：视图、存储过程及触发器](https://blog.csdn.net/2401_83283514/article/details/140558838)
 
++ [【机器学习】模型验证曲线(Validation Curves)解析](https://blog.csdn.net/qq_44214428/article/details/140588770)
+
++ [使用Springboot + netty 打造聊天服务（一）](https://blog.csdn.net/s445320/article/details/140602694)
+
++ [HarmonyOS应用开发者高级认证，Next版本发布后最新题库 - 单选题序号2](https://blog.csdn.net/Gusha_/article/details/140580616)
+
++ [如何在 Android 中删除和恢复照片](https://blog.csdn.net/Geeker55/article/details/140586604)
+
++ [Jackson详解](https://blog.csdn.net/qq_35512802/article/details/140511651)
+
