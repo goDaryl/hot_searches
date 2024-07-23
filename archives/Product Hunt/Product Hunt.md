@@ -163,3 +163,9 @@
 
 + [File Transcribe](https://www.producthunt.com/posts/file-transcribe)
 
++ [NinjaRIP](https://www.producthunt.com/posts/ninjarip)
+
++ [Ursula Tarot](https://www.producthunt.com/posts/ursula-tarot)
+
++ [HackerPulse - The Ultimate Dev Profile](https://www.producthunt.com/posts/hackerpulse-the-ultimate-dev-profile)
+
