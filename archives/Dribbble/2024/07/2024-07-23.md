@@ -228,3 +228,27 @@ Thanks for being part of our journey ????](https://dribbble.com/shots/)
 
 + [*MM Vol.VI](https://dribbble.com/shots/)
 
++ [Novi Sad Icon and Banner](https://dribbble.com/shots/)
+
++ [Abstract Shield Logo - Minimalist and Dynamic Design // For Sale](https://dribbble.com/shots/)
+
++ [Landing Page Design for Education Platform for Children](https://dribbble.com/shots/)
+
++ [Travel Guider — Blog Design](https://dribbble.com/shots/)
+
++ [Atoms - Logo Design (unused)](https://dribbble.com/shots/)
+
++ [Eyeball: The New App for the Financial Community](https://dribbble.com/shots/)
+
++ [Illustrations for Marketing Agency](https://dribbble.com/shots/)
+
++ [Triceratops logo](https://dribbble.com/shots/)
+
++ [Star logo](https://dribbble.com/shots/)
+
++ [Bento Grid Bitmap Sketch Coloring](https://dribbble.com/shots/)
+
++ [crypto platworm Dex Daaps](https://dribbble.com/shots/)
+
++ [Illustrations for animation for J. Hardy](https://dribbble.com/shots/)
+
