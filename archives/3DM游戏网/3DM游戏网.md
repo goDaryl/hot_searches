@@ -105,3 +105,5 @@
 
 + [ROG Ally X IGN 9分：当前体验最好的掌机](https://www.3dmgame.com/news/202407/3900116.html)
 
++ [《碧海黑帆》将于8月23日在Steam发售 采用D加密](https://www.3dmgame.com/news/202407/3900118.html)
+

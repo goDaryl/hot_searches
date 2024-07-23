@@ -149,3 +149,13 @@
 
 + [EF Hello](https://dribbble.com/shots/)
 
++ [MADE logotype - 3 ways](https://dribbble.com/shots/)
+
++ [Reflecting on 15 years](https://dribbble.com/shots/)
+
++ [Analog Altar](https://dribbble.com/shots/)
+
++ [PetraTools Website Home Page](https://dribbble.com/shots/)
+
++ [Final concept ????](https://dribbble.com/shots/)
+

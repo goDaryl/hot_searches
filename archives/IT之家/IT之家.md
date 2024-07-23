@@ -29,3 +29,5 @@
 
 + [启动时间 1 秒内，淘宝鸿蒙原生版上线 HarmonyOS NEXT](https://m.ithome.com/html/783544.htm)
 
++ [娃哈哈：宗馥莉决定继续履行娃哈哈集团的相关管理职责](https://m.ithome.com/html/783558.htm)
+

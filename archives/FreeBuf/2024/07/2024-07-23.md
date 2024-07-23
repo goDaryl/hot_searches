@@ -41,3 +41,5 @@
 
 + [双一流高校某教学系统存在多个高危漏洞](https://www.freebuf.com/vuls/405764.html)
 
++ [欧盟数据法内容与影响](https://www.freebuf.com/articles/database/406664.html)
+
