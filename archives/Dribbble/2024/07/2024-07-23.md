@@ -202,3 +202,27 @@ Thanks for being part of our journey ????](https://dribbble.com/shots/)
 
 + [Brandi Carlile Poster](https://dribbble.com/shots/)
 
++ [UI UX Web Design for Isora - Web App SaaS Platform](https://dribbble.com/shots/)
+
++ [DXO Consulting Logo Design](https://dribbble.com/shots/)
+
++ [Social Media App](https://dribbble.com/shots/)
+
++ [Personal AI assistant: mobile design, brand identity](https://dribbble.com/shots/)
+
++ [Grow token instagram](https://dribbble.com/shots/)
+
++ [Gitroom landing page](https://dribbble.com/shots/)
+
++ [Cashbank - Pricing Page](https://dribbble.com/shots/)
+
++ [Zendenta - Patient Reservation Details for SaaS Dental Clinic](https://dribbble.com/shots/)
+
++ [Oops!](https://dribbble.com/shots/)
+
++ [UXBoost AI - AI-Powered Website and Platforms Audit Tool](https://dribbble.com/shots/)
+
++ [Swallow](https://dribbble.com/shots/)
+
++ [Music Collaboration Web App](https://dribbble.com/shots/)
+
