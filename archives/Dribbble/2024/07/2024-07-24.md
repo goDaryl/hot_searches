@@ -131,3 +131,17 @@
 
 + [Web Animations](https://dribbble.com/shots/)
 
++ [James Bond](https://dribbble.com/shots/)
+
++ [Mobile UI](https://dribbble.com/shots/)
+
++ [Golden Sound](https://dribbble.com/shots/)
+
++ [Arist Website UI/UX Design](https://dribbble.com/shots/)
+
++ [The National - London, UK Poster](https://dribbble.com/shots/)
+
++ [Where gravity meets its match!](https://dribbble.com/shots/)
+
++ [Grundens: Preview Applications](https://dribbble.com/shots/)
+
