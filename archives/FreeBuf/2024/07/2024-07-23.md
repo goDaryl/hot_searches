@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | CrowdStrike上线故障修复指南中心；Meta在尼日利亚被罚2.2亿美元](https://www.freebuf.com/news/406687.html)
 
++ [技战法模板之运营人员视角下的ORB的网络"风险"](https://www.freebuf.com/defense/406619.html)
+
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
