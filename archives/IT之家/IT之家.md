@@ -35,3 +35,5 @@
 
 + [更新出错致航班停飞、医院瘫痪，CrowdStrike CEO 将接受美国国会质询](https://m.ithome.com/html/783728.htm)
 
++ [手机停机解封需社保信息？深圳移动：线下解封需社保连续缴纳 6 个月以上](https://m.ithome.com/html/783814.htm)
+

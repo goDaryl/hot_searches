@@ -117,3 +117,21 @@
 
 + [物理机制汽车送货游戏《Truckful》面向PC公布](https://www.3dmgame.com/news/202407/3900192.html)
 
++ [《NBA街头篮球》精神续作《The Run: Got Next》公布 虚幻5打造](https://www.3dmgame.com/news/202407/3900201.html)
+
++ [《轮班87》登陆Steam 类8番出口惊悚悬疑](https://www.3dmgame.com/news/202407/3900200.html)
+
++ [《堡垒之夜》联动特斯拉Cybertruck 似乎并不受玩家和开发者待见](https://www.3dmgame.com/news/202407/3900202.html)
+
++ [国际奥委会全票通过沙特电竞奥运会项目 预计2025年开办](https://www.3dmgame.com/news/202407/3900203.html)
+
++ [《天空之恋》Steam页面上线 2024年11月推出](https://www.3dmgame.com/news/202407/3900204.html)
+
++ [《祝你好死》发行商Red Art Games遭受大规模网络攻击](https://www.3dmgame.com/news/202407/3900205.html)
+
++ [在育碧“道歉”声明后 IGN也改口称弥助不是武士](https://www.3dmgame.com/news/202407/3900206.html)
+
++ [《使命召唤20：现代战争3》7月25日加入Game Pass](https://www.3dmgame.com/news/202407/3900198.html)
+
++ [前R星技术总监：《GTA6》与五代相比 不会有太大突破](https://www.3dmgame.com/news/202407/3900199.html)
+
