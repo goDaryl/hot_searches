@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 印度加密货币交易所WazirX遭黑客攻击；网约车外挂软件犯罪团伙被打掉](https://www.freebuf.com/news/406783.html)
 
++ [漏洞复现 | 结合源码分析致远A8版本任意文件读取漏洞](https://www.freebuf.com/vuls/406609.html)
+

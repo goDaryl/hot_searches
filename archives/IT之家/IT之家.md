@@ -37,3 +37,5 @@
 
 + [手机停机解封需社保信息？深圳移动：线下解封需社保连续缴纳 6 个月以上](https://m.ithome.com/html/783814.htm)
 
++ [消息称苹果已开始研发小折叠屏 iPhone，预计 2026 年推出](https://m.ithome.com/html/783786.htm)
+

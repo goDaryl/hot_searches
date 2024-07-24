@@ -135,3 +135,17 @@
 
 + [前R星技术总监：《GTA6》与五代相比 不会有太大突破](https://www.3dmgame.com/news/202407/3900199.html)
 
++ [塔防游戏《兽人领地》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202407/3900212.html)
+
++ [卡普空宣布计划将管理层女性占比提升至15%](https://www.3dmgame.com/news/202407/3900211.html)
+
++ [因成员发布含种族主义言论 任天堂撤销《斯普拉遁3》世界赛优胜队伍的冠军资格](https://www.3dmgame.com/news/202407/3900210.html)
+
++ [《暗影诅咒：复刻版》新预告片 宣布10月31日发售](https://www.3dmgame.com/news/202407/3900209.html)
+
++ [《星刃》官方分享拍照模式截图 伊芙穿泳衣练瑜伽](https://www.3dmgame.com/news/202407/3900213.html)
+
++ [《Ova Magica》Steam抢先体验 怪物收集农场运营](https://www.3dmgame.com/news/202407/3900208.html)
+
++ [《守望先锋2》莱因哈特神话武器皮肤上线 太酷炫了！](https://www.3dmgame.com/news/202407/3900207.html)
+
