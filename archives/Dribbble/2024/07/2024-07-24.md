@@ -227,3 +227,28 @@
 
 + [Sounds Mobile App](https://dribbble.com/shots/)
 
++ [Illustrations for animation for J. Hardy](https://dribbble.com/shots/)
+
++ [Precious Metal 3](https://dribbble.com/shots/)
+
++ [Space Pencil Art Print](https://dribbble.com/shots/)
+
++ [Future Paradise: Merch Illustration](https://dribbble.com/shots/)
+
++ [Ah-Ha](https://dribbble.com/shots/)
+
++ [Hands Time - Minimalist Time Widget](https://dribbble.com/shots/)
+
++ [Badge Week 2024: Multnomah Falls](https://dribbble.com/shots/)
+
++ [Future Paradise: Illustration](https://dribbble.com/shots/)
+
++ [Mia 8th Birthday](https://dribbble.com/shots/)
+
++ [Glyph Beer 51](https://dribbble.com/shots/)
+
++ [EF Hello](https://dribbble.com/shots/)
+
++ [Illustrations for Hermès China 2024
+Artistic Window](https://dribbble.com/shots/)
+
