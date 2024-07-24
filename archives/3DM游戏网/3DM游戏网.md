@@ -197,3 +197,5 @@
 
 + [多人竞技射击游戏《RAWMEN》现已在Epic Games免费推出](https://www.3dmgame.com/news/202407/3900236.html)
 
++ [除《企鹅人》外 《新蝙蝠侠》还可能将有更多衍生作品](https://www.3dmgame.com/news/202407/3900237.html)
+
