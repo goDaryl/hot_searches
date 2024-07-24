@@ -49,3 +49,52 @@
 
 + [Trako fitness tracking app logo design icon](https://dribbble.com/shots/)
 
++ [The National - London, UK Poster](https://dribbble.com/shots/)
+
++ [Space Pencil Art Print](https://dribbble.com/shots/)
+
++ [Zero Proof (Alternate)](https://dribbble.com/shots/)
+
++ [Overprint Grids](https://dribbble.com/shots/)
+
++ [Future Paradise: Illustration](https://dribbble.com/shots/)
+
++ [Future Paradise: Merch Illustration](https://dribbble.com/shots/)
+
++ [Dragönsteel](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ [Michael Jordan](https://dribbble.com/shots/)
+
++ [Head](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Label Illustration](https://dribbble.com/shots/)
+
++ [Eye Sea](https://dribbble.com/shots/)
+
++ [Tattoo Series 2](https://dribbble.com/shots/)
+
++ [Illustrations for Hermès China 2024
+Artistic Window](https://dribbble.com/shots/)
+
++ [The Creative Watch](https://dribbble.com/shots/)
+
++ [ABC  Graphics [ logo concepts ]](https://dribbble.com/shots/)
+
++ [Mini Dune Tree Scapes](https://dribbble.com/shots/)
+
++ [Olympic keepsakes](https://dribbble.com/shots/)
+
++ [Grundens: Preview Applications](https://dribbble.com/shots/)
+
++ [From ancient athletes to modern marvels](https://dribbble.com/shots/)
+
++ [MADE logotype - 3 ways](https://dribbble.com/shots/)
+
++ [Badge Week 2024: Multnomah Falls](https://dribbble.com/shots/)
+
++ [Colorama Color Kit - Atomic Age Edition](https://dribbble.com/shots/)
+
++ [*MM Vol.VI](https://dribbble.com/shots/)
+
