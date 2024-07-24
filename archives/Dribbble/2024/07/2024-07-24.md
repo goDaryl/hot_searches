@@ -252,3 +252,13 @@
 + [Illustrations for Hermès China 2024
 Artistic Window](https://dribbble.com/shots/)
 
++ [Uify modular visual UI builder logo design: eye, tree, mosaic](https://dribbble.com/shots/)
+
++ [Inventory app: Profile](https://dribbble.com/shots/)
+
++ [Trako fitness tracking app logo design icon](https://dribbble.com/shots/)
+
++ [stormy logo](https://dribbble.com/shots/)
+
++ [DP - Luxury Champagne Company Bold Modern Website Design - Home](https://dribbble.com/shots/)
+
