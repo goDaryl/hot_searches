@@ -126,3 +126,13 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Burger + French fries illustration](https://dribbble.com/shots/)
 
++ [Our State ShadFest Editorial Illustration by James Olstein](https://dribbble.com/shots/)
+
++ [Wonderpens: Branding Application](https://dribbble.com/shots/)
+
++ [AKQA Perspectives](https://dribbble.com/shots/)
+
++ [Digital Still Life - German Art Deco](https://dribbble.com/shots/)
+
++ [Football](https://dribbble.com/shots/)
+
