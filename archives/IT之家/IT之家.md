@@ -51,3 +51,5 @@
 
 + [要知 App 0.31 更新：秒扫各榜单的强大搜索，周末无休的早报……](https://m.ithome.com/html/783843.htm)
 
++ [三星开始向巴黎奥运会运动员送上 Galaxy Z Flip6 奥运版手机，100GB 流量免费用](https://m.ithome.com/html/783770.htm)
+
