@@ -51,3 +51,7 @@
 
 + [Crowdstrike蓝屏事件自查结果：错在流程而非人](https://www.freebuf.com/news/406953.html)
 
++ [这家网络公司开始聘用黑客？](https://www.freebuf.com/news/406964.html)
+
++ [史上最大规模的数字盗版泄密事件：1000万用户因虚假Z-Library导致机密信息泄露](https://www.freebuf.com/news/406949.html)
+
