@@ -259,3 +259,11 @@
 
 + [《无人深空》更新后玩家数量暴涨 PC主机都增加4倍多](https://www.3dmgame.com/news/202407/3900325.html)
 
++ [《国王的画布》Steam试玩发布 手绘风地图制作工具](https://www.3dmgame.com/news/202407/3900338.html)
+
++ [《我的可爱皇后》发售日预告 8月21日发售](https://www.3dmgame.com/news/202407/3900336.html)
+
++ [因游戏失利产生不满 向任天堂发送死亡威胁的男子被判有期徒刑一年](https://www.3dmgame.com/news/202407/3900337.html)
+
++ [戴夫·巴蒂斯塔坦言愿意在滚导的新DCU中做任何事情 但也有心仪的角色](https://www.3dmgame.com/news/202407/3900335.html)
+
