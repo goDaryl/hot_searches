@@ -55,3 +55,5 @@
 
 + [史上最大规模的数字盗版泄密事件：1000万用户因虚假Z-Library导致机密信息泄露](https://www.freebuf.com/news/406949.html)
 
++ [渗透测试 | 黑白盒某学习刷课漏洞挖掘经验分享](https://www.freebuf.com/articles/web/406563.html)
+
