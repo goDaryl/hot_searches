@@ -295,3 +295,7 @@
 
 + [日本相关部门回应《刺客信条：影》黑人武士弥助风波](https://www.3dmgame.com/news/202407/3900346.html)
 
++ [SIE中国之星计划新游《楼兰》公布 单人动作冒险](https://www.3dmgame.com/news/202407/3900354.html)
+
++ [索尼“中国之星计划”新游《绝晓》《代号：锦衣卫》实机预告](https://www.3dmgame.com/news/202407/3900353.html)
+

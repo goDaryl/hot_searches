@@ -232,3 +232,7 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Abstro 6](https://dribbble.com/shots/)
 
++ [Bloody Book Logo](https://dribbble.com/shots/)
+
++ [Tasa | AI Logo design](https://dribbble.com/shots/)
+
