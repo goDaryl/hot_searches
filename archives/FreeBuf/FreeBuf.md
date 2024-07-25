@@ -41,3 +41,5 @@
 
 + [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
 
++ [某诈骗案件中发现的.Net木马动静态分析思路与方法](https://www.freebuf.com/articles/system/406445.html)
+
