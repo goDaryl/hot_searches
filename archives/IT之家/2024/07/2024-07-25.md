@@ -31,3 +31,5 @@
 
 + [移除 Plus 机型，郭明錤称苹果 iPhone 17 系列将新增超薄机型：采用自家 5G 芯片](https://m.ithome.com/html/784029.htm)
 
++ [又一车企高管拿到赛车驾照，吉利杨学良称希望能参加 TCR 赛事](https://m.ithome.com/html/783987.htm)
+

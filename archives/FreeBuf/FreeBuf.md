@@ -43,3 +43,5 @@
 
 + [某诈骗案件中发现的.Net木马动静态分析思路与方法](https://www.freebuf.com/articles/system/406445.html)
 
++ [FreeBuf早报 | Wiz拒绝谷歌230亿美元的收购要约；20万BreachForums会员曝光](https://www.freebuf.com/news/406835.html)
+
