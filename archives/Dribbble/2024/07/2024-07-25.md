@@ -236,3 +236,11 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Tasa | AI Logo design](https://dribbble.com/shots/)
 
++ [Endurance Warranty: Claims](https://dribbble.com/shots/)
+
++ [Syncfine Fintech Branding](https://dribbble.com/shots/)
+
++ [AI Travel Companion](https://dribbble.com/shots/)
+
++ [HPFS Web](https://dribbble.com/shots/)
+
