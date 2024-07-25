@@ -196,3 +196,21 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Zendenta - Dashboard for SaaS Dental Clinic Management](https://dribbble.com/shots/)
 
++ [Tree + Cube + Wires Logo Concept](https://dribbble.com/shots/)
+
++ [investy - Logo Design](https://dribbble.com/shots/)
+
++ [AtomicVPN website](https://dribbble.com/shots/)
+
++ [Volvo S90 Recharge](https://dribbble.com/shots/)
+
++ [Arrows Hex - gradient version](https://dribbble.com/shots/)
+
++ [CH24 Pocket Square](https://dribbble.com/shots/)
+
++ [SEAL. - Fintech Landing Page](https://dribbble.com/shots/)
+
++ [Finance Dashboard Design Concept](https://dribbble.com/shots/)
+
++ [Interaction for Journal App](https://dribbble.com/shots/)
+
