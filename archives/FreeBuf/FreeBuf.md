@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | Wiz拒绝谷歌230亿美元的收购要约；20万BreachForums会员曝光](https://www.freebuf.com/news/406835.html)
 
++ [红队——多层内网环境渗透测试（三）](https://www.freebuf.com/defense/382534.html)
+
++ [蓝队能力自查 | 红队实战攻击利用技术汇总](https://www.freebuf.com/news/406636.html)
+
