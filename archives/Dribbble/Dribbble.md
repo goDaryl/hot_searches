@@ -71,3 +71,52 @@
 
 + [Digital Warfare](https://dribbble.com/shots/)
 
++ [Badge Week 2024: Multnomah Falls](https://dribbble.com/shots/)
+
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+
++ [EF Hello](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ [Multiple Alarm](https://dribbble.com/shots/)
+
++ [Grundens: Preview Applications](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Label Illustration](https://dribbble.com/shots/)
+
++ [Juiced Fresh](https://dribbble.com/shots/)
+
++ [Dinosaur](https://dribbble.com/shots/)
+
++ [Dragönsteel](https://dribbble.com/shots/)
+
++ [420 Freak club](https://dribbble.com/shots/)
+
++ [Dave Matthews Band Mansfield, MA Poster](https://dribbble.com/shots/)
+
++ [Land Agent at Work](https://dribbble.com/shots/)
+
++ [From ancient athletes to modern marvels](https://dribbble.com/shots/)
+
++ [Eye Sea](https://dribbble.com/shots/)
+
++ [Dribbble's 15th anniversary & 15000 subscribers](https://dribbble.com/shots/)
+
++ [Wonderpens: Branding Application](https://dribbble.com/shots/)
+
++ [Colorama Color Kit - Atomic Age Edition](https://dribbble.com/shots/)
+
++ [Illustrations for Hermès China 2024
+Artistic Window](https://dribbble.com/shots/)
+
++ [Illustrations for animation for J. Hardy](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Secondary Logo](https://dribbble.com/shots/)
+
++ [The Creative Watch](https://dribbble.com/shots/)
+
++ [St. John the Beloved Branded Graphic](https://dribbble.com/shots/)
+
++ [ABC  Graphics [ logo concepts ]](https://dribbble.com/shots/)
+
