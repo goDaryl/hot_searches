@@ -59,3 +59,7 @@
 
 + [江淮傍上华为打造百万级豪车？ 6 月 MPV 销量暴跌近四成](https://m.ithome.com/html/784047.htm)
 
++ [东方甄选：主播董宇辉离职](https://m.ithome.com/html/784230.htm)
+
++ [告别“视频流”，小米 MIX Flip 手机外屏微博已更改为信息流模式](https://m.ithome.com/html/784169.htm)
+

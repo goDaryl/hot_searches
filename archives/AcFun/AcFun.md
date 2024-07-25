@@ -111,3 +111,15 @@
 
 + [漫展拍的，那天脑子没啥思考能力，有点小擦，不准喷](http://www.acfun.cn/v/ac45492942)
 
++ [厨师长教你：“茭白炒五花肉”的家常做法，清爽不油腻，收藏了](http://www.acfun.cn/v/ac45493228)
+
++ [【何止】豆瓣7.5，钟丽缇版的《色戒》，我敢说90%的人都没看过《色戒》](http://www.acfun.cn/v/ac45494019)
+
++ [Big Brother_S26E04_Episode 4_x264](http://www.acfun.cn/v/ac45497007)
+
++ [峡谷第一巴图鲁](http://www.acfun.cn/v/ac45495997)
+
++ [这真的不是牛奶冰淇淋！！](http://www.acfun.cn/v/ac45491907)
+
++ [氮化镓是什么，它为什么可以让充电更快，充电器还变的更小](http://www.acfun.cn/v/ac45491511)
+
