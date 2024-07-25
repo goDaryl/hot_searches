@@ -105,3 +105,21 @@
 
 + [34_YOLOv5网络详解](https://blog.csdn.net/qq_51605551/article/details/140601798)
 
++ [【人工智能】AI绘画：科技与艺术交汇的新时代](https://blog.csdn.net/2201_75539691/article/details/140699606)
+
++ [基于单片机控制的锂电池充电和保护系统研究](https://blog.csdn.net/weixin_45905610/article/details/140671335)
+
++ [802.11 wireshark 抓包](https://blog.csdn.net/m0_55334946/article/details/140671901)
+
++ [探秘 Windows 检查点累积更新](https://blog.csdn.net/tieqiaoshaonian/article/details/140691462)
+
++ [【微信小程序实战教程】之微信小程序原生开发详解](https://blog.csdn.net/p445098355/article/details/140665881)
+
++ [怎么将jpg图片转换为pdf？将jpg图片转换为pdf的几种方法介绍](https://blog.csdn.net/ZCR20000/article/details/140661312)
+
++ [韦东山嵌入式linux系列-具体单板的按键驱动程序(查询方式)](https://blog.csdn.net/Zhouzi_heng/article/details/140672881)
+
++ [新能源汽车的充电网络安全威胁和防护措施](https://blog.csdn.net/weixin_33193047/article/details/140665487)
+
++ [【源码+文档+调试讲解】铁路订票平台小程序的设计与实现](https://blog.csdn.net/2401_84408400/article/details/140654509)
+
