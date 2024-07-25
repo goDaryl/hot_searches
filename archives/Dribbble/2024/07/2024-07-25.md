@@ -168,3 +168,31 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Dribbble's 15th anniversary & 15000 subscribers](https://dribbble.com/shots/)
 
++ [Stickers for DreamVault](https://dribbble.com/shots/)
+
++ [HyperBridge protocol](https://dribbble.com/shots/)
+
++ [Social Media Mobile App](https://dribbble.com/shots/)
+
++ [Zenity redesign website](https://dribbble.com/shots/)
+
++ [DraftBot | Mobile App Design ????](https://dribbble.com/shots/)
+
++ [Redice - Sales analytics dashboard ????](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Secured finance - web design fragments](https://dribbble.com/shots/)
+
++ [Point of Sales System - Landing Page](https://dribbble.com/shots/)
+
++ [CourseHub educational platform](https://dribbble.com/shots/)
+
++ [Meditalk : Online Health Consultation - Landing Page Website](https://dribbble.com/shots/)
+
++ [Guess Who Title Lettering](https://dribbble.com/shots/)
+
++ [Sales Dashboard](https://dribbble.com/shots/)
+
++ [Zendenta - Dashboard for SaaS Dental Clinic Management](https://dribbble.com/shots/)
+
