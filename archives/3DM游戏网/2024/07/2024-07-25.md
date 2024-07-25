@@ -299,3 +299,9 @@
 
 + [索尼“中国之星计划”新游《绝晓》《代号：锦衣卫》实机预告](https://www.3dmgame.com/news/202407/3900353.html)
 
++ [《潜行者2》再度跳票到今年11月 8月发布新实机](https://www.3dmgame.com/news/202407/3900355.html)
+
++ [必应推出生成式搜索 让AI总结搜索结果](https://www.3dmgame.com/news/202407/3900356.html)
+
++ [Netflix动画剧集《终结者：零》首曝正式海报](https://www.3dmgame.com/news/202407/3900357.html)
+
