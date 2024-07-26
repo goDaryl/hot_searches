@@ -144,3 +144,17 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Social UI](https://dribbble.com/shots/)
 
++ [Burger + French fries illustration](https://dribbble.com/shots/)
+
++ [Badge Week 2024: In The Rough Golf Apparel](https://dribbble.com/shots/)
+
++ [Happy 15th! ????](https://dribbble.com/shots/)
+
++ [*MM Vol.VI](https://dribbble.com/shots/)
+
++ [Digital Still Life - German Art Deco](https://dribbble.com/shots/)
+
++ [*MM Vol.VI](https://dribbble.com/shots/)
+
++ [Logo design ideas for a dress house fashion](https://dribbble.com/shots/)
+

@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 《工业领域云安全实践指南》正式发布；Red Art游戏遭遇重大网络攻击](https://www.freebuf.com/news/407005.html)
 
++ [实战案例解析：HTTP请求走私，账户安全的隐形刺客](https://www.freebuf.com/articles/web/406304.html)
+

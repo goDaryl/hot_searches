@@ -143,3 +143,11 @@
 
 + [从训练和推理阶段理解transformers、self-attention的本质是改变输入文本对应tokens的embedding及Mask机制](https://blog.csdn.net/u014439531/article/details/140701747)
 
++ [揭秘【Cloud Native】安全：当灵活性与安全性碰撞时，我们该如何应对？](https://blog.csdn.net/weixin_53269650/article/details/140660286)
+
++ [Elasticsearch：跨集群使用 ES|QL](https://blog.csdn.net/UbuntuTouch/article/details/140687378)
+
++ [运维锅总浅析kubernetes网络插件](https://blog.csdn.net/qq_35630153/article/details/140701171)
+
++ [Spire.PDF for .NET【文档操作】演示：在 PDF 中添加、隐藏或删除图层](https://blog.csdn.net/m0_67129275/article/details/140685226)
+
