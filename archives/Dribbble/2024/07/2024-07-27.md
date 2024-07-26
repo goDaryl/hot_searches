@@ -121,3 +121,26 @@
 
 + [PetraTools Website Catalog Page](https://dribbble.com/shots/)
 
++ [Wonderpens: Branding Application](https://dribbble.com/shots/)
+
++ [Logo design ideas for a dress house fashion](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Label Illustration](https://dribbble.com/shots/)
+
++ [Land Agent at Work](https://dribbble.com/shots/)
+
++ [From ancient athletes to modern marvels](https://dribbble.com/shots/)
+
++ [Thou damned whale](https://dribbble.com/shots/)
+
++ [Novi Sad Icon and Banner](https://dribbble.com/shots/)
+
++ [Illustrations for animation for J. Hardy](https://dribbble.com/shots/)
+
++ [Illustrations for Hermès China 2024
+Artistic Window](https://dribbble.com/shots/)
+
++ [Death and Glory](https://dribbble.com/shots/)
+
++ [St. John the Beloved Branded Graphic](https://dribbble.com/shots/)
+
