@@ -65,3 +65,49 @@
 
 + [R12](https://dribbble.com/shots/)
 
++ [*MM Vol.VI](https://dribbble.com/shots/)
+
++ [Grundens: Full Preview](https://dribbble.com/shots/)
+
++ [Burger + French fries illustration](https://dribbble.com/shots/)
+
++ [Badge Week 2024: In The Rough Golf Apparel](https://dribbble.com/shots/)
+
++ [Zero Proof (Alternate)](https://dribbble.com/shots/)
+
++ [St. John the Beloved Brand Application](https://dribbble.com/shots/)
+
++ [The National - London, UK Poster](https://dribbble.com/shots/)
+
++ [Happy 15th! ????](https://dribbble.com/shots/)
+
++ [Vroom vroom](https://dribbble.com/shots/)
+
++ [Social UI](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Secondary Logo](https://dribbble.com/shots/)
+
++ [CH24 Pocket Square](https://dribbble.com/shots/)
+
++ [Multiple Alarm](https://dribbble.com/shots/)
+
++ [Dave Matthews Band Mansfield, MA Poster](https://dribbble.com/shots/)
+
++ [The Creative Watch](https://dribbble.com/shots/)
+
++ [Dinosaur](https://dribbble.com/shots/)
+
++ [3D Explainer for Ami (Sound on ????)](https://dribbble.com/shots/)
+
++ [Juiced Fresh](https://dribbble.com/shots/)
+
++ [AKQA Perspectives](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [Aeropress Championship Poster](https://dribbble.com/shots/)
+
++ [Cool Story Bro](https://dribbble.com/shots/)
+
