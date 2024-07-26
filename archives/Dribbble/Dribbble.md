@@ -218,3 +218,35 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Aeropress Championship Poster](https://dribbble.com/shots/)
 
++ [Beauty App Design](https://dribbble.com/shots/)
+
++ [Stella - Fashion Logo & Branding](https://dribbble.com/shots/)
+
++ [Eyeball Identity](https://dribbble.com/shots/)
+
++ [Signage Design - Stevens Project](https://dribbble.com/shots/)
+
++ [Isora Web App Homepage - Education SaaS Platform](https://dribbble.com/shots/)
+
++ [Activewear](https://dribbble.com/shots/)
+
++ [Home Brew](https://dribbble.com/shots/)
+
++ [E-commerce Mobile App](https://dribbble.com/shots/)
+
++ [Extej - Financial Admin & Dashboard Template for SaaS](https://dribbble.com/shots/)
+
++ [Landscape illustration. Fjords](https://dribbble.com/shots/)
+
++ [Brand Guidelines Template](https://dribbble.com/shots/)
+
++ [HireMe - Job Seeker Website](https://dribbble.com/shots/)
+
++ [Husky](https://dribbble.com/shots/)
+
++ [Illustration for Outside Voices](https://dribbble.com/shots/)
+
++ [Landing for Ice Cream Brand](https://dribbble.com/shots/)
+
++ [Core AI - Branding for AI Platform](https://dribbble.com/shots/)
+

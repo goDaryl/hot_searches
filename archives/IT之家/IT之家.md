@@ -65,3 +65,5 @@
 
 + [IDC：vivo 登顶 2024 年第二季度中国智能手机市场份额排名，苹果被挤出前五](https://m.ithome.com/html/784377.htm)
 
++ [雷克萨斯 ES 200 臻享版轿车上市：新增前排座椅通风等，售价 29.99 万元](https://m.ithome.com/html/784354.htm)
+
