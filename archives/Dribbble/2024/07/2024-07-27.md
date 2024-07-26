@@ -156,3 +156,11 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Our State ShadFest Editorial Illustration by James Olstein](https://dribbble.com/shots/)
 
++ [Yakoda Ripple Wordmark (Animation)](https://dribbble.com/shots/)
+
++ [Breakfast friends](https://dribbble.com/shots/)
+
++ [Crypto screen](https://dribbble.com/shots/)
+
++ [Twelve South Pins](https://dribbble.com/shots/)
+
