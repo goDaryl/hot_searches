@@ -53,3 +53,7 @@
 
 + [实施单独立法！香港即将出台首部网络安全法](https://www.freebuf.com/news/407048.html)
 
++ [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
+
++ [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
+
