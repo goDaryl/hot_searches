@@ -43,3 +43,5 @@
 
 + [攻防演练 | 内网渗透信息搜集骚姿势](https://www.freebuf.com/defense/405366.html)
 
++ [FreeBuf早报 | 《工业领域云安全实践指南》正式发布；Red Art游戏遭遇重大网络攻击](https://www.freebuf.com/news/407005.html)
+

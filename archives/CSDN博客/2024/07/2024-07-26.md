@@ -137,3 +137,9 @@
 
 + [WebKit的WebXR Hand Input API：开启虚拟现实交互新纪元](https://blog.csdn.net/2401_85341950/article/details/140672580)
 
++ [12 前端工程化](https://blog.csdn.net/ever__ever/article/details/140669054)
+
++ [暑期数学建模导论----数据处理与拟合模型](https://blog.csdn.net/2301_76637544/article/details/140637093)
+
++ [从训练和推理阶段理解transformers、self-attention的本质是改变输入文本对应tokens的embedding及Mask机制](https://blog.csdn.net/u014439531/article/details/140701747)
+
