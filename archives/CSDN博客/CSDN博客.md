@@ -135,3 +135,5 @@
 
 + [懒人精灵安卓版纯本地离线文字识别插件](https://blog.csdn.net/YY007H/article/details/140676593)
 
++ [WebKit的WebXR Hand Input API：开启虚拟现实交互新纪元](https://blog.csdn.net/2401_85341950/article/details/140672580)
+
