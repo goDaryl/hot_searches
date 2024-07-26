@@ -212,3 +212,7 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Novi Sad Icon and Banner](https://dribbble.com/shots/)
 
++ [Cool Story Bro](https://dribbble.com/shots/)
+
++ [Thou damned whale](https://dribbble.com/shots/)
+
