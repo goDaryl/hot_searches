@@ -144,3 +144,15 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [St. John the Beloved Branded Graphic](https://dribbble.com/shots/)
 
++ [Overprint Grids](https://dribbble.com/shots/)
+
++ [Datsun vibes](https://dribbble.com/shots/)
+
++ [Illustration for Outside Voices](https://dribbble.com/shots/)
+
++ [420 Freak club](https://dribbble.com/shots/)
+
++ [Michael Jordan](https://dribbble.com/shots/)
+
++ [Our State ShadFest Editorial Illustration by James Olstein](https://dribbble.com/shots/)
+
