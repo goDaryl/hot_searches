@@ -57,3 +57,9 @@
 
 + [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
 
++ [热议红蓝对抗，探索数据安全新路径](https://www.freebuf.com/fevents/407082.html)
+
++ [NimScan：一款运行效率极高的端口扫描工具](https://www.freebuf.com/sectool/406178.html)
+
++ [最大规模的盗版网站泄露事件，黑客窃取了1000万真实用户信息](https://www.freebuf.com/news/406949.html)
+
