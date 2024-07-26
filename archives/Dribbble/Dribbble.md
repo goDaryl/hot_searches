@@ -162,3 +162,13 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Snake Eyes Software](https://dribbble.com/shots/)
 
++ [Michael Jordan](https://dribbble.com/shots/)
+
++ [MADE logotype - 3 ways](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [Datsun vibes](https://dribbble.com/shots/)
+
++ ["The Lute Player" - Homage art](https://dribbble.com/shots/)
+

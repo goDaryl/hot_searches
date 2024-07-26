@@ -151,3 +151,11 @@
 
 + [Spire.PDF for .NET【文档操作】演示：在 PDF 中添加、隐藏或删除图层](https://blog.csdn.net/m0_67129275/article/details/140685226)
 
++ [Spark实时（五）：InputSource数据源案例演示](https://blog.csdn.net/xiaoweite1/article/details/140701792)
+
++ [阿里巴巴开源大作：EchoMimic—数字人技术的颠覆者](https://blog.csdn.net/xiaobing259/article/details/140594415)
+
++ [基于springboot+vue+uniapp的居民健康监测小程序](https://blog.csdn.net/shmp54/article/details/140699145)
+
++ [【中项】系统集成项目管理工程师-第5章 软件工程-5.4软件实现](https://blog.csdn.net/m0_66540684/article/details/140655832)
+
