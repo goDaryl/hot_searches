@@ -185,3 +185,9 @@
 
 + [宝可梦公司2023年零售销售额达到108亿美元](https://www.3dmgame.com/news/202407/3900477.html)
 
++ [《黑袍纠察队》确认将拍摄前传剧集 士兵小子领衔](https://www.3dmgame.com/news/202407/3900486.html)
+
++ [中式重科幻独立FPS《红移点》Steam页面 发售日期待定](https://www.3dmgame.com/news/202407/3900487.html)
+
++ [勇攀高峰！休闲风格登山游戏新作《谷峰地》现已发售](https://www.3dmgame.com/news/202407/3900485.html)
+
