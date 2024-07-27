@@ -192,3 +192,9 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Dribbble's 15th anniversary & 15000 subscribers](https://dribbble.com/shots/)
 
++ [b infinity, crypto, brand identity, logo design](https://dribbble.com/shots/)
+
++ [Branding & Packaging Design for Planty](https://dribbble.com/shots/)
+
++ [Stardog logo](https://dribbble.com/shots/)
+
