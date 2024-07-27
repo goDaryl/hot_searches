@@ -41,3 +41,7 @@
 
 + [蓝队能力自查 | 红队实战攻击利用技术汇总](https://www.freebuf.com/news/406636.html)
 
++ [网络安全市场渠道格局和痛点分析](https://www.freebuf.com/articles/neopoints/382309.html)
+
++ [基于MQTT协议的模糊测试研究](https://www.freebuf.com/articles/network/404765.html)
+
