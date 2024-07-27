@@ -167,3 +167,7 @@
 
 + [Flink-CDC解析（第47天）](https://blog.csdn.net/syhiiu/article/details/140697517)
 
++ [IEC104转MQTT网关轻松将IEC104设备数据传输到Zabbix、阿里云、华为云、亚马逊AWS、ThingsBoard、Ignition云平台](https://blog.csdn.net/qq_27395975/article/details/140694414)
+
++ [如何防御IP劫持](https://blog.csdn.net/NSME1/article/details/140688366)
+
