@@ -53,3 +53,7 @@
 
 + [苹果重发 iOS / iPadOS 18 Beta 4 更新，版本号变为 22A5316k](https://m.ithome.com/html/784528.htm)
 
++ [6499 元起：蔚来第二代 NIO Phone 发布，依然 0 系统广告 / 0 商业预装](https://m.ithome.com/html/784625.htm)
+
++ [广电总局：电视“套娃”收费和操作复杂治理成效显著，上半年有线电视和 IPTV 观看直播用户达 4 亿户](https://m.ithome.com/html/784535.htm)
+
