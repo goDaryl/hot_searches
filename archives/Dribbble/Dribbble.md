@@ -168,3 +168,13 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Sales Admin Mobile App](https://dribbble.com/shots/)
 
++ [Grundens: Preview Applications](https://dribbble.com/shots/)
+
++ [MADE logotype - 3 ways](https://dribbble.com/shots/)
+
++ [AI Travel Companion](https://dribbble.com/shots/)
+
++ [Digital Still Life - German Art Deco](https://dribbble.com/shots/)
+
++ ["The Lute Player" - Homage art](https://dribbble.com/shots/)
+

@@ -47,3 +47,7 @@
 
 + [FreeBuf 周报 | Wiz拒绝谷歌230亿美元收购；新型欺诈计划波及1.1亿用户](https://www.freebuf.com/news/407079.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+
++ [DoH，隐蔽隧道又添利器，强盾在何方？](https://www.freebuf.com/articles/network/406326.html)
+
