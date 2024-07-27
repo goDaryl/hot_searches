@@ -169,3 +169,19 @@
 
 + [众筹作品《珊瑚岛》承诺NS版却始终未见 厂商出面解释](https://www.3dmgame.com/news/202407/3900473.html)
 
++ [PS Portal更新 增加了对5GHz公共Wi-Fi网络支持](https://www.3dmgame.com/news/202407/3900484.html)
+
++ [《无敌小子》主创回应一季分两部：明白粉丝不喜欢](https://www.3dmgame.com/news/202407/3900482.html)
+
++ [《灾厄堡垒》抢先体验阶段首个补丁新增沙盒模式](https://www.3dmgame.com/news/202407/3900483.html)
+
++ [Roguelite塔防游戏《塔防实验室》Steam页面 支持中文](https://www.3dmgame.com/news/202407/3900481.html)
+
++ [美女主播跳舞毯和手柄同时通关2份《黄金树幽影》](https://www.3dmgame.com/news/202407/3900480.html)
+
++ [《龙腾世纪：影障守护者》拥有超14万行录制对话](https://www.3dmgame.com/news/202407/3900479.html)
+
++ [北京中轴线申遗成功 中国现存最为完整的传统都城中轴线建筑群](https://www.3dmgame.com/news/202407/3900478.html)
+
++ [宝可梦公司2023年零售销售额达到108亿美元](https://www.3dmgame.com/news/202407/3900477.html)
+
