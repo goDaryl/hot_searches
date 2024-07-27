@@ -127,3 +127,9 @@
 
 + [electron项目搭建](https://blog.csdn.net/qq_55139096/article/details/140688743)
 
++ [将YOLOv8模型从PyTorch的.pt格式转换为TensorRT的.engine格式](https://blog.csdn.net/fengbingchun/article/details/140691177)
+
++ [redis的使用场景](https://blog.csdn.net/m0_65224643/article/details/140671087)
+
++ [树莓派智能家居中枢](https://blog.csdn.net/EDATEC/article/details/140687616)
+
