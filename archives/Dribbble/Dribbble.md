@@ -178,3 +178,11 @@ Artistic Window](https://dribbble.com/shots/)
 
 + ["The Lute Player" - Homage art](https://dribbble.com/shots/)
 
++ [Badge Week 2024: Multnomah Falls](https://dribbble.com/shots/)
+
++ [Space Pencil Art Print](https://dribbble.com/shots/)
+
++ [Ah-Ha](https://dribbble.com/shots/)
+
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+
