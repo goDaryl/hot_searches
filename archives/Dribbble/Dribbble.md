@@ -150,3 +150,9 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Happy 15th! ????????](https://dribbble.com/shots/)
 
++ [Our State ShadFest Editorial Illustration by James Olstein](https://dribbble.com/shots/)
+
++ [Illustration for Outside Voices](https://dribbble.com/shots/)
+
++ [Aeropress Championship Poster](https://dribbble.com/shots/)
+
