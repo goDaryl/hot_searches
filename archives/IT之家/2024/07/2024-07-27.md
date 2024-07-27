@@ -49,3 +49,7 @@
 
 + [苹果 COO 杰夫・威廉姆斯来华参观多家供应商，再度强调中国“果链”价值](https://m.ithome.com/html/784500.htm)
 
++ [武汉大学：雷军班首次招生受高分考生青睐，湖北录取最高分 688 分](https://m.ithome.com/html/784587.htm)
+
++ [苹果重发 iOS / iPadOS 18 Beta 4 更新，版本号变为 22A5316k](https://m.ithome.com/html/784528.htm)
+
