@@ -59,3 +59,7 @@
 
 + [蔚来“全球首颗车规 5nm 高性能智驾芯片”神玑 NX9031 流片成功，ISP 处理远景 / 暗光更清晰](https://m.ithome.com/html/784596.htm)
 
++ [CPU、GPU 的互连从 1 米飙至 100 米，英特尔：你相信光吗？](https://m.ithome.com/html/784614.htm)
+
++ [马斯克唠硬嗑，市值没了 550 亿美元](https://m.ithome.com/html/784626.htm)
+
