@@ -101,3 +101,13 @@
 
 + [.NET Core中如何集成RabbitMQ](https://blog.csdn.net/nndsb/article/details/140680688)
 
++ [BP神经网络及其Python和MATLAB实现预测](https://blog.csdn.net/qq_45441438/article/details/140699171)
+
++ [SpringBoot 日志](https://blog.csdn.net/m0_60462557/article/details/140692200)
+
++ [MySql 全文索引](https://blog.csdn.net/Cike___/article/details/140690980)
+
++ [运维锅总浅析kubernetes网络插件](https://blog.csdn.net/qq_35630153/article/details/140701171)
+
++ [Redis的使用场景——热点数据缓存](https://blog.csdn.net/qq_59099003/article/details/140700120)
+
