@@ -101,3 +101,23 @@
 
 + [项目裁缝：使用千问大模型与wxauto实现微信自动聊天](https://blog.csdn.net/qq_51304797/article/details/140701796)
 
++ [基于Python的二手房价格分析与多种机器学习房价预测](https://blog.csdn.net/weixin_47723732/article/details/140690384)
+
++ [【知识图谱】人工智能之知识图谱的详细介绍](https://blog.csdn.net/weixin_51306394/article/details/140702176)
+
++ [图形/视图架构的坐标系](https://blog.csdn.net/castlooo/article/details/140693438)
+
++ [kafka源码阅读-ReplicaStateMachine(副本状态机)解析](https://blog.csdn.net/hmh13548571896/article/details/140675413)
+
++ [使用Spring Data JPA简化Java持久层开发](https://blog.csdn.net/java666668888/article/details/140701011)
+
++ [基于SpringBoot的商业航班执飞飞机机型信息管理](https://blog.csdn.net/yelangkingwuzuhu/article/details/140742512)
+
++ [【AI 大模型】使用 AI 大模型 编程 ① ( AI 编程简介 | 使用 GitHub Copilot 插件进行 AI 编程 | 使用对话方式进行 AI 编程 )](https://blog.csdn.net/han1202012/article/details/140704866)
+
++ [OLLaMA搭建本地大模型](https://blog.csdn.net/Aweii__/article/details/140684765)
+
++ [Spring -- 使用XML开发MyBatis](https://blog.csdn.net/m0_60963435/article/details/140702676)
+
++ [智能小程序 Ray 开发面板 SDK —— 智能设备模型 API 接口汇总（六）](https://blog.csdn.net/Ms_Smart/article/details/140630301)
+
