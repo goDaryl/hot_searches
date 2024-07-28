@@ -220,3 +220,5 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Fincruck Finance Website 2024](https://dribbble.com/shots/)
 
++ [UI for an Edtech Platform](https://dribbble.com/shots/)
+
