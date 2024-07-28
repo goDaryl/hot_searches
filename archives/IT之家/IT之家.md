@@ -51,3 +51,7 @@
 
 + [小米汽车：车内普通蓝牙电话可通过方向盘右侧按键接挂](https://m.ithome.com/html/784653.htm)
 
++ [华为一口价换电池新增 WATCH FIT 3、nova 11 SE、P60 等超 40 余款机型，99 元起](https://m.ithome.com/html/784675.htm)
+
++ [极氪 MIX 纯电 MPV 最新官图公布：半隐藏式门把手设计，预计下半年上市](https://m.ithome.com/html/784693.htm)
+
