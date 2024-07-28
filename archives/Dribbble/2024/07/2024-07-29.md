@@ -49,3 +49,31 @@
 
 + [Thou damned whale](https://dribbble.com/shots/)
 
++ [Aeropress Championship Poster](https://dribbble.com/shots/)
+
++ ["The Lute Player" - Homage art](https://dribbble.com/shots/)
+
++ [The Creative Watch](https://dribbble.com/shots/)
+
++ [Logo design ideas for a dress house fashion](https://dribbble.com/shots/)
+
++ [Illustration for Outside Voices](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Label Illustration](https://dribbble.com/shots/)
+
++ [The National - London, UK Poster](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [Beach Bar](https://dribbble.com/shots/)
+
++ [Dribbble's 15th anniversary & 15000 subscribers](https://dribbble.com/shots/)
+
++ [Grundens: Full Preview](https://dribbble.com/shots/)
+
++ [Cool Story Bro](https://dribbble.com/shots/)
+
++ [St. John the Beloved Brand Application](https://dribbble.com/shots/)
+
++ [AI Travel Companion](https://dribbble.com/shots/)
+
