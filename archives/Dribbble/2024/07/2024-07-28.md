@@ -214,3 +214,9 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Slack Redesign Website](https://dribbble.com/shots/)
 
++ [Pizza Square????](https://dribbble.com/shots/)
+
++ [VoltSlot - 3D Icons Set](https://dribbble.com/shots/)
+
++ [Fincruck Finance Website 2024](https://dribbble.com/shots/)
+
