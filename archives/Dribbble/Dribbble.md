@@ -210,3 +210,7 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [modern tech logo, fintech, website logo, ai logo](https://dribbble.com/shots/)
 
++ [D Logo - Brand Identity Book - Visual Branding Design](https://dribbble.com/shots/)
+
++ [Slack Redesign Website](https://dribbble.com/shots/)
+
