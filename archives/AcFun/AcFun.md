@@ -139,3 +139,15 @@
 
 + [温柔台妹翻唱《行走的鱼》怎么你不快乐？](http://www.acfun.cn/v/ac45655122)
 
++ [鹅 鸭 乱 杀](http://www.acfun.cn/v/ac45656901)
+
++ [Acer们可以发一下你们女朋友的侧脸吗？欢乐八点档-994](http://www.acfun.cn/v/ac45653975)
+
++ [法国人都觉得巴黎蓝人恶心](http://www.acfun.cn/v/ac45647312)
+
++ [【00说】票房和口碑双崩？《异人之下》问题出在哪？](http://www.acfun.cn/v/ac45654847)
+
++ [能睁眼玩这个才是王者](http://www.acfun.cn/v/ac45641348)
+
++ [打半天两人手肿了](http://www.acfun.cn/v/ac45641357)
+
