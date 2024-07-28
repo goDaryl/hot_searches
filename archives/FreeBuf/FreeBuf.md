@@ -53,3 +53,5 @@
 
 + [伪装成CrowdStrike修复文件的攻击活动分析](https://www.freebuf.com/articles/network/406902.html)
 
++ [C2-Cloud：一款基于Web的C2基础设施交互框架](https://www.freebuf.com/sectool/406212.html)
+
