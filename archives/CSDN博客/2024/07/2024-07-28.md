@@ -139,3 +139,5 @@
 
 + [实时同步：使用 Canal 和 Kafka 解决 MySQL 与缓存的数据一致性问题](https://blog.csdn.net/xaiobit_hl/article/details/140696017)
 
++ [多通道音频解决方案](https://blog.csdn.net/2402_85006673/article/details/140700658)
+
