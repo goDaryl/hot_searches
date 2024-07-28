@@ -45,3 +45,7 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/407099.html)
 
++ [攻防演练 | 浅谈MYSQL蜜罐的攻与防](https://www.freebuf.com/defense/377676.html)
+
++ [Web3 安全入门避坑指南｜假钱包与私钥助记词泄露风险](https://www.freebuf.com/articles/blockchain-articles/401389.html)
+
