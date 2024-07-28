@@ -43,3 +43,5 @@
 
 + [安全验证与传统评估方法的比较：红队、渗透性测试和漏洞评估](https://www.freebuf.com/articles/network/406642.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/407099.html)
+
