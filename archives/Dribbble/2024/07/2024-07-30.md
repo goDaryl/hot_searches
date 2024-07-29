@@ -99,3 +99,51 @@
 
 + [Brand Website Illustrations | Part 2](https://dribbble.com/shots/)
 
++ [Hooke Fall/Winter Collection](https://dribbble.com/shots/)
+
++ [Kick, Pass, Serve, Smash](https://dribbble.com/shots/)
+
++ [Personal AI assistant: motion and visual identity](https://dribbble.com/shots/)
+
++ [Geomark](https://dribbble.com/shots/)
+
++ [Website for an IoT Brand](https://dribbble.com/shots/)
+
++ [Fósforo Mezcal](https://dribbble.com/shots/)
+
++ [Zenity responsive design](https://dribbble.com/shots/)
+
++ [Lo-Fi Bear Print: Part One](https://dribbble.com/shots/)
+
++ [Finance Dashboard Dark theme](https://dribbble.com/shots/)
+
++ [Vajdica](https://dribbble.com/shots/)
+
++ [Secured finance - home page exploration](https://dribbble.com/shots/)
+
++ [Odi Agency: Doppel Illustration](https://dribbble.com/shots/)
+
++ [Uncaged-Bet Landing????](https://dribbble.com/shots/)
+
++ [EarthEye - Agriculture Dashboard Design](https://dribbble.com/shots/)
+
++ [Supplement Product Card Design](https://dribbble.com/shots/)
+
++ [Unused logo](https://dribbble.com/shots/)
+
++ [Statistics](https://dribbble.com/shots/)
+
++ [❤️Love for Dribbble  ????????](https://dribbble.com/shots/)
+
++ [Tracking Modal](https://dribbble.com/shots/)
+
++ [vacay!](https://dribbble.com/shots/)
+
++ [Book of the Month Club ????](https://dribbble.com/shots/)
+
++ [44B24#23](https://dribbble.com/shots/)
+
++ [Geometric German Shepherd Logo](https://dribbble.com/shots/)
+
++ [Ape Terminal: web design](https://dribbble.com/shots/)
+
