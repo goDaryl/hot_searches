@@ -51,3 +51,5 @@
 
 + [AMD 锐龙 9000 台式处理器推迟发售原因之一曝光：顶盖丝印出错](https://m.ithome.com/html/784820.htm)
 
++ [恶意剪辑拼接问界汽车事故，自媒体博主“天和 Auto”向赛力斯道歉](https://m.ithome.com/html/784767.htm)
+
