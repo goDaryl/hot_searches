@@ -47,3 +47,9 @@
 
 + [FreeBuf早报 | 对巴黎奥运会的网络攻击被指不可避免；俄罗斯调整对乌网络战策略](https://www.freebuf.com/news/407121.html)
 
++ [专题·漏洞治理 | 漏洞全链路治理与运营管理建设](https://www.freebuf.com/news/407183.html)
+
++ [企业安全 | API安全体系建设](https://www.freebuf.com/articles/es/377992.html)
+
++ [渗透测试 | 从xss到内网投毒接管](https://www.freebuf.com/defense/407057.html)
+
