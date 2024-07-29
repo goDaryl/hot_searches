@@ -53,3 +53,5 @@
 
 + [恶意剪辑拼接问界汽车事故，自媒体博主“天和 Auto”向赛力斯道歉](https://m.ithome.com/html/784767.htm)
 
++ [雷军：小米汽车目标全球前五，会在合适的时间全球化](https://m.ithome.com/html/784837.htm)
+
