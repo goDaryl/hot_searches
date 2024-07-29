@@ -165,3 +165,17 @@
 
 + [Social UI](https://dribbble.com/shots/)
 
++ [Logistic Website Interaction](https://dribbble.com/shots/)
+
++ [Clever - AI-Powered Healthcare Landing Page](https://dribbble.com/shots/)
+
++ [Teraluxe: SaaS Dashboard Real Estate Web App - Filter Price ????](https://dribbble.com/shots/)
+
++ [Zendenta - Dental Clinic Details in the Patient Mobile App](https://dribbble.com/shots/)
+
++ [Tea](https://dribbble.com/shots/)
+
++ [Magna : Architect Studio - Visual identity](https://dribbble.com/shots/)
+
++ [Cihuy - CRM Software Landing Page](https://dribbble.com/shots/)
+
