@@ -53,3 +53,7 @@
 
 + [渗透测试 | 从xss到内网投毒接管](https://www.freebuf.com/defense/407057.html)
 
++ [俄罗斯银行遭遇大规模网络攻击，严重扰乱其业务，导致服务中断](https://www.freebuf.com/news/407179.html)
+
++ [微软仍然是网络钓鱼的头号目标，阿迪达斯和WhatsApp位列前10](https://www.freebuf.com/news/407192.html)
+
