@@ -41,3 +41,7 @@
 
 + [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
 
++ [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
+
++ [常见的内核监控方式探讨及优缺点评析](https://www.freebuf.com/articles/system/404365.html)
+
