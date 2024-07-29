@@ -45,3 +45,5 @@
 
 + [常见的内核监控方式探讨及优缺点评析](https://www.freebuf.com/articles/system/404365.html)
 
++ [FreeBuf早报 | 对巴黎奥运会的网络攻击被指不可避免；俄罗斯调整对乌网络战策略](https://www.freebuf.com/news/407121.html)
+

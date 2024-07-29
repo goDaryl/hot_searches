@@ -29,3 +29,9 @@
 
 + [Win11 文件资源管理器黑边设计遭用户吐槽，微软称是功能而非 Bug](https://m.ithome.com/html/784747.htm)
 
++ [小米汽车：遥控泊车时，手机和车辆的距离应小于 8m](https://m.ithome.com/html/784760.htm)
+
++ [三星展示续航 600 英里的固态电池技术，还将推出 9 分钟充满电以及寿命 20 年的电池产品](https://m.ithome.com/html/784708.htm)
+
++ [阿里大模型元老杨红霞去向官宣：入职香港高校！被曝创业项目也在推进](https://m.ithome.com/html/784719.htm)
+

@@ -201,3 +201,15 @@
 
 + [《数据资产化实践指南》解析](https://blog.csdn.net/weixin_43156294/article/details/140689188)
 
++ [01 Redis引入和概述](https://blog.csdn.net/weixin_48089507/article/details/140682335)
+
++ [[Day 36] 區塊鏈與人工智能的聯動應用：理論、技術與實踐](https://blog.csdn.net/2401_83208854/article/details/140698166)
+
++ [[网络通信原理]——TCP/IP模型—应用层](https://blog.csdn.net/nbdlsplyb/article/details/140699655)
+
++ [使用Java和Spring Retry实现重试机制](https://blog.csdn.net/weixin_44627014/article/details/140617443)
+
++ [【系统架构设计师】十九、层次式架构设计理论与实践①](https://blog.csdn.net/g984160547/article/details/140684710)
+
++ [RabbitMQ在Spring Boot中的使用](https://blog.csdn.net/qq_64903447/article/details/140689143)
+
