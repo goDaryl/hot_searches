@@ -63,3 +63,7 @@
 
 + [网络安全行业所谓的跳槽，只是从一个坑跳到另一个坑](https://www.freebuf.com/news/407339.html)
 
++ [帮会费提现优惠活动开启！](https://www.freebuf.com/fevents/407200.html)
+
++ [iOS 18.1发布苹果AI测试版，曾因隐私问题遭吐槽](https://www.freebuf.com/news/407302.html)
+
