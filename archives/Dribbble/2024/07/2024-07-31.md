@@ -129,3 +129,17 @@
 
 + [Lost Fox Inn Secondary Logo](https://dribbble.com/shots/)
 
++ [Thou damned whale](https://dribbble.com/shots/)
+
++ [Dribbble's 15th anniversary & 15000 subscribers](https://dribbble.com/shots/)
+
++ [vacay!](https://dribbble.com/shots/)
+
++ [CH24 Pocket Square](https://dribbble.com/shots/)
+
++ [Namma](https://dribbble.com/shots/)
+
++ [Cool Story Bro](https://dribbble.com/shots/)
+
++ [Death & Glory](https://dribbble.com/shots/)
+
