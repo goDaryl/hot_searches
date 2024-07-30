@@ -41,3 +41,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/407099.html)
 
++ [利用 CVE-2024-21412 进行窃密的攻击激增](https://www.freebuf.com/articles/network/407168.html)
+
