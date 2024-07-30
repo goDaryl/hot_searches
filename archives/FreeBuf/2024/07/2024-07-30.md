@@ -43,3 +43,5 @@
 
 + [利用 CVE-2024-21412 进行窃密的攻击激增](https://www.freebuf.com/articles/network/407168.html)
 
++ [FreeBuf早报 | 黑客操纵 GitHub 传播恶意程序；FBCS 数据泄露影响 420 万人](https://www.freebuf.com/news/407188.html)
+
