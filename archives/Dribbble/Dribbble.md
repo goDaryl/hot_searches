@@ -97,3 +97,11 @@
 
 + [Atomic VPN website hero](https://dribbble.com/shots/)
 
++ [Singapure Airlines | Gen Z Avatars](https://dribbble.com/shots/)
+
++ [Jewelry Ecommerce Web Design](https://dribbble.com/shots/)
+
++ [NYC illustrations](https://dribbble.com/shots/)
+
++ [Doc Brown Farm & Distillers](https://dribbble.com/shots/)
+
