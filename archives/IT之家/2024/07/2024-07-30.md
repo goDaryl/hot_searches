@@ -33,3 +33,5 @@
 
 + [苹果 iOS 17.6 正式版发布，错误修复和安全更新](https://m.ithome.com/html/784990.htm)
 
++ [号称“行业最高纪录”，深蓝汽车宣布 G318 挑战 32 米高空垂直坠落](https://m.ithome.com/html/784972.htm)
+
