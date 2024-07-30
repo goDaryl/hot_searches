@@ -67,3 +67,7 @@
 
 + [iOS 18.1发布苹果AI测试版，曾因隐私问题遭吐槽](https://www.freebuf.com/news/407302.html)
 
++ [网安PDF资料限免！ FreeBuf资源笔记免费兑换活动上线](https://www.freebuf.com/news/407127.html)
+
++ [攻防演练0失手，还得看情报星球来出手](https://www.freebuf.com/fevents/407370.html)
+
