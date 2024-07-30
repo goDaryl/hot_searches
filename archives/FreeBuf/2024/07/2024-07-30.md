@@ -53,3 +53,9 @@
 
 + [微软：警惕利用VMware ESXi进行身份验证绕过攻击](https://www.freebuf.com/news/407317.html)
 
++ [初探内网渗透手法及蓝队视角下的应急响应](https://www.freebuf.com/articles/system/407161.html)
+
++ [Chrome v8漏洞CVE-2023-2033分析](https://www.freebuf.com/vuls/406790.html)
+
++ [iOS 18.1测试版可抢先体验苹果AI，曾因隐私问题遭吐槽](https://www.freebuf.com/news/407302.html)
+
