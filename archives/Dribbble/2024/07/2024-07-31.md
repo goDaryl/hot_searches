@@ -143,3 +143,11 @@
 
 + [Death & Glory](https://dribbble.com/shots/)
 
++ [AI assistant — Untitled UI](https://dribbble.com/shots/)
+
++ [EyeWiz Mascot project](https://dribbble.com/shots/)
+
++ [Music event poster](https://dribbble.com/shots/)
+
++ [24/32 – Dakota Rhinos](https://dribbble.com/shots/)
+
