@@ -161,3 +161,9 @@
 
 + [Beach Bar](https://dribbble.com/shots/)
 
++ [Motion: an excerpt from the promo video](https://dribbble.com/shots/)
+
++ [Qmixer AI Logo Design : AI-based color mixer software](https://dribbble.com/shots/)
+
++ [Audible Onboarding](https://dribbble.com/shots/)
+

@@ -31,3 +31,5 @@
 
 + [英伟达 RTX 40 系列显卡产量被曝削减 50%，黄仁勋：本周发送 Blackwell 样品](https://m.ithome.com/html/785049.htm)
 
++ [美团单车宣布降价：广州起步价下调至 1.5 元 / 20 分钟](https://m.ithome.com/html/785213.htm)
+
