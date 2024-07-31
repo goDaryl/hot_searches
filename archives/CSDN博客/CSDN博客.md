@@ -109,3 +109,19 @@
 
 + [项目实战_表白墙（简易版）](https://blog.csdn.net/2303_79064370/article/details/140761834)
 
++ [仓颉编程语言详解：高效、安全、灵活的全场景开发利器【仓颉语言接口指南大全】](https://blog.csdn.net/weixin_52908342/article/details/140759568)
+
++ [AI发展下的伦理挑战：开发者视角的应对之道](https://blog.csdn.net/CC1991_/article/details/140759598)
+
++ [【Spring Boot】自动配置源码解析](https://blog.csdn.net/smile_sundays/article/details/140699215)
+
++ [Windows系统使用Docker搭建Focalboard项目管理工具详细教程](https://blog.csdn.net/weixin_58070962/article/details/140786306)
+
++ [K8s大模型算力调度策略的深度解析](https://blog.csdn.net/myTomorrow_better/article/details/140802103)
+
++ [llama_fastertransformer对话问答算法模型](https://blog.csdn.net/qq_27815483/article/details/140579680)
+
++ [使用Micronaut构建高性能微服务](https://blog.csdn.net/u010405836/article/details/140674841)
+
++ [使用ElasticSearch优化Java应用的搜索功能](https://blog.csdn.net/weixin_44626980/article/details/140674879)
+

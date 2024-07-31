@@ -123,3 +123,5 @@
 
 + [《我的世界》联动《俄罗斯方块》DLC现已上线](https://www.3dmgame.com/news/202407/3900703.html)
 
++ [《艾尔登法环》1.13版更新介绍 多项能力调整](https://www.3dmgame.com/news/202407/3900708.html)
+

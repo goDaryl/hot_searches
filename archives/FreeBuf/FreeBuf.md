@@ -41,3 +41,5 @@
 
 + [ATM机无法取钱，俄银行遭乌克兰大规模网络攻击](https://www.freebuf.com/news/407179.html)
 
++ [浅析常见WEB安全漏洞及其防御措施](https://www.freebuf.com/articles/web/392158.html)
+
