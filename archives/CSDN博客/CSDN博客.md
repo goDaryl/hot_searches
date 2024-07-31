@@ -105,3 +105,19 @@
 
 + [Windows搭建我的世界MC服务器 【Minecraft外网联机教程】](https://blog.csdn.net/m0_68662723/article/details/140783008)
 
++ [极致的灵活度满足工程美学：用Vue Flow绘制一个完美流程图](https://blog.csdn.net/RenGJ010617/article/details/140619433)
+
++ [【AI落地应用实战】DAMODEL深度学习平台部署+本地调用ChatGLM-6B解决方案](https://blog.csdn.net/air__Heaven/article/details/140519998)
+
++ [【AI大模型】分布式训练：深入探索与实践优化](https://blog.csdn.net/2301_79181030/article/details/140829185)
+
++ [猫头虎分享：9个实用的GPT-4o提示词](https://blog.csdn.net/qq_44866828/article/details/140818334)
+
++ [夏日炎炎的高温烤不熟那7月的赤子心](https://blog.csdn.net/u011868279/article/details/140830314)
+
++ [http协议深度解析——网络时代的安全与效率（1）](https://blog.csdn.net/yj11290301/article/details/140830349)
+
++ [使用AI大模型Kimi轻松助力速通代理IP知识](https://blog.csdn.net/weixin_51484460/article/details/140826660)
+
++ [微软蓝屏事件：全球网络安全与系统稳定性的警示](https://blog.csdn.net/u014727709/article/details/140813298)
+
