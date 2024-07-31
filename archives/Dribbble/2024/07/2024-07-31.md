@@ -225,3 +225,13 @@
 
 + [HummAI | Logo design](https://dribbble.com/shots/)
 
++ [Website for an Electronics Brand](https://dribbble.com/shots/)
+
++ [HyperBridge - animation](https://dribbble.com/shots/)
+
++ [TWIN wordmark](https://dribbble.com/shots/)
+
++ [Design Interaction for Travel App](https://dribbble.com/shots/)
+
++ [AtomicVPN website](https://dribbble.com/shots/)
+

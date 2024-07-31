@@ -289,3 +289,7 @@
 
 + [黄仁勋谈机器人及AI未来：需要三台计算机](https://www.3dmgame.com/news/202407/3900780.html)
 
++ [雷军称在认真学习理想华为怎么做营销：比小米好很多](https://www.3dmgame.com/news/202407/3900791.html)
+
++ [研发投入300亿！周鸿祎：360用户是在为国家安全看广告](https://www.3dmgame.com/news/202407/3900792.html)
+
