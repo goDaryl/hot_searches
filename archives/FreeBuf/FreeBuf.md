@@ -55,3 +55,5 @@
 
 + [kvm-fuzz：使用KVM技术对闭源用户空间二进制文件执行模糊测试](https://www.freebuf.com/sectool/406605.html)
 
++ [CCSIP 2024中国网络安全行业全景册（第七版）调研启动](https://www.freebuf.com/news/407454.html)
+

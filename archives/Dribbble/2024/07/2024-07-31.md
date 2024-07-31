@@ -213,3 +213,15 @@
 
 + [slothUI - World's Laziest Design System - Sales Dashboard UIUX](https://dribbble.com/shots/)
 
++ [Ticket Service. Part 3](https://dribbble.com/shots/)
+
++ [Otter + Watermelon](https://dribbble.com/shots/)
+
++ [Dashboard - Connections Panel](https://dribbble.com/shots/)
+
++ [Wild Grazing approved logo](https://dribbble.com/shots/)
+
++ [Spectra dashboard](https://dribbble.com/shots/)
+
++ [HummAI | Logo design](https://dribbble.com/shots/)
+
