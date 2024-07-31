@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 欧洲中央银行完成银行业网络压力测试；黎巴嫩卫生部数据泄露](https://www.freebuf.com/news/407363.html)
 
++ [应急响应 | win常见应急排查](https://www.freebuf.com/articles/es/407190.html)
+
