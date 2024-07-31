@@ -51,3 +51,7 @@
 
 + [打破纪录！某财富 50 强公司向勒索组织支付 7500 万美元赎金](https://www.freebuf.com/news/407383.html)
 
++ [GenAI账户凭证被盗，暗网每日交易量达400条](https://www.freebuf.com/articles/407427.html)
+
++ [kvm-fuzz：使用KVM技术对闭源用户空间二进制文件执行模糊测试](https://www.freebuf.com/sectool/406605.html)
+

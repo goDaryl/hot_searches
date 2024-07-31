@@ -49,3 +49,5 @@
 
 + [相机垂直排列，苹果 iPhone 16 机模新照曝光：5 种颜色](https://m.ithome.com/html/785307.htm)
 
++ [硬件锁除外：苹果 iPhone 15 Pro 和 Pro Max 用户均可访问 Apple Intelligence](https://m.ithome.com/html/785210.htm)
+
