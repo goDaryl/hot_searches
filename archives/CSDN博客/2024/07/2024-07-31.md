@@ -131,3 +131,15 @@
 
 + [‍ 猫头虎分享已解决Bug || Go Error: redeclared as imported package name](https://blog.csdn.net/GoCloudNative/article/details/140676265)
 
++ [猫头虎分享如何解决Error：The gateway did not receive a timely response from the upstream server or application](https://blog.csdn.net/qq_44866828/article/details/140802532)
+
++ [《学会 SpringMVC 系列 · 剖析篇（上）》](https://blog.csdn.net/syb513812/article/details/140809735)
+
++ [构建基于微服务的Java电商返利平台](https://blog.csdn.net/qq836869520/article/details/140700831)
+
++ [构建实时Java数据处理系统：技术与实践](https://blog.csdn.net/java666668888/article/details/140674761)
+
++ [如何利用代理ip探索外国新闻视角？](https://blog.csdn.net/weixin_50843918/article/details/140789523)
+
++ [科技营 智能车分组名单](https://blog.csdn.net/zhuoqingjoking97298/article/details/140786407)
+
