@@ -51,3 +51,9 @@
 
 + [硬件锁除外：苹果 iPhone 15 Pro 和 Pro Max 用户均可访问 Apple Intelligence](https://m.ithome.com/html/785210.htm)
 
++ [消息称某厂新系列手机采用火山口过渡设计、外置闪光灯，预计为小米 15（Pro）](https://m.ithome.com/html/785292.htm)
+
++ [长安深蓝 S05 汽车内饰公布：无仪表盘设计、横向悬浮中控屏](https://m.ithome.com/html/785204.htm)
+
++ [苹果 iPhone 16 Pro / Max 被曝支持 Wi-Fi 7：峰值速度 40 Gbps](https://m.ithome.com/html/785286.htm)
+
