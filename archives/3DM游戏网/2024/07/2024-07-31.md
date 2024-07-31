@@ -297,3 +297,7 @@
 
 + [英特尔将在全球裁员1万人 进一步降低成本开支](https://www.3dmgame.com/news/202407/3900793.html)
 
++ [R星前总监呼吁AI革命 爆《GTA6》在使用AI生成动画](https://www.3dmgame.com/news/202407/3900796.html)
+
++ [《星球大战：法外狂徒》被批枪战简单笨重 AI反应呆滞](https://www.3dmgame.com/news/202407/3900795.html)
+
