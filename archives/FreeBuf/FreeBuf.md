@@ -47,3 +47,7 @@
 
 + [应急响应 | win常见应急排查](https://www.freebuf.com/articles/es/407190.html)
 
++ [初探内网渗透手法及蓝队视角下的应急响应](https://www.freebuf.com/articles/system/407161.html)
+
++ [打破纪录！某财富 50 强公司向勒索组织支付 7500 万美元赎金](https://www.freebuf.com/news/407383.html)
+

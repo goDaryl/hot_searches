@@ -143,3 +143,19 @@
 
 + [科技营 智能车分组名单](https://blog.csdn.net/zhuoqingjoking97298/article/details/140786407)
 
++ [碰撞检测 | 矩形增量膨胀安全走廊模型(附C++/Python仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/140808118)
+
++ [[Docker][NameSpace][PID 隔离][Mount 隔离]详细讲解](https://blog.csdn.net/qq_37281656/article/details/140746027)
+
++ [【网络世界】HTTPS协议](https://blog.csdn.net/jupangMZ/article/details/140804521)
+
++ [开闭源之争再起，计算范式迎来转变，CSDN「智研社-The Intelliger」共话大模型技术演进与 AI Infra 创新...](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/140786738)
+
++ [使用Apache Spark进行Java数据分析](https://blog.csdn.net/sweetlyl006/article/details/140701091)
+
++ [十五 open CV 教程 形态学二值化和腐蚀操作](https://blog.csdn.net/qq_29448131/article/details/140699137)
+
++ [自学黑客（网络安全），一般人我劝你还是算了吧](https://blog.csdn.net/2401_85023453/article/details/140762924)
+
++ [Java中的分布式事务管理：XA与TCC](https://blog.csdn.net/weixin_44627014/article/details/140701053)
+
