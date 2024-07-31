@@ -181,3 +181,15 @@
 
 + [Deadpool & Wolverine Corner Box](https://dribbble.com/shots/)
 
++ [Mobile UI Visual](https://dribbble.com/shots/)
+
++ [Vital Score Rewards UI](https://dribbble.com/shots/)
+
++ [SaaS Landing Page](https://dribbble.com/shots/)
+
++ [Magna : Architect Studio -  Landing Page Website](https://dribbble.com/shots/)
+
++ [Tornado Lounge](https://dribbble.com/shots/)
+
++ [LexEdge, data-driven legal solutions logo design LE monogram](https://dribbble.com/shots/)
+
