@@ -105,3 +105,23 @@
 
 + [llama_fastertransformer对话问答算法模型](https://blog.csdn.net/qq_27815483/article/details/140579680)
 
++ [[Docker][Docker Image]详细讲解](https://blog.csdn.net/qq_37281656/article/details/140787451)
+
++ [使用Micronaut构建高性能微服务](https://blog.csdn.net/u010405836/article/details/140674841)
+
++ [使用TensorRT对YOLOv8模型进行加速推理](https://blog.csdn.net/fengbingchun/article/details/140826627)
+
++ [微软蓝屏事件：全球网络安全与系统稳定性的警示](https://blog.csdn.net/u014727709/article/details/140813298)
+
++ [构建基于微服务的Java电商返利平台](https://blog.csdn.net/qq836869520/article/details/140700831)
+
++ [注册中心--Eureka](https://blog.csdn.net/m0_65465009/article/details/140846387)
+
++ [暑期科技营理论辅导课程 | PID调节基本概念](https://blog.csdn.net/zhuoqingjoking97298/article/details/140835190)
+
++ [构建基于微服务的Java电子商务平台](https://blog.csdn.net/weixin_44626980/article/details/140700715)
+
++ [GPT-4o mini 来袭：开发者如何驾驭新一代AI模型？](https://blog.csdn.net/2301_79969994/article/details/140842853)
+
++ [深度体验AI计算平台：超算互联网模型服务与加速卡](https://blog.csdn.net/CC1991_/article/details/140832654)
+
