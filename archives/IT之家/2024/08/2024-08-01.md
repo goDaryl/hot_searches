@@ -35,3 +35,9 @@
 
 + [小米门店排队进度可视功能上线，取号后无需在店等待](https://m.ithome.com/html/785424.htm)
 
++ [小米无线鼠标舒适版开售：TTC 轻音开关按键、1200 DPI，首发 49 元](https://m.ithome.com/html/785456.htm)
+
++ [京东推出手机“法国 30 天盗抢保”，看 2024 奥运被盗 / 抢可赔新机](https://m.ithome.com/html/785321.htm)
+
++ [罗技 CEO：考虑推出“永久鼠标”，探索订阅模式](https://m.ithome.com/html/785491.htm)
+

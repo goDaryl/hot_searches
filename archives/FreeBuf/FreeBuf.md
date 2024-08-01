@@ -53,3 +53,7 @@
 
 + [一种针对微服务云架构的同步毫秒瓶颈攻击](https://www.freebuf.com/vuls/407378.html)
 
++ [由于域验证错误，DigiCert 大规模撤销 TLS 证书](https://www.freebuf.com/news/407484.html)
+
++ [继全球蓝屏后，微软 Azure 云服务因安全错误导致全球宕机](https://www.freebuf.com/news/407481.html)
+
