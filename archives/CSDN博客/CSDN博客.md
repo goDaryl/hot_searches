@@ -101,3 +101,7 @@
 
 + [【机器学习】探索图神经网络 (GNNs): 揭秘图结构数据处理的未来](https://blog.csdn.net/2202_76097976/article/details/140803622)
 
++ [【C++高阶】：C++11的深度解析下](https://blog.csdn.net/island1314/article/details/140833248)
+
++ [llama_fastertransformer对话问答算法模型](https://blog.csdn.net/qq_27815483/article/details/140579680)
+
