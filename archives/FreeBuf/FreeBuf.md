@@ -49,3 +49,7 @@
 
 + [FreeBuf早报 | 2024年巴黎奥运会应用正在窃听用户；GenAI账户凭证被盗](https://www.freebuf.com/news/407419.html)
 
++ [继蓝屏后，微软 Azure 服务因DDoS攻击全球中断](https://www.freebuf.com/news/407481.html)
+
++ [一种针对微服务云架构的同步毫秒瓶颈攻击](https://www.freebuf.com/vuls/407378.html)
+
