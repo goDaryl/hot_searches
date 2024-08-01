@@ -193,3 +193,17 @@
 
 + [SplashLink : Marketing Agency - Visual Identity](https://dribbble.com/shots/)
 
++ [Tallent Flow mobile app branding](https://dribbble.com/shots/)
+
++ [Subway Surfer](https://dribbble.com/shots/)
+
++ [Halftone illustrations](https://dribbble.com/shots/)
+
++ [Secured finance - footer](https://dribbble.com/shots/)
+
++ [Host || A Complete Hosting Service Solutions](https://dribbble.com/shots/)
+
++ [MediCare - Medical Dashboard](https://dribbble.com/shots/)
+
++ [Online Courses Website](https://dribbble.com/shots/)
+
