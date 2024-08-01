@@ -41,3 +41,5 @@
 
 + [FreeBuf早报 | 黑客操纵 GitHub 传播恶意程序；FBCS 数据泄露影响 420 万人](https://www.freebuf.com/news/407188.html)
 
++ [前沿追踪 | 深度分析新型APT组织CloudSorcerer](https://www.freebuf.com/articles/paper/407288.html)
+

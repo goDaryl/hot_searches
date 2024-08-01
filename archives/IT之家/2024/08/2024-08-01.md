@@ -27,3 +27,5 @@
 
 + [名额 3 万，华为鸿蒙 HarmonyOS NEXT Beta 版第三批先锋用户招募：适配 Mate 60、X5 等机型](https://m.ithome.com/html/785432.htm)
 
++ [因苹果反对，塔塔集团收购 vivo 印度业务多数股权计划搁浅](https://m.ithome.com/html/785457.htm)
+
