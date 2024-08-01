@@ -175,3 +175,41 @@
 
 + [科幻悬疑冒险游戏《沉没意志》正式在Steam平台发售 已获得好评](https://www.3dmgame.com/news/202408/3900835.html)
 
++ [美国演员工会将在华纳游戏总部外进行首次游戏罢工抗议](https://www.3dmgame.com/news/202408/3900850.html)
+
++ [搞怪剧情节奏游戏《追星者：时间之手》发售日公布 2024年9月16日推出](https://www.3dmgame.com/news/202408/3900851.html)
+
++ [《星球大战：法外狂徒》PC版配置需求发布 推荐RTX 3060Ti](https://www.3dmgame.com/news/202408/3900852.html)
+
++ [《东方：平野孤鸿》10月国内上线 8月12日限量测试](https://www.3dmgame.com/news/202408/3900853.html)
+
++ [《八巡》登陆Steam/Switch 类8番出口惊悚悬疑](https://www.3dmgame.com/news/202408/3900854.html)
+
++ [《星球大战：亡命之徒》主要灵感来源是《对马岛之魂》](https://www.3dmgame.com/news/202408/3900855.html)
+
++ [微软：对AI巨额的投资 至少要15年才有回报！](https://www.3dmgame.com/news/202408/3900856.html)
+
++ [《幻兽帕鲁》开发者建议：拿买3A游戏通行证的钱买独立游戏](https://www.3dmgame.com/news/202408/3900838.html)
+
++ [国际奥委会抛弃马里奥索尼克 投入了NFT和手游的怀抱](https://www.3dmgame.com/news/202408/3900839.html)
+
++ [Netflix动画剧集《终结者：零》正式预告 8月29日播出](https://www.3dmgame.com/news/202408/3900840.html)
+
++ [外企宣称通过CT查寻未开封集换卡 一盒收费75刀引热议](https://www.3dmgame.com/news/202408/3900841.html)
+
++ [治愈系冒险游戏《皮罗与全息之书》现已在Steam平台提供试玩Demo](https://www.3dmgame.com/news/202408/3900842.html)
+
++ [B社前工作室总监加入华纳游戏 领导蒙特利尔工作室](https://www.3dmgame.com/news/202408/3900843.html)
+
++ [传闻：Bungie裁员只是个开始 后续将丧失自主权完全被索尼掌握](https://www.3dmgame.com/news/202408/3900844.html)
+
++ [英雄大逃杀游戏《SUPERVIVE》Steam页面 年内发售](https://www.3dmgame.com/news/202408/3900845.html)
+
++ [前Unity员工创立工作室Outer Haven 正开发漫画风RPG](https://www.3dmgame.com/news/202408/3900846.html)
+
++ [《牧野之歌》今日正式发售！请享受属于你的田园生活~](https://www.3dmgame.com/news/202408/3900847.html)
+
++ [Omdia：人形机器人今年迎来突破之年 2027年全球出货将破万台](https://www.3dmgame.com/news/202408/3900848.html)
+
++ [罗技正考虑推出高端永久鼠标 探索订阅模式](https://www.3dmgame.com/news/202408/3900849.html)
+
