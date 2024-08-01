@@ -313,3 +313,13 @@
 
 + [摩尔线程MTT S50显卡可免费试用了！企业办公神卡](https://www.3dmgame.com/news/202408/3900885.html)
 
++ [微软平息“AI发展过快”担忧 英伟达股价狂飙13%](https://www.3dmgame.com/news/202408/3900891.html)
+
++ [Bungie大裁员背后：过去两年沉迷道德宣传 搞代词](https://www.3dmgame.com/news/202408/3900890.html)
+
++ [《席德·梅尔的文明VII》游戏演示即将于8月20日登场](https://www.3dmgame.com/news/202408/3900878.html)
+
++ [《星球大战：法外狂徒》女主太丑？主创回应：她很美](https://www.3dmgame.com/news/202408/3900889.html)
+
++ [《黑曜石》同时在开发三款游戏 未公布新作曝光](https://www.3dmgame.com/news/202408/3900888.html)
+
