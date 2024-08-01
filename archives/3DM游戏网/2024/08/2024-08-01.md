@@ -213,3 +213,9 @@
 
 + [罗技正考虑推出高端永久鼠标 探索订阅模式](https://www.3dmgame.com/news/202408/3900849.html)
 
++ [“透明”Xbox手柄苍穹秘语特别版国行8月20日发售 定价499元](https://www.3dmgame.com/news/202408/3900857.html)
+
++ [D＆D虚拟桌面游戏“Project Sigil”将引入《博德之门3》角色 阿斯代伦等亮相](https://www.3dmgame.com/news/202408/3900858.html)
+
++ [《Smack Studio》登陆Steam 类大乱斗风格对战](https://www.3dmgame.com/news/202408/3900859.html)
+
