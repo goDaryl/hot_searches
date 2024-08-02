@@ -243,3 +243,43 @@
 
 + [暑期燃情巨献！《疾风之刃：零》上线Steam，重温经典动作网游！](https://www.3dmgame.com/news/202408/3900966.html)
 
++ [《龙珠：电光火石0》Xbox商店页面被撤下 玩家担心延期](https://www.3dmgame.com/news/202404/3892252.html)
+
++ [Steam特别好评复古射击游戏《Nightmare Reaper》即将推出NS实体版](https://www.3dmgame.com/news/202404/3892254.html)
+
++ [ARPG《命运的分形》Steam版售价188元 性感妹冒险](https://www.3dmgame.com/news/202404/3892253.html)
+
++ [经典《机动武斗传G高达》30周年纪念全新策划公开](https://www.3dmgame.com/news/202404/3892255.html)
+
++ [DNF衍生类魂新作《第一狂战士：卡赞》进入后期打磨阶段](https://www.3dmgame.com/news/202404/3892256.html)
+
++ [传闻：《毁灭战士》新作今年公布 或在6月Xbox展示会亮相](https://www.3dmgame.com/news/202404/3892257.html)
+
++ [男子将游戏账号出租仅一天就被封十年 索赔3万败诉](https://www.3dmgame.com/news/202404/3892258.html)
+
++ [电影《哈尔的移动城堡》新预告 4月30日国内上映](https://www.3dmgame.com/news/202404/3892259.html)
+
++ [开发者表示《地狱潜者2》新增的直升机工厂只能用地狱炸弹摧毁](https://www.3dmgame.com/news/202404/3892260.html)
+
++ [官方提醒3DS和WiiU在线服务4月9日终止 但宝可梦两项服务继续](https://www.3dmgame.com/news/202404/3892261.html)
+
++ [需求飙升 产品供不应求：SSD在第二季度还要上涨25%](https://www.3dmgame.com/news/202404/3892262.html)
+
++ [《地狱潜者2》机器人种族被歼灭 东线终结族成首要目标](https://www.3dmgame.com/news/202404/3892263.html)
+
++ [《便便不同》4月11日登陆Steam 大便生产线监控](https://www.3dmgame.com/news/202404/3892264.html)
+
++ [医生小说家推理作品《天久鹰央的事件病历表》即将动画化](https://www.3dmgame.com/news/202404/3892265.html)
+
++ [网飞电影《城市猎人》正式预告 4月25日上线](https://www.3dmgame.com/news/202404/3892266.html)
+
++ [生活模拟MMO《Palia》开发商裁员 三分之一员工被裁](https://www.3dmgame.com/news/202404/3892268.html)
+
++ [玩家发现未拆封红白机游戏卡带售价惊人 高达9万美元一张](https://www.3dmgame.com/news/202404/3892267.html)
+
++ [《警察局模拟器》Steam页面上线 翻新改造扩张](https://www.3dmgame.com/news/202404/3892269.html)
+
++ [《漫威蜘蛛侠 重置版》玩家自制《无敌少侠》第二季“蜘蛛特工”皮肤](https://www.3dmgame.com/news/202404/3892270.html)
+
++ [2024年日本游戏大赏投票开启 新增两个奖项](https://www.3dmgame.com/news/202404/3892271.html)
+
