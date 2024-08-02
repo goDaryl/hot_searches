@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 67 个App已启动网络身份证试点；谷歌官方广告平台正传播恶意软件](https://www.freebuf.com/news/407506.html)
 
++ [攻防演练 | 记一次打穿某车企全过程](https://www.freebuf.com/articles/web/372933.html)
+
++ [解析CLFS：从CVE-2022-24481到CVE-2022-35803类型混淆权限提升](https://www.freebuf.com/articles/system/407472.html)
+
