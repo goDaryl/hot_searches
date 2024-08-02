@@ -143,3 +143,7 @@
 
 + [mgmate](https://www.producthunt.com/posts/mgmate)
 
++ [Stack Auth (YC S24)](https://www.producthunt.com/posts/stack-auth-yc-s24)
+
++ [Fleso](https://www.producthunt.com/posts/fleso)
+
