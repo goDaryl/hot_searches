@@ -147,3 +147,9 @@
 
 + [Fleso](https://www.producthunt.com/posts/fleso)
 
++ [MotionX](https://www.producthunt.com/posts/motionx-2)
+
++ [Choosy Chat](https://www.producthunt.com/posts/choosy-chat-2)
+
++ [Joint Angels](https://www.producthunt.com/posts/joint-angels)
+
