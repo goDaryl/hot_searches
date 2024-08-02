@@ -77,3 +77,5 @@
 
 + [高分局！没想到faker分全场最低！快速看完一局韩服王者斗殴局#577 Faker,MoHaM,](http://www.acfun.cn/v/ac45963693)
 
++ [和鲸鱼一起跳舞吧！《晚安大小姐》](http://www.acfun.cn/v/ac46039583)
+
