@@ -137,3 +137,19 @@
 
 + [使用Apache Spark进行Java数据分析](https://blog.csdn.net/sweetlyl006/article/details/140701091)
 
++ [RK3588 定时器驱动（操作寄存器方式）](https://blog.csdn.net/weixin_43536180/article/details/140852592)
+
++ [猫头虎分享AI写真系统架构分析](https://blog.csdn.net/qq_44866828/article/details/140832081)
+
++ [gis中的地理坐标和投影坐标系](https://blog.csdn.net/qq_28419035/article/details/140789527)
+
++ [Qt pro文件详解](https://blog.csdn.net/hao745580264_dawei/article/details/140851531)
+
++ [第十九天培训笔记](https://blog.csdn.net/weixin_70756988/article/details/140855121)
+
++ [我们如何优化 Elasticsearch Serverless 中的刷新成本](https://blog.csdn.net/UbuntuTouch/article/details/140837574)
+
++ [坐标系内四点共圆和三点确定一个圆的方程通式（高一牲原创挣积分）](https://blog.csdn.net/Varible/article/details/140810968)
+
++ [利用 Python 制作图片轮播应用](https://blog.csdn.net/winniezhang/article/details/140830113)
+
