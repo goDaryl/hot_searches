@@ -39,3 +39,7 @@
 
 + [小米详解 SU7 高性能制动套装：可适用于更激烈的非日常驾驶工况](https://m.ithome.com/html/785715.htm)
 
++ [小米之家电子小票全面上线，即日起不再主动提供纸质小票](https://m.ithome.com/html/785688.htm)
+
++ [3999 元，华为 MateBook GT 14 外接 WIKO 显卡魔方上架：RX 7600M XT，内置 240W 电源](https://m.ithome.com/html/785759.htm)
+
