@@ -41,3 +41,5 @@
 
 + [网安PDF资料限免！ FreeBuf资源笔记免费兑换活动上线](https://www.freebuf.com/news/407127.html)
 
++ [大模型在网络安全方面的应用汇总](https://www.freebuf.com/articles/network/407201.html)
+

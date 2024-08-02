@@ -113,3 +113,15 @@
 
 + [《NBA 2K25》新视频展示ProPLAY动画/新运球引擎](https://www.3dmgame.com/news/202408/3900901.html)
 
++ [让人兴奋！《文明7》首个实机演示将于8月21日公布](https://www.3dmgame.com/news/202408/3900907.html)
+
++ [育碧将推出美式足球游戏 与其他厂商竞争运动游戏](https://www.3dmgame.com/news/202408/3900906.html)
+
++ [Bungie新作取消开发将继续支持《命运2》](https://www.3dmgame.com/news/202408/3900905.html)
+
++ [《真人快打2》首张剧照曝光经典女主展示铁扇](https://www.3dmgame.com/news/202408/3900904.html)
+
++ [《刀剑神域 碎梦边境》坦克角色艾基尔预告公开](https://www.3dmgame.com/news/202408/3900903.html)
+
++ [清洁邮轮《冲就完事模拟器》推出全新免费DLC](https://www.3dmgame.com/news/202408/3900902.html)
+
