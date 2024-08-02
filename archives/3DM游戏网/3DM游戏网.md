@@ -283,3 +283,29 @@
 
 + [2024年日本游戏大赏投票开启 新增两个奖项](https://www.3dmgame.com/news/202404/3892271.html)
 
++ [《监狱建筑师2》宣布无限期跳票 所有预购将会退款](https://www.3dmgame.com/news/202408/3900979.html)
+
++ [三星玄龙骑士G80SD电竞显示器上架 4K@240Hz](https://www.3dmgame.com/news/202408/3900978.html)
+
++ [《核心守护者》PS4、PS5及 NS亚洲实体版本将延期至9月17日正式发售](https://www.3dmgame.com/news/202408/3900974.html)
+
++ [任何人都能轻松介绍自己游戏的新企划“周刊 INDIE Waves”正式启动！](https://www.3dmgame.com/news/202408/3900975.html)
+
++ [《王国保卫战5：联盟》荣获ChinaJoy最佳移动游戏奖](https://www.3dmgame.com/news/202408/3900972.html)
+
++ [GSE正式冲出亚洲并首次出展Gamescom，豪华游戏阵容集游戏体验曝光](https://www.3dmgame.com/news/202408/3900973.html)
+
++ [加入可爱治愈手帐模拟器《小小贴纸铺：百日草夏令营》的夏日乐趣，最新DLC将于8.15推出](https://www.3dmgame.com/news/202408/3900971.html)
+
++ [第一人称深海解谜《THALASSA重返塔拉萨号：深渊之怆》今日上线](https://www.3dmgame.com/news/202408/3900970.html)
+
++ [Alicesoft《爱丽丝的哈尼粉碎大作战！》Steam页面 发行日期发售](https://www.3dmgame.com/news/202408/3900969.html)
+
++ [Apex新赛季即将到来，超多改动，每个赛季Apex玩家都是新玩家！](https://www.3dmgame.com/news/202408/3900976.html)
+
++ [你都期待哪些大片！广电总局：境外优秀节目将加大进入](https://www.3dmgame.com/news/202408/3900977.html)
+
++ [《圣兽之王》官方美术设定集2024年10月发售 定价4400日元](https://www.3dmgame.com/news/202408/3900968.html)
+
++ [中国用户何时用上苹果AI 库克画大饼：会提供给所有人](https://www.3dmgame.com/news/202408/3900967.html)
+
