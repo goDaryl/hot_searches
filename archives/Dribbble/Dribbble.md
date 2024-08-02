@@ -181,3 +181,31 @@
 
 + [Novi Sad Icon and Banner](https://dribbble.com/shots/)
 
++ [Hero Header for SimpleList](https://dribbble.com/shots/)
+
++ [Platform for a Pharmaceutical Company Database](https://dribbble.com/shots/)
+
++ [Sales dashboard panel](https://dribbble.com/shots/)
+
++ [Event Horizon](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Redesign Logo Plaid](https://dribbble.com/shots/)
+
++ [Gorilla Logo](https://dribbble.com/shots/)
+
++ [Graphic illustration. Air balloon](https://dribbble.com/shots/)
+
++ [Revolve, game development studio logo design: dynamic rotating R](https://dribbble.com/shots/)
+
++ [Zendenta - Dental Treatment Booking Flow in Patient Mobile App](https://dribbble.com/shots/)
+
++ [Slap logo](https://dribbble.com/shots/)
+
++ [VO or OV](https://dribbble.com/shots/)
+
++ [Bookstore Website](https://dribbble.com/shots/)
+
++ [Stock investment app](https://dribbble.com/shots/)
+
