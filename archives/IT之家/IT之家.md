@@ -29,3 +29,7 @@
 
 + [库克：正推动 Apple Intelligence 在中国落地，目标为所有苹果用户提供 AI 服务](https://m.ithome.com/html/785749.htm)
 
++ [狂飙：雷军亲自驾驶小米 SU7 Ultra 征战纽北赛道，实力获官方认证](https://m.ithome.com/html/785966.htm)
+
++ [小红书 11 周年信承认大公司病：官架子大、决策拖沓，需要重新出发](https://m.ithome.com/html/785878.htm)
+
