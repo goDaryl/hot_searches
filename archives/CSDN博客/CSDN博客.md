@@ -155,3 +155,55 @@
 
 + [https的安全性如何保证的?|SSL/TSL如何保证安全通信?|如何确保数据在网络通信中的完整性、未被篡改？|加密的必要性|身份认证的必要性|证书认证的必要性|安全通信](https://blog.csdn.net/qq_28727015/article/details/140856565)
 
++ [【研发日记】Matlab/Simulink技能解锁(十二)——Stateflow中的两种状态机嵌套对比](https://blog.csdn.net/CSSUST/article/details/140858955)
+
++ [【C++11】解锁C++11新纪元：深入探索Lambda表达式的奥秘](https://blog.csdn.net/EterNity_TiMe_/article/details/140859133)
+
++ [HarmonyOS鸿蒙应用开发——探索原生与H5通信框架DSBridge-HarmonyOS的奥秘](https://blog.csdn.net/liyou041/article/details/140880716)
+
++ [集成Apache Kylin与Apache Hadoop：实现大数据高效分析](https://blog.csdn.net/weixin_41859354/article/details/140879464)
+
++ [基于FPGA的USB2.0/USB3.0控制器设计概述](https://blog.csdn.net/ccsss22/article/details/140869944)
+
++ [【Docker】容器连接](https://blog.csdn.net/2303_80346267/article/details/140879182)
+
++ [人工智能深度学习系列—深度学习中的边界框回归新贵：GHM（Generalized Histogram Loss）全解析](https://blog.csdn.net/u013889591/article/details/140869464)
+
++ [【PyTorch】多对象分割项目](https://blog.csdn.net/weixin_73404807/article/details/140844740)
+
++ [为客户创建杀手级 SaaS 产品文档](https://blog.csdn.net/rankbc/article/details/140874856)
+
++ [《学会 SpringMVC 系列 · 返回值处理器》](https://blog.csdn.net/syb513812/article/details/140873205)
+
++ [【Kubernetes】k8s集群中kubectl的陈述式资源管理](https://blog.csdn.net/F12138X/article/details/140842976)
+
++ [【Spring Boot】配置 Spring Security](https://blog.csdn.net/be_racle/article/details/140879294)
+
++ [在利用 Python 编码和 PyTorch 深度学习框架训练神经网络和实验评估时，如何控制所有可能的随机性？](https://blog.csdn.net/fyfugoyfa/article/details/140882337)
+
++ [新书速览|AI创意商业广告设计：Adobe Firefly + Photoshop](https://blog.csdn.net/quanzhankaifaqua/article/details/140872511)
+
++ [【Docker学习记录】](https://blog.csdn.net/weixin_43699371/article/details/140870069)
+
++ [谷粒商城实战笔记-110~114-全文检索-ElasticSearch-查询](https://blog.csdn.net/epitomizelu/article/details/140868916)
+
++ [大模型书籍分享（附PDF）大模型时代：ChatGPT开启通用人工智能浪潮](https://blog.csdn.net/python1234567_/article/details/140868212)
+
++ [一键生成视频并批量上传视频抖音、bilibili、腾讯（已打包）](https://blog.csdn.net/weixin_43914278/article/details/140874573)
+
++ [请你学习：前端布局1 - CSS盒模型（Box Model）是CSS布局的核心概念之一](https://blog.csdn.net/zs18753479279/article/details/140879616)
+
++ [uniapp - APP分享到微信，通过h5页面跳转至对应的app页面](https://blog.csdn.net/weixin_42307283/article/details/140852417)
+
++ [什么情况下你能接受 996](https://blog.csdn.net/w425772719/article/details/140840105)
+
++ [借助医疗保健专用的 LLM提高诊断支持与准确性](https://blog.csdn.net/matt45m/article/details/140873414)
+
++ [鸿蒙购物车布局完成后的点击事件（不怎么通俗易懂）](https://blog.csdn.net/weixin_72242959/article/details/140878736)
+
++ [数学建模评价类模型—层次分析法（无数据情况下）](https://blog.csdn.net/wxhdvd/article/details/140723315)
+
++ [PDE笔记](https://blog.csdn.net/White__River/article/details/140870206)
+
++ [数学建模：评价决策类——模糊综合评价法](https://blog.csdn.net/qq_74301026/article/details/140857046)
+

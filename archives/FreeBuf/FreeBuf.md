@@ -45,3 +45,7 @@
 
 + [FreeBuf 周报 | DigiCert 大规模撤销 TLS 证书；俄银行遭乌克兰大规模网络攻击](https://www.freebuf.com/news/407688.html)
 
++ [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
+
++ [浅谈Web渗透之信息收集](https://www.freebuf.com/articles/web/389038.html)
+
