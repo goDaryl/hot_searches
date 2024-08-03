@@ -173,3 +173,15 @@
 
 + [Riommagiore ☀️????????](https://dribbble.com/shots/)
 
++ [NHL logo mark](https://dribbble.com/shots/)
+
++ [AI course generator](https://dribbble.com/shots/)
+
++ [Bear heart logo](https://dribbble.com/shots/)
+
++ [Project Management Web App](https://dribbble.com/shots/)
+
++ [Mood ☁️](https://dribbble.com/shots/)
+
++ [Trading app](https://dribbble.com/shots/)
+
