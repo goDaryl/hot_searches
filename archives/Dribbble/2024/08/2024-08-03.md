@@ -185,3 +185,21 @@
 
 + [Trading app](https://dribbble.com/shots/)
 
++ [Website design for Architecture and Design Studio](https://dribbble.com/shots/)
+
++ [Stratlab - Landing Page](https://dribbble.com/shots/)
+
++ [abstract](https://dribbble.com/shots/)
+
++ [Modern C letter Logo , Design, Branding visual Identity](https://dribbble.com/shots/)
+
++ [Fascar logotype](https://dribbble.com/shots/)
+
++ [Patient Sidebar](https://dribbble.com/shots/)
+
++ [logo design](https://dribbble.com/shots/)
+
++ [Tokn | Logo design](https://dribbble.com/shots/)
+
++ [UI UX Design of Affiliate Page for DEX Trading Portfolio WebApp](https://dribbble.com/shots/)
+
