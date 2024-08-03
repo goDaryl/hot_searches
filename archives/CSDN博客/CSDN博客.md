@@ -101,3 +101,5 @@
 
 + [什么情况下你能接受 996](https://blog.csdn.net/w425772719/article/details/140840105)
 
++ [【AI学习】[2024北京智源大会]具身智能：面向通用机器人的具身多模态大模型系统](https://blog.csdn.net/bylander/article/details/140857974)
+
