@@ -101,3 +101,57 @@
 
 + [遗传算法与深度学习实战——生命模拟及其应用](https://blog.csdn.net/LOVEmy134611/article/details/140364841)
 
++ [引领未来的智能革命：深度解析【人工智能】前沿技术与应用](https://blog.csdn.net/2303_77720864/article/details/140868827)
+
++ [第十九届全国大学生智能车竞赛 | 华北赛区获奖信息](https://blog.csdn.net/zhuoqingjoking97298/article/details/140865310)
+
++ [部署10万+恶意Android应用，竟为窃取你的OTP验证码；创建3000假GitHub账户获利10万美元；OneDrive遭遇新型网络钓鱼，恶意PowerShell脚本横行 | 安全周报 0802](https://blog.csdn.net/weixin_55163056/article/details/140868704)
+
++ [【人工智能】Transformers之Pipeline（七）：图像分割（image-segmentation）](https://blog.csdn.net/weixin_48007632/article/details/140873831)
+
++ [PLM选型指南：如何选择适合自己企业的系统？](https://blog.csdn.net/2401_83673187/article/details/140873287)
+
++ [Datawhale AI 夏令营 市场博弈和价格预测 EDA 探索性数据分析](https://blog.csdn.net/sk8Love956/article/details/140834330)
+
++ [数据开发/数仓工程师上手指南(六)CDM-DWD层搭建规范及流程](https://blog.csdn.net/master_hunter/article/details/140872292)
+
++ [Chapter 23 数据可视化——地图](https://blog.csdn.net/2302_80253507/article/details/140809432)
+
++ [R语言大尺度空间数据分析模拟预测及可视化：地统计与空间自相关、空间数据插值、机器学习空间预测、空间升降尺度、空间模拟残差订正、空间制图等](https://blog.csdn.net/WangYan2022/article/details/140863521)
+
++ [QT多媒体编程（一）——音频编程知识详解及MP3音频播放器Demo](https://blog.csdn.net/weixin_62621696/article/details/140865320)
+
++ [BERT在哪些领域有优势](https://blog.csdn.net/weixin_60437218/article/details/140527777)
+
++ [科普文：万字细说微服务及其框架Netflix，Spring Cloud，Spring Cloud Alibaba梳理](https://blog.csdn.net/Rookie_CEO/article/details/140865529)
+
++ [B站安全开发流程落地实践](https://blog.csdn.net/bilibili_TC/article/details/140854142)
+
++ [FPGA:串口通信发送模块](https://blog.csdn.net/weixin_50164178/article/details/140856524)
+
++ [关于k8s集群中kubectl的陈述式资源管理](https://blog.csdn.net/2402_83805984/article/details/140838560)
+
++ [Fasttext分类任务原理--读书笔记](https://blog.csdn.net/bzq42096/article/details/140877685)
+
++ [【Docker】Dockerfile 文件编写](https://blog.csdn.net/u013675821/article/details/140877413)
+
++ [Windows服务器CPU使用率较高问题的排查及解决方案](https://blog.csdn.net/meimeieee/article/details/140871077)
+
++ [在windows上用docker编译ceph](https://blog.csdn.net/strugglesquirrel/article/details/140875252)
+
++ [Mybatis-plus笔记](https://blog.csdn.net/m0_73966521/article/details/140869185)
+
++ [Sentinel（微服务保护技术）](https://blog.csdn.net/weixin_45773628/article/details/140872489)
+
++ [Android/Linux音频架构开发ALSA-篇3](https://blog.csdn.net/weixin_46453743/article/details/140870192)
+
++ [【C++庖丁解牛】C++特殊类设计 | 单例模式](https://blog.csdn.net/weixin_60521256/article/details/140863285)
+
++ [【等保测评】网络安全服务认证技术规范（等级保护测评）](https://blog.csdn.net/weixin_45840241/article/details/140869700)
+
++ [嵌入式C++、MQTT、React、Spring Boot和MongoDB：物联网工厂检测系统设计思路（代码示例）](https://blog.csdn.net/qq_40431685/article/details/140873652)
+
++ [微信小程序_对接腾讯实时音视频_多人会议](https://blog.csdn.net/zxy19931069161/article/details/140864140)
+
++ [https的安全性如何保证的?|SSL/TSL如何保证安全通信?|如何确保数据在网络通信中的完整性、未被篡改？|加密的必要性|身份认证的必要性|证书认证的必要性|安全通信](https://blog.csdn.net/qq_28727015/article/details/140856565)
+
