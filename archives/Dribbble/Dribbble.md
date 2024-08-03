@@ -49,3 +49,25 @@
 
 + [Workload](https://dribbble.com/shots/)
 
++ [South America](https://dribbble.com/shots/)
+
++ [Music event poster](https://dribbble.com/shots/)
+
++ [Novi Sad Icon and Banner](https://dribbble.com/shots/)
+
++ [Namma](https://dribbble.com/shots/)
+
++ [Midnight Melodies: The Jazz Chronicles](https://dribbble.com/shots/)
+
++ [Big eye](https://dribbble.com/shots/)
+
++ [Illustration for Outside Voices](https://dribbble.com/shots/)
+
++ [A Real Landscape Collage](https://dribbble.com/shots/)
+
++ [St. John the Beloved Brand Application](https://dribbble.com/shots/)
+
++ [Beach Bar](https://dribbble.com/shots/)
+
++ [Illustration Exploration for Inscribe #3](https://dribbble.com/shots/)
+
