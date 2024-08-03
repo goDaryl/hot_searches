@@ -53,3 +53,7 @@
 
 + [上汽大众 2024 款途观 X 上市：酷黑运动风格套件，售价 25.08 万元](https://m.ithome.com/html/785930.htm)
 
++ [购买充电宝认准“CCC”标识，移动电源新国标正式强制实施](https://m.ithome.com/html/786026.htm)
+
++ [消息称联发科天玑 9400 涨价：vivo X200 系列 10 月首发登场，OPPO Find X8 紧随其后](https://m.ithome.com/html/786052.htm)
+
