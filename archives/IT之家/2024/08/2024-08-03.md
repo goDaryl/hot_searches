@@ -57,3 +57,7 @@
 
 + [消息称联发科天玑 9400 涨价：vivo X200 系列 10 月首发登场，OPPO Find X8 紧随其后](https://m.ithome.com/html/786052.htm)
 
++ [Jeff Pu：明年四款苹果 iPhone 17 机型都将配备 2400 万像素前置摄像头](https://m.ithome.com/html/785954.htm)
+
++ [当当网创始人李国庆谈“大战亚马逊”：他们本想收购我们，却灰溜溜退出中国](https://m.ithome.com/html/786015.htm)
+
