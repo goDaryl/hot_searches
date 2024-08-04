@@ -105,3 +105,23 @@
 
 + [Plate Notes](https://www.producthunt.com/posts/plate-notes)
 
++ [Foreign Fluent](https://www.producthunt.com/posts/foreign-fluent)
+
++ [YouPage](https://www.producthunt.com/posts/youpage)
+
++ [voicechat2](https://www.producthunt.com/posts/voicechat2)
+
++ [Creatify](https://www.producthunt.com/posts/creatify-1)
+
++ [LaunchPage](https://www.producthunt.com/posts/launchpage-2)
+
++ [Dumbail](https://www.producthunt.com/posts/dumbail)
+
++ [Avatar Architect](https://www.producthunt.com/posts/avatar-architect)
+
++ [Remote Nomad Jobs](https://www.producthunt.com/posts/remote-nomad-jobs)
+
++ [RefKid](https://www.producthunt.com/posts/refkid)
+
++ [Olovka](https://www.producthunt.com/posts/olovka)
+

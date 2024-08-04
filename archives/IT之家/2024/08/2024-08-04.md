@@ -39,3 +39,5 @@
 
 + [全球首款 18650 钾离子电池问世，可替代锂电池](https://m.ithome.com/html/786113.htm)
 
++ [西山居科幻机甲游戏《解限机》开启“先驱者测试”，Steam 国区可报名参与](https://m.ithome.com/html/786048.htm)
+
