@@ -47,3 +47,5 @@
 
 + [极氪 X 车型在新加坡上市：起售价 19.9999 万新元，首家门店八月底开业](https://m.ithome.com/html/786063.htm)
 
++ [特斯拉 Model 3 行驶 20 万英里后，电池仅衰减 11-15%](https://m.ithome.com/html/786093.htm)
+
