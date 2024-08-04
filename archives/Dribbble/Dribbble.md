@@ -71,3 +71,51 @@
 
 + [Scaling new heights](https://dribbble.com/shots/)
 
++ [Cyclops - Features Page](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [GBA emerald ????](https://dribbble.com/shots/)
+
++ [Crypto Vaults Web Design for Admin & Dashboard React Template](https://dribbble.com/shots/)
+
++ [Docs sequrity app](https://dribbble.com/shots/)
+
++ [Vortex - Unused logo](https://dribbble.com/shots/)
+
++ [Summit Advisors Group LLC - Professional Logo Design](https://dribbble.com/shots/)
+
++ [Website for a Marketing SaaS](https://dribbble.com/shots/)
+
++ [Abstract illustration](https://dribbble.com/shots/)
+
++ [Corporate Website](https://dribbble.com/shots/)
+
++ [Music production](https://dribbble.com/shots/)
+
++ [Braidpay Finance 2024](https://dribbble.com/shots/)
+
++ [KMPS 18](https://dribbble.com/shots/)
+
++ [Letter M Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [Holo Banking: Card UI](https://dribbble.com/shots/)
+
++ [knight](https://dribbble.com/shots/)
+
++ [Ai finance website design](https://dribbble.com/shots/)
+
++ [Food Crown????????????](https://dribbble.com/shots/)
+
++ [AceDrop // Telegram Tap Bot](https://dribbble.com/shots/)
+
++ [Gym, fitness, spark, energy, power logo and brand identity](https://dribbble.com/shots/)
+
++ [Shopln: Order Page](https://dribbble.com/shots/)
+
++ [Ai bot, robot logo, and brand identity](https://dribbble.com/shots/)
+
++ [Loop + Connection Logo Concept](https://dribbble.com/shots/)
+
++ [Hyge logo design](https://dribbble.com/shots/)
+
