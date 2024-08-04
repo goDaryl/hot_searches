@@ -169,3 +169,11 @@
 
 + [《火花奇遇记：自动化冒险》正式版还将登陆PS5和Xbox Series](https://www.3dmgame.com/news/202408/3901042.html)
 
++ [马斯克旗下科技公司 第二位人类患者成功植入脑机接口](https://www.3dmgame.com/news/202408/3901055.html)
+
++ [《盐和避难所》大型更新上线 追加随机战斗系统](https://www.3dmgame.com/news/202408/3901053.html)
+
++ [招聘信息显示《霍格沃茨之遗》或已在开发续作](https://www.3dmgame.com/news/202408/3901054.html)
+
++ [特斯拉超级计算集群命名Cortex：10万颗英伟达芯片训练FSD](https://www.3dmgame.com/news/202408/3901052.html)
+
