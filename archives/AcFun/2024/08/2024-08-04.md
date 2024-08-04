@@ -113,3 +113,11 @@
 
 + [【小子贼疯/余若_】伎俩（cover：蔡旻佑/艾怡良）【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac46050756)
 
++ [这就是战争最真实的样子](http://www.acfun.cn/v/ac46050038)
+
++ [去按摩放松一下](http://www.acfun.cn/v/ac46050015)
+
++ [不要耽误孩子上生理课](http://www.acfun.cn/v/ac46050002)
+
++ [大教堂时代-灯哥武汉演唱会版](http://www.acfun.cn/v/ac46050736)
+

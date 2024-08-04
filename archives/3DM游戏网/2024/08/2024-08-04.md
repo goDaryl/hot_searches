@@ -201,3 +201,11 @@
 
 + [《博德之门3》拉斐尔演员表示很愿意再次扮演该角色](https://www.3dmgame.com/news/202408/3901067.html)
 
++ [《神之塔》TV动画新卡司公布 最新话即将登场](https://www.3dmgame.com/news/202408/3901071.html)
+
++ [拉瑞安回顾《神界2：龙裔》历程 险些退出游戏行业](https://www.3dmgame.com/news/202408/3901070.html)
+
++ [华为研发5年三折叠手机将至 手机业或被颠覆](https://www.3dmgame.com/news/202408/3901069.html)
+
++ [《奇异人生：双重曝光》终极版可获FF7服装包](https://www.3dmgame.com/news/202408/3901068.html)
+

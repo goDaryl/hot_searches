@@ -49,3 +49,9 @@
 
 + [特斯拉 Model 3 行驶 20 万英里后，电池仅衰减 11-15%](https://m.ithome.com/html/786093.htm)
 
++ [小米产品总监、MIUI 体验总负责人金凡清空微博](https://m.ithome.com/html/786149.htm)
+
++ [新增车外唤醒防御，小米 SU7 汽车获推澎湃 HyperOS 1.2.7 更新](https://m.ithome.com/html/786109.htm)
+
++ [摩兽 M03 跨骑电动车上市：90km 续航、摩托级减震，首发 6498 元](https://m.ithome.com/html/786082.htm)
+
