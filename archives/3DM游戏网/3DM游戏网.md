@@ -209,3 +209,7 @@
 
 + [《奇异人生：双重曝光》终极版可获FF7服装包](https://www.3dmgame.com/news/202408/3901068.html)
 
++ [《潜行者2》被ESRB评成M级 暴力、血腥、脏话](https://www.3dmgame.com/news/202408/3901073.html)
+
++ [迪士尼调整未来三年电影档期 一部漫威电影被砍](https://www.3dmgame.com/news/202408/3901072.html)
+

@@ -59,3 +59,7 @@
 
 + [微博：在 2024 巴黎奥运女乒单打决赛拉踩引战、恶意攻击，300 余个账号被禁言](https://m.ithome.com/html/786139.htm)
 
++ [苹果开始向“蝴蝶键盘”MacBook 用户进行赔付，最高 395 美元](https://m.ithome.com/html/786090.htm)
+
++ [华为推出 100W 全能充多口充电器：1A / C + 1C 融合接口，349 元](https://m.ithome.com/html/786154.htm)
+

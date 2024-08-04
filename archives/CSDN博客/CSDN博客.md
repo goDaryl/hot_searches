@@ -223,3 +223,7 @@
 
 + [Spring Boot 参数校验 Validation 使用](https://blog.csdn.net/ITKidKid/article/details/140886298)
 
++ [【前端 22】使用Nginx部署前端项目](https://blog.csdn.net/delepaste/article/details/140898443)
+
++ [Python基于逻辑回归的L1正则化(Lasso Logistic Regression)进行分类数据的特征选择项目实战](https://blog.csdn.net/weixin_42163563/article/details/140891051)
+
