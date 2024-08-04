@@ -171,3 +171,11 @@
 
 + [vue3 二次组件封装【透传】](https://blog.csdn.net/pangGeee/article/details/140898831)
 
++ [基于FPGA的数字信号处理（22）--进位保存加法器（Carry Save Adder, CSA）](https://blog.csdn.net/wuzhikaidetb/article/details/140903246)
+
++ [【大数据】什么是 Hadoop Job？](https://blog.csdn.net/m0_61020782/article/details/140897870)
+
++ [SQL中的窗口函数](https://blog.csdn.net/zhangyifang_009/article/details/140756701)
+
++ [FPGA开发——基于Quartus的工程建立以及下载仿真全过程](https://blog.csdn.net/weixin_63553972/article/details/140887266)
+
