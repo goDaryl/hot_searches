@@ -41,3 +41,9 @@
 
 + [西山居科幻机甲游戏《解限机》开启“先驱者测试”，Steam 国区可报名参与](https://m.ithome.com/html/786048.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT Developer Beta3 更新：新增 WLAN 和移动网络多通道收发数据、小艺输入法自动纠错等](https://m.ithome.com/html/786119.htm)
+
++ [深蓝汽车宣布为 S07 华为乾崑智驾 ADS SE 前 6000 名锁单用户赠送城区车道巡航辅助增强服务和代客泊车辅助服务](https://m.ithome.com/html/786077.htm)
+
++ [极氪 X 车型在新加坡上市：起售价 19.9999 万新元，首家门店八月底开业](https://m.ithome.com/html/786063.htm)
+

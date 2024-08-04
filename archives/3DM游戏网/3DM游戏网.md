@@ -187,3 +187,9 @@
 
 + [《我的世界》乐高套装发布 包含12个生物群系与物品](https://www.3dmgame.com/news/202408/3901060.html)
 
++ [世界COSPLAY大会收官 日本队凭借火影忍者斩获第一](https://www.3dmgame.com/news/202408/3901063.html)
+
++ [Intel股价单日跌超26%：市值仅剩AMD的四成](https://www.3dmgame.com/news/202408/3901062.html)
+
++ [《抓娃娃》票房超越《封神》！进入中国影史票房榜前25](https://www.3dmgame.com/news/202408/3901061.html)
+

@@ -101,3 +101,9 @@
 
 + [「Super8」《奢香夫人》赶月归来【ACFUN声唱云参赛】](http://www.acfun.cn/v/ac46048532)
 
++ [小师妹，师兄找你找的好苦！](http://www.acfun.cn/v/ac46043525)
+
++ [武汉 live 线下片段](http://www.acfun.cn/v/ac46050499)
+
++ [拍摄第一套花絮速阅 娄老师 大变活人 没说话 不看不是人 什么女爱豆？ 社畜精致日 脸有点大但将就下](http://www.acfun.cn/v/ac46050350)
+
