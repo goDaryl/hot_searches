@@ -49,3 +49,25 @@
 
 + [Nature Backs T-Shirt Illustration](https://dribbble.com/shots/)
 
++ [Dragönsteel Alts](https://dribbble.com/shots/)
+
++ [Robot Management](https://dribbble.com/shots/)
+
++ [Hotel Logo Collection](https://dribbble.com/shots/)
+
++ [Illustration Exploration for Inscribe #3](https://dribbble.com/shots/)
+
++ [Halftone illustrations](https://dribbble.com/shots/)
+
++ [DownShift Logotype](https://dribbble.com/shots/)
+
++ [Illustration for Outside Voices](https://dribbble.com/shots/)
+
++ [Hooke Fall/Winter Collection](https://dribbble.com/shots/)
+
++ [Roark Store Shirt](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Tertiary Logo](https://dribbble.com/shots/)
+
++ [Scaling new heights](https://dribbble.com/shots/)
+
