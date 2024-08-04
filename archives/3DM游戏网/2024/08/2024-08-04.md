@@ -149,3 +149,23 @@
 
 + [40系中端卡在最新Steam调查中增幅惊人](https://www.3dmgame.com/news/202408/3901041.html)
 
++ [EA介绍称《大学橄榄球25》用AI制作一万多个面部](https://www.3dmgame.com/news/202408/3901051.html)
+
++ [《王国之心》大师合集人气再燃 位列美国游戏榜第三位](https://www.3dmgame.com/news/202408/3901050.html)
+
++ [育碧《星战》被批不再关心优化 PC采用双重加密](https://www.3dmgame.com/news/202408/3901049.html)
+
++ [《东方LIVEBOX》线下音乐会8月30日举行 粉丝狂欢](https://www.3dmgame.com/news/202408/3901048.html)
+
++ [宫崎英高：《艾尔登法环》已是我们项目规模的极限 新作将是小规模作品](https://www.3dmgame.com/news/202408/3901047.html)
+
++ [传言《皮克敏》系列将推出衍生作品 或登陆新主机？](https://www.3dmgame.com/news/202408/3901046.html)
+
++ [《逆转检察官1&2 御剑精选集》团队畅谈开发历程](https://www.3dmgame.com/news/202408/3901045.html)
+
++ [TGA创始人缅怀Game Informer游戏杂志：行业真正传奇](https://www.3dmgame.com/news/202408/3901044.html)
+
++ [《diorama》登陆Steam 休闲温馨装饰模拟](https://www.3dmgame.com/news/202408/3901043.html)
+
++ [《火花奇遇记：自动化冒险》正式版还将登陆PS5和Xbox Series](https://www.3dmgame.com/news/202408/3901042.html)
+
