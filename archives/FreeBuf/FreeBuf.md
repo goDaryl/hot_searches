@@ -41,3 +41,5 @@
 
 + [警惕新型安卓恶意软件，掏空银行账户后设备数据也将不保](https://www.freebuf.com/news/407491.html)
 
++ [HVV蓝队视角的技战法分析](https://www.freebuf.com/news/407045.html)
+
