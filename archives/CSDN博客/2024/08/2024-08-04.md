@@ -219,3 +219,7 @@
 
 + [python实现小游戏——植物大战僵尸(魔改版本)](https://blog.csdn.net/qq_43646281/article/details/140887001)
 
++ [Vue+live2d实现虚拟人物互动（一次体验叙述）](https://blog.csdn.net/m0_75148088/article/details/140907008)
+
++ [Spring Boot 参数校验 Validation 使用](https://blog.csdn.net/ITKidKid/article/details/140886298)
+
