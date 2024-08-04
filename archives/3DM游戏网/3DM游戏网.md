@@ -213,3 +213,9 @@
 
 + [迪士尼调整未来三年电影档期 一部漫威电影被砍](https://www.3dmgame.com/news/202408/3901072.html)
 
++ [《七日世界》聆听玩家抱怨 正努力修复各种问题](https://www.3dmgame.com/news/202408/3901074.html)
+
++ [《战神》系列开发商下一个游戏将是新IP](https://www.3dmgame.com/news/202408/3901075.html)
+
++ [特斯拉Model 3行驶20万英里后 电池仅衰减11-15%](https://www.3dmgame.com/news/202408/3901076.html)
+
