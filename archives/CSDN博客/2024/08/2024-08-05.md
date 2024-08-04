@@ -105,3 +105,23 @@
 
 + [Stale diffusion+Webui使用教程--点动科技](https://blog.csdn.net/weixin_63782093/article/details/140886878)
 
++ [无代码开发AI服务 - 利用向量库Kendra和Llama大模型在亚马逊云科技AWS上创建RAG知识库](https://blog.csdn.net/m0_66628975/article/details/140913393)
+
++ [Flink-StarRocks详解:第五部分查询数据湖(第55天)](https://blog.csdn.net/syhiiu/article/details/140885028)
+
++ [Spring中使用Async进行异步功能开发实战-以大文件上传为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/140879320)
+
++ [React--》掌握styled-components重塑React样式管理](https://blog.csdn.net/qq_53123067/article/details/140906665)
+
++ [redis详细介绍](https://blog.csdn.net/weixin_57763462/article/details/140913795)
+
++ [【C++庖丁解牛】C++特殊类设计 | 单例模式](https://blog.csdn.net/weixin_60521256/article/details/140863285)
+
++ [【iOS】APP仿写——天气预报](https://blog.csdn.net/2301_79847748/article/details/140885159)
+
++ [安卓基本布局（下）](https://blog.csdn.net/qq_47658735/article/details/140898085)
+
++ [uniapp HarmonyOS项目实战](https://blog.csdn.net/qq_36158551/article/details/140805631)
+
++ [2024 年华数杯全国大学生数学建模竞赛C 题 老外游中国 完整思路 源代码 模型结果（仅供学习）](https://blog.csdn.net/weixin_52051317/article/details/140910780)
+

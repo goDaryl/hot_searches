@@ -119,3 +119,15 @@
 
 + [Hyge logo design](https://dribbble.com/shots/)
 
++ [Nat Geo Magazine: Editorial Illustrations](https://dribbble.com/shots/)
+
++ [Lo-Fi Bear Print: Part One](https://dribbble.com/shots/)
+
++ [Mulligan's Grooming Co. Logo System](https://dribbble.com/shots/)
+
++ [Graffiti Gang ????](https://dribbble.com/shots/)
+
++ [Vroom vroom](https://dribbble.com/shots/)
+
++ [Kick, Pass, Serve, Smash](https://dribbble.com/shots/)
+
