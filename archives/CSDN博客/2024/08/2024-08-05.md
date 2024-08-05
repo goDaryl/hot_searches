@@ -139,3 +139,7 @@
 
 + [使用GPT-4o mini融合GraphRAG技术进行实战应用](https://blog.csdn.net/weixin_44626085/article/details/140902873)
 
++ [【学习方法】高效学习因素 ① ( 开始学习 | 高效学习因素五大因素 | 高效学习公式 - 学习效果 = 时间 x 注意力 x 精力 x 目标 x 策略 )](https://blog.csdn.net/han1202012/article/details/140886447)
+
++ [用PyTorch 从零开始构建 BitNet 1.58bit](https://blog.csdn.net/m0_46510245/article/details/140911935)
+
