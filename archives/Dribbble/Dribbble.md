@@ -71,3 +71,49 @@
 
 + [End is Near](https://dribbble.com/shots/)
 
++ [Bunny](https://dribbble.com/shots/)
+
++ [Goat](https://dribbble.com/shots/)
+
++ [Pilot Logo](https://dribbble.com/shots/)
+
++ [Website for Modular homes company](https://dribbble.com/shots/)
+
++ [Website for an AI Product](https://dribbble.com/shots/)
+
++ [Tallent Flow onboarding](https://dribbble.com/shots/)
+
++ [Dashboard for Agriculture Business](https://dribbble.com/shots/)
+
++ [Cult of the Lamb](https://dribbble.com/shots/)
+
++ [Cocoa](https://dribbble.com/shots/)
+
++ [Pharmacy Mobile App](https://dribbble.com/shots/)
+
++ [USA Icons](https://dribbble.com/shots/)
+
++ [Pilar - website](https://dribbble.com/shots/)
+
++ [Switch - Creativity Reload Animation](https://dribbble.com/shots/)
+
++ [Sales Mobile App](https://dribbble.com/shots/)
+
++ [Coastal Distillery](https://dribbble.com/shots/)
+
++ [Owerketh - Analytics for Sales Forecasting Pitch Deck](https://dribbble.com/shots/)
+
++ [Mongolian Madonna](https://dribbble.com/shots/)
+
++ [Raven Logo](https://dribbble.com/shots/)
+
++ [DEADPOOL & WOLVERINE](https://dribbble.com/shots/)
+
++ [Free UI Kit - Dashboard Payroll](https://dribbble.com/shots/)
+
++ [Music AI](https://dribbble.com/shots/)
+
++ [Four Kitchens Logomark](https://dribbble.com/shots/)
+
++ [PressCode](https://dribbble.com/shots/)
+
