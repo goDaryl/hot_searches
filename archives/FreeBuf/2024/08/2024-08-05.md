@@ -43,3 +43,5 @@
 
 + [GPT4o Captcha Bypass ：基于GPT4o 实现验证码绕过](https://www.freebuf.com/articles/web/406617.html)
 
++ [FreeBuf早报 | 500万行阿根廷公民信息在暗网售卖；谷歌重拳打击 deepfake 内容](https://www.freebuf.com/news/407604.html)
+

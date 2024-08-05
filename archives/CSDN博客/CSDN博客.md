@@ -143,3 +143,7 @@
 
 + [用PyTorch 从零开始构建 BitNet 1.58bit](https://blog.csdn.net/m0_46510245/article/details/140911935)
 
++ [【杂谈】-MQTT与HTTP在物联网中的比较：为什么MQTT是更好的选择](https://blog.csdn.net/wujuxKkoolerter/article/details/140910851)
+
++ [技术周总结 2024.07.29 ~ 08.04周日(MyBatis, 极限编程)](https://blog.csdn.net/xinkuaile/article/details/140841268)
+
