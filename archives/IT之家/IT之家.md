@@ -57,3 +57,5 @@
 
 + [Redmi 显示器 A27U 发布：27 英寸 4K IPS、品类首发小米青山护眼，1199 元](https://m.ithome.com/html/786234.htm)
 
++ [比亚迪王朝全新 MPV 车型再曝谍照，有望命名为“周”](https://m.ithome.com/html/786273.htm)
+
