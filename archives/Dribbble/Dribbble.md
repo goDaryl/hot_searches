@@ -205,3 +205,19 @@
 
 + [Icon Set of Paymint Framer Template](https://dribbble.com/shots/)
 
++ [Sales Mobile App](https://dribbble.com/shots/)
+
++ [Tallent Flow onboarding](https://dribbble.com/shots/)
+
++ [Open Agreements & Legal Schema, structured data contracts logos](https://dribbble.com/shots/)
+
++ [Miramarile - Detail Product Landing Page](https://dribbble.com/shots/)
+
++ [Personal AI assistant brand: illustrations](https://dribbble.com/shots/)
+
++ [slothUI - World's Laziest Design System - Onboarding Flow UIUX](https://dribbble.com/shots/)
+
++ [Game Design - TOONBOT ????](https://dribbble.com/shots/)
+
++ [Dog & Stick](https://dribbble.com/shots/)
+
