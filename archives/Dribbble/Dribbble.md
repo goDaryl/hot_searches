@@ -129,3 +129,17 @@
 
 + [Deadpool & Wolverine Corner Box](https://dribbble.com/shots/)
 
++ [Workload](https://dribbble.com/shots/)
+
++ [A Real Landscape Collage](https://dribbble.com/shots/)
+
++ [Nat Geo Magazine: Editorial Illustrations](https://dribbble.com/shots/)
+
++ [Death and Glory](https://dribbble.com/shots/)
+
++ [Aroma (2024) - Revisited](https://dribbble.com/shots/)
+
++ [Dragönsteel Alts](https://dribbble.com/shots/)
+
++ [Spontaneous Objects](https://dribbble.com/shots/)
+
