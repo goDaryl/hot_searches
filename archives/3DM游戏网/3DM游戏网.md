@@ -193,3 +193,7 @@
 
 + [传闻：《远征：泥泞奔驰游戏》即将加入XGP](https://www.3dmgame.com/news/202408/3901120.html)
 
++ [2024年《财富》世界500强榜单出炉：小米连续6年上榜](https://www.3dmgame.com/news/202408/3901125.html)
+
++ [《Fields of Mistria》Steam抢测 小清新像素种田](https://www.3dmgame.com/news/202408/3901124.html)
+
