@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 500万行阿根廷公民信息在暗网售卖；谷歌重拳打击 deepfake 内容](https://www.freebuf.com/news/407604.html)
 
++ [研发安全视角 | 如何开发更安全的认证？](https://www.freebuf.com/articles/system/407549.html)
+
