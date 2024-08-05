@@ -49,3 +49,5 @@
 
 + [小米王化辟谣 MIUI 体验总负责人金凡离职：他在闭关，年内出关](https://m.ithome.com/html/786265.htm)
 
++ [凯迪拉克一 4S 老店关门“跑路”：员工全部失业，未退车主押金致集体维权](https://m.ithome.com/html/786214.htm)
+
