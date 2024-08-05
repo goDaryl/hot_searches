@@ -181,3 +181,27 @@
 
 + [New 1/2 size Badge](https://dribbble.com/shots/)
 
++ [Teraluxe: SaaS Dashboard Real Estate Web App - Filter Rooms ????](https://dribbble.com/shots/)
+
++ [Supernova: Enterprise AI Platform Web App - Chat ????](https://dribbble.com/shots/)
+
++ [Gameshell clockwork????](https://dribbble.com/shots/)
+
++ [Free UI Kit - Dashboard Payroll](https://dribbble.com/shots/)
+
++ [GBA pink ???? ????](https://dribbble.com/shots/)
+
++ [Crave Brand Guideline - Motion](https://dribbble.com/shots/)
+
++ [Product Listing](https://dribbble.com/shots/)
+
++ [Crypto Bridge design](https://dribbble.com/shots/)
+
++ [Neuromeet : AI Meeting Transcript - Visual Branding](https://dribbble.com/shots/)
+
++ [Pesse - Fintech Landing Page](https://dribbble.com/shots/)
+
++ [Login, Register & Reset Password Flow - Cusana](https://dribbble.com/shots/)
+
++ [Icon Set of Paymint Framer Template](https://dribbble.com/shots/)
+
