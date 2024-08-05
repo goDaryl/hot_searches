@@ -63,3 +63,5 @@
 
 + [小米米家充气宝 2 Pro 上架：45 秒急速补气，众筹价 259 元](https://m.ithome.com/html/786317.htm)
 
++ [5288 元起，华为 nova Flip 小折叠手机开启预售：6.88mm 厚度、后置 50MP 悬停自拍](https://m.ithome.com/html/786377.htm)
+
