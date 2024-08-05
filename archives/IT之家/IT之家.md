@@ -59,3 +59,7 @@
 
 + [比亚迪王朝全新 MPV 车型再曝谍照，有望命名为“周”](https://m.ithome.com/html/786273.htm)
 
++ [电动车电池电梯爆燃致当事人死亡，销售者判赔 101 万元](https://m.ithome.com/html/786345.htm)
+
++ [小米米家充气宝 2 Pro 上架：45 秒急速补气，众筹价 259 元](https://m.ithome.com/html/786317.htm)
+
