@@ -49,3 +49,5 @@
 
 + [理想 M7 / M8 / M9 谍照曝光，三款纯电 SUV 同框](https://m.ithome.com/html/786496.htm)
 
++ [骁龙 8 Gen4 QRD 工程机首个跑分出炉](https://m.ithome.com/html/786393.htm)
+
