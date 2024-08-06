@@ -195,3 +195,15 @@
 
 + [方块平台对战游戏《Ninza》现已提供试玩Demo 8月28日正式推出](https://www.3dmgame.com/news/202408/3901191.html)
 
++ [为何小米SU7女性用户如此多：雷军回应四字秘诀](https://www.3dmgame.com/news/202408/3901196.html)
+
++ [极简风格平台解谜游戏《矿物》登录Steam平台 2024年8月8日推出](https://www.3dmgame.com/news/202408/3901195.html)
+
++ [英伟达AI工具被曝或导致用户侵权：大量抓取未授权视频](https://www.3dmgame.com/news/202408/3901197.html)
+
++ [《ISEKI》9月登陆Steam 自动战斗3D迷宫探索](https://www.3dmgame.com/news/202408/3901194.html)
+
++ [《死侍与金刚狼》后 休·杰克曼痛失吉尼斯世界纪录](https://www.3dmgame.com/news/202408/3901193.html)
+
++ [《龙之家族》仍将拍摄四季 第三季2025年开始制作](https://www.3dmgame.com/news/202408/3901192.html)
+

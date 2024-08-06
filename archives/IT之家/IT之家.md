@@ -35,3 +35,7 @@
 
 + [苹果 iPhone 16 Pro / Max“印度造”？分析师：高端机型将继续在中国生产](https://m.ithome.com/html/786415.htm)
 
++ [疑似奇瑞内部讲话曝光：3 个人干 5 个人的活拿 4 个人的工资，提高加班效率](https://m.ithome.com/html/786466.htm)
+
++ [董明珠：格力正开发“不要电”的空调，直连光伏实现 0 电费](https://m.ithome.com/html/786461.htm)
+

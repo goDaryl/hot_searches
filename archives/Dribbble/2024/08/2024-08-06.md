@@ -169,3 +169,15 @@
 
 + [Promo Stickers](https://dribbble.com/shots/)
 
++ [InsightHub - KPI & Project Management  Dashboard](https://dribbble.com/shots/)
+
++ [Foxchain: Cryptocurrency Exchange Mobile App Request Payment ????](https://dribbble.com/shots/)
+
++ [Zwinkle - Personal Website](https://dribbble.com/shots/)
+
++ [Banking App Exploration](https://dribbble.com/shots/)
+
++ [Deadpool Deck Sketches](https://dribbble.com/shots/)
+
++ [40s Herman](https://dribbble.com/shots/)
+
