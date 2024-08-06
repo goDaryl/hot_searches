@@ -129,3 +129,7 @@
 
 + [3 Part Bar & Restaurant Logo System](https://dribbble.com/shots/)
 
++ [Taurus App - Mobile App, Website, UI&UX Design](https://dribbble.com/shots/)
+
++ [Jaguar Logo](https://dribbble.com/shots/)
+
