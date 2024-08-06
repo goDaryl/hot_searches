@@ -217,3 +217,27 @@
 
 + [MM*](https://dribbble.com/shots/)
 
++ [99finder — Logo and Visual Identity](https://dribbble.com/shots/)
+
++ [Strategy of Security Brand Identity](https://dribbble.com/shots/)
+
++ [Sidebar Navigation - Light & Dark Theme](https://dribbble.com/shots/)
+
++ [Packaging Design for a Sports Watch](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Claim Details, Submit for Payment. Endurance Warranty](https://dribbble.com/shots/)
+
++ [Payoobel -  Financial Services Landing Page](https://dribbble.com/shots/)
+
++ [Lorem Ipsum Branding Design](https://dribbble.com/shots/)
+
++ [Dog With Hat Logo](https://dribbble.com/shots/)
+
++ [UI Elements for Vegan App](https://dribbble.com/shots/)
+
++ [Cubie Mascot 3D Animation](https://dribbble.com/shots/)
+
++ [Bento Beatitudes | 2](https://dribbble.com/shots/)
+

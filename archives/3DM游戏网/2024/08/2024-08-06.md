@@ -271,3 +271,9 @@
 
 + [SE公布Q1新财报 利润暴涨FF14等网游部贡献大](https://www.3dmgame.com/news/202408/3901226.html)
 
++ [育碧《星球大战：法外狂徒》被曝使用机器人刷热度](https://www.3dmgame.com/news/202408/3901231.html)
+
++ [小贱贱透露自己的孩子客串《死侍3》 一家人整整齐齐](https://www.3dmgame.com/news/202408/3901232.html)
+
++ [超级特惠！EA Play十周年：新用户第一个月7.6元](https://www.3dmgame.com/news/202408/3901230.html)
+
