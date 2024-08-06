@@ -133,3 +133,7 @@
 
 + [Jaguar Logo](https://dribbble.com/shots/)
 
++ [Mystery Project 105](https://dribbble.com/shots/)
+
++ [Landing Page Design for SimpleList](https://dribbble.com/shots/)
+
