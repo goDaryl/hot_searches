@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | CrowdStrike拒为企业损失买单；黑客可用HDMI线捕获用户密码](https://www.freebuf.com/news/407828.html)
 
++ [企业安全 | 邮件安全建设实践](https://www.freebuf.com/articles/es/406387.html)
+
