@@ -191,3 +191,7 @@
 
 + [利用Python进行金融数据分析的全面指南【文末送书】](https://blog.csdn.net/weixin_52908342/article/details/140915529)
 
++ [【AI 大模型】RAG 检索增强生成 ① ( 大模型的相关问题描述 - 幻觉、时效性、数据安全 | RAG 检索增强生成 | RAG 关键组件 | LLM + RAG 的运行流程 )](https://blog.csdn.net/han1202012/article/details/140922035)
+
++ [Flink-DataWorks第一部分：DataWorks（第57天）](https://blog.csdn.net/syhiiu/article/details/140933321)
+
