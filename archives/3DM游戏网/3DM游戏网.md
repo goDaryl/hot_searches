@@ -125,3 +125,7 @@
 
 + [《塞尔达传说：智慧的再现》新预告展示地点/玩法](https://www.3dmgame.com/news/202408/3901147.html)
 
++ [《黑神话：悟空》在PS5上优化得不错 能达到2K/60帧](https://www.3dmgame.com/news/202408/3901157.html)
+
++ [内马尔吐槽《CS2》是垃圾游戏 外挂太猖獗了！](https://www.3dmgame.com/news/202408/3901158.html)
+
