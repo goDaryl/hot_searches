@@ -41,3 +41,5 @@
 
 + [HVV蓝队视角的技战法分析](https://www.freebuf.com/news/407045.html)
 
++ [YVnopLlM.exe木马分析：流量分析到调式解密传输文本内容](https://www.freebuf.com/articles/system/407751.html)
+
