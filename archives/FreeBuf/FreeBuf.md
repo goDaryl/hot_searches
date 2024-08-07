@@ -41,3 +41,5 @@
 
 + [文件上传漏洞防范——文件类型检测](https://www.freebuf.com/articles/web/406709.html)
 
++ [剖析勒索软件剧本：分析攻击链和映射常见的TTP](https://www.freebuf.com/articles/paper/407741.html)
+

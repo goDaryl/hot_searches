@@ -129,3 +129,11 @@
 
 + [联动狂魔《糖豆人》加入《堡垒之夜》皮肤](https://www.3dmgame.com/news/202408/3901244.html)
 
++ [CDPR招聘信息显示《赛博朋克2077》续作有多人游戏](https://www.3dmgame.com/news/202408/3901252.html)
+
++ [《星球大战绝地：幸存者》PS4/X1版9月17日发售 PC版更新将来](https://www.3dmgame.com/news/202408/3901251.html)
+
++ [《诡野西部》开发商预热新作 称《耻辱》粉丝将会很高兴](https://www.3dmgame.com/news/202408/3901250.html)
+
++ [《战锤40K：星际战士2》PC配置公布 优化堪忧](https://www.3dmgame.com/news/202408/3901249.html)
+
