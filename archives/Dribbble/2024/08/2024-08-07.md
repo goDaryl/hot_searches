@@ -149,3 +149,17 @@
 
 + [Midnight Melodies: The Jazz Chronicles](https://dribbble.com/shots/)
 
++ [Wizard Logo design for Magic Games](https://dribbble.com/shots/)
+
++ [Hotel Booking Landing Page](https://dribbble.com/shots/)
+
++ [Cubie - Mascot Development](https://dribbble.com/shots/)
+
++ [Dense Discovery — Issue 300](https://dribbble.com/shots/)
+
++ [Fivecode Brand Guidelines](https://dribbble.com/shots/)
+
++ [HHC Living Corporate Coat of Arms](https://dribbble.com/shots/)
+
++ [Packaging Design for Hermanos Brewing Co.](https://dribbble.com/shots/)
+
