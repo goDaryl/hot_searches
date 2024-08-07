@@ -39,3 +39,5 @@
 
 + [小米汽车：SU7 Ultra 原型车基于 SU7 打造，独立设计开发核心硬件及车身结构](https://m.ithome.com/html/786652.htm)
 
++ [华为余承东：鸿蒙智行“第四界”定名 MAEXTRO 尊界，与江淮联合打造 / 定位百万级超高端](https://m.ithome.com/html/786725.htm)
+
