@@ -207,3 +207,15 @@
 
 + [《辐射：伦敦》团队正开发巨型补丁 提供1对1客服](https://www.3dmgame.com/news/202408/3901282.html)
 
++ [拉瑞安总监承诺下一部作品会“又大又好” 但需要时间](https://www.3dmgame.com/news/202408/3901292.html)
+
++ [轻小说改编动漫《你与我最后的战场》第二季再度宣布延期](https://www.3dmgame.com/news/202408/3901291.html)
+
++ [英伟达RTX 5090显卡功耗意外曝光：不超过525W](https://www.3dmgame.com/news/202408/3901293.html)
+
++ [美服Switch预购《超级马里奥派对：空前盛会》将获赠季度会员](https://www.3dmgame.com/news/202408/3901290.html)
+
++ [《耻辱》工作室创始人透露 近期公开第一人称新游](https://www.3dmgame.com/news/202408/3901289.html)
+
++ [《绝地潜兵2》玩家不满削弱 开发者：大多数人没意见](https://www.3dmgame.com/news/202408/3901288.html)
+
