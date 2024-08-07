@@ -277,3 +277,7 @@
 
 + [余承东曾称其抄袭华为 小米回应是抹黑：龙骨转轴差异大](https://www.3dmgame.com/news/202408/3901322.html)
 
++ [微星推出MAG 275CQPF显示器 VA曲面屏、2K180Hz](https://www.3dmgame.com/news/202408/3901323.html)
+
++ [育碧很可能在开发《荣耀战魂》续作](https://www.3dmgame.com/news/202408/3901324.html)
+
