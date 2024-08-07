@@ -21,3 +21,5 @@
 
 + [鸣潮](https://www.taptap.cn/app/234280)
 
++ [诛仙2](https://www.taptap.cn/app/337150)
+
