@@ -49,3 +49,9 @@
 
 + [问界 M5 / M7 / M9 和智界 S7 车型 9 月起全系升级华为 ADS 3.0 智驾，泊车代驾正式商用](https://m.ithome.com/html/786627.htm)
 
++ [小米 2024Q2 突破日本手机市场：出货量暴涨 359%、杀入前三，卢伟冰称“继续加油”](https://m.ithome.com/html/786794.htm)
+
++ [长城董事长魏建军：汽车行业现在“有点飘”，依然要向老牌厂商学习](https://m.ithome.com/html/786736.htm)
+
++ [华为推出超级快充电源适配器（Max 140W）：含 1.8 米 USB-C 充电线，289 元](https://m.ithome.com/html/786672.htm)
+
