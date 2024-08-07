@@ -65,3 +65,7 @@
 
 + [Drltrace：针对Windows和Linux应用程序的库调用跟踪器](https://www.freebuf.com/sectool/407753.html)
 
++ [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
+
++ [零基础网安就业，需要多久？](https://www.freebuf.com/news/408073.html)
+
