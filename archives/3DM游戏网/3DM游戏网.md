@@ -219,3 +219,29 @@
 
 + [《绝地潜兵2》玩家不满削弱 开发者：大多数人没意见](https://www.3dmgame.com/news/202408/3901288.html)
 
++ [《暗区突围：无限》8月13日Steam抢测 第一人称射击](https://www.3dmgame.com/news/202408/3901302.html)
+
++ [索尼2024财年Q1财报 PS5出货量达到6170万台](https://www.3dmgame.com/news/202408/3901301.html)
+
++ [《变形金刚 x 特种部队》电影并非联动：一方只能当配角](https://www.3dmgame.com/news/202408/3901303.html)
+
++ [新版《西游记》动画片共104集 师徒四人新形象亮相](https://www.3dmgame.com/news/202408/3901304.html)
+
++ [瑞安·雷诺兹透露 曾考虑在《死侍与金刚狼》中让尼古拉斯·凯奇客串恶灵骑士](https://www.3dmgame.com/news/202408/3901305.html)
+
++ [如龙金曲《像笨蛋一样》将推出黑胶唱片 11月3日发售](https://www.3dmgame.com/news/202408/3901306.html)
+
++ [双人解谜冒险游戏《不同的星球》Steam页面 明年发售](https://www.3dmgame.com/news/202408/3901294.html)
+
++ [虚拟偶像湊阿库娅主题新游停止制作 本人即将毕业](https://www.3dmgame.com/news/202408/3901296.html)
+
++ [《女神异闻录3：Reload》后日谈“埃癸斯篇”新预告 9月10日发售](https://www.3dmgame.com/news/202408/3901295.html)
+
++ [外网主播挑战让金鱼击败《黄金树幽影》最终BOSS 耗时仅8小时](https://www.3dmgame.com/news/202408/3901297.html)
+
++ [《协律01：新生活》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202408/3901298.html)
+
++ [Legion Go即将推出Lite版本？联想：纯属校对失误](https://www.3dmgame.com/news/202408/3901299.html)
+
++ [《方舟生存飞升》新生物“星灵蛛”生物图谱首曝，“方舟俱乐部”玩法更新](https://www.3dmgame.com/news/202408/3901300.html)
+
