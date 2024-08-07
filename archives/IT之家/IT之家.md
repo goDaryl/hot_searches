@@ -65,3 +65,5 @@
 
 + [华为 MateView SE 显示器推出 100Hz 高刷版本，首发价 569 元起](https://m.ithome.com/html/786817.htm)
 
++ [历史性一刻！中国新能源汽车 7 月渗透率首次突破 50%，超越燃油车](https://m.ithome.com/html/786905.htm)
+
