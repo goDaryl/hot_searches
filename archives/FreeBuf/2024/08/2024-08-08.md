@@ -53,3 +53,7 @@
 
 + [渗透测试实战 | 记一次JS逆向分析](https://www.freebuf.com/articles/network/407775.html)
 
++ [FCIS 2024网络安全创新大会·十周年启程](https://www.freebuf.com/news/408076.html)
+
++ [信息安全管理——网络与基础架构安全管理](https://www.freebuf.com/articles/compliance/395305.html)
+
