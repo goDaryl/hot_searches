@@ -107,3 +107,17 @@
 
 + [《吸血鬼幸存者》8月19日登陆PS4/5 Steam好评如潮](https://www.3dmgame.com/news/202408/3901422.html)
 
++ [《诡野西部》开发商WolfEye工作室公布新作截图](https://www.3dmgame.com/news/202408/3901429.html)
+
++ [《分裂之门2》新实机视频展示派系和对应能力](https://www.3dmgame.com/news/202408/3901430.html)
+
++ [id Software推出《毁灭战士1+2》全新增强版](https://www.3dmgame.com/news/202408/3901428.html)
+
++ [知名儿童漫画《神探狗狗》将推出改编游戏](https://www.3dmgame.com/news/202408/3901427.html)
+
++ [id Software为PC用户开放《毁灭战士：永恒》Mod工具](https://www.3dmgame.com/news/202408/3901426.html)
+
++ [治愈系种田模拟游戏《Everbloom》上架Steam](https://www.3dmgame.com/news/202408/3901425.html)
+
++ [《丧尸围城：豪华复刻版》加入武器耐久度换服等新功能](https://www.3dmgame.com/news/202408/3901424.html)
+
