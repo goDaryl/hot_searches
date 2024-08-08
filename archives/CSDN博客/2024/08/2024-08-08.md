@@ -179,3 +179,11 @@
 
 + [鸿蒙（API 12 Beta2版）媒体开发【音频播放流管理】](https://blog.csdn.net/m0_70748845/article/details/141000207)
 
++ [基于GA-PSO-SVM算法的混沌背景下微弱信号检测matlab仿真](https://blog.csdn.net/aycd1234/article/details/141024857)
+
++ [GPT-5：未来已来，你准备好了吗？](https://blog.csdn.net/m0_67187271/article/details/140991432)
+
++ [【Linux】make/Makefile——项目自动化构建工具](https://blog.csdn.net/weixin_50776420/article/details/141003888)
+
++ [【老张的程序人生】我命由我不由天：我的计算机教师中级岗之旅](https://blog.csdn.net/Liuyaoyun/article/details/140951709)
+

@@ -51,3 +51,5 @@
 
 + [客户硕士毕业学位证被撕毁，顺丰回应称“因机器挤压出现损坏”](https://m.ithome.com/html/787138.htm)
 
++ [8 月 14 日前可申请，华为鸿蒙 HarmonyOS NEXT 系统第三批先锋用户招募报名时间延长](https://m.ithome.com/html/786941.htm)
+
