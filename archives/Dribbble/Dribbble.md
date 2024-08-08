@@ -49,3 +49,31 @@
 
 + [Hooke Fall/Winter Collection](https://dribbble.com/shots/)
 
++ [Dense Discovery — Issue 300](https://dribbble.com/shots/)
+
++ [Aroma (2024) - Revisited](https://dribbble.com/shots/)
+
++ [Kick, Pass, Serve, Smash](https://dribbble.com/shots/)
+
++ [Death & Glory](https://dribbble.com/shots/)
+
++ [A Real Landscape Collage](https://dribbble.com/shots/)
+
++ [American Madonna](https://dribbble.com/shots/)
+
++ [1972 Datsun](https://dribbble.com/shots/)
+
++ [Zhenya Artemjev Kawaii Illustrator](https://dribbble.com/shots/)
+
++ [WE'RE NOT DEAD YET](https://dribbble.com/shots/)
+
++ [Burch Supply Co Heritage Script](https://dribbble.com/shots/)
+
++ [Cocoa](https://dribbble.com/shots/)
+
++ [Hotel Logo Collection](https://dribbble.com/shots/)
+
++ [St. John the Beloved Brand Application](https://dribbble.com/shots/)
+
++ [Cubie - Mascot Development](https://dribbble.com/shots/)
+
