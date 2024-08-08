@@ -57,3 +57,5 @@
 
 + [信息安全管理——网络与基础架构安全管理](https://www.freebuf.com/articles/compliance/395305.html)
 
++ [Ashok：一款多功能开源网络侦查OSINT工具](https://www.freebuf.com/sectool/408085.html)
+

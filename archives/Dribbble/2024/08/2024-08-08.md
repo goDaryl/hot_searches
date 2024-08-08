@@ -175,3 +175,17 @@
 
 + [St. John the Beloved Brand Application](https://dribbble.com/shots/)
 
++ [Zenity brand design](https://dribbble.com/shots/)
+
++ [Cosmic Guardian Logo](https://dribbble.com/shots/)
+
++ [MediCare - Patient Page](https://dribbble.com/shots/)
+
++ [Logo Design for Ai Tool](https://dribbble.com/shots/)
+
++ [Finance Management App](https://dribbble.com/shots/)
+
++ [Zendenta - Discover Dental Clinics in the Patient Mobile App](https://dribbble.com/shots/)
+
++ [Live Logos | V5](https://dribbble.com/shots/)
+
