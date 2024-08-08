@@ -133,3 +133,11 @@
 
 + [灵办AI：智能插件，办公与编程的得力助手](https://blog.csdn.net/xiaobing259/article/details/140987182)
 
++ [从科幻到现实：AIGC助力打造个性化数字人](https://blog.csdn.net/qq_32682301/article/details/140925920)
+
++ [猫头虎分享： MySQL 怎么快速插入数据呀？我插3万条要20多秒](https://blog.csdn.net/qq_44866828/article/details/140993954)
+
++ [大数据存储解决方案：HDFS与NoSQL数据库详解](https://blog.csdn.net/weixin_41859354/article/details/140966475)
+
++ [HarmonyOS 习题（二）](https://blog.csdn.net/qq_29385297/article/details/140944922)
+

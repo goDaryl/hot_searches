@@ -127,3 +127,7 @@
 
 + [2D横版游戏《Symphonia》试玩上线 年末正式发行](https://www.3dmgame.com/news/202408/3901333.html)
 
++ [索尼总裁十时裕树谈Bungie裁员：优化成本提高效率](https://www.3dmgame.com/news/202408/3901342.html)
+
++ [《战锤40K：星际战士2》新视频和截图 打虫族太爽了](https://www.3dmgame.com/news/202408/3901343.html)
+
