@@ -205,3 +205,13 @@
 
 + [Scottish Deerhound](https://dribbble.com/shots/)
 
++ [Xerox PARC](https://dribbble.com/shots/)
+
++ [One more use case for AR Spatial Sticky Notes](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Vampire Logo](https://dribbble.com/shots/)
+
++ [F and face logo](https://dribbble.com/shots/)
+

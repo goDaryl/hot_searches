@@ -59,3 +59,5 @@
 
 + [Ashok：一款多功能开源网络侦查OSINT工具](https://www.freebuf.com/sectool/408085.html)
 
++ [挖了这么久才发现，漏洞挖掘可以更简单](https://www.freebuf.com/news/408156.html)
+
