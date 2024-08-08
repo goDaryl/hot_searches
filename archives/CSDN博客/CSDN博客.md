@@ -187,3 +187,11 @@
 
 + [【老张的程序人生】我命由我不由天：我的计算机教师中级岗之旅](https://blog.csdn.net/Liuyaoyun/article/details/140951709)
 
++ [【wiki知识库】08.添加用户登录功能--后端SpringBoot部分](https://blog.csdn.net/qq_61024956/article/details/141027838)
+
++ [【QT】Qt 音视频](https://blog.csdn.net/YoungMLet/article/details/140363334)
+
++ [PDF预览：利用vue3-pdf-app实现前端PDF在线展示](https://blog.csdn.net/RenGJ010617/article/details/140978430)
+
++ [《抓娃娃》电影百度云完整下载3.86GB迅雷BT磁力资源MP4](https://blog.csdn.net/erckosq/article/details/140959831)
+

@@ -53,3 +53,5 @@
 
 + [8 月 14 日前可申请，华为鸿蒙 HarmonyOS NEXT 系统第三批先锋用户招募报名时间延长](https://m.ithome.com/html/786941.htm)
 
++ [消息称华为三折叠屏手机折痕通过 28μm 测试，有望实现鸿蒙 PC 级应用](https://m.ithome.com/html/786953.htm)
+
