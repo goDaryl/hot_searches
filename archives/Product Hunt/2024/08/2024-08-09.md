@@ -101,3 +101,15 @@
 
 + [BestRegards](https://www.producthunt.com/posts/bestregards)
 
++ [Anyquery](https://www.producthunt.com/posts/anyquery)
+
++ [Gradient Generator v2](https://www.producthunt.com/posts/gradient-generator-v2)
+
++ [Benty Coder](https://www.producthunt.com/posts/benty-coder)
+
++ [SpeechZap](https://www.producthunt.com/posts/speechzap)
+
++ [BookLed](https://www.producthunt.com/posts/bookled)
+
++ [Flows](https://www.producthunt.com/posts/flows-5)
+
