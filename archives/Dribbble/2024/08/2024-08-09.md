@@ -77,3 +77,9 @@
 
 + [Cubie - Mascot Development](https://dribbble.com/shots/)
 
++ [Halftone illustrations](https://dribbble.com/shots/)
+
++ [NYC illustrations](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Tertiary Logo](https://dribbble.com/shots/)
+
