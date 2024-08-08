@@ -221,3 +221,17 @@
 
 + [Zhenya Artemjev Kawaii Illustrator](https://dribbble.com/shots/)
 
++ [Satellite Dish](https://dribbble.com/shots/)
+
++ [Besnard - Luxury Bold Minimalist Fashion Ecommerce Website Home](https://dribbble.com/shots/)
+
++ [PressCode Homepage](https://dribbble.com/shots/)
+
++ [Juneteenth day banner](https://dribbble.com/shots/)
+
++ [Dubai Hotels](https://dribbble.com/shots/)
+
++ [Icecream](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Logotype](https://dribbble.com/shots/)
+

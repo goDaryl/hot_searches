@@ -195,3 +195,11 @@
 
 + [《抓娃娃》电影百度云完整下载3.86GB迅雷BT磁力资源MP4](https://blog.csdn.net/erckosq/article/details/140959831)
 
++ [【人工智能】AI时代程序员----是缔造AI程序员，还是AI缔造程序员？](https://blog.csdn.net/Skrrapper/article/details/141031590)
+
++ [代码规范 —— 数据库规范](https://blog.csdn.net/zhengzhaoyang122/article/details/141003636)
+
++ [网络安全抓包&封包&WEB](https://blog.csdn.net/m0_73245690/article/details/140672467)
+
++ [自学-网络安全](https://blog.csdn.net/m0_70066267/article/details/140971479)
+
