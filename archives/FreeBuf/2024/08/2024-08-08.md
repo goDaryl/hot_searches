@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 迄今为止最大BEC骗局被侦破；法国博物馆奥运期间遭遇网络攻击](https://www.freebuf.com/news/408001.html)
 
++ [SRC实战| 如何优雅的利用路由调用发现隐藏API接口](https://www.freebuf.com/articles/web/407747.html)
+

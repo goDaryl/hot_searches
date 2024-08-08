@@ -79,3 +79,7 @@
 
 + [《动物奥运会选拔赛》](http://www.acfun.cn/v/ac46066671)
 
++ [【东方】NIGHT OF NIGHTS - RichaadEB金属Arrange MMD再现](http://www.acfun.cn/v/ac46062995)
+
++ [爱尔兰夫妇：中国式的热情让我们无言以对   |    丽江EP1 中国式热情](http://www.acfun.cn/v/ac46067095)
+

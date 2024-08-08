@@ -141,3 +141,9 @@
 
 + [HarmonyOS 习题（二）](https://blog.csdn.net/qq_29385297/article/details/140944922)
 
++ [【AI大模型】解锁AI潜能：深入探索Langchain中的Prompt艺术及其多样化Template应用](https://blog.csdn.net/m0_48173416/article/details/140878137)
+
++ [腾讯云AI代码助手助力软件开发体验分享](https://blog.csdn.net/qq_44273429/article/details/140987101)
+
++ [Jmeter性能压测4000并发](https://blog.csdn.net/weixin_41121249/article/details/140937280)
+
