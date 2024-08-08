@@ -145,3 +145,5 @@
 
 + [【C++进阶学习】第十二弹——C++ 异常处理：深入解析与实践应用](https://blog.csdn.net/2301_80220607/article/details/141035690)
 
++ [Python爬虫实战：利用代理IP爬取百度翻译](https://blog.csdn.net/yuan2019035055/article/details/140948044)
+
