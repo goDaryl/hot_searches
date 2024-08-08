@@ -165,3 +165,11 @@
 
 + [Cubie - Mascot Development](https://dribbble.com/shots/)
 
++ [Fintech AI Website](https://dribbble.com/shots/)
+
++ [Event UI/UX Mobile App Design - Homepage ????️](https://dribbble.com/shots/)
+
++ [Franky - Personal Wellbeing Coach](https://dribbble.com/shots/)
+
++ [Neuromeet : AI Meeting Transcript - Brand Guidelines](https://dribbble.com/shots/)
+
