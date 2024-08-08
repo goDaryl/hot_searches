@@ -131,3 +131,5 @@
 
 + [鸿蒙（API 12 Beta2版）媒体开发【使用AudioRenderer开发音频播放功能】](https://blog.csdn.net/m0_70748845/article/details/140964832)
 
++ [灵办AI：智能插件，办公与编程的得力助手](https://blog.csdn.net/xiaobing259/article/details/140987182)
+
