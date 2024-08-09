@@ -145,3 +145,11 @@
 
 + [Vino Disco Sauvignon Blanc](https://dribbble.com/shots/)
 
++ [Let AI blow your mind!](https://dribbble.com/shots/)
+
++ [South America](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Logotype](https://dribbble.com/shots/)
+
++ [End is Near](https://dribbble.com/shots/)
+
