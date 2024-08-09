@@ -263,3 +263,5 @@
 
 + [华为官方确认鸿蒙PC要来了：界面比Windows漂亮](https://www.3dmgame.com/news/202408/3901501.html)
 
++ [英特尔推出锐炫A760A 车载独立显卡](https://www.3dmgame.com/news/202408/3901502.html)
+

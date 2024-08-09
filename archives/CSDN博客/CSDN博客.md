@@ -213,3 +213,5 @@
 
 + [【大专生学前端】：挑战与机遇并存——你怎么看？](https://blog.csdn.net/zhaochen1127/article/details/140966533)
 
++ [Linux使用docker搭建Redis 哨兵模式](https://blog.csdn.net/qq_29768197/article/details/140931179)
+
