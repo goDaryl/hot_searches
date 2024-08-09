@@ -61,3 +61,5 @@
 
 + [Volana：一款基于Go开发的Shell命令代码混淆工具](https://www.freebuf.com/sectool/408163.html)
 
++ [见证历史，被全球网安人吐槽，一个参数导致巨大灾难事故](https://www.freebuf.com/news/408183.html)
+

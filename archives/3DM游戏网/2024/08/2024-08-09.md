@@ -235,3 +235,9 @@
 
 + [《祇：女神之道》玩家数突破50万 官方发放魔像奖励](https://www.3dmgame.com/news/202408/3901484.html)
 
++ [《索尼克×夏特 世代重启》BGM视频公开 全新登场角色及关卡](https://www.3dmgame.com/news/202408/3901488.html)
+
++ [卡普空《怪物猎人：荒野》武器介绍：“狩猎笛”](https://www.3dmgame.com/news/202408/3901489.html)
+
++ [苹果拟推出迄今最小台式电脑：Mac mini首次改变设计](https://www.3dmgame.com/news/202408/3901491.html)
+
