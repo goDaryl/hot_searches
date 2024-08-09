@@ -247,3 +247,11 @@
 
 + [《三国志8重制版》奇才系统介绍 武将独一无二的能力](https://www.3dmgame.com/news/202408/3901493.html)
 
++ [专家：以后有钱人买国产车 没钱人才买进口车](https://www.3dmgame.com/news/202408/3901497.html)
+
++ [《DOOM》+《DOOM II》重制版及《DOOM Eternal》模组Beta测试现已上线](https://www.3dmgame.com/news/202408/3901496.html)
+
++ [腾讯与NEXON签订协议 宣布代理《THE FINALS》国服](https://www.3dmgame.com/news/202408/3901495.html)
+
++ [敖厂长锐评《黑神话》：优化要出大问题 失败并不遥远](https://www.3dmgame.com/news/202408/3901494.html)
+

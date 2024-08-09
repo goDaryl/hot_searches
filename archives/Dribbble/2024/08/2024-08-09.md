@@ -187,3 +187,23 @@
 
 + [Red and dead (PSE '24)](https://dribbble.com/shots/)
 
++ [Meditation and Yoga Mobile App Design](https://dribbble.com/shots/)
+
++ [GourmetGrove - Restaurant Mobile App Design](https://dribbble.com/shots/)
+
++ [EasyTrade - Finance & Trading Logo and Branding](https://dribbble.com/shots/)
+
++ [Mascot design](https://dribbble.com/shots/)
+
++ [opusbiosciences: AI Lipid Nanoparticle | Biotech About Us Page](https://dribbble.com/shots/)
+
++ [Jewels](https://dribbble.com/shots/)
+
++ [—From Archive (Pt. 2)](https://dribbble.com/shots/)
+
++ [catchy wave logo](https://dribbble.com/shots/)
+
++ [Musyix - Event Mobile App](https://dribbble.com/shots/)
+
++ [Lite | Iconography](https://dribbble.com/shots/)
+
