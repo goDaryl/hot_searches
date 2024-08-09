@@ -265,3 +265,9 @@
 
 + [英特尔推出锐炫A760A 车载独立显卡](https://www.3dmgame.com/news/202408/3901502.html)
 
++ [《控制2》开发来到重要里程碑 已经可以游玩了](https://www.3dmgame.com/news/202408/3901504.html)
+
++ [《丧尸围城：豪华复刻版》删掉“情色”拍照功能](https://www.3dmgame.com/news/202408/3901505.html)
+
++ [《龙腾世纪：影障守护者》创意总监：《圣歌》教会我们专注于自己的长处](https://www.3dmgame.com/news/202408/3901503.html)
+
