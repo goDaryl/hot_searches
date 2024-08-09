@@ -131,3 +131,7 @@
 
 + [增强现实系列—深入探索ARKit：平面检测、三维模型放置与增强现实交互](https://blog.csdn.net/u013889591/article/details/141073436)
 
++ [linux文件——深度学习文件fd、文件系统调用](https://blog.csdn.net/strive_mianyang/article/details/141064382)
+
++ [【数学建模】 多模数据与智能模型](https://blog.csdn.net/weixin_42914989/article/details/140951127)
+
