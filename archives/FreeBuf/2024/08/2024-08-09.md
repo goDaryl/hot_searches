@@ -41,3 +41,5 @@
 
 + [揭秘新型安卓间谍软件LianSpy的攻击手段](https://www.freebuf.com/news/408008.html)
 
++ [Mandrake间谍软件再次潜入Google Play长达两年之久](https://www.freebuf.com/articles/paper/407904.html)
+

@@ -121,3 +121,15 @@
 
 + [《丧尸围城：豪华复刻版》加入武器耐久度换服等新功能](https://www.3dmgame.com/news/202408/3901424.html)
 
++ [《战锤40K：星际战士2》多人玩法预告 包含PVE和PVP](https://www.3dmgame.com/news/202408/3901436.html)
+
++ [《文明7》将在2025年3月31日之前推出 期待吗？](https://www.3dmgame.com/news/202408/3901435.html)
+
++ [《GTA6》仍将于2025年秋季发售 PC版却无踪影](https://www.3dmgame.com/news/202408/3901434.html)
+
++ [《冰汽时代2》“执政官101”第5集预告：人民的声音](https://www.3dmgame.com/news/202408/3901433.html)
+
++ [《GTA5》销量超2亿份《荒野大镖客2》超6500万份](https://www.3dmgame.com/news/202408/3901432.html)
+
++ [开发商暗示《死亡岛》系列新作或DLC即将公布](https://www.3dmgame.com/news/202408/3901431.html)
+

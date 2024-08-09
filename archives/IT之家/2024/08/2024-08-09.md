@@ -29,3 +29,5 @@
 
 + [联通电话卡推中国 / 新加坡一卡两号服务，最高 60GB 中新共享流量](https://m.ithome.com/html/787171.htm)
 
++ [融合 iPad Pro + Apple TV 优势：古尔曼称 Mac mini 将迎来重大设计更新，将成为“苹果有史以来最小的电脑”](https://m.ithome.com/html/787244.htm)
+
