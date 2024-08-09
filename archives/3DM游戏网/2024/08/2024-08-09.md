@@ -241,3 +241,9 @@
 
 + [苹果拟推出迄今最小台式电脑：Mac mini首次改变设计](https://www.3dmgame.com/news/202408/3901491.html)
 
++ [《Matchbox 飞车大冒险》Steam页面上线 9月20日发售](https://www.3dmgame.com/news/202408/3901492.html)
+
++ [《暗喻幻想：ReFantazio》获得97%玩家好评！全球玩家试玩活动反馈及世界巡回详情公布](https://www.3dmgame.com/news/202408/3901490.html)
+
++ [《三国志8重制版》奇才系统介绍 武将独一无二的能力](https://www.3dmgame.com/news/202408/3901493.html)
+
