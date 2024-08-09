@@ -147,3 +147,45 @@
 
 + [《战神：诸神黄昏》PC版新截图 画面太震撼了](https://www.3dmgame.com/news/202408/3901437.html)
 
++ [《星球大战：法外狂徒》并非太空版《GTA》 禁止杀害或偷窃平民](https://www.3dmgame.com/news/202408/3901459.html)
+
++ [世嘉季度财报：游戏销量强劲抵消整体业务颓势](https://www.3dmgame.com/news/202408/3901460.html)
+
++ [《铲子骑士：口袋地牢》免费DLC宣布8月13日上线 添加Mod支持](https://www.3dmgame.com/news/202408/3901461.html)
+
++ [建造游戏《克鲁苏信徒》Demo上线 支持简繁体中文](https://www.3dmgame.com/news/202408/3901462.html)
+
++ [动作冒险游戏《猫咪斗恶龙3》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202408/3901463.html)
+
++ [前任6月离职 Remedy现已任命新首席财务官](https://www.3dmgame.com/news/202408/3901464.html)
+
++ [游戏还没发售 “穿越神游”《Kingmakers》已确认将改编电影](https://www.3dmgame.com/news/202408/3901454.html)
+
++ [万代南梦宫第一季度利润增长56%：老头环DLC热卖](https://www.3dmgame.com/news/202408/3901455.html)
+
++ [《神之亵渎》开发商再发神秘预告 2024年秋季推出](https://www.3dmgame.com/news/202408/3901456.html)
+
++ [《Liminal Border Part III》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202408/3901457.html)
+
++ [《黑神话：悟空》全新高清截图 画面太美让人激动](https://www.3dmgame.com/news/202408/3901458.html)
+
++ [《神探狗狗：不可能的任务》Steam页面公布 年内发售](https://www.3dmgame.com/news/202408/3901444.html)
+
++ [《波斯王子：失落的王冠》Steam版本现已正式推出 下月将推出全新DLC](https://www.3dmgame.com/news/202408/3901445.html)
+
++ [索尼PlayStation将继续赞助欧冠联赛 续签三年协议](https://www.3dmgame.com/news/202408/3901446.html)
+
++ [《无主之地》真人电影彻底翻车 烂番茄开局新鲜度0%](https://www.3dmgame.com/news/202408/3901447.html)
+
++ [传任天堂Switch 2首发将有第三方3A大作“护航”](https://www.3dmgame.com/news/202408/3901448.html)
+
++ [《雨中冒险2》DLC“风暴探寻者”开发者日志](https://www.3dmgame.com/news/202408/3901449.html)
+
++ [V社疑似在测试Steam新系统 将整治游戏评论乱象](https://www.3dmgame.com/news/202408/3901450.html)
+
++ [派拉蒙宣布裁员15%约2000人 有线电视业务面临衰落](https://www.3dmgame.com/news/202408/3901451.html)
+
++ [PvPvE第一人称恐怖撤离射击游戏《Hunger》公布](https://www.3dmgame.com/news/202408/3901452.html)
+
++ [类魂动作角色扮演游戏《死亡约束》现已正式推出 Steam平台获多半好评](https://www.3dmgame.com/news/202408/3901453.html)
+

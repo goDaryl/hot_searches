@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 腾讯回应文件传输助手隐私问题；Nexera DeFi 协议遭黑客攻击](https://www.freebuf.com/news/408127.html)
 
++ [警惕：新型网络钓鱼利用 Google Drawings 和 WhatsApp 短链接窃取信息](https://www.freebuf.com/news/408175.html)
+
++ [电动汽车充电基础设施安全性分析：OCPP后端漏洞](https://www.freebuf.com/vuls/407762.html)
+
