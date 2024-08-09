@@ -93,3 +93,5 @@
 
 + [【预告】二等分的新娘](http://www.acfun.cn/v/ac46070393)
 
++ [【漫展场照】阿尔托莉雅 蓝礼服 cos](http://www.acfun.cn/v/ac46067068)
+
