@@ -51,3 +51,5 @@
 
 + [古早漏洞“再现”！谷歌、Safari、火狐等主流浏览器数百万用户受到潜在攻击](https://www.freebuf.com/news/408169.html)
 
++ [研发安全 | 如何用好内容安全策略（CSP）？](https://www.freebuf.com/articles/web/407740.html)
+
