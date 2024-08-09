@@ -49,3 +49,51 @@
 
 + [UI UX Design and Development for Smart Vaults & Loans Platform](https://dribbble.com/shots/)
 
++ [Cubie - Mascot Development](https://dribbble.com/shots/)
+
++ [Roark Store Shirt](https://dribbble.com/shots/)
+
++ [Pizza Rat Stencil](https://dribbble.com/shots/)
+
++ [Dense Discovery — Issue 300](https://dribbble.com/shots/)
+
++ [Game boy](https://dribbble.com/shots/)
+
++ [Satellite Dish](https://dribbble.com/shots/)
+
++ [Big eye](https://dribbble.com/shots/)
+
++ [NYC](https://dribbble.com/shots/)
+
++ [Garden](https://dribbble.com/shots/)
+
++ [MM*](https://dribbble.com/shots/)
+
++ [Red and dead (PSE '24)](https://dribbble.com/shots/)
+
++ [Aroma (2024) - Revisited](https://dribbble.com/shots/)
+
++ [Cherry Blossom Sweets Logo System](https://dribbble.com/shots/)
+
++ [*MM](https://dribbble.com/shots/)
+
++ [Scaling new heights](https://dribbble.com/shots/)
+
++ [Cocoa](https://dribbble.com/shots/)
+
++ [St. John the Beloved Brand Application](https://dribbble.com/shots/)
+
++ [Woodsum Pinhole](https://dribbble.com/shots/)
+
++ [Hotel Logo Collection](https://dribbble.com/shots/)
+
++ [Website Design for Bedding Ecommerce](https://dribbble.com/shots/)
+
++ [Zhenya Artemjev Kawaii Illustrator](https://dribbble.com/shots/)
+
++ [The City is Alive, a Puzzle ????](https://dribbble.com/shots/)
+
++ [Promo Stickers](https://dribbble.com/shots/)
+
++ [Nature Backs T-Shirt Illustration](https://dribbble.com/shots/)
+
