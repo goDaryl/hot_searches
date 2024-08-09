@@ -133,3 +133,17 @@
 
 + [开发商暗示《死亡岛》系列新作或DLC即将公布](https://www.3dmgame.com/news/202408/3901431.html)
 
++ [Take-Two回应FIFA传闻：会在适当的时候发布公告](https://www.3dmgame.com/news/202408/3901443.html)
+
++ [《雾锁王国》玩家数突破300万 计划2025年推出正式版](https://www.3dmgame.com/news/202408/3901442.html)
+
++ [世嘉将在科隆展上公布新作 同时提供现场试玩](https://www.3dmgame.com/news/202408/3901441.html)
+
++ [Netflix动画剧集泄露事件还在扩大 《双城之战》第二季已泄露多集](https://www.3dmgame.com/news/202408/3901440.html)
+
++ [因担忧儿童安全 土耳其封禁罗布乐思](https://www.3dmgame.com/news/202408/3901439.html)
+
++ [《命运2》团队承诺：裁员后仍将继续致力于游戏和社区](https://www.3dmgame.com/news/202408/3901438.html)
+
++ [《战神：诸神黄昏》PC版新截图 画面太震撼了](https://www.3dmgame.com/news/202408/3901437.html)
+

@@ -31,3 +31,5 @@
 
 + [融合 iPad Pro + Apple TV 优势：古尔曼称 Mac mini 将迎来重大设计更新，将成为“苹果有史以来最小的电脑”](https://m.ithome.com/html/787244.htm)
 
++ [消息称比亚迪将采购华为智驾系统，用在方程豹“豹 8”新款越野车](https://m.ithome.com/html/787238.htm)
+
