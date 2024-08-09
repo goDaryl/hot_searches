@@ -49,3 +49,5 @@
 
 + [电动汽车充电基础设施安全性分析：OCPP后端漏洞](https://www.freebuf.com/vuls/407762.html)
 
++ [古早漏洞“再现”！谷歌、Safari、火狐等主流浏览器数百万用户受到潜在攻击](https://www.freebuf.com/news/408169.html)
+
