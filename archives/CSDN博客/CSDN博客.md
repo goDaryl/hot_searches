@@ -113,3 +113,19 @@
 
 + [数学建模--蒙特卡洛算法之电子管更换&&刀片寿命问题](https://blog.csdn.net/binhyun/article/details/141036257)
 
++ [【Linux】文件系统和软硬链接](https://blog.csdn.net/qq_48460693/article/details/137384647)
+
++ [Spring的设计模式----工厂模式及对象代理](https://blog.csdn.net/m0_74002833/article/details/141001529)
+
++ [四种推荐算法——Embedding+MLP、Wide&Deep、DeepFM、NeuralCF](https://blog.csdn.net/m0_59704905/article/details/140993147)
+
++ [SpringBoot 自动装配原理](https://blog.csdn.net/tian330726/article/details/141039133)
+
++ [Spring用了哪些设计模式？](https://blog.csdn.net/Kenard/article/details/141034310)
+
++ [Spring Boot整合SA-Token的使用详解](https://blog.csdn.net/hai40587/article/details/141018741)
+
++ [Android Fragment：详解，结合真实开发场景Navigation](https://blog.csdn.net/qq_40853919/article/details/140959410)
+
++ [怎么在 React Native 应用中处理深度链接？](https://blog.csdn.net/pantouyuchiyu/article/details/140976059)
+
