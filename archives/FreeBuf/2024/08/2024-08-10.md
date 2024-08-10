@@ -43,3 +43,5 @@
 
 + [XSLT注入Apache Wicket中远程代码执行漏洞(CVE-2024-36522)](https://www.freebuf.com/vuls/407745.html)
 
++ [FreeBuf 周报 | CrowdStrike发布蓝屏事件调查报告；微软AI助手安全隐患曝光](https://www.freebuf.com/news/408247.html)
+
