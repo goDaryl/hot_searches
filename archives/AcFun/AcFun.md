@@ -111,3 +111,11 @@
 
 + [钛合金厕纸必追！粤语版《杖与剑的魔剑谭》「Fire and Fea」【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac45991373)
 
++ [《一路向北》](http://www.acfun.cn/v/ac46078902)
+
++ [无拉腿 原声 透明高跟](http://www.acfun.cn/v/ac46071799)
+
++ [【颜音实况】纸嫁衣⑦无间梦境·卿不负（共五章，已完结）国产恐怖解谜](http://www.acfun.cn/v/ac46076223)
+
++ [【生日回录播】又长大0.1岁！](http://www.acfun.cn/v/ac46075105)
+
