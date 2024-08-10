@@ -149,3 +149,11 @@
 
 + [python自动化笔记：os模块和异常处理](https://blog.csdn.net/zhoukeguai/article/details/140987889)
 
++ [基于GeoTools使用JavaFx进行矢量数据可视化实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/141070270)
+
++ [基于数据可视化+SpringBoot+Vue的高校学生知识管理与统计系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/141055245)
+
++ [Matlab|考虑充电负荷空间可调度特性的分布式电源与电动汽车充电站联合配置方法](https://blog.csdn.net/superone89/article/details/141072677)
+
++ [DLMS/COSEM中的信息安全：安全密钥（中）续1](https://blog.csdn.net/huaqianzkh/article/details/141072716)
+
