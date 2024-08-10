@@ -157,3 +157,9 @@
 
 + [DLMS/COSEM中的信息安全：安全密钥（中）续1](https://blog.csdn.net/huaqianzkh/article/details/141072716)
 
++ [Spring Boot 中的 Bean 详解](https://blog.csdn.net/weixin_54425421/article/details/141069440)
+
++ [Android系统安全 — 6.5 Bluetooth安全连接原理](https://blog.csdn.net/qincheng168/article/details/141057996)
+
++ [FPGA开发——IP核的FIFO调用](https://blog.csdn.net/weixin_63553972/article/details/141068972)
+
