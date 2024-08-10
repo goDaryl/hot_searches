@@ -191,3 +191,9 @@
 
 + [Summit Advisors Group LLC - Modern Financial Logo Concept](https://dribbble.com/shots/)
 
++ [BLUEPEAK || Fintech Landing Page Exploration](https://dribbble.com/shots/)
+
++ [Gradient logos](https://dribbble.com/shots/)
+
++ [Sales Dashboard Design Concept](https://dribbble.com/shots/)
+
