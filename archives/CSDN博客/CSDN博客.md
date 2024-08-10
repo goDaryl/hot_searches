@@ -145,3 +145,7 @@
 
 + [新书速览|Python数据可视化:科技图表绘制(送书)](https://blog.csdn.net/quanzhankaifaqua/article/details/141024149)
 
++ [Linux —— 进程信号](https://blog.csdn.net/china_chk/article/details/140443749)
+
++ [python自动化笔记：os模块和异常处理](https://blog.csdn.net/zhoukeguai/article/details/140987889)
+

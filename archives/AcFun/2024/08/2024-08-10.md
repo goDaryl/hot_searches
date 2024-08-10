@@ -69,3 +69,9 @@
 
 + [超可爱超辣！夏日请你吃冰淇淋](http://www.acfun.cn/v/ac46074225)
 
++ [【玩弹】青武酷「Staccato 2011 C2」电动模型｜真击锤结构｜全钢小件](http://www.acfun.cn/v/ac46076268)
+
++ [女主角和偶像｜「和蜻蜓们一起(* ▽ *)」【赫兹】](http://www.acfun.cn/v/ac46075919)
+
++ [《头好痒，要长脑子了》](http://www.acfun.cn/v/ac46075225)
+

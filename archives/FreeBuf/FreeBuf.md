@@ -45,3 +45,7 @@
 
 + [FreeBuf 周报 | CrowdStrike发布蓝屏事件调查报告；微软AI助手安全隐患曝光](https://www.freebuf.com/news/408247.html)
 
++ [攻防演练 | HVV蓝队复盘——总结（向上汇报）](https://www.freebuf.com/defense/374990.html)
+
++ [可造成敏感信息泄露！Spring Boot Actuator信息泄露漏洞三种利用方式总结](https://www.freebuf.com/vuls/407651.html)
+
