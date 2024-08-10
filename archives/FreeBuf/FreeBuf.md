@@ -41,3 +41,5 @@
 
 + [FreeBuf早报 | 迄今为止最大BEC骗局被侦破；法国博物馆奥运期间遭遇网络攻击](https://www.freebuf.com/news/408001.html)
 
++ [XSLT注入Apache Wicket中远程代码执行漏洞(CVE-2024-36522)](https://www.freebuf.com/vuls/407745.html)
+
