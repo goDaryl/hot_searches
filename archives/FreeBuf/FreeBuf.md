@@ -41,3 +41,5 @@
 
 + [挖了这么久才发现，漏洞挖掘可以更简单](https://www.freebuf.com/news/408156.html)
 
++ [触屏交互设备的安全风险](https://www.freebuf.com/vuls/407787.html)
+
