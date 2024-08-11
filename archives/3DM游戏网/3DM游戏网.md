@@ -155,3 +155,17 @@
 
 + [《黑神话：悟空》PC采用D加密 81个成就暗示九九八十一难](https://www.3dmgame.com/news/202408/3901571.html)
 
++ [索尼正在PS商店测试文字评论系统 允许玩家写下评论](https://www.3dmgame.com/news/202408/3901580.html)
+
++ [《星战》剧集《星球大战：骷髅组》发布正式预告](https://www.3dmgame.com/news/202408/3901579.html)
+
++ [GB新游《Super Dassalo Land》公布 2D横版动作](https://www.3dmgame.com/news/202408/3901578.html)
+
++ [传言称NS2或将配备60W充电器 并在底座加入散热器](https://www.3dmgame.com/news/202408/3901577.html)
+
++ [《毁灭战士：黑暗时代》新细节 比之前游戏更加开放](https://www.3dmgame.com/news/202408/3901576.html)
+
++ [庆祝《怪物猎人》系列20周年 优衣库推出T恤打印服务](https://www.3dmgame.com/news/202408/3901575.html)
+
++ [《Torchless》Steam页面上线 复古迷宫探索RPG](https://www.3dmgame.com/news/202408/3901574.html)
+

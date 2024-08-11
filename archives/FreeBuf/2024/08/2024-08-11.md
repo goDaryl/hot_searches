@@ -45,3 +45,7 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/408229.html)
 
++ [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
+
++ [CrowdStrike的库加载和快速升级机制的分析笔记](https://www.freebuf.com/articles/network/407814.html)
+
