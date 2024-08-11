@@ -131,3 +131,7 @@
 
 + [Quuu](https://www.producthunt.com/posts/quuu-ef65029f-c734-4b61-b39b-dab0d62a8226)
 
++ [StatusSight](https://www.producthunt.com/posts/statussight)
+
++ [Salesify](https://www.producthunt.com/posts/salesify)
+
