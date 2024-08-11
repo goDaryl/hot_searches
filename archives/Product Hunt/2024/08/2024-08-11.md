@@ -125,3 +125,7 @@
 
 + [AICamp](https://www.producthunt.com/posts/aicamp)
 
++ [Secure and Encrypted Notes for JSM](https://www.producthunt.com/posts/secure-and-encrypted-notes-for-jsm)
+
++ [zoetroView](https://www.producthunt.com/posts/zoetroview)
+
