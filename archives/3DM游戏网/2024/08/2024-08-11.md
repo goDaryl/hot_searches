@@ -169,3 +169,7 @@
 
 + [《Torchless》Steam页面上线 复古迷宫探索RPG](https://www.3dmgame.com/news/202408/3901574.html)
 
++ [宇宙机器人PS5手柄在欧洲开启预购之后被抢光](https://www.3dmgame.com/news/202408/3901581.html)
+
++ [《信长的野望》游戏讲座8月25日在线发布 生父登场](https://www.3dmgame.com/news/202408/3901582.html)
+

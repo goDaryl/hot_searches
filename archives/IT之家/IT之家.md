@@ -33,3 +33,7 @@
 
 + [网友曝小米二期工厂附近挖出古墓，小米王化称“真实情况在做文勘”](https://m.ithome.com/html/787679.htm)
 
++ [华为耳机楼层定位功能上线：支持 FreeBuds 5i、FreeBuds Pro 3 等型号](https://m.ithome.com/html/787634.htm)
+
++ [OPPO Find X7 Ultra 手机推送 14.0.1.760 版本更新：新增 NFC 通知勿扰等功能](https://m.ithome.com/html/787628.htm)
+
