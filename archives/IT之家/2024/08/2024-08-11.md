@@ -39,3 +39,9 @@
 
 + [6000 万粉丝网红“太原老葛”涉嫌诈骗 900 万元佣金，被警方立案侦查](https://m.ithome.com/html/787684.htm)
 
++ [一对夫妻青海无人区失联 12 小时，通过手机卫星电话获救](https://m.ithome.com/html/787650.htm)
+
++ [小米汽车副总裁李肖爽：SU7 在 7 月交付超 1.3 万台，超特斯拉登顶 20 万以上纯电轿车销量榜](https://m.ithome.com/html/787693.htm)
+
++ [小米 Redmi 投影仪 Lite 绿色版开售：1080P 高清、150 CVIA 流明，799 元](https://m.ithome.com/html/787641.htm)
+

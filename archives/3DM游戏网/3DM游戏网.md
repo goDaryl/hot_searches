@@ -181,3 +181,5 @@
 
 + [《英雄联盟》传奇选手Uzi巴黎全马完赛：5小时41分35秒](https://www.3dmgame.com/news/202408/3901583.html)
 
++ [《Time for Bed》Steam页面上线 恐怖潜行新游](https://www.3dmgame.com/news/202408/3901587.html)
+

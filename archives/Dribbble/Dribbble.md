@@ -180,3 +180,11 @@
 
 + [Ruby's](https://dribbble.com/shots/)
 
++ [Modern U letter Logo , Design, Branding visual Identity](https://dribbble.com/shots/)
+
++ [Ai, biotechnology, sustainable, organic, bot logo and branding](https://dribbble.com/shots/)
+
++ [logo design, play logo, modern logo, media logo](https://dribbble.com/shots/)
+
++ [VioLate Logo & branding design, visual identity](https://dribbble.com/shots/)
+
