@@ -188,3 +188,7 @@
 
 + [VioLate Logo & branding design, visual identity](https://dribbble.com/shots/)
 
++ [Banking Application](https://dribbble.com/shots/)
+
++ [Logo design, tech logo, technology logo, brand identity](https://dribbble.com/shots/)
+
