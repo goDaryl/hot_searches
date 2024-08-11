@@ -149,3 +149,9 @@
 
 + [《哈利波特：魁地奇锦标赛》预告片展示三巫学院](https://www.3dmgame.com/news/202408/3901567.html)
 
++ [《VLADiK BRUTAL》登陆Steam 第一人称FPS](https://www.3dmgame.com/news/202408/3901572.html)
+
++ [漫威动画剧集《假如……?》第三季为最终季](https://www.3dmgame.com/news/202408/3901573.html)
+
++ [《黑神话：悟空》PC采用D加密 81个成就暗示九九八十一难](https://www.3dmgame.com/news/202408/3901571.html)
+

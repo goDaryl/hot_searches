@@ -143,3 +143,5 @@
 
 + [[Qt][信号与槽][下]详细讲解](https://blog.csdn.net/qq_37281656/article/details/141021881)
 
++ [未来已来：探索IT行业的革新与大模型技术的突破](https://blog.csdn.net/2202_75568470/article/details/141095867)
+

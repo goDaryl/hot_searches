@@ -43,3 +43,5 @@
 
 + [触屏交互设备的安全风险](https://www.freebuf.com/vuls/407787.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/408229.html)
+
