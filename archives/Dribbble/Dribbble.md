@@ -130,3 +130,17 @@
 
 + [Freelance Marketplace App](https://dribbble.com/shots/)
 
++ [Lilo and Stitch](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Logotype](https://dribbble.com/shots/)
+
++ [The City is Alive, a Puzzle ????](https://dribbble.com/shots/)
+
++ [DownShift Logotype](https://dribbble.com/shots/)
+
++ [Vino Disco Sauvignon Blanc](https://dribbble.com/shots/)
+
++ [Game boy](https://dribbble.com/shots/)
+
++ [Watchmen (PSE '24)](https://dribbble.com/shots/)
+
