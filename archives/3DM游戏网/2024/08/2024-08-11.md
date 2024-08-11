@@ -173,3 +173,11 @@
 
 + [《信长的野望》游戏讲座8月25日在线发布 生父登场](https://www.3dmgame.com/news/202408/3901582.html)
 
++ [农夫山泉钟睒睒：成为首富对我人生没有改变](https://www.3dmgame.com/news/202408/3901586.html)
+
++ [大话嘉年华首日霸榜长安热搜！何大雷带大家一探究竟！](https://www.3dmgame.com/news/202408/3901585.html)
+
++ [《辐射：伦敦》发布更新 成为GOG兑换速度最快游戏](https://www.3dmgame.com/news/202408/3901584.html)
+
++ [《英雄联盟》传奇选手Uzi巴黎全马完赛：5小时41分35秒](https://www.3dmgame.com/news/202408/3901583.html)
+
