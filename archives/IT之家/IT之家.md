@@ -55,3 +55,5 @@
 
 + [苹果 iPhone 16 / Pro 备货关键期：郑州富士康大量招工，面试 90% 都能通过](https://m.ithome.com/html/787712.htm)
 
++ [比亚迪仰望 U8 加长版谍照曝光：对标路虎揽胜行政加长版](https://m.ithome.com/html/787702.htm)
+
