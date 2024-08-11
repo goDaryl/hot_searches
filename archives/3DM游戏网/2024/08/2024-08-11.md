@@ -219,3 +219,7 @@
 
 + [周鸿祎参加快乐向前冲第4关落水 赛前曾自信放话](https://www.3dmgame.com/news/202408/3901603.html)
 
++ [Valve将会为Steam Link添加手部追踪支持](https://www.3dmgame.com/news/202408/3901607.html)
+
++ [完美收官！巴黎奥运会中国体育代表团拼下91枚奖牌](https://www.3dmgame.com/news/202408/3901606.html)
+

@@ -61,3 +61,5 @@
 
 + [无缘微信手表版？华为商城更改 WATCH FIT 3 智能手表适配说明](https://m.ithome.com/html/787721.htm)
 
++ [赛力斯集团：拟 13.29 亿元收购赛力斯汽车剩余 19.355% 股权，持股比例增至 100%](https://m.ithome.com/html/787757.htm)
+
