@@ -101,3 +101,11 @@
 
 + [elasticsearch集成springboot详细使用](https://blog.csdn.net/crazy123456789/article/details/141091197)
 
++ [代码规范 —— QMQ 开发规范](https://blog.csdn.net/zhengzhaoyang122/article/details/141072544)
+
++ [2024自动驾驶(多模态)大模型综述：从DriveGPT4、DriveMLM到DriveLM、DriveVLM](https://blog.csdn.net/v_JULY_v/article/details/141113628)
+
++ [【javaWeb技术】·外卖点餐小程序（脚手架学习2·脚手架运行）](https://blog.csdn.net/m0_67656158/article/details/141062047)
+
++ [【MySQL】详解数据库约束、聚合查询和联合查询](https://blog.csdn.net/yican2580/article/details/141112435)
+
