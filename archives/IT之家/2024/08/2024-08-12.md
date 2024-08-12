@@ -39,3 +39,5 @@
 
 + [OPPO Find X7 Ultra 升级 760 版本后出现快充失效、充电慢等问题，官方回应“正在解决中”](https://m.ithome.com/html/787768.htm)
 
++ [长城第二代哈弗 H9 最新官图公布，全栈自研全地形系统](https://m.ithome.com/html/787750.htm)
+
