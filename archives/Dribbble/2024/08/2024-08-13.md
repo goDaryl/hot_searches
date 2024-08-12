@@ -102,3 +102,22 @@
 
 + [Watchmen (PSE '24)](https://dribbble.com/shots/)
 
++ [The Little Prince](https://dribbble.com/shots/)
+
++ [The sad show
+腐った](https://dribbble.com/shots/)
+
++ [Let AI blow your mind!](https://dribbble.com/shots/)
+
++ [NYC](https://dribbble.com/shots/)
+
++ [Worms](https://dribbble.com/shots/)
+
++ [Promo Stickers](https://dribbble.com/shots/)
+
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [Zhenya Artemjev Kawaii Illustrator](https://dribbble.com/shots/)
+
++ [Heyo Pattern](https://dribbble.com/shots/)
+
