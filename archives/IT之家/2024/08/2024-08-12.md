@@ -33,3 +33,5 @@
 
 + [“小孩”曾卓君夺得 2024 电竞世界杯《街霸 6》项目冠军，30 万美元收入囊中](https://m.ithome.com/html/787786.htm)
 
++ [抖音商城 iOS 版上线苹果 App Store，此前已上架安卓平台](https://m.ithome.com/html/787770.htm)
+

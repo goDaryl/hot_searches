@@ -164,3 +164,21 @@
 
 + [The Little Prince](https://dribbble.com/shots/)
 
++ [Smart Oil ERP x Dashboard](https://dribbble.com/shots/)
+
++ [Zendenta - Electronic Medical Record in the Patient Mobile App](https://dribbble.com/shots/)
+
++ [Find My Direction](https://dribbble.com/shots/)
+
++ [eCommerce Mobile Responsive](https://dribbble.com/shots/)
+
++ [Ride Sharing Mobile App - Homepage  ????](https://dribbble.com/shots/)
+
++ [Label summit](https://dribbble.com/shots/)
+
++ [Nourify - Health Tracker Mobile App](https://dribbble.com/shots/)
+
++ [Juni Mix](https://dribbble.com/shots/)
+
++ [Detto - Dating Mobile App](https://dribbble.com/shots/)
+
