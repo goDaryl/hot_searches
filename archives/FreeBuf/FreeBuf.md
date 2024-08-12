@@ -41,3 +41,5 @@
 
 + [Volana：一款基于Go开发的Shell命令代码混淆工具](https://www.freebuf.com/sectool/408163.html)
 
++ [CVE-2023-44487漏洞复现](https://www.freebuf.com/vuls/407757.html)
+

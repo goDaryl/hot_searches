@@ -107,3 +107,11 @@
 
 + [两种形态自由切换 《怪物猎人：荒野》盾斧登场](https://www.3dmgame.com/news/202408/3901612.html)
 
++ [《使命召唤21》僵尸模式新截图 爬虫和融合怪让人颤栗](https://www.3dmgame.com/news/202408/3901618.html)
+
++ [爆料者称《黑神话》很棒 但可能不会成为年度游戏](https://www.3dmgame.com/news/202408/3901617.html)
+
++ [消息称任天堂或将在本月举行新一轮直面会](https://www.3dmgame.com/news/202408/3901616.html)
+
++ [《堡垒之夜》最新赛季操作漫威超英决战毁灭博士](https://www.3dmgame.com/news/202408/3901615.html)
+
