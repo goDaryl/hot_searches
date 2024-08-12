@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | AI从暗网收集威胁情报准确率达98%；国内大量家用路由器遭DNS劫持](https://www.freebuf.com/news/408266.html)
 
++ [Java代码审计实战篇：超详细分享文件上传](https://www.freebuf.com/vuls/407781.html)
+

@@ -131,3 +131,21 @@
 
 + [消息称《黑神话》评测代码已发放 8月16日解禁](https://www.3dmgame.com/news/202408/3901619.html)
 
++ [经典风格回合制RPG游戏《龙之谷》现已推出试玩Demo](https://www.3dmgame.com/news/202408/3901630.html)
+
++ [更多Xbox游戏有望继续登陆PlayStation 瞄准“新用户”](https://www.3dmgame.com/news/202408/3901631.html)
+
++ [《海贼王》新系列动画《THE ONE PIECE》策划公开](https://www.3dmgame.com/news/202408/3901632.html)
+
++ [《死侍与金刚狼》全球票房突破10亿美元 即将超越《小丑》](https://www.3dmgame.com/news/202408/3901633.html)
+
++ [卡通风格恋爱模拟游戏《心动小屋》正式推出获多半好评](https://www.3dmgame.com/news/202408/3901634.html)
+
++ [动画《石纪元》最终季2025年开播 分割为三季度](https://www.3dmgame.com/news/202408/3901635.html)
+
++ [《妮姬：胜利女神》宣布联动《新世纪福音战士》 上线时间待定](https://www.3dmgame.com/news/202408/3901627.html)
+
++ [《人格解体》登陆Steam 克苏鲁背景跑团](https://www.3dmgame.com/news/202408/3901628.html)
+
++ [韩国模拟游戏《inZOI》新截图 捏出性感美女玩](https://www.3dmgame.com/news/202408/3901629.html)
+
