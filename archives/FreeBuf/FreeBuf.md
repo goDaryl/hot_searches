@@ -43,3 +43,5 @@
 
 + [CVE-2023-44487漏洞复现](https://www.freebuf.com/vuls/407757.html)
 
++ [FreeBuf早报 | AI从暗网收集威胁情报准确率达98%；国内大量家用路由器遭DNS劫持](https://www.freebuf.com/news/408266.html)
+

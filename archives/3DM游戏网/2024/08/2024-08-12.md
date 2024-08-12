@@ -115,3 +115,19 @@
 
 + [《堡垒之夜》最新赛季操作漫威超英决战毁灭博士](https://www.3dmgame.com/news/202408/3901615.html)
 
++ [战神之父和前暴雪总裁都很期待《黑神话》：太酷想玩](https://www.3dmgame.com/news/202408/3901623.html)
+
++ [《Gunner-chan!》Steam页面上线 2.5D动作射击](https://www.3dmgame.com/news/202408/3901624.html)
+
++ [《无主之地》改编真人电影首映日票房收入仅达400万美元](https://www.3dmgame.com/news/202408/3901625.html)
+
++ [Tango IP《恶灵附身》《幽灵线：东京》仍然归微软所有](https://www.3dmgame.com/news/202408/3901626.html)
+
++ [《星空》陆地越野车实机视频泄漏](https://www.3dmgame.com/news/202408/3901620.html)
+
++ [《魔戒：咕噜》发行商宣布不再与Sweet Baby合作](https://www.3dmgame.com/news/202408/3901621.html)
+
++ [《完美音浪》续作有了？PUBG公司Krafton收购Tango Gameworks](https://www.3dmgame.com/news/202408/3901622.html)
+
++ [消息称《黑神话》评测代码已发放 8月16日解禁](https://www.3dmgame.com/news/202408/3901619.html)
+
