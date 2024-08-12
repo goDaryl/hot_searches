@@ -67,3 +67,5 @@
 
 + [小米有品 469 元：小米 Redmi 显示器 A24 百亿补贴 399 元](https://m.ithome.com/html/787936.htm)
 
++ [股价闪崩，华为终止合作？科大讯飞回应称“一直保持长期良好合作”](https://m.ithome.com/html/787976.htm)
+
