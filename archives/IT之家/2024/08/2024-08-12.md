@@ -57,3 +57,5 @@
 
 + [零刻 GTi12 UItra 迷你主机开售：i9-12900H + 双 2.5G 网口，2599 元起](https://m.ithome.com/html/787767.htm)
 
++ [龙芯中科胡伟武：3B6600 八核桌面 CPU 性能将达到英特尔中高端酷睿 12~13 代水平](https://m.ithome.com/html/787794.htm)
+

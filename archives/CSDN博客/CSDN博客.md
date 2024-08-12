@@ -197,3 +197,9 @@
 
 + [Springboot 定时任务 @EnableScheduling @Scheduled](https://blog.csdn.net/qq_42572322/article/details/141098645)
 
++ [本地部署Code Llama大模型结合Text generation Web UI远程运行LLM](https://blog.csdn.net/qyj19920704/article/details/141134400)
+
++ [3.Vue(组件+路由+跨域请求)](https://blog.csdn.net/m0_61086522/article/details/141093445)
+
++ [tcpdump 与 wireshark 抓包分析](https://blog.csdn.net/u013669912/article/details/141095520)
+
