@@ -135,3 +135,5 @@
 
 + [【大学物理】第7章 机械波，平面简谐波的方程，能流密度，惠更斯原理，波的叠加原理，波的干涉，驻波，多普勒原理（清华大学）](https://blog.csdn.net/persona5joker/article/details/140730211)
 
++ [【Spark集群部署系列二】Spark StandAlone模式介绍和搭建以及使用](https://blog.csdn.net/qq_65231448/article/details/141137410)
+
