@@ -189,3 +189,23 @@
 
 + [恐怖游戏《野狗子》全新截图 诡异红色面具人](https://www.3dmgame.com/news/202408/3901694.html)
 
++ [Meta深化与环球音乐合作 遏制AI音乐影响](https://www.3dmgame.com/news/202408/3901711.html)
+
++ [模拟经营类游戏《工业大亨4.0》将于8月23日开启公开测试 现已开放资格申请](https://www.3dmgame.com/news/202408/3901712.html)
+
++ [由于版权归属问题 《仙剑奇侠传》开发商LOGO变更](https://www.3dmgame.com/news/202408/3901710.html)
+
++ [《红色沙漠》科隆游戏展试玩细节公布 四种Boss战可选](https://www.3dmgame.com/news/202408/3901709.html)
+
++ [像素风动作射击游戏《Nitro Express》Steam页面上线 明年发售](https://www.3dmgame.com/news/202408/3901708.html)
+
++ [Steam《猫咪游戏特卖》节启动 多款新旧游戏优惠](https://www.3dmgame.com/news/202408/3901707.html)
+
++ [《刺客信条：影》女主跑酷片段发布 被批动作太飘](https://www.3dmgame.com/news/202408/3901706.html)
+
++ [俯视角射击游戏《格杀勿论》现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202408/3901705.html)
+
++ [黑曜石总监表示《博德之门3》的成功并不意味着他将主导《永恒之柱》的续作](https://www.3dmgame.com/news/202408/3901704.html)
+
++ [《潜行者2》发售后将有两个付费故事DLC](https://www.3dmgame.com/news/202408/3901703.html)
+
