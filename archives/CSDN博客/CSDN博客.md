@@ -187,3 +187,11 @@
 
 + [SpringBoot中整合RabbitMQ（测试+部署上线 最完整）](https://blog.csdn.net/qq_73440769/article/details/141097086)
 
++ [掌握 PyTorch 张量乘法：八个关键函数与应用场景对比解析](https://blog.csdn.net/m0_46510245/article/details/141156123)
+
++ [微服务保护（Sentinel，请求限流，线程隔离，降级策略，熔断处理）](https://blog.csdn.net/m0_73966521/article/details/141124514)
+
++ [Elasticsearch：使用 ES|QL 进行地理空间搜索](https://blog.csdn.net/UbuntuTouch/article/details/141155925)
+
++ [基于数据可视化+SpringBoot+Vue的社区邻里服务平台设计和实现(2025最新项目-源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/141155356)
+
