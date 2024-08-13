@@ -57,3 +57,7 @@
 
 + [专访非夕机器人刘歆轶 | 从“海员”到“安全负责人”，他是怎么做到的？](https://www.freebuf.com/articles/people/406312.html)
 
++ [攻防演练中的IPv6（上）针对IPv6的扫描与攻击](https://www.freebuf.com/defense/378522.html)
+
++ [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
+
