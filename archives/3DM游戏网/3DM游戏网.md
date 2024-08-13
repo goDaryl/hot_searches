@@ -295,3 +295,7 @@
 
 + [超迷你游戏机Thumby Color开启众筹 酷似GBA微缩版](https://www.3dmgame.com/news/202408/3901754.html)
 
++ [东芝发布S300 Pro系列 新一代CMR监控机械硬盘](https://www.3dmgame.com/news/202408/3901757.html)
+
++ [中世纪奇幻策略角色扮演游戏《十字军圣战团》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202408/3901756.html)
+
