@@ -263,3 +263,19 @@
 
 + [恋爱养成游戏《恶役大小姐不干啦》Steam页面上线 明年发售](https://www.3dmgame.com/news/202408/3901739.html)
 
++ [对美国有威胁！周鸿祎：360每年花30亿养安全专家 确实不赚钱](https://www.3dmgame.com/news/202408/3901745.html)
+
++ [《怪物猎人：荒野》轻弩炮介绍 2025年正式发售](https://www.3dmgame.com/news/202408/3901747.html)
+
++ [Steam最新一周销量榜 《黑神话：悟空》登顶](https://www.3dmgame.com/news/202408/3901746.html)
+
++ [《盗日求生》Steam抢先体验 生存恐怖战术撤离射击](https://www.3dmgame.com/news/202408/3901744.html)
+
++ [曝《最后生还者》多人游戏开发4年 取消后导致高层下台](https://www.3dmgame.com/news/202408/3901743.html)
+
++ [动作游戏《羽袈流》Steam页面上线 9月3日发售](https://www.3dmgame.com/news/202408/3901742.html)
+
++ [滚导介绍新《超人》制作最新进展 他个人预计将不会有任何重拍](https://www.3dmgame.com/news/202408/3901741.html)
+
++ [《无主之地》电影被知名烂片导演乌维·鲍尔发文嘲讽：我的电影比这个赚钱](https://www.3dmgame.com/news/202408/3901740.html)
+
