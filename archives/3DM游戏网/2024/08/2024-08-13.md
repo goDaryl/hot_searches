@@ -287,3 +287,11 @@
 
 + [敖厂长再次锐评《黑神话：悟空》：优化翻车概率20%](https://www.3dmgame.com/news/202408/3901748.html)
 
++ [我国2024年快递业务量突破1000亿件！你贡献了多少](https://www.3dmgame.com/news/202408/3901755.html)
+
++ [不落后中美！印度：我们要快实现载人登陆月球 这是最新时间表](https://www.3dmgame.com/news/202408/3901752.html)
+
++ [历史首次！小米平板跃居全球第四：出货暴增138%](https://www.3dmgame.com/news/202408/3901753.html)
+
++ [超迷你游戏机Thumby Color开启众筹 酷似GBA微缩版](https://www.3dmgame.com/news/202408/3901754.html)
+
