@@ -181,3 +181,9 @@
 
 + [【网络】从零认识IPv4](https://blog.csdn.net/2301_79796701/article/details/141123061)
 
++ [【人工智能】Transformers之Pipeline（九）：物体检测（object-detection）](https://blog.csdn.net/weixin_48007632/article/details/141072960)
+
++ [AIGC引领未来：搜索引擎、广告系统与推荐系统的重塑与革新](https://blog.csdn.net/qq_32682301/article/details/141156127)
+
++ [SpringBoot中整合RabbitMQ（测试+部署上线 最完整）](https://blog.csdn.net/qq_73440769/article/details/141097086)
+
