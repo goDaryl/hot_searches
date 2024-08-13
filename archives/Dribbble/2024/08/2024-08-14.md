@@ -50,3 +50,49 @@
 
 + [Bento Beatitudes | 2](https://dribbble.com/shots/)
 
++ [Working Relief Wordmark](https://dribbble.com/shots/)
+
++ [99finder — Brand Identity](https://dribbble.com/shots/)
+
++ [Minibricks.co Site Development](https://dribbble.com/shots/)
+
++ [Brainy About Bears](https://dribbble.com/shots/)
+
++ [Illustration Team](https://dribbble.com/shots/)
+
++ [Sidebar Prototype](https://dribbble.com/shots/)
+
++ [Zephyr Crypto Trading Webapp](https://dribbble.com/shots/)
+
++ [—From Archive (Pt. 3)](https://dribbble.com/shots/)
+
++ [Day 0](https://dribbble.com/shots/)
+
++ [Sounds Mobile App: animation](https://dribbble.com/shots/)
+
++ [Zenpay - Finance Landing Page](https://dribbble.com/shots/)
+
++ [Padmasana - Yoga and Meditation  Website Exploration](https://dribbble.com/shots/)
+
++ [Summer Athletics](https://dribbble.com/shots/)
+
++ [Eyeball Branding](https://dribbble.com/shots/)
+
++ [Bento Cards](https://dribbble.com/shots/)
+
++ [Espresso yourself](https://dribbble.com/shots/)
+
++ [VR Vision Landing Page](https://dribbble.com/shots/)
+
++ [Pickle - Illustrations](https://dribbble.com/shots/)
+
++ [Tiger sketch](https://dribbble.com/shots/)
+
++ [IdeaPilot AI - Onboarding design for AI-powered SaaS platform](https://dribbble.com/shots/)
+
++ [Cacao Bean](https://dribbble.com/shots/)
+
++ [Focus widget for OS launcher](https://dribbble.com/shots/)
+
++ [WILD.CODES web design](https://dribbble.com/shots/)
+
