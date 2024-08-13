@@ -41,3 +41,5 @@
 
 + [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
 
++ [盘点危及“基础服务”的10大数据泄露事件](https://www.freebuf.com/news/408126.html)
+
