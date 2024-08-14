@@ -120,3 +120,33 @@
 
 + [White Crow](https://dribbble.com/shots/)
 
++ [Satellite Dish](https://dribbble.com/shots/)
+
++ [Heyo Pattern](https://dribbble.com/shots/)
+
++ [Crafty icons and illustrations](https://dribbble.com/shots/)
+
++ [*MM](https://dribbble.com/shots/)
+
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [Guess What?](https://dribbble.com/shots/)
+
++ [Development Illustration](https://dribbble.com/shots/)
+
++ [Good Things Take Time. Time Takes Good Things.](https://dribbble.com/shots/)
+
++ [Beauty](https://dribbble.com/shots/)
+
++ [Shape Studies: 083](https://dribbble.com/shots/)
+
++ [Don't Fly Too Close](https://dribbble.com/shots/)
+
++ [Sk8r boi ????](https://dribbble.com/shots/)
+
++ [Watchmen (PSE '24)](https://dribbble.com/shots/)
+
++ [Lilo and Stitch](https://dribbble.com/shots/)
+
++ [Balcony](https://dribbble.com/shots/)
+

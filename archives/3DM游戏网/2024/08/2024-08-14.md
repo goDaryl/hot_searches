@@ -117,3 +117,9 @@
 
 + [《七龙珠 电光炸裂！ZERO》发布人造人篇预告](https://www.3dmgame.com/news/202408/3901767.html)
 
++ [近50%的英国玩家愿意为《GTA6》升级游戏主机](https://www.3dmgame.com/news/202408/3901777.html)
+
++ [国外评论家称《黑神话》PC版有性能问题 还有卡顿现象](https://www.3dmgame.com/news/202408/3901776.html)
+
++ [开发商被告知明年4月前不会发售任天堂Switch 2](https://www.3dmgame.com/news/202408/3901775.html)
+
