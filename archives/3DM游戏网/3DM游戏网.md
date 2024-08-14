@@ -261,3 +261,11 @@
 
 + [传《GTA6》第二部预告将在年底前发布 聚焦于男主](https://www.3dmgame.com/news/202408/3901841.html)
 
++ [“SEGA 八月精选促销”进行中 《足球经理2024》及《人中之龙０》加入促销行列](https://www.3dmgame.com/news/202408/3901850.html)
+
++ [高玩达成《宝可梦：红绿》速通新记录 一人同时玩两游戏](https://www.3dmgame.com/news/202408/3901849.html)
+
++ [视觉小说《约会大作战：莲 反乌托邦》Steam版9月6日发售 支持中文](https://www.3dmgame.com/news/202408/3901848.html)
+
++ [《刺客信条：影》制作人：游戏开发最佳时长为4年](https://www.3dmgame.com/news/202408/3901847.html)
+
