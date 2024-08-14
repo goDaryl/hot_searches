@@ -214,3 +214,29 @@
 
 + [The blue](https://dribbble.com/shots/)
 
++ [Give me Peace - Vector Art](https://dribbble.com/shots/)
+
++ [Website for a Travel Company](https://dribbble.com/shots/)
+
++ [Nori Logomark](https://dribbble.com/shots/)
+
++ [Red Ranger](https://dribbble.com/shots/)
+
++ [Fintech - Component](https://dribbble.com/shots/)
+
++ [Note AI - Recruitment Landing Page](https://dribbble.com/shots/)
+
++ [Cozy Cabin](https://dribbble.com/shots/)
+
++ [Crypto Wallet - CPU Animation - Zklock](https://dribbble.com/shots/)
+
++ [Uncut - Hair Salon](https://dribbble.com/shots/)
+
++ [Galaxy charging shape 3D by Milkinside](https://dribbble.com/shots/)
+
++ [Web Team Illustration](https://dribbble.com/shots/)
+
++ [AI-powered mood monitoring: illustrations](https://dribbble.com/shots/)
+
++ [Local Community Mobile App](https://dribbble.com/shots/)
+
