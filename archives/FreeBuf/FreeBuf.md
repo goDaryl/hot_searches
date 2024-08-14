@@ -45,3 +45,9 @@
 
 + [FreeBuf早报 | 大规模网络钓鱼活动冒充国家安全局；特朗普竞选团队在大选期间被黑](https://www.freebuf.com/news/408517.html)
 
++ [严重的SAP漏洞可让攻击者绕过身份验证破坏企业系统](https://www.freebuf.com/news/408588.html)
+
++ [实践分享 | 以多种注入类漏洞分析挖掘与防御逻辑](https://www.freebuf.com/articles/system/407861.html)
+
++ [FreeBuf早报 | 网络钓鱼活动冒充乌克兰国家安全局；特朗普竞选团队在大选期间被黑](https://www.freebuf.com/news/408517.html)
+
