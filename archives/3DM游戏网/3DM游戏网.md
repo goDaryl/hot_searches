@@ -273,3 +273,5 @@
 
 + [PC迎来大变化 传统电脑加速淘汰：AI PC换机潮来了](https://www.3dmgame.com/news/202408/3901851.html)
 
++ [谷歌正式发布Pixel 9系列 支持卫星SOS功能](https://www.3dmgame.com/news/202408/3901853.html)
+
