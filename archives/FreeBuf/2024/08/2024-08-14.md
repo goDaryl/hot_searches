@@ -51,3 +51,5 @@
 
 + [FreeBuf早报 | 网络钓鱼活动冒充乌克兰国家安全局；特朗普竞选团队在大选期间被黑](https://www.freebuf.com/news/408517.html)
 
++ [Microsoft Azure Health 曝出严重漏洞，可能导致横向移动](https://www.freebuf.com/news/408573.html)
+
