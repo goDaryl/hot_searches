@@ -243,3 +243,9 @@
 
 + [黑曜石工作室CEO：《天外世界2》开发进展非常顺利](https://www.3dmgame.com/news/202408/3901824.html)
 
++ [日服Switch Online会员免费试玩《人类一败涂地》 8月19日开启](https://www.3dmgame.com/news/202408/3901838.html)
+
++ [《怪物猎人：荒野》单手剑介绍 2025年正式发售](https://www.3dmgame.com/news/202408/3901839.html)
+
++ [网禅公布MMO新游《龙猎之歌》 预定登陆手游与PC](https://www.3dmgame.com/news/202408/3901840.html)
+
