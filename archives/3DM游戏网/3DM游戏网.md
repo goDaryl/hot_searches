@@ -123,3 +123,9 @@
 
 + [开发商被告知明年4月前不会发售任天堂Switch 2](https://www.3dmgame.com/news/202408/3901775.html)
 
++ [《虚幻大圣之悟空腾挪》在Steam发售 仅售16.66元](https://www.3dmgame.com/news/202408/3901780.html)
+
++ [科隆展开幕之夜直播将会公布多个新游戏](https://www.3dmgame.com/news/202408/3901779.html)
+
++ [育碧想效仿对马岛 让《刺客信条：影》吸引更多日本玩家](https://www.3dmgame.com/news/202408/3901778.html)
+
