@@ -249,3 +249,15 @@
 
 + [网禅公布MMO新游《龙猎之歌》 预定登陆手游与PC](https://www.3dmgame.com/news/202408/3901840.html)
 
++ [《黑神话》测试工具光追开/关画面对比 快来找差别](https://www.3dmgame.com/news/202408/3901846.html)
+
++ [微信月活账户高达13.7亿 经典QQ仅5.7亿](https://www.3dmgame.com/news/202408/3901845.html)
+
++ [《黄金树幽影》1级速通挑战大赛结束 第一名获4千美元奖金](https://www.3dmgame.com/news/202408/3901844.html)
+
++ [中国市场出货排第三！华为手机二季度收益、平均售价创历史新高](https://www.3dmgame.com/news/202408/3901843.html)
+
++ [夏季奥运会进入洛杉矶时间：2028年奥运新增5大项目](https://www.3dmgame.com/news/202408/3901842.html)
+
++ [传《GTA6》第二部预告将在年底前发布 聚焦于男主](https://www.3dmgame.com/news/202408/3901841.html)
+
