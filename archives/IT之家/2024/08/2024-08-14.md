@@ -45,3 +45,7 @@
 
 + [支付宝中国技术部负责人妙才被曝离职](https://m.ithome.com/html/788334.htm)
 
++ [谷歌年度机皇 Pixel 9 系列手机发布：搭载 Tensor G4，提供 7 年 OTA 更新](https://m.ithome.com/html/788285.htm)
+
++ [1500 元帮写学术项目代码完成后却遭恶意退款：学校回应“查无此人”、家长称“会进行赔付”](https://m.ithome.com/html/788192.htm)
+
