@@ -141,3 +141,13 @@
 
 + [数模竞赛算法讲解（评价类算法）](https://blog.csdn.net/morning_____/article/details/140542604)
 
++ [【AI 大模型】RAG 检索增强生成 ② ( 关键字检索 | 向量检索 | 向量简介 | 二维空间向量计算示例 | 文本向量 - 重点 ★★ | 文本向量示例 )](https://blog.csdn.net/han1202012/article/details/141122969)
+
++ [计算机网络——HTTP协议详解（上）](https://blog.csdn.net/m0_73243771/article/details/141158670)
+
++ [Docker数据管理和网络管理](https://blog.csdn.net/xiaogengtongxu/article/details/140930534)
+
++ [基于Hadoop的网购笔记本电脑大数据分析与可视化系统](https://blog.csdn.net/weixin_47723732/article/details/141137490)
+
++ [SpringCloud天机学堂：学习计划与进度（四）](https://blog.csdn.net/weixin_53961667/article/details/141174495)
+
