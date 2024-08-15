@@ -259,3 +259,7 @@
 
 + [《雷霆一击》社区举办慈善竞赛 为患癌玩家筹集药费](https://www.3dmgame.com/news/202408/3901928.html)
 
++ [腾讯承认：正与苹果就iOS微信小游戏收入事宜进行谈判](https://www.3dmgame.com/news/202408/3901941.html)
+
++ [复古游戏订阅服务Antstream Arcade即将登陆PS4和PS5](https://www.3dmgame.com/news/202408/3901942.html)
+

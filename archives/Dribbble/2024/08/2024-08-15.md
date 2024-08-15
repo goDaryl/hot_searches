@@ -212,3 +212,29 @@
 
 + [Z - Unused](https://dribbble.com/shots/)
 
++ [WYM/8 Branding for an Online Store of Men's Clothing](https://dribbble.com/shots/)
+
++ [Music Streaming App. Part 2](https://dribbble.com/shots/)
+
++ [Logo Alphabet Collection](https://dribbble.com/shots/)
+
++ [Real Estate Landing page](https://dribbble.com/shots/)
+
++ [Fintech Mobile App UI Design](https://dribbble.com/shots/)
+
++ [Sayki - To-Do List App UI Motion Exploration](https://dribbble.com/shots/)
+
++ [Marketing Agency Mobile Website](https://dribbble.com/shots/)
+
++ [C mark](https://dribbble.com/shots/)
+
++ [Nature Outlook Cover](https://dribbble.com/shots/)
+
++ [Hiring](https://dribbble.com/shots/)
+
++ [Summit Advisors Group LLC](https://dribbble.com/shots/)
+
++ [SimpleList - Landing Page](https://dribbble.com/shots/)
+
++ [Colfax Ophthalmology logo](https://dribbble.com/shots/)
+
