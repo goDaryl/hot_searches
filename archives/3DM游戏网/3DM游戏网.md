@@ -263,3 +263,7 @@
 
 + [复古游戏订阅服务Antstream Arcade即将登陆PS4和PS5](https://www.3dmgame.com/news/202408/3901942.html)
 
++ [富士康回归中国河南！印度 你是真的不行啊！](https://www.3dmgame.com/news/202408/3901944.html)
+
++ [联想杨元庆：AI绝不是泡沫 不要千军万马走大模型独木桥](https://www.3dmgame.com/news/202408/3901943.html)
+
