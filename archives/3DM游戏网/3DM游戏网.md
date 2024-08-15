@@ -217,3 +217,11 @@
 
 + [《天国：拯救2》官宣2025年2月11日发售 科隆游戏展将首爆实机演示](https://www.3dmgame.com/news/202408/3901916.html)
 
++ [《龙腾世纪：影障守护者》广告泄露游戏将于10月31日发售 预购即将开启](https://www.3dmgame.com/news/202408/3901920.html)
+
++ [《精英阴阳师Miko》Steam试玩发布 肉鸽动作射击](https://www.3dmgame.com/news/202408/3901921.html)
+
++ [沉浸式模拟游戏《火车场建造者》发售日公布 2024年9月17日推出](https://www.3dmgame.com/news/202408/3901922.html)
+
++ [大量《命运2》玩家被强制改名 且无法换回原名](https://www.3dmgame.com/news/202408/3901923.html)
+

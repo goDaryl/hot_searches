@@ -47,3 +47,7 @@
 
 + [小鹏 MONA M03 车型 8 月 27 日正式上市，起售价不超过 13.59 万元](https://m.ithome.com/html/788502.htm)
 
++ [雷军：小米 SU7 Max 交付进一步加速，新下定用户可提前 6 周提车](https://m.ithome.com/html/788534.htm)
+
++ [神秘大型豪华轿车谍照曝光：有望为鸿蒙智行尊界，支持后轮转向](https://m.ithome.com/html/788564.htm)
+
