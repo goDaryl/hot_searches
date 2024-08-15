@@ -248,3 +248,11 @@
 
 + [Vector Software](https://dribbble.com/shots/)
 
++ [Trading Webapp - F&O - FinTech](https://dribbble.com/shots/)
+
++ [Gradient Abstract Art](https://dribbble.com/shots/)
+
++ [Besnard - Fashion Ecommerce Minimalist Modern Website Collection](https://dribbble.com/shots/)
+
++ [Panda Character Mascot](https://dribbble.com/shots/)
+
