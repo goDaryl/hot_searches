@@ -101,3 +101,21 @@
 
 + [Adobe Live x The Creative Pain](https://dribbble.com/shots/)
 
++ [Lo-Fi Bear Print: Part Two](https://dribbble.com/shots/)
+
++ [Give me Peace - Vector Art](https://dribbble.com/shots/)
+
++ [Crafty icons and illustrations](https://dribbble.com/shots/)
+
++ [Harley-Davidson Homecoming 2024 Posters](https://dribbble.com/shots/)
+
++ [Azzip Pizza - Create Something Delicious](https://dribbble.com/shots/)
+
++ [Good Things Take Time. Time Takes Good Things.](https://dribbble.com/shots/)
+
++ [Beauty](https://dribbble.com/shots/)
+
++ [Summer Athletics](https://dribbble.com/shots/)
+
++ [Essay contest](https://dribbble.com/shots/)
+
