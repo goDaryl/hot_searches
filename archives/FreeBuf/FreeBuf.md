@@ -55,3 +55,7 @@
 
 + [刚刚，GitHub 遭遇全球宕机，Copilot 也瘫痪了！开发者：今天可以光明正大摸鱼了](https://www.freebuf.com/news/408688.html)
 
++ [攻防演练 | 安全编排自动化响应SOAR项目记录](https://www.freebuf.com/articles/es/399232.html)
+
++ [Windows TCP IP漏洞影响所有启用IPv6的系统，立即打补丁](https://www.freebuf.com/news/408681.html)
+
