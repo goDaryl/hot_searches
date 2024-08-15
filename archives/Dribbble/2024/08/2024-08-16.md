@@ -119,3 +119,20 @@
 
 + [Essay contest](https://dribbble.com/shots/)
 
++ [Icecream](https://dribbble.com/shots/)
+
++ [The Little Prince](https://dribbble.com/shots/)
+
++ [Aline has cat "Ala ma kota" (PSE '24)](https://dribbble.com/shots/)
+
++ [Shape Studies: 083](https://dribbble.com/shots/)
+
++ [Bitesized Socials](https://dribbble.com/shots/)
+
++ [Secret Project 001](https://dribbble.com/shots/)
+
++ ["You love to sing"
+つづく](https://dribbble.com/shots/)
+
++ [Working Relief Wordmark](https://dribbble.com/shots/)
+
