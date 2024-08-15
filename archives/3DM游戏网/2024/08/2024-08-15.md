@@ -157,3 +157,15 @@
 
 + [VR游戏椅Roto VR Explorer解决晕游戏问题](https://www.3dmgame.com/news/202408/3901870.html)
 
++ [华为Mate 60系列全系官降 最高降价800元](https://www.3dmgame.com/news/202408/3901890.html)
+
++ [《妙探闯通关：魔鬼剧场》重制版现已正式推出并获好评](https://www.3dmgame.com/news/202408/3901891.html)
+
++ [曝《异形：夺命舰》8月16日在内地上映 一刀未剪](https://www.3dmgame.com/news/202408/3901892.html)
+
++ [欧美服PS Plus二档三档会员8月新入库游戏公布：《巫师3》领衔](https://www.3dmgame.com/news/202408/3901893.html)
+
++ [Steam新规：9月起不允许商店页面文本包含外部链接](https://www.3dmgame.com/news/202408/3901894.html)
+
++ [图森进军AI 打造《三体》系列电影及游戏](https://www.3dmgame.com/news/202408/3901895.html)
+
