@@ -267,3 +267,5 @@
 
 + [联想杨元庆：AI绝不是泡沫 不要千军万马走大模型独木桥](https://www.3dmgame.com/news/202408/3901943.html)
 
++ [AMD Ryzen 9 9900X/9950X处理器开售 国行价分别为3399/4899元](https://www.3dmgame.com/news/202408/3901945.html)
+

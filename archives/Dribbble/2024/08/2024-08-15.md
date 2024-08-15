@@ -238,3 +238,13 @@
 
 + [Colfax Ophthalmology logo](https://dribbble.com/shots/)
 
++ [Multi Step Form Animation: New Claim Flow (pt.1)](https://dribbble.com/shots/)
+
++ [Monity - Hero Section](https://dribbble.com/shots/)
+
++ [Android Widget for AI phone OS](https://dribbble.com/shots/)
+
++ [Brand Spots - Data Viz](https://dribbble.com/shots/)
+
++ [Vector Software](https://dribbble.com/shots/)
+
