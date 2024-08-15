@@ -225,3 +225,9 @@
 
 + [大量《命运2》玩家被强制改名 且无法换回原名](https://www.3dmgame.com/news/202408/3901923.html)
 
++ [米哈游招聘开发者或制作3A游戏 采用虚幻引擎和写实风格](https://www.3dmgame.com/news/202408/3901925.html)
+
++ [《辐射》真人剧中有个创作团队都不知道的彩蛋 但玩家一眼就发现](https://www.3dmgame.com/news/202408/3901926.html)
+
++ [48亿现金收购Silo AI后 AMD在欧洲市场有望超过NVIDIA](https://www.3dmgame.com/news/202408/3901924.html)
+
