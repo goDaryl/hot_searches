@@ -51,3 +51,7 @@
 
 + [GitHub Actions 遭利用，14个热门开源项目令牌泄露风险激增](https://www.freebuf.com/news/408680.html)
 
++ [基于亚马逊语音助手的物联网命令劫持](https://www.freebuf.com/vuls/408166.html)
+
++ [刚刚，GitHub 遭遇全球宕机，Copilot 也瘫痪了！开发者：今天可以光明正大摸鱼了](https://www.freebuf.com/news/408688.html)
+
