@@ -49,3 +49,5 @@
 
 + [霸王茶姬招人啦](https://www.freebuf.com/news/408678.html)
 
++ [GitHub Actions 遭利用，14个热门开源项目令牌泄露风险激增](https://www.freebuf.com/news/408680.html)
+

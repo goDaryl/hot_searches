@@ -170,3 +170,11 @@
 
 + [Breathing Practices Application](https://dribbble.com/shots/)
 
++ [Nike Sneaker Illustration????????](https://dribbble.com/shots/)
+
++ [Mascot design](https://dribbble.com/shots/)
+
++ [Lilo and Stitch](https://dribbble.com/shots/)
+
++ [Nomad Outdoor - Apparel Graphic](https://dribbble.com/shots/)
+
