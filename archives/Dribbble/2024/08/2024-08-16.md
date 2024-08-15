@@ -146,3 +146,11 @@
 
 + [Feeling like a Puppet](https://dribbble.com/shots/)
 
++ [Emorabilia Vol. I](https://dribbble.com/shots/)
+
++ [Gulls & Friends.](https://dribbble.com/shots/)
+
++ [The blue](https://dribbble.com/shots/)
+
++ [Development Illustration](https://dribbble.com/shots/)
+
