@@ -175,3 +175,49 @@
 
 + [《夺宝奇兵：古老之圈》不会延期 仍将在今年内推出](https://www.3dmgame.com/news/202408/3901965.html)
 
++ [最新游戏技术报告：开发者目前面临最大困难是缺乏投资](https://www.3dmgame.com/news/202408/3901990.html)
+
++ [云游戏平台Blacknut与育碧达成合作 提供育碧旗下游戏](https://www.3dmgame.com/news/202408/3901991.html)
+
++ [任天堂真爱粉 在线服务关闭4个月后 3DS仍有1名玩家坚持在线](https://www.3dmgame.com/news/202408/3901992.html)
+
++ [传奇影业宣布推出金刚IP新游戏《金刚：生存本能》 年内发售](https://www.3dmgame.com/news/202408/3901993.html)
+
++ [钓鱼冒险游戏《渔帆暗涌》全新DLC“铁岛深渊”正式推出获特别好评](https://www.3dmgame.com/news/202408/3901984.html)
+
++ [《Scriptorium》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3901985.html)
+
++ [城堡建造游戏《林间小世界》宣布9月23日发售 登陆Steam](https://www.3dmgame.com/news/202408/3901986.html)
+
++ [Embracer财报：没新游戏 第一季度销售额大幅下降](https://www.3dmgame.com/news/202408/3901987.html)
+
++ [英伟达《黑神话》专属驱动下周发布 这待遇国产游戏第一家](https://www.3dmgame.com/news/202408/3901988.html)
+
++ [《亚利桑那阳光 重制版》Steam页面上线 10月18日发售](https://www.3dmgame.com/news/202408/3901989.html)
+
++ [《杀手3 VR：重装上阵》公布新预告 将登录Meta Quest 3平台](https://www.3dmgame.com/news/202408/3901975.html)
+
++ [硬核战术游戏《CORRUPTION 2029》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3901976.html)
+
++ [《女神异闻录３：Reload》“埃癸斯篇”新预告 9月10日上线](https://www.3dmgame.com/news/202408/3901973.html)
+
++ [《inZOI》发售时将获得官方Mod支持 与Overwolf合作](https://www.3dmgame.com/news/202408/3901977.html)
+
++ [限时免费！《猎杀：对决》史诗级更新，Steam免费周末即刻体验](https://www.3dmgame.com/news/202408/3901978.html)
+
++ [开放世界生存建造游戏《反抗黎明》现已抢先体验推出 获特别好评](https://www.3dmgame.com/news/202408/3901980.html)
+
++ [9月17日，《勇敢小骑士》跳出书页，进军电脑屏幕！](https://www.3dmgame.com/news/202408/3901979.html)
+
++ [《Looney Tunes》Steam页面上线 9月28日发售](https://www.3dmgame.com/news/202408/3901981.html)
+
++ [《上古卷轴》新手游《城堡》9月10日全球范围发布](https://www.3dmgame.com/news/202408/3901982.html)
+
++ [科幻动作RPG《新柏林2087》科隆展实机宣传片](https://www.3dmgame.com/news/202408/3901983.html)
+
++ [《侠盗猎车：圣安地列斯》VR重制版已被无限期搁置](https://www.3dmgame.com/news/202408/3901971.html)
+
++ [《绝区零》新角色动画效果 美女大腿抖动让人激动](https://www.3dmgame.com/news/202408/3901972.html)
+
++ [《使命召唤：现代战争重制版》备受期待Mod被动视勒令禁止发布](https://www.3dmgame.com/news/202408/3901974.html)
+
