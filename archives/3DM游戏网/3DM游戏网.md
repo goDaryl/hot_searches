@@ -161,3 +161,5 @@
 
 + [EA公布《龙腾世纪: 影障守护者》发售日预告](https://www.3dmgame.com/news/202408/3901955.html)
 
++ [《龙腾世纪：影障守护者》上架Steam 国区售价298元](https://www.3dmgame.com/news/202408/3901964.html)
+
