@@ -101,3 +101,11 @@
 
 + [uniapp 微信小程序生成水印图片](https://blog.csdn.net/qq_42618566/article/details/141258106)
 
++ [基于springboot的公交线路查询系统](https://blog.csdn.net/a253399414/article/details/141184588)
+
++ [Dify 开源大语言模型(LLM) 应用开发平台如何使用Docker部署与远程访问](https://blog.csdn.net/m0_68662723/article/details/141227684)
+
++ [【Linux】守护进程:containerd的使用教程](https://blog.csdn.net/smile_sundays/article/details/141193654)
+
++ [基于ssm+vue+uniapp的二手闲置交易市场小程序](https://blog.csdn.net/shmp54/article/details/141231633)
+
