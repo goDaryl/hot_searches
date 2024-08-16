@@ -105,3 +105,9 @@
 
 + [Elevenstudios by ElevenLabs](https://www.producthunt.com/posts/elevenstudios-by-elevenlabs)
 
++ [Life Minute Photos](https://www.producthunt.com/posts/life-minute-photos)
+
++ [Struct2AI](https://www.producthunt.com/posts/struct2ai)
+
++ [Startups Leaderboards](https://www.producthunt.com/posts/startups-leaderboards)
+
