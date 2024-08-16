@@ -109,3 +109,25 @@
 
 + [基于ssm+vue+uniapp的二手闲置交易市场小程序](https://blog.csdn.net/shmp54/article/details/141231633)
 
++ [【机器学习】深度学习实践](https://blog.csdn.net/2301_79181030/article/details/141226970)
+
++ [在亚马逊云科技上部署Llama大模型并开发负责任的AI生活智能助手](https://blog.csdn.net/m0_66628975/article/details/141235096)
+
++ [SolarWinds又出事，火速修补关键漏洞；30万用户遭殃,恶意软件利用Chrome大肆攻击；Azure AI健康机器人服务存安全漏洞](https://blog.csdn.net/weixin_55163056/article/details/141261063)
+
++ [基于YOLOv10深度学习的草莓成熟度检测与识别系统【python源码+Pyqt5界面+数据集+训练代码】目标检测、人工智能](https://blog.csdn.net/qq_42589613/article/details/141222178)
+
++ [Android MediaRecorder 视频录制及报错解决](https://blog.csdn.net/g984160547/article/details/141216305)
+
++ [实战项目：贪吃蛇游戏的实现（下）](https://blog.csdn.net/2302_79964175/article/details/141212815)
+
++ [低代码开发平台：技术概览、效率与质量的权衡及挑战与机遇](https://blog.csdn.net/2302_78391795/article/details/141176574)
+
++ [[CSS3]2D与3D变换技术详解](https://blog.csdn.net/SDFsoul/article/details/141192616)
+
++ [FreeRTOS——优化系统（基于百问网FreeRTOS教学视频）](https://blog.csdn.net/weixin_62897522/article/details/141198606)
+
++ [计算机网络——运输层（进程之间的通信、运输层端口，UDP与TCP、TCP详解）](https://blog.csdn.net/2303_80204192/article/details/141003673)
+
++ [GitHub Actions 遭利用，14个热门开源项目令牌泄露风险激增](https://blog.csdn.net/FreeBuf_/article/details/141221181)
+
