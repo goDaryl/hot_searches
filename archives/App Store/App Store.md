@@ -207,3 +207,5 @@
 
 + [测测-星座心理情感问答社区](https://itunes.apple.com/cn/app/id756771906?mt=8)
 
++ [学习字母 - 学问之信，德领日语](https://itunes.apple.com/cn/app/id6566173996?mt=8)
+
