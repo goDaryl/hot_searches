@@ -355,3 +355,9 @@
 
 + [《最后的生还者》第二季 艾比女演员在片场需要特别保护](https://www.3dmgame.com/news/202408/3902037.html)
 
++ [《黑神话：悟空》IGN 8分  优化不足但战斗出色](https://www.3dmgame.com/news/202408/3902043.html)
+
++ [《黑神话：悟空》媒体评分解禁 M站均分84](https://www.3dmgame.com/news/202408/3902042.html)
+
++ [《黑神话：悟空》IGN 8分 一款优秀的动作游戏](https://www.3dmgame.com/news/202408/3902041.html)
+
