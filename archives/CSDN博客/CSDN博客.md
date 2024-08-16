@@ -135,3 +135,7 @@
 
 + [基于yolov10的目标检测模型概述](https://blog.csdn.net/ccsss22/article/details/141269106)
 
++ [Ceph数据恢复方案–分布式文件系统删除数据的恢复](https://blog.csdn.net/jinhaishuoX/article/details/141263922)
+
++ [【hdlbits】个人学习交流分享（带答案）——verilog language部分](https://blog.csdn.net/2301_82312663/article/details/141246232)
+
