@@ -131,3 +131,9 @@
 
 + [“总有一束光为你而来”HANN](http://www.acfun.cn/v/ac46104832)
 
++ [【自制MMD】miku潜入神社传教！【结尾高能】](http://www.acfun.cn/v/ac46101129)
+
++ [敬启，这是胡桃写给你的信](http://www.acfun.cn/v/ac46100335)
+
++ [【游戏杂谈】索尼克冷门游戏——古怪世界创意工作室](http://www.acfun.cn/v/ac46101123)
+
