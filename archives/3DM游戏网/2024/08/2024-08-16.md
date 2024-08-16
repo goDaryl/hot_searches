@@ -235,3 +235,9 @@
 
 + [《Usagi Shima: Bunny Island》Steam页面上线 支持中文](https://www.3dmgame.com/news/202408/3901998.html)
 
++ [《崩坏：星穹铁道》椒丘角色PV——「销魂饭」](https://www.3dmgame.com/news/202408/3902003.html)
+
++ [Key社视觉小说《虚拟月球之子》8月30日登陆Steam 支持中文](https://www.3dmgame.com/news/202408/3902002.html)
+
++ [太娇气！iPhone频繁遭遇无法充电 安卓用户神吐槽](https://www.3dmgame.com/news/202408/3902001.html)
+
