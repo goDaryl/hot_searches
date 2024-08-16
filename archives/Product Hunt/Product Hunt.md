@@ -127,3 +127,15 @@
 
 + [ChatCat](https://www.producthunt.com/posts/chatcat-2)
 
++ [IdleGuard](https://www.producthunt.com/posts/idleguard)
+
++ [TeachFlow](https://www.producthunt.com/posts/teachflow)
+
++ [Surfer](https://www.producthunt.com/posts/surfer)
+
++ [WAYUT](https://www.producthunt.com/posts/wayut)
+
++ [Amigo](https://www.producthunt.com/posts/amigo-7)
+
++ [Aster Key](https://www.producthunt.com/posts/aster-key-2)
+
