@@ -345,3 +345,5 @@
 
 + [远超苹果！余承东再秀华为三折叠真机：厚度有惊喜](https://www.3dmgame.com/news/202408/3902035.html)
 
++ [徐峥回应《逆行人生》“消费苦难”争议](https://www.3dmgame.com/news/202408/3902036.html)
+
