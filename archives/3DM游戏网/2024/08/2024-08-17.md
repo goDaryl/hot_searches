@@ -271,3 +271,7 @@
 
 + [沈腾马丽合作票房最高电影！《抓娃娃》进入中国影史TOP20](https://www.3dmgame.com/news/202408/3902090.html)
 
++ [家长带孩子观看《异形：夺命舰》 被惊吓要求赔偿](https://www.3dmgame.com/news/202408/3902092.html)
+
++ [英特尔Arc显卡驱动发布 支持《黑神话：悟空》等新游戏](https://www.3dmgame.com/news/202408/3902091.html)
+
