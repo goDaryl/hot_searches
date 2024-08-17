@@ -25,3 +25,5 @@
 
 + [腾讯 START 云游戏官宣《黑神话：悟空》：没有高性能显卡设备也不是问题](https://m.ithome.com/html/789223.htm)
 
++ [中国游戏发行商 Gamera 宣布 8 月 20 日放假一天，并向所有员工赠送《黑神话：悟空》](https://m.ithome.com/html/789238.htm)
+

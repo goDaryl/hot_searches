@@ -103,3 +103,39 @@
 
 + [【Kubernetes】k8s集群之包管理器Helm](https://blog.csdn.net/F12138X/article/details/141271624)
 
++ [万能钥匙:解锁 C++ 模板的无限可能](https://blog.csdn.net/ABWSO/article/details/141266222)
+
++ [Linux 操作系统 --- 信号](https://blog.csdn.net/weixin_73757824/article/details/141232166)
+
++ [数据库之存储过程和函数](https://blog.csdn.net/m0_73514785/article/details/141270817)
+
++ [Linux 与 Windows 服务器操作系统 | 全面对比](https://blog.csdn.net/HPC_factory/article/details/141261468)
+
++ [Rage Against The Machine: 度厂搬砖工亲自给文心快码（Baidu Comate）上强度](https://blog.csdn.net/u010870244/article/details/141231679)
+
++ [【Redis】Redis典型应用-分布式锁](https://blog.csdn.net/qq_55119554/article/details/141256621)
+
++ [ElasticSearch数据建模](https://blog.csdn.net/qq_44027353/article/details/141220866)
+
++ [【MATLAB机器人系统工具箱】【manipulatorRRT规划器】属性和方法解析](https://blog.csdn.net/qq_45762996/article/details/141248625)
+
++ [AI编程工具合集](https://blog.csdn.net/eidolon_foot/article/details/141251027)
+
++ [网络编程，网络协议，UDP协议](https://blog.csdn.net/m0_67913262/article/details/141253172)
+
++ [【网络】套接字(socket)编程——TCP版](https://blog.csdn.net/2301_80224556/article/details/141152108)
+
++ [【GLM-4部署实战】GLM-4-9B-Chat模型之vLLM部署推理实践](https://blog.csdn.net/xiaobing259/article/details/141198013)
+
++ [DPDI online在线kettle调度工具环境部署升级](https://blog.csdn.net/weixin_43398232/article/details/141226934)
+
++ [原生微信小程序笔记完整总结4.0](https://blog.csdn.net/weixin_73355603/article/details/141268148)
+
++ [微信小程序免费《短视频去水印》](https://blog.csdn.net/chenronglong20/article/details/141270815)
+
++ [应急响应-DDOS-技术指南](https://blog.csdn.net/qq_50765147/article/details/141259364)
+
++ [激光雷达点云投影到图像平面](https://blog.csdn.net/W25679/article/details/141213665)
+
++ [SciPy：基于 NumPy 的算法库和数学工具包，用于数学、科学和工程领域。](https://blog.csdn.net/LS_Ai/article/details/141211243)
+
