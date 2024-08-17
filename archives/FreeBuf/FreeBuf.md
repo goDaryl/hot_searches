@@ -43,3 +43,5 @@
 
 + [国内大量家用路由器网络访问异常和流量劫持事件分析](https://www.freebuf.com/vuls/408097.html)
 
++ [FreeBuf 周报 | 特朗普和马斯克直播遭网络攻击；AWS多项服务存在漏洞](https://www.freebuf.com/news/408836.html)
+

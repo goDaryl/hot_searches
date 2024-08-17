@@ -113,3 +113,19 @@
 
 + [《第一后裔》首个赛季“入侵”预告 8月29日上线、新后裔狙击手](https://www.3dmgame.com/news/202408/3902051.html)
 
++ [《牛马假日》Steam页面公布 2026年5月1日发售](https://www.3dmgame.com/news/202408/3902055.html)
+
++ [射击游戏《Exoborne》将借鉴《黑帝斯》叙事模式](https://www.3dmgame.com/news/202408/3902053.html)
+
++ [离谱！《黑神话：悟空》被外媒评3分 因缺乏女性和多样性](https://www.3dmgame.com/news/202408/3902054.html)
+
++ [休闲独立策略游戏《Town Keeper》Steam页面公布 9月发售](https://www.3dmgame.com/news/202408/3902057.html)
+
++ [欧洲7月游戏销量榜：没有大作发布整体销量仍增长](https://www.3dmgame.com/news/202408/3902056.html)
+
++ [漫长法律斗争终见成效 Epic游戏商城推出移动端APP](https://www.3dmgame.com/news/202408/3902058.html)
+
++ [育碧做出“艰难决定” 美国两处工作室裁员45人](https://www.3dmgame.com/news/202408/3902059.html)
+
++ [《小小梦魇3》确认将参加科隆展开幕之夜直播](https://www.3dmgame.com/news/202408/3902052.html)
+
