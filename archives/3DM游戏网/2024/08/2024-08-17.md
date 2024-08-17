@@ -239,3 +239,7 @@
 
 + [牌组构建类肉鸽游戏《永恒字形传说》现已登录Steam页面](https://www.3dmgame.com/news/202407/3899083.html)
 
++ [传《月球叛军》惨败之后网飞取消扎导后续所有项目](https://www.3dmgame.com/news/202408/3902076.html)
+
++ [IGN中国回击老外给《黑神话：悟空》打低分：扣分点太搞笑](https://www.3dmgame.com/news/202408/3902075.html)
+
