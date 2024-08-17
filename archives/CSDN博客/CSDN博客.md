@@ -171,3 +171,9 @@
 
 + [ElasticSearch数据建模](https://blog.csdn.net/qq_44027353/article/details/141220866)
 
++ [2024 Google 开发者大会深度探秘与AI技术前瞻](https://blog.csdn.net/weixin_53072519/article/details/141228698)
+
++ [【阿卡迈防护分析】Vueling航空Akamai破盾实战](https://blog.csdn.net/qiulin_wu/article/details/141103310)
+
++ [flink车联网项目前篇：业务实现1（第67天）](https://blog.csdn.net/syhiiu/article/details/141265806)
+
