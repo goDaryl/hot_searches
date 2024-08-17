@@ -45,3 +45,7 @@
 
 + [FreeBuf 周报 | 特朗普和马斯克直播遭网络攻击；AWS多项服务存在漏洞](https://www.freebuf.com/news/408836.html)
 
++ [密评 | PDF文件中电子签章手工验签](https://www.freebuf.com/articles/database/400338.html)
+
++ [一文带你了解逆向利器Radare2](https://www.freebuf.com/sectool/407372.html)
+

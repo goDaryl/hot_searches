@@ -77,3 +77,5 @@
 
 + [20240810 苏子怡直播录屏切片-Phut hon（大摆锤）](http://www.acfun.cn/v/ac46103237)
 
++ [【东方】とこしえの魔法 Full MV【少女フラクタル】](http://www.acfun.cn/v/ac46103838)
+
