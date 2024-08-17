@@ -139,3 +139,7 @@
 
 + [SciPy：基于 NumPy 的算法库和数学工具包，用于数学、科学和工程领域。](https://blog.csdn.net/LS_Ai/article/details/141211243)
 
++ [数学建模之数据分析【六】：Pandas读取数据集的实用操作](https://blog.csdn.net/lmx1458070445/article/details/141259639)
+
++ [云原生时代的数据守护者：Velero 备份与迁移实战](https://blog.csdn.net/heian_99/article/details/141258938)
+
