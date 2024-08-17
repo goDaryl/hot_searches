@@ -169,3 +169,21 @@
 
 + [Coffee time](https://dribbble.com/shots/)
 
++ [New Nusantara, Advanced Indonesia](https://dribbble.com/shots/)
+
++ [Tarot with Nina](https://dribbble.com/shots/)
+
++ [Grammatical app](https://dribbble.com/shots/)
+
++ [Shopping](https://dribbble.com/shots/)
+
++ [modern tech logo, minimalist logo. click](https://dribbble.com/shots/)
+
++ [W and cross](https://dribbble.com/shots/)
+
++ [automotive vehicle repairing logo identity](https://dribbble.com/shots/)
+
++ [letter logo, modern, creative, minimalist, logo, branding design](https://dribbble.com/shots/)
+
++ [Default apps settings — Untitled UI](https://dribbble.com/shots/)
+

@@ -43,3 +43,9 @@
 
 + [极氪汽车法务部澄清：未与任何个人或机构合作对撞测试](https://m.ithome.com/html/789064.htm)
 
++ [盘点 10 个已经消失的奥运项目](https://m.ithome.com/html/789142.htm)
+
++ [12+512G 立减 500 元：Redmi K70E 手机 1699 元京东百亿补贴](https://m.ithome.com/html/789077.htm)
+
++ [小米变焦落地自拍杆上市：1.6 米铝合金伸缩杆、一键展开，售价 149 元](https://m.ithome.com/html/789087.htm)
+
