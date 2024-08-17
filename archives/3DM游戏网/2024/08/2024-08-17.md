@@ -243,3 +243,9 @@
 
 + [IGN中国回击老外给《黑神话：悟空》打低分：扣分点太搞笑](https://www.3dmgame.com/news/202408/3902075.html)
 
++ [开放世界自动化采集建造游戏《Orebound》Steam页面开放 10月25日发售](https://www.3dmgame.com/news/202408/3902078.html)
+
++ [8岁小孩被吓坏 家长投诉《异形》：官方回应无责](https://www.3dmgame.com/news/202408/3902079.html)
+
++ [《暗黑破坏神4》法师电矛导致服务器卡顿 暴雪“被迫”削弱](https://www.3dmgame.com/news/202408/3902077.html)
+
