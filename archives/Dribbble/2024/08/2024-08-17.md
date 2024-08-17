@@ -189,3 +189,23 @@
 
 + [Macarons](https://dribbble.com/shots/)
 
++ [TIQS - Splash - FinTech Trading App](https://dribbble.com/shots/)
+
++ [Brocante](https://dribbble.com/shots/)
+
++ [Crown Gold - Illustrations Vol. 3](https://dribbble.com/shots/)
+
++ [Passport - Web3 Loyalty App](https://dribbble.com/shots/)
+
++ [Digital Marketing Website](https://dribbble.com/shots/)
+
++ [Logo collection](https://dribbble.com/shots/)
+
++ [Parcel | Courier, Delivery, Transport or Logistic Logo Design](https://dribbble.com/shots/)
+
++ [Kooikerhondje & Stabyhoun](https://dribbble.com/shots/)
+
++ [Logo design (MARION)](https://dribbble.com/shots/)
+
++ [Boostter logo](https://dribbble.com/shots/)
+
