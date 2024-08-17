@@ -147,3 +147,7 @@
 
 + [Secret Coffee Society Logo System](https://dribbble.com/shots/)
 
++ [Zhenya Artemjev Kawaii Illustrator](https://dribbble.com/shots/)
+
++ [Aline has cat "Ala ma kota" (PSE '24)](https://dribbble.com/shots/)
+
