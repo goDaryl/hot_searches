@@ -141,3 +141,9 @@
 
 + [桂正和正式入驻X推特 今后加强与粉丝互动](https://www.3dmgame.com/news/202408/3902115.html)
 
++ [大量客串角色登场 《宇宙机器人》15分钟泄露视频](https://www.3dmgame.com/news/202408/3902118.html)
+
++ [苹果iPhone 16 Pro Max新增古铜色！高清图曝光](https://www.3dmgame.com/news/202408/3902117.html)
+
++ [停产4年3DS依然健在 玩家带3DS去漫展擦肩通信达上限](https://www.3dmgame.com/news/202408/3902116.html)
+
