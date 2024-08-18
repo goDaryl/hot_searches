@@ -201,3 +201,13 @@
 
 + [Housele - real estate logo design](https://dribbble.com/shots/)
 
++ [Megalink - AAA Games Developer Website](https://dribbble.com/shots/)
+
++ [Website for an Editor Platform](https://dribbble.com/shots/)
+
++ [Chat logo, chat app icon logo](https://dribbble.com/shots/)
+
++ [W-Agency studio Landing page](https://dribbble.com/shots/)
+
++ [smile logo, food logo, letter logo, logo design](https://dribbble.com/shots/)
+
