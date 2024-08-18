@@ -157,3 +157,27 @@
 
 + [Beauty](https://dribbble.com/shots/)
 
++ [Wallet Page for Crypto Admin & Dashboard React Web Template](https://dribbble.com/shots/)
+
++ [The World’s Premier Crypto Trading Platform - Zephyr](https://dribbble.com/shots/)
+
++ [Teddy Coin - Meme Website](https://dribbble.com/shots/)
+
++ [Modern Ai letter Logo , Design, Branding visual Identity](https://dribbble.com/shots/)
+
++ [Bird Logo Collection by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [G-shock](https://dribbble.com/shots/)
+
++ [Culturevers - Ancient Sculpture Art Gallery Website](https://dribbble.com/shots/)
+
++ [Heavenly - Real Estate Website Design](https://dribbble.com/shots/)
+
++ [Logo Concept For Fintech Startups](https://dribbble.com/shots/)
+
++ [Topey - letter T, letter P logo design identity](https://dribbble.com/shots/)
+
++ [AiTravel | Easy travel planning Solution | Orbix Studio](https://dribbble.com/shots/)
+
++ [Food service - Mobile app](https://dribbble.com/shots/)
+
