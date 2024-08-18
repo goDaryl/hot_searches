@@ -161,3 +161,7 @@
 
 + [《铁匠大师》9月Steam抢先体验 中世纪铁匠铺经营](https://www.3dmgame.com/news/202408/3902123.html)
 
++ [英国游戏行业富豪榜出炉 R星联合创始人排名第三](https://www.3dmgame.com/news/202408/3902127.html)
+
++ [法国传奇影星阿兰·德隆去世 曾饰演佐罗在中国家喻户晓](https://www.3dmgame.com/news/202408/3902126.html)
+
