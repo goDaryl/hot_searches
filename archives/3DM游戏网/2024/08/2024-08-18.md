@@ -165,3 +165,7 @@
 
 + [法国传奇影星阿兰·德隆去世 曾饰演佐罗在中国家喻户晓](https://www.3dmgame.com/news/202408/3902126.html)
 
++ [《夜莺传说》大型更新即将到来 加入手工打造领域](https://www.3dmgame.com/news/202408/3902128.html)
+
++ [《鸣蟇村》登陆Steam 日式恐怖探险逃生](https://www.3dmgame.com/news/202408/3902129.html)
+
