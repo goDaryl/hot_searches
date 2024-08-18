@@ -133,3 +133,9 @@
 
 + [《代号：群岛》PC版A测启动 狙击乱斗新游](https://www.3dmgame.com/news/202408/3902103.html)
 
++ [另一种生命延续？马斯克畅想未来人类记忆上传并下载至机器人](https://www.3dmgame.com/news/202408/3902114.html)
+
++ [《黑神话：悟空》PC、PS预下载开启：8月20日全球解禁](https://www.3dmgame.com/news/202408/3902113.html)
+
++ [《最终幻想7：重制版》第三部将超越所有人的期待](https://www.3dmgame.com/news/202408/3902112.html)
+
