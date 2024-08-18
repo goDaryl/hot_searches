@@ -135,3 +135,17 @@
 
 + [Chicago - The City of Light and Shadow](https://dribbble.com/shots/)
 
++ [Agency Website Design Concept](https://dribbble.com/shots/)
+
++ [Super Cleaner Mascot Logo](https://dribbble.com/shots/)
+
++ [Bowls & Brews Branding and Packaging Design - Coffee Shop](https://dribbble.com/shots/)
+
++ [The Bay](https://dribbble.com/shots/)
+
++ [Grocery Delivery Web Design Template](https://dribbble.com/shots/)
+
++ [Building Company Website](https://dribbble.com/shots/)
+
++ [Emendor website pt.2](https://dribbble.com/shots/)
+
