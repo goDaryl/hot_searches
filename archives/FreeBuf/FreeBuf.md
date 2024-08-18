@@ -41,3 +41,5 @@
 
 + [XMGoat：一款针对Azure的环境安全检测工具](https://www.freebuf.com/sectool/408556.html)
 
++ [HTTP协议网络安全攻击解析](https://www.freebuf.com/articles/ics-articles/407335.html)
+
