@@ -103,3 +103,13 @@
 
 + [PlaceholderJS](https://www.producthunt.com/posts/placeholderjs)
 
++ [Cursor Lens](https://www.producthunt.com/posts/cursor-lens)
+
++ [mood2music](https://www.producthunt.com/posts/mood2music)
+
++ [BlissBox](https://www.producthunt.com/posts/blissbox)
+
++ [FlowKitten](https://www.producthunt.com/posts/flowkitten)
+
++ [SpeakHints](https://www.producthunt.com/posts/speakhints)
+
