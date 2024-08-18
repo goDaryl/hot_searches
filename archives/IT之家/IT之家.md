@@ -49,3 +49,7 @@
 
 + [京东京造 10000mAh 自带线充电宝上架：双向 30W 快充，预售 99 元](https://m.ithome.com/html/789241.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 系统首款 MOBA 游戏《曙光英雄》上线，支持多账号体系登录](https://m.ithome.com/html/789320.htm)
+
++ [领克车主发布联合声明：车机一年更新一次，希望升级至 Flyme Auto](https://m.ithome.com/html/789338.htm)
+

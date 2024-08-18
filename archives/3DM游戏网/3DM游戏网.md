@@ -169,3 +169,7 @@
 
 + [《鸣蟇村》登陆Steam 日式恐怖探险逃生](https://www.3dmgame.com/news/202408/3902129.html)
 
++ [《七日世界》8月大更新上线 玩家可以捕捉和养殖动物](https://www.3dmgame.com/news/202408/3902131.html)
+
++ [《异形：夺命舰》全球开画有望突破1亿美元](https://www.3dmgame.com/news/202408/3902130.html)
+
