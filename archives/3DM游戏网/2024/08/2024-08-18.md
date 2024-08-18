@@ -139,3 +139,5 @@
 
 + [《最终幻想7：重制版》第三部将超越所有人的期待](https://www.3dmgame.com/news/202408/3902112.html)
 
++ [桂正和正式入驻X推特 今后加强与粉丝互动](https://www.3dmgame.com/news/202408/3902115.html)
+
