@@ -217,3 +217,11 @@
 
 + [致态TiPlus7100 SSD《黑神话》联名版上市 629元起](https://www.3dmgame.com/news/202408/3902195.html)
 
++ [《红楼梦》电影导演发文痛斥黑水军 目前票房421.8万](https://www.3dmgame.com/news/202408/3902200.html)
+
++ [《生化危机2》原版游戏将于8月27日登陆GOG](https://www.3dmgame.com/news/202408/3902199.html)
+
++ [大战三角头 《寂静岭2：重制版》27分钟PS5实机试玩](https://www.3dmgame.com/news/202408/3902198.html)
+
++ [在发售七年后，《死亡细胞》最终更新现已上线](https://www.3dmgame.com/news/202408/3902197.html)
+
