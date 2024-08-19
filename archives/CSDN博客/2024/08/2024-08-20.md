@@ -101,3 +101,7 @@
 
 + [系统架构设计师 - 软件工程(2)](https://blog.csdn.net/Al_tair/article/details/141298677)
 
++ [一文学会本地部署可视化应用JSONCrack并配置公网地址实现远程协作](https://blog.csdn.net/qq_25749749/article/details/141327352)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/2401_85027652/article/details/141293045)
+
