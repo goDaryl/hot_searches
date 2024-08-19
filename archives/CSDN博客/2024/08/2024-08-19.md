@@ -183,3 +183,15 @@
 
 + [ffmpeg开发者视频剪辑器](https://blog.csdn.net/weixin_44782294/article/details/141283699)
 
++ [【大数据算法】开篇：一文掌握大数据概述、特点及应用等。](https://blog.csdn.net/wuyoudeyuer/article/details/141284890)
+
++ [使用 Plotly 创建交互式数据可视化](https://blog.csdn.net/weixin_52908342/article/details/141305666)
+
++ [Spring Boot: 2.7.x 至 2.7.18 及更旧的版本，漏洞说明](https://blog.csdn.net/weimeilayer/article/details/141251746)
+
++ [基于YOLOv8的指针式仪表智能识别系统（Python源码+Pyqt6界面+数据集）](https://blog.csdn.net/m0_63774211/article/details/141252712)
+
++ [【Docker深入浅出】Docker引擎架构介绍](https://blog.csdn.net/hiliang521/article/details/141305629)
+
++ [MySQL运维学习（1）：4种日志](https://blog.csdn.net/ab149162536/article/details/141223961)
+

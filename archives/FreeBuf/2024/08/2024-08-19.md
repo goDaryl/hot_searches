@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 伊朗遭遇大规模网络攻击；英国一核设施曝出严重网络安全失误](https://www.freebuf.com/news/408769.html)
 
++ [浏览器可触发的自动化GPU缓存攻击](https://www.freebuf.com/vuls/408089.html)
+
