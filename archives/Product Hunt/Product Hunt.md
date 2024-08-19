@@ -145,3 +145,7 @@
 
 + [Wapoo: AI Video Dance Animator](https://www.producthunt.com/posts/wapoo-ai-video-dance-animator)
 
++ [Resumeguru.pro](https://www.producthunt.com/posts/resumeguru-pro)
+
++ [Clipchamp Mobile 2.0](https://www.producthunt.com/posts/clipchamp-mobile-2-0)
+
