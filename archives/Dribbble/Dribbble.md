@@ -227,3 +227,21 @@
 
 + [Nomad Outdoor: Apparel Graphic](https://dribbble.com/shots/)
 
++ [Rainbet](https://dribbble.com/shots/)
+
++ [Permonk - design concept](https://dribbble.com/shots/)
+
++ [Revdup Logo Design Process](https://dribbble.com/shots/)
+
++ [Finance Dashboard: animation](https://dribbble.com/shots/)
+
++ [TIMELESS /  Inner pages](https://dribbble.com/shots/)
+
++ [Natural AI video reader UI](https://dribbble.com/shots/)
+
++ [Digital Ampersand Logo Animation](https://dribbble.com/shots/)
+
++ [Morely](https://dribbble.com/shots/)
+
++ [Ticket service logo design](https://dribbble.com/shots/)
+
