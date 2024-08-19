@@ -251,3 +251,7 @@
 
 + [实战OpenCV之图像的属性](https://blog.csdn.net/hope_wisdom/article/details/141306164)
 
++ [【Mdijourney】AI作画提示词工程：精细化技巧与高效实践指南](https://blog.csdn.net/2201_75539691/article/details/141272000)
+
++ [《Docker：实现开发环境一致性与高效部署的利器》](https://blog.csdn.net/weixin_45511682/article/details/141190477)
+
