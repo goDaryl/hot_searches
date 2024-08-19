@@ -195,3 +195,7 @@
 
 + [MySQL运维学习（1）：4种日志](https://blog.csdn.net/ab149162536/article/details/141223961)
 
++ [深度学习的量化和剪枝](https://blog.csdn.net/tiger119/article/details/141299116)
+
++ [【TCP/IP】UDP协议数据格式和报文格式](https://blog.csdn.net/Yeeear/article/details/141307412)
+

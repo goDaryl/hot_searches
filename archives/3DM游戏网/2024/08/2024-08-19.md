@@ -149,3 +149,21 @@
 
 + [《怪物猎人：荒野》“双剑”武器介绍 连续攻击特化](https://www.3dmgame.com/news/202408/3902157.html)
 
++ [回击缺乏多样性！国外玩家PS《黑神话：悟空》女猴子和黑人猴子](https://www.3dmgame.com/news/202408/3902169.html)
+
++ [老人出国流量费1.6万 官方回应多次触发熔断本人强行恢复](https://www.3dmgame.com/news/202408/3902170.html)
+
++ [《博德之门3》总监玩得最多的游戏是魔兽 从小玩游戏上瘾](https://www.3dmgame.com/news/202408/3902171.html)
+
++ [该换显示器了？国外玩家分享IPS和OLED显示器游戏场景对比](https://www.3dmgame.com/news/202408/3902163.html)
+
++ [《黑神话：悟空》媒体赞誉图 准备西行降妖缚怪](https://www.3dmgame.com/news/202408/3902164.html)
+
++ [《庄园领主》发行商认为自主发行会更好 若有游戏不会与90%的发行商签约](https://www.3dmgame.com/news/202408/3902165.html)
+
++ [《Love Live! 》系列新作 官方卡游将于2025年春季发售](https://www.3dmgame.com/news/202408/3902166.html)
+
++ [瑞幸咖啡联名《黑神话：悟空》活动翻车 网友吐槽：起大早被当猴耍](https://www.3dmgame.com/news/202408/3902168.html)
+
++ [《饿狼传说：狼之城》“普莉查”角色预告 美少女科学家](https://www.3dmgame.com/news/202408/3902167.html)
+
