@@ -59,3 +59,7 @@
 
 + [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
 
++ [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
+
++ [GraphGenie：一款针对图形数据库引擎的安全检测工具](https://www.freebuf.com/sectool/408896.html)
+
