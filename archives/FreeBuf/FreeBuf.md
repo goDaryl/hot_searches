@@ -57,3 +57,5 @@
 
 + [记一次某安卓APP渗透测试解决抓包方案](https://www.freebuf.com/articles/mobile/408337.html)
 
++ [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
+
