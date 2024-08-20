@@ -147,3 +147,43 @@
 
 + [好消息 《寂静岭2：重制版》PS5版将有60帧模式](https://www.3dmgame.com/news/202408/3902220.html)
 
++ [烹饪模拟游戏《顶级厨师: 学做菜！》Steam页面 发行日期待定](https://www.3dmgame.com/news/202408/3902238.html)
+
++ [《博德之门3》9月更新亮点 追加邪恶冒险者结局](https://www.3dmgame.com/news/202408/3902239.html)
+
++ [《守望先锋2》官方封禁50万名作弊玩家 还将继续打击](https://www.3dmgame.com/news/202408/3902240.html)
+
++ [系列史上口碑最烂剧集《星球大战：侍者》已取消续订](https://www.3dmgame.com/news/202408/3902242.html)
+
++ [治愈系沙盒建造游戏《打造房间》现已登录Steam平台](https://www.3dmgame.com/news/202408/3902241.html)
+
++ [滴滴青桔联动《黑神话》宣传片 筋斗云车太酷了](https://www.3dmgame.com/news/202408/3902243.html)
+
++ [《小丑2：双重妄想》电影新海报 血腥爱情故事来了](https://www.3dmgame.com/news/202408/3902244.html)
+
++ [《终点站：僵尸幸存者》登陆Steam 肉鸽回合制末日生存](https://www.3dmgame.com/news/202408/3902245.html)
+
++ [沙盒驾驶游戏《Carbox》Steam页面上线 支持简中](https://www.3dmgame.com/news/202408/3902233.html)
+
++ [乔治·RR·马丁谈想对《冰与火之歌》做出的改变 就是将其真正的完结](https://www.3dmgame.com/news/202408/3902234.html)
+
++ [《使命召唤》热门Mod开发者解释为何被禁：动视害怕它会影响新作销量](https://www.3dmgame.com/news/202408/3902235.html)
+
++ [重走西游 《黑神话：悟空》今日全球正式发布](https://www.3dmgame.com/news/202408/3902231.html)
+
++ [《黑神话：悟空》预售额超4亿元 预售销量达120万份](https://www.3dmgame.com/news/202408/3902236.html)
+
++ [苹果重发iOS 17.6.1正式版升级：重要错误修复！](https://www.3dmgame.com/news/202408/3902237.html)
+
++ [EA表示并不害怕2K推出《FIFA》与《FC》系列竞争](https://www.3dmgame.com/news/202408/3902226.html)
+
++ [特别好评牌组构建式类肉鸽游戏《神骰传说》首个DLC内容包正式推出](https://www.3dmgame.com/news/202408/3902227.html)
+
++ [《黑神话》即将解锁 冯骥：适度游戏 不必着急通关](https://www.3dmgame.com/news/202408/3902228.html)
+
++ [《装甲核心6：境界天火》官方艺术集8月23日发售](https://www.3dmgame.com/news/202408/3902229.html)
+
++ [迈克尔基顿不在乎《蝙蝠女》生死：反正我的钱都到账](https://www.3dmgame.com/news/202408/3902230.html)
+
++ [随着《最终幻想16》登陆PC PS5游戏数字版将停售](https://www.3dmgame.com/news/202408/3902232.html)
+

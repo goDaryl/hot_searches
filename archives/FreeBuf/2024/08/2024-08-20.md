@@ -45,3 +45,9 @@
 
 + [FreeBuf早报 | 福建网警破获一起黑客案件；Copy2Pwn 漏洞绕过 Windows 保护](https://www.freebuf.com/news/408922.html)
 
++ [丰田再发数据泄露事件，涉及240GB员工和客户信息](https://www.freebuf.com/news/409015.html)
+
++ [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
+
++ [一文搞懂CTF实战入门](https://www.freebuf.com/articles/web/408135.html)
+
