@@ -181,3 +181,7 @@
 
 + [My Quizzes](https://www.producthunt.com/posts/my-quizzes)
 
++ [Selix AI](https://www.producthunt.com/posts/selix-ai)
+
++ [WebAssistants.ai](https://www.producthunt.com/posts/webassistants-ai)
+
