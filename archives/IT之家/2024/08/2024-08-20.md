@@ -27,3 +27,5 @@
 
 + [网易云音乐故障内情：技术降本增效，人手不足排查了半天](https://m.ithome.com/html/789612.htm)
 
++ [问界新 M7 Pro 预热：搭载华为 ADS 基础版，8 月 26 日发布](https://m.ithome.com/html/789408.htm)
+

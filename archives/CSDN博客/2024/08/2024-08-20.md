@@ -147,3 +147,7 @@
 
 + [使用大模型撰写移动机器人模拟器（CoppeliaSim、Gazebo、MORSE和Webots）的定量比较研究报告](https://blog.csdn.net/ZhangRelay/article/details/141324864)
 
++ [Python实现水果忍者（开源）](https://blog.csdn.net/zhaoyang_m/article/details/140432587)
+
++ [ffmpeg开发者视频剪辑器](https://blog.csdn.net/weixin_44782294/article/details/141283699)
+
