@@ -189,3 +189,39 @@
 
 + [Serve It Up](https://dribbble.com/shots/)
 
++ [2D Illustration for OrderGrid.com](https://dribbble.com/shots/)
+
++ [Home 3D Icon Animation](https://dribbble.com/shots/)
+
++ [Fashion Brand Landing Page](https://dribbble.com/shots/)
+
++ [Flerte Logo Design](https://dribbble.com/shots/)
+
++ [Car eCommerce](https://dribbble.com/shots/)
+
++ [Geometric Polar Bear Logo](https://dribbble.com/shots/)
+
++ [Logofolio 2024](https://dribbble.com/shots/)
+
++ [FF Letter Mark Design](https://dribbble.com/shots/)
+
++ [Constructopia - Manufacture Landing Page](https://dribbble.com/shots/)
+
++ [Jumping Tiger Logo](https://dribbble.com/shots/)
+
++ [Love is in the air](https://dribbble.com/shots/)
+
++ [Brittany](https://dribbble.com/shots/)
+
++ [Gitroom landing page design](https://dribbble.com/shots/)
+
++ [CoinVerse - UX/UI Design of a Crypto Investment & Loan Platform](https://dribbble.com/shots/)
+
++ [Bear on Diet](https://dribbble.com/shots/)
+
++ [NexHR - HR Landing Page](https://dribbble.com/shots/)
+
++ [99finder — UI](https://dribbble.com/shots/)
+
++ [Ephemeral Token - Landing Page & Branding](https://dribbble.com/shots/)
+
