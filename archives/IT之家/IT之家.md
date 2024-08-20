@@ -35,3 +35,7 @@
 
 + [网易云音乐补偿 7 天会员权益开放免费领取，昨天“崩了”两小时](https://m.ithome.com/html/789646.htm)
 
++ [杨幂喜提享界 S9，华为余承东亲自交车](https://m.ithome.com/html/789669.htm)
+
++ [《黑神话：悟空》登顶 Steam 最热玩游戏，当前玩家数近百万](https://m.ithome.com/html/789698.htm)
+
