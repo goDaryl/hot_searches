@@ -29,3 +29,5 @@
 
 + [问界新 M7 Pro 预热：搭载华为 ADS 基础版，8 月 26 日发布](https://m.ithome.com/html/789408.htm)
 
++ [比亚迪 2025 款宋 PLUS EV 汽车上市：全系标配 19 英寸运动轮毂、触控式广角全景天窗，14.98 万元起](https://m.ithome.com/html/789551.htm)
+

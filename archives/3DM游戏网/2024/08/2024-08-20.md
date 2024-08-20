@@ -135,3 +135,15 @@
 
 + [末日城市寻女《金刚：生存本能》游戏预告发布](https://www.3dmgame.com/news/202408/3902213.html)
 
++ [近90%的开发者认为：3A级游戏不需要微交易](https://www.3dmgame.com/news/202408/3902222.html)
+
++ [多家公司宣布放假 让员工畅玩《黑神话：悟空》](https://www.3dmgame.com/news/202408/3902224.html)
+
++ [《Funko Fusion》洛克人确定参战 手办动作冒险新游](https://www.3dmgame.com/news/202408/3902223.html)
+
++ [2.5D动作冒险游戏《金刚：生存本能》Steam页面公布 秋季发售](https://www.3dmgame.com/news/202408/3902225.html)
+
++ [热血少年漫画《咒术回战》最终话确定 距离完结还剩5话](https://www.3dmgame.com/news/202408/3902221.html)
+
++ [好消息 《寂静岭2：重制版》PS5版将有60帧模式](https://www.3dmgame.com/news/202408/3902220.html)
+
