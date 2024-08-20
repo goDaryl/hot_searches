@@ -39,3 +39,5 @@
 
 + [《黑神话：悟空》登顶 Steam 最热玩游戏，当前玩家数近百万](https://m.ithome.com/html/789698.htm)
 
++ [即刻开玩！国产游戏 3A 大作《黑神话：悟空》现已正式发售](https://m.ithome.com/html/789677.htm)
+
