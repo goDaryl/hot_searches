@@ -285,3 +285,9 @@
 
 + [唐尼透露凯文费奇如何劝他重返MCU 将重拍希区柯克的《迷魂记》](https://www.3dmgame.com/news/202408/3902390.html)
 
++ [《怪物猎人：荒野》19分钟试玩视频 海量情报释出](https://www.3dmgame.com/news/202408/3902393.html)
+
++ [离谱？索尼《Concord》竟然花了8年时间开发](https://www.3dmgame.com/news/202408/3902392.html)
+
++ [《异形：夺命舰》深受《异形：隔离》影响 有望拍续集](https://www.3dmgame.com/news/202408/3902391.html)
+
