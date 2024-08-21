@@ -205,3 +205,9 @@
 
 + [reactive 和 ref 的区别和联系](https://blog.csdn.net/weixin_52648900/article/details/141359795)
 
++ [从大模型到通用AI《智能计算系统》带你揭秘大模型背后的智能计算革命](https://blog.csdn.net/qq_32682301/article/details/141389591)
+
++ [Python编码系列—Python AJAX与异步请求：打造高效响应的Web应用](https://blog.csdn.net/u013889591/article/details/141353915)
+
++ [鸿蒙HarmonOS实战开发： CMake脚本编写构建NDK工程](https://blog.csdn.net/weixin_55362248/article/details/141360585)
+
