@@ -201,3 +201,7 @@
 
 + [《计算机操作系统》（第4版）第2章 进程的描述与控制 复习笔记](https://blog.csdn.net/m0_70617423/article/details/141368069)
 
++ [泊松自助法（Poisson Bootstrap Sampling）：大型数据集上的自助抽样](https://blog.csdn.net/m0_46510245/article/details/141384789)
+
++ [reactive 和 ref 的区别和联系](https://blog.csdn.net/weixin_52648900/article/details/141359795)
+

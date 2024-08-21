@@ -61,3 +61,7 @@
 
 + [2024年黑帽大会十大热门安全工具](https://www.freebuf.com/news/408335.html)
 
++ [安恒信息总裁离职，转头创业开起了大排档，你怎么看？](https://www.freebuf.com/news/409182.html)
+
++ [WPS今天突然崩了，补偿15天会员](https://www.freebuf.com/news/409178.html)
+
