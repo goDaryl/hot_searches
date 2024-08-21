@@ -141,3 +141,5 @@
 
 + [【机器学习】探索机器学习在旅游业的革新之旅](https://blog.csdn.net/EterNity_TiMe_/article/details/141335089)
 
++ [【人工智能】Transformers之Pipeline（十一）：零样本图片分类（zero-shot-image-classification）](https://blog.csdn.net/weixin_48007632/article/details/141362385)
+

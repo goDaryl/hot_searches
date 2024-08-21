@@ -41,3 +41,5 @@
 
 + [浏览器可触发的自动化GPU缓存攻击](https://www.freebuf.com/vuls/408089.html)
 
++ [2024年黑帽大会上公布的十大热门安全工具](https://www.freebuf.com/news/408335.html)
+
