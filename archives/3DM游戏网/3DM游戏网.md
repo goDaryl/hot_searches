@@ -105,3 +105,7 @@
 
 + [Epic回应《黑神话：悟空》只有35个成就：血赚！](https://www.3dmgame.com/news/202408/3902396.html)
 
++ [跑团风回合制RPG《无名者：屠龙》PC版9/26推出](https://www.3dmgame.com/news/202408/3902399.html)
+
++ [枪斗术电影级新游戏《SPINE》发布全新预告片](https://www.3dmgame.com/news/202408/3902398.html)
+
