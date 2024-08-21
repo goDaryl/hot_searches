@@ -139,3 +139,13 @@
 
 + [Nature Outlook Cover](https://dribbble.com/shots/)
 
++ [Elegance makes a splash](https://dribbble.com/shots/)
+
++ [Brownstones NYC](https://dribbble.com/shots/)
+
++ [IP Image Design](https://dribbble.com/shots/)
+
++ [Macarons](https://dribbble.com/shots/)
+
++ [Growth](https://dribbble.com/shots/)
+
