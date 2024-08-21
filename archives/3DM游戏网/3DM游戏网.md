@@ -141,3 +141,43 @@
 
 + [《暗黑破坏神4》佣兵系统宣传片 将随资料片同步推出](https://www.3dmgame.com/news/202408/3902311.html)
 
++ [Game Pass标准版最长需要1年才能等到首日游戏](https://www.3dmgame.com/news/202408/3902327.html)
+
++ [《First Berserker: Khazan》宣布将于2025年上半年正式发售](https://www.3dmgame.com/news/202408/3902328.html)
+
++ [《潜水员戴夫》联动来袭！ 与《Balatro》和《Potion Craft》携手推出全新合作内容](https://www.3dmgame.com/news/202408/3902329.html)
+
++ [《席德·梅尔的文明® VII》将于 2025 年 2 月 11 日在全球发布](https://www.3dmgame.com/news/202408/3902330.html)
+
++ [《原神》科隆公开新地区实机 11月20日登陆Xbox主机](https://www.3dmgame.com/news/202408/3902331.html)
+
++ [上帝模拟游戏《Masters of Albion》科隆预告公布 Steam页面上线](https://www.3dmgame.com/news/202408/3902332.html)
+
++ [《无限暖暖》重逢之约测试预告PV 玩家招募现已开启](https://www.3dmgame.com/news/202408/3902333.html)
+
++ [《黑相集》系列新作《指令8020》预告公开 将于2025年推出](https://www.3dmgame.com/news/202408/3902334.html)
+
++ [搞怪经典回归 《模拟山羊重制版》科隆开幕夜首曝](https://www.3dmgame.com/news/202408/3902335.html)
+
++ [《鱿鱼游戏：Unleashed》新截图 手游版演绎经典](https://www.3dmgame.com/news/202408/3902336.html)
+
++ [生活模拟游戏《inZOI》科隆实机预告 B测今日开启](https://www.3dmgame.com/news/202408/3902337.html)
+
++ [2024年TGA年度游戏大奖颁奖典礼定于12月12日举行](https://www.3dmgame.com/news/202408/3902338.html)
+
++ [网易《漫威争锋》新预告 宣布12月6日正式上线](https://www.3dmgame.com/news/202408/3902319.html)
+
++ [《爱死机》工作室打造《秘密关卡》动画剧集 包含战神、CF、王者荣耀](https://www.3dmgame.com/news/202408/3902321.html)
+
++ [《三角洲行动》海外名称简化：希望缩小新老玩家代沟](https://www.3dmgame.com/news/202408/3902320.html)
+
++ [《神话时代：重述版》科隆展预告公布 9月4日正式发售](https://www.3dmgame.com/news/202408/3902322.html)
+
++ [《解限机》科隆公开全新预告 Xbox 8月25日开启B测](https://www.3dmgame.com/news/202408/3902323.html)
+
++ [VR新游《蝙蝠侠:阿卡姆之影》新预告 10月发售](https://www.3dmgame.com/news/202408/3902326.html)
+
++ [《奇异人生》原班人马打造的《Lost Records》将分为两部分 2025年2月18日推出第一部](https://www.3dmgame.com/news/202408/3902324.html)
+
++ [《沙丘：觉醒》5分钟实机演示 2025年初登陆Steam](https://www.3dmgame.com/news/202408/3902325.html)
+

@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | 勒索软件2024上半年赎金创新高；消费者遭遇“幽灵机票”](https://www.freebuf.com/news/409070.html)
 
++ [云上攻防｜打穿某地区智慧停车小程序](https://www.freebuf.com/defense/407831.html)
+
