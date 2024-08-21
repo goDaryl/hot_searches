@@ -43,3 +43,5 @@
 
 + [2024年黑帽大会上公布的十大热门安全工具](https://www.freebuf.com/news/408335.html)
 
++ [FreeBuf早报 | 勒索软件2024上半年赎金创新高；消费者遭遇“幽灵机票”](https://www.freebuf.com/news/409070.html)
+
