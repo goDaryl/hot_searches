@@ -115,3 +115,17 @@
 
 + [自动化运维（ansible---playbook）](https://blog.csdn.net/qq_69920145/article/details/141325045)
 
++ [大数据背景下基于Python的牛油果销售数据可视化分析](https://blog.csdn.net/qq_62127918/article/details/141322814)
+
++ [Spring Boot 实现定时任务](https://blog.csdn.net/Flying_Fish_roe/article/details/141280991)
+
++ [Spring Boot中怎么使用Spring Statemachine状态机实现订单状态流转控制](https://blog.csdn.net/wenbin729392753/article/details/141359080)
+
++ [Vue 3 + Pinia 实现网页刷新功能](https://blog.csdn.net/iku_n/article/details/141332722)
+
++ [外包干了8天，技术退步明显。。。。。](https://blog.csdn.net/2401_83396023/article/details/141368388)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/141349680)
+
++ [《黑神话.悟空》：一场跨越神话与现实的深度探索](https://blog.csdn.net/zhaochen1127/article/details/141367099)
+
