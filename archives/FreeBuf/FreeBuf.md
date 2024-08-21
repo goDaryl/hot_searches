@@ -57,3 +57,7 @@
 
 + [密评 | IPSec流量包分析以及对各个消息的手工解析](https://www.freebuf.com/articles/database/401329.html)
 
++ [CannonDesign遭勒索软件攻击，导致客户数据泄露](https://www.freebuf.com/news/409112.html)
+
++ [2024年黑帽大会十大热门安全工具](https://www.freebuf.com/news/408335.html)
+
