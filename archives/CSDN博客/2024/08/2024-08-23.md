@@ -101,3 +101,7 @@
 
 + [回顾我的亚马逊云科技四大认证之旅：从零到认证高手的成长历程](https://blog.csdn.net/rralucard123/article/details/141436496)
 
++ [巧用PDF转Markdown插件，在扣子（Coze）手搓一个有趣好玩的AI Bot](https://blog.csdn.net/INTSIG/article/details/141421155)
+
++ [linux文件——用户缓冲区——概念深度探索、IO模拟实现](https://blog.csdn.net/strive_mianyang/article/details/141368579)
+

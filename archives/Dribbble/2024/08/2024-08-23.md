@@ -95,3 +95,29 @@
 
 + [Tanoa – Logo Design | Digital Smart Recruiting](https://dribbble.com/shots/)
 
++ [Back to the Future](https://dribbble.com/shots/)
+
++ [Nomad Outdoor: Full Preview](https://dribbble.com/shots/)
+
++ [Gig Poster - Allah Las (OG Sketch)](https://dribbble.com/shots/)
+
++ [Blue Moon](https://dribbble.com/shots/)
+
++ [Whisking you back to the good old days!](https://dribbble.com/shots/)
+
++ [Jason Broyles Brand Design](https://dribbble.com/shots/)
+
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [Love is in the air](https://dribbble.com/shots/)
+
++ [Meditations (PSE '24)](https://dribbble.com/shots/)
+
++ [Nature](https://dribbble.com/shots/)
+
++ [Harley-Davidson Homecoming 2024 Posters](https://dribbble.com/shots/)
+
++ ["Out of the Blue" - Digital Vector Art](https://dribbble.com/shots/)
+
++ [USPS Pinback Button Postage Stamps](https://dribbble.com/shots/)
+
