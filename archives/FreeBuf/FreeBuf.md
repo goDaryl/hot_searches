@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 伊朗黑客对特朗普竞选进行攻击；印度国家支付系统部分中断](https://www.freebuf.com/news/409168.html)
 
++ [为逃避赡养子女义务，美国一男子黑进系统让自己”去世“](https://www.freebuf.com/news/409196.html)
+
++ [内存取证工具简述 | 以Volatility和MemProcFS为例](https://www.freebuf.com/sectool/407933.html)
+

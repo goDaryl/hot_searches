@@ -73,3 +73,7 @@
 
 + [革新无缝狩猎，独特骑射打法！《怪物猎人：荒野》试玩报告【UCG】](http://www.acfun.cn/v/ac46130109)
 
++ [浅跳一下《tell me》](http://www.acfun.cn/v/ac46129927)
+
++ [黑神话悟空骚套路 肉的一批伤害还高](http://www.acfun.cn/v/ac46132554)
+

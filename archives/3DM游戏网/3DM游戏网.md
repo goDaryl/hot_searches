@@ -127,3 +127,45 @@
 
 + [传《盗贼之海》PS5版销量已超过100万套](https://www.3dmgame.com/news/202408/3902407.html)
 
++ [经典剧场版《超时空要塞：可曾记得爱》4K蓝光重制](https://www.3dmgame.com/news/202408/3902429.html)
+
++ [《暗区突围：无限》正开发AI技术：能语音指挥的队友](https://www.3dmgame.com/news/202408/3902428.html)
+
++ [射击游戏《狙击精英：抵抗》Steam页面开放 明年发售](https://www.3dmgame.com/news/202408/3902427.html)
+
++ [沉浸感拉满 《四海兄弟：故乡》将提供完整的西西里语配音](https://www.3dmgame.com/news/202408/3902426.html)
+
++ [《极限竞速：地平线5》公布全新预告：捉迷藏模式将于9月上线](https://www.3dmgame.com/news/202408/3902425.html)
+
++ [《怪物猎人：荒野》系统重大变革 男女装备将通用](https://www.3dmgame.com/news/202408/3902424.html)
+
++ [地铁模拟游戏《SubwaySim 2》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202408/3902423.html)
+
++ [《战锤：末世鼠疫2》全新PVP+E模式开启B测 现已可申请测试资格](https://www.3dmgame.com/news/202408/3902422.html)
+
++ [动作游戏《鸦卫奇旅》结束抢先体验 9月26日发售正式版](https://www.3dmgame.com/news/202408/3902421.html)
+
++ [生存动作游戏《原子陨落》新预告 宣布2025年3月发售](https://www.3dmgame.com/news/202408/3902418.html)
+
++ [Xbox老板斯宾塞解释为何《夺宝奇兵：古老之圈》会登陆PS5](https://www.3dmgame.com/news/202408/3902419.html)
+
++ [Roguelite砍杀生存游戏《巴别塔 ：混乱的幸存者》Steam页面开放 发售日待定](https://www.3dmgame.com/news/202408/3902417.html)
+
++ [《幻兽帕鲁》参加Twitch掉宝节 多款限量皮肤亮相](https://www.3dmgame.com/news/202408/3902416.html)
+
++ [《模拟人生》竞品游戏《Inzoi》吸引大量关注 捏人DEMO特别好评](https://www.3dmgame.com/news/202408/3902415.html)
+
++ [《最终幻想16》总监认为 未来的系列游戏作品可能会在PC上首发推出](https://www.3dmgame.com/news/202408/3902420.html)
+
++ [Xbox Series X数字版等三款新主机发售日期公布 现已开放预订](https://www.3dmgame.com/news/202408/3902414.html)
+
++ [搞怪游戏《持枪松鼠》宣布8月29日登陆PC 主机版稍后推出](https://www.3dmgame.com/news/202408/3902413.html)
+
++ [《天国：拯救2》实体典藏版公开 非常有中世纪风格](https://www.3dmgame.com/news/202408/3902412.html)
+
++ [roguelite动作RPG游戏《秘奥法师》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3902411.html)
+
++ [《The Violinist》登陆Steam 古典音乐节奏新游](https://www.3dmgame.com/news/202408/3902410.html)
+
++ [《狂蟒之灾》将拍新版本 杰克布莱克和保罗路德主演](https://www.3dmgame.com/news/202408/3902409.html)
+
