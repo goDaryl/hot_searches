@@ -249,3 +249,7 @@
 
 + [SFL - Frameless Windows Company Minimalist Aesthetic Website](https://dribbble.com/shots/)
 
++ [Rizzle UI/UX Design [Case Study]](https://dribbble.com/shots/)
+
++ [Blue Moon](https://dribbble.com/shots/)
+
