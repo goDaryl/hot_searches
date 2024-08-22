@@ -191,3 +191,19 @@
 
 + [Cactus Country Merch](https://dribbble.com/shots/)
 
++ [NexaPulse web design](https://dribbble.com/shots/)
+
++ [2DAI Brand Style Guide](https://dribbble.com/shots/)
+
++ [Yoga Mobile App](https://dribbble.com/shots/)
+
++ [fg letter, tech logo design, branding](https://dribbble.com/shots/)
+
++ [Betting Logo](https://dribbble.com/shots/)
+
++ [Tepia - design concept](https://dribbble.com/shots/)
+
++ [XionCode Logo Design](https://dribbble.com/shots/)
+
++ [AiTravel | Dashboard Analytics Solution | Orbix Studio](https://dribbble.com/shots/)
+
