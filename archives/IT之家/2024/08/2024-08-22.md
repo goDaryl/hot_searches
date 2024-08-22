@@ -39,3 +39,7 @@
 
 + [卢伟冰谈小米 SU7 亏损：目前规模较小，纯电轿车投入较高](https://m.ithome.com/html/790203.htm)
 
++ [游戏科学联合创始人杨奇：正在尽快准备《黑神话：悟空》更新补丁](https://m.ithome.com/html/790251.htm)
+
++ [王自如被传离职后，部分格力经销商拍手称赞](https://m.ithome.com/html/790250.htm)
+
