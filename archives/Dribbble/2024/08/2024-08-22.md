@@ -209,3 +209,25 @@
 
 + [Pinky Uptempo](https://dribbble.com/shots/)
 
++ [React Logo Concept](https://dribbble.com/shots/)
+
++ [White noise](https://dribbble.com/shots/)
+
++ [Zeus Logo](https://dribbble.com/shots/)
+
++ [Precious Talks](https://dribbble.com/shots/)
+
++ [Fairy tales](https://dribbble.com/shots/)
+
++ [NOX - AI Fintech App](https://dribbble.com/shots/)
+
++ [House Logo](https://dribbble.com/shots/)
+
++ [Belstaff - Ecommerce Component](https://dribbble.com/shots/)
+
++ [Happy Dog](https://dribbble.com/shots/)
+
++ [WILD.CODES web design](https://dribbble.com/shots/)
+
++ [Letter W Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
