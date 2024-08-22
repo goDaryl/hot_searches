@@ -123,3 +123,7 @@
 
 + [微软为残障玩家打造Xbox全新自适应摇杆](https://www.3dmgame.com/news/202408/3902405.html)
 
++ [《大学橄榄球25》超《绝地潜兵2》成2024年至今美国最畅销游戏](https://www.3dmgame.com/news/202408/3902408.html)
+
++ [传《盗贼之海》PS5版销量已超过100万套](https://www.3dmgame.com/news/202408/3902407.html)
+
