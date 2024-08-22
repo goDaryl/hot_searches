@@ -167,3 +167,5 @@
 
 + [Unity的粒子系统](https://blog.csdn.net/2302_80644606/article/details/141322852)
 
++ [【宠粉赠书】智能计算系统：从深度学习到大模型 第2版](https://blog.csdn.net/weixin_41793160/article/details/141407320)
+
