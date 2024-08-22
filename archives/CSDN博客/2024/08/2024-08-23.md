@@ -123,3 +123,5 @@
 
 + [【实战指南】文心快码（Baidu Comate）帮助小白快速实现项目](https://blog.csdn.net/wypdao/article/details/141395328)
 
++ [ros_gz_project_template使用笔记①配置（Gazebo Harmonic ROS2 Jazzy ）](https://blog.csdn.net/ZhangRelay/article/details/141428010)
+
