@@ -109,3 +109,23 @@
 
 + [FPGA第 5 篇，FPGA技术优略势，FPGA学习方向，FPGA学习路线，FPGA专业知识的学习方向（FPGA现场可编程门阵列学习路线和方向）](https://blog.csdn.net/weixin_65793170/article/details/141320467)
 
++ [【OpenCV】 中使用 Lucas-Kanade 光流进行对象跟踪和路径映射](https://blog.csdn.net/gongdiwudu/article/details/141423091)
+
++ [AI绘制思维导图：使用SpringBoot和Vue实现智能可视化](https://blog.csdn.net/beautifulmemory/article/details/141466587)
+
++ [K8S - Java微服务配置之ConfigMap](https://blog.csdn.net/qq_33803102/article/details/141405389)
+
++ [python实现自动化生成pdf报告](https://blog.csdn.net/unbuntu_luo/article/details/141034160)
+
++ [学懂C++（四十一）：网络编程——深入详解 C++ 网络编程之 WebSocket 应用技术](https://blog.csdn.net/martian665/article/details/141425379)
+
++ [Linux信号机制探析--信号的产生](https://blog.csdn.net/2301_77509762/article/details/141396293)
+
++ [GBase 8s数据库学习积累（2）](https://blog.csdn.net/FC_BarceIona/article/details/141430943)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/2401_85027652/article/details/141425249)
+
++ [Moodle集成ONLYOFFICE文档：提高师生协作效率的最佳解决方案](https://blog.csdn.net/jinxinxin1314/article/details/141466272)
+
++ [大数据-96 Spark 集群 SparkSQL Scala编写SQL操作SparkSQL的数据源：JSON、CSV、JDBC、Hive](https://blog.csdn.net/w776341482/article/details/141415402)
+
