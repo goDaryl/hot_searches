@@ -119,3 +119,7 @@
 
 + [183年前血战《指环王：洛希尔人的战争》发布正式预告](https://www.3dmgame.com/news/202408/3902482.html)
 
++ [二战丧尸FPS《Projekt Z: Beyond Order》发布新预告](https://www.3dmgame.com/news/202408/3902490.html)
+
++ [支持DLSS3虚幻5射击游戏《黑色国度》发布光追演示](https://www.3dmgame.com/news/202408/3902489.html)
+

@@ -145,3 +145,21 @@
 
 + [Heads#2](https://dribbble.com/shots/)
 
++ [10 Year Anniversary Badges - Pt 2](https://dribbble.com/shots/)
+
++ [AlterCall UI/UX design](https://dribbble.com/shots/)
+
++ [Q-bot](https://dribbble.com/shots/)
+
++ [Wallet Page for Crypto Admin & Dashboard React Web Template](https://dribbble.com/shots/)
+
++ [Cryptids](https://dribbble.com/shots/)
+
++ [Gig Poster - Dengue Fever](https://dribbble.com/shots/)
+
++ [Around Brand](https://dribbble.com/shots/)
+
++ [AS Studio home page](https://dribbble.com/shots/)
+
++ [Human Cell in Detail: 3D Animation](https://dribbble.com/shots/)
+
