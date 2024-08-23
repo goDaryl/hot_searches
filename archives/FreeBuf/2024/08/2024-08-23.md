@@ -51,3 +51,7 @@
 
 + [应急处置工具之内存检索工具开发](https://www.freebuf.com/sectool/408673.html)
 
++ [GitHub Enterprise Server 曝关键身份验证绕过漏洞，已发布安全更新](https://www.freebuf.com/news/409274.html)
+
++ [NGate安卓恶意软件可利用 NFC 窃取 ATM 内资金](https://www.freebuf.com/news/409267.html)
+

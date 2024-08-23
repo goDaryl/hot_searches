@@ -49,3 +49,7 @@
 
 + [要知 App 订阅源更新：增国际新闻、军事新闻、游戏热点榜……](https://m.ithome.com/html/790399.htm)
 
++ [卢伟冰称小米 MIX Flip 小折叠手机卖爆：32% 来自苹果 iPhone 用户换机，有 55% 是女性用户](https://m.ithome.com/html/790553.htm)
+
++ [雷军到访小鹏汽车广州总部，何小鹏大赞“亦师亦友的兄弟”](https://m.ithome.com/html/790554.htm)
+
