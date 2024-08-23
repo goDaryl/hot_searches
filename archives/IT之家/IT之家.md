@@ -59,3 +59,7 @@
 
 + [VG Insights：《黑神话：悟空》总收入超 4 亿美元](https://m.ithome.com/html/790609.htm)
 
++ [周鸿祎就 360 儿童手表错误问答致歉：非 AI，已启动整改迭代](https://m.ithome.com/html/790459.htm)
+
++ [比亚迪腾势旗舰级 SUV 腾势 N9 谍照曝光，高管曾放话“产品力强过理想 L9 / 问界 M9”](https://m.ithome.com/html/790603.htm)
+

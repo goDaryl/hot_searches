@@ -203,3 +203,27 @@
 
 + [Apartment Investment Mobile App - Property Detail ????](https://dribbble.com/shots/)
 
++ [Titans](https://dribbble.com/shots/)
+
++ [Bike Buddy - UI Motion Exploration](https://dribbble.com/shots/)
+
++ [QuantumX - Online Security Service Branding](https://dribbble.com/shots/)
+
++ [Real Madrid Rebranding Concept](https://dribbble.com/shots/)
+
++ [Veterinary Clinic Website](https://dribbble.com/shots/)
+
++ [VIDQ: brand identity](https://dribbble.com/shots/)
+
++ [neurokaire: AI Neurology Precision Medicine - Drug Chart UI](https://dribbble.com/shots/)
+
++ [Engraving of a man](https://dribbble.com/shots/)
+
++ [El Tigre](https://dribbble.com/shots/)
+
++ [RepCard - Physical Card](https://dribbble.com/shots/)
+
++ [Colorful King Logo](https://dribbble.com/shots/)
+
++ [Bookmaker.xyz: Football Jackpot](https://dribbble.com/shots/)
+
