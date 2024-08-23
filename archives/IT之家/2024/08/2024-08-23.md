@@ -69,3 +69,5 @@
 
 + [豪掷超 600 万，北汽集团赠首都奥运英雄 14 辆享界 S9 Ultra 轿车](https://m.ithome.com/html/790491.htm)
 
++ [鸿海刘扬伟：若印度产苹果 iPhone 良率仅 50% 我早就撤资了](https://m.ithome.com/html/790662.htm)
+
