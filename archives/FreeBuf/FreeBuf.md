@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | MIT发布最全AI风险数据库；网安巨头Palo Alto市值逼近万亿规模](https://www.freebuf.com/news/409226.html)
 
++ [研发安全 | 数据加密全生命周期管理](https://www.freebuf.com/articles/system/407768.html)
+

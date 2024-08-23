@@ -133,3 +133,39 @@
 
 + [亚马逊游戏总裁：新《古墓丽影》进展很顺利 水晶动力没太受裁员影响](https://www.3dmgame.com/news/202408/3902491.html)
 
++ [电影《航海王：强者天下》今日正式上映 盛夏热血起航看超燃一战](https://www.3dmgame.com/news/202408/3902510.html)
+
++ [《指环王》动画电影《指环王 洛汗人之战》首支预告公开](https://www.3dmgame.com/news/202408/3902511.html)
+
++ [Thunderful财报：2024年为“过渡年” 净收入下降14.5%](https://www.3dmgame.com/news/202408/3902509.html)
+
++ [索尼TGS 2024参展阵容公布 小岛秀夫《死亡搁浅2》将举行特别舞台节目](https://www.3dmgame.com/news/202408/3902508.html)
+
++ [《木卫四协议》衍生类肉鸽游戏《现已编辑》公布 10月底推出](https://www.3dmgame.com/news/202408/3902507.html)
+
++ [腾讯旗下奇幻MMORPG《塔瑞斯世界》Steam页面公布 10月上线](https://www.3dmgame.com/news/202408/3902512.html)
+
++ [策略管理类游戏《火星人闹翻地球》公布 将于2025年推出抢先体验版](https://www.3dmgame.com/news/202408/3902513.html)
+
++ [为了开发《塞尔达传说：王国之泪》 任天堂创建了一个内部社交平台](https://www.3dmgame.com/news/202408/3902505.html)
+
++ [动画电影改编游戏《忍者神龟：变种释放》Steam页面上线 10月推出](https://www.3dmgame.com/news/202408/3902506.html)
+
++ [回合制策略游戏《波拿巴 机械化革命》Steam页面开放 2025年第一季度发行](https://www.3dmgame.com/news/202408/3902504.html)
+
++ [2024年科隆开发者大会Devcom为史上最大 与会人数增长45%](https://www.3dmgame.com/news/202408/3902503.html)
+
++ [卡普空TGS 2024参展游戏阵容公布：《怪物猎人：荒野》等](https://www.3dmgame.com/news/202408/3902501.html)
+
++ [Xbox部分玩家无法使用育碧订阅服务 公司回应：可申请退款](https://www.3dmgame.com/news/202408/3902499.html)
+
++ [特别好评像素风格沙盒游戏《地心护核者》开启免费试玩周末 正式版下周推出](https://www.3dmgame.com/news/202408/3902498.html)
+
++ [《小小梦魇3》实机演示公布 2025年正式发售](https://www.3dmgame.com/news/202408/3902497.html)
+
++ [黑曜石确认：《宣誓》将有超过10种不同的结局](https://www.3dmgame.com/news/202408/3902496.html)
+
++ [经典科幻射击游戏《马拉松 无限》已在Steam正式推出 《马拉松》三部曲已完整移植](https://www.3dmgame.com/news/202408/3902502.html)
+
++ [《寂静岭2：重制版》首次通关平均需要16-18小时](https://www.3dmgame.com/news/202408/3902500.html)
+
