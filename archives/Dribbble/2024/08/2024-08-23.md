@@ -169,3 +169,11 @@
 
 + [Pinky Uptempo](https://dribbble.com/shots/)
 
++ [Finance Landing Page Exploration](https://dribbble.com/shots/)
+
++ [Zendenta - Patient App for Rescheduling Dental Appointments](https://dribbble.com/shots/)
+
++ [Breathing Techniques App Website Design](https://dribbble.com/shots/)
+
++ [First tobacco](https://dribbble.com/shots/)
+
