@@ -101,3 +101,11 @@
 
 + [Day97：云上攻防-云原生篇&Kubernetes&K8s安全&API&Kubelet未授权访问&容器执行](https://blog.csdn.net/m0_74402888/article/details/141434082)
 
++ [数学建模学习](https://blog.csdn.net/2301_79347603/article/details/140991443)
+
++ [搭建Node.js后端](https://blog.csdn.net/cn_514/article/details/141426215)
+
++ [【网络】HTTPS——HTTP的安全版本](https://blog.csdn.net/2301_80224556/article/details/141384753)
+
++ [FPGA第 5 篇，FPGA技术优略势，FPGA学习方向，FPGA学习路线，FPGA专业知识的学习方向（FPGA现场可编程门阵列学习路线和方向）](https://blog.csdn.net/weixin_65793170/article/details/141320467)
+
