@@ -43,3 +43,5 @@
 
 + [攻防演练 | ip溯源反制技战法](https://www.freebuf.com/defense/407886.html)
 
++ [FreeBuf早报 | MIT发布最全AI风险数据库；网安巨头Palo Alto市值逼近万亿规模](https://www.freebuf.com/news/409226.html)
+

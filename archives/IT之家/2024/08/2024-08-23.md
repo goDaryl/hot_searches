@@ -31,3 +31,7 @@
 
 + [魏建军称不需要周鸿祎试驾：后者回应理解，但好产品也要有好流量](https://m.ithome.com/html/790465.htm)
 
++ [国内首位，全盲女玩家靠听声辨位打过《黑神话：悟空》第 1 个 BOSS](https://m.ithome.com/html/790488.htm)
+
++ [苹果 iPhone 16 / Pro 系列相机曝光：4800 万主摄、引入 JPEG-XL 新格式、全系配拍照按钮](https://m.ithome.com/html/790515.htm)
+

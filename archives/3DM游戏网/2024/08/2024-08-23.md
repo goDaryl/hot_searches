@@ -123,3 +123,13 @@
 
 + [支持DLSS3虚幻5射击游戏《黑色国度》发布光追演示](https://www.3dmgame.com/news/202408/3902489.html)
 
++ [《星河舰队：灭绝》科隆游戏展放出新预告 包含单人战役的正式版10月推出](https://www.3dmgame.com/news/202408/3902495.html)
+
++ [《无主之地4》首发有Steam Gearbox CEO重新回应Steam平台快死言论](https://www.3dmgame.com/news/202408/3902493.html)
+
++ [《使命召唤：战区》Next发布会将展示新地图“99区”](https://www.3dmgame.com/news/202408/3902494.html)
+
++ [万代机甲射击游戏《奇异贤伴：爱达之歌》宣布封闭网络测试 9月13日举行](https://www.3dmgame.com/news/202408/3902492.html)
+
++ [亚马逊游戏总裁：新《古墓丽影》进展很顺利 水晶动力没太受裁员影响](https://www.3dmgame.com/news/202408/3902491.html)
+
