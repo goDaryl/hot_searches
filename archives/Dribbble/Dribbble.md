@@ -187,3 +187,13 @@
 
 + [Medals of honour](https://dribbble.com/shots/)
 
++ [Syncra - AI Artificial Intelligence Voice Landing Page Website](https://dribbble.com/shots/)
+
++ [bunny sketches](https://dribbble.com/shots/)
+
++ [TDA - Fintech Platform](https://dribbble.com/shots/)
+
++ [Verified Play logo design: RGB play icon + check mark](https://dribbble.com/shots/)
+
++ [Riddance_Brand expression](https://dribbble.com/shots/)
+
