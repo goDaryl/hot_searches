@@ -115,3 +115,25 @@
 
 + [saturday(client work)](https://dribbble.com/shots/)
 
++ [Meditations (PSE '24)](https://dribbble.com/shots/)
+
++ [Messi](https://dribbble.com/shots/)
+
++ [Rizzle UI/UX Design [Case Study]](https://dribbble.com/shots/)
+
++ [It's easy being green.](https://dribbble.com/shots/)
+
++ [Bistrot](https://dribbble.com/shots/)
+
++ [Icons for a Non Alcoholic Bottle Shop](https://dribbble.com/shots/)
+
++ [Summer Dash](https://dribbble.com/shots/)
+
++ [6Throne badges](https://dribbble.com/shots/)
+
++ [Nature](https://dribbble.com/shots/)
+
++ [Jason Broyles Brand Design](https://dribbble.com/shots/)
+
++ [ｋｉｔｔｙ  ｂｌａｄｅ ????](https://dribbble.com/shots/)
+
