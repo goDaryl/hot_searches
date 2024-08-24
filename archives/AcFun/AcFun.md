@@ -71,3 +71,5 @@
 
 + [要人命的小奶音](http://www.acfun.cn/v/ac46156475)
 
++ [吼姆拉只是在偷偷唱歌而已！](http://www.acfun.cn/v/ac46153961)
+
