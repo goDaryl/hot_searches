@@ -197,3 +197,11 @@
 
 + [经典MOD重获新生 UE5版《噩梦之屋：重制版》公布](https://www.3dmgame.com/news/202408/3902571.html)
 
++ [网友吐槽腾讯/爱奇艺VIP会员权益太坑：这吃相难看](https://www.3dmgame.com/news/202408/3902578.html)
+
++ [保留第三人称耗费大量开发成本 《宣誓》演示视频欣赏](https://www.3dmgame.com/news/202408/3902579.html)
+
++ [放弃与苹果Vision Pro竞争 Quest高端型号停止开发](https://www.3dmgame.com/news/202408/3902576.html)
+
++ [《Ara：未讲述的历史》规模宏大 现场演示视频欣赏](https://www.3dmgame.com/news/202408/3902577.html)
+
