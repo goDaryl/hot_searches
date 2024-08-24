@@ -153,3 +153,7 @@
 
 + [MyBatis 源码解读：MyBatis 核心架构与模块总览](https://blog.csdn.net/qq_40254606/article/details/141474169)
 
++ [使用canal增量同步ES索引库数据](https://blog.csdn.net/ZHUSHANGLIN/article/details/141467183)
+
++ [【HarmonyOS NEXT星河版开发实战】天气查询APP](https://blog.csdn.net/2302_80329073/article/details/141469164)
+

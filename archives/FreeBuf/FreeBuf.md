@@ -45,3 +45,7 @@
 
 + [FreeBuf 周报 | 网易云音乐崩上热搜；丰田再发数据泄露事件](https://www.freebuf.com/news/409340.html)
 
++ [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
+
++ [基于邮箱的域名欺骗攻击：利用解析器绕过访问控制](https://www.freebuf.com/articles/network/408767.html)
+

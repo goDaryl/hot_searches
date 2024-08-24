@@ -167,3 +167,13 @@
 
 + [3A级开放世界《特种部队》游戏正开发中](https://www.3dmgame.com/news/202408/3902556.html)
 
++ [《明末：渊虚之羽》研发Q&A：无常缘起](https://www.3dmgame.com/news/202408/3902565.html)
+
++ [2024年科隆国际游戏展获奖游戏名单 《怪物猎人：荒野》获多个奖项](https://www.3dmgame.com/news/202408/3902564.html)
+
++ [《黑神话：悟空》收入或超26亿元！华强北组装电脑生意被带火](https://www.3dmgame.com/news/202408/3902562.html)
+
++ [格斗游戏《Space Hunters》Steam页面公布 明年发售](https://www.3dmgame.com/news/202408/3902563.html)
+
++ [《使命召唤：黑色行动6》发布僵尸模式“自由瀑镇”CG预告](https://www.3dmgame.com/news/202408/3902561.html)
+
