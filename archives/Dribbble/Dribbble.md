@@ -198,3 +198,9 @@
 
 + [Summer Tomatoes](https://dribbble.com/shots/)
 
++ [W letter mark, logo design.](https://dribbble.com/shots/)
+
++ [layer, logo design, branding](https://dribbble.com/shots/)
+
++ [P logo](https://dribbble.com/shots/)
+

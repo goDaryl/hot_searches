@@ -223,3 +223,5 @@
 
 + [《乐高2K竞速》开发商Visual Conecepts工作室再次裁员](https://www.3dmgame.com/news/202408/3902586.html)
 
++ [《Mirthwood》最新预告片欣赏 发售后更新计划公布](https://www.3dmgame.com/news/202408/3902589.html)
+
