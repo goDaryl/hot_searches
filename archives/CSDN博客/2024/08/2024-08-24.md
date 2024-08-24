@@ -187,3 +187,11 @@
 
 + [【网络】网络层协议-IP协议](https://blog.csdn.net/2301_77112634/article/details/141473114)
 
++ [【人工智能】AI虚拟主播制作初体验：从生成数字人到视频创作全流程](https://blog.csdn.net/2201_75539691/article/details/141474531)
+
++ [风波中坚守：技术应对突发故障的危与机](https://blog.csdn.net/ChaoMing_H/article/details/141495358)
+
++ [android 实现简易音乐播放器](https://blog.csdn.net/yuyanhaonan/article/details/141467523)
+
++ [如何让python爬虫的数据可视化？](https://blog.csdn.net/lhx19373106160/article/details/141425916)
+

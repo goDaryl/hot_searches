@@ -233,3 +233,5 @@
 
 + [全球首制7500m³液态二氧化碳运输船 首次试航](https://www.3dmgame.com/news/202408/3902591.html)
 
++ [外国主播盛赞《黑神话》：如果它不是年度TGA就是在造假](https://www.3dmgame.com/news/202408/3902594.html)
+

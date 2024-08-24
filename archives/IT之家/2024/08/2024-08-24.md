@@ -55,3 +55,5 @@
 
 + [九号电动摩托车 E300P MK2 发布：5.9s 零百加速、125km 混合工况续航](https://m.ithome.com/html/790763.htm)
 
++ [荣耀获中国移动投资入股](https://m.ithome.com/html/790786.htm)
+
