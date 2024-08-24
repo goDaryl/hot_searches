@@ -31,3 +31,7 @@
 
 + [摩尔线程内测《黑神话：悟空》专属显卡驱动，支持 MTT S80 流畅运行](https://m.ithome.com/html/790772.htm)
 
++ [公安部详解“网络身份认证”，没有网号、网证也可正常上网](https://m.ithome.com/html/790767.htm)
+
++ [华为 Petal 花瓣地图（国际版）众测 4.5.0.203：支持中国大陆实时公交](https://m.ithome.com/html/790749.htm)
+

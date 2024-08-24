@@ -157,3 +157,13 @@
 
 + [Atlus《暗喻幻想》新预告片：超越幻想的旅行](https://www.3dmgame.com/news/202408/3902552.html)
 
++ [小岛秀夫庆生61岁生日 转发《黑神话》销量过千万贺图](https://www.3dmgame.com/news/202408/3902557.html)
+
++ [没有最差只有更差 《星鸣特攻》首发表现甚至“不如预期”](https://www.3dmgame.com/news/202408/3902558.html)
+
++ [航天模拟游戏《Spaceflight Simulator2》Steam页面公布 发售日待定](https://www.3dmgame.com/news/202408/3902559.html)
+
++ [《消逝的光芒2》终极版将于9月30日起全平台下架停售](https://www.3dmgame.com/news/202408/3902560.html)
+
++ [3A级开放世界《特种部队》游戏正开发中](https://www.3dmgame.com/news/202408/3902556.html)
+
