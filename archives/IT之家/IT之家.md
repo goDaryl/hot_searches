@@ -47,3 +47,5 @@
 
 + [某通信公司职员盗用 3400 余户家庭宽带账户、私搭基站贩售流量获刑](https://m.ithome.com/html/790729.htm)
 
++ [EDG 2:1 战胜 LEV 再创历史，CN 赛区首度杀入《无畏契约》全球冠军赛总决赛](https://m.ithome.com/html/790731.htm)
+
