@@ -187,3 +187,13 @@
 
 + [《暗区突围：无限》暂无离线模式：成本太高风险太大](https://www.3dmgame.com/news/202408/3902566.html)
 
++ [《第一后裔》第一赛季更新改为分成两部分发布](https://www.3dmgame.com/news/202408/3902575.html)
+
++ [《博德之门3》成功后，《贪婪之秋2》得以抢先体验](https://www.3dmgame.com/news/202408/3902574.html)
+
++ [《Fera: 破碎部落》9月17日EA发售 暂不支持中文](https://www.3dmgame.com/news/202408/3902573.html)
+
++ [苹果备货近亿部iPhone16：Pro和Max机型占比70%](https://www.3dmgame.com/news/202408/3902572.html)
+
++ [经典MOD重获新生 UE5版《噩梦之屋：重制版》公布](https://www.3dmgame.com/news/202408/3902571.html)
+
