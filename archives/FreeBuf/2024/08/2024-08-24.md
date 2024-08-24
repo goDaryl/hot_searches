@@ -49,3 +49,7 @@
 
 + [基于邮箱的域名欺骗攻击：利用解析器绕过访问控制](https://www.freebuf.com/articles/network/408767.html)
 
++ [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
+
++ [蓝牙音箱和耳机安全测评报告](https://www.freebuf.com/articles/paper/408931.html)
+
