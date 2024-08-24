@@ -61,3 +61,9 @@
 
 + [反诈电影《孤注一掷》今日重映，总票房已达 38.48 亿元](https://m.ithome.com/html/790870.htm)
 
++ [消息称 IBM 中国研发岗位员工被收回访问权限，涉全国各地千余人](https://m.ithome.com/html/790868.htm)
+
++ [中国水下通信技术里程碑式突破：成功接收 30 公里外信号，华为技术立功](https://m.ithome.com/html/790783.htm)
+
++ [苹果被曝测试 4 款 M4 芯片 Mac 设备，有望今秋发布](https://m.ithome.com/html/790777.htm)
+
