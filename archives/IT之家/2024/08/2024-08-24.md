@@ -49,3 +49,5 @@
 
 + [EDG 2:1 战胜 LEV 再创历史，CN 赛区首度杀入《无畏契约》全球冠军赛总决赛](https://m.ithome.com/html/790731.htm)
 
++ [消息称苹果认为 iPhone 16 系列手机中 Pro / Max 机型将占据 70% 销量](https://m.ithome.com/html/790758.htm)
+
