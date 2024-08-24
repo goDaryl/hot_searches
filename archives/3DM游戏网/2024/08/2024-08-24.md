@@ -239,3 +239,7 @@
 
 + [#Steam崩了#上微博热搜 但目前已经可以登录了](https://www.3dmgame.com/news/202408/3902596.html)
 
++ [《星刃》开发商Shift Up发布Q2财报 《星刃》贡献了1900万美元](https://www.3dmgame.com/news/202408/3902598.html)
+
++ [4天破千万什么概念？《黑神话》和国外3A游戏首发销量对比](https://www.3dmgame.com/news/202408/3902597.html)
+
