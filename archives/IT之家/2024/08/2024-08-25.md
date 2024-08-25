@@ -63,3 +63,5 @@
 
 + [古尔曼：苹果将把 Apple Intelligence 作为 iPhone 16 / Pro 系列的宣传重点](https://m.ithome.com/html/790926.htm)
 
++ [2025 款比亚迪汉 DM-i 实车曝光，配备激光雷达](https://m.ithome.com/html/791023.htm)
+
