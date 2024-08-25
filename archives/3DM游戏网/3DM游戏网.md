@@ -193,3 +193,13 @@
 
 + [2024年暑期档电影票房破110亿！《抓娃娃》遥遥领先](https://www.3dmgame.com/news/202408/3902623.html)
 
++ [《夺宝奇兵：古老之圈》一直都是陶德·霍华德的梦想](https://www.3dmgame.com/news/202408/3902630.html)
+
++ [首尔拟禁止90%电量以上车进地下车库 民众反应强烈](https://www.3dmgame.com/news/202408/3902631.html)
+
++ [《牧场物语 移动版 Life&Love》9月5日登陆Steam/NS](https://www.3dmgame.com/news/202408/3902628.html)
+
++ [玩家努力挖掘《半条命3》证据 Valve正在全力掩盖](https://www.3dmgame.com/news/202408/3902629.html)
+
++ [上周Steam国内流量高达1.2EB 《黑神话：悟空》占大头](https://www.3dmgame.com/news/202408/3902627.html)
+
