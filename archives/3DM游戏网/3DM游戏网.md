@@ -209,3 +209,5 @@
 
 + [《消费者之夜》10月登陆Steam 疯狂顾客驾临超市](https://www.3dmgame.com/news/202408/3902634.html)
 
++ [谢苗动作电影《火遮眼》首曝剧照 谷垣健治执导](https://www.3dmgame.com/news/202408/3902635.html)
+
