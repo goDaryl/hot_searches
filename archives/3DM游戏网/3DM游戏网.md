@@ -183,3 +183,5 @@
 
 + [国产武侠单机《天命奇御二》PS5版现已发售](https://www.3dmgame.com/news/202407/3898884.html)
 
++ [《Marko: Beyond Brave》Steam试玩发布 银河恶魔城新游](https://www.3dmgame.com/news/202408/3902622.html)
+
