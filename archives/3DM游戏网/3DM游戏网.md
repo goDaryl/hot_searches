@@ -185,3 +185,11 @@
 
 + [《Marko: Beyond Brave》Steam试玩发布 银河恶魔城新游](https://www.3dmgame.com/news/202408/3902622.html)
 
++ [《黑神话：悟空》首次线下主题音乐会官宣：8月28日开票 北上广深等巡演](https://www.3dmgame.com/news/202408/3902626.html)
+
++ [《Victory Heat Rally》10月登陆Steam 复古风赛车](https://www.3dmgame.com/news/202408/3902624.html)
+
++ [《Lost Records: Bloom & Rage》为何回归章节模式？](https://www.3dmgame.com/news/202408/3902625.html)
+
++ [2024年暑期档电影票房破110亿！《抓娃娃》遥遥领先](https://www.3dmgame.com/news/202408/3902623.html)
+
