@@ -145,3 +145,11 @@
 
 + [Bourbon & Balls 2](https://dribbble.com/shots/)
 
++ [Crypto Dashboard Design for Trading Page](https://dribbble.com/shots/)
+
++ [Ticket Booking Mobile IOS App Design Concept](https://dribbble.com/shots/)
+
++ [The Rite](https://dribbble.com/shots/)
+
++ [The Morald Whiskey Co. Branding and Packaging Design / Whiskey](https://dribbble.com/shots/)
+

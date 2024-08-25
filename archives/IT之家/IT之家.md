@@ -29,3 +29,7 @@
 
 + [深蓝明确 S07 延期交付补偿政策：每天补偿 120 元，上限为 1 万元](https://m.ithome.com/html/790886.htm)
 
++ [OPPO ColorOS 15 细节曝光：新增分层景深壁纸，流体云支持更多信息显示](https://m.ithome.com/html/790896.htm)
+
++ [火星改造方案出炉，几个月内，让整个火星表面升温 30℃](https://m.ithome.com/html/790827.htm)
+

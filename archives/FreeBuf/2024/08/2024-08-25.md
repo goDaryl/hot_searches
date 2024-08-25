@@ -41,3 +41,5 @@
 
 + [攻防演练 | ip溯源反制技战法](https://www.freebuf.com/defense/407886.html)
 
++ [MFC框架软件逆向研究](https://www.freebuf.com/defense/408631.html)
+
