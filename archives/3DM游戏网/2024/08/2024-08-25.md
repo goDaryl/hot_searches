@@ -109,3 +109,9 @@
 
 + [《龙腾世纪》新作预告片展示高级别战斗场面](https://www.3dmgame.com/news/202408/3902601.html)
 
++ [《暗黑4》Steam开启免费试玩 新史低价208元促销](https://www.3dmgame.com/news/202408/3902606.html)
+
++ [《ROOST》Steam页面上线 复古风恐怖探索](https://www.3dmgame.com/news/202408/3902605.html)
+
++ [《漫漫长路 沙巫之旅》上市日期公布 最新预告片欣赏](https://www.3dmgame.com/news/202408/3902607.html)
+

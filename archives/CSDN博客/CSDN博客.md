@@ -143,3 +143,5 @@
 
 + [中国数据库的崛起：从本土化挑战到全球化机遇](https://blog.csdn.net/qq_21484461/article/details/141478117)
 
++ [基于微信小程序uniapp+数据可视化+SpringBoot的美食推荐小程序平台设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/qq_39126426/article/details/141496929)
+
