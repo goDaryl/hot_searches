@@ -57,3 +57,7 @@
 
 + [游戏科学联合创始人杨奇回应《黑神话：悟空》PS5 优化问题：程序同学正在绞尽脑汁](https://m.ithome.com/html/790993.htm)
 
++ [半月后 iPhone 16 即将上线：京东 iPhone 15 Pro Max 立减 1993 元 8 折购](https://m.ithome.com/html/791013.htm)
+
++ [五岁男孩驾驶兰博基尼 Revuelto 狂飙，时速达 312km/h](https://m.ithome.com/html/790954.htm)
+
