@@ -25,3 +25,5 @@
 
 + [古尔曼：苹果将把 Apple Intelligence 作为 iPhone 16 / Pro 系列的宣传重点](https://m.ithome.com/html/790926.htm)
 
++ [微博博主“袁启聪”被禁言，曾测试享界 S9 飞坡引争议](https://m.ithome.com/html/791057.htm)
+
