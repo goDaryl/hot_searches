@@ -203,3 +203,5 @@
 
 + [上周Steam国内流量高达1.2EB 《黑神话：悟空》占大头](https://www.3dmgame.com/news/202408/3902627.html)
 
++ [Interplay联合创始人历经二十余年拿回大量库存纪念品](https://www.3dmgame.com/news/202408/3902632.html)
+
