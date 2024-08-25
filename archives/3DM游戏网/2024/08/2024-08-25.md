@@ -205,3 +205,7 @@
 
 + [Interplay联合创始人历经二十余年拿回大量库存纪念品](https://www.3dmgame.com/news/202408/3902632.html)
 
++ [《夺宝奇兵：古老之圈》里印第安纳不可能成为枪手](https://www.3dmgame.com/news/202408/3902633.html)
+
++ [《消费者之夜》10月登陆Steam 疯狂顾客驾临超市](https://www.3dmgame.com/news/202408/3902634.html)
+
