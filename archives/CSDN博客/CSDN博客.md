@@ -101,3 +101,15 @@
 
 + [使用 ECharts 进行数据可视化](https://blog.csdn.net/qq_62512874/article/details/141454483)
 
++ [Stable Diffusion整合包与手动本地部署结合内网穿透远程AI绘画](https://blog.csdn.net/qq_73017178/article/details/141465452)
+
++ [嵌入式机器视觉的流水线分拣机器人：OpenCV、 FreeRTOS、 TensorFlow（代码详解）](https://blog.csdn.net/qq_40431685/article/details/141496527)
+
++ [【研发日记】嵌入式处理器技能解锁(五)——TI C2000 DSP的中断系统](https://blog.csdn.net/CSSUST/article/details/141529039)
+
++ [SpringBoot整合MQ](https://blog.csdn.net/weixin_55772633/article/details/141468703)
+
++ [Linux 可视化管理工具：Webmin](https://blog.csdn.net/m0_73557631/article/details/141464610)
+
++ [代理售票系统|基于SprinBoot+vue的代理售票系统(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/141528714)
+
