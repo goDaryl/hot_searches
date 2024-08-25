@@ -65,3 +65,7 @@
 
 + [2025 款比亚迪汉 DM-i 实车曝光，配备激光雷达](https://m.ithome.com/html/791023.htm)
 
++ [无线充电新规 9 月 1 日施行：MagSafe / Qi2 因频率冲突或将停售，苹果 iPhone 无线功率改为 7.5W](https://m.ithome.com/html/790991.htm)
+
++ [联想 ThinkPad P1 AI 2024 笔记本 8 月 27 日上市，首发 LPCAMM2 LPDDR5x-7467 可换内存](https://m.ithome.com/html/790922.htm)
+
