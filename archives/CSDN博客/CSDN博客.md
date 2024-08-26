@@ -151,3 +151,15 @@
 
 + [大数据-100 Spark 集群 Spark Streaming DStream转换 黑名单过滤的三种实现方式](https://blog.csdn.net/w776341482/article/details/141492146)
 
++ [Spring Boot 动态定时任务：实现与应用详解](https://blog.csdn.net/fudaihb/article/details/141384613)
+
++ [【大数据算法】一文掌握大数据算法之：时间亚线性算法。](https://blog.csdn.net/wuyoudeyuer/article/details/141445990)
+
++ [C++篇：C向C++迈进（上）](https://blog.csdn.net/2301_80401288/article/details/141532110)
+
++ [Kafka的Offset（偏移量）详解](https://blog.csdn.net/qq_46112274/article/details/141529015)
+
++ [【C++从小白到大牛】C++智能指针的使用、原理和分类](https://blog.csdn.net/hanwangyyds/article/details/141459229)
+
++ [基于无人机边沿相关 ------- IBUS、SBUS协议和PPM信号](https://blog.csdn.net/Dustinthewine/article/details/141476099)
+

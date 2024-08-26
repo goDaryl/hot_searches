@@ -45,3 +45,5 @@
 
 + [FreeBuf早报 | Telegram创始人在法国被捕；公安部详解“网络身份认证”](https://www.freebuf.com/news/409391.html)
 
++ [开源加密库的大规模漏洞调查](https://www.freebuf.com/articles/paper/408345.html)
+
