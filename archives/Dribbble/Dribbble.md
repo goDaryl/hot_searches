@@ -189,3 +189,27 @@
 
 + [Traipot Branding, visual identity, corporate brand design](https://dribbble.com/shots/)
 
++ [Minimalist Skincare website](https://dribbble.com/shots/)
+
++ [Lumière- Fashion mobile app](https://dribbble.com/shots/)
+
++ [Finance Dark theme](https://dribbble.com/shots/)
+
++ [Thunder web portfolio](https://dribbble.com/shots/)
+
++ [nest logo design: crib & heart for baby products and furniture](https://dribbble.com/shots/)
+
++ [Web Design(UX+UI) for Enjoy the Space: Journey through the Space](https://dribbble.com/shots/)
+
++ [Flysend](https://dribbble.com/shots/)
+
++ [Another Story](https://dribbble.com/shots/)
+
++ [Restaurant logo](https://dribbble.com/shots/)
+
++ [BoozUI – Health & Fitness Dashboard UI](https://dribbble.com/shots/)
+
++ [Tepia - web design](https://dribbble.com/shots/)
+
++ [Wordmarks and Logotypes](https://dribbble.com/shots/)
+
