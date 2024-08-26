@@ -143,3 +143,7 @@
 
 + [linux文件——文件系统——学习硬件：磁盘](https://blog.csdn.net/strive_mianyang/article/details/141530925)
 
++ [【OpenCV】SIFT（尺度不变特征变换）算法？](https://blog.csdn.net/gongdiwudu/article/details/141459169)
+
++ [AI编程工具合集](https://blog.csdn.net/beautifulmemory/article/details/141528801)
+
