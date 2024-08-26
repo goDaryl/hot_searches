@@ -157,3 +157,9 @@
 
 + [《拳皇》推出30周年纪念网站开启 纪念策划将启动](https://www.3dmgame.com/news/202408/3902654.html)
 
++ [英特尔的下代核显有名字了 驱动已经就位](https://www.3dmgame.com/news/202408/3902674.html)
+
++ [UE5后室游戏Subliminal《忆蚀》全球发行确认，实机演示宣传片公布](https://www.3dmgame.com/news/202408/3902672.html)
+
++ [《辐射》真人剧发布幕后故事短片 用18分钟的时长揭秘制作花絮](https://www.3dmgame.com/news/202408/3902673.html)
+

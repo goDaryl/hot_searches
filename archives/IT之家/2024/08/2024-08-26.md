@@ -35,3 +35,7 @@
 
 + [卢伟冰：小米 MIX Flip 折叠屏产品设计考虑到男性用户，性能 / 续航目标旗舰直板手机](https://m.ithome.com/html/790959.htm)
 
++ [哪吒 S 猎装版车型售价公布：增程 / 纯电双动力版本，15.99 万元起](https://m.ithome.com/html/791040.htm)
+
++ [2025 款比亚迪宋 L EV 首张官图公布，搭载天神之眼高阶智驾](https://m.ithome.com/html/790982.htm)
+

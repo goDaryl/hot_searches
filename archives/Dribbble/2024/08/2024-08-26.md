@@ -163,3 +163,11 @@
 
 + [Data Display Design Component](https://dribbble.com/shots/)
 
++ [Finanseed - Financial Dashboard Website](https://dribbble.com/shots/)
+
++ [Jiffy - Mobile AI Assistant App](https://dribbble.com/shots/)
+
++ [SaaS Website Design](https://dribbble.com/shots/)
+
++ [Analitify - Social Media Analytics Dashboard](https://dribbble.com/shots/)
+
