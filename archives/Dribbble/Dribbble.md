@@ -53,3 +53,51 @@
 
 + [Almigor](https://dribbble.com/shots/)
 
++ [つづく](https://dribbble.com/shots/)
+
++ [Southpaw Logo Design](https://dribbble.com/shots/)
+
++ [Mushroom](https://dribbble.com/shots/)
+
++ [thursday (client work)](https://dribbble.com/shots/)
+
++ [IP Image Design](https://dribbble.com/shots/)
+
++ [Bourbon & Balls 2](https://dribbble.com/shots/)
+
++ [Love is in the air](https://dribbble.com/shots/)
+
++ [Heads#2](https://dribbble.com/shots/)
+
++ [Abundance](https://dribbble.com/shots/)
+
++ [Octopus](https://dribbble.com/shots/)
+
++ [Gig Poster - Sir Woman](https://dribbble.com/shots/)
+
++ [Gig Poster - Allah Las (OG Sketch)](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Secondary Logo](https://dribbble.com/shots/)
+
++ [Serve It Up](https://dribbble.com/shots/)
+
++ [De La Soul - Restaurant Brand Identity](https://dribbble.com/shots/)
+
++ [Halftone illustrations](https://dribbble.com/shots/)
+
++ [A Bit Salty](https://dribbble.com/shots/)
+
++ [Page & Leaf](https://dribbble.com/shots/)
+
++ [Q-bot](https://dribbble.com/shots/)
+
++ [Bring back the flavours of the past](https://dribbble.com/shots/)
+
++ [Meditations (PSE '24)](https://dribbble.com/shots/)
+
++ [Lone Star Beer Merch](https://dribbble.com/shots/)
+
++ [Back to the Future](https://dribbble.com/shots/)
+
++ [Napoletane Playing Cards](https://dribbble.com/shots/)
+
