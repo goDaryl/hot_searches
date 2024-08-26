@@ -107,3 +107,21 @@
 
 + [一文速学-零成本与数据沟通NL2SQL的概念和实现技术](https://blog.csdn.net/master_hunter/article/details/141566410)
 
++ [【机器学习】CNN在计算机视觉中的应用](https://blog.csdn.net/qq_44214428/article/details/141089189)
+
++ [【与C++的邂逅】--- C/C++内存管理](https://blog.csdn.net/2301_79448270/article/details/141531554)
+
++ [【图像增强】使用 Albumentations Python 库（02）](https://blog.csdn.net/gongdiwudu/article/details/141496442)
+
++ [探索 graphrag-local-ollama：项目优势及实战应用](https://blog.csdn.net/xiaobing259/article/details/141536330)
+
++ [使用MVC设计模式根据软件系统设计建设高校数字化教育教学资源共享平台](https://blog.csdn.net/g984160547/article/details/141433695)
+
++ [Spring Boot实战：通过Spring Cloud Sentinel实现流量控制](https://blog.csdn.net/h356363/article/details/141528011)
+
++ [【Kubernetes】K8s 持久化存储方式](https://blog.csdn.net/be_racle/article/details/141337672)
+
++ [Android APK优化系列瘦身篇：实战一个APK从11MB压缩到4MB,APK无用资源去除与代码压缩、混淆，瘦身维度的选型分析](https://blog.csdn.net/qq_40853919/article/details/141535975)
+
++ [Unity游戏开发——Unity脚本组件：游戏开发的灵魂](https://blog.csdn.net/2301_79175212/article/details/141536093)
+
