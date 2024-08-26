@@ -209,3 +209,11 @@
 
 + [C++第四十一弹---C++11新特性深度解析：让你的代码更现代、更高效(上)](https://blog.csdn.net/2201_75584283/article/details/141105179)
 
++ [HTML5有格调的个人介绍网站源码](https://blog.csdn.net/weixin_43151418/article/details/141557179)
+
++ [优化学习管理：Moodle和ONLYOFFICE文档编辑器的完美结合](https://blog.csdn.net/aasd23/article/details/141200012)
+
++ [【You only look once】目标检测YOLO系列算法改进史](https://blog.csdn.net/qq_51366016/article/details/141529474)
+
++ [【数学建模】层次分析法](https://blog.csdn.net/shaozheng0503/article/details/141529199)
+

@@ -213,3 +213,9 @@
 
 + [台积电上半年从中国大陆和日本获得补贴 共79.56亿新台币](https://www.3dmgame.com/news/202408/3902699.html)
 
++ [X热帖：奎爷大战悟空，谁会赢？](https://www.3dmgame.com/news/202408/3902701.html)
+
++ [插电式混合动力汽车开始赢得美国买家青睐](https://www.3dmgame.com/news/202408/3902702.html)
+
++ [《黑神话》带货能力太强 一小时卖出60台PS5](https://www.3dmgame.com/news/202408/3902700.html)
+
