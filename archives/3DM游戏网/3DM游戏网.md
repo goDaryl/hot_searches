@@ -219,3 +219,11 @@
 
 + [《黑神话》带货能力太强 一小时卖出60台PS5](https://www.3dmgame.com/news/202408/3902700.html)
 
++ [传RTX 5060移动版功耗大幅降低 轻薄游戏本春天又来了](https://www.3dmgame.com/news/202408/3902704.html)
+
++ [GOG喜加一：《海岛大亨4》免费领](https://www.3dmgame.com/news/202408/3902705.html)
+
++ [传闻：《合金装备3：重制版》支持画质与性能模式](https://www.3dmgame.com/news/202408/3902706.html)
+
++ [《星球大战：亡命之徒》IGN 7分 战斗重复、bug多](https://www.3dmgame.com/news/202408/3902703.html)
+
