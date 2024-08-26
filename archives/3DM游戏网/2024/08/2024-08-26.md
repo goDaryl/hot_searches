@@ -197,3 +197,9 @@
 
 + [《末日地带2》Steam抢先体验 末世生存建造](https://www.3dmgame.com/news/202408/3902690.html)
 
++ [华为纯血鸿蒙开启大规模测试 支持Mate 60Pura 70等](https://www.3dmgame.com/news/202408/3902694.html)
+
++ [B站用户商业价值远超微博！日活1.02亿创造61亿营收](https://www.3dmgame.com/news/202408/3902693.html)
+
++ [一锅端！中国研发部突然彻底关闭 赔偿N+3：IBM回应了](https://www.3dmgame.com/news/202408/3902692.html)
+

@@ -225,3 +225,13 @@
 
 + [CoinVers. - Website design for the crypto platform](https://dribbble.com/shots/)
 
++ [BordUp - HR Recruitment Dashboard](https://dribbble.com/shots/)
+
++ [Paenda - best crypto tapals in Telegram](https://dribbble.com/shots/)
+
++ [SZP](https://dribbble.com/shots/)
+
++ [De La Soul - Restaurant Brand Identity](https://dribbble.com/shots/)
+
++ [Finance service - Mobile App Concept](https://dribbble.com/shots/)
+
