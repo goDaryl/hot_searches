@@ -171,3 +171,13 @@
 
 + [Analitify - Social Media Analytics Dashboard](https://dribbble.com/shots/)
 
++ [Healtrust - Healtcare Dashboard for Doctor](https://dribbble.com/shots/)
+
++ [AI Assistant Mobile App](https://dribbble.com/shots/)
+
++ [Lawking | Advocate Branding Logo Design | Orbix Studio](https://dribbble.com/shots/)
+
++ [BAHF | Brand identity for football brand](https://dribbble.com/shots/)
+
++ [turing: AI Health Analytics Website | Predictive Health | About](https://dribbble.com/shots/)
+

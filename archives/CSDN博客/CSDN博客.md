@@ -167,3 +167,9 @@
 
 + [低代码开发与项目管理工作流优化](https://blog.csdn.net/dsgdauigfs/article/details/141464962)
 
++ [基于FFmpeg库和RV1126的视频推流](https://blog.csdn.net/MakLTHer/article/details/141472796)
+
++ [分享一个基于python的内蒙古旅游景点数据分析与采集系统（源码、调试、LW、开题、PPT）](https://blog.csdn.net/m0_72599287/article/details/141530808)
+
++ [【GIS系列】多源异构原始影像解析：策略模式与规则引擎的应用](https://blog.csdn.net/c18213590220/article/details/141528701)
+
