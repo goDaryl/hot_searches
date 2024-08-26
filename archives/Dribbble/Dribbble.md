@@ -241,3 +241,13 @@
 
 + [Jason Broyles Brand Design](https://dribbble.com/shots/)
 
++ [Showreel 2024 — Breaking boundaries to create the future](https://dribbble.com/shots/)
+
++ [Finance Analytics Dashboard](https://dribbble.com/shots/)
+
++ [ETHPanda](https://dribbble.com/shots/)
+
++ [Dartmouth Fall 24](https://dribbble.com/shots/)
+
++ [KOSMA Business Cards](https://dribbble.com/shots/)
+
