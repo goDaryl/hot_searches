@@ -171,3 +171,9 @@
 
 + [《咒术回战：怀玉·玉折》篇将推出剧场版总集篇 计划2025年院线上映](https://www.3dmgame.com/news/202408/3902677.html)
 
++ [2024年电竞世界杯闭幕 沙特战队Team Falcons获得总冠军](https://www.3dmgame.com/news/202408/3902681.html)
+
++ [《迷因朋友》登陆Steam 快节奏猫咪在线对战](https://www.3dmgame.com/news/202408/3902679.html)
+
++ [喜剧漫画《最近的侦探真没用》宣布动画化 首个宣传预告放出](https://www.3dmgame.com/news/202408/3902680.html)
+
