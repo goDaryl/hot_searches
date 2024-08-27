@@ -41,3 +41,5 @@
 
 + [GWPSan：一款基于数据采样的二进制代码动态安全检测框架](https://www.freebuf.com/sectool/408900.html)
 
++ [CVE-2023-20073漏洞复现](https://www.freebuf.com/vuls/408378.html)
+

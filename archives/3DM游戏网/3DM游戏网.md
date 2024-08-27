@@ -105,3 +105,23 @@
 
 + [任天堂新一期发布会明晚举行 时长约40分钟](https://www.3dmgame.com/news/202408/3902709.html)
 
++ [载具战斗游戏《Fatal Run 2089》公布 虚幻5引擎](https://www.3dmgame.com/news/202408/3902720.html)
+
++ [《星球大战：亡命之徒》全球媒体评分出炉 MC均分77分](https://www.3dmgame.com/news/202408/3902719.html)
+
++ [《合金装备3：重制版》制作人谈伤势将影响主角性能](https://www.3dmgame.com/news/202408/3902718.html)
+
++ [传记电影《超人：克里斯托弗·里夫的故事》发布预告](https://www.3dmgame.com/news/202408/3902717.html)
+
++ [《忍者神龟：斯普林特的命运》发行后路线图曝光](https://www.3dmgame.com/news/202408/3902716.html)
+
++ [《蓝精灵：梦》实机预告 仿佛置身马里奥3D世界](https://www.3dmgame.com/news/202408/3902715.html)
+
++ [《使命召唤：黑色行动6》公开测试版PC要求](https://www.3dmgame.com/news/202408/3902714.html)
+
++ [《街头霸王6》SNK新角色特瑞9分钟实机演示公开](https://www.3dmgame.com/news/202408/3902712.html)
+
++ [《死神：魂魄觉醒》浦原喜助预告展示灵压技与始解](https://www.3dmgame.com/news/202408/3902711.html)
+
++ [《合金装备3：重制版》新情报： 画面操作全升级](https://www.3dmgame.com/news/202408/3902710.html)
+
