@@ -203,3 +203,17 @@
 
 + [Roguelite动作冒险游戏《铁锤守卫英雄传2》Steam页面开放 发售日待定](https://www.3dmgame.com/news/202408/3902733.html)
 
++ [《黑神话：悟空》游戏摄影截图 画面逼真景色美](https://www.3dmgame.com/news/202408/3902744.html)
+
++ [《星球大战：亡命之徒》PC性能测试 RTX 4050低画质帧数低于60](https://www.3dmgame.com/news/202408/3902745.html)
+
++ [微软突然改口 39年经典控制面板将被保留](https://www.3dmgame.com/news/202408/3902746.html)
+
++ [《FAIRY TAIL 闯迷宫》登陆Steam 真岛浩参与制作](https://www.3dmgame.com/news/202408/3902743.html)
+
++ [《百战天虫：末日浩劫 周年纪念版》通过评级 登陆多平台](https://www.3dmgame.com/news/202408/3902741.html)
+
++ [拉瑞安开发者：《GTA 6》后所有大型游戏或集体涨价](https://www.3dmgame.com/news/202408/3902742.html)
+
++ [《文明6》通关率不足一半让官方失望 《文明7》将改进](https://www.3dmgame.com/news/202408/3902740.html)
+
