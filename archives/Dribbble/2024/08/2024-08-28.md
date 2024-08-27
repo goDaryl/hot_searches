@@ -49,3 +49,51 @@
 
 + [Love is in the air](https://dribbble.com/shots/)
 
++ [Music Streaming App. Part 3](https://dribbble.com/shots/)
+
++ [Kia Logo Redesign Concept](https://dribbble.com/shots/)
+
++ [99finder — Logo and Branding](https://dribbble.com/shots/)
+
++ [—From Archive (Pt. 5)](https://dribbble.com/shots/)
+
++ [Sold Logos Part Five](https://dribbble.com/shots/)
+
++ [Modern NX Logo - Futuristic and Sleek Design // Logo For Sale](https://dribbble.com/shots/)
+
++ [Robot Plumber](https://dribbble.com/shots/)
+
++ [Syncra - AI Artificial Intelligence Voice Command Mobile App](https://dribbble.com/shots/)
+
++ [Rizzle Icons Branding Visual Identity](https://dribbble.com/shots/)
+
++ [#1 Windergy / Concepts](https://dribbble.com/shots/)
+
++ [Prime - Payment Website](https://dribbble.com/shots/)
+
++ [Revolve Labs - Logo Design](https://dribbble.com/shots/)
+
++ [Teller Logotype](https://dribbble.com/shots/)
+
++ [Formance Logo Design](https://dribbble.com/shots/)
+
++ [SSENSE - Ecommerce Website](https://dribbble.com/shots/)
+
++ [Diet Mobile App](https://dribbble.com/shots/)
+
++ [Watchgin Watcher - Craft Gin](https://dribbble.com/shots/)
+
++ [Panther Logo](https://dribbble.com/shots/)
+
++ [Essential Interface 3D Icon Animation](https://dribbble.com/shots/)
+
++ [Halftone illustrations - Busy at work](https://dribbble.com/shots/)
+
++ [Illustration For Ordergrid.com](https://dribbble.com/shots/)
+
++ [Fox mark](https://dribbble.com/shots/)
+
++ [Bryzos introduction by Milkinside](https://dribbble.com/shots/)
+
++ [PD Logo](https://dribbble.com/shots/)
+
