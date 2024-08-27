@@ -231,3 +231,9 @@
 
 + [Landing Page Design for a Pharmacology and Medical Provider](https://dribbble.com/shots/)
 
++ [Halftone illustrations - Busy at work](https://dribbble.com/shots/)
+
++ [PD Logo](https://dribbble.com/shots/)
+
++ [E-Commerce - Components](https://dribbble.com/shots/)
+
