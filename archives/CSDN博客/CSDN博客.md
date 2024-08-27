@@ -129,3 +129,13 @@
 
 + [IP代理池学习记录](https://blog.csdn.net/qq_62714412/article/details/141507897)
 
++ [【智能时代】的崛起：【人工智能】、【机器学习】与【计算机视觉】的革命](https://blog.csdn.net/LZX521314ok/article/details/141571281)
+
++ [网络安全-安全渗透简介和安全渗透环境准备](https://blog.csdn.net/weixin_57370131/article/details/141572714)
+
++ [浏览器发送HTTP请求的过程](https://blog.csdn.net/m0_68744965/article/details/141430691)
+
++ [OpenHarmony标准设备应用开发实战（一）——HelloWorld](https://blog.csdn.net/u012165769/article/details/141535122)
+
++ [FPGA开发——使用verilog实现异步FIFO](https://blog.csdn.net/weixin_63553972/article/details/141573137)
+

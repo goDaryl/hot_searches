@@ -43,3 +43,5 @@
 
 + [CVE-2023-20073漏洞复现](https://www.freebuf.com/vuls/408378.html)
 
++ [FreeBuf早报 | Telegram 回应CEO在法被捕；澳大利亚成立新的网络司令部](https://www.freebuf.com/news/409505.html)
+
