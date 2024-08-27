@@ -95,3 +95,5 @@
 
 + [【东方/爵士】RERICOTTA 专辑赏析【Surreacheese】](http://www.acfun.cn/v/ac46160235)
 
++ [优雅的操作！极致的战斗！观赏性拉满！单手无伤「寅虎」！攻略解说【黑神话：悟空】](http://www.acfun.cn/v/ac46168880)
+

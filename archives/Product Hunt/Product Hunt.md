@@ -101,3 +101,5 @@
 
 + [Mimrr](https://www.producthunt.com/posts/mimrr-2)
 
++ [Aurore.ai](https://www.producthunt.com/posts/aurore-ai)
+
