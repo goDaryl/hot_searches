@@ -187,3 +187,13 @@
 
 + [Site usage dashboard — Untitled UI](https://dribbble.com/shots/)
 
++ [Running Character Logo](https://dribbble.com/shots/)
+
++ [WILD.CODES animations](https://dribbble.com/shots/)
+
++ [Infaq - Charity App Design](https://dribbble.com/shots/)
+
++ [Real Estate - Animated Medium Icon Design](https://dribbble.com/shots/)
+
++ [Diet Mobile App](https://dribbble.com/shots/)
+
