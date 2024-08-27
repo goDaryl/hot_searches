@@ -57,3 +57,7 @@
 
 + [周星驰出品，抖音微短剧《大话大话西游》年底上线](https://m.ithome.com/html/791406.htm)
 
++ [问界 M5 突然意外起火，赛力斯汽车回应“无人员受伤，电池包未起火、未燃烧”](https://m.ithome.com/html/791550.htm)
+
++ [小鹏 MONA M03 发布上市：11.98~15.58 万元，面向年轻人的 15 万级 AI 汽车](https://m.ithome.com/html/791568.htm)
+
