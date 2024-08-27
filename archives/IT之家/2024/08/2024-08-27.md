@@ -47,3 +47,7 @@
 
 + [消息称华为 9 月新品包括路由 BE 7 Pro、Sound Joy 2 音箱、nova 13 系列手机](https://m.ithome.com/html/791318.htm)
 
++ [苹果 2024 秋季发布会官宣北京时间 9 月 10 日举行，iPhone 16 即将登场](https://m.ithome.com/html/791320.htm)
+
++ [消息称苹果 iPhone 16 Pro / Max 机型均采用四重反射棱镜长焦镜头](https://m.ithome.com/html/791326.htm)
+

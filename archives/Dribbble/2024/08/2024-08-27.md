@@ -197,3 +197,17 @@
 
 + [Diet Mobile App](https://dribbble.com/shots/)
 
++ [Kia Logo Redesign Concept](https://dribbble.com/shots/)
+
++ [Essential Interface 3D Icon Animation](https://dribbble.com/shots/)
+
++ [Illustration For Ordergrid.com](https://dribbble.com/shots/)
+
++ [Watchgin Watcher - Craft Gin](https://dribbble.com/shots/)
+
++ [Tab thumbnail](https://dribbble.com/shots/)
+
++ [P and lock](https://dribbble.com/shots/)
+
++ [Logo on Time Square](https://dribbble.com/shots/)
+

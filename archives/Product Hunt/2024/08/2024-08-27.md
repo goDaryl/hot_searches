@@ -163,3 +163,9 @@
 
 + [Swatle](https://www.producthunt.com/posts/swatle)
 
++ [Magic8ball](https://www.producthunt.com/posts/magic8ball)
+
++ [Kanban Tasks](https://www.producthunt.com/posts/kanban-tasks)
+
++ [LaunchFast](https://www.producthunt.com/posts/launchfast-4)
+
