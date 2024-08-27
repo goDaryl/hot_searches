@@ -211,3 +211,13 @@
 
 + [Logo on Time Square](https://dribbble.com/shots/)
 
++ [99finder — Logo and Branding](https://dribbble.com/shots/)
+
++ [SSENSE - Ecommerce Website](https://dribbble.com/shots/)
+
++ [Crypto Landing Page](https://dribbble.com/shots/)
+
++ [Panther Logo](https://dribbble.com/shots/)
+
++ [#1 Windergy / Concepts](https://dribbble.com/shots/)
+
