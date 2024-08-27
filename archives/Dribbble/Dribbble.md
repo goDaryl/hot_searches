@@ -145,3 +145,11 @@
 
 + [Secret Coffee Society Secondary Logo](https://dribbble.com/shots/)
 
++ [Dartmouth Fall 24](https://dribbble.com/shots/)
+
++ [Bacteria](https://dribbble.com/shots/)
+
++ [Seated Character](https://dribbble.com/shots/)
+
++ [Gig Poster - Dengue Fever](https://dribbble.com/shots/)
+
