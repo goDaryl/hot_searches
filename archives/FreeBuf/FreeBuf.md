@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | Telegram 回应CEO在法被捕；澳大利亚成立新的网络司令部](https://www.freebuf.com/news/409505.html)
 
++ [云上攻防｜打穿某地区智慧停车小程序](https://www.freebuf.com/defense/407831.html)
+
++ [Sliver源码分析 | 初始化以及脚手架](https://www.freebuf.com/sectool/408443.html)
+

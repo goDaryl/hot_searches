@@ -139,3 +139,7 @@
 
 + [FPGA开发——使用verilog实现异步FIFO](https://blog.csdn.net/weixin_63553972/article/details/141573137)
 
++ [【机器学习】智驭未来：机器学习如何重塑现代城市管理新生态](https://blog.csdn.net/EterNity_TiMe_/article/details/141572441)
+
++ [微服务实战系列之玩转Docker（十三）](https://blog.csdn.net/splendid_java/article/details/141486924)
+

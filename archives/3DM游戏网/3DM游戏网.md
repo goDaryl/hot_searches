@@ -181,3 +181,25 @@
 
 + [《火影忍者：终极风暴羁绊》角色DLC“大筒木一式”公布 3月28日上线](https://www.3dmgame.com/news/202403/3891129.html)
 
++ [Bloober解释为何选择《寂静岭2》而不是一代来重制](https://www.3dmgame.com/news/202408/3902736.html)
+
++ [生化危机之父三上真司：暂时不想再做生存恐怖游戏了](https://www.3dmgame.com/news/202408/3902739.html)
+
++ [V社新作《Deadlock》测试表现不错：玩家峰值近9万人](https://www.3dmgame.com/news/202408/3902738.html)
+
++ [《False Mall》登陆Steam 类8番出口惊悚解谜](https://www.3dmgame.com/news/202408/3902737.html)
+
++ [iPhone 16系列官宣9月10日发布 首款AI iPhone将登场](https://www.3dmgame.com/news/202408/3902735.html)
+
++ [《明末：渊虚之羽》保证在2025年发售 玩家期待！](https://www.3dmgame.com/news/202408/3902732.html)
+
++ [PS官网显示《乐高地平线大冒险》将于11月14日发售](https://www.3dmgame.com/news/202408/3902731.html)
+
++ [《泰坦之旅2》30分钟实机上手视频 虚幻5引擎、2024年冬季抢先体验](https://www.3dmgame.com/news/202408/3902730.html)
+
++ [日恐新游《暗夜-S邸-》开启众筹 2025年夏季发售](https://www.3dmgame.com/news/202408/3902729.html)
+
++ [《分裂之门2》开发者确认：如果玩家想要会增加更多阵营](https://www.3dmgame.com/news/202408/3902734.html)
+
++ [Roguelite动作冒险游戏《铁锤守卫英雄传2》Steam页面开放 发售日待定](https://www.3dmgame.com/news/202408/3902733.html)
+

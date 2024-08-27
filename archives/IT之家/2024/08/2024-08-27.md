@@ -31,3 +31,7 @@
 
 + [拼多多美股股价大跌超 29%](https://m.ithome.com/html/791311.htm)
 
++ [加拿大将对从中国进口的电动汽车征收 100% 关税](https://m.ithome.com/html/791319.htm)
+
++ [消息称 OPPO ColorOS 15 系统泄露的「关于本机」界面“是真的”](https://m.ithome.com/html/791274.htm)
+
