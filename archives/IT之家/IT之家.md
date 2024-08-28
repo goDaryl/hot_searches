@@ -29,3 +29,5 @@
 
 + [Steam 新一周游戏销量榜：《黑神话：悟空》四连冠，《GTA5》再上榜](https://m.ithome.com/html/791537.htm)
 
++ [11.98 万元起，小鹏 MONA M03 大定 52 分钟破 10000 台](https://m.ithome.com/html/791584.htm)
+

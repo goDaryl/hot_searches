@@ -41,3 +41,5 @@
 
 + [企业应急排查之主机外联，附自制排查脚本](https://www.freebuf.com/articles/web/407980.html)
 
++ [2024年Q2 APT趋势报告](https://www.freebuf.com/articles/paper/409130.html)
+
