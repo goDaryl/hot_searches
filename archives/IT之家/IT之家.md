@@ -51,3 +51,7 @@
 
 + [《黑神话：悟空》线下音乐会开票，2 分钟售罄](https://m.ithome.com/html/791729.htm)
 
++ [比亚迪正式起诉“小雨不懂车”、“虎狼说车”等自媒体](https://m.ithome.com/html/791801.htm)
+
++ [安徽“皖事通”App 引入国家网络身份认证，支付宝认证已取消](https://m.ithome.com/html/791734.htm)
+
