@@ -207,3 +207,21 @@
 
 + [E-Wallet Dashboard](https://dribbble.com/shots/)
 
++ [Diamond + dice + block for crypto casino logo design](https://dribbble.com/shots/)
+
++ [H+Galaxy](https://dribbble.com/shots/)
+
++ [Geometric Zeus Logo](https://dribbble.com/shots/)
+
++ [Mexico City Stickers](https://dribbble.com/shots/)
+
++ [Web-Cloud Test](https://dribbble.com/shots/)
+
++ [Askme: Website design](https://dribbble.com/shots/)
+
++ [a + ✦](https://dribbble.com/shots/)
+
++ [T and face](https://dribbble.com/shots/)
+
++ [Web Navigation Sidebar](https://dribbble.com/shots/)
+
