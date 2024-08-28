@@ -153,3 +153,27 @@
 
 + [Gig Poster - Dengue Fever](https://dribbble.com/shots/)
 
++ [LAFC x Target](https://dribbble.com/shots/)
+
++ [Alien 1979 poster](https://dribbble.com/shots/)
+
++ [Pointed Pony](https://dribbble.com/shots/)
+
++ [Microsoft Word Consideration imagery](https://dribbble.com/shots/)
+
++ [Website Design for Self Storage Solutions](https://dribbble.com/shots/)
+
++ [S cube logo](https://dribbble.com/shots/)
+
++ [Stained Glass](https://dribbble.com/shots/)
+
++ [Black King Games Logo Design](https://dribbble.com/shots/)
+
++ [Wallet Page for Crypto Admin & Dashboard React Web Template](https://dribbble.com/shots/)
+
++ [Moover Logistics Branding](https://dribbble.com/shots/)
+
++ [Branding: Pleasure House](https://dribbble.com/shots/)
+
++ [Crypto Landing Page](https://dribbble.com/shots/)
+

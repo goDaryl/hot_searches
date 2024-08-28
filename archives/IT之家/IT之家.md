@@ -31,3 +31,5 @@
 
 + [11.98 万元起，小鹏 MONA M03 大定 52 分钟破 10000 台](https://m.ithome.com/html/791584.htm)
 
++ [消息称苹果将推出全新 AirPods Pro 3 耳机，ANC 降噪效果“好得多”](https://m.ithome.com/html/791590.htm)
+

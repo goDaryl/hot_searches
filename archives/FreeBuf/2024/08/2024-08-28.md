@@ -43,3 +43,7 @@
 
 + [2024年Q2 APT趋势报告](https://www.freebuf.com/articles/paper/409130.html)
 
++ [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
+
++ [FreeBuf早报 | Uber因违反GDPR被罚23亿；谷歌发布2024年第10个零日漏洞](https://www.freebuf.com/news/409601.html)
+

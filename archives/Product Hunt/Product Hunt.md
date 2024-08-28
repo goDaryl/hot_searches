@@ -117,3 +117,7 @@
 
 + [MidJourney for Web](https://www.producthunt.com/posts/midjourney-for-web)
 
++ [Quit Snus Addiction](https://www.producthunt.com/posts/quit-snus-addiction)
+
++ [Vibeo](https://www.producthunt.com/posts/vibeo)
+

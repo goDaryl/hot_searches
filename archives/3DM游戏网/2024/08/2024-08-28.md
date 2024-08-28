@@ -127,3 +127,49 @@
 
 + [《天国：拯救2》PC版39分钟上手视频](https://www.3dmgame.com/news/202408/3902790.html)
 
++ [据报道网飞Netflix宣布裁员 并重组旗下电影部门](https://www.3dmgame.com/news/202404/3892337.html)
+
++ [网易回应暴雪国服回归：4月10日肯定官宣！](https://www.3dmgame.com/news/202404/3892338.html)
+
++ [官方整活 《地狱潜者2》为剿灭机器人的玩家提供1分钟休息作为奖励](https://www.3dmgame.com/news/202404/3892339.html)
+
++ [北美上演罕见日全食 关键词“眼睛受伤”谷歌搜索量激增](https://www.3dmgame.com/news/202404/3892340.html)
+
++ [《Feed》Steam页面上线 像素复古风恐怖动作射击](https://www.3dmgame.com/news/202404/3892341.html)
+
++ [PSP模拟器开发者：PPSSPP计划登陆苹果商城](https://www.3dmgame.com/news/202404/3892342.html)
+
++ [沙盒建造模拟游戏《水上乐园大亨》现已登录Steam平台](https://www.3dmgame.com/news/202404/3892343.html)
+
++ [知名游戏主播确诊中风 当事人：希望大家好好运动](https://www.3dmgame.com/news/202404/3892344.html)
+
++ [《龙之信条2》最新更新发布 修复部分任务卡死问题](https://www.3dmgame.com/news/202404/3892345.html)
+
++ [《龙之信条2》玩家仅招架BOSS触发隐藏过场动画](https://www.3dmgame.com/news/202404/3892346.html)
+
++ [国产ARPG《失落之魂》更多消息即将公布](https://www.3dmgame.com/news/202404/3892347.html)
+
++ [微软新专利探索声音AI应用 可预估地震风暴等自然灾害](https://www.3dmgame.com/news/202404/3892348.html)
+
++ [《极限竞速：地平线5》穿越侏罗纪主播娱乐赛火热开赛，赛果新鲜出炉！](https://www.3dmgame.com/news/202404/3892349.html)
+
++ [首周特惠58.5元！回合制肉鸽《异界失控》4月12日发售](https://www.3dmgame.com/news/202404/3892350.html)
+
++ [遍地大神的游戏时代  从编辑器发展史看UGC进化-网易Y3编辑器](https://www.3dmgame.com/news/202404/3892351.html)
+
++ [动画电影《KILLTUBE》先导预告公开 预定2026年春季上映](https://www.3dmgame.com/news/202404/3892352.html)
+
++ [《人狼 iLLANG》免费登陆Steam 多人推理社交狼人游戏](https://www.3dmgame.com/news/202404/3892353.html)
+
++ [《主播女孩重度依赖》动画正在制作中 更多细节明年公布](https://www.3dmgame.com/news/202404/3892354.html)
+
++ [策略游戏《63 Days》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892356.html)
+
++ [漫改动画《疑似后宫》公布首个宣传PV 7月正式播出](https://www.3dmgame.com/news/202404/3892355.html)
+
++ [《勇者斗恶龙3：HD-2D重制版》预告 新要素介绍](https://www.3dmgame.com/news/202408/3902803.html)
+
++ [《妖精的尾巴2》全新预告 激烈战斗画面展示](https://www.3dmgame.com/news/202408/3902804.html)
+
++ [《黑神话：悟空》MTC用户评分遭差评轰炸 不少竟然是中文评价](https://www.3dmgame.com/news/202408/3902802.html)
+
