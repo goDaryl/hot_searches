@@ -35,3 +35,7 @@
 
 + [小鹏 MONA M03 轿跑座舱公布：15.6 英寸中控屏、3D 全景地图、支持智驾](https://m.ithome.com/html/791565.htm)
 
++ [《黑神话：悟空》1.0.8.14860 更新补丁发布：修复开启 FSR 崩溃问题、下调魔将・妙音数值](https://m.ithome.com/html/791638.htm)
+
++ [何小鹏：MONA M03 所有车型都是有利润的，目标是月销过万](https://m.ithome.com/html/791577.htm)
+
