@@ -39,3 +39,5 @@
 
 + [何小鹏：MONA M03 所有车型都是有利润的，目标是月销过万](https://m.ithome.com/html/791577.htm)
 
++ [小米更新终止软件支持产品列表：增加 MIX 4、Pad 5 Pro、Redmi K40 等机型](https://m.ithome.com/html/791634.htm)
+
