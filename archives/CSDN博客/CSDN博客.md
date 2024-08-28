@@ -131,3 +131,5 @@
 
 + [Vue：组件化开发](https://blog.csdn.net/ma_no_lo/article/details/141600105)
 
++ [Spring Cloud Eureka与Kubernetes的集成：服务发现的混合方案](https://blog.csdn.net/weixin_41859354/article/details/141611429)
+
