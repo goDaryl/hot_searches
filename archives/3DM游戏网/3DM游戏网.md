@@ -173,3 +173,53 @@
 
 + [《黑神话：悟空》MTC用户评分遭差评轰炸 不少竟然是中文评价](https://www.3dmgame.com/news/202408/3902802.html)
 
++ [《冰汽时代2》|《执政官101》第六集 人性视角](https://www.3dmgame.com/news/202408/3902829.html)
+
++ [《不死者之王》电影上映在即 作者提前观看后感叹太过美化](https://www.3dmgame.com/news/202408/3902828.html)
+
++ [《宝可梦 Go》确认推出极巨化功能 第8世代宝可梦加入](https://www.3dmgame.com/news/202408/3902827.html)
+
++ [《神之浩劫2》开启不间断A测 进度和道具可永久保留](https://www.3dmgame.com/news/202408/3902826.html)
+
++ [齐天揽月！稻香村联动《黑神话》月饼礼盒售99元](https://www.3dmgame.com/news/202408/3902824.html)
+
++ [《战锤40K：星际战士2》发布后更新路线图公开 免费新关卡新武器](https://www.3dmgame.com/news/202408/3902825.html)
+
++ [《冲就完事模拟器》联动《怪物史瑞克》DLC公开](https://www.3dmgame.com/news/202408/3902822.html)
+
++ [《迪士尼传奇米奇：重制版》试玩Demo现已推出](https://www.3dmgame.com/news/202408/3902820.html)
+
++ [《暗黑破坏神4》将引入新功能：自定义城镇传送门](https://www.3dmgame.com/news/202408/3902821.html)
+
++ [叙事模拟管理类游戏《债务人俱乐部》已正式发售并获得好评](https://www.3dmgame.com/news/202408/3902819.html)
+
++ [《星之海》免费DLC“钟表匠的挣扎”公布 2025年春季全平台上线](https://www.3dmgame.com/news/202408/3902818.html)
+
++ [《风火轮怪兽卡车：特技混乱》Steam页面公布 10月19日发售](https://www.3dmgame.com/news/202408/3902823.html)
+
++ [《雨中冒险2》新DLC“风暴探寻者”现已发售 多半好评](https://www.3dmgame.com/news/202408/3902813.html)
+
++ [免费足球游戏《UFL》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202408/3902812.html)
+
++ [《俄罗斯方块永恒篇》Steam页面开放 2024年发售](https://www.3dmgame.com/news/202408/3902816.html)
+
++ [《卡普空对战格斗合集2》新预告及截图 2025年发售](https://www.3dmgame.com/news/202408/3902810.html)
+
++ [《夺宝奇兵：古老之圈》开发者“很高兴”游戏登陆PS5](https://www.3dmgame.com/news/202408/3902811.html)
+
++ [SE类《斯普拉遁》多人对战射击游戏《泡沫明星》将在10月转为免费](https://www.3dmgame.com/news/202408/3902809.html)
+
++ [《妖精的尾巴2》2024年12月12日发售 首部宣传影片登场](https://www.3dmgame.com/news/202408/3902808.html)
+
++ [光荣特库摩决定参展「东京电玩展2024」 同步公开参展作品与直播节目信息](https://www.3dmgame.com/news/202408/3902807.html)
+
++ [《文明7》全新预告片 Switch版游戏玩法展示](https://www.3dmgame.com/news/202408/3902806.html)
+
++ [生存恐怖游戏《杀戮空间3》新预告 爬行者更加恐怖](https://www.3dmgame.com/news/202408/3902817.html)
+
++ [《第9层：开始》免费登陆Steam 类8番出口惊悚解谜](https://www.3dmgame.com/news/202408/3902815.html)
+
++ [《Urayama》登陆Steam 精神系恐怖探索](https://www.3dmgame.com/news/202408/3902805.html)
+
++ [《海绵宝宝：派大星游戏》预告片公布 预计2024年10月推出](https://www.3dmgame.com/news/202408/3902814.html)
+

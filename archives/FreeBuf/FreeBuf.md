@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | Uber因违反GDPR被罚23亿；谷歌发布2024年第10个零日漏洞](https://www.freebuf.com/news/409601.html)
 
++ [微软Sway在大规模二维码钓鱼活动中被滥用](https://www.freebuf.com/news/409605.html)
+
++ [深入剖析Java内存马：Tomcat下的Servlet、Filter与Listener攻击技术](https://www.freebuf.com/vuls/408515.html)
+
