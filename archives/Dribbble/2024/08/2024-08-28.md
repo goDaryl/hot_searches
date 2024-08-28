@@ -187,3 +187,19 @@
 
 + [learn](https://dribbble.com/shots/)
 
++ [Zenpulse - Running Mobile App](https://dribbble.com/shots/)
+
++ [Smartify - Smart Home App](https://dribbble.com/shots/)
+
++ [Wookies - Digital Marketing Agency](https://dribbble.com/shots/)
+
++ [Winster - Crypto Web3 Dashboard](https://dribbble.com/shots/)
+
++ [neurokaire: AI Neurology Precision Medicine - Mobile Overview UI](https://dribbble.com/shots/)
+
++ [Zendenta - Patient Plan Agreement for Medical Checkups](https://dribbble.com/shots/)
+
++ [Restaurant Website](https://dribbble.com/shots/)
+
++ [App Store Screenshot - Finsave](https://dribbble.com/shots/)
+

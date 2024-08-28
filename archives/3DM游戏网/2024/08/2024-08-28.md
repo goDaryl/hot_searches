@@ -243,3 +243,59 @@
 
 + [台积电代工！小米定制芯片曝光：性能比肩骁龙8](https://www.3dmgame.com/news/202408/3902839.html)
 
++ [《黑神话：悟空》亢金星君演员晒幕后照 你舍得打她吗？](https://www.3dmgame.com/news/202408/3902845.html)
+
++ [《咖啡物语》系列最新作《咖啡物语 东京》预告公布 将于2025年推出](https://www.3dmgame.com/news/202408/3902846.html)
+
++ [《塞尔达传说：王国之泪》官方设定集宣传视频 8月30日发售](https://www.3dmgame.com/news/202408/3902844.html)
+
++ [《黑神话 悟空》线下音乐会票2分钟售罄 含19首曲目](https://www.3dmgame.com/news/202408/3902843.html)
+
++ [《黑神话：悟空》乱入WOW 魔兽COS版四人组很和谐](https://www.3dmgame.com/news/202408/3902842.html)
+
++ [《神之浩劫2》开发者：推出新作是因为原作实在太老](https://www.3dmgame.com/news/202408/3902847.html)
+
++ [《漫威vs卡普空 格斗合集》预购开启 国区售价248元](https://www.3dmgame.com/news/202408/3902841.html)
+
++ [小米SU7车主摆摊让别人玩《黑神话：悟空》：首玩免费、5元续命](https://www.3dmgame.com/news/202408/3902840.html)
+
++ [R星十年老游戏《那个游戏5》即将迎来DLSS 3 MOD](https://www.3dmgame.com/news/202311/3881566.html)
+
++ [《女神异闻录3 Reload》虎狼丸角色介绍影片 明年2月2日发售](https://www.3dmgame.com/news/202311/3881564.html)
+
++ [《最终幻想7：重生》被ESRB评为T级 有暴力和暴露服装等](https://www.3dmgame.com/news/202311/3881565.html)
+
++ [传闻：《星际拓荒》Switch版或即将公布发售日期](https://www.3dmgame.com/news/202311/3881562.html)
+
++ [《城市：天际线2》Mod工具还需数月才会推出](https://www.3dmgame.com/news/202311/3881563.html)
+
++ [亚马逊游戏部门计划再裁员180人](https://www.3dmgame.com/news/202311/3881552.html)
+
++ [《最终幻想7：重生》中将首次添加游泳功能](https://www.3dmgame.com/news/202311/3881561.html)
+
++ [模拟经营游戏《二手车模拟器》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3881558.html)
+
++ [《博德之门3》庆祝TGA八项提名 Xbox版发售日期即将公布](https://www.3dmgame.com/news/202311/3881559.html)
+
++ [《DayZ》更新后同时在线玩家破记录 近7万人](https://www.3dmgame.com/news/202311/3881569.html)
+
++ [威利·旺卡的新产品线 Xbox赠送可食用巧克力手柄](https://www.3dmgame.com/news/202311/3881557.html)
+
++ [《In Style》Steam页面上线 赛博朋克TPS新游](https://www.3dmgame.com/news/202311/3881555.html)
+
++ [文字类美少女角色扮演游戏《星幕协约 A.A.A.》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202311/3881554.html)
+
++ [Remedy和腾讯合作的游戏重启 不再是免费](https://www.3dmgame.com/news/202311/3881553.html)
+
++ [《最终幻想14》11月21日开启压力测试 测试云数据中心问题](https://www.3dmgame.com/news/202311/3881567.html)
+
++ [Neowiz入股《赛博朋克2077》前领导人团队新工作室](https://www.3dmgame.com/news/202311/3881560.html)
+
++ [微软任命新Xbox游戏工作室负责人Alan Hartman](https://www.3dmgame.com/news/202311/3881556.html)
+
++ [《自杀小队：战胜正义联盟》本周四公布故事和游戏玩法](https://www.3dmgame.com/news/202311/3881551.html)
+
++ [《生化危机4：重制版》iOS版新截图 看起来也挺美](https://www.3dmgame.com/news/202311/3881568.html)
+
++ [《龙腾世纪4：恐狼》开发者泄露游戏将于2024年发售](https://www.3dmgame.com/news/202311/3881570.html)
+
