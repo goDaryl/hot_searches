@@ -133,3 +133,7 @@
 
 + [Spring Cloud Eureka与Kubernetes的集成：服务发现的混合方案](https://blog.csdn.net/weixin_41859354/article/details/141611429)
 
++ [基于微信小程序uniapp+数据可视化大屏+Java的实验室安全教育平台设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/141650947)
+
++ [carla unreal engine源码：如何创建radar可视化探测锥](https://blog.csdn.net/zataji/article/details/141652309)
+
