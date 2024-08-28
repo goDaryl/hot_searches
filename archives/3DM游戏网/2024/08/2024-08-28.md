@@ -363,3 +363,19 @@
 
 + [中手游《仙剑世界》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3886269.html)
 
++ [《黑神话：悟空》雕塑刚建成就被游客踩坏 官方回应](https://www.3dmgame.com/news/202408/3902867.html)
+
++ [《游戏设计师大奖2024》公布评委 樱井政博小高和刚在列](https://www.3dmgame.com/news/202408/3902860.html)
+
++ [《死侍与金刚狼》被删除镜头：牌皇没死可能加入MCU](https://www.3dmgame.com/news/202408/3902866.html)
+
++ [《黑神话》玩家福利再加一 通关免费游取景地苍岩山](https://www.3dmgame.com/news/202408/3902865.html)
+
++ [东方同人游戏《东方诡夜行》Steam页面上线 支持中文](https://www.3dmgame.com/news/202408/3902864.html)
+
++ [弹出全面屏退出历史舞台！Redmi K80不会考虑 王腾道出原因](https://www.3dmgame.com/news/202408/3902863.html)
+
++ [能让你泪目的游戏，《Neva》将于10月16日登陆PC及主机平台](https://www.3dmgame.com/news/202408/3902862.html)
+
++ [黑客组织与角川书店谈判破裂 角川拒付800万美元赎金 可能再遭攻击](https://www.3dmgame.com/news/202408/3902861.html)
+

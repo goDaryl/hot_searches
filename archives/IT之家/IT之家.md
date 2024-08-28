@@ -43,3 +43,5 @@
 
 + [小米王腾称不会做升降摄像头手机，对整机设计影响太大](https://m.ithome.com/html/791643.htm)
 
++ [国产 NAS 系统飞牛私有云 fnOS 开启公测：内核基于 Debian、支持主流的 X86 架构设备](https://m.ithome.com/html/791524.htm)
+

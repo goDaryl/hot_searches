@@ -59,3 +59,5 @@
 
 + [如何使用poutine检测代码库构建管道中的安全缺陷](https://www.freebuf.com/sectool/409008.html)
 
++ [绿盟科技2024半年报：营收8亿，亏损2.55亿](https://www.freebuf.com/articles/neopoints/409679.html)
+
