@@ -379,3 +379,53 @@
 
 + [黑客组织与角川书店谈判破裂 角川拒付800万美元赎金 可能再遭攻击](https://www.3dmgame.com/news/202408/3902861.html)
 
++ [KK官方对战平台新图推荐！独特英灵分队，新时代爆战玩法！](https://www.3dmgame.com/news/202408/3902872.html)
+
++ [《指环王：重返莫瑞亚》登陆Steam/XS 中土生存建造](https://www.3dmgame.com/news/202408/3902869.html)
+
++ [今年最值得玩的魔兽RPG，走进KK火爆新图《伐木生存》作者的游戏人生！](https://www.3dmgame.com/news/202408/3902871.html)
+
++ [科乐美：希望找到能代替小岛秀夫的《合金装备》开发者](https://www.3dmgame.com/news/202408/3902870.html)
+
++ [加州通过AI训练数据透明度法案 要求企业披露AI模型数据来源](https://www.3dmgame.com/news/202408/3902868.html)
+
++ [《博德之门 3》Xbox版本的存档丢失问题仍未得到解决](https://www.3dmgame.com/news/202312/3884941.html)
+
++ [玩家吐槽《方舟：生存进化》容量超300GB：几乎0优化](https://www.3dmgame.com/news/202312/3884940.html)
+
++ [奇幻恋爱漫画《婚戒物语》计划于第15卷完结](https://www.3dmgame.com/news/202312/3884950.html)
+
++ [模拟经营游戏《超灵秘法社》开放抢先体验 获Steam特别好评](https://www.3dmgame.com/news/202312/3884949.html)
+
++ [《魔兽世界》官方发布最爱龙族名“龙”选择图 玩家发现缺少多位重要角色](https://www.3dmgame.com/news/202312/3884946.html)
+
++ [他终于走了！动视暴雪CEO考迪克今日正式卸任](https://www.3dmgame.com/news/202312/3884944.html)
+
++ [全新3D即时战斗卡牌手游《圣斗士星矢：重生2》 预约开启](https://www.3dmgame.com/news/202312/3884933.html)
+
++ [粉丝分享《赛博朋克2077》摄影截图 这画面太震撼](https://www.3dmgame.com/news/202312/3884934.html)
+
++ [《最终幻想7重生》总监迫不及待地想让玩家看到“艾丽丝的命运”](https://www.3dmgame.com/news/202312/3884932.html)
+
++ [优必选宣布港交所挂牌上市 成为“人形机器人第一股”](https://www.3dmgame.com/news/202312/3884942.html)
+
++ [《职业棒球之魂》20周年和《实况力量棒球》30周年纪念网站上线 或有新作将发布](https://www.3dmgame.com/news/202312/3884943.html)
+
++ [《潜行者2》开发中版本实机截图与预告对比](https://www.3dmgame.com/news/202312/3884935.html)
+
++ [肉鸽独游《数字魅影：极限竞赛》实机pv公布](https://www.3dmgame.com/news/202312/3884945.html)
+
++ [台积电向研发组发放特别贡献奖 暗示2nm工艺有新进展](https://www.3dmgame.com/news/202312/3884936.html)
+
++ [《在地下城寻求邂逅：记忆憧憬》手游国际服2月停服](https://www.3dmgame.com/news/202312/3884947.html)
+
++ [制作人安田善巳确认《电锯甜心：重置版》将于2024年发布](https://www.3dmgame.com/news/202312/3884937.html)
+
++ [《装甲核心6》排位赛实装掉线应对机制 故意多次掉线将被惩罚](https://www.3dmgame.com/news/202312/3884948.html)
+
++ [育碧吉祥物《疯狂兔子》动画电影试映片段泄露](https://www.3dmgame.com/news/202312/3884938.html)
+
++ [6元就能与女神甜蜜恋爱？真人沉浸恋爱向游戏29号上线steam](https://www.3dmgame.com/news/202312/3884951.html)
+
++ [雷军：目标就是媲美保时捷特斯拉 小米汽车做到了](https://www.3dmgame.com/news/202312/3884939.html)
+

@@ -45,3 +45,7 @@
 
 + [国产 NAS 系统飞牛私有云 fnOS 开启公测：内核基于 Debian、支持主流的 X86 架构设备](https://m.ithome.com/html/791524.htm)
 
++ [小鹏 MONA M03 轿跑规格公布：风阻系数 0.194、零百加速 7.4 秒、搭全融合外置主动式进气格栅](https://m.ithome.com/html/791560.htm)
+
++ [比亚迪发布王朝网全新 MPV 预告图，号称“王朝新奢，宜家宜商”](https://m.ithome.com/html/791670.htm)
+
