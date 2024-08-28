@@ -241,3 +241,5 @@
 
 + [假冒G胖X账号发布《传送门3》消息 骗取大量关注](https://www.3dmgame.com/news/202408/3902837.html)
 
++ [台积电代工！小米定制芯片曝光：性能比肩骁龙8](https://www.3dmgame.com/news/202408/3902839.html)
+
