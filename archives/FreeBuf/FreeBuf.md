@@ -41,3 +41,5 @@
 
 + [FreeBuf早报 | Telegram 回应CEO在法被捕；澳大利亚成立新的网络司令部](https://www.freebuf.com/news/409505.html)
 
++ [2024年第二季度漏洞利用和漏洞现状](https://www.freebuf.com/articles/paper/409664.html)
+
