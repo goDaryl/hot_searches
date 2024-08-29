@@ -135,3 +135,5 @@
 
 + [CompanyGPT 2.0](https://www.producthunt.com/posts/companygpt-2-0)
 
++ [Bland AI Phone Calling Platform](https://www.producthunt.com/posts/bland-ai-phone-calling-platform)
+

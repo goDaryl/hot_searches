@@ -43,3 +43,5 @@
 
 + [郭明錤：苹果明年新机仅 iPhone 17 Pro Max 配 12GB 内存，更强端侧 AI 为主要卖点](https://m.ithome.com/html/791915.htm)
 
++ [哪吒 CEO 张勇：哪吒 S 猎装车 72 小时大定数未超 1 万，就不发布了](https://m.ithome.com/html/792050.htm)
+
