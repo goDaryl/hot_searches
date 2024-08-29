@@ -49,3 +49,7 @@
 
 + [浅谈预编译 | SQL注入防御](https://www.freebuf.com/articles/web/408568.html)
 
++ [韩国黑客利用 WPS Office 零日漏洞部署恶意软件](https://www.freebuf.com/news/409715.html)
+
++ [研发安全 | 输入验证安全设计剖析](https://www.freebuf.com/articles/system/408086.html)
+
