@@ -197,3 +197,23 @@
 
 + [illustration Plane composition](https://dribbble.com/shots/)
 
++ [Screen Time Mobile App: animation](https://dribbble.com/shots/)
+
++ [Movie Streaming Website Concept](https://dribbble.com/shots/)
+
++ [BordUp - HR Dashboard Components](https://dribbble.com/shots/)
+
++ [Geometric Eagle Logo](https://dribbble.com/shots/)
+
++ [ZKVPN - Teaser - Crypto](https://dribbble.com/shots/)
+
++ [Beautiful Woman Logo](https://dribbble.com/shots/)
+
++ [Unexpected Connections Layout](https://dribbble.com/shots/)
+
++ [3D Pack](https://dribbble.com/shots/)
+
++ [Relocate Now Case Study](https://dribbble.com/shots/)
+
++ [<Sign In />](https://dribbble.com/shots/)
+

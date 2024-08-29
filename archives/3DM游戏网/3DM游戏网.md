@@ -379,3 +379,5 @@
 
 + [华为推出128TB大容量SSD 相同空间实现10倍容量提升](https://www.3dmgame.com/news/202408/3902977.html)
 
++ [vivo发布Y36c手机：天玑6300，899元起售](https://www.3dmgame.com/news/202408/3902981.html)
+
