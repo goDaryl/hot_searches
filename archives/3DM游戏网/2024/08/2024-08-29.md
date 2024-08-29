@@ -223,3 +223,49 @@
 
 + [《星刃》续作将使用虚幻5引擎开发 让画面效果更酷](https://www.3dmgame.com/news/202408/3902902.html)
 
++ [《魔兽世界》11.0“地心之战”抢先试玩结束后上调小怪难度引玩家不满](https://www.3dmgame.com/news/202408/3902923.html)
+
++ [《黑神话》让人印象最深的女角 是蜘蛛精还是小狐狸？](https://www.3dmgame.com/news/202408/3902924.html)
+
++ [《铁血战士：劣地》电影已开拍 艾丽范宁主演](https://www.3dmgame.com/news/202408/3902922.html)
+
++ [《英雄传说：界之轨迹》PS5|PS4数字版预购开启 定价468港币](https://www.3dmgame.com/news/202408/3902920.html)
+
++ [《黑神话》大获成功 国外玩家开始期待《影之刃零》](https://www.3dmgame.com/news/202408/3902918.html)
+
++ [《哈利波特：魔法觉醒》将结束欧美运营 亚洲区等继续](https://www.3dmgame.com/news/202408/3902925.html)
+
++ [动视和微软被旗下工作室工会投诉：随意改变雇佣条款](https://www.3dmgame.com/news/202408/3902921.html)
+
++ [《上古卷轴5》高玩打造新MOD 玩家说话秒变游戏台词](https://www.3dmgame.com/news/202408/3902919.html)
+
++ [《盟军敢死队：起源》玩法概述预告 年内发售](https://www.3dmgame.com/news/202408/3902917.html)
+
++ [《黎明杀机》衍生单机游戏《弗兰克·斯通的阴影》现已推出试玩版](https://www.3dmgame.com/news/202408/3902916.html)
+
++ [《星露谷物语》主机和移动端1.6更新仍在开发中 还需要更多时间](https://www.3dmgame.com/news/202408/3902915.html)
+
++ [《潜行者：封锁区传奇三部曲》11月登陆任天堂Switch](https://www.3dmgame.com/news/202408/3902914.html)
+
++ [《战锤40K：星际战士2》“打造自己的游玩风格”预告 9月9日发售](https://www.3dmgame.com/news/202408/3902911.html)
+
++ [经典新篇《魔神创造传》最新预告 2025年1月开播](https://www.3dmgame.com/news/202408/3902910.html)
+
++ [库存零件耗尽 任天堂宣布停止New 3DS的维修服务](https://www.3dmgame.com/news/202408/3902909.html)
+
++ [动作冒险游戏《权贵之地》现已正式发售 Steam平台已获好评](https://www.3dmgame.com/news/202408/3902908.html)
+
++ [《inZOI》有3D打印功能：可将现实照片变成游戏内物品](https://www.3dmgame.com/news/202408/3902904.html)
+
++ [《最终幻想14》总监吉田直树表示 SE将进一步加深与Xbox玩家的关系](https://www.3dmgame.com/news/202408/3902907.html)
+
++ [《电锯甜心RePOP》11月登陆PS4和Xbox One 仅提供数字版](https://www.3dmgame.com/news/202408/3902906.html)
+
++ [《贪婪之秋》开发商被指管理不善 回应指控：虚假诽谤](https://www.3dmgame.com/news/202408/3902905.html)
+
++ [《跑酷对决》登陆Steam 40人在线街头竞速](https://www.3dmgame.com/news/202408/3902903.html)
+
++ [《怪物猎人：荒野》花5年时间制作 因为卡普空想知道新粉丝要啥](https://www.3dmgame.com/news/202408/3902913.html)
+
++ [CODNext：《黑色行动6》僵尸模式全新详情公开](https://www.3dmgame.com/news/202408/3902912.html)
+

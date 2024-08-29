@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 全球石油巨头因网络攻击被迫关闭系统；ParkN Fly 100 万客户数据泄露](https://www.freebuf.com/news/409612.html)
 
++ [Google 再提高 Chrome 漏洞赏金数额，最高可达25万美元](https://www.freebuf.com/news/409700.html)
+
++ [浅谈预编译 | SQL注入防御](https://www.freebuf.com/articles/web/408568.html)
+
