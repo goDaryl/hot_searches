@@ -297,3 +297,23 @@
 
 + [SpaceX猎鹰9号再次被停飞：助推器着陆爆炸](https://www.3dmgame.com/news/202408/3902936.html)
 
++ [《东方的迷宫Tri 梦想少女与神秘的宝珠》Steam页面开放 不支持中文](https://www.3dmgame.com/news/202408/3902941.html)
+
++ [互动式AR景点《怪物猎人：BRIDGE》公布 参展2025年大阪世博会](https://www.3dmgame.com/news/202408/3902940.html)
+
++ [《FC侦探俱乐部 笑脸男》登陆Switch 36年经典全新篇](https://www.3dmgame.com/news/202408/3902942.html)
+
++ [老外玩《黑神话》破防：打大圣血瓶被抢 从未受过如此羞辱](https://www.3dmgame.com/news/202408/3902943.html)
+
++ [如龙工作室 2024年9月20日18点直播“RGG SUMMIT 2024”！](https://www.3dmgame.com/news/202408/3902944.html)
+
++ [《KAGE～Shadow of The Ninja 绝影战士》今日8月29日正式发售！](https://www.3dmgame.com/news/202408/3902945.html)
+
++ [《救国少女之斯娜静歌》现已发售，并公布全新预告片](https://www.3dmgame.com/news/202408/3902946.html)
+
++ [“SEGA九月精选促销”进行中 《人中之龙 维新！极》等参与促销！](https://www.3dmgame.com/news/202408/3902947.html)
+
++ [Apple Arcade版《魔法气泡 益智消消乐》8月29日迎来第五次版本更新](https://www.3dmgame.com/news/202408/3902948.html)
+
++ [《少年的终结》发布全新主视觉图及售价调整预告](https://www.3dmgame.com/news/202408/3902949.html)
+

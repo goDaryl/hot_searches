@@ -87,3 +87,7 @@
 
 + [当你神功大成重回黑风山【黑神话悟空】](http://www.acfun.cn/v/ac46175495)
 
++ [★求投五蕉★网络上常见的热门短视频集锦 第一千九百三十六期](http://www.acfun.cn/v/ac46176166)
+
++ [「Vampire」双怡翻唱](http://www.acfun.cn/v/ac46176969)
+
