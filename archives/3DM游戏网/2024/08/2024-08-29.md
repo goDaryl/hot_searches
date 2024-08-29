@@ -371,3 +371,11 @@
 
 + [暴雪中国：“网易起诉暴雪一审获胜”不属实 该案未进入一审实质审理阶段](https://www.3dmgame.com/news/202408/3902971.html)
 
++ [2024 VIDEO GAMES LIVE 魔兽世界音乐会 - 中国巡演！](https://www.3dmgame.com/news/202408/3902980.html)
+
++ [横版战斗武侠RPG《刀剑江湖路》9月19日EA发售 定价58元](https://www.3dmgame.com/news/202408/3902979.html)
+
++ [全新横板动作闯关游戏《锈兔异途》 发售延期至2025年](https://www.3dmgame.com/news/202408/3902978.html)
+
++ [华为推出128TB大容量SSD 相同空间实现10倍容量提升](https://www.3dmgame.com/news/202408/3902977.html)
+
