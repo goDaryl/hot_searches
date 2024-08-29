@@ -43,3 +43,5 @@
 
 + [2024年第二季度漏洞利用和漏洞现状](https://www.freebuf.com/articles/paper/409664.html)
 
++ [FreeBuf早报 | 全球石油巨头因网络攻击被迫关闭系统；ParkN Fly 100 万客户数据泄露](https://www.freebuf.com/news/409612.html)
+

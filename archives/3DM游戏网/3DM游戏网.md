@@ -181,3 +181,45 @@
 
 + [《黑神话：悟空》狐狸精萍萍模型被成功提取](https://www.3dmgame.com/news/202408/3902899.html)
 
++ [《庄园领主》弓箭手太弱：发布前被大削 平衡需时间](https://www.3dmgame.com/news/202404/3893871.html)
+
++ [曝卡普空在开发新作《后裔》 八尺夫人女儿演员出演配角](https://www.3dmgame.com/news/202404/3893865.html)
+
++ [传《JOJO的奇妙冒险：飙马野郎》即将迎来动画化](https://www.3dmgame.com/news/202404/3893870.html)
+
++ [《F1 24》游戏玩法深度介绍视频 改进空气动力学模型等多个细节](https://www.3dmgame.com/news/202404/3893868.html)
+
++ [《逃离塔科夫》就PVE模式引发的不满向玩家致歉](https://www.3dmgame.com/news/202404/3893869.html)
+
++ [《DOTA2》ESL One伯明翰站 Falcons 3:0 BB夺冠](https://www.3dmgame.com/news/202404/3893866.html)
+
++ [LucasArts前负责人马特谢尔去世 星战游戏关键人物](https://www.3dmgame.com/news/202404/3893867.html)
+
++ [Nexon开发《权力的游戏》改编MMORPG曝光](https://www.3dmgame.com/news/202404/3893863.html)
+
++ [微软Xbox独占游戏登陆PlayStation大获成功](https://www.3dmgame.com/news/202404/3893864.html)
+
++ [《真人快打1》公开恐怖反派DLC角色祖国人预告](https://www.3dmgame.com/news/202404/3893862.html)
+
++ [极限滑雪新作《Tricky Madness》正式公开](https://www.3dmgame.com/news/202404/3893861.html)
+
++ [《赛马娘热血喧闹大感谢祭》8月30日发售](https://www.3dmgame.com/news/202404/3893860.html)
+
++ [《五等分的花嫁》新作动画确定制作 原作者春场葱监修](https://www.3dmgame.com/news/202404/3893872.html)
+
++ [《刺猬索尼克》电影衍生剧集《纳克鲁斯》现已上线并推出实体版](https://www.3dmgame.com/news/202404/3893873.html)
+
++ [《羊肚菌：狩猎2》游戏性预告 现已正式推出](https://www.3dmgame.com/news/202404/3893858.html)
+
++ [前《全境封锁》总监对类塔科夫新作《Exoborne》很自信](https://www.3dmgame.com/news/202404/3893877.html)
+
++ [《星刃》M站玩家评分8.9 动作流畅、主角可爱](https://www.3dmgame.com/news/202404/3893859.html)
+
++ [《猩球崛起4：新世界》全新预告 多么美好的一天！](https://www.3dmgame.com/news/202404/3893876.html)
+
++ [锤哥《惊天营救3》电影正有序推进中](https://www.3dmgame.com/news/202404/3893875.html)
+
++ [网易暴雪游戏运营团队辟谣：国服数据丢失等均为谣言](https://www.3dmgame.com/news/202404/3893874.html)
+
++ [《星刃》续作将使用虚幻5引擎开发 让画面效果更酷](https://www.3dmgame.com/news/202408/3902902.html)
+
