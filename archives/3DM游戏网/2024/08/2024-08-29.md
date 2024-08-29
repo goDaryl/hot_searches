@@ -317,3 +317,23 @@
 
 + [《少年的终结》发布全新主视觉图及售价调整预告](https://www.3dmgame.com/news/202408/3902949.html)
 
++ [《Blazing Strike》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202408/3902959.html)
+
++ [天命人集结！《黑神话：悟空》引旅游热 山西景区比过年还热闹](https://www.3dmgame.com/news/202408/3902958.html)
+
++ [《蓝色协议》关服前路线图公开：每月发放游戏内补偿](https://www.3dmgame.com/news/202408/3902957.html)
+
++ [开发世界《Botworld Odyssey》Steam页面开放 10月24日发售](https://www.3dmgame.com/news/202408/3902956.html)
+
++ [日恐名作《钟楼复刻版》10月登陆主机 PC版未定](https://www.3dmgame.com/news/202408/3902955.html)
+
++ [可爱橘猫+酷炫滑板，《哥里：可爱大灭绝》8月29日“萌”物来袭！](https://www.3dmgame.com/news/202408/3902954.html)
+
++ [ATLUS新作《暗喻幻想：ReFantazio》最新资讯公开 登场角色公布](https://www.3dmgame.com/news/202408/3902952.html)
+
++ [《光与影：33号远征队》发布游戏早期细节及玩法视频](https://www.3dmgame.com/news/202408/3902951.html)
+
++ [全新节奏游戏《神椿市協奏中。》将于今日正式上线发售！](https://www.3dmgame.com/news/202408/3902950.html)
+
++ [CygamesPirctures原创动画《Apocalypse Hotel》首爆预告 2025年放映](https://www.3dmgame.com/news/202408/3902953.html)
+
