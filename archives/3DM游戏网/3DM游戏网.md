@@ -175,3 +175,9 @@
 
 + [扳机社打造《变形金刚》40周年动画特辑即将公布](https://www.3dmgame.com/news/202408/3903002.html)
 
++ [粉丝不要试图影响《巫师4》故事和玩法 CDPR不会听你的](https://www.3dmgame.com/news/202408/3903006.html)
+
++ [费心了！《天国：拯救2》剧本字数超过200万字](https://www.3dmgame.com/news/202408/3903007.html)
+
++ [育碧就《星球大战：亡命之徒》PS5版本更新后重开存档问题道歉 并提供补偿](https://www.3dmgame.com/news/202408/3903009.html)
+
