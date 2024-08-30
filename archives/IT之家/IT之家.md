@@ -43,3 +43,5 @@
 
 + [丰富主题玩法，华为 Pura 70 系列手机获推鸿蒙 HarmonyOS 4.2.0.177 升级](https://m.ithome.com/html/792113.htm)
 
++ [“年轻人的第一台 GT”比亚迪海豹 06 GT 发布，盲订价 15 万-20 万元](https://m.ithome.com/html/792215.htm)
+
