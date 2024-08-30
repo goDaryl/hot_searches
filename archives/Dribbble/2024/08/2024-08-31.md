@@ -49,3 +49,49 @@
 
 + [GearLeaf  Eco-Tech, logo ????⚙️](https://dribbble.com/shots/)
 
++ [3D Illustration for a Next-Gen Commerce and Collectibles Market](https://dribbble.com/shots/)
+
++ [Heretic - Turing Pattern Machine](https://dribbble.com/shots/)
+
++ [Pointed Pony](https://dribbble.com/shots/)
+
++ [LAFC x Target](https://dribbble.com/shots/)
+
++ [Cats Exhibition in Lyon](https://dribbble.com/shots/)
+
++ [Lockups](https://dribbble.com/shots/)
+
++ [The Small-City Draw](https://dribbble.com/shots/)
+
++ [Bacteria](https://dribbble.com/shots/)
+
++ [Bring back the flavours of the past](https://dribbble.com/shots/)
+
++ [Gig Poster - Sir Woman](https://dribbble.com/shots/)
+
++ [Fox mark](https://dribbble.com/shots/)
+
++ [Stained Glass](https://dribbble.com/shots/)
+
++ [Mexico City Stickers](https://dribbble.com/shots/)
+
++ [Gig Poster - Dengue Fever](https://dribbble.com/shots/)
+
++ [Bourbon & Balls 2](https://dribbble.com/shots/)
+
++ [Imposing Limits - An Adobe MAX Workshop](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Secondary Logo](https://dribbble.com/shots/)
+
++ [Octopus](https://dribbble.com/shots/)
+
++ [Icons for a Non Alcoholic Bottle Shop](https://dribbble.com/shots/)
+
++ [pink flowers](https://dribbble.com/shots/)
+
++ [Adrenaline Rush Hot Sauce](https://dribbble.com/shots/)
+
++ [Geometric Zeus Logo](https://dribbble.com/shots/)
+
++ [—From Archive (Pt. 5)](https://dribbble.com/shots/)
+
