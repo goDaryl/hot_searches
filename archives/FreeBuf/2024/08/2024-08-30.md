@@ -41,3 +41,5 @@
 
 + [FreeBuf早报 | Uber因违反GDPR被罚23亿；谷歌发布2024年第10个零日漏洞](https://www.freebuf.com/news/409601.html)
 
++ [2024年加密货币犯罪报告：勒索软件攻击者越来越利用社会工程学](https://www.freebuf.com/articles/neopoints/408911.html)
+

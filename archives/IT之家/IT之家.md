@@ -27,3 +27,5 @@
 
 + [华为 2024 上半年销售收入 4175 亿元，同比增长 34.3%](https://m.ithome.com/html/792048.htm)
 
++ [京东自营再降价：华为 Mate 60 Pro 手机 12+512G 版 5565 元新低](https://m.ithome.com/html/792119.htm)
+
