@@ -307,3 +307,7 @@
 
 + [《英雄无敌：上古纪元》新情报 有DLC计划无微交易](https://www.3dmgame.com/news/202408/3903065.html)
 
++ [李阳称《黑神话：悟空》爆火是民族悲哀 一切游戏都是坏游戏](https://www.3dmgame.com/news/202408/3903073.html)
+
++ [微星Claw 8 AI+掌机规格曝光 配备更大的屏幕和电池](https://www.3dmgame.com/news/202408/3903072.html)
+
