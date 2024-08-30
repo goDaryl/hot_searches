@@ -293,3 +293,17 @@
 
 + [《凉宫春日》系列将于8月31日中午发布新消息](https://www.3dmgame.com/news/202408/3903055.html)
 
++ [iPhone 16 Pro首发！苹果A18 Pro关键规格曝光](https://www.3dmgame.com/news/202408/3903071.html)
+
++ [动作冒险游戏《海绵宝宝：派大星游戏》Steam页面上线 2024年10月4日发售](https://www.3dmgame.com/news/202408/3903068.html)
+
++ [《黑神话：悟空》游戏摄影作品 感受游戏独特魅力](https://www.3dmgame.com/news/202408/3903069.html)
+
++ [博主偷取多部知名小说喂AI 晋江文学城：无耻嚣张侵权](https://www.3dmgame.com/news/202408/3903070.html)
+
++ [漫威剧集《女巫阿加莎》最新预告 9月18日首映两集连播](https://www.3dmgame.com/news/202408/3903067.html)
+
++ [《黑神话》小狐狸萍萍图赏 有人认为她的衣服容易走光](https://www.3dmgame.com/news/202408/3903066.html)
+
++ [《英雄无敌：上古纪元》新情报 有DLC计划无微交易](https://www.3dmgame.com/news/202408/3903065.html)
+
