@@ -225,3 +225,11 @@
 
 + [店铺管理模拟游戏《Stock the Shelves》Steam页面开放 年内发售](https://www.3dmgame.com/news/202408/3903023.html)
 
++ [《黑神话：悟空》速通新纪录 1小时达成通关 国内玩家创造](https://www.3dmgame.com/news/202408/3903032.html)
+
++ [玩家给G胖发邮件 成功要到《Deadlock》测试资格](https://www.3dmgame.com/news/202408/3903034.html)
+
++ [苹果iPhone16开始印度量产 富士康否认良率只有50%](https://www.3dmgame.com/news/202408/3903033.html)
+
++ [《秋之回忆 双想 Not always true》宣布延期至2025年 将推出中文版](https://www.3dmgame.com/news/202408/3903031.html)
+
