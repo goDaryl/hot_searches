@@ -171,3 +171,35 @@
 
 + [Community Center](https://dribbble.com/shots/)
 
++ [Atomic Strength](https://dribbble.com/shots/)
+
++ [Love Story, AI-powered dating app logo design: heart, L, S, path](https://dribbble.com/shots/)
+
++ [Vault - Crypto Dashboard Design](https://dribbble.com/shots/)
+
++ [Fitly | Mobile App Design????](https://dribbble.com/shots/)
+
++ [Webtrix - Web3 Finance Blockchain Platform Landing Page](https://dribbble.com/shots/)
+
++ [FlexSpace: Web App SaaS Dashboard Hybrid Workspace ????](https://dribbble.com/shots/)
+
++ [Produktify - App Landing Page](https://dribbble.com/shots/)
+
++ [Sheep Logo](https://dribbble.com/shots/)
+
++ [Health Fitness Hub](https://dribbble.com/shots/)
+
++ [Alonso/Videography logo](https://dribbble.com/shots/)
+
++ [Video Production Agency Website](https://dribbble.com/shots/)
+
++ [Glowing Home screen for Natural AI](https://dribbble.com/shots/)
+
++ [Verve Real Estate Platform Webapp](https://dribbble.com/shots/)
+
++ [Zendenta - Brand Book for a SaaS Dental Clinic Management System](https://dribbble.com/shots/)
+
++ [Logo Alphabet Animation](https://dribbble.com/shots/)
+
++ [Tenners - Tennis Academy Website Exploration](https://dribbble.com/shots/)
+
