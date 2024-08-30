@@ -33,3 +33,11 @@
 
 + [索尼 PS5 Pro 设计曝光：比 PS5 Slim 略厚，最快 9 月发布](https://m.ithome.com/html/792092.htm)
 
++ [比亚迪腾势 N9 伪装车曝光：贴纸印有“500 万以内就换我”“5 米 3”](https://m.ithome.com/html/792038.htm)
+
++ [华为开启“先锋感恩回馈季”活动：购买 Mate X5、Pocket 2、nova Flip 系列手机领 1 年 HUAWEI Care+ 权益](https://m.ithome.com/html/792065.htm)
+
++ [网易起诉暴雪一审裁定书公开，法院冻结暴雪 1.39 亿元财产](https://m.ithome.com/html/792013.htm)
+
++ [vivo X200 手机三证齐全：预计搭载天玑 9400 处理器，支持 90W 快充](https://m.ithome.com/html/792033.htm)
+

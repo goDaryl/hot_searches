@@ -53,3 +53,5 @@
 
 + [深入分析Apache OFBiz 远程命令执行漏洞0day(CVE-2024-38856)](https://www.freebuf.com/vuls/408087.html)
 
++ [启明星辰2024半年报：营收15.74亿，亏损1.82亿](https://www.freebuf.com/news/409840.html)
+

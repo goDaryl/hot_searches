@@ -161,3 +161,11 @@
 
 + [Mexico City Stickers](https://dribbble.com/shots/)
 
++ [Bubble tea loyalty card and packaging design |  Mascot logo](https://dribbble.com/shots/)
+
++ [Elema](https://dribbble.com/shots/)
+
++ [Tokyo wandering](https://dribbble.com/shots/)
+
++ [Tin Fish Can Design](https://dribbble.com/shots/)
+
