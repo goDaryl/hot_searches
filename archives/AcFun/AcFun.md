@@ -67,3 +67,7 @@
 
 + [【萤火虫切片】本想忽悠所所gaygay，谁知他竟主动给给pr](http://www.acfun.cn/v/ac46185033)
 
++ [我全成就了《黑神话：悟空》来点老实话](http://www.acfun.cn/v/ac46186684)
+
++ [提线木偶](http://www.acfun.cn/v/ac46184605)
+

@@ -119,3 +119,13 @@
 
 + [De La Soul - Restaurant Brand Identity](https://dribbble.com/shots/)
 
++ [Heads#2](https://dribbble.com/shots/)
+
++ [Aging in Place](https://dribbble.com/shots/)
+
++ [つづく](https://dribbble.com/shots/)
+
++ [Pizza](https://dribbble.com/shots/)
+
++ [Dartmouth Fall 24](https://dribbble.com/shots/)
+
