@@ -107,3 +107,29 @@
 
 + [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/141716698)
 
++ [Spring高手之路22——AOP切面类的封装与解析](https://blog.csdn.net/qq_34115899/article/details/139025496)
+
++ [RabbitMQ本地Ubuntu系统环境部署与无公网IP远程连接服务端实战演示](https://blog.csdn.net/qq_73017178/article/details/141714512)
+
++ [基于yolov8的手势识别0-9检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/141719329)
+
++ [linux之网络子系统-MAC帧、数据报、段 的头部信息](https://blog.csdn.net/z20230508/article/details/141673386)
+
++ [sealos快速搭建k8s集群](https://blog.csdn.net/daizikui/article/details/141728396)
+
++ [【实时负载均衡调度】](https://blog.csdn.net/m0_67882931/article/details/141725246)
+
++ [[Unity]基于Prefab的2D横版关卡切换工具LevelManager实现思路分享](https://blog.csdn.net/IceInNorthern/article/details/141716788)
+
++ [公共DNS大测评，哪个解析性能最好？](https://blog.csdn.net/weixin_41645135/article/details/141720175)
+
++ [Web自动化测试实战--博客系统](https://blog.csdn.net/m0_65465009/article/details/141750197)
+
++ [VTK医学影像3D重建的一些总结](https://blog.csdn.net/weixin_73414031/article/details/141759752)
+
++ [记录一下腾讯云即时通信IM（无UI集成）、TRTC做文字、语音、图片、实时音视频聊天遇到的问题](https://blog.csdn.net/weixin_43106777/article/details/141709504)
+
++ [在React中使用TypeScript和Material-UI v5时，要为单个.tsx文件创建一个局部作用域的.scss文件如何做? 另外主题如何获取呢?](https://blog.csdn.net/qq_42391246/article/details/141717213)
+
++ [基于veirlog的TCS230传感器、WS2812灯珠控制 与 颜色识别模块开发 与 FPGA实战](https://blog.csdn.net/weixin_72689660/article/details/141603867)
+
