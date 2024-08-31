@@ -123,3 +123,7 @@
 
 + [Astrology Mobile iOS App Design Concept](https://dribbble.com/shots/)
 
++ [Crypto investment](https://dribbble.com/shots/)
+
++ [Video Editor](https://dribbble.com/shots/)
+
