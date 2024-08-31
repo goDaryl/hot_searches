@@ -27,3 +27,5 @@
 
 + [魅族新机入网，消息称其为红旗手机、“套娃”魅族 21 Pro](https://m.ithome.com/html/792427.htm)
 
++ [极氪 7X“豪华大五座”SUV 开启预订：23.99 万元起，9 月 20 日上市交付](https://m.ithome.com/html/792201.htm)
+

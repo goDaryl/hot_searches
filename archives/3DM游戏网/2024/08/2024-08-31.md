@@ -117,3 +117,15 @@
 
 + [吉田表示《最终幻想14》在任天堂主机上取得进展](https://www.3dmgame.com/news/202408/3903085.html)
 
++ [《绝地潜兵2》Steam已多半差评 极左社区总监被开除](https://www.3dmgame.com/news/202408/3903088.html)
+
++ [坂口博信：《最终幻想》系列的核心要素是故事和世界](https://www.3dmgame.com/news/202408/3903089.html)
+
++ [AVG游戏《人类终结之日——2074》Steam页面上线 明年发售](https://www.3dmgame.com/news/202408/3903090.html)
+
++ [iPhone 16 Pro新渲染图：全新古铜配色 神似土豪金](https://www.3dmgame.com/news/202408/3903091.html)
+
++ [《星球大战：亡命之徒》这么不待见？社交媒体上无人讨论](https://www.3dmgame.com/news/202408/3903086.html)
+
++ [《文明7》将采用D加密技术！玩家感到不满](https://www.3dmgame.com/news/202408/3903087.html)
+
