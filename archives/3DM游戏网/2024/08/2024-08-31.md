@@ -181,3 +181,11 @@
 
 + [《无主之地4》的幽默将“更加贴合世界观且更加自然”](https://www.3dmgame.com/news/202408/3903111.html)
 
++ [首发一周后 《星鸣特攻》跌出了PS5销量前50名](https://www.3dmgame.com/news/202408/3903121.html)
+
++ [《塞尔达传说：智慧的再现》预告片展示大量内容](https://www.3dmgame.com/news/202408/3903120.html)
+
++ [SIE日本询问玩家：是否会再给《星鸣特攻》一个机会](https://www.3dmgame.com/news/202408/3903119.html)
+
++ [《超级马里奥派对：空前盛会》预告 宝琳登场亮相](https://www.3dmgame.com/news/202408/3903118.html)
+

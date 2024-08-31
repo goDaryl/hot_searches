@@ -45,3 +45,9 @@
 
 + [2025 款比亚迪宋 L EV 上市：续航 550km~662km，18.98 万元起](https://m.ithome.com/html/792294.htm)
 
++ [小鹏 MONA 产品线负责人杨光：雷军给了 MONA M03“很多很好的建议”](https://m.ithome.com/html/792466.htm)
+
++ [酷比魔方掌玩 mini 2 平板开售：8.4 英寸屏、骁龙 6 Gen 1 + 8G + 128G 售 1098 元](https://m.ithome.com/html/792418.htm)
+
++ [京东京造 10000mAh 自带线充电宝开售：双向 30W 快充，99 元](https://m.ithome.com/html/792390.htm)
+
