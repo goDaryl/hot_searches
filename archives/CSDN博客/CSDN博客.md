@@ -149,3 +149,7 @@
 
 + [强化学习，第 5 部分：时间差异学习](https://blog.csdn.net/gongdiwudu/article/details/141665013)
 
++ [python数据分析——网络爬虫和API](https://blog.csdn.net/weixin_56631477/article/details/141680608)
+
++ [开源软件指南](https://blog.csdn.net/qq_29607687/article/details/141675124)
+

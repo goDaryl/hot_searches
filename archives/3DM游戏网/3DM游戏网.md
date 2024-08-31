@@ -141,3 +141,27 @@
 
 + [传闻：华纳正在开发《新蝙蝠侠》设定《企鹅人》游戏](https://www.3dmgame.com/news/202408/3903093.html)
 
++ [《永恒冬日》公布抢先体验发布日期以及更新路线图](https://www.3dmgame.com/news/202408/3903108.html)
+
++ [《使命召唤：黑色行动6》多人模式抓的“肉盾”能听到你的语音](https://www.3dmgame.com/news/202408/3903109.html)
+
++ [N64《班卓熊大冒险》已被反编译 或将出现PC移植版](https://www.3dmgame.com/news/202408/3903107.html)
+
++ [Steam商店页面改动 允许开发者选择推荐类似游戏](https://www.3dmgame.com/news/202408/3903106.html)
+
++ [恋爱模拟视觉小说游戏《致命终局》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202408/3903105.html)
+
++ [《见习死神模拟器》Steam页面公布 2024年第四季度发售](https://www.3dmgame.com/news/202408/3903104.html)
+
++ [《星空：破碎空间》DLC完整Steam成就列表已公开](https://www.3dmgame.com/news/202408/3903103.html)
+
++ [RPG《物种战争：启示录》Steam页面公布 年内发售](https://www.3dmgame.com/news/202408/3903101.html)
+
++ [ESRB庆祝成立30周年 还为此创作了一首新歌](https://www.3dmgame.com/news/202408/3903100.html)
+
++ [《使命召唤：黑色行动6》测试服务器被挤爆 动视全力改善](https://www.3dmgame.com/news/202408/3903098.html)
+
++ [《雨中冒险2》原开发者讨论游戏现状 已修复2个BUG](https://www.3dmgame.com/news/202408/3903102.html)
+
++ [英特尔：由于新架构 Lunar Lake和Arrow Lake CPU不存在运行不稳定问题](https://www.3dmgame.com/news/202408/3903099.html)
+

@@ -33,3 +33,9 @@
 
 + [全新凯迪拉克 XT5 亮相成都车展：家族直列式大灯，现款指导价 35.27 万元起](https://m.ithome.com/html/792429.htm)
 
++ [米哈游创始人蔡浩宇：AIGC 将彻底改变游戏开发行业，除天才和爱好者外建议转行](https://m.ithome.com/html/792399.htm)
+
++ [BLG 3:0 战胜 WBG 夺得《英雄联盟》2024 LPL 夏季赛总冠军](https://m.ithome.com/html/792388.htm)
+
++ [市场监管总局督导阿里巴巴集团控股有限公司完成三年整改](https://m.ithome.com/html/792329.htm)
+

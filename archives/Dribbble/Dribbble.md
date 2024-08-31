@@ -143,3 +143,15 @@
 
 + [Polaris Illustration](https://dribbble.com/shots/)
 
++ [Community Center](https://dribbble.com/shots/)
+
++ [Rideshare, for whom?](https://dribbble.com/shots/)
+
++ [Whisking you back to the good old days!](https://dribbble.com/shots/)
+
++ [Downtown Flavor Town Pattern](https://dribbble.com/shots/)
+
++ [illustration Plane composition](https://dribbble.com/shots/)
+
++ [Seated Character](https://dribbble.com/shots/)
+
