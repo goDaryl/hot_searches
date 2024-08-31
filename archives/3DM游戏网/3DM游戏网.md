@@ -109,3 +109,11 @@
 
 + [中世纪题材《天国：拯救》新史低促销 仅售11元](https://www.3dmgame.com/news/202408/3903080.html)
 
++ [《使命召唤：黑色行动6》多人Beta抢先体验现已上线](https://www.3dmgame.com/news/202408/3903082.html)
+
++ [Steam将让开发者更好地定制他们的游戏产品页面](https://www.3dmgame.com/news/202408/3903083.html)
+
++ [《战锤40K：星际战士2》展示堡垒和重装职业](https://www.3dmgame.com/news/202408/3903084.html)
+
++ [吉田表示《最终幻想14》在任天堂主机上取得进展](https://www.3dmgame.com/news/202408/3903085.html)
+

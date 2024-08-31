@@ -129,3 +129,11 @@
 
 + [Dartmouth Fall 24](https://dribbble.com/shots/)
 
++ [taxes](https://dribbble.com/shots/)
+
++ [St. Jory (Winery) - Tryptic 2/4 ✦ Logo/Icon/Symbol](https://dribbble.com/shots/)
+
++ [Made in Udmurtia](https://dribbble.com/shots/)
+
++ [Darkness to Community | My Story](https://dribbble.com/shots/)
+
