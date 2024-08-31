@@ -101,3 +101,9 @@
 
 + [ASP.NET Core6.0-wwwroot文件夹无法访问解决方法](https://blog.csdn.net/qq_32795773/article/details/141714371)
 
++ [基于yolov8的行人跌倒检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/141681468)
+
++ [基于Spring的单点登录SSO实现（redis+JWT+SpringSecurity）](https://blog.csdn.net/xingyuemengjin/article/details/141727998)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/141716698)
+
