@@ -129,3 +129,15 @@
 
 + [《文明7》将采用D加密技术！玩家感到不满](https://www.3dmgame.com/news/202408/3903087.html)
 
++ [《空洞骑士：丝之歌》页面更新让玩家空欢喜一场](https://www.3dmgame.com/news/202408/3903097.html)
+
++ [《无主之地4》新概念图及细节 最多样化最美丽游戏](https://www.3dmgame.com/news/202408/3903096.html)
+
++ [冒险游戏《恐龙》Steam页面上线 支持中文](https://www.3dmgame.com/news/202408/3903095.html)
+
++ [暴雪前总裁：主机永远不会死 索尼独占策略很成功](https://www.3dmgame.com/news/202408/3903094.html)
+
++ [《博德之门3》发行总监认为游戏定价应该更高一些](https://www.3dmgame.com/news/202408/3903092.html)
+
++ [传闻：华纳正在开发《新蝙蝠侠》设定《企鹅人》游戏](https://www.3dmgame.com/news/202408/3903093.html)
+
