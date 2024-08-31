@@ -49,3 +49,7 @@
 
 + [不是，真没人敢说吗？免杀大佬加入黑灰产还打得过吗？](https://www.freebuf.com/articles/network/408580.html)
 
++ [渗透测试 | 详解前端漏洞触发后端RCE](https://www.freebuf.com/articles/web/401334.html)
+
++ [记edusrc挖掘的骚技巧](https://www.freebuf.com/articles/web/408592.html)
+

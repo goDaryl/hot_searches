@@ -39,3 +39,5 @@
 
 + [市场监管总局督导阿里巴巴集团控股有限公司完成三年整改](https://m.ithome.com/html/792329.htm)
 
++ [国产 GPU 独角兽象帝先被曝解散，400 人团队原地失业](https://m.ithome.com/html/792468.htm)
+

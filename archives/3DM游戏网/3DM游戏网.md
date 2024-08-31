@@ -165,3 +165,5 @@
 
 + [英特尔：由于新架构 Lunar Lake和Arrow Lake CPU不存在运行不稳定问题](https://www.3dmgame.com/news/202408/3903099.html)
 
++ [国内最大智算中心正式投用 每秒690亿亿次浮点运算](https://www.3dmgame.com/news/202408/3903110.html)
+

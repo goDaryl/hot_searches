@@ -153,3 +153,21 @@
 
 + [开源软件指南](https://blog.csdn.net/qq_29607687/article/details/141675124)
 
++ [Carla自动驾驶仿真十：Carlaviz三维可视化平台搭建](https://blog.csdn.net/zataji/article/details/141729005)
+
++ [通过Amazon Bedrock上的Stability AI模型开发生成式AI应用（上篇）](https://blog.csdn.net/m0_66628975/article/details/141728209)
+
++ [【Docker系列】Docker 日志管理：批量删除策略与实践](https://blog.csdn.net/qyj19920704/article/details/141687305)
+
++ [IP网络协议](https://blog.csdn.net/m0_69323023/article/details/141712294)
+
++ [PDF文本指令解析与文本水印去除](https://blog.csdn.net/as604049322/article/details/141724271)
+
++ [红帽与SUSE对RHEL/CentOS 7系列延长生命周期支持策略：保障企业Linux系统的持续安全与稳定](https://blog.csdn.net/thesre/article/details/141741698)
+
++ [AI技术引领未来游戏革命：《黑神话：悟空》——‘ 我国第一个大学生 ’【与游戏科学的深度融合】](https://blog.csdn.net/zhaochen1127/article/details/141729260)
+
++ [nodejs基于微信小程序的书籍销售系统论文源码调试讲解](https://blog.csdn.net/u014445459/article/details/141662546)
+
++ [Sentinel微服务保护](https://blog.csdn.net/qq_64353233/article/details/141685821)
+
