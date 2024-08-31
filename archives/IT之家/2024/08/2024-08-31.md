@@ -61,3 +61,7 @@
 
 + [全新智己 LS6 预售 10 小时订单突破 5000 台，官方宣称“爆单了”](https://m.ithome.com/html/792513.htm)
 
++ [小米 MIX Flip 2 折叠手机现踪迹：配骁龙 8 Gen 4 芯片，有望明年 5 月发售](https://m.ithome.com/html/792448.htm)
+
++ [《侏罗纪世界 4：重生》定档 2025 年 7 月 2 日北美上映，斯嘉丽・约翰逊等人出演](https://m.ithome.com/html/792433.htm)
+
