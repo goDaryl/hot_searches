@@ -65,3 +65,9 @@
 
 + [《侏罗纪世界 4：重生》定档 2025 年 7 月 2 日北美上映，斯嘉丽・约翰逊等人出演](https://m.ithome.com/html/792433.htm)
 
++ [vivo X200 系列、魅族新机通过 3C 认证，分别支持 90W、33W 快充](https://m.ithome.com/html/792511.htm)
+
++ [广州拟立法规定：不发展互联网租赁电动自行车](https://m.ithome.com/html/792547.htm)
+
++ [《文明 7》PC 版宣布使用 Denuvo 游戏防盗版技术：2025 年 2 月 11 日发售，定价 298 元起](https://m.ithome.com/html/792509.htm)
+
