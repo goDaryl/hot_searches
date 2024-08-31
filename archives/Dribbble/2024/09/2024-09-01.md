@@ -127,3 +127,21 @@
 
 + [Video Editor](https://dribbble.com/shots/)
 
++ [Lockups](https://dribbble.com/shots/)
+
++ [Seated Character](https://dribbble.com/shots/)
+
++ [Pointed Pony](https://dribbble.com/shots/)
+
++ [Downtown Flavor Town Pattern](https://dribbble.com/shots/)
+
++ [Plant Pot](https://dribbble.com/shots/)
+
++ [3D Illustration for a Next-Gen Commerce and Collectibles Market](https://dribbble.com/shots/)
+
++ [Glowing Home screen for Natural AI](https://dribbble.com/shots/)
+
++ [LEMONADE GANG](https://dribbble.com/shots/)
+
++ [—From Archive (Pt. 5)](https://dribbble.com/shots/)
+
