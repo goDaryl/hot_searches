@@ -167,3 +167,17 @@
 
 + [国内最大智算中心正式投用 每秒690亿亿次浮点运算](https://www.3dmgame.com/news/202408/3903110.html)
 
++ [詹姆斯·古恩：《蝙蝠侠》游戏的说法完全没有真实性](https://www.3dmgame.com/news/202408/3903117.html)
+
++ [谣传蔚来宣布破产 蔚来法务部：已报警、将追究法律责任](https://www.3dmgame.com/news/202408/3903116.html)
+
++ [“正确神游”《尘路之旅》发公告称反对仇恨被网友群嘲：你游戏里“网暴”是技能](https://www.3dmgame.com/news/202408/3903115.html)
+
++ [《原神》过场动画-「赤炎凛霜之争」](https://www.3dmgame.com/news/202408/3903114.html)
+
++ [CEO关于AI言论引发争议 亚马逊游戏回应称非常遗憾](https://www.3dmgame.com/news/202408/3903113.html)
+
++ [周星驰电影《食神》今日上映：28年经典作品高清修复](https://www.3dmgame.com/news/202408/3903112.html)
+
++ [《无主之地4》的幽默将“更加贴合世界观且更加自然”](https://www.3dmgame.com/news/202408/3903111.html)
+

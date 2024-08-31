@@ -41,3 +41,7 @@
 
 + [国产 GPU 独角兽象帝先被曝解散，400 人团队原地失业](https://m.ithome.com/html/792468.htm)
 
++ [消息称鸿蒙智行享界 S9 增程版车型将于明年上市](https://m.ithome.com/html/792416.htm)
+
++ [2025 款比亚迪宋 L EV 上市：续航 550km~662km，18.98 万元起](https://m.ithome.com/html/792294.htm)
+
