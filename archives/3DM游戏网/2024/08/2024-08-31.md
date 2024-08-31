@@ -193,3 +193,7 @@
 
 + [《恶魔城》合集发布之后 玩家已经在期待下一部合集了](https://www.3dmgame.com/news/202408/3903122.html)
 
++ [《致命公司》开发者暂停更新 转开发单人恐怖游戏](https://www.3dmgame.com/news/202408/3903125.html)
+
++ [《HYAKKI YAKO Survivor》Steam页面公布 10月发售](https://www.3dmgame.com/news/202408/3903124.html)
+
