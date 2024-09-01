@@ -105,3 +105,9 @@
 
 + [《黑神话》官方感谢B站支持 播放量超2亿](https://www.3dmgame.com/news/202409/3903179.html)
 
++ [Switch《勇者斗恶龙3：HD-2D重制版》容量与《歧路旅人2》相当](https://www.3dmgame.com/news/202409/3903182.html)
+
++ [《塞尔达传说》时间线更新 开放世界系列或将独立](https://www.3dmgame.com/news/202409/3903181.html)
+
++ [社长非常有信心！《闪电十一人》终将公布发售日](https://www.3dmgame.com/news/202409/3903180.html)
+
