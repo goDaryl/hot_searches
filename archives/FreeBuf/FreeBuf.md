@@ -49,3 +49,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/409846.html)
 
++ [“李鬼”软件暗设后门，对抗杀软侵蚀系统](https://www.freebuf.com/news/409087.html)
+

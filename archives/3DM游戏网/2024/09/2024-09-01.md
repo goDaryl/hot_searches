@@ -139,3 +139,5 @@
 
 + [《寂静岭2》PC增强版团队发布10号最终更新补丁](https://www.3dmgame.com/news/202409/3903153.html)
 
++ [《卡片战斗先导者2》2025年1月登陆 Switch/Steam](https://www.3dmgame.com/news/202409/3903154.html)
+
