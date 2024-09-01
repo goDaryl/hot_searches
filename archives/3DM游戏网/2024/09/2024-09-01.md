@@ -157,3 +157,13 @@
 
 + [《星际拓荒：考古学家版》PS5实体版意外缺失DLC](https://www.3dmgame.com/news/202409/3903161.html)
 
++ [百度副总裁谈AI热潮 大模型领域有人在挂羊头卖狗肉](https://www.3dmgame.com/news/202409/3903165.html)
+
++ [三上真司称自己最想要复活的经典作品是《神之手》](https://www.3dmgame.com/news/202409/3903166.html)
+
++ [邪恶结局优化 《博德之门3》7号补丁下周终于到来](https://www.3dmgame.com/news/202409/3903167.html)
+
++ [《风暴之城》大型资料片“磐石守护者”公布 月底发售](https://www.3dmgame.com/news/202409/3903163.html)
+
++ [《地心护核者》钓鱼小游戏被移除 或将在优化后回归](https://www.3dmgame.com/news/202409/3903164.html)
+
