@@ -45,3 +45,9 @@
 
 + [罗永浩微博暗示年末将公布新品](https://m.ithome.com/html/792584.htm)
 
++ [【IT之家开箱】梦回千禧：HMD Barbie 芭比联名手机国行图赏](https://m.ithome.com/html/792548.htm)
+
++ [广东也来啦：数码家电以旧换新立打 8 折补贴 2000 元，合计 16000 元](https://m.ithome.com/html/792649.htm)
+
++ [小米 SU7 汽车 2024 年 8 月交付量超 1 万台，预计 11 月总交付破 10 万](https://m.ithome.com/html/792615.htm)
+

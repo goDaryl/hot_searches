@@ -167,3 +167,5 @@
 
 + [《地心护核者》钓鱼小游戏被移除 或将在优化后回归](https://www.3dmgame.com/news/202409/3903164.html)
 
++ [《ASTROBOTANICA》Steam上线 开放世界生存](https://www.3dmgame.com/news/202409/3903168.html)
+
