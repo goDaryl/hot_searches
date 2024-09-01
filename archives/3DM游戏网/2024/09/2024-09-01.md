@@ -147,3 +147,9 @@
 
 + [《Unicycle Pizza Time!》登陆Steam 高难度送披萨](https://www.3dmgame.com/news/202409/3903157.html)
 
++ [《黄蜂先锋2》Steam页面上线 和风推理名作](https://www.3dmgame.com/news/202409/3903159.html)
+
++ [《博德之门3》曾考虑做第一人称视角对话 但被否决](https://www.3dmgame.com/news/202409/3903160.html)
+
++ [《英雄联盟》解说组合德云色解散 网友：十年青春结束了](https://www.3dmgame.com/news/202409/3903158.html)
+
