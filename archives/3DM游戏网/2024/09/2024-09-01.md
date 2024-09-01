@@ -141,3 +141,9 @@
 
 + [《卡片战斗先导者2》2025年1月登陆 Switch/Steam](https://www.3dmgame.com/news/202409/3903154.html)
 
++ [中国电信App与小程序突然崩溃：无法充值 用户愁坏了](https://www.3dmgame.com/news/202409/3903155.html)
+
++ [体验星际冒险之旅 Steam太空探索游戏节即将开启](https://www.3dmgame.com/news/202409/3903156.html)
+
++ [《Unicycle Pizza Time!》登陆Steam 高难度送披萨](https://www.3dmgame.com/news/202409/3903157.html)
+
