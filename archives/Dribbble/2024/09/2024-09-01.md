@@ -183,3 +183,27 @@
 
 + [Sombrero Flag & Anthem](https://dribbble.com/shots/)
 
++ [Crypto Dashboard Design for Trading & Portfolio Management App](https://dribbble.com/shots/)
+
++ [S and stitch](https://dribbble.com/shots/)
+
++ [AiTravel | Dashboard Analytics Solution | 3D Motion](https://dribbble.com/shots/)
+
++ [e-wallet, pay, digital wallet, crypto, NFT, blockchain](https://dribbble.com/shots/)
+
++ [glare logo, spark logo design](https://dribbble.com/shots/)
+
++ [Leadpay logo design](https://dribbble.com/shots/)
+
++ [Financial Dashboard](https://dribbble.com/shots/)
+
++ [Play | Video Editing, Play Button or Ai Video Maker Logo Design](https://dribbble.com/shots/)
+
++ [Shark Letter S Logo](https://dribbble.com/shots/)
+
++ [Energy Bird Logo For Sale](https://dribbble.com/shots/)
+
++ [debt (client work)](https://dribbble.com/shots/)
+
++ [OpenProperties® Visual Identity Designs.](https://dribbble.com/shots/)
+
