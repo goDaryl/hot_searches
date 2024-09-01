@@ -173,3 +173,7 @@
 
 + [《拳皇15》Steam新史低促销 当前售价仅64.8元](https://www.3dmgame.com/news/202409/3903170.html)
 
++ [《怪物猎人：荒野》DLC不会有任何充钱变强的道具](https://www.3dmgame.com/news/202409/3903171.html)
+
++ [《怪物猎人：荒野》开发已经超过了5年 部分原因是大量新玩家涌入](https://www.3dmgame.com/news/202409/3903172.html)
+

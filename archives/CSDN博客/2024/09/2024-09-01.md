@@ -195,3 +195,5 @@
 
 + [基于yolov10的PCB检测算法研究](https://blog.csdn.net/qq_47541315/article/details/141717956)
 
++ [【深入理解SpringCloud微服务】深入理解微服务配置中心原理，并手写一个微服务配置中心](https://blog.csdn.net/weixin_43889578/article/details/136985375)
+
