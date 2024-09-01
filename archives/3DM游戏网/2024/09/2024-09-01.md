@@ -153,3 +153,7 @@
 
 + [《英雄联盟》解说组合德云色解散 网友：十年青春结束了](https://www.3dmgame.com/news/202409/3903158.html)
 
++ [《百鬼夜行幸存者》登陆Steam 日风吸幸爽快射击](https://www.3dmgame.com/news/202409/3903162.html)
+
++ [《星际拓荒：考古学家版》PS5实体版意外缺失DLC](https://www.3dmgame.com/news/202409/3903161.html)
+
