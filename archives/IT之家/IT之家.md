@@ -31,3 +31,7 @@
 
 + [小米王腾开箱雷军送的《黑神话：悟空》实体版游戏：今年收到最开心礼物](https://m.ithome.com/html/792581.htm)
 
++ [周鸿祎建议不要过度迷信 AI：现在网上许多内容被污染投毒，大模型无法判断](https://m.ithome.com/html/792571.htm)
+
++ [消息称欧加实验室在测试 7000mAh±80W 快充方案](https://m.ithome.com/html/792531.htm)
+
