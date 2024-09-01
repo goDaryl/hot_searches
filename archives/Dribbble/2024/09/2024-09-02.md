@@ -49,3 +49,27 @@
 
 + [chomp script](https://dribbble.com/shots/)
 
++ [Bonta Gelato Illustrations](https://dribbble.com/shots/)
+
++ [pink flowers](https://dribbble.com/shots/)
+
++ [s✨ck my flower](https://dribbble.com/shots/)
+
++ [Downtown Flavor Town Pattern](https://dribbble.com/shots/)
+
++ [—From Archive (Pt. 5)](https://dribbble.com/shots/)
+
++ [Bring back the flavours of the past](https://dribbble.com/shots/)
+
++ [Imposing Limits - An Adobe MAX Workshop](https://dribbble.com/shots/)
+
++ [Tin Fish Can Design](https://dribbble.com/shots/)
+
++ [The Small-City Draw](https://dribbble.com/shots/)
+
++ [Spice up your kitchen with a dash of nostalgia](https://dribbble.com/shots/)
+
++ [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
+
++ [Octopus](https://dribbble.com/shots/)
+
