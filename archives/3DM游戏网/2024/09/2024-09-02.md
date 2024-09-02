@@ -207,3 +207,13 @@
 
 + [英伟达推全新视觉AI语音模型 可以直接看图聊天](https://www.3dmgame.com/news/202409/3903230.html)
 
++ [网传《黑神话》DLC已在开发阶段 将带来全新体验](https://www.3dmgame.com/news/202409/3903234.html)
+
++ [小米史上最强充电宝499元：25000mAh 212W输出](https://www.3dmgame.com/news/202409/3903235.html)
+
++ [《黑神话：悟空》早期投资人：下一款国产3A游戏已在路上](https://www.3dmgame.com/news/202409/3903231.html)
+
++ [40周年纪念新动画《龙珠 DAIMA》确定10月开播](https://www.3dmgame.com/news/202409/3903232.html)
+
++ [Win11份额历史新高达32%！但仍仅为Win10一半](https://www.3dmgame.com/news/202409/3903233.html)
+
