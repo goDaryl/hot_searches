@@ -143,3 +143,15 @@
 
 + [Quiet Location](https://dribbble.com/shots/)
 
++ [Pointed Pony](https://dribbble.com/shots/)
+
++ [Stained Glass](https://dribbble.com/shots/)
+
++ [Plant Pot](https://dribbble.com/shots/)
+
++ [Fox mark](https://dribbble.com/shots/)
+
++ [Heretic - Turing Pattern Machine](https://dribbble.com/shots/)
+
++ [De La Soul - Restaurant Brand Identity](https://dribbble.com/shots/)
+
