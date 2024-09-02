@@ -117,3 +117,29 @@
 
 + [《乐高哈利波特合集重制版》将于10月8日发售](https://www.3dmgame.com/news/202409/3903184.html)
 
++ [竞速越野赛车游戏《大脚车对决》现已正式推出 获多半好评](https://www.3dmgame.com/news/202409/3903198.html)
+
++ [《我们之中》宣布联动《逆转裁判》 免费发放御剑怜侍饰品](https://www.3dmgame.com/news/202409/3903196.html)
+
++ [《闪电十一人 电影2025》12月27日上映 系列总集篇](https://www.3dmgame.com/news/202409/3903197.html)
+
++ [PS5大幅涨价正式启动 玩家惊呼涨的太狠](https://www.3dmgame.com/news/202409/3903195.html)
+
++ [裂开！《星球大战：亡命之徒》MTC用户评分4.8分](https://www.3dmgame.com/news/202409/3903194.html)
+
++ [点击式养成冒险游戏《宠物大陆》现已推出试玩Demo](https://www.3dmgame.com/news/202409/3903193.html)
+
++ [《文明7》自由混搭领袖与文明 更大胆冒险的尝试](https://www.3dmgame.com/news/202409/3903192.html)
+
++ [《如龙：极》登陆Switch只有数字版 售价3000日元](https://www.3dmgame.com/news/202409/3903191.html)
+
++ [《直到黎明 重置版》尚未发售 开发工作室已经开始裁员](https://www.3dmgame.com/news/202409/3903190.html)
+
++ [《星球大战：亡命之徒》发售宣传片批评太多 育碧关闭了评论](https://www.3dmgame.com/news/202409/3903189.html)
+
++ [外媒：《黑神话》成功后，中国加大游戏关注度](https://www.3dmgame.com/news/202409/3903187.html)
+
++ [《龙腾世纪4》新截图及信息 有开关能切换裸体](https://www.3dmgame.com/news/202409/3903188.html)
+
++ [《无主之地4》将有四名新秘藏猎人 增加RPG深度](https://www.3dmgame.com/news/202409/3903186.html)
+
