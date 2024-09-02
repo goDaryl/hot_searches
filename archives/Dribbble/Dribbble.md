@@ -155,3 +155,19 @@
 
 + [De La Soul - Restaurant Brand Identity](https://dribbble.com/shots/)
 
++ [ME-NN-ING - Skincare Product Details](https://dribbble.com/shots/)
+
++ [Audio Novel App](https://dribbble.com/shots/)
+
++ [Remedoc R letter logo design](https://dribbble.com/shots/)
+
++ [HR Management Saas Web App Dashboard - Payroll Card Component](https://dribbble.com/shots/)
+
++ [Frolic Festival - Logo & Branding](https://dribbble.com/shots/)
+
++ [GMS](https://dribbble.com/shots/)
+
++ [Flying Bird Sports Apparel Logo](https://dribbble.com/shots/)
+
++ [Taskhub - Task Management Dashboard](https://dribbble.com/shots/)
+
