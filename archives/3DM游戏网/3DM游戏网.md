@@ -111,3 +111,9 @@
 
 + [社长非常有信心！《闪电十一人》终将公布发售日](https://www.3dmgame.com/news/202409/3903180.html)
 
++ [《星鸣特攻》销量可能只有2.5万份 太正确没人玩](https://www.3dmgame.com/news/202409/3903185.html)
+
++ [吉野家与粉色恶魔星之卡比联动推出可爱饭碗](https://www.3dmgame.com/news/202409/3903183.html)
+
++ [《乐高哈利波特合集重制版》将于10月8日发售](https://www.3dmgame.com/news/202409/3903184.html)
+
