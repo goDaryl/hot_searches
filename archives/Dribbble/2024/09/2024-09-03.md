@@ -89,3 +89,13 @@
 
 + [Collateral for a Soul Food Restaurant in Mexico City](https://dribbble.com/shots/)
 
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
++ [Dartmouth Fall 24](https://dribbble.com/shots/)
+
++ [Community Center](https://dribbble.com/shots/)
+
++ [Lockups](https://dribbble.com/shots/)
+
++ [Rideshare, for whom?](https://dribbble.com/shots/)
+
