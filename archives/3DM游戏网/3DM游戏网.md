@@ -175,3 +175,23 @@
 
 + [钉钉被吐槽太复杂不好用！高管：因为它太先进](https://www.3dmgame.com/news/202409/3903214.html)
 
++ [《加班》Steam页面上线 灵异系日式恐怖冒险](https://www.3dmgame.com/news/202409/3903224.html)
+
++ [科乐美《职业棒球之魂2024-2025》宣布延期 10月17日发售](https://www.3dmgame.com/news/202409/3903223.html)
+
++ [《高达破坏者4》自定义系统满足胶佬 皮卡丘、擎天柱等形象乱入](https://www.3dmgame.com/news/202409/3903222.html)
+
++ [《黑神话》英文BMW正好雷同宝马 玩家感叹也是弼马温](https://www.3dmgame.com/news/202409/3903221.html)
+
++ [策略建造游戏《纪念之城》现已抢先体验推出 获特别好评](https://www.3dmgame.com/news/202409/3903220.html)
+
++ [《百英雄传》首个DLC宣布延期发售 原定于8月上线](https://www.3dmgame.com/news/202409/3903219.html)
+
++ [越吐槽越大卖！《黑神话》预估销量已达1690万份 收入超57亿](https://www.3dmgame.com/news/202409/3903218.html)
+
++ [种田系轻小说改编动画《打了300年的史莱姆》第二季角色预告放出](https://www.3dmgame.com/news/202409/3903217.html)
+
++ [《乐高哈利波特合集》Steam商店页面上线 支持中文](https://www.3dmgame.com/news/202409/3903216.html)
+
++ [《Shadowed》Steam页面上线 经典肉鸽地牢探索](https://www.3dmgame.com/news/202409/3903215.html)
+
