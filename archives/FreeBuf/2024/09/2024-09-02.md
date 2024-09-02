@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 美国超级机场IT系统瘫痪；Young Consulting近百万条数据遭窃](https://www.freebuf.com/news/409812.html)
 
++ [新型恶意软件Voldemort 利用谷歌工作表向全球70多家企业发起网络攻击](https://www.freebuf.com/news/409960.html)
+

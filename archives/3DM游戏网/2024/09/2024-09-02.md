@@ -143,3 +143,13 @@
 
 + [《无主之地4》将有四名新秘藏猎人 增加RPG深度](https://www.3dmgame.com/news/202409/3903186.html)
 
++ [《魔兽》国服赞助CNDOTA！iG和XG感谢网易雷火支持](https://www.3dmgame.com/news/202409/3903203.html)
+
++ [万代南梦宫谈DEI政策：希望游戏更具多样性包容性](https://www.3dmgame.com/news/202409/3903202.html)
+
++ [《宝可梦：朱紫》新泰拉挑战将启动 炽焰咆哮虎参战](https://www.3dmgame.com/news/202409/3903201.html)
+
++ [《罪恶装备：Strive》Switch版存在限制 不支持跨平台联机](https://www.3dmgame.com/news/202409/3903200.html)
+
++ [《野狗子》新预告和实机演示 少女大战恐怖怪物](https://www.3dmgame.com/news/202409/3903199.html)
+

@@ -139,3 +139,7 @@
 
 + [AI Travel App design UIUX](https://dribbble.com/shots/)
 
++ [Tiimi - Employee List Grid View in the SaaS HR Management System](https://dribbble.com/shots/)
+
++ [Quiet Location](https://dribbble.com/shots/)
+
