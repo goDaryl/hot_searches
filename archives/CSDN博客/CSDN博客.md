@@ -203,3 +203,5 @@
 
 + [Chapter 08 Vue生命周期](https://blog.csdn.net/2302_80253507/article/details/141782853)
 
++ [基于nodejs+vue+uniapp的摄影竞赛小程序](https://blog.csdn.net/shmp54/article/details/141786343)
+

@@ -217,3 +217,5 @@
 
 + [Win11份额历史新高达32%！但仍仅为Win10一半](https://www.3dmgame.com/news/202409/3903233.html)
 
++ [联想拯救者刃7000K超能版《黑神话 : 悟空》定制款PC开卖：售价15999元](https://www.3dmgame.com/news/202409/3903236.html)
+

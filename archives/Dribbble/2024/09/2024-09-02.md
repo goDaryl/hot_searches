@@ -197,3 +197,47 @@
 
 + [Lizard sketch](https://dribbble.com/shots/)
 
++ [Logo collection](https://dribbble.com/shots/)
+
++ [ProfitWave crypto platform](https://dribbble.com/shots/)
+
++ [M Logo Design Monogram - People, Community, Coins](https://dribbble.com/shots/)
+
++ [Star House Logo Concept // For Sale](https://dribbble.com/shots/)
+
++ [Finflo - Blockchain Website](https://dribbble.com/shots/)
+
++ [Thunder branding](https://dribbble.com/shots/)
+
++ [3D Mascot For Somnia](https://dribbble.com/shots/)
+
++ [Finance dashboard design](https://dribbble.com/shots/)
+
++ [Prodmast - Manufacturing Landing Page](https://dribbble.com/shots/)
+
++ [Financial Web App](https://dribbble.com/shots/)
+
++ [Kreyda design agency](https://dribbble.com/shots/)
+
++ [LookLab styling services project](https://dribbble.com/shots/)
+
++ [Verified Play logo design: play icon + check mark](https://dribbble.com/shots/)
+
++ [Ai illustrations Tasks](https://dribbble.com/shots/)
+
++ [Land Of Sacrifice - Loading Game Screen Illustration](https://dribbble.com/shots/)
+
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
++ [Woodbird Player Animation](https://dribbble.com/shots/)
+
++ [Veterinary Clinic website: animation](https://dribbble.com/shots/)
+
++ [Church / faith-related logos from the portfolio](https://dribbble.com/shots/)
+
++ [Shineo Animation Sound Design](https://dribbble.com/shots/)
+
++ [icons](https://dribbble.com/shots/)
+
++ [Audio Podcast](https://dribbble.com/shots/)
+
