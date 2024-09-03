@@ -199,3 +199,9 @@
 
 + [Kotaemon：开源的RAG UI](https://blog.csdn.net/shebao3333/article/details/141779396)
 
++ [Redis 篇-深入了解查询缓存与缓存所带来的问题（读写不一致、缓存穿透、缓存雪崩、缓存击穿）](https://blog.csdn.net/Tingfeng__/article/details/141821306)
+
++ [基于springboot+enum配置化实践](https://blog.csdn.net/splendid_java/article/details/141858600)
+
++ [TCP协议](https://blog.csdn.net/2301_76161469/article/details/136202943)
+
