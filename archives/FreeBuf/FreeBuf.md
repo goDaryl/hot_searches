@@ -41,3 +41,5 @@
 
 + [信息安全管理 | 企业云安全管理](https://www.freebuf.com/articles/security-management/400193.html)
 
++ [压上加压：探索勒索软件团伙的施压策略](https://www.freebuf.com/articles/paper/408954.html)
+

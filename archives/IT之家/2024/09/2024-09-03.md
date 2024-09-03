@@ -25,3 +25,7 @@
 
 + [知情人士回应“微信可能不支持苹果 iPhone 16”：传言为谣言](https://m.ithome.com/html/792971.htm)
 
++ [消息称华为 9 月新品发布会将带来问界 M9 / 智界 R7 汽车、三折叠屏手机，鸿蒙 NEXT 系统不会首发](https://m.ithome.com/html/792780.htm)
+
++ [OPPO、vivo、小米应用商店 9 月 2 日起下架仅支持 32 位的应用](https://m.ithome.com/html/792946.htm)
+
