@@ -47,3 +47,5 @@
 
 + [华为 Mate XT 非凡大师手机官宣，预计为首款三折叠屏手机](https://m.ithome.com/html/793018.htm)
 
++ [小天鹅洗衣机网店设错价格被薅 7000 万，市场监管局已介入调查](https://m.ithome.com/html/793023.htm)
+
