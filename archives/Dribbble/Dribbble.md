@@ -215,3 +215,15 @@
 
 + [Secret Coffee Society Tertiary Logo](https://dribbble.com/shots/)
 
++ [Coffee Co Logo Concept](https://dribbble.com/shots/)
+
++ [Oven Stitch](https://dribbble.com/shots/)
+
++ [Ramen little shop](https://dribbble.com/shots/)
+
++ [Degen Pepe Inu Fan Token Meme](https://dribbble.com/shots/)
+
++ [Moon portal](https://dribbble.com/shots/)
+
++ [Eyeball Promo Video](https://dribbble.com/shots/)
+

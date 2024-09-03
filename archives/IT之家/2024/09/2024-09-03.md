@@ -61,3 +61,5 @@
 
 + [英伟达 RTX 50 系列显卡被曝推迟，需重新流片以提升良率](https://m.ithome.com/html/793068.htm)
 
++ [WBG 3:2 击败 JDG，锁定《英雄联盟》S14 全球总决赛名额](https://m.ithome.com/html/792973.htm)
+
