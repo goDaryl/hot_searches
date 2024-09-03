@@ -97,3 +97,31 @@
 
 + [Dartmouth Fall 24](https://dribbble.com/shots/)
 
++ [Spice up your kitchen with a dash of nostalgia](https://dribbble.com/shots/)
+
++ [AN UNSUAL PANTRY | Cheese box design](https://dribbble.com/shots/)
+
++ [pink flowers](https://dribbble.com/shots/)
+
++ [Community Center](https://dribbble.com/shots/)
+
++ [De La Soul - Restaurant Brand Identity](https://dribbble.com/shots/)
+
++ [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
+
++ [Seated Character](https://dribbble.com/shots/)
+
++ [Ai illustrations Tasks](https://dribbble.com/shots/)
+
++ [Collateral for a Soul Food Restaurant in Mexico City](https://dribbble.com/shots/)
+
++ [Macy's holiday gift cards](https://dribbble.com/shots/)
+
++ [Aging in Place](https://dribbble.com/shots/)
+
++ [Dream shoes](https://dribbble.com/shots/)
+
++ [Sombrero Flag & Anthem](https://dribbble.com/shots/)
+
++ [Page & Leaf](https://dribbble.com/shots/)
+
