@@ -157,3 +157,33 @@
 
 + [Brain Mag. Cover](https://dribbble.com/shots/)
 
++ [Schedulr Task Management Platform](https://dribbble.com/shots/)
+
++ [Maniro - Online shop Mobile UI Kit [ Cards and Components]](https://dribbble.com/shots/)
+
++ [Crypto Loan Mobile App](https://dribbble.com/shots/)
+
++ [HR Management Saas Web App Dashboard - Payroll Page](https://dribbble.com/shots/)
+
++ [Wallpay - Banking Mobile App](https://dribbble.com/shots/)
+
++ [Trenning - Course Details in a SaaS Learning Management System](https://dribbble.com/shots/)
+
++ [Frolic Festival - Branding Mockups](https://dribbble.com/shots/)
+
++ [Aluxe - Fashion Branding Exploration](https://dribbble.com/shots/)
+
++ [Memomoo: AI-Powered Meeting Note Taker - Project Library ????](https://dribbble.com/shots/)
+
++ [AI suggestion navigation UI](https://dribbble.com/shots/)
+
++ [Fintech App](https://dribbble.com/shots/)
+
++ [Inventory Management - Cards](https://dribbble.com/shots/)
+
++ [SAAS Team Management Website](https://dribbble.com/shots/)
+
++ [Fluxcycle - E-bike Smart app](https://dribbble.com/shots/)
+
++ [Origo - Project Management Dashboard](https://dribbble.com/shots/)
+

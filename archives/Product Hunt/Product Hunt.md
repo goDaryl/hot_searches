@@ -141,3 +141,5 @@
 
 + [Spellar Pro](https://www.producthunt.com/posts/spellar-pro)
 
++ [NEO beta by 1X Technologies](https://www.producthunt.com/posts/neo-beta-by-1x-technologies)
+

@@ -51,3 +51,7 @@
 
 + [享界 S9 汽车官宣底盘测试开放日，邀请相关方莅临现场参与](https://m.ithome.com/html/793042.htm)
 
++ [科技昨夜今晨 0903：苹果技术顾问回应“iPhone16 不支持微信”；国产 GPU 企业象帝先回应解散传闻；华为官宣新品发布会定档 9 月 10 日](https://m.ithome.com/html/793005.htm)
+
++ [HMD 新手机设计草图曝光：复刻诺基亚 Lumia 1020，配奥利奥圆形四摄](https://m.ithome.com/html/792999.htm)
+
