@@ -63,3 +63,7 @@
 
 + [WBG 3:2 击败 JDG，锁定《英雄联盟》S14 全球总决赛名额](https://m.ithome.com/html/792973.htm)
 
++ [索尼 PS5 Pro 游戏主机曝光：光栅化性能媲美 7700 XT、光线追踪速度更优](https://m.ithome.com/html/793087.htm)
+
++ [“人民神车”五菱宏光纯电版 9 月 6 日预售：续航 300 公里，现款燃油版 4.65 万元起](https://m.ithome.com/html/793141.htm)
+
