@@ -197,3 +197,19 @@
 
 + [Kiwi](https://dribbble.com/shots/)
 
++ [kinary](https://dribbble.com/shots/)
+
++ [Matcha Cat Logo](https://dribbble.com/shots/)
+
++ [Geometric Man With Hat Logo](https://dribbble.com/shots/)
+
++ [Attio – Chrome Extension / Record suggestion](https://dribbble.com/shots/)
+
++ [Coinforge - Saas landing page for finance](https://dribbble.com/shots/)
+
++ [Velobank - Digital Neo Bank Card Mobile App](https://dribbble.com/shots/)
+
++ [Crypto Dashboard Design for Swap Page](https://dribbble.com/shots/)
+
++ [99finder — UI](https://dribbble.com/shots/)
+

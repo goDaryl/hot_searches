@@ -303,3 +303,11 @@
 
 + [比亚迪宋Pro DM-i墨西哥上市 比国内贵9万元](https://www.3dmgame.com/news/202409/3903313.html)
 
++ [苹果税被批吃相难看！在中国抽佣30%全球最高](https://www.3dmgame.com/news/202409/3903327.html)
+
++ [微信苹果二选一引热议！网友发现苹果微信7年前就斗过](https://www.3dmgame.com/news/202409/3903328.html)
+
++ [《8号出口VR》Steam商店页面上线 发售日期待定](https://www.3dmgame.com/news/202409/3903325.html)
+
++ [索尼PS2入选日本未来技术遗产 世界首台可播放DVD游戏机](https://www.3dmgame.com/news/202409/3903326.html)
+
