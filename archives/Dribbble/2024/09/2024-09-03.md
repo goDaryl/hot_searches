@@ -187,3 +187,13 @@
 
 + [Origo - Project Management Dashboard](https://dribbble.com/shots/)
 
++ [Revenew Logo Concept](https://dribbble.com/shots/)
+
++ [Flight Booking](https://dribbble.com/shots/)
+
++ [Mexico City Stickers. Vol.2](https://dribbble.com/shots/)
+
++ [Fintax - Logo design for the finance and tax firm](https://dribbble.com/shots/)
+
++ [Kiwi](https://dribbble.com/shots/)
+
