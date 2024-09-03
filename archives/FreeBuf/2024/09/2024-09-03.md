@@ -55,3 +55,5 @@
 
 + [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
 
++ [IOT安全之Vigor路由器初探（一）](https://www.freebuf.com/vuls/408569.html)
+

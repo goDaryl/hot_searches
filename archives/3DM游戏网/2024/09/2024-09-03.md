@@ -243,3 +243,5 @@
 
 + [《荒野大镖客2》亚瑟演员：好莱坞不愿意带游戏演员“玩”](https://www.3dmgame.com/news/202409/3903287.html)
 
++ [Intel CEO自信放言：我们的PC市场地位依然强劲！](https://www.3dmgame.com/news/202409/3903295.html)
+

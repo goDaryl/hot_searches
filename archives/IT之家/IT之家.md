@@ -45,3 +45,5 @@
 
 + [武大“雷军班”迎来首批 19 名学生，后续将再选拔不超过 15 人](https://m.ithome.com/html/792956.htm)
 
++ [华为 Mate XT 非凡大师手机官宣，预计为首款三折叠屏手机](https://m.ithome.com/html/793018.htm)
+
