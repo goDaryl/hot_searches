@@ -311,3 +311,5 @@
 
 + [索尼PS2入选日本未来技术遗产 世界首台可播放DVD游戏机](https://www.3dmgame.com/news/202409/3903326.html)
 
++ [Capcom公布科隆亚洲游戏展参展名单 《怪物猎人：荒野》提供试玩](https://www.3dmgame.com/news/202409/3903329.html)
+

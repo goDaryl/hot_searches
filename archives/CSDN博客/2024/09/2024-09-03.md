@@ -195,3 +195,7 @@
 
 + [MASM32+ HTML & JavaScript，好搭档](https://blog.csdn.net/Purpleendurer/article/details/141816858)
 
++ [幻觉消除论文阅读：通过诱导幻觉缓解大型语言模型的幻觉](https://blog.csdn.net/m0_52965867/article/details/141748481)
+
++ [Kotaemon：开源的RAG UI](https://blog.csdn.net/shebao3333/article/details/141779396)
+
