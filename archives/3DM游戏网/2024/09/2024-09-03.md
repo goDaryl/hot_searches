@@ -247,3 +247,35 @@
 
 + [《托尼霍克职业滑板》社交媒体25周年更新 重制版或有新消息](https://www.3dmgame.com/news/202409/3903296.html)
 
++ [《死侍》《变形金刚》等动视游戏或即将重新上架Xbox](https://www.3dmgame.com/news/202409/3903309.html)
+
++ [伊恩·麦克莱恩称已有人邀请回归新《指环王》电影 获再度出演甘道夫](https://www.3dmgame.com/news/202409/3903310.html)
+
++ [《崩坏：星穹铁道》千星纪游PV：「飞镝追星」](https://www.3dmgame.com/news/202409/3903311.html)
+
++ [玩家要求《文明7》开发商放弃D加密：影响我玩游戏](https://www.3dmgame.com/news/202409/3903312.html)
+
++ [打仗要动脑！战术类潜行冒险游戏《苏美尔六人组》现已正式发布](https://www.3dmgame.com/news/202409/3903305.html)
+
++ [GOG喜加一 独立喜剧游戏《小丑往事》现可免费领取](https://www.3dmgame.com/news/202409/3903306.html)
+
++ [传闻：《命运》手游仍在开发中 更名为《命运：崛起》](https://www.3dmgame.com/news/202409/3903307.html)
+
++ [日元贬值大量外国玩家涌向日本 爆买复古游戏](https://www.3dmgame.com/news/202409/3903308.html)
+
++ [我国成功发射遥感四十三号02组卫星 开展低轨星座系统新技术试验](https://www.3dmgame.com/news/202409/3903303.html)
+
++ [数毛社：机器学习将为下世代游戏主机实现最大飞跃](https://www.3dmgame.com/news/202409/3903304.html)
+
++ [《Deadlock》玩家呼吁V社削弱过强英雄角色老七 出场率超过92%](https://www.3dmgame.com/news/202409/3903297.html)
+
++ [《绝区零》简角色展示 “致命审讯”](https://www.3dmgame.com/news/202409/3903298.html)
+
++ [《马里奥与路易吉RPG：兄弟》新情报 场景战斗系统等](https://www.3dmgame.com/news/202409/3903299.html)
+
++ [暴雪未公布新作更多信息泄露 包含开放世界合作要素](https://www.3dmgame.com/news/202409/3903300.html)
+
++ [KK官方对战平台新图推荐新一弹！抵御丧尸狂潮，神界之门开启！](https://www.3dmgame.com/news/202409/3903301.html)
+
++ [KK官方对战平台《圣剑酒馆2》在玩一种很新的赏金赛！](https://www.3dmgame.com/news/202409/3903302.html)
+
