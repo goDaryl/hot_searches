@@ -173,3 +173,53 @@
 
 + [《消逝的光芒》开发商正在开发第二个新IP 采用虚幻5引擎](https://www.3dmgame.com/news/202409/3903253.html)
 
++ [独立游戏开发者的重置版游戏未能通过Steam审核 原因是看起来与原版一模一样](https://www.3dmgame.com/news/202409/3903284.html)
+
++ [《马里奥派对》开发商宣布更名 已完全成为任天堂子公司](https://www.3dmgame.com/news/202409/3903279.html)
+
++ [《圣诞老人的担忧》登陆Steam 与警察玩捉迷藏](https://www.3dmgame.com/news/202409/3903281.html)
+
++ [《仙剑奇侠传》与盖世小鸡联名限定款手柄上线 优惠价96元](https://www.3dmgame.com/news/202409/3903283.html)
+
++ [《一次机会：世界机器版》Steam页面公布 10月1日发售](https://www.3dmgame.com/news/202409/3903282.html)
+
++ [全新出发热血开燃！宋雨琦担任《变形金刚：起源》中国推广大使](https://www.3dmgame.com/news/202409/3903280.html)
+
++ [《三国志8重制版》吕布和貂蝉角色介绍 英雄配美人](https://www.3dmgame.com/news/202409/3903278.html)
+
++ [《博德之门3》被指“照搬”《神界原罪2》 团队对此很诧异](https://www.3dmgame.com/news/202409/3903277.html)
+
++ [Steam发布8月玩家数据 或因《黑神话》爆火汉语玩家登顶](https://www.3dmgame.com/news/202409/3903274.html)
+
++ [4X即时策略游戏《艾特尔：神祇之路》Steam页面开放 明年发行](https://www.3dmgame.com/news/202409/3903275.html)
+
++ [欧洲任天堂总裁Stephan Bole宣布卸任 已在公司工作35年](https://www.3dmgame.com/news/202409/3903272.html)
+
++ [第三人称合作恐怖游戏《林中惊慌》发售日预告放出 2024年9月14日推出](https://www.3dmgame.com/news/202409/3903271.html)
+
++ [shadPS4模拟器运行《血源》新演示 运行流畅画面不错](https://www.3dmgame.com/news/202409/3903269.html)
+
++ [城市建造类游戏《庞贝：遗产》Steam页面公布 明年发售](https://www.3dmgame.com/news/202409/3903270.html)
+
++ [I社新《VR女友》游戏开启众筹 你的老婆需要钱了](https://www.3dmgame.com/news/202409/3903276.html)
+
++ [V社《Deadlock》开发者：将重新编写匹配系统](https://www.3dmgame.com/news/202409/3903273.html)
+
++ [桂正和名作《银翼超人》将制真人剧 全裸导演编剧加盟](https://www.3dmgame.com/news/202409/3903268.html)
+
++ [太空探索游戏《星际：未知空间》现已正式发售 获特别好评](https://www.3dmgame.com/news/202409/3903267.html)
+
++ [斯宾塞：我拒绝了很多游戏独占Xbox 太糟糕了](https://www.3dmgame.com/news/202409/3903266.html)
+
++ [免费足球游戏《UFL》宣布延期3个月 12月5日发售](https://www.3dmgame.com/news/202409/3903265.html)
+
++ [《绝地潜兵2》支持工作室关闭瑞典和挪威3个办事处](https://www.3dmgame.com/news/202409/3903264.html)
+
++ [《艾诺提亚：失落之歌》Xbox版本已被无限延期 开发者认为被微软忽视了](https://www.3dmgame.com/news/202409/3903263.html)
+
++ [《Coromon: Rogue Planet》Steam页面开放 支持中文](https://www.3dmgame.com/news/202409/3903262.html)
+
++ [《Project OMEN》PC免费发布 致敬洛克人动作RPG](https://www.3dmgame.com/news/202409/3903261.html)
+
++ [《战神》开发商圣莫尼卡有多个未公开的项目进行中](https://www.3dmgame.com/news/202409/3903260.html)
+
