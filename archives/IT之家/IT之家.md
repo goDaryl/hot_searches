@@ -29,3 +29,11 @@
 
 + [OPPO、vivo、小米应用商店 9 月 2 日起下架仅支持 32 位的应用](https://m.ithome.com/html/792946.htm)
 
++ [闲鱼发布“个人卖家流量保障计划”，上线“个人闲置”专属入口](https://m.ithome.com/html/792889.htm)
+
++ [京东宣布 2025 届校招生岗位薪酬全面上调](https://m.ithome.com/html/792795.htm)
+
++ [美国再次推迟宣布涉中国电动汽车等商品关税的最终决定](https://m.ithome.com/html/792980.htm)
+
++ [首发价 1399 元，小米 Redmi 显示器 A27U Type-C 版开启预售](https://m.ithome.com/html/792785.htm)
+

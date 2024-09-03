@@ -135,3 +135,5 @@
 
 + [SpringBoot中基于MongoDB的findAndModify原子操作实现分布式锁原理详解](https://blog.csdn.net/qq_26664043/article/details/141504381)
 
++ [【个人笔记】如何使用Verdi](https://blog.csdn.net/Hide_in_Code/article/details/141792378)
+
