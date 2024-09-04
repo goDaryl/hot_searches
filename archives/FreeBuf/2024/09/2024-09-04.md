@@ -47,3 +47,9 @@
 
 + [FreeBuf早报 | 伊朗APT组织攻击卫星设备；系统被黑导致安防公司被罚2000万](https://www.freebuf.com/news/410140.html)
 
++ [渗透测试 | 某商城系统漏洞挖掘经验分享](https://www.freebuf.com/articles/web/407770.html)
+
++ [尽快更新！Zyxel 路由器曝出 OS 命令注入漏洞，影响多个版本](https://www.freebuf.com/news/410154.html)
+
++ [俄罗斯版“微信”遭黑客入侵，泄露3.9亿条用户数据](https://www.freebuf.com/news/410160.html)
+

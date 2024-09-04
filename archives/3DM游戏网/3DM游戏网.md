@@ -191,3 +191,29 @@
 
 + [《地下城与勇士：决斗》新DLC角色“气功师”预告 6月13日上线](https://www.3dmgame.com/news/202405/3895663.html)
 
++ [战术第一人称射击游戏《匕首指令》公布首个预告 将登录Steam平台](https://www.3dmgame.com/news/202409/3903370.html)
+
++ [《命运2》外挂制造商上诉被驳回 仍需赔偿430万美元](https://www.3dmgame.com/news/202409/3903371.html)
+
++ [《英雄联盟：双城之战》第二季海报及前导预告 冬季上映](https://www.3dmgame.com/news/202409/3903372.html)
+
++ [猫咪叙事冒险《冒牌猫谜》登陆Steam 主机版开发中](https://www.3dmgame.com/news/202409/3903373.html)
+
++ [《赛博朋克2077》新桌游开启众筹 10分钟达成目标](https://www.3dmgame.com/news/202409/3903374.html)
+
++ [回合制历史角色扮演游戏《征服与反叛》Steam页面公布 发售日待定](https://www.3dmgame.com/news/202409/3903362.html)
+
++ [爆款惊悚电影续作《夺命微笑2》曝新预告“危”笑蔓延无处不在](https://www.3dmgame.com/news/202409/3903363.html)
+
++ [类肉鸽冒险游戏《天界萃取者》现已推出试玩Demo 抢先体验版9月25日发布](https://www.3dmgame.com/news/202409/3903364.html)
+
++ [曝PS5 Pro性能接近7700XT显卡 但光追性能略快](https://www.3dmgame.com/news/202409/3903365.html)
+
++ [索尼关闭所有《星鸣特攻》关服相关讨论 亚马逊剧集还未播出](https://www.3dmgame.com/news/202409/3903367.html)
+
++ [两款《变形金刚》游戏在澳大利亚通过评级 均来自微软工作室](https://www.3dmgame.com/news/202409/3903366.html)
+
++ [日本玩家使用他人信息网购任天堂两个游戏手柄被捕](https://www.3dmgame.com/news/202409/3903368.html)
+
++ [《毒液3》新国际版预告片 埃迪和毒液生死相依](https://www.3dmgame.com/news/202409/3903369.html)
+
