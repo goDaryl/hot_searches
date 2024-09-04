@@ -193,3 +193,27 @@
 
 + [Crescent | Fintech Brand](https://dribbble.com/shots/)
 
++ [Relax Ai Motion Visual](https://dribbble.com/shots/)
+
++ [Cloudy - Cloud Database Hero Section](https://dribbble.com/shots/)
+
++ [Product Details - Union UI](https://dribbble.com/shots/)
+
++ [Health Tracker – Mobile App Design](https://dribbble.com/shots/)
+
++ [Casper Cards: Crypto Hardware Wallet](https://dribbble.com/shots/)
+
++ [AI-Powered Meeting Assistant: Platform, UI design, Interface](https://dribbble.com/shots/)
+
++ [Fingrow - Logo for the financial knowledge platform](https://dribbble.com/shots/)
+
++ [Reach Logo Design](https://dribbble.com/shots/)
+
++ [Monster Fish Illustration](https://dribbble.com/shots/)
+
++ [A new style illustration (‘I want to know you like this’).](https://dribbble.com/shots/)
+
++ [biothrust: The Bionic Bioreactor | Product Lineup Technology UI](https://dribbble.com/shots/)
+
++ [HotDog logo + illustration](https://dribbble.com/shots/)
+
