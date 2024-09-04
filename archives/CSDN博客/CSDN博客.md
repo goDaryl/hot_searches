@@ -177,3 +177,7 @@
 
 + [EasyExcel模板导出与公式计算（上）](https://blog.csdn.net/mdzz14/article/details/141831775)
 
++ [使用PyTorch从零构建Llama 3](https://blog.csdn.net/m0_46510245/article/details/141887497)
+
++ [开发者如何自主绑定和解除小程序和公众号长期/短期运营者微信号？](https://blog.csdn.net/qq_44866828/article/details/141891059)
+

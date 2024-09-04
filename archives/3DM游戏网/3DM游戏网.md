@@ -313,3 +313,7 @@
 
 + [OpenAI宣布启动GPT Next计划 AI性能有望提高100倍](https://www.3dmgame.com/news/202409/3903423.html)
 
++ [疯狂快递员！新游《Deliver At All Costs》公布](https://www.3dmgame.com/news/202409/3903422.html)
+
++ [Windows将于11月更新 让Ryzen AI 300系列支持Copilot+](https://www.3dmgame.com/news/202409/3903425.html)
+
