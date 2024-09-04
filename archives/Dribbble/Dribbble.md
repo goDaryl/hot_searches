@@ -169,3 +169,9 @@
 
 + [Biregime London Branding & Packaging Design](https://dribbble.com/shots/)
 
++ [Trenning - Creating a New Quiz in SaaS LMS](https://dribbble.com/shots/)
+
++ [MoniPay - Digital Wallet Platform Exploration](https://dribbble.com/shots/)
+
++ [October Health](https://dribbble.com/shots/)
+

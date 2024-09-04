@@ -243,3 +243,13 @@
 
 + [卡普空官方整活 透露伞公司也卖拉面广告就藏在游戏中](https://www.3dmgame.com/news/202409/3903387.html)
 
++ [实时格子动作肉鸽游戏《Guidus Zero》Steam页面公布 支持简繁体中文](https://www.3dmgame.com/news/202409/3903392.html)
+
++ [黑暗奇幻风格策略冒险游戏《无目低语》即将推出抢先体验版](https://www.3dmgame.com/news/202409/3903388.html)
+
++ [美国宣布对英伟达反垄断调查：AI芯片显卡领域没对手](https://www.3dmgame.com/news/202409/3903391.html)
+
++ [《博德之门3》爱熊场景让游戏热度大增 动画师向母亲报喜讯](https://www.3dmgame.com/news/202409/3903390.html)
+
++ [《黑色行动6》名片似乎含9/11图片 动视紧急删除](https://www.3dmgame.com/news/202409/3903389.html)
+
