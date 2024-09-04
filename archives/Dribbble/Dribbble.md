@@ -179,3 +179,17 @@
 
 + [Healtrust - Healthcare Landing Page](https://dribbble.com/shots/)
 
++ [Pistachio, software platform for furniture stores logo design](https://dribbble.com/shots/)
+
++ [Car Rent AI Assistant Dashboard](https://dribbble.com/shots/)
+
++ [Church Website](https://dribbble.com/shots/)
+
++ [Postiz landing page](https://dribbble.com/shots/)
+
++ [AI Data Vortex Background loop](https://dribbble.com/shots/)
+
++ [Rhombus Dashboard UI Kit – Widget Exploration](https://dribbble.com/shots/)
+
++ [Crescent | Fintech Brand](https://dribbble.com/shots/)
+
