@@ -107,3 +107,29 @@
 
 + [发售两周后 《黑神话：悟空》Steam在线人数仍有百万](https://www.3dmgame.com/news/202409/3903338.html)
 
++ [拉瑞安对下一部作品寄予厚望 将质量标准定得更高](https://www.3dmgame.com/news/202409/3903352.html)
+
++ [《龙腾世纪：影障守护者》22分钟演示 重点展示战斗](https://www.3dmgame.com/news/202409/3903351.html)
+
++ [2D科幻银河恶魔城游戏《亚尔斯崛起》剧情预告片](https://www.3dmgame.com/news/202409/3903347.html)
+
++ [小孩沉迷《黑神话》偷偷充钱 腾讯新闻辟谣：假报道](https://www.3dmgame.com/news/202409/3903348.html)
+
++ [兄弟海岛冒险《马力欧＆路易吉RPG 兄弟齐航！》新预告](https://www.3dmgame.com/news/202409/3903349.html)
+
++ [十年盛典《铲子骑士》官方音乐会即将震撼登场](https://www.3dmgame.com/news/202409/3903350.html)
+
++ [《Concord》彻底暴死：9月6日停服下线 所有玩家获得退款](https://www.3dmgame.com/news/202409/3903340.html)
+
++ [特别好评射击游戏《道路防御：外来人》将登陆主机平台](https://www.3dmgame.com/news/202409/3903341.html)
+
++ [火龙的咆哮震撼来袭《妖精的尾巴2》纳兹燃爆预告](https://www.3dmgame.com/news/202409/3903342.html)
+
++ [《异星探险家》首个付费DLC Glitchwalkers公布](https://www.3dmgame.com/news/202409/3903343.html)
+
++ [《无限试驾：太阳王冠》系统配置要求公布](https://www.3dmgame.com/news/202409/3903344.html)
+
++ [恐龙题材FPS新作《子与骨》9/4登陆PS5/PC](https://www.3dmgame.com/news/202409/3903345.html)
+
++ [青春三部曲原班人马打造《触碰》发布正式预告](https://www.3dmgame.com/news/202409/3903346.html)
+

@@ -41,3 +41,5 @@
 
 + [FreeBuf早报 | 美国超级机场IT系统瘫痪；Young Consulting近百万条数据遭窃](https://www.freebuf.com/news/409812.html)
 
++ [如何自动解包由NSIS基础封装程序保护的恶意样本](https://www.freebuf.com/articles/network/409006.html)
+

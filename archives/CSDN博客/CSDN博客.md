@@ -127,3 +127,5 @@
 
 + [前端框架大观：探索现代Web开发的基石](https://blog.csdn.net/weixin_73295475/article/details/141847715)
 
++ [Faiss向量数据库](https://blog.csdn.net/qq_64685283/article/details/141860279)
+
