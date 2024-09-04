@@ -151,3 +151,9 @@
 
 + [Batmobile](https://dribbble.com/shots/)
 
++ [HotDog logo + illustration](https://dribbble.com/shots/)
+
++ [Imposing Limits - An Adobe MAX Workshop](https://dribbble.com/shots/)
+
++ [Candle Bar Tertiary Logo](https://dribbble.com/shots/)
+
