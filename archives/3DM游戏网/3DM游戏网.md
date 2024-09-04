@@ -319,3 +319,11 @@
 
 + [韩剧《来自地狱的法官》前导预告 朴信惠首度挑战恶女](https://www.3dmgame.com/news/202409/3903424.html)
 
++ [《最终幻想16》PC版9月17日晚上10点解锁](https://www.3dmgame.com/news/202409/3903428.html)
+
++ [《NBA 2K25》国区售价298元 Steam褒贬不一](https://www.3dmgame.com/news/202409/3903429.html)
+
++ [育碧确认双重暗杀回归《刺客信条：影》](https://www.3dmgame.com/news/202409/3903426.html)
+
++ [《我的世界》真人电影首支预告 2025年4月上映](https://www.3dmgame.com/news/202409/3903427.html)
+
