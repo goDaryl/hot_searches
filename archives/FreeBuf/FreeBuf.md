@@ -55,3 +55,5 @@
 
 + [美国一AI公司因非法收集面部数据被罚超3000万欧元](https://www.freebuf.com/news/410169.html)
 
++ [Hadoop大数据平台安全防护](https://www.freebuf.com/articles/web/409721.html)
+

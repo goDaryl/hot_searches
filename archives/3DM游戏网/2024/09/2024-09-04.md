@@ -237,3 +237,9 @@
 
 + [恐怖游戏《弗兰克·斯通的阴影》Steam发售 “褒贬不一”](https://www.3dmgame.com/news/202409/3903376.html)
 
++ [“舅舅在任天堂工作” 樱井政博曾邀请孩子来测试即将推出的游戏](https://www.3dmgame.com/news/202409/3903385.html)
+
++ [《2.5次元的诱惑 天使们的舞台》Steam页面公布 发售日待定](https://www.3dmgame.com/news/202409/3903386.html)
+
++ [卡普空官方整活 透露伞公司也卖拉面广告就藏在游戏中](https://www.3dmgame.com/news/202409/3903387.html)
+
