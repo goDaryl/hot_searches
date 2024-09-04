@@ -49,3 +49,51 @@
 
 + [Ai illustrations Tasks](https://dribbble.com/shots/)
 
++ [FC Shakhtar Donetsk App. The Concept.](https://dribbble.com/shots/)
+
++ [FinalForm Logo Design](https://dribbble.com/shots/)
+
++ [Modern Arrow S Logo Concept // For Sale](https://dribbble.com/shots/)
+
++ [Brisk – Smarter Financial Management for Modern Businesses](https://dribbble.com/shots/)
+
++ [913.ai logo animation](https://dribbble.com/shots/)
+
++ [Rizzle Marketing Website Design](https://dribbble.com/shots/)
+
++ [Relax Ai Motion Visual](https://dribbble.com/shots/)
+
++ [Web UI Design for CAMP - P2E Game Website Page](https://dribbble.com/shots/)
+
++ [Padel Social](https://dribbble.com/shots/)
+
++ [Health Tracker – Mobile App Design](https://dribbble.com/shots/)
+
++ [Sleek Wolf Logo](https://dribbble.com/shots/)
+
++ [Church Website](https://dribbble.com/shots/)
+
++ [Cloudy - Cloud Database Hero Section](https://dribbble.com/shots/)
+
++ [Retirement](https://dribbble.com/shots/)
+
++ [Pistachio, software platform for furniture stores logo design](https://dribbble.com/shots/)
+
++ [Ram Logo](https://dribbble.com/shots/)
+
++ [Baseskin Ecommerce Landing Page | UI/UX Design](https://dribbble.com/shots/)
+
++ [Website Redesign Case for Self Storage Solutions](https://dribbble.com/shots/)
+
++ [ICN Vintage Monogram](https://dribbble.com/shots/)
+
++ [Sun home](https://dribbble.com/shots/)
+
++ [Fingrow - Logo for the financial knowledge platform](https://dribbble.com/shots/)
+
++ [Monster Fish Illustration](https://dribbble.com/shots/)
+
++ [AI-Powered Meeting Assistant: Platform, UI design, Interface](https://dribbble.com/shots/)
+
++ [A new style illustration (‘I want to know you like this’).](https://dribbble.com/shots/)
+
