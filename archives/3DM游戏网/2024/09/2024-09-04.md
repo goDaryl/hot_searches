@@ -217,3 +217,23 @@
 
 + [《毒液3》新国际版预告片 埃迪和毒液生死相依](https://www.3dmgame.com/news/202409/3903369.html)
 
++ [《巫师3》内容挖掘视频创作者决定转战《博德之门3》 已制作超过190个《巫师3》视频](https://www.3dmgame.com/news/202409/3903380.html)
+
++ [探索冒险游戏《弹球尖塔》发售日公布 2024年10月2日推出](https://www.3dmgame.com/news/202409/3903384.html)
+
++ [下一个“暴死”：《Spectre Divide》首发无法正常匹配 卖天价皮肤引差评](https://www.3dmgame.com/news/202409/3903383.html)
+
++ [AI在真实课堂授课 英国一游戏学院开设AI教授课程](https://www.3dmgame.com/news/202409/3903382.html)
+
++ [OpenAI阿尔特曼被曝启动全球AI基建计划 先期在美国多地砸下数百亿美元](https://www.3dmgame.com/news/202409/3903381.html)
+
++ [《Fading Skies》开启众筹 致敬王国之心开放世界冒险](https://www.3dmgame.com/news/202409/3903379.html)
+
++ [《丧尸围城：豪华复刻版》全新截图 快去拯救美女](https://www.3dmgame.com/news/202409/3903375.html)
+
++ [坤哥爆料：另一款PlayStation独占游戏即将登陆其他平台](https://www.3dmgame.com/news/202409/3903377.html)
+
++ [《死亡搁浅2》有可能将是PS5 Pro 首发游戏之一](https://www.3dmgame.com/news/202409/3903378.html)
+
++ [恐怖游戏《弗兰克·斯通的阴影》Steam发售 “褒贬不一”](https://www.3dmgame.com/news/202409/3903376.html)
+

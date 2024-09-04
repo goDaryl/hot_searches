@@ -137,3 +137,7 @@
 
 + [OpenCV开发笔记（八十）：基于特征点匹配实现全景图片拼接](https://blog.csdn.net/qq21497936/article/details/141790116)
 
++ [【NLP自然语言处理】文本处理的基本方法](https://blog.csdn.net/2301_76820214/article/details/141861892)
+
++ [大二必做项目贪吃蛇超详解之下篇游戏核心逻辑实现](https://blog.csdn.net/fhvyxyci/article/details/141813016)
+

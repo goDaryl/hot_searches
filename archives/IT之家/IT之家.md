@@ -35,3 +35,5 @@
 
 + [英伟达 RTX 5090 显卡功耗被曝为 600W：比前代高 150W，增幅 33%](https://m.ithome.com/html/793252.htm)
 
++ [华为 Pura 70 系列手机获推鸿蒙 HarmonyOS NEXT 0.0.39 Beta 版升级](https://m.ithome.com/html/793251.htm)
+

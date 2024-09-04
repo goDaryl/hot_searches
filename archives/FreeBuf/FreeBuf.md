@@ -53,3 +53,5 @@
 
 + [俄罗斯版“微信”遭黑客入侵，泄露3.9亿条用户数据](https://www.freebuf.com/news/410160.html)
 
++ [美国一AI公司因非法收集面部数据被罚超3000万欧元](https://www.freebuf.com/news/410169.html)
+
