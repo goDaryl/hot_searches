@@ -133,3 +133,61 @@
 
 + [青春三部曲原班人马打造《触碰》发布正式预告](https://www.3dmgame.com/news/202409/3903346.html)
 
++ [英伟达GeForce RTX标志升级：加入AI的力量！](https://www.3dmgame.com/news/202409/3903360.html)
+
++ [《女神异闻录3：Reload》DLC“埃癸斯篇”开场动画公布 9月10日发售](https://www.3dmgame.com/news/202409/3903358.html)
+
++ [《TAMASHIKA》Steam页面上线 卡通像素风FPS](https://www.3dmgame.com/news/202409/3903359.html)
+
++ [《绝地潜兵2》60天更新计划首个补丁将不会是大型更新](https://www.3dmgame.com/news/202409/3903357.html)
+
++ [新订阅服务Antstream Arcade 9月上线PS主机 包含上千款经典游戏](https://www.3dmgame.com/news/202409/3903356.html)
+
++ [微软澄清：《黑神话》延期和Xbox硬件限制无关](https://www.3dmgame.com/news/202409/3903355.html)
+
++ [《方舟生存飞升》新DLC《畸变》9月5日震撼上线，揭开神秘深渊的终极秘密](https://www.3dmgame.com/news/202409/3903361.html)
+
++ [CDPR计划将旗下IP拓展到移动端和影视领域！](https://www.3dmgame.com/news/202409/3903354.html)
+
++ [B社仍希望《星空》成为长寿游戏 就像老滚5那样](https://www.3dmgame.com/news/202409/3903353.html)
+
++ [iPhone 16 Pro Max新增拍照按钮：影像质变](https://www.3dmgame.com/news/202405/3895659.html)
+
++ [英伟达统治AI地位 堪比当年PC时代的英特尔](https://www.3dmgame.com/news/202405/3895660.html)
+
++ [温子仁掌勺经典恐怖喜剧电影《芒斯特一家》黑暗重启](https://www.3dmgame.com/news/202405/3895658.html)
+
++ [《间谍少女组：电子任务》Steam页面上线 支持中文](https://www.3dmgame.com/news/202405/3895661.html)
+
++ [单人烹饪经营游戏《奇妙烘焙店》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895656.html)
+
++ [英伟达第一财季营收260.44亿美元超预期：净利润同比大增628%](https://www.3dmgame.com/news/202405/3895657.html)
+
++ [《巫术：疯狂领主的试验场》3D重制版发售 实体版亮相](https://www.3dmgame.com/news/202405/3895654.html)
+
++ [《幻兽帕鲁》老板回忆：一开始办公室曾部分出租做仓库](https://www.3dmgame.com/news/202405/3895648.html)
+
++ [李彦宏称自己是AI长期信仰者：十多年前就开始投入研发](https://www.3dmgame.com/news/202405/3895666.html)
+
++ [《艾尔登法环》DLC“黄金树幽影”宣传图 破败阴森城市](https://www.3dmgame.com/news/202405/3895652.html)
+
++ [Meta人工智能主管杨立昆 大语言模型不会达到人类智能水平](https://www.3dmgame.com/news/202405/3895664.html)
+
++ [《英雄传说：界之轨迹》发布官方预告 限定版内容公布](https://www.3dmgame.com/news/202405/3895650.html)
+
++ [《星球大战：侍者》放出全新预览视频 薛和梅的师徒之战](https://www.3dmgame.com/news/202405/3895649.html)
+
++ [《黑神话：悟空》特色机制总结：金箍棒变身分身定身](https://www.3dmgame.com/news/202405/3895662.html)
+
++ [魏建军痛批H6不会营销！哈弗总经理：这个我们承认 但还有个原因](https://www.3dmgame.com/news/202405/3895655.html)
+
++ [百合视觉小说《永日的凝视》Steam页面上线 12月发售](https://www.3dmgame.com/news/202405/3895653.html)
+
++ [《丧尸比萨》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202405/3895647.html)
+
++ [《Unclogged》Steam页面上线 马桶主题恐怖逃脱解谜](https://www.3dmgame.com/news/202405/3895665.html)
+
++ [《潜水员戴夫》“哥斯拉”联动DLC上线 限时免费领取](https://www.3dmgame.com/news/202405/3895651.html)
+
++ [《地下城与勇士：决斗》新DLC角色“气功师”预告 6月13日上线](https://www.3dmgame.com/news/202405/3895663.html)
+

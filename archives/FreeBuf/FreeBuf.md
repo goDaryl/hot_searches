@@ -43,3 +43,7 @@
 
 + [如何自动解包由NSIS基础封装程序保护的恶意样本](https://www.freebuf.com/articles/network/409006.html)
 
++ [渗透测试 | 某门商城系统漏洞挖掘经验分享](https://www.freebuf.com/articles/web/407770.html)
+
++ [FreeBuf早报 | 伊朗APT组织攻击卫星设备；系统被黑导致安防公司被罚2000万](https://www.freebuf.com/news/410140.html)
+
