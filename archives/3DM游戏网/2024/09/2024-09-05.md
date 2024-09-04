@@ -103,3 +103,7 @@
 
 + [《俄罗斯方块永恒篇》将登陆PS4/5平台 超15款游戏](https://www.3dmgame.com/news/202409/3903433.html)
 
++ [辣眼睛塞尔达传说动画片DVD全集下月重新上市](https://www.3dmgame.com/news/202409/3903435.html)
+
++ [派大星放大招《海绵宝宝：派大星游戏》动作介绍视频](https://www.3dmgame.com/news/202409/3903434.html)
+
