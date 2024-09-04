@@ -97,3 +97,31 @@
 
 + [A new style illustration (‘I want to know you like this’).](https://dribbble.com/shots/)
 
++ [Canela en Polvo Logo Design](https://dribbble.com/shots/)
+
++ [Cats Exhibition in Lyon](https://dribbble.com/shots/)
+
++ [Pointed Pony](https://dribbble.com/shots/)
+
++ [Heretic - Turing Pattern Machine](https://dribbble.com/shots/)
+
++ [Dandelion Advent Calendar 2024](https://dribbble.com/shots/)
+
++ [Pizza](https://dribbble.com/shots/)
+
++ [Lizard sketch](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Tertiary Logo](https://dribbble.com/shots/)
+
++ [Coffee Co Logo Concept](https://dribbble.com/shots/)
+
++ [Brain Mag. Cover](https://dribbble.com/shots/)
+
++ [Wave Tree Sketch Pattern](https://dribbble.com/shots/)
+
++ [Spice up your kitchen with a dash of nostalgia](https://dribbble.com/shots/)
+
++ [The Small-City Draw](https://dribbble.com/shots/)
+
++ [Lockups](https://dribbble.com/shots/)
+
