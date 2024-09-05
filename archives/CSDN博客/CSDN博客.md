@@ -101,3 +101,15 @@
 
 + [【多线程】深入剖析生产者-消费者模型](https://blog.csdn.net/acm_pn/article/details/141871345)
 
++ [【愚公系列】《短视频生成与剪辑实战》005-使用 Midjourney 进行 Al 绘图](https://blog.csdn.net/aa2528877987/article/details/141874679)
+
++ [【高质量】2024数学建模国赛A题B题C题D题E题思路+模型+代码+论文](https://blog.csdn.net/qq_52515572/article/details/141859384)
+
++ [IP 协议](https://blog.csdn.net/2301_76161469/article/details/141865899)
+
++ [Unity教程（十三）敌人状态机](https://blog.csdn.net/cyr___/article/details/141787653)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/2401_85027652/article/details/141854049)
+
++ [【深度解析】GPT-3.5、GPT-4.0、GPT-4o mini的区别，你了解多少？](https://blog.csdn.net/zhouzongxin94/article/details/141855387)
+
