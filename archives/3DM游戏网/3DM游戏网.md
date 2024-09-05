@@ -357,3 +357,7 @@
 
 + [烂片导演的《喋血街头2》真人电影众筹取消 仅募集到850美元](https://www.3dmgame.com/news/202409/3903516.html)
 
++ [成都车展iCAR车模大尺度表演被网友投诉：奇瑞回应](https://www.3dmgame.com/news/202409/3903522.html)
+
++ [性能至少1倍于4090 英伟达本月启动RTX5080/90预案](https://www.3dmgame.com/news/202409/3903521.html)
+
