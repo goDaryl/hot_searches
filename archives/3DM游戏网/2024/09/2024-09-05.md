@@ -361,3 +361,9 @@
 
 + [性能至少1倍于4090 英伟达本月启动RTX5080/90预案](https://www.3dmgame.com/news/202409/3903521.html)
 
++ [13/14代酷睿保修遭遇困难 库存不足导致英特尔延长处理时间](https://www.3dmgame.com/news/202409/3903525.html)
+
++ [小岛秀夫庆祝61岁生日 西岛秀俊送了一把玩具霰弹枪](https://www.3dmgame.com/news/202409/3903523.html)
+
++ [中国老爷爷玩《黑神话》 氛围感拉满被国外网友狂赞](https://www.3dmgame.com/news/202409/3903524.html)
+

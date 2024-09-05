@@ -117,3 +117,9 @@
 
 + [猫猫挑战伸缩小刀2](http://www.acfun.cn/v/ac46208242)
 
++ [《弹着吉他的少年》](http://www.acfun.cn/v/ac46211679)
+
++ [上班摸鱼跳一个【Alone】](http://www.acfun.cn/v/ac46208013)
+
++ [【小六】She’s gone—Fun声唱参赛作品](http://www.acfun.cn/v/ac46209929)
+
