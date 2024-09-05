@@ -53,3 +53,5 @@
 
 + [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
 
++ [DouPHP1.7 Release 20220822远程代码执行漏洞(CVE-2024-7917)](https://www.freebuf.com/vuls/409097.html)
+
