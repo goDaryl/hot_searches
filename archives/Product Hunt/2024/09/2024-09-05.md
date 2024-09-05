@@ -141,3 +141,5 @@
 
 + [ToyPal](https://www.producthunt.com/posts/toypal)
 
++ [Competitor Analysis](https://www.producthunt.com/posts/competitor-analysis)
+

@@ -47,3 +47,11 @@
 
 + [中保研 2024 年测评车型第一次结果公布：小米 SU7、极氪 007、理想 MEGA 等获评 G+](https://m.ithome.com/html/793598.htm)
 
++ [支付宝将发布 AI 独立 App 支小宝](https://m.ithome.com/html/793623.htm)
+
++ [马斯克被曝斥资 1.5 亿美元购置北京四合院，销售回应称保真](https://m.ithome.com/html/793674.htm)
+
++ [新款沃尔沃 XC90 发布：采用最新设计语言，定位插混“大七座”SUV](https://m.ithome.com/html/793526.htm)
+
++ [支持公交地铁出行规划，华为 Petal 花瓣地图 App 获推 4.5.0.303 版本升级](https://m.ithome.com/html/793471.htm)
+
