@@ -143,3 +143,5 @@
 
 + [Competitor Analysis](https://www.producthunt.com/posts/competitor-analysis)
 
++ [Vectopus](https://www.producthunt.com/posts/vectopus)
+

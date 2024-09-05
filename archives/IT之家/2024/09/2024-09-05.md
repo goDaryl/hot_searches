@@ -55,3 +55,11 @@
 
 + [支持公交地铁出行规划，华为 Petal 花瓣地图 App 获推 4.5.0.303 版本升级](https://m.ithome.com/html/793471.htm)
 
++ [奇瑞汽车被指 2024 成都车展车模“擦边”，工作人员回应称“上级领导正在严肃处理此事”](https://m.ithome.com/html/793730.htm)
+
++ [网传“中国高铁一公里耗一万度电”，官方回应称与事实不符](https://m.ithome.com/html/793722.htm)
+
++ [VG Insights：《黑神话：悟空》两周卖出 1800 万套，销售额约 8.67 亿美元](https://m.ithome.com/html/793683.htm)
+
++ [消息称英伟达 RTX 5090 (D)、5080 (D) 显卡预计 9 月正式开案](https://m.ithome.com/html/793629.htm)
+
