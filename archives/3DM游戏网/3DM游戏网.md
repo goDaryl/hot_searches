@@ -199,3 +199,23 @@
 
 + [《霍格沃茨之遗》续作正在优先开发 将带来可观收入](https://www.3dmgame.com/news/202409/3903447.html)
 
++ [IGN编辑哀叹索尼没给《星鸣特攻》机会：本来能变好](https://www.3dmgame.com/news/202409/3903467.html)
+
++ [Toei Animation参与的日式恐怖合作游戏《咒笼：诅咒领域》正式发表](https://www.3dmgame.com/news/202409/3903468.html)
+
++ [养成游戏《兽耳☆训练 ～狂暴兽耳大小姐的养成～》Steam页面上线 支持简中](https://www.3dmgame.com/news/202409/3903469.html)
+
++ [知名爆料人称任天堂Switch继任者可向后兼容 或准备量产](https://www.3dmgame.com/news/202409/3903470.html)
+
++ [拳头游戏旗下调整所有游戏内虚拟货币全球地区定价](https://www.3dmgame.com/news/202409/3903471.html)
+
++ [《腐烂国度2》停更公告 开发团队投入《腐烂国度3》开发](https://www.3dmgame.com/news/202409/3903462.html)
+
++ [《足球经理25》再次延期 11月底发售部分功能已被砍](https://www.3dmgame.com/news/202409/3903463.html)
+
++ [卡牌战斗游戏《Card-en-Ciel天穹卡牌录》现已推出体验版](https://www.3dmgame.com/news/202409/3903465.html)
+
++ [2024年金摇杆奖11月21日回归 10月4日公布入围名单](https://www.3dmgame.com/news/202409/3903464.html)
+
++ [《架空地图模拟器》Steam推出 自动进行虚构世界发展](https://www.3dmgame.com/news/202409/3903466.html)
+

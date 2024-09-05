@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 智能网联汽车国家标准发布；黑客利用WinRAR漏洞攻击俄罗斯](https://www.freebuf.com/news/410204.html)
 
++ [红队工具MacroPack已被攻击者在多国滥用](https://www.freebuf.com/news/410268.html)
+
++ [新型PyPI攻击技术可能导致超2.2万软件包被劫持](https://www.freebuf.com/news/410259.html)
+

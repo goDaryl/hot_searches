@@ -163,3 +163,21 @@
 
 + [St. Jory (Winery) - Tryptic 3/4 ✦ Logo/Icon/Symbol](https://dribbble.com/shots/)
 
++ [Bevel App](https://dribbble.com/shots/)
+
++ [Cool Whip](https://dribbble.com/shots/)
+
++ [Health Anxiety](https://dribbble.com/shots/)
+
++ [Textla](https://dribbble.com/shots/)
+
++ [Nuon - Logo design](https://dribbble.com/shots/)
+
++ [Minimal Soft Geometric Poster](https://dribbble.com/shots/)
+
++ [White wolf](https://dribbble.com/shots/)
+
++ [Knead That Dough Social Communication Design](https://dribbble.com/shots/)
+
++ [Stickers for Stash](https://dribbble.com/shots/)
+
