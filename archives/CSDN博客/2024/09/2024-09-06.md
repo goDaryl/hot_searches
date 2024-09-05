@@ -143,3 +143,7 @@
 
 + [【人工智能】Transformers之Pipeline（十五）：总结（summarization）](https://blog.csdn.net/weixin_48007632/article/details/141900321)
 
++ [如何在SpringBoot中实现优雅关闭](https://blog.csdn.net/qq_26664043/article/details/140939635)
+
++ [（最新更新）2024全国大学生数学建模竞赛（国赛）A题碰撞检测模型+最优螺距 机理建模](https://blog.csdn.net/Yilu264/article/details/141936070)
+
