@@ -241,3 +241,21 @@
 
 + [《风来的希炼6》新DLC前篇上线 新迷宫及角色登场](https://www.3dmgame.com/news/202409/3903472.html)
 
++ [《无人深空》全新更新：水世界(Aquarius)来了!](https://www.3dmgame.com/news/202409/3903487.html)
+
++ [像素风科幻动作游戏《Block 17》Steam页面 2026年发售](https://www.3dmgame.com/news/202409/3903491.html)
+
++ [机甲动作游戏《战魔机甲》登陆国行Switch 定价199元](https://www.3dmgame.com/news/202409/3903490.html)
+
++ [《星鸣特攻》下架后售价暴涨 二手实体盘价格已飙升至1万英镑](https://www.3dmgame.com/news/202409/3903489.html)
+
++ [《Deadlock》暂停被滥用 更新后每人每局限一次](https://www.3dmgame.com/news/202409/3903488.html)
+
++ [《Outbreak》新作Steam页面上线 僵尸战斗生存](https://www.3dmgame.com/news/202409/3903486.html)
+
++ [首个具法律约束力的AI国际条约 美英欧盟将签署标准协议](https://www.3dmgame.com/news/202409/3903485.html)
+
++ [国外电视不香了！外资四大品牌市占率仅剩不到5%](https://www.3dmgame.com/news/202409/3903484.html)
+
++ [老外玩家讨论非正常弃坑游戏原因 有多离谱就有多奇葩](https://www.3dmgame.com/news/202409/3903483.html)
+
