@@ -31,3 +31,7 @@
 
 + [泰坦尼克号残骸正在解体，影史经典船头栏杆已出现缺口](https://m.ithome.com/html/793340.htm)
 
++ [京东方董事长陈炎顺谈华为 Mate XT 三折叠屏手机：与华为共同研发产品是“前无所有的紧密联系”](https://m.ithome.com/html/793378.htm)
+
++ [莲花汽车将成路特斯正式中文名，CEO 冯擎峰称不会走增程路线](https://m.ithome.com/html/793462.htm)
+

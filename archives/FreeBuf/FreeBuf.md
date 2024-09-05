@@ -43,3 +43,7 @@
 
 + [基于LocalStack+CloudGoat搭建本地AWS云场景漏洞靶场](https://www.freebuf.com/articles/container/409775.html)
 
++ [0day的产生 | 文件读取深度利用](https://www.freebuf.com/articles/web/409192.html)
+
++ [FreeBuf早报 | 智能网联汽车国家标准发布；黑客利用WinRAR漏洞攻击俄罗斯](https://www.freebuf.com/news/410204.html)
+
