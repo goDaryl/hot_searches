@@ -113,3 +113,25 @@
 
 + [【深度解析】GPT-3.5、GPT-4.0、GPT-4o mini的区别，你了解多少？](https://blog.csdn.net/zhouzongxin94/article/details/141855387)
 
++ [【2024高教社杯全国大学生数学建模竞赛】B题 生产过程中的决策问题——解题思路 代码 论文](https://blog.csdn.net/Magnolia_He/article/details/141938858)
+
++ [2024年高教社杯数学建模国赛赛题浅析——助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/141938215)
+
++ [计算机网络 第二章: 物理层_信道的极限容量 奈氏准则 香农公式 (带习题)](https://blog.csdn.net/Snowyyds/article/details/141932916)
+
++ [开发者如何自主绑定和解除小程序和公众号长期/短期运营者微信号？](https://blog.csdn.net/qq_44866828/article/details/141891059)
+
++ [Azure和Transformers的详细解释](https://blog.csdn.net/lvdepeng123/article/details/141863280)
+
++ [网络编程详解](https://blog.csdn.net/hyldzbg/article/details/141642577)
+
++ [828华为云征文｜Flexus云服务器X实例赋能，用Python将微信公众号秒变智能聊天机器人](https://blog.csdn.net/qq_21891743/article/details/141788804)
+
++ [2024 年高教社杯全国大学生数学建模竞赛题目D 题 反潜航空深弹命中概率问题完整思路 模型 代码 结果分享（仅供学习）](https://blog.csdn.net/2403_86854718/article/details/141944570)
+
++ [Python编码系列—Python团队开发工作流：高效协作的艺术](https://blog.csdn.net/u013889591/article/details/141890612)
+
++ [若依系统的学习](https://blog.csdn.net/m0_74749208/article/details/141905199)
+
++ [《Cloud Native Data Center Networking》（云原生数据中心网络设计）读书笔记 -- 10数据中心中的BGP](https://blog.csdn.net/qq_39610915/article/details/141906992)
+
