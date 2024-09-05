@@ -41,3 +41,5 @@
 
 + [Wx64ST：一款轻松可修改的C语言Shellcode模板](https://www.freebuf.com/sectool/409225.html)
 
++ [基于LocalStack+CloudGoat搭建本地AWS云场景漏洞靶场](https://www.freebuf.com/articles/container/409775.html)
+
