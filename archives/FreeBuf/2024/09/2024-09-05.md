@@ -51,3 +51,5 @@
 
 + [新型PyPI攻击技术可能导致超2.2万软件包被劫持](https://www.freebuf.com/news/410259.html)
 
++ [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
+

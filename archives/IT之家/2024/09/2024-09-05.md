@@ -35,3 +35,11 @@
 
 + [莲花汽车将成路特斯正式中文名，CEO 冯擎峰称不会走增程路线](https://m.ithome.com/html/793462.htm)
 
++ [刘德华担任 Mate XT 非凡大师品牌大使，华为三折叠手机外观首次公开](https://m.ithome.com/html/793553.htm)
+
++ [比亚迪海狮 05 DM-i 外观公布：搭载 DM 5.0 技术](https://m.ithome.com/html/793432.htm)
+
++ [蓝牙 6.0 核心规范发布，新功能可实现厘米级定位精度](https://m.ithome.com/html/793512.htm)
+
++ [民航局 12 年老规定废止：不再硬性要求飞机起飞后 20 分钟、降落前 30 分钟不提供服务](https://m.ithome.com/html/793388.htm)
+
