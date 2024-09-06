@@ -155,3 +155,7 @@
 
 + [索尼暗示PS5 Pro？30周年纪念活动或将发布新主机](https://www.3dmgame.com/news/202409/3903534.html)
 
++ [亚马逊动画《秘密关卡》仍保留《星鸣特攻》特集](https://www.3dmgame.com/news/202409/3903542.html)
+
++ [《妖精的尾巴2》发布星灵魔导士露西战斗视频](https://www.3dmgame.com/news/202409/3903541.html)
+

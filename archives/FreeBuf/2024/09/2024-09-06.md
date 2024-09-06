@@ -41,3 +41,5 @@
 
 + [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
 
++ [恶意软件攻击与加密货币洞察报告](https://www.freebuf.com/articles/neopoints/408919.html)
+
