@@ -49,3 +49,5 @@
 
 + [数据安全治理——基于分类分级的权限收敛实践](https://www.freebuf.com/articles/database/409254.html)
 
++ [黑客被刺同行，向对方发送信息窃取软件](https://www.freebuf.com/news/410373.html)
+
