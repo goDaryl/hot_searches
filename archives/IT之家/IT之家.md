@@ -31,3 +31,5 @@
 
 + [大疆发布旗下最轻、最小无人机 DJI Neo：仅 135 克重，1299 元起](https://m.ithome.com/html/793790.htm)
 
++ [领克 Phone Pro / Phone Note 手机发布：星纪魅族打造，2900 元起](https://m.ithome.com/html/793782.htm)
+
