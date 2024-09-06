@@ -67,3 +67,5 @@
 
 + [7：O](http://www.acfun.cn/v/ac46217165)
 
++ [【弱音/MMD】天青青雨清清，谁在月下花弄影（竖屏）](http://www.acfun.cn/v/ac46213052)
+
