@@ -167,3 +167,7 @@
 
 + [Sparks | Mobile App Design ✨](https://dribbble.com/shots/)
 
++ [St. Jory (Winery) - Tryptic 4/4 ✦ Logo/Icon/Symbol](https://dribbble.com/shots/)
+
++ [Natural Home screen with Shortcuts](https://dribbble.com/shots/)
+

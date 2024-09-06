@@ -237,3 +237,9 @@
 
 + [黄仁勋再度抛售英伟达股票 今年6月至今已套现6亿美元](https://www.3dmgame.com/news/202409/3903581.html)
 
++ [轻小说《离开A级队伍的我》宣布动画化 计划于2025年1月开播](https://www.3dmgame.com/news/202409/3903582.html)
+
++ [米哈游公布《原神》角色逸闻 「紧急救援」](https://www.3dmgame.com/news/202409/3903583.html)
+
++ [EDF！ 《地球防卫军6》全球销量突破55万](https://www.3dmgame.com/news/202409/3903584.html)
+
