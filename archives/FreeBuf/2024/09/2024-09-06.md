@@ -43,3 +43,7 @@
 
 + [恶意软件攻击与加密货币洞察报告](https://www.freebuf.com/articles/neopoints/408919.html)
 
++ [LiteSpeed 曝出严重漏洞，致使超 600 万 WordPress 网站遭攻击](https://www.freebuf.com/news/410350.html)
+
++ [FreeBuf早报 | OpenAI前首席科学家创立AI安全公司；美英欧将签署人工智能标准协议](https://www.freebuf.com/news/410286.html)
+

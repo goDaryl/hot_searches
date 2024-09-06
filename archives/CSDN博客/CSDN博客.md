@@ -149,3 +149,17 @@
 
 + [使用 SCSS 或 LESS 相比于纯 CSS 的好处](https://blog.csdn.net/Chloeeeeeeee/article/details/141898746)
 
++ [家政保洁|基于SSM+vue的智能家政保洁预约系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/141928627)
+
++ [2024年高教社杯全国大学生数学建模竞赛的A题](https://blog.csdn.net/NULLSET1/article/details/141938867)
+
++ [酒店预定|基于SSM+vue的网红酒店预定系统(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/141928792)
+
++ [【解决方案】Vue项目部署指南：Nginx部署前端Vue.js项目](https://blog.csdn.net/air__Heaven/article/details/141883432)
+
++ [智能停车解决方案：STM32无人收费机器人助力停车场管理（详细流程）](https://blog.csdn.net/qq_40431685/article/details/141940928)
+
++ [【自动驾驶】汽车智能驾驶计算芯片](https://blog.csdn.net/CSSUST/article/details/141904247)
+
++ [2024 年高教社杯全国大学生数学建模竞赛题目【A/B/C/D/E题】完整思路](https://blog.csdn.net/qq_52590045/article/details/141940946)
+
