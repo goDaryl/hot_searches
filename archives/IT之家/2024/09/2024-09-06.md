@@ -33,3 +33,5 @@
 
 + [领克 Phone Pro / Phone Note 手机发布：星纪魅族打造，2900 元起](https://m.ithome.com/html/793782.htm)
 
++ [消息称苹果已批准腾讯微信 iOS 版本最新更新，为双方谈判争取更多时间](https://m.ithome.com/html/793880.htm)
+
