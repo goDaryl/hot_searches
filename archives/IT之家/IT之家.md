@@ -53,3 +53,7 @@
 
 + [6.98 万元起“国民神车”五菱宏光纯电版开启预售：“全球首款 6 万级纯电后驱 MPV”](https://m.ithome.com/html/793886.htm)
 
++ [百度地图将上线《黑神话：悟空》八戒导航语音包](https://m.ithome.com/html/793874.htm)
+
++ [华为智慧屏 V5 Max 110 英寸有望本月发布，消息称官方价 64999 元](https://m.ithome.com/html/793800.htm)
+
