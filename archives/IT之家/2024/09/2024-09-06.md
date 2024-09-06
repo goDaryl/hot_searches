@@ -41,3 +41,7 @@
 
 + [2016 年电影《西游记之孙悟空三打白骨精》宣布 9 月 14 日重映，豆瓣评分 5.6](https://m.ithome.com/html/793927.htm)
 
++ [荣耀赵明回应华为三折新机和 Magic V3 外观相似：任何关于华为抄袭荣耀的说法都是瞎扯](https://m.ithome.com/html/793923.htm)
+
++ [Epic 喜加二：原价 298 元的《足球经理 2024》免费领](https://m.ithome.com/html/793807.htm)
+
