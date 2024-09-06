@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | OpenAI前首席科学家创立AI安全公司；美英欧将签署人工智能标准协议](https://www.freebuf.com/news/410286.html)
 
++ [数据安全治理——基于分类分级的权限收敛实践](https://www.freebuf.com/articles/database/409254.html)
+
