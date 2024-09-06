@@ -37,3 +37,5 @@
 
 + [红魔电竞平板 Pro 发布：搭载骁龙 8 Gen 3 领先版处理器、氘锋透明双配色，首发 3999 元起](https://m.ithome.com/html/793702.htm)
 
++ [突然关闭考勤系统，消息称上汽大通启动大规模裁员](https://m.ithome.com/html/793865.htm)
+

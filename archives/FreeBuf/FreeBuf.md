@@ -55,3 +55,7 @@
 
 + [黑客背刺同行，向对方发送信息窃取软件](https://www.freebuf.com/news/410373.html)
 
++ [被法国警方逮捕后，“Telegram”创始人首度公开发声：更安全，更强大](https://www.freebuf.com/news/410410.html)
+
++ [Wycheproof：一款针对加密代码库的安全强度测试工具](https://www.freebuf.com/sectool/409338.html)
+
