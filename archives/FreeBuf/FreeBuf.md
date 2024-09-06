@@ -59,3 +59,5 @@
 
 + [Wycheproof：一款针对加密代码库的安全强度测试工具](https://www.freebuf.com/sectool/409338.html)
 
++ [被警方逮捕后，Telegram创始人首次公开发声：更安全，更强大](https://www.freebuf.com/news/410410.html)
+
