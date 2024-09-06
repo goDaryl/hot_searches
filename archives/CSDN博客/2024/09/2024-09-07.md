@@ -101,3 +101,7 @@
 
 + [【机器学习】深度学习的现实应用——从图像识别到自然语言处理](https://blog.csdn.net/m0_52827996/article/details/141926947)
 
++ [编程语言之争：Rust 社区活跃开发者 Ed Page 谈 Rust 与 C++ 的未来](https://blog.csdn.net/GOSIM2023/article/details/141936175)
+
++ [2024数学建模国赛A题详细思路：基于空间几何运动学和优化模型matlab求解](https://blog.csdn.net/nancheng_single/article/details/141942217)
+
