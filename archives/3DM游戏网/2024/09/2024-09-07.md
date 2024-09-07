@@ -225,3 +225,9 @@
 
 + [《冰汽时代2》|《执政官101》第八集 城市与殖民地](https://www.3dmgame.com/news/202409/3903660.html)
 
++ [传SE打算把所有《最终幻想》游戏移植到Xbox](https://www.3dmgame.com/news/202409/3903669.html)
+
++ [《寂静岭2：重制版》头90分钟直播实录 10月8日发售](https://www.3dmgame.com/news/202409/3903668.html)
+
++ [东芝推出新版N300系列硬盘 新款CMR NAS机械硬盘](https://www.3dmgame.com/news/202409/3903667.html)
+
