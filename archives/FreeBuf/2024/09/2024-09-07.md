@@ -45,3 +45,7 @@
 
 + [FreeBuf 周报 | Telegram创始人被捕后首次发声；俄罗斯版“微信”泄露3.9亿用户数据](https://www.freebuf.com/news/410418.html)
 
++ [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
+
++ [技术分享 | Kubernetes RBAC 最佳安全实践](https://www.freebuf.com/articles/container/409667.html)
+
