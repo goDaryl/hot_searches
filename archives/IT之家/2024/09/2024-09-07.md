@@ -39,3 +39,5 @@
 
 + [博主向《黑神话：悟空》游戏发律师函，称其服饰侵犯著作权](https://m.ithome.com/html/794143.htm)
 
++ [华为 Mate XT 非凡大师三折叠手机开启预订，9 月 20 日开售](https://m.ithome.com/html/794164.htm)
+
