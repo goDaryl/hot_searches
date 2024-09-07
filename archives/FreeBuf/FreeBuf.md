@@ -53,3 +53,7 @@
 
 + [通过杀软 avast 及 no-defender 工具分析 Windows 防护机制](https://www.freebuf.com/articles/web/410236.html)
 
++ [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
+
++ [Hfinger：一款针对恶意软件HTTP请求的指纹识别工具](https://www.freebuf.com/sectool/409360.html)
+
