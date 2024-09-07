@@ -209,3 +209,5 @@
 
 + [联想公布概念AI电脑 摄像头随时跟着用户活动](https://www.3dmgame.com/news/202409/3903652.html)
 
++ [《守望先锋2》原免费皮肤变周边商店消费75美元赠品](https://www.3dmgame.com/news/202409/3903659.html)
+
