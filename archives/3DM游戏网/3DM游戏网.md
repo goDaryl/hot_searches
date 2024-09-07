@@ -231,3 +231,7 @@
 
 + [东芝推出新版N300系列硬盘 新款CMR NAS机械硬盘](https://www.3dmgame.com/news/202409/3903667.html)
 
++ [《Concord》美工自述：角色失败是因委员会干预](https://www.3dmgame.com/news/202409/3903670.html)
+
++ [西数新一代蓝盘SN5000 SSD开卖 429元起](https://www.3dmgame.com/news/202409/3903671.html)
+
