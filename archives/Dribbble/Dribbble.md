@@ -143,3 +143,15 @@
 
 + [RPG CARD • Metafy](https://dribbble.com/shots/)
 
++ [Music widget](https://dribbble.com/shots/)
+
++ [struggles and progress](https://dribbble.com/shots/)
+
++ [payix. Fintech Landing Page ????](https://dribbble.com/shots/)
+
++ [Delivery Mobile iOS App](https://dribbble.com/shots/)
+
++ [wecanada- w logo, education logo design](https://dribbble.com/shots/)
+
++ [It assistant](https://dribbble.com/shots/)
+
