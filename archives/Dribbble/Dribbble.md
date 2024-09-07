@@ -97,3 +97,25 @@
 
 + [Music Team Logo Design, modern logo, branding identity](https://dribbble.com/shots/)
 
++ [HotDog logo + illustration](https://dribbble.com/shots/)
+
++ [Workin on my beach bod ????](https://dribbble.com/shots/)
+
++ [Branko Miljkovic Illustration](https://dribbble.com/shots/)
+
++ [Ramen's burger](https://dribbble.com/shots/)
+
++ [red ???? rocks](https://dribbble.com/shots/)
+
++ [Mexico City Stickers. Vol.2](https://dribbble.com/shots/)
+
++ [s✨ck my flower](https://dribbble.com/shots/)
+
++ [Retirement](https://dribbble.com/shots/)
+
++ [Dandelion Advent Calendar 2024](https://dribbble.com/shots/)
+
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
++ [Fun Club: Tin Box Ilustrations](https://dribbble.com/shots/)
+
