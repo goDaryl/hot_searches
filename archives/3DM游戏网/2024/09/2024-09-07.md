@@ -101,3 +101,11 @@
 
 + [RTX 5090D/5080D中国特供版定了！都打不过5080？](https://www.3dmgame.com/news/202409/3903614.html)
 
++ [国产处理器＋国产系统搞定《黑神话》帧率相当高](https://www.3dmgame.com/news/202409/3903628.html)
+
++ [《使命召唤：黑色行动6》多人模式测试现已全面开放](https://www.3dmgame.com/news/202409/3903627.html)
+
++ [《艾诺提亚：失落之歌》开发商确认正与微软紧密合作](https://www.3dmgame.com/news/202409/3903626.html)
+
++ [《R-Type 战略 I • II 宇宙》推迟至2025年发行](https://www.3dmgame.com/news/202409/3903625.html)
+
