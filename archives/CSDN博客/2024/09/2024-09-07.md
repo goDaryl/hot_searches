@@ -131,3 +131,11 @@
 
 + [【Spark+Hive】基于大数据酒店数据分析推荐系统（完整系统源码+数据库+开发笔记+详细部署教程）](https://blog.csdn.net/qq_64605578/article/details/141933685)
 
++ [【AI绘画】Midjourney后置指令--seed、--tile、--q、--chaos、--w、--no详解](https://blog.csdn.net/2201_75539691/article/details/141951628)
+
++ [uni-app--》打造个性化壁纸预览应用平台（三）](https://blog.csdn.net/qq_53123067/article/details/141333468)
+
++ [（最新更新）2024全国大学生数学建模竞赛（国赛）A题碰撞检测模型+最优螺距 机理建模](https://blog.csdn.net/Yilu264/article/details/141936070)
+
++ [python scrapy爬虫框架 抓取BOSS直聘平台 数据可视化统计分析](https://blog.csdn.net/NuclearDalance/article/details/141960968)
+

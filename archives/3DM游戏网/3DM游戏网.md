@@ -109,3 +109,9 @@
 
 + [《R-Type 战略 I • II 宇宙》推迟至2025年发行](https://www.3dmgame.com/news/202409/3903625.html)
 
++ [仍处于测试阶段的《Deadlock》已经开始出现作弊者](https://www.3dmgame.com/news/202409/3903631.html)
+
++ [昨天是《星空》发售一周年 B社公布故事DLC新细节](https://www.3dmgame.com/news/202409/3903630.html)
+
++ [《宇宙机器人》真人宣传片 现已登陆PS5平台](https://www.3dmgame.com/news/202409/3903629.html)
+
