@@ -77,3 +77,9 @@
 
 + [《动物meme大赏》](http://www.acfun.cn/v/ac46216797)
 
++ [Acer们，出来爬山啊！★手机竖屏1266★](http://www.acfun.cn/v/ac46217115)
+
++ [人还有下辈子吗......(今日开心视频：1534)](http://www.acfun.cn/v/ac46217318)
+
++ [相扑硬拉（原声版）](http://www.acfun.cn/v/ac46217014)
+

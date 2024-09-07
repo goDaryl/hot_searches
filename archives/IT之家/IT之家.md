@@ -33,3 +33,7 @@
 
 + [iPhone 16 Pro 被曝支持 4K 120 FPS 视频录制，且苹果已测试 8K 录像功能](https://m.ithome.com/html/794098.htm)
 
++ [古尔曼：苹果 iPad mini 7 将与 M4 Mac 一同在苹果 10 月发布会亮相](https://m.ithome.com/html/794114.htm)
+
++ [OPPO：将支付宝“碰一下”作为新机出厂检测标准之一](https://m.ithome.com/html/794094.htm)
+
