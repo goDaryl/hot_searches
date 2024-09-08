@@ -113,3 +113,15 @@
 
 + [【Linux系统学习】3.Linux用户和权限](https://blog.csdn.net/weixin_69595694/article/details/136071908)
 
++ [从ES6到ES2023 带你深入了解什么是ES](https://blog.csdn.net/m0_61118741/article/details/141992774)
+
++ [利用Stable Diffusion AI图像模型评估智能车模型算法表现(下篇)](https://blog.csdn.net/m0_66628975/article/details/141992425)
+
++ [【与C++的邂逅】--- string容器使用](https://blog.csdn.net/2301_79448270/article/details/141873968)
+
++ [[论文笔记]Making Large Language Models A Better Foundation For Dense Retrieval](https://blog.csdn.net/yjw123456/article/details/141949384)
+
++ [大美祖国之地名篇-探寻全国同名地名](https://blog.csdn.net/yelangkingwuzuhu/article/details/142029696)
+
++ [【JCR1区】基于matlab龙格库塔算法RUN-CNN-SVM故障诊断分类预测【含Matlab源码 5804期】](https://blog.csdn.net/TIQCmatlab/article/details/141966893)
+
