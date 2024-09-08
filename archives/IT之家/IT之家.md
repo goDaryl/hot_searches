@@ -65,3 +65,9 @@
 
 + [国际月球科研站建设拟分两个阶段完成：第一阶段将在 2035 年前以月球南极区域为中心具备百公里范围的科研作业能力](https://m.ithome.com/html/794245.htm)
 
++ [花钱看不了国足中日世预赛 18 强赛，爱奇艺体育已退款](https://m.ithome.com/html/794310.htm)
+
++ [消息称苹果 macOS 15.0 Sequoia 正式版 9 月中旬发布，或与 iOS 18 同步](https://m.ithome.com/html/794342.htm)
+
++ [消息称华为 WATCH GT 5 系列智能手表研发代号一样，有望使用玄玑传感器](https://m.ithome.com/html/794279.htm)
+
