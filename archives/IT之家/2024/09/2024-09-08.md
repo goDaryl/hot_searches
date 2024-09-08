@@ -43,3 +43,9 @@
 
 + [新型钢材：打造更强、更轻的汽车](https://m.ithome.com/html/794214.htm)
 
++ [华为 Mate XT 非凡大师三折叠手机预约量突破 200 万，二手平台开启“加价收货”](https://m.ithome.com/html/794284.htm)
+
++ [华为 Mate XT 非凡大师三折叠手机“玄黑”配色版曝光：黑金内敛风格](https://m.ithome.com/html/794278.htm)
+
++ [消息称骁龙 8 Gen 4 芯片价格 240 美元，上涨 20.68%](https://m.ithome.com/html/794291.htm)
+
