@@ -101,3 +101,15 @@
 
 + [B站游戏区年度榜单将于今晚19点揭晓，20余款游戏将带来新情报](https://www.3dmgame.com/news/202401/3886486.html)
 
++ [传《GTA6》仅想以7500美元买断歌曲使用权 被骂](https://www.3dmgame.com/news/202409/3903678.html)
+
++ [《七日世界》移动端测试9月20日开启 PC版现已支持DLSS 3](https://www.3dmgame.com/news/202409/3903677.html)
+
++ [《黑神话：悟空》有望被影视化：游戏剧情引网友争议](https://www.3dmgame.com/news/202409/3903676.html)
+
++ [《远征：泥泞奔驰游戏》第一季新增合作/洞穴探索等](https://www.3dmgame.com/news/202409/3903675.html)
+
++ [《宇宙机器人》概念艺术图暗示被删减客串角色](https://www.3dmgame.com/news/202409/3903673.html)
+
++ [PS5新作《宇宙机器人》已在日本亚马逊售罄](https://www.3dmgame.com/news/202409/3903674.html)
+

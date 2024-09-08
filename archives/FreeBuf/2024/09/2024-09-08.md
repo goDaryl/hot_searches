@@ -41,3 +41,5 @@
 
 + [红队工具MacroPack已被攻击者滥用](https://www.freebuf.com/news/410268.html)
 
++ [HVV前沿 | 积木报表组件（Jeecg-Boot）权限绕过漏洞分析](https://www.freebuf.com/vuls/409600.html)
+

@@ -145,3 +145,5 @@
 
 + [python scrapy爬虫框架 抓取BOSS直聘平台 数据可视化统计分析](https://blog.csdn.net/NuclearDalance/article/details/141960968)
 
++ [【机器学习】深度学习的现实应用——从图像识别到自然语言处理](https://blog.csdn.net/m0_52827996/article/details/141926947)
+
