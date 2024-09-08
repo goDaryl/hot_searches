@@ -25,3 +25,5 @@
 
 + [荣耀赵明：苹果的 AI 方案会让整个行业更清醒一点，只集成第三方功能不能称为 AI 手机](https://m.ithome.com/html/794362.htm)
 
++ [比亚迪汽车：2025 款汉 DM-i / EV 首搭 DiPilot 300 高阶智能驾驶辅助系统](https://m.ithome.com/html/794363.htm)
+
