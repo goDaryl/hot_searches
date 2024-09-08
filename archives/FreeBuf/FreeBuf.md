@@ -49,3 +49,5 @@
 
 + [ISO27001安全管理体系内审、外审、拿证](https://www.freebuf.com/articles/security-management/397617.html)
 
++ [GL-iNet 路由器 CVE-2024-39226 漏洞分析](https://www.freebuf.com/articles/web/410443.html)
+

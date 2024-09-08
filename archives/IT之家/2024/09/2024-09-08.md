@@ -39,3 +39,7 @@
 
 + [极氪 7X 大五座 SUV 发布一周订单突破 2 万台，起售价 23.99 万元](https://m.ithome.com/html/794201.htm)
 
++ [雷神推出黑武士・猎刃台式电脑：i7-13650HX + 32G + 1T + RTX4060Ti 售 7699 元](https://m.ithome.com/html/794237.htm)
+
++ [新型钢材：打造更强、更轻的汽车](https://m.ithome.com/html/794214.htm)
+

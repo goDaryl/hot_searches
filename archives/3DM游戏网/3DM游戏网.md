@@ -181,3 +181,5 @@
 
 + [《一鹅当先》PC版公开B测启动 PS5版问题调试中](https://www.3dmgame.com/news/202409/3903687.html)
 
++ [《狂野星球复仇》开发者发言公开反对微交易设计](https://www.3dmgame.com/news/202409/3903693.html)
+
