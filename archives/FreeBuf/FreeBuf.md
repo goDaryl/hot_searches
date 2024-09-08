@@ -47,3 +47,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/410446.html)
 
++ [ISO27001安全管理体系内审、外审、拿证](https://www.freebuf.com/articles/security-management/397617.html)
+

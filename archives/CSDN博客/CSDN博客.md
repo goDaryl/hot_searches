@@ -155,3 +155,5 @@
 
 + [如何读.Net Framework 的源码?](https://blog.csdn.net/zhaotianff/article/details/142006585)
 
++ [【机器学习】自然语言处理中的Transformer模型：深度解析与前沿发展](https://blog.csdn.net/2301_79181030/article/details/141941562)
+
