@@ -43,3 +43,7 @@
 
 + [HVV前沿 | 积木报表组件（Jeecg-Boot）权限绕过漏洞分析](https://www.freebuf.com/vuls/409600.html)
 
++ [XXL-JOB漏洞分析与利用](https://www.freebuf.com/vuls/410065.html)
+
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/410446.html)
+
