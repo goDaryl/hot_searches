@@ -205,3 +205,5 @@
 
 + [同程旅行-订酒店机票火车票,低价打车](https://itunes.apple.com/cn/app/id475966832?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
