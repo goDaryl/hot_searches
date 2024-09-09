@@ -179,3 +179,25 @@
 
 + [Geometric Cat Logo](https://dribbble.com/shots/)
 
++ [???? Shipsync – Shipping Dashboard](https://dribbble.com/shots/)
+
++ [Bet panda](https://dribbble.com/shots/)
+
++ [Kreyda design agency](https://dribbble.com/shots/)
+
++ [cloudprism, modern dev in cloud logo design: cloud from prisms](https://dribbble.com/shots/)
+
++ [MORTGAGE Website design](https://dribbble.com/shots/)
+
++ [ORION - Job Opportunities Platform](https://dribbble.com/shots/)
+
++ [Surebean](https://dribbble.com/shots/)
+
++ [TaskIp (One Stop Solution for Client Management)](https://dribbble.com/shots/)
+
++ [Sleek - Mouse Landing Page](https://dribbble.com/shots/)
+
++ [Trevia - Brand Guidelines](https://dribbble.com/shots/)
+
++ [SAAS low-code](https://dribbble.com/shots/)
+
