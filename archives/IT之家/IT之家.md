@@ -47,3 +47,7 @@
 
 + [魅族预热苹果 iPhone 16 系列配件：“深海”主题手机壳、PANDAER Air Pro3 耳机](https://m.ithome.com/html/794449.htm)
 
++ [比尔・盖茨：与电动汽车相比 AI 用电量小得多，不担心它影响气候](https://m.ithome.com/html/794373.htm)
+
++ [郭明錤：苹果 iPhone 16 / Pro 系列今年出货预估上调至 8800~8900 万部](https://m.ithome.com/html/794463.htm)
+
