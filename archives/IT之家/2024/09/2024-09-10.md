@@ -31,3 +31,5 @@
 
 + [苹果发布 iPhone 16 / Plus：垂直相机、A18 芯片、6.1/6.7 英寸屏幕，起售价 799/899 美元](https://m.ithome.com/html/794637.htm)
 
++ [苹果发布 iPhone 16 Pro / Max：屏幕更大，搭载 A18 Pro 芯片、相机控制按键](https://m.ithome.com/html/794643.htm)
+
