@@ -121,3 +121,19 @@
 
 + [Watch Motion Visual](https://dribbble.com/shots/)
 
++ [Coffee Co Logo Concept](https://dribbble.com/shots/)
+
++ [Degenerates](https://dribbble.com/shots/)
+
++ [Initial Concepts for a Modern Kebab Restaurant](https://dribbble.com/shots/)
+
++ [RPG CARD • Metafy](https://dribbble.com/shots/)
+
++ [Workin on my beach bod ????](https://dribbble.com/shots/)
+
++ [s✨ck my flower](https://dribbble.com/shots/)
+
++ [Rolleiflex](https://dribbble.com/shots/)
+
++ [Canyon & Cacti ????](https://dribbble.com/shots/)
+
