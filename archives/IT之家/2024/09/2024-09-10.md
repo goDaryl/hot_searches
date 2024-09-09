@@ -33,3 +33,5 @@
 
 + [苹果发布 iPhone 16 Pro / Max：屏幕更大，搭载 A18 Pro 芯片、相机控制按键](https://m.ithome.com/html/794643.htm)
 
++ [5999 元起加量不加价，苹果 iPhone 16 / Pro 系列国行发布：升级 A18 / Pro 芯片、全系相机控制按键](https://m.ithome.com/html/794649.htm)
+
