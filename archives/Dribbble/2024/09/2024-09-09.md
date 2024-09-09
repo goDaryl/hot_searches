@@ -161,3 +161,15 @@
 
 + [HotDog logo + illustration](https://dribbble.com/shots/)
 
++ [Velaris - Real Estate Mobile App](https://dribbble.com/shots/)
+
++ [EV Charging - Landingpages animation](https://dribbble.com/shots/)
+
++ [Social Media Analytics App Marketing Website](https://dribbble.com/shots/)
+
++ [Web Builder - Sales Template Analytics View](https://dribbble.com/shots/)
+
++ [Griyo - Real Estate Landing Page](https://dribbble.com/shots/)
+
++ [Quick Search/ Global Search - CRM Dashboard](https://dribbble.com/shots/)
+
