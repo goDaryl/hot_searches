@@ -229,3 +229,15 @@
 
 + [s✨ck my flower](https://dribbble.com/shots/)
 
++ [mayfair - design concept](https://dribbble.com/shots/)
+
++ [Local sport events mobile app](https://dribbble.com/shots/)
+
++ [Voice reaction for AI symbol Design by Milkinside](https://dribbble.com/shots/)
+
++ [Carvex Logistics Webapp 2024](https://dribbble.com/shots/)
+
++ [Girl Portrait #3](https://dribbble.com/shots/)
+
++ [Mint Hosting](https://dribbble.com/shots/)
+
