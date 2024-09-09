@@ -51,3 +51,7 @@
 
 + [研究人员发现一种新型噪声攻击，能绕过最现今的后门检测](https://www.freebuf.com/news/410518.html)
 
++ [Wordpress Country State City Dropdown CF7插件 SQL注入漏洞(CVE-2024-3495)](https://www.freebuf.com/vuls/409810.html)
+
++ [研究人员发现一种新型噪声攻击，能绕过最先进的后门检测](https://www.freebuf.com/news/410518.html)
+

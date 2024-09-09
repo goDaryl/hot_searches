@@ -159,3 +159,15 @@
 
 + [【微服务】Ribbon（负载均衡，服务调用）+ OpenFeign（服务发现，远程调用）【详解】](https://blog.csdn.net/2301_77431942/article/details/141999774)
 
++ [Spring Boot 注解探秘：Bean 管理的艺术](https://blog.csdn.net/weixin_45593273/article/details/142022784)
+
++ [ChatGPT+Simple Mind Map生成思维导图：快速提升学习效率](https://blog.csdn.net/qq_62928039/article/details/142029652)
+
++ [第十一周周报：卷积神经网络、服务器](https://blog.csdn.net/qq_52684249/article/details/141930756)
+
++ [记一次学习--内网穿透](https://blog.csdn.net/banliyaoguai/article/details/141995211)
+
++ [9.1-9.8学习周报](https://blog.csdn.net/lzj2002522/article/details/141949581)
+
++ [汽车智能驾驶算法汇总](https://blog.csdn.net/sheenboy/article/details/141957054)
+
