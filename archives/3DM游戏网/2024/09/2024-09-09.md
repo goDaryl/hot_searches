@@ -265,3 +265,7 @@
 
 + [《宇宙机器人》免费DLC今年推出 加入速通、VIP机器人](https://www.3dmgame.com/news/202409/3903774.html)
 
++ [《小丑2：双重妄想》全新预告 10月4日北美上映](https://www.3dmgame.com/news/202409/3903778.html)
+
++ [《死侍与金刚狼》全球票房已超12.8亿美元](https://www.3dmgame.com/news/202409/3903777.html)
+
