@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 伊朗被迫支付超2000万元赎金；勒索软件正在肆虐东南亚地区](https://www.freebuf.com/news/410366.html)
 
++ [安卓恶意软件SpyAgent可利用屏幕截图窃取加密货币备份密钥](https://www.freebuf.com/news/410506.html)
+
++ [Android 安全加固技术全方面分析（上）](https://www.freebuf.com/articles/endpoint/409800.html)
+
