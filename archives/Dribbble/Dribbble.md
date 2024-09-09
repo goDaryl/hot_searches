@@ -213,3 +213,11 @@
 
 + [tech, technology logo design, logos & brand identity](https://dribbble.com/shots/)
 
++ [Werewolf Logo](https://dribbble.com/shots/)
+
++ [913.ai Branding and Website](https://dribbble.com/shots/)
+
++ [Landing Page for a Cosmetic Brand](https://dribbble.com/shots/)
+
++ [Buildings Logo Design Grid System](https://dribbble.com/shots/)
+
