@@ -109,3 +109,9 @@
 
 + [《宇宙机器人》或加入《星刃》油腻师姐联动](https://www.3dmgame.com/news/202409/3903716.html)
 
++ [《命运2》Steam在线创新低 平均玩家下滑74%](https://www.3dmgame.com/news/202409/3903721.html)
+
++ [黑暗像素ARPG《DROVA》确定10月16日上市](https://www.3dmgame.com/news/202409/3903720.html)
+
++ [《碧蓝档案》团队新作《KV计划》宣布停止开发](https://www.3dmgame.com/news/202409/3903719.html)
+
