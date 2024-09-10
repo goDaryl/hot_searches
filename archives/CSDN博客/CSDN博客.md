@@ -155,3 +155,15 @@
 
 + [本地服务器部署Text generation并添加code llama实现远程多人协作](https://blog.csdn.net/qq_47888212/article/details/142064131)
 
++ [【大数据算法】一文掌握大数据算法之：空间亚线性算法。](https://blog.csdn.net/wuyoudeyuer/article/details/141752419)
+
++ [OpenCV-轮廓检测](https://blog.csdn.net/2301_77698138/article/details/142069135)
+
++ [猫头虎分析：iPhone 16 系列哪款更适合你？买 iPhone 16 选哪款好？](https://blog.csdn.net/qq_44866828/article/details/142078617)
+
++ [网络安全 day5 --- 反弹SHELL&不回显带外&正反向连接&防火墙出入站&文件下载](https://blog.csdn.net/2302_81156108/article/details/141888147)
+
++ [DevOps实现CI/CD实战（六）- Jenkins集成k8s](https://blog.csdn.net/Y_eatMeat/article/details/142056023)
+
++ [OpenHarmony鸿蒙开发（ Beta5.0）智能风扇设备开发实践](https://blog.csdn.net/weixin_55362248/article/details/142060091)
+

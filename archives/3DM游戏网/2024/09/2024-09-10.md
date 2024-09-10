@@ -205,3 +205,9 @@
 
 + [《三角洲行动》枪械研发纪录片 未来加入国产装备武器](https://www.3dmgame.com/news/202409/3903810.html)
 
++ [苹果特别提醒：iPhone16国行版暂不支持Apple智能](https://www.3dmgame.com/news/202409/3903836.html)
+
++ [前《生化危机》系列开发者夫妇二人成立新工作室](https://www.3dmgame.com/news/202409/3903835.html)
+
++ [休闲模拟游戏《动物收容所2》序章内容即将免费发布 9月13日推出](https://www.3dmgame.com/news/202409/3903834.html)
+
