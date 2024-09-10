@@ -45,3 +45,7 @@
 
 + [投票：苹果 iPhone 16 / Pro 全系换代 A18 / Pro 售价不变，你考虑购买吗？](https://m.ithome.com/html/794682.htm)
 
++ [19999 元起全球首款量产三折叠手机：华为 Mate XT 非凡大师发布，10.2 英寸全球最大屏](https://m.ithome.com/html/794820.htm)
+
++ [三折叠手机 Mate XT 非凡大师领衔，华为见非凡品牌盛典今天下午见](https://m.ithome.com/html/794737.htm)
+
