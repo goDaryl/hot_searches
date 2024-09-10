@@ -147,3 +147,11 @@
 
 + [Springcould -第一个Eureka应用 --- day02](https://blog.csdn.net/m0_67187271/article/details/142053245)
 
++ [解决C++ openCV无法读取视频但是可以读取图像](https://blog.csdn.net/tyfwin/article/details/142063354)
+
++ [【Kafka】分区与复制机制：解锁高性能与容错的密钥](https://blog.csdn.net/weixin_53269650/article/details/142059918)
+
++ [DEX-如何防范夹子机器人攻击](https://blog.csdn.net/qq_38420688/article/details/141941603)
+
++ [本地服务器部署Text generation并添加code llama实现远程多人协作](https://blog.csdn.net/qq_47888212/article/details/142064131)
+
