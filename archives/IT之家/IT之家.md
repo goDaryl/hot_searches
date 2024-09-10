@@ -41,3 +41,5 @@
 
 + [苹果 A18 芯片发布：iPhone 16 系列首发，CPU 提升 30%、GPU 提升 40%](https://m.ithome.com/html/794640.htm)
 
++ [苹果 A18 Pro 芯片发布：iPhone 16 Pro 系列首发，CPU 提升 15%、GPU 提升 20%](https://m.ithome.com/html/794644.htm)
+

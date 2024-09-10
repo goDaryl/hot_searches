@@ -129,3 +129,19 @@
 
 + [股价持续暴跌 投资者敦促育碧私有化](https://www.3dmgame.com/news/202409/3903794.html)
 
++ [iPhone16系列发布：新的相机按钮、AI整合和A18](https://www.3dmgame.com/news/202409/3903798.html)
+
++ [《咒文碎片》Steam页面上线 魔法构建肉鸽TPS](https://www.3dmgame.com/news/202409/3903799.html)
+
++ [《命运2》公开“代号：前线”扩展未来更新细节](https://www.3dmgame.com/news/202409/3903800.html)
+
++ [因不满《军团要塞2》机器人问题 超34万名玩家签名请愿书送达V社办公室](https://www.3dmgame.com/news/202409/3903801.html)
+
++ [《我的世界》PS5原生版本开发中 取消新生物投票](https://www.3dmgame.com/news/202409/3903802.html)
+
++ [英伟达《黑神话》全景光追+DLSS3宣传片 巅峰视觉效果](https://www.3dmgame.com/news/202409/3903803.html)
+
++ [《潜行者2》故事被重写六次 现在开发者对剧情很满意](https://www.3dmgame.com/news/202409/3903797.html)
+
++ [《尚气》导演有望执导荷兰弟《蜘蛛侠4》电影](https://www.3dmgame.com/news/202409/3903796.html)
+

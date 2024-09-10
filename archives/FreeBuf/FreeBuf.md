@@ -43,3 +43,5 @@
 
 + [深度探讨隐藏在你代码中的漏洞：变异型跨站脚本（mXSS）](https://www.freebuf.com/articles/network/409092.html)
 
++ [FreeBuf早报 | 世界首个有法律约束力的AI公约出炉；伦敦交通局系统遭攻击](https://www.freebuf.com/news/410530.html)
+
