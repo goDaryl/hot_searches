@@ -73,3 +73,13 @@
 
 + [这就是雷音寺](http://www.acfun.cn/v/ac46229023)
 
++ [【ACFUN声唱云参赛2024】ワインレッドの心](http://www.acfun.cn/v/ac46227848)
+
++ [hjm秋哥秀vol.2](http://www.acfun.cn/v/ac46227947)
+
++ [耐口王](http://www.acfun.cn/v/ac46229521)
+
++ [小熊猫打滚被发现了](http://www.acfun.cn/v/ac46229500)
+
++ [2杯50度的温水放到一起不是100度吗？](http://www.acfun.cn/v/ac46228588)
+

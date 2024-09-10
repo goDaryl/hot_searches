@@ -145,3 +145,15 @@
 
 + [《尚气》导演有望执导荷兰弟《蜘蛛侠4》电影](https://www.3dmgame.com/news/202409/3903796.html)
 
++ [《功夫梦：街头乱斗》角色揭示预告 9月21日发售](https://www.3dmgame.com/news/202409/3903804.html)
+
++ [《彩虹六号：围攻》移除Vulkan接口 游戏性能严重受创](https://www.3dmgame.com/news/202409/3903806.html)
+
++ [《三国志8重制版》制定战术介绍 出其不意掌握先机](https://www.3dmgame.com/news/202409/3903805.html)
+
++ [桂正和《银翼超人》真人剧卡司阵容公开 10月开播](https://www.3dmgame.com/news/202409/3903807.html)
+
++ [《终焉之玛格诺利亚：雾中盛放之花》正式版2025年1月23日发售 登陆全平台](https://www.3dmgame.com/news/202409/3903808.html)
+
++ [苹果称新款iPhone 16均可玩3A游戏 并不限于Pro版本](https://www.3dmgame.com/news/202409/3903809.html)
+
