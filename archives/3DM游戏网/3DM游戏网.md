@@ -269,3 +269,11 @@
 
 + [已成立30余年 天津三星公司注销！明年还要在中国裁员30%](https://www.3dmgame.com/news/202409/3903855.html)
 
++ [AMD官宣全新UDNA GPU架构！游戏计算二合一 死战CUDA](https://www.3dmgame.com/news/202409/3903869.html)
+
++ [华为MateXT非凡大师机身尺寸：最厚12.8mm重306g](https://www.3dmgame.com/news/202409/3903868.html)
+
++ [《女神异闻录3 Reload》DLC第三弹“Episode Aegis”正式发布！同步公原声音乐集](https://www.3dmgame.com/news/202409/3903867.html)
+
++ [ATLUS新作《暗喻幻想：ReFantazio》介绍环游世界的目的和旅程](https://www.3dmgame.com/news/202409/3903866.html)
+
