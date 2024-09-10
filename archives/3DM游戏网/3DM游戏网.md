@@ -115,3 +115,17 @@
 
 + [性感妖娆《死神：魂魄觉醒》发布松本乱菊角色预告](https://www.3dmgame.com/news/202409/3903783.html)
 
++ [在正式官宣前 索尼提前确认了PS5 Pro名称](https://www.3dmgame.com/news/202409/3903795.html)
+
++ [彭博社记者称《侠盗猎车手 6》延期传闻不实](https://www.3dmgame.com/news/202409/3903789.html)
+
++ [《饿狼传说：狼之城》计划获得3年DLC支持](https://www.3dmgame.com/news/202409/3903790.html)
+
++ [中世纪生活模拟RPG《欢欣森活》推迟至11/6推出](https://www.3dmgame.com/news/202409/3903791.html)
+
++ [iPhone 16发布会公布《王者荣耀：世界》明年上线](https://www.3dmgame.com/news/202409/3903792.html)
+
++ [剧情驱动摄影冒险《FOMOGRAPHY》25年初推出](https://www.3dmgame.com/news/202409/3903793.html)
+
++ [股价持续暴跌 投资者敦促育碧私有化](https://www.3dmgame.com/news/202409/3903794.html)
+

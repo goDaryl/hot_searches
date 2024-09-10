@@ -41,3 +41,5 @@
 
 + [Hfinger：一款针对恶意软件HTTP请求的指纹识别工具](https://www.freebuf.com/sectool/409360.html)
 
++ [深度探讨隐藏在你代码中的漏洞：变异型跨站脚本（mXSS）](https://www.freebuf.com/articles/network/409092.html)
+

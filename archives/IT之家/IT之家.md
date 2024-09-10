@@ -35,3 +35,9 @@
 
 + [5999 元起加量不加价，苹果 iPhone 16 / Pro 系列国行发布：升级 A18 / Pro 芯片、全系相机控制按键](https://m.ithome.com/html/794649.htm)
 
++ [【一图知】苹果 2024 秋季新品发布会：iPhone 16 系列、Apple Watch Series 10 与 AirPods 4](https://m.ithome.com/html/794677.htm)
+
++ [苹果 2024 秋季新品发布会一文汇总：iPhone 16 / Pro 登场、手表耳机齐换代](https://m.ithome.com/html/794683.htm)
+
++ [苹果 A18 芯片发布：iPhone 16 系列首发，CPU 提升 30%、GPU 提升 40%](https://m.ithome.com/html/794640.htm)
+
