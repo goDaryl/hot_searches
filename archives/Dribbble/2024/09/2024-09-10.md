@@ -174,3 +174,19 @@
 
 + [Whoa - Gummy Packaging Design](https://dribbble.com/shots/)
 
++ [Taglines for a Non Alcoholic Bottle Shop](https://dribbble.com/shots/)
+
++ [News Mobile App Design - Podcast Player Page](https://dribbble.com/shots/)
+
++ [Starpay - UI Motion Exploration](https://dribbble.com/shots/)
+
++ [3D Character](https://dribbble.com/shots/)
+
++ [Human Nature | Logo design](https://dribbble.com/shots/)
+
++ [Net-is-Working - Networking Analytics Dashboard Component](https://dribbble.com/shots/)
+
++ [Ottorize - CRM Dashboard](https://dribbble.com/shots/)
+
++ [S - Shark Logo](https://dribbble.com/shots/)
+
