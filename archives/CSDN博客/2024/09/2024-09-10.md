@@ -167,3 +167,7 @@
 
 + [OpenHarmony鸿蒙开发（ Beta5.0）智能风扇设备开发实践](https://blog.csdn.net/weixin_55362248/article/details/142060091)
 
++ [UE4_后期处理_后期处理材质四—场景物体描边](https://blog.csdn.net/Growthofnotes/article/details/142001433)
+
++ [【论文阅读】ModelScope-Agent：基于开源大语言模型的可定制Agent系统](https://blog.csdn.net/weixin_47936614/article/details/142054620)
+
