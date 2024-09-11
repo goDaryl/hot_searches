@@ -179,3 +179,13 @@
 
 + [C++ IO流全解析：标准库中的数据处理与文件读写艺术](https://blog.csdn.net/weixin_50776420/article/details/142103441)
 
++ [RAG系统的7个检索指标：信息检索任务准确性评估指南](https://blog.csdn.net/m0_46510245/article/details/142131349)
+
++ [我与Linux的爱恋：自动化构建工具-make/Makefile](https://blog.csdn.net/bskmns/article/details/142035208)
+
++ [SprinBoot+Vue基于推荐算法的智能书店的设计与实现](https://blog.csdn.net/ZGL_cyy/article/details/142094809)
+
++ [遗传算法与深度学习实战（12）——粒子群优化详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/142121266)
+
++ [瑞芯微RK3566鸿蒙开发板OpenHarmony标准系统应用兼容性测试指导](https://blog.csdn.net/Industio_CSDN/article/details/142094542)
+

@@ -61,3 +61,5 @@
 
 + [攻防演练 | 某医院内网遨游](https://www.freebuf.com/defense/409407.html)
 
++ [新型 PIXHELL 声音攻击能从 LCD 屏幕噪音中泄露信息](https://www.freebuf.com/news/410723.html)
+
