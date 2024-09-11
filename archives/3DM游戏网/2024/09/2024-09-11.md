@@ -315,3 +315,7 @@
 
 + [东京电玩展2024世嘉 ATLUS展区出展资讯公开！](https://www.3dmgame.com/news/202409/3903962.html)
 
++ [帧率还是画面？PS5 Pro想两者都要](https://www.3dmgame.com/news/202409/3903968.html)
+
++ [《艾尔登法环》1.14更新上线 DLC最终Boss难度削弱](https://www.3dmgame.com/news/202409/3903966.html)
+
