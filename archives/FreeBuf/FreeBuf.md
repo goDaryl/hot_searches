@@ -41,3 +41,5 @@
 
 + [现实世界中的间接提示注入：人们如何操纵神经网络](https://www.freebuf.com/articles/paper/409159.html)
 
++ [2024年推出的11个顶级漏洞悬赏项目](https://www.freebuf.com/news/409369.html)
+

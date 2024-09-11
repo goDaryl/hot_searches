@@ -41,3 +41,11 @@
 
 + [苹果 iPhone 16 Pro 系列 A18 Pro 芯片硬件光追性能提升 1 倍，演示网易《逆水寒手游》](https://m.ithome.com/html/794775.htm)
 
++ [苹果 iPhone 16 Geekbench 跑分出炉，A18 处理器单核成绩 3114 分](https://m.ithome.com/html/794896.htm)
+
++ [问界 M9 全系六大升级，国产新能源首发钓鱼凳](https://m.ithome.com/html/794839.htm)
+
++ [百度地图 V20 首发适配华为 Mate XT 三折叠屏手机](https://m.ithome.com/html/794840.htm)
+
++ [华为余承东宣布鸿蒙智行首款轿跑 SUV 智界 R7 开启小订：预售价 26.8 万元起， CLTC 续航 802km](https://m.ithome.com/html/794847.htm)
+
