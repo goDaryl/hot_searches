@@ -49,3 +49,13 @@
 
 + [Squirrel - Logo Design](https://dribbble.com/shots/)
 
++ [Wielki Pies logo](https://dribbble.com/shots/)
+
++ [Website Design Concept for a Finance Management Solution](https://dribbble.com/shots/)
+
++ [Hubble Logo](https://dribbble.com/shots/)
+
++ [It's not a feature, it's a bug](https://dribbble.com/shots/)
+
++ [Retention strategies](https://dribbble.com/shots/)
+
