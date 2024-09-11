@@ -19,3 +19,7 @@
 
 + [音乐世界 Cytus II](https://www.taptap.cn/app/153415)
 
++ [归龙潮](https://www.taptap.cn/app/245662)
+
++ [龙族：卡塞尔之门](https://www.taptap.cn/app/382099)
+

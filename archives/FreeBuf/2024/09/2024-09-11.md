@@ -47,3 +47,11 @@
 
 + [FreeBuf早报 | Wifi路由器成为僵尸网络Quad7目标；去年美国加密货币诈骗超56亿](https://www.freebuf.com/news/410690.html)
 
++ [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
+
++ [卡巴斯基发布了 EDR 防护杀手，被勒索组织广泛使用](https://www.freebuf.com/news/410698.html)
+
++ [基于源代码泄露的安全渗透测试](https://www.freebuf.com/defense/409919.html)
+
++ [WhatsApp“阅后即焚”功能曝漏洞，黑客可反复查看](https://www.freebuf.com/news/410675.html)
+
