@@ -129,3 +129,11 @@
 
 + [media founders- logo design, brand guide](https://dribbble.com/shots/)
 
++ [Tree Sketch](https://dribbble.com/shots/)
+
++ [Dead fish logo](https://dribbble.com/shots/)
+
++ [Analytics and Finances Platform](https://dribbble.com/shots/)
+
++ [Inventory Management - Graphs](https://dribbble.com/shots/)
+
