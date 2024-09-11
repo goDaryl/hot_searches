@@ -155,3 +155,65 @@
 
 + [《死亡岛2》免费更新“邻里守望”10月22日上线 终极版同步发售](https://www.3dmgame.com/news/202409/3903899.html)
 
++ [《使命召唤21》PC配置需求 最低需GTX960/GTX1650](https://www.3dmgame.com/news/202408/3901933.html)
+
++ [《星刃》大获成功后 韩国厂商对单人游戏兴趣与日俱增](https://www.3dmgame.com/news/202408/3901931.html)
+
++ [苹果明年有大招 分析师看好iPhone 17系列](https://www.3dmgame.com/news/202408/3901932.html)
+
++ [小米汽车回应博主对撞测试：不严谨、不完整、不真实](https://www.3dmgame.com/news/202408/3901929.html)
+
++ [《怪物猎人：荒野》斩斧介绍 2025年正式发售](https://www.3dmgame.com/news/202408/3901930.html)
+
++ [《七键骑士》9月Steam抢先体验 栏位管理肉鸽元素新游](https://www.3dmgame.com/news/202408/3901927.html)
+
++ [《雷霆一击》社区举办慈善竞赛 为患癌玩家筹集药费](https://www.3dmgame.com/news/202408/3901928.html)
+
++ [《辐射》真人剧中有个创作团队都不知道的彩蛋 但玩家一眼就发现](https://www.3dmgame.com/news/202408/3901926.html)
+
++ [米哈游招聘开发者或制作3A游戏 采用虚幻引擎和写实风格](https://www.3dmgame.com/news/202408/3901925.html)
+
++ [48亿现金收购Silo AI后 AMD在欧洲市场有望超过NVIDIA](https://www.3dmgame.com/news/202408/3901924.html)
+
++ [沉浸式模拟游戏《火车场建造者》发售日公布 2024年9月17日推出](https://www.3dmgame.com/news/202408/3901922.html)
+
++ [大量《命运2》玩家被强制改名 且无法换回原名](https://www.3dmgame.com/news/202408/3901923.html)
+
++ [零售商泄露《漫威 vs. 卡普空格斗合集：经典街机》11月22日发售](https://www.3dmgame.com/news/202408/3901934.html)
+
++ [功耗降低、性能提升！我国科学家发明新型“热发射极”晶体管](https://www.3dmgame.com/news/202408/3901935.html)
+
++ [《龙腾世纪：影障守护者》广告泄露游戏将于10月31日发售 预购即将开启](https://www.3dmgame.com/news/202408/3901920.html)
+
++ [DualSenseTM无线控制器——为所有游戏玩家架起无障碍体验音乐的桥梁](https://www.3dmgame.com/news/202408/3901939.html)
+
++ [《精英阴阳师Miko》Steam试玩发布 肉鸽动作射击](https://www.3dmgame.com/news/202408/3901921.html)
+
++ [《风来的希炼6》官方提醒 游戏仍在开发先别急着雪藏](https://www.3dmgame.com/news/202408/3901938.html)
+
++ [敖厂长预计外媒IGN给《黑神话》评8分 大家拭目以待](https://www.3dmgame.com/news/202408/3901937.html)
+
++ [科技公司推出头部跟踪旋转椅：降低VR晕动症症状](https://www.3dmgame.com/news/202408/3901936.html)
+
++ [两部作品同时入选竞争杂志封面 漫画家西修感叹高光受不起](https://www.3dmgame.com/news/202409/3903916.html)
+
++ [《蜘蛛侠：超越宇宙》制片人回应电影陷入困境传闻：没有任何东西被取消](https://www.3dmgame.com/news/202409/3903915.html)
+
++ [2D动作精确平台游戏《Haneda Girl》Steam页面公布 发行日期待定](https://www.3dmgame.com/news/202409/3903914.html)
+
++ [坤哥爆料：任天堂即将发布五个Switch主机游戏捆绑包](https://www.3dmgame.com/news/202409/3903912.html)
+
++ [贵还是便宜？PS5 Pro和当今主流游戏机价格对比](https://www.3dmgame.com/news/202409/3903911.html)
+
++ [《坦克世界》联动hololive 7位人气虚拟偶像乱入参战](https://www.3dmgame.com/news/202409/3903910.html)
+
++ [外媒大赞《GTA6》女主形象：打破GTA系列对女性偏见](https://www.3dmgame.com/news/202409/3903909.html)
+
++ [科乐美确定《合金装备：大师合集2》正在筹备中 具体内容待定](https://www.3dmgame.com/news/202409/3903906.html)
+
++ [《地铁站设计师》Steam页面开放 2025年发行](https://www.3dmgame.com/news/202409/3903908.html)
+
++ [索尼前总裁：行业被裁员工应该去海滩玩一年](https://www.3dmgame.com/news/202409/3903913.html)
+
++ [快节奏第一人称动作射击游戏《我是你的野兽》正式推出 获特别好评](https://www.3dmgame.com/news/202409/3903907.html)
+

@@ -51,3 +51,5 @@
 
 + [全新屏优惠价 7999 元，华为 Mate XT 非凡大师三折叠手机维修备件价格公布](https://m.ithome.com/html/794917.htm)
 
++ [新大众帕萨特 Pro 上市：双前脸设计，限时一口价 18.99 万起](https://m.ithome.com/html/794915.htm)
+
