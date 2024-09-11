@@ -217,3 +217,23 @@
 
 + [快节奏第一人称动作射击游戏《我是你的野兽》正式推出 获特别好评](https://www.3dmgame.com/news/202409/3903907.html)
 
++ [主演声称：《万智牌》Netflix动画剧集已被取消](https://www.3dmgame.com/news/202409/3903917.html)
+
++ [据报道索尼PlayStation可能正面临新一波裁员](https://www.3dmgame.com/news/202409/3903918.html)
+
++ [科技动作第一人称射击游戏《RetroBlazer》Steam页面开放 不支持中文](https://www.3dmgame.com/news/202409/3903920.html)
+
++ [横向清版动作游戏《不朽猎手》现已推出抢先体验版](https://www.3dmgame.com/news/202409/3903919.html)
+
++ [Win11旧版本10月结束支持 微软将强制升到23H](https://www.3dmgame.com/news/202409/3903921.html)
+
++ [索尼下狠手 《星鸣特攻》已从玩家账户中被彻底删除](https://www.3dmgame.com/news/202409/3903923.html)
+
++ [《上古卷轴：城堡》手游最新宣传片 现已全球上线](https://www.3dmgame.com/news/202409/3903922.html)
+
++ [类8号出口逃脱恐怖游戏《第9层》完整版正式推出 已获好评](https://www.3dmgame.com/news/202409/3903924.html)
+
++ [微软联合开发全球最强量子计算机 物理量子比特数超1200个](https://www.3dmgame.com/news/202409/3903926.html)
+
++ [《SWORD BISTRO VR》Steam抢测 幻想风切菜料理](https://www.3dmgame.com/news/202409/3903925.html)
+
