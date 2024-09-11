@@ -237,3 +237,11 @@
 
 + [《SWORD BISTRO VR》Steam抢测 幻想风切菜料理](https://www.3dmgame.com/news/202409/3903925.html)
 
++ [iPhone16/Pro搭载新一代超瓷晶面板 硬度较初代提升50%](https://www.3dmgame.com/news/202409/3903930.html)
+
++ [科普向漫画《琉璃的宝石》宣布动画化 将于2025年开播](https://www.3dmgame.com/news/202409/3903929.html)
+
++ [《绝地潜兵2》9月更新将每日发布预览 喷火器强度回调](https://www.3dmgame.com/news/202409/3903928.html)
+
++ [周刊文春：声优平野绫与演员谷口贤志因婚内家暴爆发离婚危机](https://www.3dmgame.com/news/202409/3903927.html)
+
