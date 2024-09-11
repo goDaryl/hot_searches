@@ -49,3 +49,5 @@
 
 + [华为余承东宣布鸿蒙智行首款轿跑 SUV 智界 R7 开启小订：预售价 26.8 万元起， CLTC 续航 802km](https://m.ithome.com/html/794847.htm)
 
++ [全新屏优惠价 7999 元，华为 Mate XT 非凡大师三折叠手机维修备件价格公布](https://m.ithome.com/html/794917.htm)
+
