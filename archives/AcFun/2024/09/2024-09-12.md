@@ -69,3 +69,7 @@
 
 + [雯雯不是肥宅......(今日开心视频：1539)](http://www.acfun.cn/v/ac46238495)
 
++ [【东方】Colored garden【ぱらどっと Colour Bass  Artcore】](http://www.acfun.cn/v/ac46234637)
+
++ [22天光速暴毙！抄袭老东家的短命游戏，却创造了FUTA二创的奇迹](http://www.acfun.cn/v/ac46237582)
+
