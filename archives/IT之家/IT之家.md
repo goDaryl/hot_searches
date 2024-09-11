@@ -57,3 +57,7 @@
 
 + [华为见非凡品牌盛典及鸿蒙智行新品发布会一文汇总，Mate XT 非凡大师三折叠炸场](https://m.ithome.com/html/794935.htm)
 
++ [【一图知】华为见非凡品牌盛典及鸿蒙智行新品发布会：Mate XT 非凡大师三折叠屏手机与问界 M9 大五座发布，智界 R7 开启小订](https://m.ithome.com/html/794863.htm)
+
++ [苹果 iPhone 16 Pro 系列跑分出炉：多核 7751 分，较前代提高 11%](https://m.ithome.com/html/794957.htm)
+

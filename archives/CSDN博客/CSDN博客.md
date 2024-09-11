@@ -193,3 +193,5 @@
 
 + [【Linux】解锁Shell脚本编写秘籍，编程高手之路等你开启](https://blog.csdn.net/m0_74808907/article/details/142133792)
 
++ [基于Django的网上商城（小程序+PC端：用户+商家+管理员）](https://blog.csdn.net/qq_45714272/article/details/142103297)
+
