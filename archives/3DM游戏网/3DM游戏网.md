@@ -257,3 +257,19 @@
 
 + [索尼非常重视《宇宙机器人》系列：将更专注家庭市场](https://www.3dmgame.com/news/202409/3904047.html)
 
++ [“东京电玩展2024”公开官方节目资讯 以及KOEI TECMO直播节目内容！](https://www.3dmgame.com/news/202409/3904057.html)
+
++ [黄仁勋重申：摩尔定律已死 RTX50系显卡涨价别意外](https://www.3dmgame.com/news/202409/3904058.html)
+
++ [周鸿祎称华为MateXT创新远超苹果：不打算买iPhone16](https://www.3dmgame.com/news/202409/3904059.html)
+
++ [《完蛋！我被美女包围了！前传》Steam页面上线 年内发售](https://www.3dmgame.com/news/202409/3904052.html)
+
++ [阿里25周年胡彦斌献唱《红颜》：“愿来世做牛马”让打工人破防](https://www.3dmgame.com/news/202409/3904053.html)
+
++ [更多折磨！ 合作平台跳跃《链在一起》现已推出地图编辑器](https://www.3dmgame.com/news/202409/3904054.html)
+
++ [《剑风传奇》第三方宣布制作全新动画 版权官方声明未授权](https://www.3dmgame.com/news/202409/3904056.html)
+
++ [PS5发布24.06-10.00.00系统更新：手柄自适应充电功能实装](https://www.3dmgame.com/news/202409/3904055.html)
+
