@@ -59,3 +59,5 @@
 
 + [天玑 9400、骁龙 8 Gen 4 参数全曝光，两大旗舰手机处理器年底正面对拼](https://m.ithome.com/html/795326.htm)
 
++ [消息称苹果 iPhone 16 目前实测充电峰值功率不超过 39W](https://m.ithome.com/html/795409.htm)
+
