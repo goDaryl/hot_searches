@@ -247,3 +247,13 @@
 
 + [《幽霾》steam免费测试开启！探索跑团、多人冒险与狼人杀式身份对抗！](https://www.3dmgame.com/news/202409/3904045.html)
 
++ [越南玩家感慨：我们啥时候能做出《黑神话》这样的大作](https://www.3dmgame.com/news/202409/3904051.html)
+
++ [iPhone16在中国面临重大挑战 AI中文版明年才上线](https://www.3dmgame.com/news/202409/3904050.html)
+
++ [免费单机大世界 《新倩女幽魂》联动道诡异仙9月19日上线](https://www.3dmgame.com/news/202409/3904049.html)
+
++ [《电锯甜心RePOP》发售预告 Steam国区首发294元](https://www.3dmgame.com/news/202409/3904048.html)
+
++ [索尼非常重视《宇宙机器人》系列：将更专注家庭市场](https://www.3dmgame.com/news/202409/3904047.html)
+
