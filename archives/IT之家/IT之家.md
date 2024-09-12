@@ -27,3 +27,7 @@
 
 + [闲鱼推出“学生鱼”新功能，面向校园二手市场](https://m.ithome.com/html/795017.htm)
 
++ [vivo 智能手表回复“无聊怎么办”竟建议“自杀”，客服回应称技术团队已修复](https://m.ithome.com/html/795192.htm)
+
++ [华为将“尊界”“MAEXTRO”“MASTRO”等商标转让至江淮汽车](https://m.ithome.com/html/794961.htm)
+

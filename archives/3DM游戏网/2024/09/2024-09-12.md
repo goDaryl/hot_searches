@@ -113,3 +113,11 @@
 
 + [《Piczle Cross 符文工房》明天登陆Steam及Switch](https://www.3dmgame.com/news/202409/3903975.html)
 
++ [《戈德曼的永生》科隆展2024试玩实机内容展示](https://www.3dmgame.com/news/202409/3903980.html)
+
++ [40人平台格斗大逃杀《字节破坏者》面向PC公布](https://www.3dmgame.com/news/202409/3903981.html)
+
++ [Xbox Game Pass标准版推出 每月14.99美元](https://www.3dmgame.com/news/202409/3903982.html)
+
++ [《遗迹2》更新将提供免费Boss Rush模式](https://www.3dmgame.com/news/202409/3903983.html)
+

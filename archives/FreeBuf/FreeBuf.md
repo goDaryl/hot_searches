@@ -41,3 +41,5 @@
 
 + [立即报名 | WitAwards 2024中国网络安全行业年度评选正式启动](https://www.freebuf.com/fevents/410589.html)
 
++ [云端安全 | 泄露的环境变量如何导致云环境遭受大规模勒索软件威胁](https://www.freebuf.com/articles/network/409199.html)
+
