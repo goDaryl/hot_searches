@@ -61,3 +61,9 @@
 
 + [消息称苹果 iPhone 16 目前实测充电峰值功率不超过 39W](https://m.ithome.com/html/795409.htm)
 
++ [杭州余杭通报“网约车走小路女子称被吓到跳车”：正在调查处置](https://m.ithome.com/html/795341.htm)
+
++ [淘宝网今日起新增微信支付能力，逐步向所有卖家开放](https://m.ithome.com/html/795230.htm)
+
++ [交个朋友直播间回应售卖假洋品牌月饼“停售并退一赔三”，罗永浩致歉](https://m.ithome.com/html/795315.htm)
+
