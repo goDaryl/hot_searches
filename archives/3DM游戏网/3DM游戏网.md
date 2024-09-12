@@ -121,3 +121,17 @@
 
 + [《遗迹2》更新将提供免费Boss Rush模式](https://www.3dmgame.com/news/202409/3903983.html)
 
++ [《使命召唤》工作室Raven起诉东家动视：给工会成员穿小鞋](https://www.3dmgame.com/news/202409/3903990.html)
+
++ [《NAGAISAN》登陆Steam 都市传说惊悚解谜](https://www.3dmgame.com/news/202409/3903989.html)
+
++ [英特尔下一代中端CPU Ultra7 265KF性能已超i7-14700K](https://www.3dmgame.com/news/202409/3903988.html)
+
++ [大烂片！《无主之地》电影全球票房仅为3100万美元](https://www.3dmgame.com/news/202409/3903987.html)
+
++ [《战锤40K：星际战士2》热修复补丁来了 优化高端CPU性能](https://www.3dmgame.com/news/202409/3903986.html)
+
++ [《战争之人2》离线模式开发进展：完成大半 10月初推出](https://www.3dmgame.com/news/202409/3903985.html)
+
++ [《收获日3》表现不佳 游戏总监被换](https://www.3dmgame.com/news/202409/3903984.html)
+

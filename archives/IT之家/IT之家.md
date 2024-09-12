@@ -31,3 +31,5 @@
 
 + [华为将“尊界”“MAEXTRO”“MASTRO”等商标转让至江淮汽车](https://m.ithome.com/html/794961.htm)
 
++ [印度部长：印度产苹果 iPhone 16 将供应全球](https://m.ithome.com/html/795194.htm)
+

@@ -43,3 +43,7 @@
 
 + [云端安全 | 泄露的环境变量如何导致云环境遭受大规模勒索软件威胁](https://www.freebuf.com/articles/network/409199.html)
 
++ [WPS Office 0-day漏洞 CVE-2024-7262复现及软件安全特性对比](https://www.freebuf.com/vuls/409949.html)
+
++ [FreeBuf早报 | 这个国家或将保护白帽黑客；新加坡拟立法禁止使用Deepfake](https://www.freebuf.com/news/410721.html)
+

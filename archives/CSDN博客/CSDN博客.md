@@ -147,3 +147,7 @@
 
 + [前端网络请求库：Axios](https://blog.csdn.net/m0_61619549/article/details/142058351)
 
++ [探索深度学习的奥秘：从理论到实践的奇幻之旅](https://blog.csdn.net/weixin_73295475/article/details/142144235)
+
++ [网络安全（黑客技术）—2024自学手册](https://blog.csdn.net/web22050702/article/details/142097696)
+
