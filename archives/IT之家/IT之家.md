@@ -51,3 +51,5 @@
 
 + [3C 认证显示苹果 iPhone 16 / Pro 系列最高支持 15V 3A 快充](https://m.ithome.com/html/795259.htm)
 
++ [网民建议“取消营运车辆、摩托车使用一定年限后强制报废”，商务部回应](https://m.ithome.com/html/795280.htm)
+
