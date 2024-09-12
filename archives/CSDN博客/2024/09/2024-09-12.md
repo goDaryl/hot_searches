@@ -205,3 +205,7 @@
 
 + [什么是CPU、GPU、NPU？（包懂+会）](https://blog.csdn.net/weixin_61944480/article/details/142145467)
 
++ [Web安全与网络安全：SQL漏洞注入](https://blog.csdn.net/jun778895/article/details/142125715)
+
++ [学习pyqt5相关知识回顾](https://blog.csdn.net/m0_68716275/article/details/140177932)
+
