@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 这个国家或将保护白帽黑客；新加坡拟立法禁止使用Deepfake](https://www.freebuf.com/news/410721.html)
 
++ [攻防利器 | openCTI开源威胁情报管理平台的思考与详细部署](https://www.freebuf.com/sectool/410121.html)
+
