@@ -377,3 +377,9 @@
 
 + [英特尔向美国政府寻求帮助 认为本土企业过于依赖台积电](https://www.3dmgame.com/news/202409/3904161.html)
 
++ [冒险游戏《落虹之海》PC和Switch版9月20日发售](https://www.3dmgame.com/news/202409/3904163.html)
+
++ [微软任命前通用电气CFO为运营总监 加速AI布局](https://www.3dmgame.com/news/202409/3904164.html)
+
++ [周鸿祎谈华为三折叠遥遥领先：盖泡面能盖两碗](https://www.3dmgame.com/news/202409/3904165.html)
+

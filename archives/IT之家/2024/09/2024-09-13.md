@@ -61,3 +61,7 @@
 
 + [20 点蹲点速抢：苹果 iPhone 16 / Pro 系列手机京东预售](https://m.ithome.com/html/795662.htm)
 
++ [消息称因软硬件各种因素，华为 Mate 70 手机可能要 11 月发布](https://m.ithome.com/html/795656.htm)
+
++ [小米自带线充电宝 10000mAh 165W 预售：彩色智能数显，199 元](https://m.ithome.com/html/795560.htm)
+
