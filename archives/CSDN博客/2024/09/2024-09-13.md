@@ -155,3 +155,11 @@
 
 + [【在Linux世界中追寻伟大的One Piece】五种IO模型和阻塞IO](https://blog.csdn.net/weixin_74809706/article/details/142185512)
 
++ [【DataSophon】Yarn配置历史服务器JobHistory和Spark集成historyServer](https://blog.csdn.net/qq_35995514/article/details/142000399)
+
++ [【数学建模】典型相关分析](https://blog.csdn.net/shaozheng0503/article/details/142182861)
+
++ [基于FPGA的SD卡的数据读写实现（SD NAND FLASH）](https://blog.csdn.net/RobotFutures/article/details/142168570)
+
++ [实现实时Web应用，使用AJAX轮询、WebSocket、还是SSE呢？？](https://blog.csdn.net/weixin_43106777/article/details/142146226)
+
