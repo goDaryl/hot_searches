@@ -75,3 +75,7 @@
 
 + [Index AI Branding](https://dribbble.com/shots/)
 
++ [Polaris label](https://dribbble.com/shots/)
+
++ [Panda game character](https://dribbble.com/shots/)
+

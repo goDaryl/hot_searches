@@ -195,3 +195,17 @@
 
 + [爱好者将经典RPG《辐射2》移植到任天堂Switch](https://www.3dmgame.com/news/202408/3901338.html)
 
++ [《赛博朋克2077》2.13版更新上线 支持AMD FSR3](https://www.3dmgame.com/news/202409/3904078.html)
+
++ [超英动作游戏《UNDEFEATED》现已免费登陆PS5](https://www.3dmgame.com/news/202409/3904072.html)
+
++ [《传说法师2》确定10月3日开启Steam抢先体验](https://www.3dmgame.com/news/202409/3904073.html)
+
++ [踏入日本战国时代《刺客信条：影》发布最新预告](https://www.3dmgame.com/news/202409/3904074.html)
+
++ [魔性手游《Flappy Bird》宣布年内重磅回归](https://www.3dmgame.com/news/202409/3904075.html)
+
++ [任天堂公开《塞尔达传说 智慧的再现》5分钟介绍视频](https://www.3dmgame.com/news/202409/3904076.html)
+
++ [《塞尔达传说：智慧的再现》提前半个月偷跑](https://www.3dmgame.com/news/202409/3904077.html)
+
