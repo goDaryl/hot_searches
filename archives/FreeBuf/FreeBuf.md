@@ -45,3 +45,7 @@
 
 + [FreeBuf早报 | 有赞支付被罚 2787 万元；流氓WHOIS服务器成黑客“核武器”](https://www.freebuf.com/news/410876.html)
 
++ [新型 Vo1d 恶意软件曝光，超130万台安卓电视设备已中招](https://www.freebuf.com/news/410913.html)
+
++ [Java反序列化 | CC链专题](https://www.freebuf.com/articles/web/409069.html)
+
