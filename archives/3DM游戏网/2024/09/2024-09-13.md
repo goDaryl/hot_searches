@@ -359,3 +359,7 @@
 
 + [《饥荒：联机版》“高深莫测”更新发布 添加新可制作物品](https://www.3dmgame.com/news/202409/3904147.html)
 
++ [玩家给女儿看《黑神话》 被丈母娘指责是害了孩子](https://www.3dmgame.com/news/202409/3904155.html)
+
++ [《命运2》Bungie再次指盗用粉丝作品？这次是联动玩具](https://www.3dmgame.com/news/202409/3904154.html)
+
