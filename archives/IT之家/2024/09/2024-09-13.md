@@ -57,3 +57,5 @@
 
 + [苹果官网 Apple Store 进入维护，iPhone 16 / Pro 系列今晚 8 点国行开启预购](https://m.ithome.com/html/795609.htm)
 
++ [华为余承东回应“搞搞中国足球”提议：自己完全是门外汉，但可分享带团队的一点经验教训](https://m.ithome.com/html/795659.htm)
+
