@@ -373,3 +373,7 @@
 
 + [外媒讨论《夺宝奇兵：古老之圈》没有什么热度](https://www.3dmgame.com/news/202409/3904160.html)
 
++ [Embracer不再出售4A Games 后者在开发两个3A游戏](https://www.3dmgame.com/news/202409/3904162.html)
+
++ [英特尔向美国政府寻求帮助 认为本土企业过于依赖台积电](https://www.3dmgame.com/news/202409/3904161.html)
+
