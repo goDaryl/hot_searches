@@ -249,3 +249,11 @@
 
 + [上美风格皮卡丘 宝可梦特别动画短片《但愿梦长久》公开](https://www.3dmgame.com/news/202409/3904188.html)
 
++ [IBM再回应关闭中国研发部门：已是完成时 不可撤销](https://www.3dmgame.com/news/202409/3904205.html)
+
++ [《黑神话：悟空》章节动画原版合集《六样情》即将上线B站 9月17日开播](https://www.3dmgame.com/news/202409/3904202.html)
+
++ [导演透露 罗伯特·帕丁森版《新蝙蝠侠》电影仍将拍摄三部曲](https://www.3dmgame.com/news/202409/3904204.html)
+
++ [仅需49.5元！水墨风动作Rogue游戏《墨境》将于9月27日发售！](https://www.3dmgame.com/news/202409/3904203.html)
+

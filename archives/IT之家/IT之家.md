@@ -37,3 +37,9 @@
 
 + [2025 款大众 Taos 发布：174 马力，8 英寸屏幕，全新前脸设计，摒弃 DSG 变速箱](https://m.ithome.com/html/795566.htm)
 
++ [小米 SU7 汽车申报增加车窗框装饰条、黑色徽标、涂色卡钳等选装](https://m.ithome.com/html/795755.htm)
+
++ [极氪发布极氪 001 杭州过火情况说明：已排除动力电池起火因素](https://m.ithome.com/html/795768.htm)
+
++ [山姆回应与拼多多“联姻”传闻：为确保能购买到正品，请选择官方认证渠道](https://m.ithome.com/html/795664.htm)
+
