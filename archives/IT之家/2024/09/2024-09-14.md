@@ -35,3 +35,5 @@
 
 + [10 点再补货：苹果 iPhone 16 / Pro 系列手机京东预售](https://m.ithome.com/html/795662.htm)
 
++ [2025 款大众 Taos 发布：174 马力，8 英寸屏幕，全新前脸设计，摒弃 DSG 变速箱](https://m.ithome.com/html/795566.htm)
+

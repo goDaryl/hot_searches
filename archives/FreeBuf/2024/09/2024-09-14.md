@@ -51,3 +51,5 @@
 
 + [中间件利用面总结](https://www.freebuf.com/articles/web/410325.html)
 
++ [《人工智能生成合成内容标识办法（征求意见稿）》发布](https://www.freebuf.com/articles/411017.html)
+
