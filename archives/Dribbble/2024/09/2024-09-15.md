@@ -49,3 +49,13 @@
 
 + [Unused 'R' Lettermark](https://dribbble.com/shots/)
 
++ [Fifth Element](https://dribbble.com/shots/)
+
++ [JustBet Mascot](https://dribbble.com/shots/)
+
++ [AI Sport Box of Website](https://dribbble.com/shots/)
+
++ [Mulligan's Grooming Co. Submark](https://dribbble.com/shots/)
+
++ [LOGO - PEACOCK](https://dribbble.com/shots/)
+
