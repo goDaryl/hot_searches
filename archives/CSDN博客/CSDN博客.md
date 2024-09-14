@@ -189,3 +189,5 @@
 
 + [MemLong: 基于记忆增强检索的长文本LLM生成方法](https://blog.csdn.net/m0_46510245/article/details/142248667)
 
++ [提示词工程与 AI 使用的紧密关系](https://blog.csdn.net/sixpp/article/details/142248954)
+

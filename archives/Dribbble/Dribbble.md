@@ -103,3 +103,27 @@
 
 + [logo design, modern logo, minimalist logo](https://dribbble.com/shots/)
 
++ [Church Mobile Website](https://dribbble.com/shots/)
+
++ [Keycat -  Fan Token Meme](https://dribbble.com/shots/)
+
++ [Crypto Wallet Dashboard](https://dribbble.com/shots/)
+
++ [Wooden toys](https://dribbble.com/shots/)
+
++ [tech logo, technology logo, web logo, software logo](https://dribbble.com/shots/)
+
++ [Pumpel logotype](https://dribbble.com/shots/)
+
++ [Unused 'R' Lettermark](https://dribbble.com/shots/)
+
++ [Bjorki Logo design proposal](https://dribbble.com/shots/)
+
++ [Fashion logo, luxury logo, simple logo](https://dribbble.com/shots/)
+
++ [Real Estate Commercial Website](https://dribbble.com/shots/)
+
++ [motionstr Logo Design](https://dribbble.com/shots/)
+
++ [L Logo/ L Letter Logo/ L Lettermark](https://dribbble.com/shots/)
+
