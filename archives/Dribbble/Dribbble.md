@@ -97,3 +97,9 @@
 
 + [Proudlii - Community App](https://dribbble.com/shots/)
 
++ [Simple banking app UI by Milkinside](https://dribbble.com/shots/)
+
++ [Brain](https://dribbble.com/shots/)
+
++ [logo design, modern logo, minimalist logo](https://dribbble.com/shots/)
+
