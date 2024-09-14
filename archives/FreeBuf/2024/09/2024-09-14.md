@@ -41,3 +41,5 @@
 
 + [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
 
++ [两个影响WPS Office的任意代码执行漏洞分析](https://www.freebuf.com/articles/paper/409990.html)
+

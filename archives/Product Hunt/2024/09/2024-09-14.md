@@ -101,3 +101,9 @@
 
 + [ContentRadar](https://www.producthunt.com/posts/contentradar)
 
++ [Amplitude Made Easy](https://www.producthunt.com/posts/amplitude-made-easy)
+
++ [Fine AI Coding Workflows](https://www.producthunt.com/posts/fine-ai-coding-workflows)
+
++ [Carrot Care](https://www.producthunt.com/posts/carrot-care-2)
+
