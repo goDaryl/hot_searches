@@ -43,3 +43,7 @@
 
 + [两个影响WPS Office的任意代码执行漏洞分析](https://www.freebuf.com/articles/paper/409990.html)
 
++ [只针对Linux，甲骨文Weblogic服务器被黑客入侵](https://www.freebuf.com/news/410985.html)
+
++ [FreeBuf早报 | 澳大利亚媒体炒作中国黑客；恶意软件瞄准甲骨文Weblogic服务器](https://www.freebuf.com/news/410981.html)
+
