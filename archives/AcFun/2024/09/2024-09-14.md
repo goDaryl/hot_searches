@@ -127,3 +127,7 @@
 
 + [这种题材现在竟还能看到，结局太牛X，简直闻所未闻！](http://www.acfun.cn/v/ac46251731)
 
++ [Chocolate Cream](http://www.acfun.cn/v/ac46251386)
+
++ [一元串串，89元两个人没吃饱？](http://www.acfun.cn/v/ac46249815)
+

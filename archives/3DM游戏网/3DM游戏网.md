@@ -301,3 +301,5 @@
 
 + [《冰汽时代2》开场CG动画公布 9月21日发售](https://www.3dmgame.com/news/202409/3904225.html)
 
++ [AMD确认FSR 4将完全基于AI 旨在提高质量并最大限度地提升能效](https://www.3dmgame.com/news/202409/3904228.html)
+

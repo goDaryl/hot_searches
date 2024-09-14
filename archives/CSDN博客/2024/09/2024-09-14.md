@@ -191,3 +191,5 @@
 
 + [提示词工程与 AI 使用的紧密关系](https://blog.csdn.net/sixpp/article/details/142248954)
 
++ [五大注入攻击网络安全类型介绍](https://blog.csdn.net/jayjaydream/article/details/142198954)
+
