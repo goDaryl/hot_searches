@@ -147,3 +147,9 @@
 
 + [MinIO【部署 02】Linux集群版本及Windows单机版、单机多目录版、分布式版（cmd启动脚本及winsw脚本分享）](https://blog.csdn.net/weixin_39168541/article/details/142208862)
 
++ [孙怡带你深度学习（1）--神经网络](https://blog.csdn.net/m0_74896766/article/details/142235273)
+
++ [使用 Elastic 和 LM Studio 的 Herding Llama 3.1](https://blog.csdn.net/UbuntuTouch/article/details/142204808)
+
++ [️ Connection timed out while trying to connect to the Docker daemon socket：连接 Docker 守护进程超时完美解决方法](https://blog.csdn.net/qq_42055933/article/details/142030327)
+

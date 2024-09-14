@@ -33,3 +33,5 @@
 
 + [苹果硬件技术高级副总裁 Johny Srouji：Apple 智能促使 iPhone 16 系列手机全系标配 8GB 内存](https://m.ithome.com/html/795741.htm)
 
++ [10 点再补货：苹果 iPhone 16 / Pro 系列手机京东预售](https://m.ithome.com/html/795662.htm)
+
