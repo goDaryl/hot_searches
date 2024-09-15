@@ -151,3 +151,9 @@
 
 + [华硕技嘉已注册大量Z890主板 分别有29款和18款](https://www.3dmgame.com/news/202409/3904257.html)
 
++ [《变形金刚：起源》中秋假期点映 首日口碑普遍叫好](https://www.3dmgame.com/news/202409/3904260.html)
+
++ [丰田章男将到访现代汽车总部 向后者“取经”电动化转型](https://www.3dmgame.com/news/202409/3904259.html)
+
++ [《赛博朋克2077》AMD FSR 3测试 整体令人失望](https://www.3dmgame.com/news/202409/3904258.html)
+
