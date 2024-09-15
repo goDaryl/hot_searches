@@ -129,3 +129,5 @@
 
 + [开源大数据Hadoop伪分布式搭建及虚拟机的创建](https://blog.csdn.net/Morpheus_Luen/article/details/142219056)
 
++ [孙怡带你深度学习（1）--神经网络](https://blog.csdn.net/m0_74896766/article/details/142235273)
+

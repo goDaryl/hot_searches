@@ -41,3 +41,5 @@
 
 + [新型 Vo1d 恶意软件曝光，超130万台安卓电视设备已中招](https://www.freebuf.com/news/410913.html)
 
++ [CVE-2024-21096：MySQLDump提权漏洞分析](https://www.freebuf.com/vuls/411090.html)
+
