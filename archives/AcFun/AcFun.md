@@ -97,3 +97,5 @@
 
 + [这局怎么破？](http://www.acfun.cn/v/ac46253116)
 
++ [紫色果然很有韵味](http://www.acfun.cn/v/ac46253976)
+
