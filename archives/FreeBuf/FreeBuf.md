@@ -51,3 +51,5 @@
 
 + [WordPress GiveWP 插件远程命令执行漏洞0day(CVE-2024-5932)](https://www.freebuf.com/vuls/409941.html)
 
++ [靶场战神为何会陨落？](https://www.freebuf.com/articles/network/410153.html)
+

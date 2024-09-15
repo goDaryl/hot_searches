@@ -35,3 +35,7 @@
 
 + [苹果 iPhone 16 Pro 跑分再曝光，A18 Pro 多核性能超 M1 芯片](https://m.ithome.com/html/796026.htm)
 
++ [特斯拉 Semi 电动卡车起火，用了 200 吨水才灭掉](https://m.ithome.com/html/796012.htm)
+
++ [蔚来行政旗舰轿车 ET9 最新实车谍照曝光，车身姿态比官图更低](https://m.ithome.com/html/795982.htm)
+
