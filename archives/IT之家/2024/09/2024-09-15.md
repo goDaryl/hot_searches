@@ -29,3 +29,5 @@
 
 + [6159 元：苹果 M3 版 MacBook Air 13 英寸京东新低（官网 8999 元）](https://m.ithome.com/html/796001.htm)
 
++ [5359 元：苹果 M2 版 MacBook Air 13 英寸京东新低（官网 7999 元）](https://m.ithome.com/html/795999.htm)
+

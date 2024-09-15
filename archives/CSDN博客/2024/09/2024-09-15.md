@@ -131,3 +131,7 @@
 
 + [孙怡带你深度学习（1）--神经网络](https://blog.csdn.net/m0_74896766/article/details/142235273)
 
++ [JVM 调优篇7 调优案例1-堆空间的优化解决](https://blog.csdn.net/u011066470/article/details/142265939)
+
++ [外包干了半年，快要废了。。。](https://blog.csdn.net/YJT1002/article/details/142209977)
+
