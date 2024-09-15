@@ -191,3 +191,9 @@
 
 + [[苍穹外卖]-11数据可视化接口开发](https://blog.csdn.net/CSDN20221005/article/details/142256827)
 
++ [SpringBoot：token是用来鉴权的，那session的作用是什么？](https://blog.csdn.net/A79800/article/details/142257355)
+
++ [【MySQL】MySQL索引与事务的透析——（超详解）](https://blog.csdn.net/GGBond778/article/details/142281916)
+
++ [SpringBoot权限认证-Sa-Token的使用与详解](https://blog.csdn.net/weixin_41793160/article/details/142236580)
+
