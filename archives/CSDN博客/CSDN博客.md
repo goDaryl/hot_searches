@@ -141,3 +141,5 @@
 
 + [滚雪球学SpringCloud[4.1讲]： Spring Cloud Gateway详解](https://blog.csdn.net/weixin_43970743/article/details/141143708)
 
++ [快手自研Spark向量化引擎正式发布，性能提升200%](https://blog.csdn.net/kuaishoutech/article/details/142261739)
+
