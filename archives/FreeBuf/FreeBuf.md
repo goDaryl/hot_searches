@@ -49,3 +49,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/410969.html)
 
++ [WordPress GiveWP 插件远程命令执行漏洞0day(CVE-2024-5932)](https://www.freebuf.com/vuls/409941.html)
+
