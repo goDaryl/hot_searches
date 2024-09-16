@@ -161,3 +161,5 @@
 
 + [福布斯：游戏科学估值直逼育碧市值](https://www.3dmgame.com/news/202409/3904292.html)
 
++ [《Melobot - A Last Song》Steam发售 国区售价58元](https://www.3dmgame.com/news/202409/3904294.html)
+
