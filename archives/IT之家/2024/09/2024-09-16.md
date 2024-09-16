@@ -55,3 +55,9 @@
 
 + [腾讯 CEO 马化腾重回中国首富，张一鸣、钟睒睒分列第二、第三名](https://m.ithome.com/html/796288.htm)
 
++ [台风“贝碧嘉”经过，上海所有苹果 Apple Store 零售店今日关闭](https://m.ithome.com/html/796229.htm)
+
++ [不敌“真・牙膏厂”，英特尔市值被高露洁超越](https://m.ithome.com/html/796262.htm)
+
++ [网友使用华为 Mate XT 非凡大师三折叠手机实现裸眼 3D 效果，类似广场大屏](https://m.ithome.com/html/796239.htm)
+
