@@ -105,3 +105,11 @@
 
 + [Project Management - Dashboard](https://dribbble.com/shots/)
 
++ [The Xtrade - UI/UX Design for cryptocurrency trading website](https://dribbble.com/shots/)
+
++ [Hannah illustrations](https://dribbble.com/shots/)
+
++ [Davis- Attorney Finding Website](https://dribbble.com/shots/)
+
++ [XCHAIN - logo for Crypto Technology](https://dribbble.com/shots/)
+

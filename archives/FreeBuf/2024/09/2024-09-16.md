@@ -51,3 +51,5 @@
 
 + [一个简单的邮件钓鱼的分析](https://www.freebuf.com/defense/410474.html)
 
++ [SessionExec：一款针对会话安全的安全命令测试工具](https://www.freebuf.com/sectool/410476.html)
+
