@@ -69,3 +69,11 @@
 
 + [宅女，变身。^  ·̫  ^](http://www.acfun.cn/v/ac46255752)
 
++ [自动扶梯是如何工作的，3D动画直观展示其原理，真是鬼才设计](http://www.acfun.cn/v/ac46255681)
+
++ [来自旧时代残党的风暴AK](http://www.acfun.cn/v/ac46256467)
+
++ [卡内洛·阿瓦雷兹 vs 埃德加·贝尔兰加](http://www.acfun.cn/v/ac46255636)
+
++ [↓PRECIPITATION↓](http://www.acfun.cn/v/ac46254394)
+
