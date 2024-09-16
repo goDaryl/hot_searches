@@ -157,3 +157,7 @@
 
 + [《OpenHV》发布版本更新 加入单人与多人游戏地图](https://www.3dmgame.com/news/202409/3904290.html)
 
++ [《盖瑞的模组》被吉尼斯认证为最畅销PC独占游戏](https://www.3dmgame.com/news/202409/3904293.html)
+
++ [福布斯：游戏科学估值直逼育碧市值](https://www.3dmgame.com/news/202409/3904292.html)
+
