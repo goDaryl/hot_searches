@@ -49,3 +49,5 @@
 
 + [英特尔表明诚意，部分酷睿 i9-13900K 用户可获得全额 RMA 退款或免费升级 14900K](https://m.ithome.com/html/796219.htm)
 
++ [华为 WATCH GT5 智能手表开箱视频曝光：银白表圈 + 蓝色表带、家族式功能旋钮表冠](https://m.ithome.com/html/796226.htm)
+

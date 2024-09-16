@@ -147,3 +147,13 @@
 
 + [《文明7》公布古代时期细节 相比前作拥有大量变化](https://www.3dmgame.com/news/202409/3904280.html)
 
++ [育碧声明《刺客信条：影》将充分尊重日本文化](https://www.3dmgame.com/news/202409/3904291.html)
+
++ [苹果确认欧盟的iPad用户可通过第三方下载APP 9月16日起实行](https://www.3dmgame.com/news/202409/3904287.html)
+
++ [玩家自制《血源》重制版视频显示项目最新进展情况](https://www.3dmgame.com/news/202409/3904288.html)
+
++ [《Monster High之骷髅终极秘密》Steam页面上线 10月29日发售](https://www.3dmgame.com/news/202409/3904289.html)
+
++ [《OpenHV》发布版本更新 加入单人与多人游戏地图](https://www.3dmgame.com/news/202409/3904290.html)
+
