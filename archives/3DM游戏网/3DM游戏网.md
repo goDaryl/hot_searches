@@ -105,3 +105,5 @@
 
 + [《DOTA2》TI13液体夺冠 晋级TI双冠俱乐部殿堂](https://www.3dmgame.com/news/202409/3904265.html)
 
++ [《龙腾世纪：影障守护者》Steam预购量可能不太妙](https://www.3dmgame.com/news/202409/3904266.html)
+
