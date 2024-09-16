@@ -129,3 +129,5 @@
 
 + [治愈向养成放置游戏《许愿岛》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904274.html)
 
++ [百度联盟大会发布首个智能体联盟解决方案](https://www.3dmgame.com/news/202409/3904278.html)
+

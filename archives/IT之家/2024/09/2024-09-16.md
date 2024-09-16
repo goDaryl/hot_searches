@@ -41,3 +41,5 @@
 
 + [小米 Redmi K80 / Pro 系列手机入网，搭骁龙 8 Gen 3/4 处理器](https://m.ithome.com/html/796173.htm)
 
++ [国家金融监督管理总局重庆监管局：核准重庆小米消费金融有限公司开展资产证券化业务资格](https://m.ithome.com/html/796096.htm)
+
