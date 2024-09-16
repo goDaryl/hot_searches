@@ -163,3 +163,13 @@
 
 + [Ampersand 3D Logo](https://dribbble.com/shots/)
 
++ [Solufacil](https://dribbble.com/shots/)
+
++ [KoyoteByte](https://dribbble.com/shots/)
+
++ [Authentication with Clerk](https://dribbble.com/shots/)
+
++ [Kaza Swap - Home Exchange Website](https://dribbble.com/shots/)
+
++ [Dashboard for a Management SaaS ✦ Kover](https://dribbble.com/shots/)
+
