@@ -141,3 +141,11 @@
 
 + [《宇宙机器人》首发周美国PS5平台游戏销量排名第二](https://www.3dmgame.com/news/202409/3904313.html)
 
++ [意大利称查获价值5000万欧元“小霸王”主机和游戏](https://www.3dmgame.com/news/202409/3904325.html)
+
++ [传言称Meta Quest 3S即将取消3.5毫米耳机插孔](https://www.3dmgame.com/news/202409/3904324.html)
+
++ [分析师称《黑神话》DLC春节发售：销量只有本体20%](https://www.3dmgame.com/news/202409/3904323.html)
+
++ [《Gorecam》Steam页面上线 合作废墟恐怖探索](https://www.3dmgame.com/news/202409/3904322.html)
+
