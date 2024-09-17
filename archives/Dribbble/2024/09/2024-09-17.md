@@ -87,3 +87,13 @@
 
 + [Share modal — Untitled UI](https://dribbble.com/shots/)
 
++ [Aruna - Real Estate Details Page](https://dribbble.com/shots/)
+
++ [File Manager Mobile App : My Files 🗂️](https://dribbble.com/shots/)
+
++ [Tiimi - Add New Contract: Payment Details in SaaS HR Management](https://dribbble.com/shots/)
+
++ [Kube : Architecture Agency - Visual Identity](https://dribbble.com/shots/)
+
++ [Blaster UI Aesthetic](https://dribbble.com/shots/)
+

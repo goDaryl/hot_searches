@@ -159,3 +159,9 @@
 
 + [《乐高地平线大冒险》获ESRB评级 或将于年内发售](https://www.3dmgame.com/news/202409/3904330.html)
 
++ [IBM起诉手游厂商Zynga专利侵权胜诉 获赔千万美元](https://www.3dmgame.com/news/202409/3904333.html)
+
++ [Intel CEO宣布40年来最重要转型 降本增效计划启动](https://www.3dmgame.com/news/202409/3904332.html)
+
++ [《火车场建造者》登陆Steam 自由火车经营模拟](https://www.3dmgame.com/news/202409/3904331.html)
+
