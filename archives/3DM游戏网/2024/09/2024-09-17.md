@@ -123,3 +123,21 @@
 
 + [《星空》“破碎空间”扩展包9分钟深度预览视频](https://www.3dmgame.com/news/202409/3904306.html)
 
++ [《最终幻想16》PC版今晚解锁 吉田呼吁不要制作冒犯性MOD](https://www.3dmgame.com/news/202409/3904321.html)
+
++ [《毁灭战士》和《空手道》创作者畅谈游戏历史保护](https://www.3dmgame.com/news/202409/3904317.html)
+
++ [iPhone 16首周末销量下降12.7% 苹果供应链哀鸿遍野](https://www.3dmgame.com/news/202409/3904320.html)
+
++ [《永恒空间2》首个大型DLC泰坦上线 大量新内容](https://www.3dmgame.com/news/202409/3904319.html)
+
++ [魔法大混战 《FAIRY TAIL 爆裂沙滩排球》正式发售](https://www.3dmgame.com/news/202409/3904318.html)
+
++ [《丧尸围城：豪华复刻版》故事预告 PC配置公开](https://www.3dmgame.com/news/202409/3904315.html)
+
++ [未来的游戏PC推想 日本大学发明发光会冷却物质](https://www.3dmgame.com/news/202409/3904316.html)
+
++ [《超自然车旅》发布大型更新档 加入不同难度设定](https://www.3dmgame.com/news/202409/3904314.html)
+
++ [《宇宙机器人》首发周美国PS5平台游戏销量排名第二](https://www.3dmgame.com/news/202409/3904313.html)
+
