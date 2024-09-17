@@ -105,3 +105,11 @@
 
 + [Chomp](https://dribbble.com/shots/)
 
++ [Essence Beauty Service App Case Study](https://dribbble.com/shots/)
+
++ [3D Illustration And Animation For Hyundai](https://dribbble.com/shots/)
+
++ [Crypto Wallet App](https://dribbble.com/shots/)
+
++ [Timeless - Saas Marketing Landing Page](https://dribbble.com/shots/)
+
