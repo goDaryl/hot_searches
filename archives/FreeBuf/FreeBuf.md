@@ -53,3 +53,7 @@
 
 + [Microsoft Edge 远程命令执行漏洞学习(CVE-2018-8495)](https://www.freebuf.com/vuls/407986.html)
 
++ [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
+
++ [如何使用CODASM编码Payload并降低熵值](https://www.freebuf.com/sectool/410478.html)
+

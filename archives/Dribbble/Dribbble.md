@@ -97,3 +97,11 @@
 
 + [Blaster UI Aesthetic](https://dribbble.com/shots/)
 
++ [Edeals Insurance Website 2024](https://dribbble.com/shots/)
+
++ [Modular Blocks Landing Page Creator for SaaS Products](https://dribbble.com/shots/)
+
++ [E-commerce Website Design](https://dribbble.com/shots/)
+
++ [Chomp](https://dribbble.com/shots/)
+

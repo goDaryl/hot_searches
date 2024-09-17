@@ -165,3 +165,13 @@
 
 + [《火车场建造者》登陆Steam 自由火车经营模拟](https://www.3dmgame.com/news/202409/3904331.html)
 
++ [分析人士认为PS5 Pro将通过限制预购来应对黄牛](https://www.3dmgame.com/news/202409/3904338.html)
+
++ [前Bungie律师：工作室长期管理不善都靠索尼“打醒”](https://www.3dmgame.com/news/202409/3904337.html)
+
++ [免费手游《迪士尼像素RPG》 10月7日开启运营](https://www.3dmgame.com/news/202409/3904336.html)
+
++ [女生晒中秋悟空月饼 网友：一会儿肚子里就有人喊嫂嫂了](https://www.3dmgame.com/news/202409/3904335.html)
+
++ [日本PC玩家无缘《合金装备崛起：复仇》 科乐美致歉](https://www.3dmgame.com/news/202409/3904334.html)
+
