@@ -71,3 +71,21 @@
 
 + [120秒学会8种旅行转场，秒变【氛围感之神】！](http://www.acfun.cn/v/ac46257612)
 
++ [【4K MMD】萌力十足 超可爱Sour式制服MIKU酱「ポジティブ・パレード」](http://www.acfun.cn/v/ac46259690)
+
++ [【MMD】シネマ/电影【千岛】](http://www.acfun.cn/v/ac46259944)
+
++ [别眨眼！中国消防员真的会“飞”](http://www.acfun.cn/v/ac46256378)
+
++ [又伤心了吧 谁叫你平时只聊一个](http://www.acfun.cn/v/ac46256807)
+
++ [超硬核！我们拆了一只“机器狗”](http://www.acfun.cn/v/ac46256386)
+
++ [【4K MMD】娇柔可人 俏皮白网眼镜娘兔兔MIKU「メロメロイド」](http://www.acfun.cn/v/ac46259536)
+
++ [【朗兄食记】乡村婚礼晚宴之猪脚姜与炖鸡](http://www.acfun.cn/v/ac46258520)
+
++ [嘿伙计，需要重启人生吗？](http://www.acfun.cn/v/ac46259357)
+
++ [【猪肝来也】清唱『Long D』爱上钟声是我的命中注定](http://www.acfun.cn/v/ac46259449)
+

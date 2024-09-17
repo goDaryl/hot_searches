@@ -139,3 +139,9 @@
 
 + [【C++】【网络】【Linux系统编程】单例模式，加锁封装TCP/IP协议套接字](https://blog.csdn.net/2301_79796701/article/details/142301935)
 
++ [网络安全（黑客技术）2024年三个月自学手册](https://blog.csdn.net/2401_85026116/article/details/142251709)
+
++ [窗口嵌入桌面背景层（vb.net，高考倒计时特供版）](https://blog.csdn.net/weixin_56050945/article/details/142291258)
+
++ [Android中的冷启动，热启动和温启动](https://blog.csdn.net/ChenYiRan123456/article/details/142287168)
+
