@@ -51,3 +51,9 @@
 
 + [苹果代码曝光新一代 Mac mini：将配备五个 USB-C 接口](https://m.ithome.com/html/796327.htm)
 
++ [“还我妈生相册”，苹果 iOS 18 正式版被网友吐槽“丑”上热搜](https://m.ithome.com/html/796406.htm)
+
++ [消息称《黑神话：悟空》首个 DLC 将于 2025 农历新年左右推出](https://m.ithome.com/html/796402.htm)
+
++ [美诚天猫、抖音旗舰店已下架所有月饼产品](https://m.ithome.com/html/796395.htm)
+
