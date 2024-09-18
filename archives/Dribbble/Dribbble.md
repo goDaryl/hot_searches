@@ -73,3 +73,5 @@
 
 + [wisely logo](https://dribbble.com/shots/)
 
++ [HST Magazine - AI and the world of work.](https://dribbble.com/shots/)
+
