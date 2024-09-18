@@ -51,3 +51,5 @@
 
 + [苹果 iOS / iPadOS 18.1 开发者预览版 Beta 4 发布：支持通话录音、暂停视频录制、增强 Siri 建议等](https://m.ithome.com/html/796439.htm)
 
++ [奥迪关厂事件引发汽车工人抗议，超 5000 人聚集布鲁塞尔示威](https://m.ithome.com/html/796435.htm)
+
