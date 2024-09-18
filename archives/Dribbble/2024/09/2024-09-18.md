@@ -99,3 +99,11 @@
 
 + [Modern Gradient Logo Design (Unused for Sale)](https://dribbble.com/shots/)
 
++ [Voice AI Assistant Motion Visual (Sound On)](https://dribbble.com/shots/)
+
++ [AI Alarm](https://dribbble.com/shots/)
+
++ [Athleticon Fitness Training Website 2024](https://dribbble.com/shots/)
+
++ [Good Hotels boutique hotels chain logo design: GH monogram halo](https://dribbble.com/shots/)
+
