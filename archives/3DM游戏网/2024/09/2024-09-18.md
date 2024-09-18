@@ -167,3 +167,13 @@
 
 + [《死神：魂魄觉醒》十番队队长日番谷冬狮郎角色预告](https://www.3dmgame.com/news/202409/3904366.html)
 
++ [《文明7》七大文明新细节 埃及希腊玛雅罗马等](https://www.3dmgame.com/news/202409/3904377.html)
+
++ [《荒野守护者崛起》Steam上线 幻想风肉鸽射击](https://www.3dmgame.com/news/202409/3904376.html)
+
++ [《星空》DLC剧情发生在一个星球上 完全手工打造](https://www.3dmgame.com/news/202409/3904375.html)
+
++ [EA免费游戏《滑板》2025年初开启抢先体验 主机测试今秋开始](https://www.3dmgame.com/news/202409/3904374.html)
+
++ [新《战地》2025年初举行大规模测试 内侧已超过一年](https://www.3dmgame.com/news/202409/3904373.html)
+
