@@ -35,3 +35,7 @@
 
 + [苹果 iPhone 16 / Pro 系列被曝配 RecoveryOS：遇故障后可借助另一台 iPhone 无线恢复](https://m.ithome.com/html/796456.htm)
 
++ [空调刺客，是怎么戳伤打工人钱包的](https://m.ithome.com/html/796422.htm)
+
++ [9 月 20 日前可申请，华为鸿蒙 HarmonyOS NEXT Beta 版用户招募报名时间延长](https://m.ithome.com/html/796400.htm)
+
