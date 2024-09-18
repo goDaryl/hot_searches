@@ -143,3 +143,9 @@
 
 + [Cute Puppy Dog🐶🛵🎈](https://dribbble.com/shots/)
 
++ [Amplemarket Logo Construction](https://dribbble.com/shots/)
+
++ [Quokka Mascot](https://dribbble.com/shots/)
+
++ [The Jester](https://dribbble.com/shots/)
+
