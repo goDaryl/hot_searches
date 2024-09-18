@@ -75,3 +75,7 @@
 
 + [HST Magazine - AI and the world of work.](https://dribbble.com/shots/)
 
++ [Crypto Dashboard Design for Cross Chain Protocol](https://dribbble.com/shots/)
+
++ [Daily Logo Challenge #6 - Coffee Shop Logo](https://dribbble.com/shots/)
+
