@@ -151,3 +151,19 @@
 
 + [电子朋克冒险游戏《火车：闪电风暴》预告 曾因资金短缺被冻结](https://www.3dmgame.com/news/202401/3886305.html)
 
++ [《最终幻想16》Steam多半好评 优化问题反应较多](https://www.3dmgame.com/news/202409/3904372.html)
+
++ [爆料者发现PC版《荒野大镖客：救赎》Steam信息](https://www.3dmgame.com/news/202409/3904367.html)
+
++ [EA确认《星球大战绝地》三部曲终章已在开发中](https://www.3dmgame.com/news/202409/3904368.html)
+
++ [《星球大战绝地》两作迄今为止已有超过4000万玩家](https://www.3dmgame.com/news/202409/3904369.html)
+
++ [《黎明杀机》衍生作品《Project T》已被取消](https://www.3dmgame.com/news/202409/3904370.html)
+
++ [EA首席执行官表示AI现在是“我们业务的核心”](https://www.3dmgame.com/news/202409/3904371.html)
+
++ [漫画改编《神探狗狗》动画电影明年1月31日上映](https://www.3dmgame.com/news/202409/3904365.html)
+
++ [《死神：魂魄觉醒》十番队队长日番谷冬狮郎角色预告](https://www.3dmgame.com/news/202409/3904366.html)
+
