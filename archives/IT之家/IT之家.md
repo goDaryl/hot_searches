@@ -33,3 +33,5 @@
 
 + [消息称苹果包下台积电 2nm 首批产能，用于 iPhone 17 Pro 系列手机](https://m.ithome.com/html/796397.htm)
 
++ [苹果 iPhone 16 / Pro 系列被曝配 RecoveryOS：遇故障后可借助另一台 iPhone 无线恢复](https://m.ithome.com/html/796456.htm)
+

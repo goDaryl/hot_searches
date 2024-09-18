@@ -79,3 +79,13 @@
 
 + [Daily Logo Challenge #6 - Coffee Shop Logo](https://dribbble.com/shots/)
 
++ [Emura Studio - Brand Implementation](https://dribbble.com/shots/)
+
++ [AturnDeck - Task & Project Management Dashboard](https://dribbble.com/shots/)
+
++ [Trenning - Create Learning Path: Assign Learners in SaaS LMS](https://dribbble.com/shots/)
+
++ [Dashboard File Manager Component](https://dribbble.com/shots/)
+
++ [News Mobile App Design - Post Article Page](https://dribbble.com/shots/)
+
