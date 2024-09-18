@@ -251,3 +251,27 @@
 
 + [桂正和《银翼超人》真人剧最新主艺图公布 10月22日开播](https://www.3dmgame.com/news/202409/3904411.html)
 
++ [ATLUS新作《暗喻幻想：ReFantazio》介绍支持主角的支援者“支持者”们](https://www.3dmgame.com/news/202409/3904426.html)
+
++ [《龙之信条2》全版本六折促销 两小时免费试玩开启](https://www.3dmgame.com/news/202409/3904424.html)
+
++ [《超级猴子球 香蕉大乱斗》将与Dole进行联动 香蕉将变身为 Dole 联动活动专属样式！](https://www.3dmgame.com/news/202409/3904425.html)
+
++ [《暗喻幻想》最新资讯公开：介绍旅行中的乐趣和目的地以及未知的岛屿“维尔加岛”](https://www.3dmgame.com/news/202409/3904423.html)
+
++ [《星鸣特攻》下线后仍有PS5玩家“完成”白金奖杯 打破69人白金纪录](https://www.3dmgame.com/news/202409/3904422.html)
+
++ [《战地》新作登录Switch 2？负责人：如果可能当然愿意](https://www.3dmgame.com/news/202409/3904421.html)
+
++ [《街头霸王6》新角色“特瑞”角色指南 9月24日上线](https://www.3dmgame.com/news/202409/3904416.html)
+
++ [新作《死亡终局：轮回试炼3》正在开发中 发售日期待定](https://www.3dmgame.com/news/202409/3904420.html)
+
++ [《冰汽时代2》上线预告片中文版 标志版21日发售](https://www.3dmgame.com/news/202409/3904419.html)
+
++ [《寂静岭2》重制新作涩谷宣传造势 10月8日发售在即](https://www.3dmgame.com/news/202409/3904418.html)
+
++ [《死亡岛2》Steam国区售价下调 标准版永降42元](https://www.3dmgame.com/news/202409/3904417.html)
+
++ [《我独自升级》第二季动画2025年1月开播 特别编集剧场版预告公布](https://www.3dmgame.com/news/202409/3904415.html)
+
