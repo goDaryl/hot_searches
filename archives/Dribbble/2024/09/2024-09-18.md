@@ -107,3 +107,17 @@
 
 + [Good Hotels boutique hotels chain logo design: GH monogram halo](https://dribbble.com/shots/)
 
++ ["Chelmon Rostratus" - Daily art, NFT art](https://dribbble.com/shots/)
+
++ [2D Concept Illustration For Hyundai](https://dribbble.com/shots/)
+
++ [Macbook Free Mockup - 14 inch](https://dribbble.com/shots/)
+
++ [Assemble Jiu Jitsu Academy - Letter A Monogram Logo Design](https://dribbble.com/shots/)
+
++ [Real estate mobile website](https://dribbble.com/shots/)
+
++ [XCHAIN – Cutting-Edge Blockchain Explorer](https://dribbble.com/shots/)
+
++ [Geometric Falcon Logo](https://dribbble.com/shots/)
+
