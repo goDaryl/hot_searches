@@ -79,3 +79,23 @@
 
 + [RoamPass](https://dribbble.com/shots/)
 
++ [UI/UX Design for Cryptocurrency Trading Platform](https://dribbble.com/shots/)
+
++ [Grain-to-glass](https://dribbble.com/shots/)
+
++ [Campaign Saas Web App Dashboard - Recent Campaign](https://dribbble.com/shots/)
+
++ [trafex - design concept](https://dribbble.com/shots/)
+
++ [Mobile Fitness Component](https://dribbble.com/shots/)
+
++ [Athleticon Fitness Training Webapp 2024](https://dribbble.com/shots/)
+
++ [Identity - Find Sport Buddy Landing Page](https://dribbble.com/shots/)
+
++ [Rental Booking Service](https://dribbble.com/shots/)
+
++ [Branding For Catering Company - Wild Cats Seattle](https://dribbble.com/shots/)
+
++ [Tiimi - Announcement Feed in a SaaS HR Management System](https://dribbble.com/shots/)
+

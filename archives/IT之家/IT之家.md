@@ -47,3 +47,7 @@
 
 + [消息称“子系”骁龙 8 Gen4 系列新机电池最大容量为 6500mAh±](https://m.ithome.com/html/796546.htm)
 
++ [索尼第一方游戏《战神：诸神黄昏》发售，国区预购价 398 元起](https://m.ithome.com/html/796685.htm)
+
++ [消息称荣耀有三折叠手机的商用量产计划，小米“暂时没听说”](https://m.ithome.com/html/796627.htm)
+
