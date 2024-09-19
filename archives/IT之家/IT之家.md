@@ -33,3 +33,5 @@
 
 + [苹果称 iPhone 16 系列更易于维修：电池更易更换、零件兼容性更强](https://m.ithome.com/html/796665.htm)
 
++ [任天堂 Switch 2 掌机第三方效果图曝光，爆料称与官方设计相符](https://m.ithome.com/html/796664.htm)
+

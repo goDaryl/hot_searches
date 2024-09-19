@@ -201,3 +201,17 @@
 
 + [《寂静之地：前方之路》开发日记详细介绍潜行玩法](https://www.3dmgame.com/news/202409/3904459.html)
 
++ [Switch2效果图和实物图疑曝光 大屏幕12GB内存](https://www.3dmgame.com/news/202409/3904465.html)
+
++ [Take Two年度报告：《GTA6》仍将于2025年秋季发售](https://www.3dmgame.com/news/202409/3904467.html)
+
++ [《我的世界》开发商将于明年3月终止对PS VR设备的支持](https://www.3dmgame.com/news/202409/3904468.html)
+
++ [任天堂和宝可梦公司正式起诉《幻兽帕鲁》侵权](https://www.3dmgame.com/news/202409/3904466.html)
+
++ [CDPR向左转！奖学金和导师项目排除男性](https://www.3dmgame.com/news/202409/3904464.html)
+
++ [《最终幻想16》Steam峰值2.2万 不及《最终幻想15》](https://www.3dmgame.com/news/202409/3904462.html)
+
++ [《黑豹》游戏采用开创性新技术 或有类复仇女神系统](https://www.3dmgame.com/news/202409/3904463.html)
+

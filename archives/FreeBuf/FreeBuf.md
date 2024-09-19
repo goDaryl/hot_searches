@@ -43,3 +43,7 @@
 
 + [BlackByte利用“旧战术”+“新漏洞”助力新一轮攻击](https://www.freebuf.com/news/409992.html)
 
++ [电力企业 | 安全建设框架](https://www.freebuf.com/articles/es/410967.html)
+
++ [FreeBuf早报 | Temu否认黑客窃取8700万用户数据；黎多地发生寻呼机爆炸事件](https://www.freebuf.com/news/411194.html)
+
