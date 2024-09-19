@@ -61,3 +61,5 @@
 
 + [小米 SU7 汽车获推澎湃 HyperOS 1.3.0 升级：支持城市领航辅助、优化“小路通行”功能](https://m.ithome.com/html/796746.htm)
 
++ [郭明錤：苹果 iPhone 17 系列采用 3 纳米处理器，部分 iPhone 18 机型采用 2 纳米处理器](https://m.ithome.com/html/796863.htm)
+
