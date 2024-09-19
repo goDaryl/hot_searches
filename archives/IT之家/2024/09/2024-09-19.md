@@ -63,3 +63,7 @@
 
 + [郭明錤：苹果 iPhone 17 系列采用 3 纳米处理器，部分 iPhone 18 机型采用 2 纳米处理器](https://m.ithome.com/html/796863.htm)
 
++ [微信宣布朋友圈可发实况照片，功能逐步覆盖苹果 iOS 8.0.51 及以上版本](https://m.ithome.com/html/796915.htm)
+
++ [与辉同行直播售卖的“澳门葡记月饼”被曝产自珠海，生产商称在澳注册商标但无门店](https://m.ithome.com/html/796859.htm)
+
