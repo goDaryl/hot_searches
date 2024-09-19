@@ -29,3 +29,7 @@
 
 + [华为 WATCH GT5 Pro 智能手表外观曝光：棱角表圈 + 双色拼接刻度，提供金属表带款](https://m.ithome.com/html/796650.htm)
 
++ [安徽省肥东县发生 4.7 级地震，“中国地震台网”小程序向超 12 万人推送预警](https://m.ithome.com/html/796673.htm)
+
++ [苹果称 iPhone 16 系列更易于维修：电池更易更换、零件兼容性更强](https://m.ithome.com/html/796665.htm)
+
