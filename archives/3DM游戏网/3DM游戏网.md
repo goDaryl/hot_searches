@@ -215,3 +215,27 @@
 
 + [《黑豹》游戏采用开创性新技术 或有类复仇女神系统](https://www.3dmgame.com/news/202409/3904463.html)
 
++ [《战神：诸神黄昏》PC获两个新功能 主机还要再等等](https://www.3dmgame.com/news/202409/3904480.html)
+
++ [赛博朋克风回合制节奏战斗游戏《Keylocker》现已正式推出 并获好评](https://www.3dmgame.com/news/202409/3904479.html)
+
++ [讲谈社新作《杀手寓言 Manga Build Roguelike》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202409/3904478.html)
+
++ [《暗黑破坏神4》佣兵系统介绍 强大伙伴陪你战斗](https://www.3dmgame.com/news/202409/3904477.html)
+
++ [奇幻恐怖FPS《颓废》公布全新故事预告 游戏已登录Steam平台](https://www.3dmgame.com/news/202409/3904474.html)
+
++ [《电锯甜心RePOP》胸部缺抖动被吐槽 官方称马上改](https://www.3dmgame.com/news/202409/3904473.html)
+
++ [《浪漫沙加2：七英雄的复仇》试玩版发布 存档数据可继承](https://www.3dmgame.com/news/202409/3904472.html)
+
++ [《最终幻想 XVI》,《战神：诸神黄昏》等游戏发布并借助DLSS 3提升性能](https://www.3dmgame.com/news/202409/3904471.html)
+
++ [生物朋克恐怖冒险游戏《被窃世界之城》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904475.html)
+
++ [新《战地》全新细节：设定在2030年前 地点包括美国本土](https://www.3dmgame.com/news/202409/3904476.html)
+
++ [动画改编动作冒险游戏《奇迹少女：巴黎围攻》Steam页面上线 10月26日发售](https://www.3dmgame.com/news/202409/3904469.html)
+
++ [下一部《变形金刚》真人电影将和《特种部队》联动 更关注机器人视角](https://www.3dmgame.com/news/202409/3904470.html)
+

@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | Temu否认黑客窃取8700万用户数据；黎多地发生寻呼机爆炸事件](https://www.freebuf.com/news/411194.html)
 
++ [对BP机发起网络攻击，为什么可以制造全国性大爆炸？](https://www.freebuf.com/news/411206.html)
+
