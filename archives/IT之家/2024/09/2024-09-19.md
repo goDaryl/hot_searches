@@ -43,3 +43,7 @@
 
 + [三只羊全面复播，设置仅粉丝可以评论](https://m.ithome.com/html/796754.htm)
 
++ [铁路部门回应“上百人有票没座”：工作出现疏漏，已采取安置空闲座位等措施](https://m.ithome.com/html/796638.htm)
+
++ [消息称“子系”骁龙 8 Gen4 系列新机电池最大容量为 6500mAh±](https://m.ithome.com/html/796546.htm)
+

@@ -169,3 +169,7 @@
 
 + [Spring Boot 中 ES索引刷新策略：RefreshPolicy详解](https://blog.csdn.net/lilinhai548/article/details/142285622)
 
++ [【深度学习】（2）--PyTorch框架认识](https://blog.csdn.net/m0_74896766/article/details/142319893)
+
++ [华为OD七日集训第10期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/142322624)
+
