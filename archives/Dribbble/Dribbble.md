@@ -55,3 +55,15 @@
 
 + [Xerox PARC](https://dribbble.com/shots/)
 
++ [Game Player](https://dribbble.com/shots/)
+
++ [Its Friday!](https://dribbble.com/shots/)
+
++ [Wielki Pies Posters](https://dribbble.com/shots/)
+
++ [CRM Dashboard](https://dribbble.com/shots/)
+
++ [Dandelion Chocolate - Advent Calendar](https://dribbble.com/shots/)
+
++ [Native Materials: logotype](https://dribbble.com/shots/)
+
