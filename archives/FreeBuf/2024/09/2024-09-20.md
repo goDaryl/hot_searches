@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 黎巴嫩再发生爆炸事件；谷歌宣布启用NIST抗量子加密最新标准](https://www.freebuf.com/news/411262.html)
 
++ [全球多个知名社媒平台长期监视青少年儿童用户，每年赚取数十亿美元](https://www.freebuf.com/news/411354.html)
+
