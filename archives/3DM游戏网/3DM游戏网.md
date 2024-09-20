@@ -301,3 +301,5 @@
 
 + [《寂静岭2：重制版》主机版将是PS5限时独占一年](https://www.3dmgame.com/news/202409/3904615.html)
 
++ [《战锤40K：星际战士2》成欧洲首发销量第二好的游戏](https://www.3dmgame.com/news/202409/3904618.html)
+
