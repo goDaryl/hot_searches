@@ -65,3 +65,5 @@
 
 + [ISO27001安全管理体系落地、认证实践](https://www.freebuf.com/articles/security-management/394956.html)
 
++ [Meta、YouTube等巨头被曝长期监视未成年用户，牟利数十亿美元](https://www.freebuf.com/news/411354.html)
+
