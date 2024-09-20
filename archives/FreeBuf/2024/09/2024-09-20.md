@@ -61,3 +61,7 @@
 
 + [如何使用MyJWT测试你的JWT是否存在安全问题](https://www.freebuf.com/sectool/410497.html)
 
++ [Microsoft Edge 远程命令执行漏洞学习(CVE-2018-8495)](https://www.freebuf.com/vuls/407986.html)
+
++ [ISO27001安全管理体系落地、认证实践](https://www.freebuf.com/articles/security-management/394956.html)
+
