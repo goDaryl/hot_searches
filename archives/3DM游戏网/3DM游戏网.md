@@ -185,3 +185,11 @@
 
 + [腾讯《三角洲行动》代言人公布 吴彦祖喊你来创建角色](https://www.3dmgame.com/news/202409/3904548.html)
 
++ [关服游戏《风暴奇侠：前线》在《堡垒之夜》重获新生](https://www.3dmgame.com/news/202409/3904559.html)
+
++ [《龙腾世纪：影障守护者》角色定制被批太“正确” 出现变性手术伤疤](https://www.3dmgame.com/news/202409/3904560.html)
+
++ [复古街机游戏合集《UFO 50》现已正式推出 获特别好评](https://www.3dmgame.com/news/202409/3904561.html)
+
++ [《英雄传说：界之轨迹》新截图 温柔大姐姐们亮相](https://www.3dmgame.com/news/202409/3904562.html)
+
