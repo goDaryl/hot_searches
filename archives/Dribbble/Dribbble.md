@@ -101,3 +101,15 @@
 
 + [Tiimi - Candidate Hiring Details in SaaS HR Management System](https://dribbble.com/shots/)
 
++ [Quro crypto wallet](https://dribbble.com/shots/)
+
++ [Money, Time, Energy💵⏰🔋](https://dribbble.com/shots/)
+
++ [Nextwave - Digital Marketing Agency](https://dribbble.com/shots/)
+
++ [SKLLO - Fashion Studio Website](https://dribbble.com/shots/)
+
++ [Crypto Balance](https://dribbble.com/shots/)
+
++ [Meme coin design](https://dribbble.com/shots/)
+

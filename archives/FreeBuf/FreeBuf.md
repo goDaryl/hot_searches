@@ -59,3 +59,5 @@
 
 + [Meta、YouTube等社交巨头被曝长期监视未成年用户，牟利数十亿美元](https://www.freebuf.com/news/411354.html)
 
++ [如何使用MyJWT测试你的JWT是否存在安全问题](https://www.freebuf.com/sectool/410497.html)
+
