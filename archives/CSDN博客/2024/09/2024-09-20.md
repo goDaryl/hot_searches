@@ -127,3 +127,11 @@
 
 + [使用vite+react+ts+Ant Design开发后台管理项目（一）](https://blog.csdn.net/lbking666666/article/details/142330762)
 
++ [【Python篇】从零到精通：全面揭秘Scikit-Learn在机器学习中的绝妙应用](https://blog.csdn.net/2301_79849925/article/details/142331498)
+
++ [【机器学习】：深潜智能的底层逻辑、前沿探索与未来展望】](https://blog.csdn.net/2301_79181030/article/details/142369717)
+
++ [《中国数据库前世今生》纪录片观感：从古至今数据库的演变与未来](https://blog.csdn.net/m0_75058342/article/details/142361065)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/142324122)
+

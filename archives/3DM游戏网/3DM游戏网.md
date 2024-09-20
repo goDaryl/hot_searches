@@ -161,3 +161,27 @@
 
 + [网传《往日不再》重制版正在开发中](https://www.3dmgame.com/news/202409/3904540.html)
 
++ [网飞《细胞分裂》《鬼泣》《赛博朋克》动画集体发预告](https://www.3dmgame.com/news/202409/3904554.html)
+
++ [《浪漫沙加2：七英雄的复仇》新预告 画面更精致](https://www.3dmgame.com/news/202409/3904555.html)
+
++ [《战锤40K：战争黎明》系列推出周年纪念版 已拥有游戏的玩家可免费升级](https://www.3dmgame.com/news/202409/3904556.html)
+
++ [殖民模拟城市建造游戏《超宇宙站》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904558.html)
+
++ [Unity 6宣布10月17日在全球发布 历史“最佳”版本](https://www.3dmgame.com/news/202409/3904557.html)
+
++ [《黑神话》Steam销量2000万份 收入超9.61亿美元](https://www.3dmgame.com/news/202409/3904549.html)
+
++ [动作抢劫大片《贼巢2》曝预告 “陷落哥”回归](https://www.3dmgame.com/news/202409/3904550.html)
+
++ [索尼公布PlayStation 30周年纪念款PS5 Pro、数字版PS5和PS Portal](https://www.3dmgame.com/news/202409/3904552.html)
+
++ [《雨世界》DLC“守望者”新预告 宣布2025年3月29日发售](https://www.3dmgame.com/news/202409/3904551.html)
+
++ [任天堂发言人：不会透露起诉《幻兽帕鲁》开发商细节](https://www.3dmgame.com/news/202409/3904553.html)
+
++ [传PS6有两款机种 其中一个能让人“买得起”](https://www.3dmgame.com/news/202409/3904547.html)
+
++ [腾讯《三角洲行动》代言人公布 吴彦祖喊你来创建角色](https://www.3dmgame.com/news/202409/3904548.html)
+

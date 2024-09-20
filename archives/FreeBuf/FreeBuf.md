@@ -43,3 +43,7 @@
 
 + [内存马第三弹——Controller内存马](https://www.freebuf.com/articles/web/410507.html)
 
++ [codeql自动化漏洞检测入门](https://www.freebuf.com/articles/es/410244.html)
+
++ [FreeBuf早报 | 黎巴嫩再发生爆炸事件；谷歌宣布启用NIST抗量子加密最新标准](https://www.freebuf.com/news/411262.html)
+
