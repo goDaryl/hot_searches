@@ -115,3 +115,11 @@
 
 + [logo design letter Z](https://dribbble.com/shots/)
 
++ [Dragon Tower - Casino Design](https://dribbble.com/shots/)
+
++ [T Logo, Brand identity for Tinyloop](https://dribbble.com/shots/)
+
++ [Snake Logos - Minimalist Logos](https://dribbble.com/shots/)
+
++ [TripAI Assistant - AI Travel Mobile App](https://dribbble.com/shots/)
+
