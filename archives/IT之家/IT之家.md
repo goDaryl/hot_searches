@@ -47,3 +47,7 @@
 
 + [运行鸿蒙 HarmonyOS 5.0 系统，华为 WATCH GT 5 智能手表实拍图曝光](https://m.ithome.com/html/797145.htm)
 
++ [库克发布微博：希望中国顾客像我们一样喜爱 iPhone 16 等苹果公司新产品](https://m.ithome.com/html/797304.htm)
+
++ [苹果 iPhone 16 Pro 摔落测试：边框更窄，比前代更易受边角撞击影响](https://m.ithome.com/html/797310.htm)
+
