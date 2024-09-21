@@ -113,3 +113,9 @@
 
 + [万代南梦宫《刀剑神域：碎梦边境》系统预告片分享](https://www.3dmgame.com/news/202409/3904623.html)
 
++ [Krafton CEO：《木卫四协议》失败是因为玩法没创意](https://www.3dmgame.com/news/202409/3904628.html)
+
++ [魂系之父50岁了！TGA为宫崎英高送上生日祝福](https://www.3dmgame.com/news/202409/3904629.html)
+
++ [《龙腾世纪：影障守护者》被媒体称作年度游戏争夺者](https://www.3dmgame.com/news/202409/3904627.html)
+

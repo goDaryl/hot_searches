@@ -33,3 +33,7 @@
 
 + [首款鸿蒙 HarmonyOS NEXT 系统 MOBA 游戏《曙光英雄》完成开发，正式上架华为游戏中心](https://m.ithome.com/html/797054.htm)
 
++ [小米自带线充电宝 10000mAh 165W 首销：彩色智能数显，199 元](https://m.ithome.com/html/797253.htm)
+
++ [腾讯客服回应微信朋友圈实况图 Bug：功能灰度测试中，切勿卸载后重新安装以免造成聊天记录丢失](https://m.ithome.com/html/797125.htm)
+
