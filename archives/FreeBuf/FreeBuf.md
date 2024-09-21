@@ -49,3 +49,7 @@
 
 + [Android 安全加固技术全方面分析（上）](https://www.freebuf.com/articles/endpoint/409800.html)
 
++ [信息安全管理 | 企业云安全管理](https://www.freebuf.com/articles/security-management/400193.html)
+
++ [从蓝队角度分析XXL JOB默认ACCESS——TOKEN导致RCE漏洞](https://www.freebuf.com/vuls/410423.html)
+

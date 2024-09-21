@@ -45,3 +45,5 @@
 
 + [极氪 7X 大五座 SUV 上市：内置“一键破窗”安全功能，22.99 万元起](https://m.ithome.com/html/797259.htm)
 
++ [运行鸿蒙 HarmonyOS 5.0 系统，华为 WATCH GT 5 智能手表实拍图曝光](https://m.ithome.com/html/797145.htm)
+
