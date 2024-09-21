@@ -41,3 +41,5 @@
 
 + [BlackByte利用“旧战术”+“新漏洞”助力新一轮攻击](https://www.freebuf.com/news/409992.html)
 
++ [内网拓扑可视化及管控技术](https://www.freebuf.com/articles/network/410091.html)
+
