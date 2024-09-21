@@ -123,3 +123,9 @@
 
 + [TripAI Assistant - AI Travel Mobile App](https://dribbble.com/shots/)
 
++ [Hoak's Lakeshore - Logo Update](https://dribbble.com/shots/)
+
++ [logo folio, modern logo, minimalist logo,](https://dribbble.com/shots/)
+
++ [Crypto Invest](https://dribbble.com/shots/)
+
