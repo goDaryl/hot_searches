@@ -133,3 +133,9 @@
 
 + [《中国数据库前世今生》纪录片观感：从古至今数据库的演变与未来](https://blog.csdn.net/m0_75058342/article/details/142361065)
 
++ [【Python篇】从零到精通：全面分析Scikit-Learn在机器学习中的绝妙应用](https://blog.csdn.net/2301_79849925/article/details/142331498)
+
++ [【华为杯】2024年研究生数学建模竞赛华为杯E题思路解析+代码+论文](https://blog.csdn.net/m0_60703264/article/details/142330486)
+
++ [HTML粉色烟花秀](https://blog.csdn.net/m0_68111267/article/details/142410059)
+

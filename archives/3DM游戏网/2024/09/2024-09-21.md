@@ -119,3 +119,15 @@
 
 + [《龙腾世纪：影障守护者》被媒体称作年度游戏争夺者](https://www.3dmgame.com/news/202409/3904627.html)
 
++ [《银翼杀手2033：迷宫》团队集体辞职 但开发仍会继续](https://www.3dmgame.com/news/202409/3904630.html)
+
++ [芯片行业大地震！消息称高通接洽英特尔讨论收购事宜](https://www.3dmgame.com/news/202409/3904631.html)
+
++ [报道称PS5 Pro主机开发时长两年半](https://www.3dmgame.com/news/202409/3904632.html)
+
++ [英国销量月榜：8月份该国75%的游戏销售都是数字版](https://www.3dmgame.com/news/202409/3904633.html)
+
++ [《战神：诸神黄昏》已通过Steam Deck验证](https://www.3dmgame.com/news/202409/3904634.html)
+
++ [《如龙8外传 夏威夷海盗》Steam页面上线 售价263元](https://www.3dmgame.com/news/202409/3904635.html)
+
