@@ -201,3 +201,13 @@
 
 + [Take-Two裁员5%之后 董事长和总裁拿到巨额奖金](https://www.3dmgame.com/news/202409/3904699.html)
 
++ [《Grunn》10月登陆PC 卡通渲染像素风诡异冒险](https://www.3dmgame.com/news/202409/3904706.html)
+
++ [《七龙珠 电光炸裂！ZERO》新预告 复古风格画面呈现](https://www.3dmgame.com/news/202409/3904705.html)
+
++ [《龙腾世纪：影障守护者》不再依赖过场动画推动剧情](https://www.3dmgame.com/news/202409/3904704.html)
+
++ [5岁男童早教每天看学习机6小时 致近视1000度](https://www.3dmgame.com/news/202409/3904703.html)
+
++ [复古赛车《Parking Garage Rally Circuit》收获特别好评](https://www.3dmgame.com/news/202409/3904702.html)
+
