@@ -151,3 +151,9 @@
 
 + [2024年华为杯研究生数学建模竞赛D题(时空演化模型+脆性指数 完整文章|可视化)](https://blog.csdn.net/Yilu264/article/details/142416333)
 
++ [【Elasticsearch系列十八】Ik 分词器](https://blog.csdn.net/qyj19920704/article/details/142320414)
+
++ [【24华为杯数模研赛赛题思路已出】国赛C题思路丨附参考代码丨免费分享](https://blog.csdn.net/RS_handy/article/details/142413834)
+
++ [【FPGA】编程方式](https://blog.csdn.net/zhh1749621866/article/details/142418812)
+
