@@ -193,3 +193,5 @@
 
 + [【大模型】AutoDL部署AI绘图大模型Stable Diffusion使用详解](https://blog.csdn.net/zhangcongyi420/article/details/142412106)
 
++ [【MySQL 学习】深入探索JDBC（Java与数据库连接的桥梁）](https://blog.csdn.net/island1314/article/details/142422945)
+
