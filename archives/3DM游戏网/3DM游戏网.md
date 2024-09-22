@@ -119,3 +119,7 @@
 
 + [拳头公布《无畏契约》反作弊进展 遭遇作弊回滚机制](https://www.3dmgame.com/news/202409/3904680.html)
 
++ [《Do No Harm》Steam上线 古老医法模拟](https://www.3dmgame.com/news/202409/3904683.html)
+
++ [受制于当地法规 《NBA 2K25》韩国版本移除VC包](https://www.3dmgame.com/news/202409/3904682.html)
+

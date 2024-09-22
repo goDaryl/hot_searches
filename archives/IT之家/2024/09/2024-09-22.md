@@ -35,3 +35,9 @@
 
 + [限量 2010 辆，比亚迪腾势 Z9 GT 首发版车型已全部售罄](https://m.ithome.com/html/797440.htm)
 
++ [2025 款一汽红旗 H5 上市，15.98 万-21.58 万元](https://m.ithome.com/html/797423.htm)
+
++ [华为 MatePad 入门平板电脑新品通过 3C 认证，附赠 40W 充电器](https://m.ithome.com/html/797412.htm)
+
++ [小米王腾晒 Redmi Note 14 Pro+ 真机，展示抗摔、防水性能](https://m.ithome.com/html/797450.htm)
+
