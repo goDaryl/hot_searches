@@ -95,3 +95,17 @@
 
 + [Modern minimal timeless logo folio logo marks](https://dribbble.com/shots/)
 
++ [Friends](https://dribbble.com/shots/)
+
++ [Yonova™ - Health Care Branding](https://dribbble.com/shots/)
+
++ [Unused 'A' Lettermark](https://dribbble.com/shots/)
+
++ [DC - Luxury Elegant Aesthetic Metal Portfolio Website Design](https://dribbble.com/shots/)
+
++ [Правда (кириллица)](https://dribbble.com/shots/)
+
++ [Easy payment app](https://dribbble.com/shots/)
+
++ [Winter ❄️](https://dribbble.com/shots/)
+
