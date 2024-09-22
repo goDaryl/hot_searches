@@ -79,3 +79,9 @@
 
 + [Griffin Badge](https://dribbble.com/shots/)
 
++ [Bordup Task Management Platform 2024](https://dribbble.com/shots/)
+
++ [Tech X - tech logo design](https://dribbble.com/shots/)
+
++ [logo design letter R brand identity](https://dribbble.com/shots/)
+
