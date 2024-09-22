@@ -147,3 +147,7 @@
 
 + [【实战篇】MySQL是怎么保证主备一致的？](https://blog.csdn.net/shenyongsi/article/details/142366145)
 
++ [构建高可用和高防御力的云服务架构第一部分：深入解析DDoS高防（1/5）](https://blog.csdn.net/beautifulmemory/article/details/142421365)
+
++ [2024年华为杯研究生数学建模竞赛D题(时空演化模型+脆性指数 完整文章|可视化)](https://blog.csdn.net/Yilu264/article/details/142416333)
+
