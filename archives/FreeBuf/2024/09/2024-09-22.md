@@ -43,3 +43,7 @@
 
 + [如何通过组合手段大批量探测CVE-2024-38077](https://www.freebuf.com/vuls/410605.html)
 
++ [某医疗单位渗透服务日常分享](https://www.freebuf.com/vuls/410636.html)
+
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/411412.html)
+

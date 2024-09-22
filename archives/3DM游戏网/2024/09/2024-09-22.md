@@ -109,3 +109,13 @@
 
 + [新《龙腾世纪》：EA尚未决定是否推出角色创建器试玩](https://www.3dmgame.com/news/202409/3904673.html)
 
++ [《重装岚影：重生》登陆Steam 吸幸类型动作射击](https://www.3dmgame.com/news/202409/3904681.html)
+
++ [押注《星鸣特攻》 近九成玩家不信任PS新CEO Hermen Hulst](https://www.3dmgame.com/news/202409/3904677.html)
+
++ [传SE打算以三部曲形式复刻《最终幻想13》游戏](https://www.3dmgame.com/news/202409/3904678.html)
+
++ [疯狂星期四 Xbox公布东京电玩展展示会直播计划](https://www.3dmgame.com/news/202409/3904679.html)
+
++ [拳头公布《无畏契约》反作弊进展 遭遇作弊回滚机制](https://www.3dmgame.com/news/202409/3904680.html)
+
