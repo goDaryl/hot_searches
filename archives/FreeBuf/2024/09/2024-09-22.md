@@ -49,3 +49,7 @@
 
 + [密评 | PDF文件中电子签章手工验签](https://www.freebuf.com/articles/database/400338.html)
 
++ [渗透测试 | 详解前端漏洞触发后端RCE](https://www.freebuf.com/articles/web/401334.html)
+
++ [DarkHotel APT 组织 Observer 木马攻击分析](https://www.freebuf.com/articles/paper/410754.html)
+
