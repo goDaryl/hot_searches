@@ -189,3 +189,7 @@
 
 + [自学黑客（网络安全），一般人我劝你还是算了吧](https://blog.csdn.net/2401_84466223/article/details/142431676)
 
++ [ChatGPT 在国内使用的方法](https://blog.csdn.net/nsyglsp/article/details/142413583)
+
++ [【大模型】AutoDL部署AI绘图大模型Stable Diffusion使用详解](https://blog.csdn.net/zhangcongyi420/article/details/142412106)
+

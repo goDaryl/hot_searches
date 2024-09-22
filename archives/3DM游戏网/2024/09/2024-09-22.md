@@ -211,3 +211,7 @@
 
 + [复古赛车《Parking Garage Rally Circuit》收获特别好评](https://www.3dmgame.com/news/202409/3904702.html)
 
++ [《龙腾世纪：影障守护者》14分钟视频前瞻](https://www.3dmgame.com/news/202409/3904708.html)
+
++ [新海诚《秒速5厘米》将拍真人版电影 明年秋季在日本上映](https://www.3dmgame.com/news/202409/3904707.html)
+
