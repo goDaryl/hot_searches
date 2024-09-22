@@ -53,3 +53,5 @@
 
 + [DarkHotel APT 组织 Observer 木马攻击分析](https://www.freebuf.com/articles/paper/410754.html)
 
++ [ciscoconfparse2：一款针对思科IOS风格配置的安全审计工具](https://www.freebuf.com/sectool/410499.html)
+
