@@ -27,3 +27,5 @@
 
 + [钉钉将修复华为鸿蒙 HarmonyOS NEXT 显示为安卓 13 的问题](https://m.ithome.com/html/797428.htm)
 
++ [“致敬诺基亚 N9”HMD Skyline 手机上架京东国际：骁龙 7s Gen 2 + 12G + 256G 售 2999 元](https://m.ithome.com/html/797362.htm)
+

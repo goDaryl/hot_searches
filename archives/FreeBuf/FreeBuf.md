@@ -41,3 +41,5 @@
 
 + [电力企业 | 安全建设框架](https://www.freebuf.com/articles/es/410967.html)
 
++ [如何通过组合手段大批量探测CVE-2024-38077](https://www.freebuf.com/vuls/410605.html)
+

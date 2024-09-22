@@ -133,3 +133,9 @@
 
 + [【AI战略思考2】技术上不断聚焦和深入，精进一艺，一技胜万全](https://blog.csdn.net/weixin_43221845/article/details/142414862)
 
++ [ML 系列：机器学习和深度学习的深层次总结(05)非线性回归](https://blog.csdn.net/gongdiwudu/article/details/142412774)
+
++ [滚雪球学SpringCloud[6.3讲]： 分布式日志管理与分析](https://blog.csdn.net/weixin_43970743/article/details/141143810)
+
++ [【计算机四级网络工程师】操作系统原理第五章——内存管理（下）](https://blog.csdn.net/m0_71369515/article/details/142302474)
+
