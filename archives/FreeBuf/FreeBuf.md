@@ -53,3 +53,13 @@
 
 + [渗透测试 | 骗局仿平台官方客服系统+Sqlmap WAF bypass](https://www.freebuf.com/articles/web/410703.html)
 
++ [年度安全品牌影响力&年度热门安全产品花落谁家 | WitAwards 2024 评选](https://www.freebuf.com/news/411441.html)
+
++ [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
+
++ [@所有人 邀请函已送达！等一个靓仔slay全场~| FCIS 2024「白帽大会」议题征集](https://www.freebuf.com/consult/411519.html)
+
++ [PatrOwl：一款开源可扩展的安全协调运营平台](https://www.freebuf.com/sectool/410500.html)
+
++ [乌克兰因安全风险首次禁用Telegram](https://www.freebuf.com/news/411485.html)
+
