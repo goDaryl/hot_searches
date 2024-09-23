@@ -179,3 +179,13 @@
 
 + [传下一代Xbox将有：传统主机+单独手持设备](https://www.3dmgame.com/news/202409/3904721.html)
 
++ [搞怪名作《圣哥传》真人电影新卡司 藤原龙也出演路西法](https://www.3dmgame.com/news/202409/3904738.html)
+
++ [《黑神话：悟空》已成为2024年Steam上最畅销的游戏](https://www.3dmgame.com/news/202409/3904737.html)
+
++ [白金工作室从任天堂手中获得《神奇101》IP所有权](https://www.3dmgame.com/news/202409/3904736.html)
+
++ [复古风街机清版动作游戏《龙威小子：街头大乱斗》已在Steam正式推出](https://www.3dmgame.com/news/202409/3904734.html)
+
++ [《龙腾世纪：影障守护者》完整通关需100小时 内容丰富！](https://www.3dmgame.com/news/202409/3904735.html)
+

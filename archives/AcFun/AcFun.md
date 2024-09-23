@@ -73,3 +73,15 @@
 
 + [一碗普通的鸡蛋汤，竟然作用这么大，早餐界的天花板，几秒钟搞定](http://www.acfun.cn/v/ac46282461)
 
++ [【东方】鬼人マニア【第16回东方Nico童祭 MMD】](http://www.acfun.cn/v/ac46281642)
+
++ [傲慢舞](http://www.acfun.cn/v/ac46281580)
+
++ [眯眯眼都是怪物](http://www.acfun.cn/v/ac46282341)
+
++ [试着唱了「雨爱」](http://www.acfun.cn/v/ac46280221)
+
++ [（第二部更新中）逆转检事2：小浣熊再破大案！【琉程琉档】](http://www.acfun.cn/v/ac46283631)
+
++ [【冰阔落】给电影人的情书---经典电影混剪-【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac46282295)
+
