@@ -41,3 +41,5 @@
 
 + [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
 
++ [渗透测试 | 实战从.Git目录泄露导致信息泄露和任意文件读取](https://www.freebuf.com/articles/web/410701.html)
+
