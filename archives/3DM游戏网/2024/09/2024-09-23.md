@@ -263,3 +263,15 @@
 
 + [坤哥爆料：30周年纪念PS5轻薄版售价499.99美元](https://www.3dmgame.com/news/202409/3904754.html)
 
++ [苹果回应iPhone16钢壳电池不会远程引爆：专家怒斥别被带节奏 国产供应链支撑](https://www.3dmgame.com/news/202409/3904760.html)
+
++ [《迷宫贩》登陆Steam 魔王城百货店经营](https://www.3dmgame.com/news/202409/3904761.html)
+
++ [开罗《哆啦A梦的铜锣烧物语》登陆移动端 售价15美元支持中文](https://www.3dmgame.com/news/202409/3904759.html)
+
++ [交叉骨演员透露当漫威系列电影演员有多难：差点被漫威解雇36次](https://www.3dmgame.com/news/202409/3904758.html)
+
++ [88岁天际老奶奶宣布退出游戏主播界 不满兴趣变义务](https://www.3dmgame.com/news/202409/3904757.html)
+
++ [电影《小丑2：双重妄想》国内定档：10月16日](https://www.3dmgame.com/news/202409/3904756.html)
+
