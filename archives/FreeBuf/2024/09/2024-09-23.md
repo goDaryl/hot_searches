@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | AT&T因供应商泄露信息被罚近一亿元；谷歌街景图被用于勒索诈骗 ](https://www.freebuf.com/news/411360.html)
 
++ [不要赎金只破坏基础设施，Twelve 黑客大肆攻击俄罗斯实体](https://www.freebuf.com/news/411472.html)
+
++ [乌克兰因安全风险禁用Telegram](https://www.freebuf.com/news/411485.html)
+
