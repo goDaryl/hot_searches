@@ -43,3 +43,7 @@
 
 + [Omdia：苹果 iPhone 15 Pro Max 是 2024 上半年全球最畅销手机，国产仅小米上榜前十](https://m.ithome.com/html/797663.htm)
 
++ [联发科天玑 9400 处理器 GPU 跑分曝光，比苹果 A18 Pro 强 86%](https://m.ithome.com/html/797662.htm)
+
++ [古尔曼：Apple Intelligence 加持的全新苹果 Siri 有望明年 1 月到来](https://m.ithome.com/html/797581.htm)
+

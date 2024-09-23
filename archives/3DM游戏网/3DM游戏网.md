@@ -275,3 +275,11 @@
 
 + [电影《小丑2：双重妄想》国内定档：10月16日](https://www.3dmgame.com/news/202409/3904756.html)
 
++ [《黑神话》铁扇公主3D模型欣赏 气质高雅美丽动人](https://www.3dmgame.com/news/202409/3904765.html)
+
++ [余承东曾称汽车低价牺牲安全等！吉利：价格战越打越便宜 质量越打越差](https://www.3dmgame.com/news/202409/3904764.html)
+
++ [科幻走近现实 英国研究者将人类基因组永久写入记忆水晶](https://www.3dmgame.com/news/202409/3904763.html)
+
++ [马斯克公布最新火星计划：未来2年发射5艘无人星舰](https://www.3dmgame.com/news/202409/3904762.html)
+
