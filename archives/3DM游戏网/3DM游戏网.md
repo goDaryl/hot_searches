@@ -111,3 +111,5 @@
 
 + [11 bit《冰汽时代2》销量突破35万份](https://www.3dmgame.com/news/202409/3904782.html)
 
++ [外媒Digital Foundry确认泄露Switch 2真实可信](https://www.3dmgame.com/news/202409/3904786.html)
+
