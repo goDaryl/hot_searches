@@ -199,3 +199,11 @@
 
 + [NetherRealm老板透露：工作室新作已经开发3年](https://www.3dmgame.com/news/202409/3904817.html)
 
++ [RX7800M最强外置显卡！OneXGPU 2售价6000元起](https://www.3dmgame.com/news/202409/3904833.html)
+
++ [亨利·卡维尔很喜欢《星际战士2》：目前沉迷PvP](https://www.3dmgame.com/news/202409/3904832.html)
+
++ [搞怪休闲竞速游戏《马头骑士》现已上线Steam平台](https://www.3dmgame.com/news/202409/3904831.html)
+
++ [上海迪士尼年底前将实行实名制购票新规 打击炒票黄牛](https://www.3dmgame.com/news/202409/3904830.html)
+
