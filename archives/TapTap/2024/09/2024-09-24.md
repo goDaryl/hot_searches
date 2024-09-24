@@ -23,3 +23,5 @@
 
 + [斗罗大陆：逆转时空](https://www.taptap.cn/app/489966)
 
++ [超级收纳馆2](https://www.taptap.cn/app/397030)
+

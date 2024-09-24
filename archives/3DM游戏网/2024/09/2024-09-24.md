@@ -283,3 +283,5 @@
 
 + [《黎明杀机》开发商Behaviour收购《暗黑地牢》开发商Red Hook](https://www.3dmgame.com/news/202409/3904868.html)
 
++ [余承东：10月8日纯血鸿蒙开启公测](https://www.3dmgame.com/news/202409/3904872.html)
+
