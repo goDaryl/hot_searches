@@ -113,3 +113,15 @@
 
 + [外媒Digital Foundry确认泄露Switch 2真实可信](https://www.3dmgame.com/news/202409/3904786.html)
 
++ [《皇牌空战7：未知天际》Steam新史低 1折26.8元](https://www.3dmgame.com/news/202409/3904792.html)
+
++ [《刺客信条：影》天气系统不会对游戏性产生负面影响](https://www.3dmgame.com/news/202409/3904791.html)
+
++ [《塞尔达传说：智慧的再现》原计划支持玩家自建迷宫](https://www.3dmgame.com/news/202409/3904790.html)
+
++ [2025年5月上映！漫威《雷霆特工队》发布预告片](https://www.3dmgame.com/news/202409/3904789.html)
+
++ [《忍者神龟：施莱德的复仇》新DLC追加2名新角色](https://www.3dmgame.com/news/202409/3904788.html)
+
++ [《神之亵渎2》DLC预告片上线 11月1日发售](https://www.3dmgame.com/news/202409/3904787.html)
+
