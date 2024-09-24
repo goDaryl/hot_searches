@@ -273,3 +273,5 @@
 
 + [苹果被指太虚伪！iPhone16硬件并不会明显改善AI功能](https://www.3dmgame.com/news/202409/3904865.html)
 
++ [又一款真香手机？iQOO Z9 Turbo+发布 2199元起](https://www.3dmgame.com/news/202409/3904867.html)
+
