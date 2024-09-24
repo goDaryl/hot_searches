@@ -45,3 +45,5 @@
 
 + [ColorOS 设计总监陈希微博“暗示”ColorOS 15 新特性：有望支持小部件卡片式堆叠](https://m.ithome.com/html/797830.htm)
 
++ [腾讯客服：华为鸿蒙 HarmonyOS NEXT 版微信适配工作进展顺利，目前正在开发过程中](https://m.ithome.com/html/798044.htm)
+
