@@ -55,3 +55,7 @@
 
 + [PingCastle：一款针对活动目录AD的安全强化工具](https://www.freebuf.com/sectool/410501.html)
 
++ [Gophish钓鱼测试平台——钓鱼邮件二维码替换功能开发](https://www.freebuf.com/sectool/389610.html)
+
++ [美国100万卡巴斯基用户发现：电脑的安全软件已自动替换为UltraAV](https://www.freebuf.com/news/411582.html)
+

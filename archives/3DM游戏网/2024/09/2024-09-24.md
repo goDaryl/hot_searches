@@ -231,3 +231,17 @@
 
 + [30周年纪念PS5港版宣布11月21日发售 限量供应](https://www.3dmgame.com/news/202409/3904842.html)
 
++ [Steam最新一周销量榜 《EA SPORTS FC 25》登顶](https://www.3dmgame.com/news/202409/3904852.html)
+
++ [世家模拟器免费开玩 《吾今有世家》Demo上线Steam](https://www.3dmgame.com/news/202409/3904851.html)
+
++ [IGN偷懒被抓包 《FF7重生》仍是玩家投票榜单第一](https://www.3dmgame.com/news/202409/3904850.html)
+
++ [《钢之战骑ARMIS》Steam上线 机甲肉鸽动作射击](https://www.3dmgame.com/news/202409/3904849.html)
+
++ [华为、小米等卫星手机都受影响！中国电信天通卫星9月27日升级改造](https://www.3dmgame.com/news/202409/3904848.html)
+
++ [《王国：两位君主》新DLC“奥林匹斯的召唤”宣布10月8日上线 定价42元](https://www.3dmgame.com/news/202409/3904847.html)
+
++ [AI作画重审后 宝可梦卡牌插画获奖者正式公布](https://www.3dmgame.com/news/202409/3904846.html)
+

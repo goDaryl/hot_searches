@@ -102,3 +102,19 @@ GRITTERS Chalker Brush Set](https://dribbble.com/shots/)
 
 + [Level Logotype Exploration](https://dribbble.com/shots/)
 
++ [Qure wallet](https://dribbble.com/shots/)
+
++ [BIP logo and branding](https://dribbble.com/shots/)
+
++ [Animation For Mi-Case](https://dribbble.com/shots/)
+
++ [Lightning Eagle Logo](https://dribbble.com/shots/)
+
++ [S and box](https://dribbble.com/shots/)
+
++ [Unfallpaten - Logo Design (U & Car)](https://dribbble.com/shots/)
+
++ [Budget Pet](https://dribbble.com/shots/)
+
++ [Architect Agency Website](https://dribbble.com/shots/)
+
