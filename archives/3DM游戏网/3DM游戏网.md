@@ -125,3 +125,17 @@
 
 + [《神之亵渎2》DLC预告片上线 11月1日发售](https://www.3dmgame.com/news/202409/3904787.html)
 
++ [电影制作公司Stellarblade因游戏《星刃》与其同名而起诉索尼](https://www.3dmgame.com/news/202409/3904799.html)
+
++ [《南国盛宴》Steam页面上线 治愈系肉鸽经营模拟](https://www.3dmgame.com/news/202409/3904798.html)
+
++ [《死或生：女神假期》新作9月27日公布 带来全新体验](https://www.3dmgame.com/news/202409/3904797.html)
+
++ [《影之刃零》最高难度Boss战演示 来战个痛快！](https://www.3dmgame.com/news/202409/3904796.html)
+
++ [《铁血战士：狩猎场》主机版10月1日发售 登陆PS5和XSX|S](https://www.3dmgame.com/news/202409/3904795.html)
+
++ [《战锤40K：星际战士2》可能有故事DLC或续作](https://www.3dmgame.com/news/202409/3904794.html)
+
++ [卡普空询问玩家：是否想要更多的豪华复刻版](https://www.3dmgame.com/news/202409/3904793.html)
+

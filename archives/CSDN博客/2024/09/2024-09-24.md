@@ -121,3 +121,15 @@
 
 + [全国职业院校技能大赛（大数据赛项）-平台搭建Spark、Scala笔记](https://blog.csdn.net/xq_123dd/article/details/142468650)
 
++ [828华为云征文 | 将Vue项目部署到Flexus云服务器X实例并实现公网访问](https://blog.csdn.net/qq_53317005/article/details/142467798)
+
++ [MySQL —— 事务](https://blog.csdn.net/liwuqianhzc/article/details/142391956)
+
++ [python爬虫：将知乎专栏文章转为pdf](https://blog.csdn.net/weixin_73004416/article/details/142434799)
+
++ [【计算机网络篇】数据链路层 功能|组帧|流量控制与可靠传输机制](https://blog.csdn.net/m0_74202856/article/details/142382342)
+
++ [Matplotlib-数据可视化详解](https://blog.csdn.net/2201_75415080/article/details/142466030)
+
++ [【Linux】Docker：离线主机部署](https://blog.csdn.net/2303_80346267/article/details/142434899)
+

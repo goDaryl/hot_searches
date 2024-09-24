@@ -77,3 +77,5 @@
 
 + [MIT-Hey](http://www.acfun.cn/v/ac46286239)
 
++ [【东方】東方発表会 专辑赏析【CarrotWine】](http://www.acfun.cn/v/ac46287330)
+
