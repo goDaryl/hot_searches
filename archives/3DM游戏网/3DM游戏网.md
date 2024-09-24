@@ -109,3 +109,19 @@
 
 + [沉浸式模拟《Albatroz》11月1日发售 登陆多平台](https://www.3dmgame.com/news/202409/3904874.html)
 
++ [虚幻5柴油朋克世界动作射击游戏《重力锻造》公布](https://www.3dmgame.com/news/202409/3904885.html)
+
++ [Level5宣布妖怪手表精神续作《Holy Horror Mansion》](https://www.3dmgame.com/news/202409/3904884.html)
+
++ [明年发售《雷顿教授与蒸汽的新世界》公开全新预告](https://www.3dmgame.com/news/202409/3904883.html)
+
++ [初代重制《闪电十一人英雄的胜利之路》再延期](https://www.3dmgame.com/news/202409/3904882.html)
+
++ [《暗黑破坏神4：憎恨之躯》新预告展示刺激Boss战](https://www.3dmgame.com/news/202409/3904881.html)
+
++ [最佳PS4模拟器shadPS4 0.3.0版推出](https://www.3dmgame.com/news/202409/3904880.html)
+
++ [《索尼克×夏特 世代重启》“剧情”预告片分享](https://www.3dmgame.com/news/202409/3904879.html)
+
++ [《索尼克大乱斗》确认登陆PC 新预告片展示模式](https://www.3dmgame.com/news/202409/3904878.html)
+
