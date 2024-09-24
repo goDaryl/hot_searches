@@ -37,3 +37,5 @@
 
 + [高德地图与百度地图发布《致歉函》：积极采取措施确保家电维修信息真实准确](https://m.ithome.com/html/797898.htm)
 
++ [小米 15 Pro 手机通过 3C 认证入网，全系支持 90W 快充](https://m.ithome.com/html/797899.htm)
+
