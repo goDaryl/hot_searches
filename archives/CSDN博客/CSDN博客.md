@@ -133,3 +133,11 @@
 
 + [【Linux】Docker：离线主机部署](https://blog.csdn.net/2303_80346267/article/details/142434899)
 
++ [【自动驾驶】基于车辆几何模型的横向控制算法 | Pure Pursuit 纯跟踪算法详解与编程实现](https://blog.csdn.net/weixin_51200029/article/details/142419401)
+
++ [【机器学习】生成对抗网络（GAN）——生成新数据的神经网络](https://blog.csdn.net/2202_76097976/article/details/142443560)
+
++ [HarmonyOS鸿蒙开发实战（5.0）悬浮窗拖拽和吸附动画实践](https://blog.csdn.net/weixin_55362248/article/details/142442748)
+
++ [【Unity精品源码】JU TPS 3 – 完整的第三人称射击游戏模板](https://blog.csdn.net/UnityBoy/article/details/142422353)
+
