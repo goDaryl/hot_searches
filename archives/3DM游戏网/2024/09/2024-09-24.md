@@ -275,3 +275,11 @@
 
 + [又一款真香手机？iQOO Z9 Turbo+发布 2199元起](https://www.3dmgame.com/news/202409/3904867.html)
 
++ [停产在即 RTX 4090在德国涨价25%](https://www.3dmgame.com/news/202409/3904870.html)
+
++ [故意隐藏？SE已从Sweet Baby公司客户名单中移除](https://www.3dmgame.com/news/202409/3904871.html)
+
++ [约翰`尼德普获罗马电影节终身成就奖](https://www.3dmgame.com/news/202409/3904869.html)
+
++ [《黎明杀机》开发商Behaviour收购《暗黑地牢》开发商Red Hook](https://www.3dmgame.com/news/202409/3904868.html)
+
