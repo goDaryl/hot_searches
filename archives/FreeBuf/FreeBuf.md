@@ -53,3 +53,5 @@
 
 + [jfinal框架——ofcmsv1.1.3代码审计](https://www.freebuf.com/articles/web/410276.html)
 
++ [PingCastle：一款针对活动目录AD的安全强化工具](https://www.freebuf.com/sectool/410501.html)
+
