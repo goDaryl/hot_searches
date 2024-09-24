@@ -41,3 +41,7 @@
 
 + [打车到浦东机场绕了半个上海：高德部分退款，曹操出行回应称“没有非常严重”](https://m.ithome.com/html/797952.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 系统 10 月 8 日开启公测，首批支持 Mate 60 / X5 系列手机、MatePad Pro 13.2 英寸系列平板](https://m.ithome.com/html/797989.htm)
+
++ [ColorOS 设计总监陈希微博“暗示”ColorOS 15 新特性：有望支持小部件卡片式堆叠](https://m.ithome.com/html/797830.htm)
+

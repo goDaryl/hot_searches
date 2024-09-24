@@ -175,3 +175,7 @@
 
 + [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/142433745)
 
++ [c++难点&核心笔记(一)](https://blog.csdn.net/m0_53142039/article/details/142133059)
+
++ [【计算机网络】详解UDP套接字&网络字节序&IP地址&端口号](https://blog.csdn.net/m0_74265792/article/details/140540481)
+
