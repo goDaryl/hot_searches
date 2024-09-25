@@ -125,3 +125,19 @@
 
 + [《索尼克大乱斗》确认登陆PC 新预告片展示模式](https://www.3dmgame.com/news/202409/3904878.html)
 
++ [《乐高地平线大冒险》将于11月14日发售](https://www.3dmgame.com/news/202409/3904892.html)
+
++ [《怪物猎人：荒野》Steam预购开启 国区标准版368元](https://www.3dmgame.com/news/202409/3904893.html)
+
++ [《地平线：零之曙光 复刻版》公布 10月31日发售](https://www.3dmgame.com/news/202409/3904891.html)
+
++ [《龙腾世纪：影障守护者》新预告 战斗场面很刺激](https://www.3dmgame.com/news/202409/3904890.html)
+
++ [《怪物猎人：荒野》新预告 2025年2月28日发售](https://www.3dmgame.com/news/202409/3904889.html)
+
++ [《真三国无双：起源》全新预告 2025年1月17日发售](https://www.3dmgame.com/news/202409/3904888.html)
+
++ [《对马岛之鬼》续作《羊蹄山之鬼》2025年发售](https://www.3dmgame.com/news/202409/3904887.html)
+
++ [不惧任天堂最强法务《幻兽帕鲁》闪电登陆PS5](https://www.3dmgame.com/news/202409/3904886.html)
+

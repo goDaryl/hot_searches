@@ -105,3 +105,5 @@
 
 + [My Yogi](https://www.producthunt.com/posts/my-yogi)
 
++ [TPlanz](https://www.producthunt.com/posts/tplanz)
+
