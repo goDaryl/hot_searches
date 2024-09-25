@@ -61,3 +61,5 @@
 
 + [众议院听证会上，CrowdStrike 将蓝屏事件归咎于“多种因素叠加”](https://www.freebuf.com/news/411697.html)
 
++ [企业安全 | 云网边端一体化安全建设规划](https://www.freebuf.com/articles/403836.html)
+

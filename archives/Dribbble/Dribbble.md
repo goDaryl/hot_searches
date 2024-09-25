@@ -127,3 +127,13 @@
 
 + [Sphere experiment for Magic OS](https://dribbble.com/shots/)
 
++ [Subscription tracker: multiple subscriptions in one day](https://dribbble.com/shots/)
+
++ [Planner Mobile App Design](https://dribbble.com/shots/)
+
++ [Geometric Bearded Man Logo](https://dribbble.com/shots/)
+
++ [R and rabbit](https://dribbble.com/shots/)
+
++ [S for Tiger](https://dribbble.com/shots/)
+
