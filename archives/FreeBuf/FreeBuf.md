@@ -57,3 +57,7 @@
 
 + [Subdominator：一款针对漏洞奖励计划的子域名安全枚举工具](https://www.freebuf.com/sectool/410568.html)
 
++ [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
+
++ [众议院听证会上，CrowdStrike 将蓝屏事件归咎于“多种因素叠加”](https://www.freebuf.com/news/411697.html)
+

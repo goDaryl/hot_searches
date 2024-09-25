@@ -39,3 +39,5 @@
 
 + [苹果 CEO 库克：iPhone 16 发售时粉丝的热情让我感觉“灵魂出窍”](https://m.ithome.com/html/798092.htm)
 
++ [瑞士首次使用“安乐死胶囊舱”，相关人员涉嫌协助自杀被捕](https://m.ithome.com/html/798230.htm)
+

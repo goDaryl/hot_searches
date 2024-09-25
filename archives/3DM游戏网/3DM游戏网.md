@@ -249,3 +249,9 @@
 
 + [列文虎克玩家发现《绝地潜兵2》开场动画重大错误 游戏总监坦言两年多来并未注意到](https://www.3dmgame.com/news/202409/3904940.html)
 
++ [NEOWIZ《匹诺曹的谎言》官方周边线上开业…推出IP周边商品](https://www.3dmgame.com/news/202409/3904948.html)
+
++ [养成类肉鸽游戏《DRAPLINE》Steam页面上线 支持简中](https://www.3dmgame.com/news/202409/3904950.html)
+
++ [任天堂使用AI版权工具 清除互联网上的马里奥AI生成图片](https://www.3dmgame.com/news/202409/3904949.html)
+

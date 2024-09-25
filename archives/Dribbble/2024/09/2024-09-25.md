@@ -103,3 +103,13 @@
 
 + [Dashflow Sales Management Platform 2024](https://dribbble.com/shots/)
 
++ [Pray Cloud Logo Design - Faith, Cross, Religion](https://dribbble.com/shots/)
+
++ [Wedding Agency Mobile Website](https://dribbble.com/shots/)
+
++ [Zenith, cloud services, Z letter mark negative space logo design](https://dribbble.com/shots/)
+
++ [Viking Logo](https://dribbble.com/shots/)
+
++ [logos & mark, symbol, logo design collection](https://dribbble.com/shots/)
+
