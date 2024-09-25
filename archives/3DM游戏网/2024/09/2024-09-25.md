@@ -215,3 +215,9 @@
 
 + [P5R主题“痛飞机” 《女神异闻录5皇家版》联动亚洲航空](https://www.3dmgame.com/news/202409/3904927.html)
 
++ [透明特别版Xbox无线手柄公布 10月8日发售](https://www.3dmgame.com/news/202409/3904933.html)
+
++ [小米全新电竞鼠标279元：26000DPI 110小时续航](https://www.3dmgame.com/news/202409/3904932.html)
+
++ [卡牌角色扮演游戏《暗色天空》现已在Steam平台正式推出](https://www.3dmgame.com/news/202409/3904931.html)
+
