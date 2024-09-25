@@ -209,3 +209,9 @@
 
 + [【Linux】解锁文件描述符奥秘，高效缓存区的实战技巧](https://blog.csdn.net/m0_74808907/article/details/142472584)
 
++ [XSS靶场 8-17关](https://blog.csdn.net/jijhvuu/article/details/142484306)
+
++ [探索Llama 3.1：开源模型的本地部署与创新应用实践](https://blog.csdn.net/qq_51601665/article/details/142503263)
+
++ [【云原生安全篇】Trivy助力离线Harbor漏洞扫描实践](https://blog.csdn.net/u013522701/article/details/142470707)
+
