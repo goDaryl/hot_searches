@@ -173,3 +173,25 @@
 
 + [《宇宙机器人》免费DLC预告 新增5个关卡和10个客串机器人](https://www.3dmgame.com/news/202409/3904896.html)
 
++ [《十字军之王3》DLC权力之路上线 追加自我流派世界冒险](https://www.3dmgame.com/news/202409/3904919.html)
+
++ [日本玩家成最大输家 《幻兽帕鲁》暂不登陆PS5日服](https://www.3dmgame.com/news/202409/3904918.html)
+
++ [回合制策略游戏《战锤40K：行商浪人》全新DLC“虚空之影”正式发售获好评](https://www.3dmgame.com/news/202409/3904920.html)
+
++ [前测试人员称《光环：无限》问题频发是微软的锅](https://www.3dmgame.com/news/202409/3904917.html)
+
++ [多人动作盗宝游戏《绿林侠盗：亡命之徒与传奇》宣布10月停售 明年2月停服](https://www.3dmgame.com/news/202409/3904916.html)
+
++ [《炉石传说》国服现已开放 登陆血赚15000元](https://www.3dmgame.com/news/202409/3904915.html)
+
++ [制作人揭示放弃林克作为《塞尔达传说：智慧的再现》主角的缘由](https://www.3dmgame.com/news/202409/3904911.html)
+
++ [PS5“炫彩”配色外壳和手柄正式公布 闪闪发光色彩多变](https://www.3dmgame.com/news/202409/3904913.html)
+
++ [科学背书！牛津大学最新研究发现玩游戏能改善情绪](https://www.3dmgame.com/news/202409/3904914.html)
+
++ [《永恒寒冬》PC抢先体验开启 生存恐怖合作战术射击](https://www.3dmgame.com/news/202409/3904912.html)
+
++ [《完蛋被美女包围前传》角色元柒视频 学妹真漂亮](https://www.3dmgame.com/news/202409/3904910.html)
+

@@ -49,3 +49,7 @@
 
 + [美国100万卡巴斯基用户发现：电脑的安全软件已自动替换为UltraAV](https://www.freebuf.com/news/411582.html)
 
++ [CrowdStrike 将引发的全球性故障归咎于“多种因素叠加”](https://www.freebuf.com/news/411697.html)
+
++ [只需10分钟即可被绕过，Chrome浏览器最新cookie安全功能纸糊的一样？](https://www.freebuf.com/news/411689.html)
+
