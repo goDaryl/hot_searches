@@ -103,3 +103,7 @@
 
 + [外媒评选PS4上30款精品游戏 《对马岛之魂》等](https://www.3dmgame.com/news/202409/3904983.html)
 
++ [像素RPG《经典迷宫X3》2025年2月27日发售](https://www.3dmgame.com/news/202409/3904984.html)
+
++ [蓝爆登场《英灵乱战》迎来洛克人主题联动](https://www.3dmgame.com/news/202409/3904985.html)
+
