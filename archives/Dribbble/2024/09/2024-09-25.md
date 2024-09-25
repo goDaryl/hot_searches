@@ -113,3 +113,17 @@
 
 + [logos & mark, symbol, logo design collection](https://dribbble.com/shots/)
 
++ [Sora Logo (unofficially)](https://dribbble.com/shots/)
+
++ [Hannah illustrations](https://dribbble.com/shots/)
+
++ [OG - Elegant Fashion Ecommerce Modern Website Responsive Design](https://dribbble.com/shots/)
+
++ [Inktober Sneak Peek 👀](https://dribbble.com/shots/)
+
++ [CGPT Tap Game — Explainer Video](https://dribbble.com/shots/)
+
++ [Gamification - Logo Design (Unused)](https://dribbble.com/shots/)
+
++ [Sphere experiment for Magic OS](https://dribbble.com/shots/)
+
