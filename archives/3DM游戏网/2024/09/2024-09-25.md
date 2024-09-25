@@ -343,3 +343,5 @@
 
 + [黑神话带火PC硬件 中国电竞显示器8月销量飙升56.7%](https://www.3dmgame.com/news/202409/3904971.html)
 
++ [PS5 Pro：14家开发商详解如何针对进行游戏强化](https://www.3dmgame.com/news/202409/3904974.html)
+
