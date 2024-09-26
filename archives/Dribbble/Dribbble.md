@@ -153,3 +153,9 @@
 
 + [Maximalist - Logo Design](https://dribbble.com/shots/)
 
++ [Branding for Foodtech Concept](https://dribbble.com/shots/)
+
++ [Stones - wordmark logotype logo design for a web series.](https://dribbble.com/shots/)
+
++ [Explorational concept for Grail Club](https://dribbble.com/shots/)
+
