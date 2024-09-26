@@ -151,3 +151,7 @@
 
 + [Epic喜加一：《精灵与老鼠》免费领取](https://www.3dmgame.com/news/202409/3905072.html)
 
++ [《真三国无双：起源》TGS 2024实机演示视频](https://www.3dmgame.com/news/202409/3905076.html)
+
++ [《怪物猎人：荒野》“新手指南”等多段视频分享](https://www.3dmgame.com/news/202409/3905077.html)
+
