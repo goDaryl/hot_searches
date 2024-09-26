@@ -49,3 +49,9 @@
 
 + [Maximalist - Logo Design](https://dribbble.com/shots/)
 
++ [Vacation Share](https://dribbble.com/shots/)
+
++ [Blue Iguana](https://dribbble.com/shots/)
+
++ [CDC Iconography](https://dribbble.com/shots/)
+
