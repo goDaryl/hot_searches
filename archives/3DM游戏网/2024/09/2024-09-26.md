@@ -307,3 +307,7 @@
 
 + [《星际争霸：重制版》《星际争霸2：战役合集》11月登陆Game Pass](https://www.3dmgame.com/news/202409/3905065.html)
 
++ [TGS 2024：《死神：魂魄觉醒》新PV发布](https://www.3dmgame.com/news/202409/3905068.html)
+
++ [TGS 2024：《野狗子》玩法展示宣传片 展示附身系统](https://www.3dmgame.com/news/202409/3905067.html)
+

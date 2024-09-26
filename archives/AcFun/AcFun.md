@@ -135,3 +135,7 @@
 
 + [hjm秋哥秀vol.6](http://www.acfun.cn/v/ac46298973)
 
++ [开战！SweetBaby摊牌，要把游戏业夷为平地【绅批】](http://www.acfun.cn/v/ac46299700)
+
++ [轻轻踹醒沉睡的心灵](http://www.acfun.cn/v/ac46299498)
+

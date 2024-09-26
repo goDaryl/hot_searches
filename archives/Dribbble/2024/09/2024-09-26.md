@@ -151,3 +151,5 @@
 
 + [Ephemeral Token - Landing Page & Branding](https://dribbble.com/shots/)
 
++ [Maximalist - Logo Design](https://dribbble.com/shots/)
+
