@@ -155,3 +155,15 @@
 
 + [《怪物猎人：荒野》“新手指南”等多段视频分享](https://www.3dmgame.com/news/202409/3905077.html)
 
++ [致敬经典回合制RPG新作《时之线》惊艳亮相](https://www.3dmgame.com/news/202409/3905081.html)
+
++ [动作节奏策略游戏《节奏塔防》2025年上市](https://www.3dmgame.com/news/202409/3905083.html)
+
++ [真岛吾朗化身海盗《如龙8外传：夏威夷海盗》战斗演示公开](https://www.3dmgame.com/news/202409/3905082.html)
+
++ [春丽肯加盟《饿狼传说：狼之城》联动《街霸》](https://www.3dmgame.com/news/202409/3905080.html)
+
++ [万代南梦宫《奇异贤伴：爱达之歌》1/23推出](https://www.3dmgame.com/news/202409/3905079.html)
+
++ [《战国王朝》PC正式版将于11月推出 主机版明年发行](https://www.3dmgame.com/news/202409/3905078.html)
+
