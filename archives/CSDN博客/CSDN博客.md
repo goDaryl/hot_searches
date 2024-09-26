@@ -171,3 +171,5 @@
 
 + [c#中的功能优势](https://blog.csdn.net/red_redemption/article/details/142056837)
 
++ [【人工智能】Transformers之Pipeline（十九）：文生文（text2text-generation）](https://blog.csdn.net/weixin_48007632/article/details/142453978)
+
