@@ -107,3 +107,55 @@
 
 + [蓝爆登场《英灵乱战》迎来洛克人主题联动](https://www.3dmgame.com/news/202409/3904985.html)
 
++ [《宝可梦》与全日空航空公司合作推出航空安全宣传视频](https://www.3dmgame.com/news/202408/3902183.html)
+
++ [动画电影《通往夏天的隧道，再见的出口》国内定档8月30日](https://www.3dmgame.com/news/202408/3902184.html)
+
++ [Steam平台最高账户等级新纪录出现 近6000级花费高达50万美元](https://www.3dmgame.com/news/202408/3902181.html)
+
++ [《博德之门3》总监玩得最多的游戏是魔兽 从小玩游戏上瘾](https://www.3dmgame.com/news/202408/3902171.html)
+
++ [10秒内止血堪比游戏道具！美国FDA批准止血凝胶上市](https://www.3dmgame.com/news/202408/3902189.html)
+
++ [《宝可梦：大集结》公布三只新宝可梦角色 将陆续上线游戏](https://www.3dmgame.com/news/202408/3902180.html)
+
++ [《黑神话》冯骥专访正片 踏上取经路比抵达灵山重要](https://www.3dmgame.com/news/202408/3902177.html)
+
++ [传闻：除了博物馆外 任天堂本月还有更多消息公布](https://www.3dmgame.com/news/202408/3902187.html)
+
++ [指向点击类剧情冒险游戏《懊悔谷》首个正式宣传预告放出](https://www.3dmgame.com/news/202408/3902175.html)
+
++ [用户吐槽爱奇艺电视端包年VIP不能跳过广告 官方回应](https://www.3dmgame.com/news/202408/3902176.html)
+
++ [《Phantom Ten》登陆Steam 类8番出口房间历险](https://www.3dmgame.com/news/202408/3902174.html)
+
++ [《黑神话：悟空》Steam预载量超《赛博朋克2077》 将有终极隐藏Boss](https://www.3dmgame.com/news/202408/3902173.html)
+
++ [休闲经营模拟游戏《炼金术师商店模拟器》现已在斯特安平台推出试玩Demo](https://www.3dmgame.com/news/202408/3902172.html)
+
++ [改编花样滑冰动画《金牌得主》新预告放出 2025年1月开播](https://www.3dmgame.com/news/202408/3902185.html)
+
++ [宝可梦卡牌手游《Pokémon TCG Pocket》宣布10月30日上线 预注册现已开启](https://www.3dmgame.com/news/202408/3902178.html)
+
++ [珍稀测试用宝可梦卡牌拍出27.5万美元 用纸很特别](https://www.3dmgame.com/news/202408/3902186.html)
+
++ [孩子求买PS5怎么办 外媒根据调查给出方案](https://www.3dmgame.com/news/202408/3902179.html)
+
++ [《寂静岭2：重制版》故事预告片公布 詹姆斯重返寂静岭](https://www.3dmgame.com/news/202408/3902188.html)
+
++ [《Prisoners》登陆Steam 监狱内混战大逃杀](https://www.3dmgame.com/news/202408/3902182.html)
+
++ [老人出国流量费1.6万 官方回应多次触发熔断本人强行恢复](https://www.3dmgame.com/news/202408/3902170.html)
+
++ [《星球大战：亡命之徒》Steam版将于11月21日发售](https://www.3dmgame.com/news/202409/3904990.html)
+
++ [育碧称《刺客信条：影》和《羊蹄山之魂》都能卖得很好](https://www.3dmgame.com/news/202409/3904991.html)
+
++ [探索旧苏联实验区生存恐怖游戏《再生》公布](https://www.3dmgame.com/news/202409/3904989.html)
+
++ [《刺客信条：影》延期至明年2月14日发售 为了更好打磨游戏](https://www.3dmgame.com/news/202409/3904987.html)
+
++ [高性价比VR设备Meta Quest 3S将于10月15日发售](https://www.3dmgame.com/news/202409/3904986.html)
+
++ [《少女魔净》全新续作《少女魔役》正式公布](https://www.3dmgame.com/news/202409/3904988.html)
+
