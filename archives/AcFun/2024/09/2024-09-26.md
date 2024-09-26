@@ -79,3 +79,7 @@
 
 + [你们要的亮丝](http://www.acfun.cn/v/ac46295247)
 
++ [ACER 还 得 谢 谢 我 呢](http://www.acfun.cn/v/ac46296585)
+
++ [14.19版本研究所，全装备洗牌！致命节奏回归，谁强谁弱尽在这期中](http://www.acfun.cn/v/ac46294094)
+

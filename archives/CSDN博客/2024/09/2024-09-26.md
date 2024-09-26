@@ -143,3 +143,13 @@
 
 + [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/YJT1002/article/details/142500853)
 
++ [网络原理3-应用层(HTTP/HTTPS)](https://blog.csdn.net/QUIXOTIC_/article/details/142370558)
+
++ [828华为云征文｜使用Flexus X实例集成ES搜索引擎](https://blog.csdn.net/qq_53317005/article/details/142531953)
+
++ [SpringBoot中XXL-JOB实现灵活控制的分片处理方案](https://blog.csdn.net/qq_26664043/article/details/142531409)
+
++ [基于51单片机智能家居监控系统设计](https://blog.csdn.net/QQ1928499906/article/details/142467079)
+
++ [前端三大框架对比与选择](https://blog.csdn.net/xq_123dd/article/details/142534603)
+

@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 一亿美国人隐私信息暴露；UltraAV 自动替换卡巴斯基引发担忧](https://www.freebuf.com/news/411706.html)
 
++ [优先使用 Rust编写新代码可大幅减少安卓系统内存漏洞](https://www.freebuf.com/news/411787.html)
+
