@@ -159,3 +159,25 @@
 
 + [《少女魔净》全新续作《少女魔役》正式公布](https://www.3dmgame.com/news/202409/3904988.html)
 
++ [《LUNA-3X》登陆Switch 奇趣动作闯关冒险](https://www.3dmgame.com/news/202409/3905000.html)
+
++ [Bloober努力说服Konami 让《寂静岭2：重制版》首发有PC](https://www.3dmgame.com/news/202409/3905001.html)
+
++ [《战神：诸神黄昏》PC版移除PSN账户需求的MOD已被制作者下架](https://www.3dmgame.com/news/202409/3905002.html)
+
++ [《三角战略》VR版将在10/31登陆Quest 2和Quest 3](https://www.3dmgame.com/news/202409/3904994.html)
+
++ [Sucker Punch还在计划《羊蹄山之魂》以外的衍生作品](https://www.3dmgame.com/news/202409/3904995.html)
+
++ [《羊蹄山之鬼》引玩家不满 女主脸模和高级设计师都是woke](https://www.3dmgame.com/news/202409/3904996.html)
+
++ [育碧对Steam态度改变：今后游戏首发同步上线Steam](https://www.3dmgame.com/news/202409/3904997.html)
+
++ [《无限暖暖》新实机演示 10月8日开启重逢之约测试](https://www.3dmgame.com/news/202409/3904998.html)
+
++ [育碧否认刻意宣传正确文化 称要以玩家、玩法为中心](https://www.3dmgame.com/news/202409/3904999.html)
+
++ [Xbox九月更新增加了预下载游戏更新的功能](https://www.3dmgame.com/news/202409/3904992.html)
+
++ [《星球大战：亡命之徒》兰多剧情DLC已确定日期](https://www.3dmgame.com/news/202409/3904993.html)
+

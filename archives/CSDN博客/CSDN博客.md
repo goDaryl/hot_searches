@@ -139,3 +139,7 @@
 
 + [MYSQL-约束](https://blog.csdn.net/lizhiwei21/article/details/142497643)
 
++ [【车联网安全】车端网络攻击及检测的框架/模型](https://blog.csdn.net/summoxj/article/details/142481134)
+
++ [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/YJT1002/article/details/142500853)
+
