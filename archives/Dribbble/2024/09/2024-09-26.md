@@ -85,3 +85,11 @@
 
 + [Believe in the creative process](https://dribbble.com/shots/)
 
++ [Comprehensive E-Commerce Dashboard Design for Product Management](https://dribbble.com/shots/)
+
++ [Photo Sharing App - Print Function](https://dribbble.com/shots/)
+
++ [Mister G's Branding & Packaging Design](https://dribbble.com/shots/)
+
++ [Personal coat of arms](https://dribbble.com/shots/)
+
