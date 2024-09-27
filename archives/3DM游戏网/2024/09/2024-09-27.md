@@ -285,3 +285,11 @@
 
 + [国家广电总局：电视内置机顶盒有望年底前完成样机研制](https://www.3dmgame.com/news/202409/3905130.html)
 
++ [《尘白禁区》泳池3D全景视频 欣赏泳装美少女](https://www.3dmgame.com/news/202409/3905147.html)
+
++ [还有高手？《教父》导演新片《大都会》票房可能不如《无主之地》](https://www.3dmgame.com/news/202409/3905145.html)
+
++ [Intel委托出售欧洲总部！预计可卖900万英镑](https://www.3dmgame.com/news/202409/3905146.html)
+
++ [《崩坏：星穹铁道》灵砂角色PV——「燎沉香」](https://www.3dmgame.com/news/202409/3905144.html)
+
