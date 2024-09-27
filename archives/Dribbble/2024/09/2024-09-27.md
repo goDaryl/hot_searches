@@ -73,3 +73,9 @@
 
 + [Blog Article Digital Art](https://dribbble.com/shots/)
 
++ [Pinpoint Rebrand + Case Study](https://dribbble.com/shots/)
+
++ [Crypto Dashboard Design For Swap Template](https://dribbble.com/shots/)
+
++ [Tokyo mirages](https://dribbble.com/shots/)
+

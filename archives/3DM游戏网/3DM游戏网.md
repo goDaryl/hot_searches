@@ -167,3 +167,5 @@
 
 + [《战国王朝》PC正式版将于11月推出 主机版明年发行](https://www.3dmgame.com/news/202409/3905078.html)
 
++ [雄火龙与擎天柱合体《怪物猎人》联动《变形金刚》](https://www.3dmgame.com/news/202409/3905084.html)
+
