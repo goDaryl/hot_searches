@@ -249,3 +249,39 @@
 
 + [《换影循迹》在CONVERGENCE GAMES SHOWCASE中呈现令人惊艳的全新预告片](https://www.3dmgame.com/news/202409/3905123.html)
 
++ [还考虑油车吗！国际油价要持续下跌了：产油第一大国沙特要放开产能](https://www.3dmgame.com/news/202409/3905143.html)
+
++ [《死侍与金刚狼》已入围金球奖喜剧类等多个奖项提名](https://www.3dmgame.com/news/202409/3905141.html)
+
++ [《EA SPORTS FC 25》Steam正式发售 评价“褒贬不一”](https://www.3dmgame.com/news/202409/3905142.html)
+
++ [KK官方对战平台最强续作《千钧一发2》经典回归，带你勇闯轮回圣塔！](https://www.3dmgame.com/news/202409/3905135.html)
+
++ [今晚20点！KK官方对战平台携手sky邀你来看war3年度大动作！](https://www.3dmgame.com/news/202409/3905136.html)
+
++ [明晚20点！KK官方对战平台携手sky邀你来看war3年度大动作！](https://www.3dmgame.com/news/202409/3905137.html)
+
++ [电影改编恐怖游戏《咒》Demo 10月15日新品节上线](https://www.3dmgame.com/news/202409/3905138.html)
+
++ [知名日本歌手酸欠少女Sayuri去世 曾因病停止演艺活动修养](https://www.3dmgame.com/news/202409/3905139.html)
+
++ [《怪物猎人：荒野》登顶Steam最热愿望单产品榜](https://www.3dmgame.com/news/202409/3905131.html)
+
++ [《天堂岛杀手》工作室新作公布 《达愿福神社》在东京游戏展首次发布全新预告片](https://www.3dmgame.com/news/202409/3905132.html)
+
++ [校园恋爱漫画《前辈是男孩子》剧场版预告公布 2025年情人节上映](https://www.3dmgame.com/news/202409/3905133.html)
+
++ [名导斯皮尔伯格是PC游戏超级玩家：只用键鼠喜欢FPS](https://www.3dmgame.com/news/202409/3905134.html)
+
++ [一人一剑一宠，荡平江湖。国风动作肉鸽游戏《墨境》现已发售！](https://www.3dmgame.com/news/202409/3905125.html)
+
++ [消息称Arm询问收购英特尔处理器产品部门 后者表示不卖](https://www.3dmgame.com/news/202409/3905126.html)
+
++ [《文明7》新领袖——奥古斯都介绍视频](https://www.3dmgame.com/news/202409/3905127.html)
+
++ [《文明7》中国文明：汉朝](https://www.3dmgame.com/news/202409/3905128.html)
+
++ [《文明7》新领袖——中国领袖“孔子”介绍视频](https://www.3dmgame.com/news/202409/3905129.html)
+
++ [国家广电总局：电视内置机顶盒有望年底前完成样机研制](https://www.3dmgame.com/news/202409/3905130.html)
+

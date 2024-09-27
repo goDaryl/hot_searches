@@ -169,3 +169,11 @@
 
 + [【redis-03】redis缓存穿透、缓存击穿、缓存雪崩](https://blog.csdn.net/zhenghuishengq/article/details/142577507)
 
++ [8种数值变量的特征工程技术：利用Sklearn、Numpy和Python将数值转化为预测模型的有效特征](https://blog.csdn.net/m0_46510245/article/details/142586631)
+
++ [基于协同过滤推荐算法+微信小程序+SpringBoot的农产品团购推荐平台设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/142590721)
+
++ [【HDP】zookeeper未授权漏洞修复](https://blog.csdn.net/qq_35995514/article/details/142567915)
+
++ [【网络安全】数字签名](https://blog.csdn.net/weixin_45627039/article/details/142566493)
+

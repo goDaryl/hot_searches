@@ -95,3 +95,11 @@
 
 + [★求投五蕉★网络上常见的热门短视频集锦 第一千九百九十四期](http://www.acfun.cn/v/ac46300271)
 
++ [【疯语录2】第6集：荒郊引魂](http://www.acfun.cn/v/ac46300614)
+
++ [在a站放个废稿，虽然废掉了，但是我还是很喜欢](http://www.acfun.cn/v/ac46303302)
+
++ [Party train](http://www.acfun.cn/v/ac46300608)
+
++ [3元自助取消了！米村拌饭，真的很便宜？](http://www.acfun.cn/v/ac46297355)
+
