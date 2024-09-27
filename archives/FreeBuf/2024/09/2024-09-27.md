@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 卡巴斯基称谷歌网络跟踪器活跃量全球第一；全球汇款巨头遭网络攻击](https://www.freebuf.com/news/411838.html)
 
++ [起亚经销商网站曝出严重漏洞！黑客可在30秒内远程操控数百万辆汽车](https://www.freebuf.com/news/411878.html)
+

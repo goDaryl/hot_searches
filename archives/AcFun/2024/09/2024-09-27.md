@@ -77,3 +77,9 @@
 
 + [现场直击！TGS2024东京游戏展Day1](http://www.acfun.cn/v/ac46300806)
 
++ [hjm秋哥秀vol.6](http://www.acfun.cn/v/ac46298973)
+
++ [【HJM每周秀】VS【HXD每周秀】vol.10](http://www.acfun.cn/v/ac46298986)
+
++ [IGN被指暗改黑猴投票数据，如此着急给中国游戏“套箍”？](http://www.acfun.cn/v/ac46298500)
+
