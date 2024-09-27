@@ -43,3 +43,7 @@
 
 + [brida和frida练习hook逆向技术【中】](https://www.freebuf.com/articles/endpoint/411444.html)
 
++ [RapidCMS 几个常见漏洞(审计)](https://www.freebuf.com/vuls/409618.html)
+
++ [FreeBuf早报 | 卡巴斯基称谷歌网络跟踪器活跃量全球第一；全球汇款巨头遭网络攻击](https://www.freebuf.com/news/411838.html)
+
