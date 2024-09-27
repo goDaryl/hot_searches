@@ -379,3 +379,5 @@
 
 + [传任天堂新主机Switch 2将于明年3月/4月发售](https://www.3dmgame.com/news/202409/3905169.html)
 
++ [横版平台游戏《LAPIN》12月5日移植Switch](https://www.3dmgame.com/news/202409/3905171.html)
+
