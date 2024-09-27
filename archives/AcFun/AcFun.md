@@ -135,3 +135,9 @@
 
 + [Michael Hudson：为什么取消债务不能等到全球南方?](http://www.acfun.cn/v/ac46298918)
 
++ [龙从来处来](http://www.acfun.cn/v/ac46304641)
+
++ [不管你是i人还是e人，这本《三十六计》只想让你成为人上人！](http://www.acfun.cn/v/ac46303994)
+
++ [复刻经典](http://www.acfun.cn/v/ac46301255)
+
