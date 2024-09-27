@@ -245,3 +245,7 @@
 
 + [看电视人多了！官方：电视已全面取消开机广告](https://www.3dmgame.com/news/202409/3905121.html)
 
++ [《战锤40K：星际战士2》开发商承认与混沌战士作战不够有趣 推出补丁降低难度](https://www.3dmgame.com/news/202409/3905124.html)
+
++ [《换影循迹》在CONVERGENCE GAMES SHOWCASE中呈现令人惊艳的全新预告片](https://www.3dmgame.com/news/202409/3905123.html)
+

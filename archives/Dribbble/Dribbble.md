@@ -93,3 +93,9 @@
 
 + [B2B SaaS Ai Identity](https://dribbble.com/shots/)
 
++ [Griyo - Real Estate Responsive Details Page](https://dribbble.com/shots/)
+
++ [Sidenav — Untitled UI](https://dribbble.com/shots/)
+
++ [Sequences cards](https://dribbble.com/shots/)
+
