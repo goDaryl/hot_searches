@@ -59,3 +59,7 @@
 
 + [Minderbinder：一款基于eBPF的进程安全测试工具](https://www.freebuf.com/sectool/411772.html)
 
++ [为什么马斯克一直diss苹果AI不安全？](https://www.freebuf.com/articles/neopoints/411840.html)
+
++ [FreeBuf 全球网络安全产业投融资观察（8月）](https://www.freebuf.com/news/411936.html)
+
