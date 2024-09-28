@@ -41,3 +41,5 @@
 
 + [记一次代码审计与获得CVE漏洞实践](https://www.freebuf.com/vuls/410801.html)
 
++ [Apache OFBiz SSRF to RCE(CVE-2024-45507) 漏洞分析](https://www.freebuf.com/articles/web/410898.html)
+
