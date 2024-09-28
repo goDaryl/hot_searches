@@ -107,3 +107,29 @@
 
 + [赛博黄金“黑暗之魂”系列5折促销 魂三134元](https://www.3dmgame.com/news/202409/3905177.html)
 
++ [《浩劫前夕》开发商“诚意新作”被解包：毫无意外又是骗局](https://www.3dmgame.com/news/202409/3905188.html)
+
++ [小岛秀夫：不会退休想为粉丝继续工作](https://www.3dmgame.com/news/202409/3905190.html)
+
++ [DC正开发《贝恩和丧钟》真人电影 《美国队长4》编剧执笔](https://www.3dmgame.com/news/202409/3905189.html)
+
++ [《自杀小队：消灭正义联盟》第三赛季下周启动 新角色味儿太冲了](https://www.3dmgame.com/news/202409/3905187.html)
+
++ [V社《Deadlock》加入反作弊 开挂玩家变成青蛙](https://www.3dmgame.com/news/202409/3905186.html)
+
++ [爆料人暗示索尼在2025年还有其它游戏将要推出](https://www.3dmgame.com/news/202409/3905184.html)
+
++ [休闲冒险游戏《Duck Side of the Moon》Steam页面开放 发售日待定](https://www.3dmgame.com/news/202409/3905185.html)
+
++ [原手游《蕾斯莱莉娅娜的炼金工房》同设定新游公布](https://www.3dmgame.com/news/202409/3905182.html)
+
++ [《幻想水浒传1&2 HD合集》预告片介绍增强图形等](https://www.3dmgame.com/news/202409/3905181.html)
+
++ [《星鸣特攻》赔了4亿不叫事？SIE为第一方游戏扩招DEI人士](https://www.3dmgame.com/news/202409/3905179.html)
+
++ [育碧《星战》工作室将很快转移到《全境封锁3》上](https://www.3dmgame.com/news/202409/3905178.html)
+
++ [80s动漫风街机式太空战斗游戏《Rogue Flight》公布](https://www.3dmgame.com/news/202409/3905183.html)
+
++ [《AI LIMIT 无限机兵》限时试玩10/14-21上线](https://www.3dmgame.com/news/202409/3905180.html)
+

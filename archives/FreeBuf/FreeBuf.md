@@ -43,3 +43,7 @@
 
 + [Apache OFBiz SSRF to RCE(CVE-2024-45507) 漏洞分析](https://www.freebuf.com/articles/web/410898.html)
 
++ [活跃的RansomHub勒索攻击组织情况分析](https://www.freebuf.com/articles/network/411006.html)
+
++ [FreeBuf周报 | 起亚经销商网站曝出严重漏洞；黑客囤积法国9500万条公民数据](https://www.freebuf.com/news/411907.html)
+
