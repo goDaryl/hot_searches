@@ -179,3 +179,11 @@
 
 + [展开『蕾斯莱莉娅娜』的新冒险，《炼金工房》新作将于PS5/PS4/NS/Steam上登场](https://www.3dmgame.com/news/202409/3905206.html)
 
++ [《第一后裔》连发两款热修复补丁 修复组队和技能问题](https://www.3dmgame.com/news/202409/3905215.html)
+
++ [VR版塔科夫《塔博尔幽灵》收入超2千万美元](https://www.3dmgame.com/news/202409/3905216.html)
+
++ [《原神》四周年配音演员祝福-「炽心同行的笺语」](https://www.3dmgame.com/news/202409/3905217.html)
+
++ [小米、OPPO、vivo、联想应用商店开始逐步清理32位应用](https://www.3dmgame.com/news/202409/3905214.html)
+
