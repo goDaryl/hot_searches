@@ -101,3 +101,33 @@
 
 + [Python Web架构：微服务与服务网格的实践](https://blog.csdn.net/weixin_52392194/article/details/142594571)
 
++ [【数据库】深入解析 MongoDB 数据库语法](https://blog.csdn.net/weixin_36755535/article/details/142573116)
+
++ [自学黑客（网络安全），一般人我劝你还是算了吧](https://blog.csdn.net/2401_85023453/article/details/142587590)
+
++ [一文读懂Ingress-Nginx以及实践攻略](https://blog.csdn.net/u013522701/article/details/142589291)
+
++ [19.1 使用k8s的sdk编写一个项目获取pod和node信息](https://blog.csdn.net/weixin_48502062/article/details/142566770)
+
++ [基于yolov8的辣椒缺陷检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/142610000)
+
++ [全国大学生智能汽车竞赛：听听他们怎么说。](https://blog.csdn.net/zhuoqingjoking97298/article/details/142611579)
+
++ [Mybatis-Flex分页功能应用](https://blog.csdn.net/weixin_57611890/article/details/142618193)
+
++ [深度解析TikTok账号养成与住宅IP的关键作用](https://blog.csdn.net/IPdodo/article/details/142599635)
+
++ [Unity八股总结](https://blog.csdn.net/Petrichorzncu/article/details/142386676)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/142587593)
+
++ [Python 在Excel中创建、更新和删除数据透视表](https://blog.csdn.net/nuclear2011/article/details/142596739)
+
++ [Vue3(五) 组件通信大汇总](https://blog.csdn.net/qq_44285582/article/details/142526812)
+
++ [信号处理: Block Pending Handler 与 SIGKILL/SIGSTOP 实验](https://blog.csdn.net/taduanlangan/article/details/142605967)
+
++ [AI驱动TDSQL-C Serverless 数据库技术实战营-与AI的碰撞](https://blog.csdn.net/m0_52165864/article/details/142587416)
+
++ [AI驱动TDSQL-C Serverless 数据库技术实战营-电商可视分析](https://blog.csdn.net/weixin_74888502/article/details/142568497)
+
