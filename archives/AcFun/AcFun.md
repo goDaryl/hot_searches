@@ -65,3 +65,5 @@
 
 + [肝了一晚上的PNGTuber，可爱捏](http://www.acfun.cn/v/ac46306751)
 
++ [TGS2024惊现游戏角色乱入【2024东京游戏展】【东京电玩展】](http://www.acfun.cn/v/ac46314232)
+
