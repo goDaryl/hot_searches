@@ -47,3 +47,5 @@
 
 + [FreeBuf周报 | 起亚经销商网站曝出严重漏洞；黑客囤积法国9500万条公民数据](https://www.freebuf.com/news/411907.html)
 
++ [恶意Bot流量识别分析实践](https://www.freebuf.com/articles/web/411344.html)
+
