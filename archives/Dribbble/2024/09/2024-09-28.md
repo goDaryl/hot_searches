@@ -127,3 +127,9 @@
 
 + [wordmark logo, courier service logo, deliver logo](https://dribbble.com/shots/)
 
++ [VegaBet - Online Casino Platform](https://dribbble.com/shots/)
+
++ [Paw - Letter cp - logo design](https://dribbble.com/shots/)
+
++ [Fintech / Finance Website](https://dribbble.com/shots/)
+
