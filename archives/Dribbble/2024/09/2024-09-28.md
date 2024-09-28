@@ -95,3 +95,11 @@
 
 + [Free Lighter Mockup](https://dribbble.com/shots/)
 
++ [logo design & brand identity mark](https://dribbble.com/shots/)
+
++ [Bear love logo](https://dribbble.com/shots/)
+
++ [Data cube for NVIDIA demo](https://dribbble.com/shots/)
+
++ [McKurd  logo design](https://dribbble.com/shots/)
+

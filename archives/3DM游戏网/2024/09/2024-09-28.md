@@ -187,3 +187,5 @@
 
 + [小米、OPPO、vivo、联想应用商店开始逐步清理32位应用](https://www.3dmgame.com/news/202409/3905214.html)
 
++ [《星鸣特攻》首发月在欧洲地区销量仅排到347位](https://www.3dmgame.com/news/202409/3905218.html)
+
