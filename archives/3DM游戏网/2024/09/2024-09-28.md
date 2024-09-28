@@ -157,3 +157,9 @@
 
 + [OpenAI计划融65亿美元 苹果被曝退出本次融资](https://www.3dmgame.com/news/202409/3905201.html)
 
++ [《怪物猎人：荒野》PS5版当前无性能模式 PS5 Pro版正在评估中](https://www.3dmgame.com/news/202409/3905205.html)
+
++ [《Farming Simulator 25》送海量真大米？达成2万心愿单就送所有玩家农机DLC](https://www.3dmgame.com/news/202409/3905204.html)
+
++ [《索尼克x夏特 世代重启》最新资讯公开：描绘夏特前传故事的序章动画第一集现已发布！](https://www.3dmgame.com/news/202409/3905203.html)
+
