@@ -143,3 +143,7 @@
 
 + [Spark与Hive计算转义数据结果不同造成数据差异](https://blog.csdn.net/lypszm/article/details/142603885)
 
++ [本地部署开源在线PPT制作与演示应用PPTist并实现异地远程使用](https://blog.csdn.net/2201_75743654/article/details/142553125)
+
++ [【计算机网络】Tcp报文的组成，Tcp是如何实现可靠传输的？](https://blog.csdn.net/yican2580/article/details/142618177)
+

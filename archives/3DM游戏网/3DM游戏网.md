@@ -109,3 +109,5 @@
 
 + [好评2D动作游戏《九日》11月26日登陆主机平台](https://www.3dmgame.com/news/202409/3905229.html)
 
++ [派对运动游戏《乐一通：疯狂运动世界》上市](https://www.3dmgame.com/news/202409/3905233.html)
+
