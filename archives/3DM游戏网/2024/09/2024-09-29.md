@@ -281,3 +281,5 @@
 
 + [《宿星的女朋友3》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3898370.html)
 
++ [《死亡搁浅2》TGS 2024新视频 将是比1代更怪异的游戏](https://www.3dmgame.com/news/202409/3905279.html)
+
