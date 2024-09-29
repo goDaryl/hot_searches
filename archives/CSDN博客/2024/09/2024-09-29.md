@@ -165,3 +165,11 @@
 
 + [HTML+CSS 水滴登录页](https://blog.csdn.net/qq_45990281/article/details/142622406)
 
++ [【大模型】通俗解读变分自编码器VAE](https://blog.csdn.net/xian0710830114/article/details/142487069)
+
++ [【Unity精品插件】Feel：提升游戏打击感的利器](https://blog.csdn.net/UnityBoy/article/details/142624247)
+
++ [深度解析 HTTP](https://blog.csdn.net/2202_76097976/article/details/142612650)
+
++ [2022浙江省赛G I M](https://blog.csdn.net/s1379659220/article/details/142587658)
+
