@@ -103,3 +103,13 @@
 
 + [《最终幻想16完全版》现已登陆PS5 降价至50美元](https://www.3dmgame.com/news/202409/3905287.html)
 
++ [六载征程终落幕！漫画《咒术回战》迎来最终章](https://www.3dmgame.com/news/202409/3905292.html)
+
++ [Capcom暗示或将推出《丧尸围城2》重制版](https://www.3dmgame.com/news/202409/3905291.html)
+
++ [Atlus新作RPG《暗喻幻想》将于年底推出漫画](https://www.3dmgame.com/news/202409/3905290.html)
+
++ [《如龙》真人剧集发布真岛吾朗全新预告](https://www.3dmgame.com/news/202409/3905289.html)
+
++ [《大江湖之苍龙与白鸟》正式版10月24日上市](https://www.3dmgame.com/news/202409/3905288.html)
+
