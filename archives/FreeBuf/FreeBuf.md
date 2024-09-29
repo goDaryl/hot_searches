@@ -57,3 +57,5 @@
 
 + [黑客伙同通信公司员工注册倒卖微信号牟利，涉案上千万！](https://www.freebuf.com/news/412017.html)
 
++ [DnsDiag：一款针对DNS的故障排除和安全审计工具](https://www.freebuf.com/sectool/412020.html)
+
