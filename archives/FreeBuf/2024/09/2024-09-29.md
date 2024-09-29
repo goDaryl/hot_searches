@@ -59,3 +59,7 @@
 
 + [DnsDiag：一款针对DNS的故障排除和安全审计工具](https://www.freebuf.com/sectool/412020.html)
 
++ [@新手白帽子，招兼职啦！](https://www.freebuf.com/articles/others-articles/412026.html)
+
++ [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
+
