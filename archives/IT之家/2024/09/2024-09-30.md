@@ -53,3 +53,5 @@
 
 + [IT之家纯血鸿蒙 1.0 原生正式版上架！](https://m.ithome.com/html/799547.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 系统游戏《王者荣耀前瞻版》支持 120 帧高刷](https://m.ithome.com/html/799530.htm)
+

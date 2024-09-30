@@ -207,3 +207,19 @@
 
 + [全球液晶电视面板最新出货量：国屏一哥京东方第一](https://www.3dmgame.com/news/202409/3905339.html)
 
++ [从来没见过！英伟达显卡无敌独占88% Intel不幸归零](https://www.3dmgame.com/news/202409/3905347.html)
+
++ [《怪物猎人》与芬达乐器合作 推出雄火龙主题电吉他](https://www.3dmgame.com/news/202409/3905346.html)
+
++ [《黑神话》游戏摄影新截图 各路女妖精魅力十足](https://www.3dmgame.com/news/202409/3905344.html)
+
++ [格斗游戏《全职猎人NEN×IMPACT》宣布跳票 2025年发售](https://www.3dmgame.com/news/202409/3905343.html)
+
++ [阿祖狂喜 美商标局取消漫威和DC公司“Super Hero”联合商标](https://www.3dmgame.com/news/202409/3905345.html)
+
++ [KK官方对战平台邀您共赴十月庆典，家乡情满月下盛宴](https://www.3dmgame.com/news/202409/3905340.html)
+
++ [《黑神话》新一批原画欣赏 铁扇公主虎先锋黑熊精等](https://www.3dmgame.com/news/202409/3905342.html)
+
++ [魔兽争霸回来了！KK官方对战平台发布王座计划，50万奖金池上不封顶！](https://www.3dmgame.com/news/202409/3905341.html)
+

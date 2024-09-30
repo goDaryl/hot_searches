@@ -131,3 +131,13 @@
 
 + [X-VØID™ - TECH, Logo & Brand Identity, Concept vol.2.1 • 2024](https://dribbble.com/shots/)
 
++ [Tusk - Wordmark / Logotype Design](https://dribbble.com/shots/)
+
++ [REVIQ iOS App](https://dribbble.com/shots/)
+
++ [Crypto Wallet | Mobile App](https://dribbble.com/shots/)
+
++ [Smile!](https://dribbble.com/shots/)
+
++ [Booklet Design - Wallure Home](https://dribbble.com/shots/)
+
