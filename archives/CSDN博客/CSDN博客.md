@@ -131,3 +131,7 @@
 
 + [HarmonyOS/OpenHarmony 离线加载web资源，并实现web资源更新](https://blog.csdn.net/weixin_44640245/article/details/142635867)
 
++ [Java Deeplearning4j：构建和训练循环神经网络（RNN）模型](https://blog.csdn.net/lilinhai548/article/details/142626280)
+
++ [[Redis][典型运用][缓存]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142613911)
+

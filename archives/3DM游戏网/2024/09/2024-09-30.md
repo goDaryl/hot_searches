@@ -113,3 +113,9 @@
 
 + [《大江湖之苍龙与白鸟》正式版10月24日上市](https://www.3dmgame.com/news/202409/3905288.html)
 
++ [外媒揣测PS5 Pro销量或不佳 甚至都没有被黄牛盯上](https://www.3dmgame.com/news/202409/3905295.html)
+
++ [腾讯《三角洲行动》真人宣传片 威龙出动使命必达](https://www.3dmgame.com/news/202409/3905294.html)
+
++ [育碧称《星球大战：亡命之徒》销量不佳 是因为玩家期望过高](https://www.3dmgame.com/news/202409/3905293.html)
+

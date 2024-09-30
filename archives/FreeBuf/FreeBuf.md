@@ -41,3 +41,5 @@
 
 + [Minderbinder：一款基于eBPF的进程安全测试工具](https://www.freebuf.com/sectool/411772.html)
 
++ [对Amadey恶意软件中的字符串进行混淆](https://www.freebuf.com/articles/system/411478.html)
+
