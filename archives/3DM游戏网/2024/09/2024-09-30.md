@@ -173,3 +173,13 @@
 
 + [TV动画《碧蓝之海》第二季宣布制作决定 播出时间待定](https://www.3dmgame.com/news/202409/3905312.html)
 
++ [《烈火战车》配音演员透露老游戏捆绑包将于明年推出 登陆PS5](https://www.3dmgame.com/news/202409/3905326.html)
+
++ [iPhone16全球价格对比：中国最便宜 比均价低1200元](https://www.3dmgame.com/news/202409/3905327.html)
+
++ [回合制战术卡牌游戏《投斧幽灵》已推出试玩Demo 2024年第四季度推出](https://www.3dmgame.com/news/202409/3905323.html)
+
++ [《寂静之地：前方之路》叙事设计师表示游戏所选时间线可以提供很大的自由度](https://www.3dmgame.com/news/202409/3905324.html)
+
++ [《寂静岭2：重制版》媒体评分或将于10月4日解禁](https://www.3dmgame.com/news/202409/3905325.html)
+

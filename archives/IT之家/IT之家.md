@@ -37,3 +37,7 @@
 
 + [OPPO Find X8 全系标配 50W 无线充电，5000mAh 磁吸移动电源曝光](https://m.ithome.com/html/799271.htm)
 
++ [一加：全球首块“第二代东方屏”成功点亮，将带来更出类拔萃的表现](https://m.ithome.com/html/799396.htm)
+
++ [奇瑞回应“收购玛莎拉蒂”传闻：并无相关消息](https://m.ithome.com/html/799374.htm)
+

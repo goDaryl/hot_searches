@@ -53,3 +53,5 @@
 
 + [虚假英雄联盟下载广告正传播 Lumma Stealer 恶意软件](https://www.freebuf.com/news/412090.html)
 
++ [PrintNightmare打域控漏洞的一次艰难利用](https://www.freebuf.com/vuls/410628.html)
+
