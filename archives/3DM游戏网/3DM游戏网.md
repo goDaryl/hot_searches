@@ -229,3 +229,7 @@
 
 + [董宇辉直播翻车 称居里夫人获得了诺贝尔文学奖](https://www.3dmgame.com/news/202409/3905350.html)
 
++ [TGS 2024吸引27.4万人到场 TGS 2025 9月登场](https://www.3dmgame.com/news/202409/3905353.html)
+
++ [《怪物猎人：世界》48元史低促销 Steam在线超8万](https://www.3dmgame.com/news/202409/3905352.html)
+
