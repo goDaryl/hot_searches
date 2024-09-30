@@ -75,3 +75,7 @@
 
 + [HR Management Saas Landing Page](https://dribbble.com/shots/)
 
++ [Lumacare - skincare landing page](https://dribbble.com/shots/)
+
++ [Chatting Discord - Mobile Apps Animation](https://dribbble.com/shots/)
+

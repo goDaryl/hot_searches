@@ -151,3 +151,25 @@
 
 + [育碧够狠 在秋叶原投放《AC影》弥助斩首日本人广告](https://www.3dmgame.com/news/202409/3905308.html)
 
++ [《最终幻想7》蒂法新3D美图 性感身材诱惑力满满](https://www.3dmgame.com/news/202409/3905320.html)
+
++ [开放世界休闲邮差模拟游戏《狸狸：胖哒的夏日》现已上线Steam平台](https://www.3dmgame.com/news/202409/3905319.html)
+
++ [SpaceX龙飞船到达国际空间站 明年2月接回两名滞留宇航员](https://www.3dmgame.com/news/202409/3905318.html)
+
++ [肉鸽俯视角射击《Dead Estate》将于10月发布最终更新](https://www.3dmgame.com/news/202409/3905322.html)
+
++ [《刀剑神域：碎梦边境》开场动画公布 豪华版抢先体验已开启](https://www.3dmgame.com/news/202409/3905321.html)
+
++ [3DM商城国庆钜惠开启，19.9元赢3A游戏大作！](https://www.3dmgame.com/news/202409/3905317.html)
+
++ [《星空》DLC“破碎空间”发布倒计时 官方发布全球解锁时间表](https://www.3dmgame.com/news/202409/3905316.html)
+
++ [欧洲8月销量榜：《星战：亡命之徒》没打过《GTA5》](https://www.3dmgame.com/news/202409/3905315.html)
+
++ [宝可梦国际高薪聘请多元化专家 向小孩推广LGBTQ+](https://www.3dmgame.com/news/202409/3905314.html)
+
++ [《扑克牌对决》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202409/3905313.html)
+
++ [TV动画《碧蓝之海》第二季宣布制作决定 播出时间待定](https://www.3dmgame.com/news/202409/3905312.html)
+
