@@ -119,3 +119,27 @@
 
 + [育碧称《星球大战：亡命之徒》销量不佳 是因为玩家期望过高](https://www.3dmgame.com/news/202409/3905293.html)
 
++ [回合制战术角色扮演游戏《天空花园竞技场》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202409/3905307.html)
+
++ [《星刃》更新前后对比图 胸部有晃动和聚拢效果了](https://www.3dmgame.com/news/202409/3905304.html)
+
++ [《波比的游戏时间》DLC“第四章”Steam页面上线 发售日待定](https://www.3dmgame.com/news/202409/3905306.html)
+
++ [《炉石传说》官方再次为游戏问题致歉 追加补偿20个卡包](https://www.3dmgame.com/news/202409/3905305.html)
+
++ [育碧老板终于确认《不羁联盟》表现“落后于预期”](https://www.3dmgame.com/news/202409/3905303.html)
+
++ [传SIE开发恐怖游戏《Siren》重启版 登陆PS5](https://www.3dmgame.com/news/202409/3905301.html)
+
++ [《最后生还者》第二季预告与游戏对比 还原度高](https://www.3dmgame.com/news/202409/3905300.html)
+
++ [《宇宙机器人》制作团队“很难评价”SE方面不批准任何客串角色](https://www.3dmgame.com/news/202409/3905299.html)
+
++ [修仙题材卡牌管理游戏《卡牌修仙传》Steam商店页面 明年发售](https://www.3dmgame.com/news/202409/3905298.html)
+
++ [原田胜弘曾打算邀请山德士上校加入《铁拳》 被肯德基直接拒绝](https://www.3dmgame.com/news/202409/3905302.html)
+
++ [索尼加大投资地平线系列 寄希望于《地平线OL》](https://www.3dmgame.com/news/202409/3905297.html)
+
++ [彭博社记者：Xbox目前太混乱 计划每年都在变](https://www.3dmgame.com/news/202409/3905296.html)
+
