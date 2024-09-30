@@ -201,3 +201,9 @@
 
 + [PS游戏音乐大奖统计开始 结果12月13日公布](https://www.3dmgame.com/news/202409/3905333.html)
 
++ [幻想都市生活RPG《协律01：新生活》首部PV公开 年内发售](https://www.3dmgame.com/news/202409/3905337.html)
+
++ [DQ主创堀井雄二不理解“正确化” Jump前总编：装成正义的恶魔](https://www.3dmgame.com/news/202409/3905338.html)
+
++ [全球液晶电视面板最新出货量：国屏一哥京东方第一](https://www.3dmgame.com/news/202409/3905339.html)
+

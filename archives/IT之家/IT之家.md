@@ -51,3 +51,5 @@
 
 + [铁路 12306 App 华为鸿蒙原生版全量上线，将适配实况窗](https://m.ithome.com/html/799469.htm)
 
++ [IT之家纯血鸿蒙 1.0 原生正式版上架！](https://m.ithome.com/html/799547.htm)
+
