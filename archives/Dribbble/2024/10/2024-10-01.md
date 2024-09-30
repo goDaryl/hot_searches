@@ -49,3 +49,17 @@
 
 + [Beach - Website Header Illustration](https://dribbble.com/shots/)
 
++ [Clevant Ventures - Logo Design](https://dribbble.com/shots/)
+
++ [Schmuck Crab](https://dribbble.com/shots/)
+
++ [Violet Drake Games Logo](https://dribbble.com/shots/)
+
++ [Stupid Fish](https://dribbble.com/shots/)
+
++ [Blood Donation](https://dribbble.com/shots/)
+
++ [Website for a Platform ✦ Forge](https://dribbble.com/shots/)
+
++ [Travel Mobile App](https://dribbble.com/shots/)
+
