@@ -69,3 +69,9 @@
 
 + [UI-UX for a Finance SaaS ✦ Cleq](https://dribbble.com/shots/)
 
++ [Playland - Theme Park Mobile App 🎢](https://dribbble.com/shots/)
+
++ [Tiimi - Time and Employee Attendance Management in SaaS HR](https://dribbble.com/shots/)
+
++ [HR Management Saas Landing Page](https://dribbble.com/shots/)
+

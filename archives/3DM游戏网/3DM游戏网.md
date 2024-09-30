@@ -143,3 +143,11 @@
 
 + [彭博社记者：Xbox目前太混乱 计划每年都在变](https://www.3dmgame.com/news/202409/3905296.html)
 
++ [日服Switch Online会员新一期试玩同乐会：《我们之中》](https://www.3dmgame.com/news/202409/3905311.html)
+
++ [像素风太空沙盒角色扮演游戏《猎户座的尽头》现已上架Steam平台](https://www.3dmgame.com/news/202409/3905310.html)
+
++ [《星际战士2》泄露显示：马克6和马克7装甲即将到来](https://www.3dmgame.com/news/202409/3905309.html)
+
++ [育碧够狠 在秋叶原投放《AC影》弥助斩首日本人广告](https://www.3dmgame.com/news/202409/3905308.html)
+
