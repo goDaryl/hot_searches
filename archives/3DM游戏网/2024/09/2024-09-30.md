@@ -233,3 +233,7 @@
 
 + [《怪物猎人：世界》48元史低促销 Steam在线超8万](https://www.3dmgame.com/news/202409/3905352.html)
 
++ [《九龙城寨之围城》韩版海报 定档10.16在韩上映](https://www.3dmgame.com/news/202409/3905354.html)
+
++ [小而美独特手绘风+免费中文Demo！在《爱氏物语》中开启轻松治愈的RPG冒险](https://www.3dmgame.com/news/202409/3905348.html)
+

@@ -63,3 +63,5 @@
 
 + [消息称天玑 9400、骁龙 8 Gen 4 采购成本分别约 155 和 190 美元，上涨 20%±](https://m.ithome.com/html/799487.htm)
 
++ [消息称小米 15 Pro 手机长焦传感器升级为索尼 IMX858，小米 13 Ultra 同款](https://m.ithome.com/html/799558.htm)
+
