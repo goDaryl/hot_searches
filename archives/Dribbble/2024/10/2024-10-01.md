@@ -127,3 +127,15 @@
 
 + [Monograms and Lettermarks Part I](https://dribbble.com/shots/)
 
++ [Halloween Doodles](https://dribbble.com/shots/)
+
++ [Quiet Camp App Icon](https://dribbble.com/shots/)
+
++ [Green and Blue Color Palette for Logo - Branding Color Scheme](https://dribbble.com/shots/)
+
++ [INB Logo and Branding Design](https://dribbble.com/shots/)
+
++ [Panther Software](https://dribbble.com/shots/)
+
++ [WIP Akira / Website](https://dribbble.com/shots/)
+

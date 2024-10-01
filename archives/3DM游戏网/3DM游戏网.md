@@ -191,3 +191,5 @@
 
 + [脑机接口成功控制Vision Pro 运行一年无严重不良反应](https://www.3dmgame.com/news/202410/3905399.html)
 
++ [《刺客信条：影》不会更换男主 育碧将确保“历史准确”](https://www.3dmgame.com/news/202410/3905400.html)
+
