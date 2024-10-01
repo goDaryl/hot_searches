@@ -193,3 +193,5 @@
 
 + [《刺客信条：影》不会更换男主 育碧将确保“历史准确”](https://www.3dmgame.com/news/202410/3905400.html)
 
++ [吉田直树想让《最终幻想16》登陆Xbox平台](https://www.3dmgame.com/news/202410/3905401.html)
+
