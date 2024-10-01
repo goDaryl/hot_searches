@@ -49,3 +49,5 @@
 
 + [一次App更新差点要了这家老牌公司的命](https://www.freebuf.com/articles/412128.html)
 
++ [偏信则暗 —— Penpie 被黑分析](https://www.freebuf.com/articles/blockchain-articles/410657.html)
+
