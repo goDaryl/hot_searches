@@ -59,3 +59,5 @@
 
 + [微软 Win11 “重温经典”，紧凑任务栏有望回归](https://m.ithome.com/html/799758.htm)
 
++ [小米 SU7 上线 10 月限时购车权益：仍为 Nappa 真皮座椅、增强智驾](https://m.ithome.com/html/799762.htm)
+
