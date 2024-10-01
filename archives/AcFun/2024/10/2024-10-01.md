@@ -85,3 +85,7 @@
 
 + [【国庆】甜妹泪桥弹唱](http://www.acfun.cn/v/ac46329142)
 
++ [【国庆】《我和我的祖国》](http://www.acfun.cn/v/ac46329261)
+
++ [热 捂 葱 鸡](http://www.acfun.cn/v/ac46327480)
+
