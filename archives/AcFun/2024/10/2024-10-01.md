@@ -79,3 +79,9 @@
 
 + [【国庆】歹徒兴奋腿！！！★手机竖屏1290★](http://www.acfun.cn/v/ac46327916)
 
++ [【东方/爵士】Jazz Drive 专辑赏析【SyndraSound】](http://www.acfun.cn/v/ac46303876)
+
++ [北美蛇群曾大换血？中部大平原上，北美蛇群的现代化](http://www.acfun.cn/v/ac46327292)
+
++ [【国庆】甜妹泪桥弹唱](http://www.acfun.cn/v/ac46329142)
+
