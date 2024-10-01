@@ -101,3 +101,17 @@
 
 + [基于yolov8的100种中草药智能识别系统python源码+pt模型+训练日志+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/142667850)
 
++ [HarmonyOS NEXT：实现电影列表功能展示界面](https://blog.csdn.net/qq_53123067/article/details/142668331)
+
++ [【国庆要来了】基于Leaflet的旅游路线WebGIS可视化实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/142611759)
+
++ [滚雪球学MySQL[8.3讲]：数据库中的JSON与全文检索详解：从数据存储到全文索引的高效使用](https://blog.csdn.net/weixin_43970743/article/details/142670556)
+
++ [YOLOv11改进 | 注意力篇 | YOLOv11引入GAM注意力机制](https://blog.csdn.net/tsg6698/article/details/142669615)
+
++ [828华为云征文 | 利用FIO工具测试Flexus云服务器X实例存储性能](https://blog.csdn.net/qq_53317005/article/details/142659477)
+
++ [【在Linux世界中追寻伟大的One Piece】命名管道](https://blog.csdn.net/weixin_74809706/article/details/142644868)
+
++ [数据结构与算法学习（2）](https://blog.csdn.net/oddsss/article/details/140156133)
+
