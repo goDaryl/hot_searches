@@ -53,3 +53,7 @@
 
 + [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
 
++ [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
+
++ [Osctrl：一款快速高效的Osquery安全管理工具](https://www.freebuf.com/sectool/412042.html)
+

@@ -51,3 +51,7 @@
 
 + [小米推出米家空调自然风 Pro 上出风 1.5 匹版本，众筹价 3499 元](https://m.ithome.com/html/799627.htm)
 
++ [【IT之家评测室】苹果 Apple Watch Series 10 体验：果粉一如既往的首选，但这两点得注意](https://m.ithome.com/html/799622.htm)
+
++ [荣耀副董事长万飚因个人原因辞职](https://m.ithome.com/html/799588.htm)
+
