@@ -155,3 +155,25 @@
 
 + [iPhone 16 Pro Max物料成本曝光：256GB约3400元](https://www.3dmgame.com/news/202410/3905432.html)
 
++ [据称育碧“4A大作”《碧海黑帆》耗资6.5至8.5亿美元](https://www.3dmgame.com/news/202410/3905443.html)
+
++ [Devolver成立新品牌Big Fan 致力于影视漫画改编游戏](https://www.3dmgame.com/news/202410/3905440.html)
+
++ [《749局》豆瓣开分5.0：特效不如网游 剧情更是一团糟](https://www.3dmgame.com/news/202410/3905441.html)
+
++ [iPhone印度代工厂无限期停产 苹果欲转向中国救急](https://www.3dmgame.com/news/202410/3905442.html)
+
++ [经历裁员和决策失误后 Epic Games目前财务状况良好](https://www.3dmgame.com/news/202410/3905436.html)
+
++ [Monolith Soft成立25周年 发布纪念视频与壁纸庆祝](https://www.3dmgame.com/news/202410/3905437.html)
+
++ [《命运2》通过艺术图介绍新资料片以及次世代装甲](https://www.3dmgame.com/news/202410/3905438.html)
+
++ [OpenAI发布RealtimeAPI 助力第三方应用集成其语音合成技术](https://www.3dmgame.com/news/202410/3905439.html)
+
++ [《魔农传记 FARMAGIA》预告片介绍游戏登场角色](https://www.3dmgame.com/news/202410/3905435.html)
+
++ [《神之浩劫》开发商Hi-Rez裁员：为确保长期成功](https://www.3dmgame.com/news/202410/3905433.html)
+
++ [《Moon Mystery》Steam发售日预告 10月28日上线](https://www.3dmgame.com/news/202410/3905434.html)
+

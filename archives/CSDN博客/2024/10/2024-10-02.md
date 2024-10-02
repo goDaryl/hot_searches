@@ -169,3 +169,5 @@
 
 + [线性代数书中求解齐次线性方程组、非齐次线性方程组方法的特点和缺陷(附实例讲解)](https://blog.csdn.net/naozibuok/article/details/142671763)
 
++ [遗传算法与深度学习实战（15）——差分进化详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/142678083)
+
