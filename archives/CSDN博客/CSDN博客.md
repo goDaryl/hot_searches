@@ -111,3 +111,5 @@
 
 + [Linux：深入理解冯诺依曼结构与操作系统](https://blog.csdn.net/2301_79171011/article/details/142502210)
 
++ [Ollama 完整教程：本地 LLM 管理、WebUI 对话、Python/Java 客户端 API 应用](https://blog.csdn.net/qq_42978535/article/details/142679920)
+
