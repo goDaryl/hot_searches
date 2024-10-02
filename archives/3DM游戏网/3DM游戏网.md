@@ -123,3 +123,17 @@
 
 + [生存冒险游戏《多重人生》跳票到2025年Q1](https://www.3dmgame.com/news/202410/3905413.html)
 
++ [《奇迹时代4》年票预购 国区售价248元](https://www.3dmgame.com/news/202410/3905423.html)
+
++ [《DOTA2》7.37d更新和倾天之战典藏宝瓶II上线](https://www.3dmgame.com/news/202410/3905422.html)
+
++ [《龙腾世纪：影障守护者》Steam愿望单榜未能进前30名](https://www.3dmgame.com/news/202410/3905421.html)
+
++ [《变废为宝哥布林》11月6日EA发售 支持中文](https://www.3dmgame.com/news/202410/3905420.html)
+
++ [《王权与自由》在线冲到Steam第四 峰值人数超32万](https://www.3dmgame.com/news/202410/3905419.html)
+
++ [《背包精灵：决斗者》现已正式发售 收获特别好评](https://www.3dmgame.com/news/202410/3905418.html)
+
++ [微软HoloLens 2停产 无研发后续设备计划](https://www.3dmgame.com/news/202410/3905417.html)
+

@@ -31,3 +31,7 @@
 
 + [微软发布 Windows 11 2024 更新（24H2）及 LTSC 版本：引入 AI 元素，新增 Wi-Fi 7 支持](https://m.ithome.com/html/799826.htm)
 
++ [2024 国庆档首日电影票房 4.77 亿，《749 局》成单日冠军](https://m.ithome.com/html/799828.htm)
+
++ [华为 nova13 系列手机被曝 10 月 22 日发布](https://m.ithome.com/html/799829.htm)
+

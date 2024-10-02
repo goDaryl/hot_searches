@@ -45,3 +45,7 @@
 
 + [服务器端漏洞篇 | Web缓存欺骗专题](https://www.freebuf.com/articles/web/410634.html)
 
++ [深度解析 | 大模型原生安全](https://www.freebuf.com/articles/network/400726.html)
+
++ [成功破解Tor的匿名性，时序分析攻击技术这么厉害？](https://www.freebuf.com/articles/neopoints/412144.html)
+
