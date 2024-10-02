@@ -197,3 +197,5 @@
 
 + [《杀手3 VR》开发商XR Games通知大量员工或将被裁](https://www.3dmgame.com/news/202410/3905452.html)
 
++ [回合制战术策略‎游戏《Inkshade》Steam页面开放，发行日期待定](https://www.3dmgame.com/news/202410/3905454.html)
+
