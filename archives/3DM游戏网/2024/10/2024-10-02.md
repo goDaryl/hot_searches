@@ -107,3 +107,11 @@
 
 + [《寂静岭：townfall》仍在开发 或将延期发行](https://www.3dmgame.com/news/202410/3905406.html)
 
++ [开发者透露《索尼克×夏特 世代重启》通关时长](https://www.3dmgame.com/news/202410/3905412.html)
+
++ [《寂静岭2：重制版》PS5版下载大小超过50GB](https://www.3dmgame.com/news/202410/3905411.html)
+
++ [《暗黑破坏神4：憎恨之躯》新实景预告片为发售预热](https://www.3dmgame.com/news/202410/3905410.html)
+
++ [《寂静岭2：重制版》新视频展示劳拉/Boss战斗](https://www.3dmgame.com/news/202410/3905409.html)
+
