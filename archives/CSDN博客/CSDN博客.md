@@ -129,3 +129,7 @@
 
 + [CSS轮廓](https://blog.csdn.net/2401_82561004/article/details/142675673)
 
++ [Java Deeplearning4j：构建和训练卷积神经网络（CNN）模型](https://blog.csdn.net/lilinhai548/article/details/142518322)
+
++ [下一代性能怪兽RTX 5090最新规格更新与Blackwell架构解析](https://blog.csdn.net/weixin_50197960/article/details/142655511)
+

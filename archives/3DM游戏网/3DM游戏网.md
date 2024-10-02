@@ -115,3 +115,11 @@
 
 + [《寂静岭2：重制版》新视频展示劳拉/Boss战斗](https://www.3dmgame.com/news/202410/3905409.html)
 
++ [《切尔诺贝利人2：禁区》官方首个实机宣传片](https://www.3dmgame.com/news/202410/3905414.html)
+
++ [《暗黑破坏神4：憎恨之躯》10月8日早7点正式解锁](https://www.3dmgame.com/news/202410/3905415.html)
+
++ [微软明年10月终止支持Win10！Win11份额创历史新高](https://www.3dmgame.com/news/202410/3905416.html)
+
++ [生存冒险游戏《多重人生》跳票到2025年Q1](https://www.3dmgame.com/news/202410/3905413.html)
+
