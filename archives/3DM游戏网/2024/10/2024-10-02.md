@@ -177,3 +177,17 @@
 
 + [《Moon Mystery》Steam发售日预告 10月28日上线](https://www.3dmgame.com/news/202410/3905434.html)
 
++ [平台游戏《This Is Fine: Maximum Cope》Steam页面开放 不支持中文](https://www.3dmgame.com/news/202410/3905450.html)
+
++ [EA为《孢子》组建新团队 但暂时没有大更新或续作计划](https://www.3dmgame.com/news/202410/3905449.html)
+
++ [《无畏契约》转移至虚幻五引擎 神秘新项目开发中](https://www.3dmgame.com/news/202410/3905448.html)
+
++ [Tango在被微软关闭前已经在做《完美音浪2》了](https://www.3dmgame.com/news/202410/3905447.html)
+
++ [汉斯·季默打造 《龙腾世纪：影障守护者》主题曲欣赏](https://www.3dmgame.com/news/202410/3905446.html)
+
++ [应对黄牛抢货 索尼在日限制仅玩家可购买周年限定主机](https://www.3dmgame.com/news/202410/3905445.html)
+
++ [Epic老大蒂姆·斯威尼再谈元宇宙：代表游戏的未来](https://www.3dmgame.com/news/202410/3905444.html)
+
