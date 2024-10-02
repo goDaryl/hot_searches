@@ -191,3 +191,9 @@
 
 + [Epic老大蒂姆·斯威尼再谈元宇宙：代表游戏的未来](https://www.3dmgame.com/news/202410/3905444.html)
 
++ [多人合作角色扮演类Rogue动作游戏《Kernel Hearts》Steam页面上线 支持中文](https://www.3dmgame.com/news/202410/3905453.html)
+
++ [前《龙腾世纪》制作人认为《星鸣特攻》4亿美元成本说法合理](https://www.3dmgame.com/news/202410/3905451.html)
+
++ [《杀手3 VR》开发商XR Games通知大量员工或将被裁](https://www.3dmgame.com/news/202410/3905452.html)
+
