@@ -153,3 +153,17 @@
 
 + [Hey Heinzel Custom Website Icons](https://dribbble.com/shots/)
 
++ [Fast Car](https://dribbble.com/shots/)
+
++ [Logo & Visual Identity Exploration for Cosmic Radio](https://dribbble.com/shots/)
+
++ [CheckMonk Final Logo Design](https://dribbble.com/shots/)
+
++ [DeFi solution: web design, illustration, animation](https://dribbble.com/shots/)
+
++ [LuvaBull](https://dribbble.com/shots/)
+
++ [Geometric French Bulldog Logo](https://dribbble.com/shots/)
+
++ [The pink lighthouse](https://dribbble.com/shots/)
+

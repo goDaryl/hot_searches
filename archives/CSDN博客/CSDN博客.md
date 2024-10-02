@@ -181,3 +181,5 @@
 
 + [【Linux】解锁磁盘文件奥秘，高效数据管理的实战技巧](https://blog.csdn.net/m0_74808907/article/details/142679821)
 
++ [Mysql 学习——项目实战](https://blog.csdn.net/absths/article/details/142672847)
+
