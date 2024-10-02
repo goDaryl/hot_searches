@@ -207,3 +207,5 @@
 
 + [Steam 9月硬件调查 RTX 4060显卡提升最多](https://www.3dmgame.com/news/202410/3905458.html)
 
++ [微软开始“灵魂”拷问：为啥你们为PS5开发游戏 略过Xbox？](https://www.3dmgame.com/news/202410/3905459.html)
+
