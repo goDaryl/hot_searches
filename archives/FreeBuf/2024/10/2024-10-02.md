@@ -55,3 +55,5 @@
 
 + [SEMA：一款基于符号执行的恶意软件分析工具](https://www.freebuf.com/sectool/412060.html)
 
++ [密评 | PDF文件中电子签章手工验签](https://www.freebuf.com/articles/database/400338.html)
+
