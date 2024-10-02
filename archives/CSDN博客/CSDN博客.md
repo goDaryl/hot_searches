@@ -151,3 +151,13 @@
 
 + [(Kafka源码五)Kafka服务端处理消息](https://blog.csdn.net/weixin_42828342/article/details/136952911)
 
++ [【Python】探索自然语言处理的利器：THULAC 中文词法分析库详解](https://blog.csdn.net/jacksoon/article/details/142643777)
+
++ [C++网络编程之IP地址和端口](https://blog.csdn.net/hope_wisdom/article/details/142675376)
+
++ [Python 基于 flask 的前程无忧招聘可视化系统，Python大数据招聘爬虫可视化分析](https://blog.csdn.net/JasonXu94/article/details/142671802)
+
++ [中国身份证号码校验](https://blog.csdn.net/gcliyilin/article/details/142664700)
+
++ [【如何在Linux系统本地快速部署Leanote蚂蚁笔记】](https://blog.csdn.net/Aileenvov/article/details/142654174)
+
