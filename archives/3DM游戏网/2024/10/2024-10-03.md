@@ -157,3 +157,7 @@
 
 + [《寂静之地：前方之路》开发日记介绍新剧情细节](https://www.3dmgame.com/news/202410/3905483.html)
 
++ [国庆堵车不用急！高速公路摄像头个人可以实时查看](https://www.3dmgame.com/news/202410/3905492.html)
+
++ [不仅删除模拟器 任天堂向模拟视频发出版权警告](https://www.3dmgame.com/news/202410/3905493.html)
+
