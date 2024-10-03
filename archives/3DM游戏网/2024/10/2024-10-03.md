@@ -191,3 +191,11 @@
 
 + [《星空：破碎空间》Steam降至多半差评 玩家担忧《上古卷轴6》](https://www.3dmgame.com/news/202410/3905508.html)
 
++ [陆川回应《749局》口碑争议 “冲我来，别碰我的演员和主创”](https://www.3dmgame.com/news/202410/3905511.html)
+
++ [SIE确认PS5 Pro首发将有50款强化游戏](https://www.3dmgame.com/news/202410/3905512.html)
+
++ [EA主宰7月PC游戏热度榜 四款游戏入围](https://www.3dmgame.com/news/202410/3905510.html)
+
++ [暴雪正开发一个免费策略游戏 但可能是手游](https://www.3dmgame.com/news/202410/3905509.html)
+
