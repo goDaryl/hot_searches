@@ -145,3 +145,11 @@
 
 + [叙事驱动的心理恐怖游戏《缄默祸运》现已发售](https://www.3dmgame.com/news/202409/3905159.html)
 
++ [强强联手 业界老兵成立新工作室Day 4 Night](https://www.3dmgame.com/news/202410/3905521.html)
+
++ [传闻《直到黎明2》正在由Firesprite开发中](https://www.3dmgame.com/news/202410/3905520.html)
+
++ [《忍者神龟：斯普林特的命运》PC版11/6推出](https://www.3dmgame.com/news/202410/3905519.html)
+
++ [《文明7》PC需求公布 最低配置要求不高](https://www.3dmgame.com/news/202410/3905518.html)
+
