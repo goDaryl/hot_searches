@@ -89,3 +89,9 @@
 
 + [BETUP - Sports Betting](https://dribbble.com/shots/)
 
++ [Event UI/UX Mobile App Design - Discover Maps Search Event](https://dribbble.com/shots/)
+
++ [Dashboard Task Management Component](https://dribbble.com/shots/)
+
++ [31/32 – Vegas Devils](https://dribbble.com/shots/)
+

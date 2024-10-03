@@ -135,3 +135,7 @@
 
 + [传索尼高管对《羊蹄山之魂》首批玩家反响并不满意](https://www.3dmgame.com/news/202410/3905480.html)
 
++ [OpenAI雄心：2026 年销售额256亿美元](https://www.3dmgame.com/news/202410/3905481.html)
+
++ [《吸血鬼：避世血族-血猎》开发商新项目取消 将大量裁员](https://www.3dmgame.com/news/202410/3905482.html)
+
