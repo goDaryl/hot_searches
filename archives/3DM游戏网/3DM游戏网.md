@@ -139,3 +139,21 @@
 
 + [《吸血鬼：避世血族-血猎》开发商新项目取消 将大量裁员](https://www.3dmgame.com/news/202410/3905482.html)
 
++ [《乐高地平线大冒险》PS预购 11月14日发售](https://www.3dmgame.com/news/202410/3905491.html)
+
++ [《暗喻幻想》被误认为Xbox独占 引发部分玩家忧虑](https://www.3dmgame.com/news/202410/3905490.html)
+
++ [英国PlayStation专门《Play杂志》29年后宣布停刊](https://www.3dmgame.com/news/202410/3905489.html)
+
++ [滑雪事故11年后 车王舒马赫终于公开露面：参加女儿婚礼](https://www.3dmgame.com/news/202410/3905488.html)
+
++ [汽车续航超1000km 中国科学院半固态锂电池商用](https://www.3dmgame.com/news/202410/3905487.html)
+
++ [《禁闭求生》Steam版进行多人游戏不再需要微软账户](https://www.3dmgame.com/news/202410/3905486.html)
+
++ [Xbox联合创始人J Allard已加入亚马逊](https://www.3dmgame.com/news/202410/3905485.html)
+
++ [微软正在寻求非Xbox平台工作室的反馈意见](https://www.3dmgame.com/news/202410/3905484.html)
+
++ [《寂静之地：前方之路》开发日记介绍新剧情细节](https://www.3dmgame.com/news/202410/3905483.html)
+
