@@ -29,3 +29,7 @@
 
 + [汽车续航超 1000km、国际最先进行列，中国科学院半固态锂电池商用](https://m.ithome.com/html/799920.htm)
 
++ [消息称中国品牌“小钢炮”太强，三星可能取消 Galaxy S26 标准版手机](https://m.ithome.com/html/799945.htm)
+
++ [苹果重回榜首、抖音进前五，Brand Finance 2024 全球科技品牌价值 100 强榜单发布](https://m.ithome.com/html/799912.htm)
+
