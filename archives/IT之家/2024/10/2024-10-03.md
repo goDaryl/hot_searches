@@ -33,3 +33,9 @@
 
 + [苹果重回榜首、抖音进前五，Brand Finance 2024 全球科技品牌价值 100 强榜单发布](https://m.ithome.com/html/799912.htm)
 
++ [加拿大对华进口电动汽车加征 100% 关税正式生效，商务部回应](https://m.ithome.com/html/799933.htm)
+
++ [一加手机因 5G 专利纠纷在德国再次被停售](https://m.ithome.com/html/799891.htm)
+
++ [摩托罗拉 ThinkPhone 25 手机登场：芳纶纤维背壳、天玑 7300 芯片、5 年安卓系统 / 安全更新，售价 499 欧元](https://m.ithome.com/html/799873.htm)
+
