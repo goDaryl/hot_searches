@@ -93,3 +93,15 @@
 
 + [Steel Play](https://dribbble.com/shots/)
 
++ [brivio](https://dribbble.com/shots/)
+
++ [Ford Logo Redesign Concept](https://dribbble.com/shots/)
+
++ [Cluster leaf design by Milkinside](https://dribbble.com/shots/)
+
++ [EnduroSat — Homepage](https://dribbble.com/shots/)
+
++ [Chamuko Toy](https://dribbble.com/shots/)
+
++ [Reaper's Holiday Vibes](https://dribbble.com/shots/)
+
