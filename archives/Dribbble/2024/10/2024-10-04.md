@@ -121,3 +121,11 @@
 
 + [Chief Guard Security - Logo Design](https://dribbble.com/shots/)
 
++ [Car Logo](https://dribbble.com/shots/)
+
++ [So'Un Noodle - Noodle Restaurant Social Media Exploration](https://dribbble.com/shots/)
+
++ [Cigar Box](https://dribbble.com/shots/)
+
++ [Dashboard Design for Investing Platform](https://dribbble.com/shots/)
+
