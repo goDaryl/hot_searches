@@ -31,3 +31,7 @@
 
 + [就在今天：《英雄联盟》LPL 战队时隔 1087 天再次在世界赛上战胜 T1](https://m.ithome.com/html/800050.htm)
 
++ [iPhone SE 4 曝料：首款自研 5G 基带、A18 芯片、8GB 内存、4800 万主摄，支持苹果牌 AI](https://m.ithome.com/html/800070.htm)
+
++ [苹果 iOS 18.0.1 更新发布：修复 iPhone 16 / Pro 系列机型触控无响应、分享表盘导致信息意外退出等 BUG](https://m.ithome.com/html/800063.htm)
+
