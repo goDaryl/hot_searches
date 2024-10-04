@@ -129,3 +129,11 @@
 
 + [Dashboard Design for Investing Platform](https://dribbble.com/shots/)
 
++ [Fast Car](https://dribbble.com/shots/)
+
++ [Planner](https://dribbble.com/shots/)
+
++ [Vectober 04 // Cozy](https://dribbble.com/shots/)
+
++ [Pet Care Professional Avatar](https://dribbble.com/shots/)
+
