@@ -213,3 +213,7 @@
 
 + [盲拍合约：让竞拍更公平与神秘的创新解决方案](https://blog.csdn.net/yoona333/article/details/142705067)
 
++ [vue3+vite@4+ts+elementplus创建项目详解](https://blog.csdn.net/cyz141001/article/details/142703509)
+
++ [【DataLoom】智能问数 - 自然语言与数据库交互](https://blog.csdn.net/m0_62963408/article/details/142709488)
+
