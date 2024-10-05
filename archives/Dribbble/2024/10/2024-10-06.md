@@ -59,3 +59,5 @@
 
 + [L modern logo/ finance app brand identity design](https://dribbble.com/shots/)
 
++ [Pixadex App Icon](https://dribbble.com/shots/)
+
