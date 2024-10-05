@@ -141,3 +141,13 @@
 
 + [《转转英雄》登陆Steam 肉鸽卡牌构建冒险](https://www.3dmgame.com/news/202410/3905561.html)
 
++ [传闻：《刺客信条：黑旗》重制版原定2025年11月推出 已被延期](https://www.3dmgame.com/news/202410/3905575.html)
+
++ [《近几灵务局》登陆Steam推出 除灵恐怖探险](https://www.3dmgame.com/news/202410/3905576.html)
+
++ [外媒记者体验国产大飞机C919 称其是游戏规则改变者](https://www.3dmgame.com/news/202410/3905574.html)
+
++ [《盗贼之海》第14赛季本月开启 将加入大量新鲜内容](https://www.3dmgame.com/news/202410/3905573.html)
+
++ [2024年10月24日，准备好在《风中行者》的抢先体验发布时跃入漩涡吧！](https://www.3dmgame.com/news/202410/3905572.html)
+
