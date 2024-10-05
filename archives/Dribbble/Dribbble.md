@@ -79,3 +79,9 @@
 
 + [Dog Hotel Landing Page](https://dribbble.com/shots/)
 
++ [Khabib Nurmagomedov Fan Art☝🏻](https://dribbble.com/shots/)
+
++ [SB Instagram post design](https://dribbble.com/shots/)
+
++ [MM*](https://dribbble.com/shots/)
+
