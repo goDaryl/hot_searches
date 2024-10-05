@@ -101,3 +101,27 @@
 
 + [[论文笔记]SGPT: GPT Sentence Embeddings for Semantic Search](https://blog.csdn.net/yjw123456/article/details/142696621)
 
++ [AI 驱动的数据库 TDSQL-C Serverless实现企业AI海报 + 数据平台建设](https://blog.csdn.net/wanmeijuhao/article/details/142689487)
+
++ [从认识String类，到走进String类的世界](https://blog.csdn.net/2301_80350265/article/details/142689243)
+
++ [22.3 解读k8s服务发现源码](https://blog.csdn.net/weixin_48502062/article/details/142707118)
+
++ [哪些公司正在探索和实践低代码开发？如何选择合适的低代码平台？](https://blog.csdn.net/cwyd0822/article/details/142720861)
+
++ [[大语言模型-算法优化] 微调技术-LoRA算法原理及优化应用详解](https://blog.csdn.net/fyf2007/article/details/142372076)
+
++ [【LLM】Agent在智能客服的实践（AI agent、记忆、快捷回复 | ReAct）](https://blog.csdn.net/qq_35812205/article/details/142703092)
+
++ [Spring框架：Spring Core、Spring AOP、Spring MVC、Spring Boot、Spring Cloud等组件的基本原理及使用](https://blog.csdn.net/xunge1191656684/article/details/142700686)
+
++ [深度学习的应用综述](https://blog.csdn.net/callmeup/article/details/142701924)
+
++ [华为 HCIP-Datacom H12-821 题库 (32)](https://blog.csdn.net/2301_77362941/article/details/142713981)
+
++ [ChatGPT Canvas：交互式对话编辑器](https://blog.csdn.net/XiaoLiuLB/article/details/142717897)
+
++ [【隐私计算篇】多方安全计算之函数秘密共享(FSS)](https://blog.csdn.net/weixin_65514978/article/details/142704372)
+
++ [HTTP的工作原理](https://blog.csdn.net/2302_81178149/article/details/142706863)
+
