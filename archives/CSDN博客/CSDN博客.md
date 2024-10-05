@@ -231,3 +231,11 @@
 
 + [【springboot】整合LoadBalancer](https://blog.csdn.net/BlackPudding_/article/details/142698470)
 
++ [【分布式微服务云原生】详解Redis的主从模式，主服务器挂了如何从多个从服务器选出新的主服务器](https://blog.csdn.net/u010425839/article/details/142688720)
+
++ [深度学习的应用综述](https://blog.csdn.net/callmeup/article/details/142701924)
+
++ [HTTPS 的加密流程](https://blog.csdn.net/GodK777/article/details/142706100)
+
++ [如何快速切换电脑的ip地址](https://blog.csdn.net/hgdlip/article/details/142712130)
+
