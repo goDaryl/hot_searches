@@ -111,3 +111,9 @@
 
 + [《龙腾世纪：影障守护者》完成开发 进入压盘阶段](https://www.3dmgame.com/news/202410/3905553.html)
 
++ [强地磁活动要来了！我国北方部分地区有机会看到极光](https://www.3dmgame.com/news/202410/3905559.html)
+
++ [延期十天 PS5日服《幻兽帕鲁》现已发售](https://www.3dmgame.com/news/202410/3905558.html)
+
++ [《药剂大亨》登陆Steam 巫术大师模拟养成](https://www.3dmgame.com/news/202410/3905557.html)
+

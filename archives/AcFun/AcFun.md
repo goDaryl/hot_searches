@@ -71,3 +71,5 @@
 
 + [随手记录我的生活碎片](http://www.acfun.cn/v/ac46341931)
 
++ [《真是HR离职，不干人事啊》](http://www.acfun.cn/v/ac46342302)
+

@@ -33,3 +33,5 @@
 
 + [欧盟委员会向中国电动汽车征收反补贴税提议获通过](https://m.ithome.com/html/800148.htm)
 
++ [AAA 级大作，《降世神通：最后的气宗》游戏已官宣](https://m.ithome.com/html/800096.htm)
+
