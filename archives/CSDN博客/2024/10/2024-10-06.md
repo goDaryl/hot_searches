@@ -141,3 +141,7 @@
 
 + [GPTQ vs AWQ vs GGUF（GGML） 速览和 GGUF 文件命名规范](https://blog.csdn.net/weixin_42426841/article/details/142706753)
 
++ [微信小程序地理定位与逆地址解析详解](https://blog.csdn.net/everfoot/article/details/142721172)
+
++ [yolov8.yaml](https://blog.csdn.net/2301_76846375/article/details/142715566)
+
