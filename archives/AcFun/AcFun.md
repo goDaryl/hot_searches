@@ -83,3 +83,9 @@
 
 + [【A站首发|新游展示】漫改游戏 《海绵宝宝：派大星游戏》体验及内容展示  依旧是质量稀烂的收割向游戏](http://www.acfun.cn/v/ac46342438)
 
++ [hjm秋哥秀vol.8](http://www.acfun.cn/v/ac46343324)
+
++ [“掏耳朵的半小时快乐”](http://www.acfun.cn/v/ac46343048)
+
++ [腿.玩.年！这TMD才叫腿玩年 ！ ！ ！](http://www.acfun.cn/v/ac46343053)
+
