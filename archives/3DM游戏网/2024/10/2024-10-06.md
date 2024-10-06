@@ -269,3 +269,5 @@
 
 + [现实版三体！美国探测器发现一个独特的三星系统：三颗恒星互绕](https://www.3dmgame.com/news/202410/3905646.html)
 
++ [英特尔下下代移动CPU将配第五代NPU 算力大提升](https://www.3dmgame.com/news/202410/3905648.html)
+

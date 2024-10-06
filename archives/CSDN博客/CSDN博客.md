@@ -213,3 +213,9 @@
 
 + [影刀RPA实战：Excel密码与字典功能指令](https://blog.csdn.net/ddf128/article/details/142722540)
 
++ [全流程Python编程、机器学习与深度学习实践技术应用](https://blog.csdn.net/zmjia111/article/details/142712042)
+
++ [计算机网络：物理层 —— 物理层下的传输媒体](https://blog.csdn.net/Zachyy/article/details/142718607)
+
++ [基于H3C环境的实验——OSPF](https://blog.csdn.net/qq_63926306/article/details/142719787)
+
