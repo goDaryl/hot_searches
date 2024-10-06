@@ -53,3 +53,5 @@
 
 + [Blinks：一款针对Burp Suite Pro的安全扫描增强工具](https://www.freebuf.com/sectool/412153.html)
 
++ [一个人的信息安全部（3）——数据防泄露【附有DLP选型对比表】](https://www.freebuf.com/articles/security-management/397806.html)
+
