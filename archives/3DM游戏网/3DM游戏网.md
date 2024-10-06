@@ -213,3 +213,11 @@
 
 + [少女漫改动画《好想告诉你》第三季全新宣传预告放出 8月1日起Netflix独占播出](https://www.3dmgame.com/news/202407/3899359.html)
 
++ [《要战便战》登陆Steam 好评城堡攻防即时战斗](https://www.3dmgame.com/news/202410/3905623.html)
+
++ [谷歌将为为安卓推出盗窃检测锁定功能 AI识别偷抢](https://www.3dmgame.com/news/202410/3905621.html)
+
++ [厨房管理游戏《末日等待》宣布10月24日发售 支持中文](https://www.3dmgame.com/news/202410/3905622.html)
+
++ [唯一一个公开社交媒体的V社员工表示自己这样太傻了](https://www.3dmgame.com/news/202410/3905620.html)
+
