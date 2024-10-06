@@ -259,3 +259,9 @@
 
 + [金摇杆提名游戏开发者呼吁拉票 却不是为自己的游戏](https://www.3dmgame.com/news/202410/3905637.html)
 
++ [《王国之心》索拉配音演员：功成身退也是一种选择](https://www.3dmgame.com/news/202410/3905644.html)
+
++ [《涂鸦英雄工厂》11月登陆Steam 塔防工厂建设](https://www.3dmgame.com/news/202410/3905645.html)
+
++ [《刺猬索尼克》游戏将尽可能长时间保持旧主机兼容](https://www.3dmgame.com/news/202410/3905643.html)
+
