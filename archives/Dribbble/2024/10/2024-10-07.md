@@ -65,3 +65,9 @@
 
 + [Full of Thoughts](https://dribbble.com/shots/)
 
++ [Herbaly Branding and Packaging Design - Tea](https://dribbble.com/shots/)
+
++ [Squirrel triskelion - 2](https://dribbble.com/shots/)
+
++ [Cats "Lubok" version](https://dribbble.com/shots/)
+
