@@ -29,3 +29,5 @@
 
 + [消息称华为 nova 13 系列手机预计 10 月 8 日官宣和预热](https://m.ithome.com/html/800262.htm)
 
++ [小米 Redmi Note 14 Pro 系列手机维修备件价格公布：显示屏 405 元起，主板 890 元起](https://m.ithome.com/html/800283.htm)
+
