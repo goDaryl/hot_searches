@@ -141,3 +141,21 @@
 
 + [肉鸽地牢《亡者之地》5月13日发售 支持试玩](https://www.3dmgame.com/news/202404/3894010.html)
 
++ [游客太多兵马俑被迫上夜班 特殊情况临时放夜场票](https://www.3dmgame.com/news/202410/3905608.html)
+
++ [《我的世界》主机版制作组新作《Reforj》预告片](https://www.3dmgame.com/news/202410/3905609.html)
+
++ [《死神：魂魄觉醒》开场动画公布 2025年发售](https://www.3dmgame.com/news/202410/3905610.html)
+
++ [《PACS》Steam上线 末日世界卡车运输模拟](https://www.3dmgame.com/news/202410/3905611.html)
+
++ [《寂静岭2：重制版》IGN日本10分 系列未来标杆](https://www.3dmgame.com/news/202410/3905612.html)
+
++ [《刺客信条：幻景》Steam版10月发售 商店页上线](https://www.3dmgame.com/news/202410/3905604.html)
+
++ [《Grunn》登陆Steam 卡通渲染像素风悬疑冒险](https://www.3dmgame.com/news/202410/3905605.html)
+
++ [《废都物语 重制版》Steam商店页面上线 发售日期待定](https://www.3dmgame.com/news/202410/3905606.html)
+
++ [《艾尔登法环：黄金树阴影》灵鳗杀死玩家将近30万次](https://www.3dmgame.com/news/202410/3905607.html)
+
