@@ -185,3 +185,9 @@
 
 + [如何快速切换电脑的ip地址](https://blog.csdn.net/hgdlip/article/details/142712130)
 
++ [【AIGC】ChatGPT开发者必备：如何获取 OpenAI 的 API Key](https://blog.csdn.net/2201_75539691/article/details/142701099)
+
++ [模型无关的局部解释（LIME）技术原理解析及多领域应用实践](https://blog.csdn.net/m0_46510245/article/details/142723444)
+
++ [【Spring】运行Spring Boot项目，请求响应流程分析以及404和500报错](https://blog.csdn.net/Yeeear/article/details/142695889)
+
