@@ -139,3 +139,13 @@
 
 + [男主开局收获三个未婚妻！这白毛妹太棒了！](http://www.acfun.cn/v/ac46345932)
 
++ [【国庆】Ai越来越懂Acer了！！！欢乐八点档-1064](http://www.acfun.cn/v/ac46348529)
+
++ [水刑、灌肠、模拟下葬！美国《酷刑报告》披露CIA酷刑折磨恐怖分子【墨菲】](http://www.acfun.cn/v/ac46349614)
+
++ [【东方】システム・フレイヤ【蓬莱人形 Ver. MMD】](http://www.acfun.cn/v/ac46348745)
+
++ [【怜兔x萤子】Near◆I m Near . I love you.](http://www.acfun.cn/v/ac46347319)
+
++ [恐怖鬼屋！金戈的秘密！？个人剧情解释《神奇数字马戏团》第三集](http://www.acfun.cn/v/ac46347771)
+
