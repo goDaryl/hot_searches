@@ -31,3 +31,5 @@
 
 + [小米 Redmi Note 14 Pro 系列手机维修备件价格公布：显示屏 405 元起，主板 890 元起](https://m.ithome.com/html/800283.htm)
 
++ [2024 香港僵尸电影《邪 Mall》首曝预告发布：姜皓文主演，10 月 31 日上映](https://m.ithome.com/html/800280.htm)
+
