@@ -49,3 +49,5 @@
 
 + [玩家制作 Mod 将《黑神话：悟空》变为第一人称射击游戏：用突击步枪干掉二郎神](https://m.ithome.com/html/800407.htm)
 
++ [英伟达 CEO 黄仁勋个人身价超英特尔市值，达 1092 亿美元](https://m.ithome.com/html/800416.htm)
+
