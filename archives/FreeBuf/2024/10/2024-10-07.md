@@ -46,3 +46,5 @@
 + [百密一疏！
 你是否败给了“最土”的攻击方式（ATO）？](https://www.freebuf.com/news/411745.html)
 
++ [非结构化数据资产分类分级建设实践与思考](https://www.freebuf.com/articles/database/396282.html)
+
