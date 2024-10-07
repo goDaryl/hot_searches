@@ -131,3 +131,7 @@
 
 + [Animation For Uplinq.com](https://dribbble.com/shots/)
 
++ [BlackBull Logo Reveal Animation](https://dribbble.com/shots/)
+
++ [Widget editor flow for Android OEM design](https://dribbble.com/shots/)
+
