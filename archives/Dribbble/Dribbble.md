@@ -135,3 +135,17 @@
 
 + [Widget editor flow for Android OEM design](https://dribbble.com/shots/)
 
++ [Nauci.me](https://dribbble.com/shots/)
+
++ [Black Panther](https://dribbble.com/shots/)
+
++ [G2M Symbols](https://dribbble.com/shots/)
+
++ [Stella - Fashion Ecommerce Website Mobile](https://dribbble.com/shots/)
+
++ [AI Motion Visual](https://dribbble.com/shots/)
+
++ [Holland Brooks Distillery](https://dribbble.com/shots/)
+
++ [TwentyFifty unused logo](https://dribbble.com/shots/)
+

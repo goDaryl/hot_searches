@@ -179,3 +179,11 @@
 
 + [《直到黎明》1.004版本更新 优化光追和DLSS等功能](https://www.3dmgame.com/news/202410/3905689.html)
 
++ [《维纳斯璀璨假期：死或生Xtreme》第二位女孩公布：菲欧娜](https://www.3dmgame.com/news/202410/3905696.html)
+
++ [《寂静岭2：重制版》维基百科遭大量恶意编辑 被迫锁定](https://www.3dmgame.com/news/202410/3905697.html)
+
++ [英媒发布游戏玩家IQ排行 《黑神话》玩家排第二](https://www.3dmgame.com/news/202410/3905698.html)
+
++ [《玩具熊的五夜后宫》第二部的规模更大更吓人](https://www.3dmgame.com/news/202410/3905695.html)
+
