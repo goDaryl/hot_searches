@@ -27,3 +27,7 @@
 
 + [比亚迪纯电小车海鸥上市累计销售 59.19 万辆，现款 6.98~8.58 万元](https://m.ithome.com/html/800310.htm)
 
++ [小米、OPPO、vivo 三家迭代新机续航规格曝光，小机身装下大电池](https://m.ithome.com/html/800395.htm)
+
++ [铁路 12306：候补订单的兑现率基本在 70% 以上](https://m.ithome.com/html/800369.htm)
+
