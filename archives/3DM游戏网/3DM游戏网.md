@@ -187,3 +187,5 @@
 
 + [《玩具熊的五夜后宫》第二部的规模更大更吓人](https://www.3dmgame.com/news/202410/3905695.html)
 
++ [网传苹果已取消开发智能戒指 或担心该品类设备影响Apple Watch销量](https://www.3dmgame.com/news/202410/3905699.html)
+
