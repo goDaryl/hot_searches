@@ -191,3 +191,11 @@
 
 + [投票显示超95%的国外玩家反对强制“包容性”](https://www.3dmgame.com/news/202410/3905700.html)
 
++ [《异形：隔离》发售十周年 Steam开启1.5折特惠](https://www.3dmgame.com/news/202410/3905703.html)
+
++ [《暗喻幻想：ReFantazio》评分解禁 M站均分94](https://www.3dmgame.com/news/202410/3905704.html)
+
++ [传《黑袍纠察队》日裔女星试镜《羊蹄山之鬼》被拒](https://www.3dmgame.com/news/202410/3905702.html)
+
++ [育碧回应被腾讯收购：正定期评估所有战略可能性](https://www.3dmgame.com/news/202410/3905701.html)
+
