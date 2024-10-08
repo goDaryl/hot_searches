@@ -51,3 +51,5 @@
 
 + [三只羊集团东部中心招牌已拆除](https://m.ithome.com/html/800607.htm)
 
++ [基于华为 HarmonyOS NEXT，WPS 鸿蒙版开启公测](https://m.ithome.com/html/800575.htm)
+

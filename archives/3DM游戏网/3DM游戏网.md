@@ -213,3 +213,7 @@
 
 + [万代公布《龙珠》40周年纪念周边 悟空发型毛线帽扎眼](https://www.3dmgame.com/news/202410/3905759.html)
 
++ [网友用雷军AI配音恶搞骂人 律师表示已违法](https://www.3dmgame.com/news/202410/3905763.html)
+
++ [年底国产旗舰扎堆杀到！vivo冲击连续四年国产销量第一：X200系列要来了](https://www.3dmgame.com/news/202410/3905764.html)
+
