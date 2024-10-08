@@ -105,3 +105,17 @@
 
 + [Micro Space - Website Case Study](https://dribbble.com/shots/)
 
++ [Payment app design](https://dribbble.com/shots/)
+
++ [Shopping](https://dribbble.com/shots/)
+
++ [Zen2Fit Brand Identity](https://dribbble.com/shots/)
+
++ [Trenning - Quiz List View in a SaaS Learning Management System](https://dribbble.com/shots/)
+
++ [Development](https://dribbble.com/shots/)
+
++ [TheLittleLabs Giphy Stickers](https://dribbble.com/shots/)
+
++ [P and golf](https://dribbble.com/shots/)
+

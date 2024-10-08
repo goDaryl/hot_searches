@@ -203,3 +203,13 @@
 
 + [经典《凡尔赛玫瑰》新动画电影定档2025年1月31日上映](https://www.3dmgame.com/news/202410/3905755.html)
 
++ [美国法官裁定Epic胜诉 谷歌必须开放第三方应用商店](https://www.3dmgame.com/news/202410/3905760.html)
+
++ [《寂静岭2：重制版》没使用D加密 已被黑客攻破](https://www.3dmgame.com/news/202410/3905761.html)
+
++ [Steam最新一周销量榜 《七龙珠 电光炸裂！ZERO》登顶](https://www.3dmgame.com/news/202410/3905762.html)
+
++ [OPPO Find X8全系标配无网畅聊：不插卡、无Wi-Fi也能通话](https://www.3dmgame.com/news/202410/3905758.html)
+
++ [万代公布《龙珠》40周年纪念周边 悟空发型毛线帽扎眼](https://www.3dmgame.com/news/202410/3905759.html)
+
