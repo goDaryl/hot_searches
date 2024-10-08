@@ -139,3 +139,9 @@
 
 + [Natural AI app onboarding design by Gleb Kuznetsov](https://dribbble.com/shots/)
 
++ [Halloween Monsters Collection](https://dribbble.com/shots/)
+
++ [Finance Management Mobile App](https://dribbble.com/shots/)
+
++ [Freddie](https://dribbble.com/shots/)
+

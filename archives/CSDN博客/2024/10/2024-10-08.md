@@ -217,3 +217,7 @@
 
 + [SQL语法学习](https://blog.csdn.net/qq_43556680/article/details/142736004)
 
++ [MS SQL Server 实战 统计与汇总重复记录](https://blog.csdn.net/michaelline/article/details/142753493)
+
++ [李飞飞：我不知道什么是AGI](https://blog.csdn.net/AIBigModel/article/details/142744657)
+
