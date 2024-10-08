@@ -44,3 +44,7 @@
 
 + [CC1链——全网最菜的分析思路](https://www.freebuf.com/articles/web/410767.html)
 
++ [高级漏洞篇 | Web大语言模型攻击专题](https://www.freebuf.com/articles/web/410633.html)
+
++ [FreeBuf早报 | WordPress与托管商WP Engine决裂；伊朗黑客被指控影响选举](https://www.freebuf.com/news/412102.html)
+

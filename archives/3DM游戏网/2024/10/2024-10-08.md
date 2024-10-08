@@ -131,3 +131,15 @@
 
 + [像素公路旅行RPG《一路前行》上架Steam](https://www.3dmgame.com/news/202410/3905712.html)
 
++ [《MainFrames》登陆Steam 桌面创意玩法休闲解谜](https://www.3dmgame.com/news/202410/3905725.html)
+
++ [《漫游驿站Wanderstop》宣布延期至2025年 登陆PS5和PC](https://www.3dmgame.com/news/202410/3905726.html)
+
++ [《战争之人2》将于本月推出离线模式 提升用户体验](https://www.3dmgame.com/news/202410/3905727.html)
+
++ [《龙腾世纪4》画风为何大变 总监：有意为之 突出角色](https://www.3dmgame.com/news/202410/3905722.html)
+
++ [老黄重磅回归！确认出席CES 2025 有望公布50系显卡](https://www.3dmgame.com/news/202410/3905723.html)
+
++ [《地平线：零之曙光》PC原版已被下架 为重制版让路](https://www.3dmgame.com/news/202410/3905724.html)
+
