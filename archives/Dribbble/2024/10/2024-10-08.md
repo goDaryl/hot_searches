@@ -69,3 +69,9 @@
 
 + [Crypto Exchange Dashboard Design](https://dribbble.com/shots/)
 
++ [You can do this!](https://dribbble.com/shots/)
+
++ [Case Study: Pencils of Promise Web Design](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Wordmark](https://dribbble.com/shots/)
+

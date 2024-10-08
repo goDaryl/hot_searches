@@ -111,3 +111,23 @@
 
 + [《七龙珠 电光炸裂！ZERO》公开燃爆开场动画](https://www.3dmgame.com/news/202410/3905709.html)
 
++ [互动电影游戏《终结降临》现已登陆Xbox One](https://www.3dmgame.com/news/202410/3905721.html)
+
++ [《合金装备3：重制版》伊娃美图及介绍 没ZZZQ真好](https://www.3dmgame.com/news/202410/3905720.html)
+
++ [2024年9月英国销量榜 《EA Sports FC25》登顶](https://www.3dmgame.com/news/202410/3905719.html)
+
++ [CDPR想通过《巫师4》和《2077》续作 重获粉丝信任](https://www.3dmgame.com/news/202410/3905718.html)
+
++ [生存恐怖续作《瘟疫3》面向PS5/XS/PC公布](https://www.3dmgame.com/news/202410/3905717.html)
+
++ [《寂静岭2》原版总监对Bloober重制版非常满意](https://www.3dmgame.com/news/202410/3905716.html)
+
++ [《使命召唤：黑色行动6》上市预告片为发行造势](https://www.3dmgame.com/news/202410/3905715.html)
+
++ [《底特律：化身为人》销量超过1000万部](https://www.3dmgame.com/news/202410/3905714.html)
+
++ [新一代MacBook Pro正式发布前被俄罗斯博主开箱](https://www.3dmgame.com/news/202410/3905713.html)
+
++ [像素公路旅行RPG《一路前行》上架Steam](https://www.3dmgame.com/news/202410/3905712.html)
+
