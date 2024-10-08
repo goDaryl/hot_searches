@@ -61,3 +61,15 @@
 
 + [二十多年后重返寂静岭【寂静岭2重制版实玩精彩集锦】](http://www.acfun.cn/v/ac46357528)
 
++ [【柯基】古典音乐《First Loss》舒曼](http://www.acfun.cn/v/ac46358417)
+
++ [地狱绘卷级别的哦沙威玛哦沙威玛《沙威玛传奇》主题曲跟唱](http://www.acfun.cn/v/ac46354426)
+
++ [【东方】四つ葉の日【多多良小伞 Ver. MMD】](http://www.acfun.cn/v/ac46355970)
+
++ [喜欢这个直拍，可能没有声音](http://www.acfun.cn/v/ac46355479)
+
++ [炉石传说：【天天素材库】 第334期](http://www.acfun.cn/v/ac46357142)
+
++ [区区十万大军，看唐僧师徒如何智斗九头虫《西游记后传》P11](http://www.acfun.cn/v/ac46357943)
+
