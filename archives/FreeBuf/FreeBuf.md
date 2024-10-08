@@ -48,3 +48,7 @@
 
 + [FreeBuf早报 | WordPress与托管商WP Engine决裂；伊朗黑客被指控影响选举](https://www.freebuf.com/news/412102.html)
 
++ [Apache Avro SDK曝关键漏洞，可在Java中执行任意代码](https://www.freebuf.com/articles/412231.html)
+
++ [新型僵尸网络针对 100 个国家发起 30 万次 DDoS 攻击](https://www.freebuf.com/news/412218.html)
+
