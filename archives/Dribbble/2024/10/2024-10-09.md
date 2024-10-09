@@ -129,3 +129,13 @@
 
 + [Ruxell - Logo Design](https://dribbble.com/shots/)
 
++ [Rapidway logo design](https://dribbble.com/shots/)
+
++ [Dungeons & Dragons Cocktail Book / Labels](https://dribbble.com/shots/)
+
++ [Task Manager Mobile App](https://dribbble.com/shots/)
+
++ [Dachshund Dog Logo](https://dribbble.com/shots/)
+
++ [Tarmak by Decathlon - Mountain shoes.](https://dribbble.com/shots/)
+
