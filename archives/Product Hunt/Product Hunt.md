@@ -127,3 +127,7 @@
 
 + [Layouts.dev](https://www.producthunt.com/posts/layouts-dev)
 
++ [Comic Factory](https://www.producthunt.com/posts/comic-factory-1)
+
++ [ClipScript](https://www.producthunt.com/posts/clipscript)
+
