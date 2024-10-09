@@ -44,3 +44,7 @@
 
 + [数据包签名校验的Web安全测试实践](https://www.freebuf.com/vuls/411550.html)
 
++ [医疗行业 | 数据安全建设方案](https://www.freebuf.com/consult/411981.html)
+
++ [FreeBuf早报 | 美国政府窃听系统遭反窃听；乐高网站被黑客入侵以推送加密货币骗局](https://www.freebuf.com/news/412267.html)
+
