@@ -113,3 +113,19 @@
 
 + [《节奏光剑》上线小甜甜布兰妮音乐包](https://www.3dmgame.com/news/202410/3905786.html)
 
++ [《龙腾世纪4》辅助功能介绍 调整难度隐藏HUD等](https://www.3dmgame.com/news/202410/3905795.html)
+
++ [《荒野大镖客：救赎》PC版配置要求公布 推荐2070](https://www.3dmgame.com/news/202410/3905793.html)
+
++ [索尼开卖PS5官翻机 可省100美元](https://www.3dmgame.com/news/202410/3905792.html)
+
++ [《山羊模拟器：重制版》将于11月7日推出](https://www.3dmgame.com/news/202410/3905791.html)
+
++ [《七龙珠 电光炸裂！ZERO》Steam同时在线超91000](https://www.3dmgame.com/news/202410/3905794.html)
+
++ [消息称任天堂新主机Switch 2已选择延期公布](https://www.3dmgame.com/news/202410/3905790.html)
+
++ [《寂静岭2：重制版》深藏彩蛋致敬konami字体错误](https://www.3dmgame.com/news/202410/3905789.html)
+
++ [日本监管机构文件显示沙特已减持任天堂股份](https://www.3dmgame.com/news/202410/3905788.html)
+
