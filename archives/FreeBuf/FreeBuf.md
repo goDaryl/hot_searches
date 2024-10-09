@@ -50,3 +50,7 @@
 
 + [微软 Word 曝“神奇Bug”，这样命名会直接删除文件](https://www.freebuf.com/news/412315.html)
 
++ [Awaken Likho恶意组织利用高级网络工具对俄罗斯政府发起“猛攻”](https://www.freebuf.com/news/412331.html)
+
++ [一条通往依赖混淆与远程代码执行 (RCE) 的道路](https://www.freebuf.com/vuls/411896.html)
+
