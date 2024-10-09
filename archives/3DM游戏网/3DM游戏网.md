@@ -147,3 +147,17 @@
 
 + [《模拟山羊3》将于10月24日登陆PS4和Xbox One](https://www.3dmgame.com/news/202410/3905798.html)
 
++ [《命运2》新章节“怨魂”发布预告片 章节1内容现已推出](https://www.3dmgame.com/news/202410/3905808.html)
+
++ [动作肉鸽游戏《护林猿神》宣布10月22日开启EA](https://www.3dmgame.com/news/202410/3905809.html)
+
++ [中世纪背景策略建造塔防游戏《边境开拓者》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3905810.html)
+
++ [世嘉联动痛飞机公开 女神异闻录索尼克涂装客机惊艳亮相](https://www.3dmgame.com/news/202410/3905811.html)
+
++ [《小小大星球3》宣布PS4版即将永久下架 已购买的玩家不受影响](https://www.3dmgame.com/news/202410/3905805.html)
+
++ [《inZOI》要挑战模拟人生的地位 带来全新体验](https://www.3dmgame.com/news/202410/3905806.html)
+
++ [《Beloved Rapture》登陆Steam 复古像素风RPG](https://www.3dmgame.com/news/202410/3905807.html)
+

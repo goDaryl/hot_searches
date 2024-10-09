@@ -161,3 +161,9 @@
 
 + [YOLO11改进|注意力机制篇|引入MSCA注意力机制](https://blog.csdn.net/A1983Z/article/details/142767445)
 
++ [深度学习——生成对抗网络（GAN）](https://blog.csdn.net/hh867308122/article/details/142764951)
+
++ [【机器学习】监督学习 vs 非监督学习——如何选择合适的方法](https://blog.csdn.net/qq_61654952/article/details/142773776)
+
++ [Java项目实战II基于Java+Spring Boot+MySQL的高校学科竞赛平台](https://blog.csdn.net/2401_86524610/article/details/142771856)
+
