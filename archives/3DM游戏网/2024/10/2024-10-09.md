@@ -211,3 +211,17 @@
 
 + [雷军澄清 曾经说过的“友商是sb”被很多人误解](https://www.3dmgame.com/news/202410/3905836.html)
 
++ [《黑神话》冯骥盛赞虚幻5引擎 并送上中国式抱拳礼](https://www.3dmgame.com/news/202410/3905841.html)
+
++ [杭州税务局确定 《黑神话：悟空》开发总成本3亿元](https://www.3dmgame.com/news/202410/3905843.html)
+
++ [《Dead Season》登陆Steam 丧尸末日回合制战术](https://www.3dmgame.com/news/202410/3905842.html)
+
++ [传《刺客信条：影》原本男主是山内鹰 协助德川家康服部半藏](https://www.3dmgame.com/news/202410/3905837.html)
+
++ [美国FAA发布安全警报：部分波音737方向舵存在隐患](https://www.3dmgame.com/news/202410/3905838.html)
+
++ [五菱确认！中国版电动K-CAR要来了：动力空间碾压日本原版](https://www.3dmgame.com/news/202410/3905839.html)
+
++ [11月7日正式发售《欢欣森活》中文DEMO现已上线](https://www.3dmgame.com/news/202410/3905840.html)
+
