@@ -54,3 +54,5 @@
 
 + [一条通往依赖混淆与远程代码执行 (RCE) 的道路](https://www.freebuf.com/vuls/411896.html)
 
++ [ggshield：查找并修复基础设施即代码错误配置和硬编码密钥](https://www.freebuf.com/sectool/412163.html)
+

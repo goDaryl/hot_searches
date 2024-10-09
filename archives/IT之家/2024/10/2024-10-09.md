@@ -45,3 +45,7 @@
 
 + [小米鼠标 X1 首销：8000Hz 回报率、65g 轻量化设计，售价 299 元](https://m.ithome.com/html/800669.htm)
 
++ [时代落幕，苹果宣布 iPhone 6、iPod nano 及 shuffle 彻底停产](https://m.ithome.com/html/800735.htm)
+
++ [联发科天玑 9400 旗舰手机处理器发布：第二代 8 核全大核，多核功耗降低 40%](https://m.ithome.com/html/800813.htm)
+
