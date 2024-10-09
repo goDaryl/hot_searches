@@ -179,3 +179,11 @@
 
 + [英国归还非洲最后的海外岛屿 业界担心.io域名将消失](https://www.3dmgame.com/news/202410/3905815.html)
 
++ [国外17岁高中生开发AI应用爆火！6个月狂揽700万](https://www.3dmgame.com/news/202410/3905824.html)
+
++ [玩家吐槽《寂静岭2：重制版》存档本地化 呼吁开放云存储](https://www.3dmgame.com/news/202410/3905823.html)
+
++ [《征服之歌》DLC“Vanir”今冬发售 未来将登陆主机和移动端](https://www.3dmgame.com/news/202410/3905822.html)
+
++ [多人动作类肉鸽游戏《皇家起义战士》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3905821.html)
+
