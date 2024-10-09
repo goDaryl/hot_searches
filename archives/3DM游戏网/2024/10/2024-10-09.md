@@ -245,3 +245,9 @@
 
 + [《光环》转向虚幻5 分析称让登陆PS5变得更容易](https://www.3dmgame.com/news/202410/3905851.html)
 
++ [《潜行者:区域传奇 三部曲》10月31日登陆NS 预告发布](https://www.3dmgame.com/news/202410/3905856.html)
+
++ [《寂静岭2：重制版》片尾出现ZZZQ公司 玩家：看女性长着男人脸就知道了](https://www.3dmgame.com/news/202410/3905854.html)
+
++ [非常正确！网友想象DEI版本的《光环》是这样](https://www.3dmgame.com/news/202410/3905855.html)
+
