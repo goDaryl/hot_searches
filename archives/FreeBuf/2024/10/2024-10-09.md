@@ -48,3 +48,5 @@
 
 + [FreeBuf早报 | 美国政府窃听系统遭反窃听；乐高网站被黑客入侵以推送加密货币骗局](https://www.freebuf.com/news/412267.html)
 
++ [微软 Word 曝“神奇Bug”，这样命名会直接删除文件](https://www.freebuf.com/news/412315.html)
+
