@@ -241,3 +241,7 @@
 
 + [万代逼迫中国选手弃赛后续：向中国玩家道歉 更改规则允许参赛](https://www.3dmgame.com/news/202410/3905852.html)
 
++ [《星空》DLC多半差评 设计总监回应：大家期待太高了](https://www.3dmgame.com/news/202410/3905853.html)
+
++ [《光环》转向虚幻5 分析称让登陆PS5变得更容易](https://www.3dmgame.com/news/202410/3905851.html)
+
