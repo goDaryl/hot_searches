@@ -209,3 +209,5 @@
 
 + [Steam好评如潮 《林间小世界》玩家数量突破50万](https://www.3dmgame.com/news/202410/3905831.html)
 
++ [雷军澄清 曾经说过的“友商是sb”被很多人误解](https://www.3dmgame.com/news/202410/3905836.html)
+

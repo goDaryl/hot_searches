@@ -51,3 +51,7 @@
 
 + [消息称小米将推 Redmi 电竞小平板，搭骁龙 8s Gen 3 处理器](https://m.ithome.com/html/800652.htm)
 
++ [vivo X200 系列手机官宣首发天玑 9400 旗舰处理器](https://m.ithome.com/html/800821.htm)
+
++ [打工人慎用：苹果 iPhone 镜像功能被曝隐私和法律风险](https://m.ithome.com/html/800749.htm)
+
