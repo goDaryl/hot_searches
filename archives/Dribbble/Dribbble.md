@@ -121,3 +121,5 @@
 
 + [Asana - iPad Mockup](https://dribbble.com/shots/)
 
++ [Abstract Cow Logo](https://dribbble.com/shots/)
+

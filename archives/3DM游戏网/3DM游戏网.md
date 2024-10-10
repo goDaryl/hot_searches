@@ -277,3 +277,7 @@
 
 + [国际空间站继续老化 俄罗斯舱段发生空气泄漏](https://www.3dmgame.com/news/202410/3905924.html)
 
++ [女性向像素RPG游戏《欺神弄鬼》即将登陆Steam新品节！试玩已开启](https://www.3dmgame.com/news/202410/3905929.html)
+
++ [富士康将打造全球最强AI超算中心 当前Top1的8.5倍](https://www.3dmgame.com/news/202410/3905928.html)
+

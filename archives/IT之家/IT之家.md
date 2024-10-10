@@ -43,3 +43,11 @@
 
 + [小米电脑管家下沉计划更新：Redmi G 游戏本 2022 等进行灰度测试](https://m.ithome.com/html/800983.htm)
 
++ [郭明錤评苹果 iPhone 16 系列出货量：Pro 机型马不停蹄生产，标准和 Plus 版未见起色](https://m.ithome.com/html/800993.htm)
+
++ [消息称一加 13 手机 BOE X2 东方屏规格“非常豪华”：支持 2K+120Hz 8T LTPO、配超瓷晶玻璃](https://m.ithome.com/html/800927.htm)
+
++ [“京东青年城”员工公寓一期项目封顶：家具齐全，可拎包入住](https://m.ithome.com/html/801002.htm)
+
++ [2024 年诺贝尔化学奖揭晓：AI 预测蛋白质结构里程碑突破，授予三位科学家](https://m.ithome.com/html/800931.htm)
+
