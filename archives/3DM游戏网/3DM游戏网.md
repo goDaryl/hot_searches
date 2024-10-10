@@ -233,3 +233,15 @@
 
 + [Embracer旗下《无冬OL》开发商Cryptic再次裁员](https://www.3dmgame.com/news/202410/3905905.html)
 
++ [《全金属中士2》Steam上线 新兵训练培养模拟器](https://www.3dmgame.com/news/202410/3905911.html)
+
++ [合作恐怖游戏《劫盗惊魂夜 Dark Hours》抢先体验版悄然来袭！](https://www.3dmgame.com/news/202410/3905910.html)
+
++ [回合战略类肉鸽枪械射击冷兵器游戏《刀剑竞技场》现已推出试玩Demo](https://www.3dmgame.com/news/202410/3905909.html)
+
++ [苹果最贵iPad果粉不买！曝iPad Pro出货量暴跌](https://www.3dmgame.com/news/202410/3905908.html)
+
++ [业内人士确认《守望先锋》手游版正在开发中](https://www.3dmgame.com/news/202410/3905907.html)
+
++ [年底有望实现！马斯克：特斯拉请求中国批准FSD监督版](https://www.3dmgame.com/news/202410/3905906.html)
+
