@@ -109,3 +109,7 @@
 
 + [任天堂发布互动游戏音乐闹钟Alarmo](https://www.3dmgame.com/news/202410/3905861.html)
 
++ [任天堂邀请1万名付费会员参加神秘测试计划](https://www.3dmgame.com/news/202410/3905864.html)
+
++ [Steam泄露《七龙珠 电光炸裂！ZERO》DLC](https://www.3dmgame.com/news/202410/3905865.html)
+
