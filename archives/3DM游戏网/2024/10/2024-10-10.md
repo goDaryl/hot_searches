@@ -149,3 +149,15 @@
 
 + [steam喜加一！免费领取“特别好评”游戏《Castle Break》](https://www.3dmgame.com/news/202410/3905870.html)
 
++ [顽皮狗等前员工组建NEARstudios首作 《山楂树》预告](https://www.3dmgame.com/news/202410/3905889.html)
+
++ [复古风格动作设计类肉鸽游戏《鸭鸭悖论》现已在Steam平台正式推出](https://www.3dmgame.com/news/202410/3905885.html)
+
++ [数毛社：Switch 2或将支持所有虚幻5引擎功能](https://www.3dmgame.com/news/202410/3905888.html)
+
++ [古风互动游戏《皇子驾到》预告 古装丝袜美女相伴](https://www.3dmgame.com/news/202410/3905886.html)
+
++ [《邻居：郊区战争》Steam上线开启测试 邻居大混战](https://www.3dmgame.com/news/202410/3905887.html)
+
++ [《英灵神殿》“沼泽女巫”更新即将推出公开测试](https://www.3dmgame.com/news/202410/3905884.html)
+

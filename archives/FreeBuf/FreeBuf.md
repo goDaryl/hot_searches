@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 四川暂停办理户籍和身份证业务；黑客称从网安公司Dr.Web窃取了10TB数据](https://www.freebuf.com/news/412382.html)
 
++ [FreeBuf早报 | 四川暂停办理户籍和身份证业务；黑客称从网安公司Dr.Web窃取10TB数据](https://www.freebuf.com/news/412382.html)
+

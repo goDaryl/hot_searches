@@ -145,3 +145,5 @@
 
 + [【艾思科蓝】C++游戏开发探秘：打造高性能游戏世界的钥匙](https://blog.csdn.net/weixin_73295475/article/details/142793847)
 
++ [进程的状态的理解（概念+Linux）](https://blog.csdn.net/Q741_147/article/details/142787808)
+
