@@ -209,3 +209,27 @@
 
 + [《努努之歌》开发商Tequila宣布新项目取消 并将裁员](https://www.3dmgame.com/news/202410/3905892.html)
 
++ [玩家分享在西服店白菜价买到完好3060显卡 定价原因惊呆网友](https://www.3dmgame.com/news/202410/3905894.html)
+
++ [治愈系生活模拟游戏《惠梅尔学院》现已在Steam平台抢先体验推出并获得好评](https://www.3dmgame.com/news/202410/3905895.html)
+
++ [《寂静岭 2》, Simulakros, 《星河舰队：灭绝》等游戏支持DLSS](https://www.3dmgame.com/news/202410/3905896.html)
+
++ [瑞士医生成功使用PS5手柄远程操控进行手术](https://www.3dmgame.com/news/202410/3905897.html)
+
++ [冒险游戏《虚妄之言》Steam页面开放 明年发售](https://www.3dmgame.com/news/202410/3905898.html)
+
++ [《寂静岭2：重制版》游戏摄影图赏 裙下视角很赞哟](https://www.3dmgame.com/news/202410/3905899.html)
+
++ [黑色幽默风格模拟经营游戏《血吧大亨》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3905900.html)
+
++ [前暴雪总裁在微软收购前曾计划对旗下游戏进行大改：减少《暗黑4》内购重启《守望》](https://www.3dmgame.com/news/202410/3905901.html)
+
++ [《小丑2：双重妄想》中文主角海报 10月16日全国上映](https://www.3dmgame.com/news/202410/3905902.html)
+
++ [Win11 24H2升级后多出8.63GB缓存无法清理 微软证实](https://www.3dmgame.com/news/202410/3905903.html)
+
++ [《Shady Knight》登陆Steam 高速战斗ACT](https://www.3dmgame.com/news/202410/3905904.html)
+
++ [Embracer旗下《无冬OL》开发商Cryptic再次裁员](https://www.3dmgame.com/news/202410/3905905.html)
+
