@@ -245,3 +245,25 @@
 
 + [年底有望实现！马斯克：特斯拉请求中国批准FSD监督版](https://www.3dmgame.com/news/202410/3905906.html)
 
++ [2024年内油价第八涨要来了！今晚上调：加满一箱多花4.5元](https://www.3dmgame.com/news/202410/3905921.html)
+
++ [经典《残月之锁宫》更新版登陆PS4/Switch 日风迷宫RPG](https://www.3dmgame.com/news/202410/3905922.html)
+
++ [《完蛋！我被美女包围了！前传》x《和平精英》联动 10月23日发售](https://www.3dmgame.com/news/202410/3905920.html)
+
++ [俯视角机甲动作肉鸽《机兵大乱战》Steam推出试玩](https://www.3dmgame.com/news/202410/3905919.html)
+
++ [《寂静岭2：重置版》玩家购买了铁盒版但只收到了标准版游戏](https://www.3dmgame.com/news/202410/3905918.html)
+
++ [KK官方对战平台新图推荐！RPG爽图治好你的假期综合症！](https://www.3dmgame.com/news/202410/3905917.html)
+
++ [KK官方对战平台S1赛季圣光揭幕战，木盖宿命对决再次上演！](https://www.3dmgame.com/news/202410/3905916.html)
+
++ [《勇者斗恶龙3：重制版》新要素公开 怪物战斗成长](https://www.3dmgame.com/news/202410/3905915.html)
+
++ [动作冒险游戏《Mentari》Steam页面开放 发售日待定](https://www.3dmgame.com/news/202410/3905914.html)
+
++ [澳洲玩家库中《迈阿密热线2》被移除：才发现没评级](https://www.3dmgame.com/news/202410/3905913.html)
+
++ [雨果·维文表示“受够了”《指环王》电影 没有兴趣参演《追捕咕噜》](https://www.3dmgame.com/news/202410/3905912.html)
+
