@@ -145,3 +145,5 @@
 
 + [Learnitab](https://www.producthunt.com/posts/learnitab)
 
++ [Podcastworld.io- Perplexity for Podcasts](https://www.producthunt.com/posts/podcastworld-io-perplexity-for-podcasts)
+
