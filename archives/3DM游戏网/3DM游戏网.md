@@ -267,3 +267,13 @@
 
 + [雨果·维文表示“受够了”《指环王》电影 没有兴趣参演《追捕咕噜》](https://www.3dmgame.com/news/202410/3905912.html)
 
++ [史上最长双十一来了！今年电商购物节10月14日开启：提前10天](https://www.3dmgame.com/news/202410/3905925.html)
+
++ [炉石传说国服恢复正常 补偿两周内上线](https://www.3dmgame.com/news/202410/3905926.html)
+
++ [马来西亚男子上班打游戏被炒鱿鱼 提出诉讼但败诉](https://www.3dmgame.com/news/202410/3905927.html)
+
++ [任天堂闹钟值不值100美元？媒体抢先分享更多细节](https://www.3dmgame.com/news/202410/3905923.html)
+
++ [国际空间站继续老化 俄罗斯舱段发生空气泄漏](https://www.3dmgame.com/news/202410/3905924.html)
+
