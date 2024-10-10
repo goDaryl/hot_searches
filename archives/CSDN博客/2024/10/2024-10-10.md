@@ -167,3 +167,7 @@
 
 + [【C++】单例模式「详尽版」](https://blog.csdn.net/2301_79181030/article/details/142796128)
 
++ [网络安全（黑客技术）2024年三个月自学手册](https://blog.csdn.net/2401_85026116/article/details/142784064)
+
++ [程序员在AI时代扮演着多重角色：不仅是AI技术的创造者，也是使用者，更是AIGC的贡献者](https://blog.csdn.net/qq_44866828/article/details/142811980)
+
