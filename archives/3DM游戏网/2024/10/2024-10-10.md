@@ -301,3 +301,7 @@
 
 + [《黑神话》二郎神3D模型欣赏 很酷帅实力强大](https://www.3dmgame.com/news/202410/3905931.html)
 
++ [《第九区》导演免费大逃杀游戏《Off the Grid》登陆抢先体验](https://www.3dmgame.com/news/202410/3905940.html)
+
++ [英特尔酷睿Ultra 200K/KF系列上架 2399元起](https://www.3dmgame.com/news/202410/3905942.html)
+
