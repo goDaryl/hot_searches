@@ -147,3 +147,11 @@
 
 + [进程的状态的理解（概念+Linux）](https://blog.csdn.net/Q741_147/article/details/142787808)
 
++ [【机器学习】金融预测 —— 风险管理与股市预测](https://blog.csdn.net/2202_76097976/article/details/142806066)
+
++ [Linux平台Kafka高可用集群部署全攻略](https://blog.csdn.net/weixin_53269650/article/details/142088476)
+
++ [滚雪球学Redis[4.1讲]：Redis的高可用性与集群架构](https://blog.csdn.net/weixin_43970743/article/details/141131764)
+
++ [MATLAB - 机器人机械臂设计轨迹规划器](https://blog.csdn.net/weixin_46300916/article/details/142764859)
+
