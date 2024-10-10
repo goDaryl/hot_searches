@@ -137,3 +137,11 @@
 
 + [认知战认知作战：萨尔浒之战-努尔哈赤认知作战下的明朝崩溃](https://blog.csdn.net/kejiju2023/article/details/142780755)
 
++ [C/C++程序员为什么要了解汇编？了解汇编有哪些好处？如何学习汇编？](https://blog.csdn.net/chenlycly/article/details/142795872)
+
++ [超越单线程：Web Worker 在前端性能中的角色](https://blog.csdn.net/qq_53123067/article/details/142768811)
+
++ [【在Linux世界中追寻伟大的One Piece】DNS与ICMP](https://blog.csdn.net/weixin_74809706/article/details/142793652)
+
++ [【艾思科蓝】C++游戏开发探秘：打造高性能游戏世界的钥匙](https://blog.csdn.net/weixin_73295475/article/details/142793847)
+

@@ -113,3 +113,39 @@
 
 + [Steam泄露《七龙珠 电光炸裂！ZERO》DLC](https://www.3dmgame.com/news/202410/3905865.html)
 
++ [《索尼克》开发者：PS5 Pro不算贵 高端玩家绝佳选择](https://www.3dmgame.com/news/202410/3905882.html)
+
++ [《微软飞行模拟 2024》现已开放Alpha测试申请 将于10月开始](https://www.3dmgame.com/news/202410/3905883.html)
+
++ [《Dungeon Antiqua》登陆Steam 复古迷宫探索RPG](https://www.3dmgame.com/news/202410/3905881.html)
+
++ [世嘉经典游戏《超级忍》系列宣布将改编真人电影](https://www.3dmgame.com/news/202410/3905880.html)
+
++ [柴油朋克世界 第一人称模拟器《战争技师》Steam页面公布](https://www.3dmgame.com/news/202410/3905879.html)
+
++ [《野狗子》新情报公布 介绍新角色以及武器战斗等](https://www.3dmgame.com/news/202410/3905875.html)
+
++ [《Knock Off》开启众筹 手办英雄2D格斗新游](https://www.3dmgame.com/news/202410/3905876.html)
+
++ [《巫师》剧集第四季路透照 利亚姆和劳伦斯登场](https://www.3dmgame.com/news/202410/3905878.html)
+
++ [《龙腾世纪：影幛守护者》解决蜘蛛恐惧症的方式就是不添加蜘蛛](https://www.3dmgame.com/news/202410/3905877.html)
+
++ [《寂静岭2：重制版》细节惊人：男主会疲惫 衣服会变脏](https://www.3dmgame.com/news/202410/3905873.html)
+
++ [传《光环：无限》续作被砍 Xbox想要重新开始该系列](https://www.3dmgame.com/news/202410/3905874.html)
+
++ [《天国：拯救2》PC版或将使用D加密技术 会卡顿？](https://www.3dmgame.com/news/202410/3905872.html)
+
++ [Atlus《暗喻幻想：ReFantazio》上市预告片分享](https://www.3dmgame.com/news/202410/3905866.html)
+
++ [《寂静岭2：重制版》新Mod解锁过场动画30fps限制](https://www.3dmgame.com/news/202410/3905868.html)
+
++ [《寂静之地：前方之路》真人预告片凸显沉浸危机](https://www.3dmgame.com/news/202410/3905867.html)
+
++ [网传CDPR已陷入困境：由于关注DEI和失去高级人才](https://www.3dmgame.com/news/202410/3905871.html)
+
++ [Xbox将在本月推出一款全新更昂贵的无线头戴耳机](https://www.3dmgame.com/news/202410/3905869.html)
+
++ [steam喜加一！免费领取“特别好评”游戏《Castle Break》](https://www.3dmgame.com/news/202410/3905870.html)
+
