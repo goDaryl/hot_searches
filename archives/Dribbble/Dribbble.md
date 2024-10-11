@@ -95,3 +95,17 @@
 
 + [Creepy Pumpkin Witch -  Helloween](https://dribbble.com/shots/)
 
++ [Qure instagram](https://dribbble.com/shots/)
+
++ [Find Job Saas Landing Page Marketing Website](https://dribbble.com/shots/)
+
++ [Subscription-based Web App](https://dribbble.com/shots/)
+
++ [DB logo design for luxury leather accessories manufacturer](https://dribbble.com/shots/)
+
++ [Cute Crystal Stone💎](https://dribbble.com/shots/)
+
++ [Viture glasses transition to Dragon](https://dribbble.com/shots/)
+
++ [Trenning - Creating Learning Paths: Assign Learners in SaaS LMS](https://dribbble.com/shots/)
+
