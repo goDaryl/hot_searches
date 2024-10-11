@@ -29,3 +29,9 @@
 
 + [Windows / Mac 微信 4.0.0 内测版本更新：新增深色模式、字号大小设置](https://m.ithome.com/html/801213.htm)
 
++ [韩国作家韩江获得 2024 诺贝尔文学奖](https://m.ithome.com/html/801202.htm)
+
++ [小米王腾：Redmi 旗舰新品的产品定位、规格升级，预计年底发布](https://m.ithome.com/html/801176.htm)
+
++ [上汽奥迪 A5L 谍照曝光：保险杠放置两颗激光雷达，与华为合作智驾](https://m.ithome.com/html/801142.htm)
+

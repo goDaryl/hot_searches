@@ -41,3 +41,5 @@
 
 + [代码审计 | 你一定会审的java系统](https://www.freebuf.com/articles/web/393271.html)
 
++ [CC2反序列化链与TemplatesImpl命令执行链分析](https://www.freebuf.com/vuls/411681.html)
+

@@ -119,3 +119,13 @@
 
 + [任天堂神秘测试计划启动 官方严禁泄露内容](https://www.3dmgame.com/news/202410/3905953.html)
 
++ [曝多款《战神》复刻版开发中 或于2025年发售](https://www.3dmgame.com/news/202410/3905959.html)
+
++ [Konami取代EA成为FIFA电竞比赛合作伙伴](https://www.3dmgame.com/news/202410/3905960.html)
+
++ [《双截龙再临》Boss威利介绍视频 凶狠的猛男！](https://www.3dmgame.com/news/202410/3905961.html)
+
++ [《细胞分裂：重制版》仍在开发中 或于2026年发布](https://www.3dmgame.com/news/202410/3905958.html)
+
++ [重力掌控一切《重力锻造》实机预告震撼公开](https://www.3dmgame.com/news/202410/3905956.html)
+
