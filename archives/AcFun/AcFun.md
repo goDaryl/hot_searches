@@ -105,3 +105,9 @@
 
 + [你根本不会明白黑铁的思路操作，快速看完一局最强黑铁斗殴局#2](http://www.acfun.cn/v/ac46367791)
 
++ [【翻唱】Never Ending Dream（尤特娜英雄战记：泪指轮传说）（老板约稿~）](http://www.acfun.cn/v/ac46370925)
+
++ [金摇杆，时间差不多喽！【绅批】](http://www.acfun.cn/v/ac46370899)
+
++ [【ACFUN声唱2024】半决赛：呼朋唤友放声唱，各显神通曲天籁](http://www.acfun.cn/v/ac46367892)
+
