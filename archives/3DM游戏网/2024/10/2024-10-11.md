@@ -165,3 +165,9 @@
 
 + [Bungie《马拉松》或将于2025年第一季度开启预购](https://www.3dmgame.com/news/202410/3905968.html)
 
++ [发售17年后 原版《帝国时代3》10月底永久下架](https://www.3dmgame.com/news/202410/3905980.html)
+
++ [《死亡细胞》开发商希望新作《风中行者》能获得更长的后续内容支持](https://www.3dmgame.com/news/202410/3905981.html)
+
++ [pop子漫画家新插画招来歧视黑人非议而致歉 因为肤色不够黑](https://www.3dmgame.com/news/202410/3905982.html)
+

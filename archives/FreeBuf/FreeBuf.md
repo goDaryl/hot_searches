@@ -53,3 +53,5 @@
 
 + [Django-DOS漏洞分析&复现（CVE-2024-41989）](https://www.freebuf.com/vuls/412186.html)
 
++ [Veeam曝出关键漏洞，勒索团伙趁火打劫利用RCE攻击全球企业](https://www.freebuf.com/news/412525.html)
+
