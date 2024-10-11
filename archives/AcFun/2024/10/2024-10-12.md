@@ -69,3 +69,7 @@
 
 + [我回来了！我带着Jennie回来了](http://www.acfun.cn/v/ac46372250)
 
++ [盯上你了.....(今日开心视频：1560)](http://www.acfun.cn/v/ac46372671)
+
++ [【5款0折！TGA获奖作品1折！】STEAM本周高评史低游戏Top10（10月11日-10月18日）](http://www.acfun.cn/v/ac46371255)
+
