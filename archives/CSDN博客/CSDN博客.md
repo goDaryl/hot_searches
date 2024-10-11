@@ -121,3 +121,5 @@
 
 + [【语音告警】博灵智能语音报警灯组播配网场景实例-语音报警灯|声光报警器|网络信号灯](https://blog.csdn.net/2401_87356806/article/details/142845791)
 
++ [Vite 4.0 发布，下一代的前端工具链](https://blog.csdn.net/qq_41134427/article/details/142824574)
+
