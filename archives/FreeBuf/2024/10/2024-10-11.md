@@ -43,3 +43,5 @@
 
 + [CC2反序列化链与TemplatesImpl命令执行链分析](https://www.freebuf.com/vuls/411681.html)
 
++ [FreeBuf早报 | 高通产品被发现存在 20 个漏洞；英格兰银行关键支付系统崩溃](https://www.freebuf.com/news/412462.html)
+
