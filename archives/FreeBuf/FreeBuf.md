@@ -55,3 +55,5 @@
 
 + [Veeam曝出关键漏洞，勒索团伙趁火打劫利用RCE攻击全球企业](https://www.freebuf.com/news/412525.html)
 
++ [数字化时代的隐患：如何应对API安全风险](https://www.freebuf.com/articles/database/412243.html)
+

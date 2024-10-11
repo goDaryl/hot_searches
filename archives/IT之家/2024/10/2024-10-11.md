@@ -41,3 +41,5 @@
 
 + [特斯拉明天将在抖音、快手等直播 Robotaxi 发布会，马斯克称将是“载入史册的一天”](https://m.ithome.com/html/801077.htm)
 
++ [英特尔酷睿 Ultra 200S 系列台式机处理器国行价格出炉，2299~4799 元](https://m.ithome.com/html/801248.htm)
+
