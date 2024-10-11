@@ -141,3 +141,27 @@
 
 + [亨利卡维尔加盟《战神金刚》真人电影 担任主演](https://www.3dmgame.com/news/202410/3905964.html)
 
++ [《合金装备3：重制版》TheBoss美图及介绍 亦师亦母！](https://www.3dmgame.com/news/202410/3905979.html)
+
++ [COD经典地图“核弹小镇”11月1日回归《黑色行动6》](https://www.3dmgame.com/news/202410/3905975.html)
+
++ [《公会传说 遗落的世界》Steam抢测 复古战略RPG](https://www.3dmgame.com/news/202410/3905977.html)
+
++ [《火影忍者剧场版：忍者之路》国内定档 11月9日上映](https://www.3dmgame.com/news/202410/3905978.html)
+
++ [用GTA在线模式拍摄的获奖影片 明年上线美国院线](https://www.3dmgame.com/news/202410/3905976.html)
+
++ [像素风建造模拟经营游戏《啤酒修道院》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3905974.html)
+
++ [《狂奔：皇家赛车》免费登陆Steam 多人赛车大逃杀](https://www.3dmgame.com/news/202410/3905973.html)
+
++ [还没死透？《星鸣特攻》Steam后台仍在继续更新](https://www.3dmgame.com/news/202410/3905972.html)
+
++ [模拟经营加探索制作游戏《琥珀岛》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202410/3905971.html)
+
++ [ARPG新作《Bylina》预告 基于斯拉夫民俗与神话](https://www.3dmgame.com/news/202410/3905970.html)
+
++ [P社总结《天际线2》失败：玩家要求更高](https://www.3dmgame.com/news/202410/3905969.html)
+
++ [Bungie《马拉松》或将于2025年第一季度开启预购](https://www.3dmgame.com/news/202410/3905968.html)
+

@@ -139,3 +139,7 @@
 
 + [YOLO11改进|注意力机制篇|引入全局上下文注意力机制GCA](https://blog.csdn.net/A1983Z/article/details/142784509)
 
++ [鸿蒙架构-系统架构师（七十八）](https://blog.csdn.net/ke1ying/article/details/142818907)
+
++ [如何在全平台启用 IPv6 网络？（路由器、Windows、Linux、Docker）](https://blog.csdn.net/zc_mk/article/details/142828966)
+
