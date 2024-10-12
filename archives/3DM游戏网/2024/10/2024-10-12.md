@@ -229,3 +229,5 @@
 
 + [男子工作电脑藏大量不雅视频被开除 本人喊冤我没看](https://www.3dmgame.com/news/202410/3906103.html)
 
++ [传RTX 5080综合效能无法抗衡4090 没有D版本](https://www.3dmgame.com/news/202410/3906104.html)
+
