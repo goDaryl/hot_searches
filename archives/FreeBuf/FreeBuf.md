@@ -61,3 +61,5 @@
 
 + [file-unpumper：一款针对PE文件的安全分析工具](https://www.freebuf.com/sectool/412169.html)
 
++ [2024 VDC划重点！一文详解vivo隐私安全最新技术升级](https://www.freebuf.com/fevents/412562.html)
+
