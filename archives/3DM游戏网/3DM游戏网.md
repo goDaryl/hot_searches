@@ -217,3 +217,15 @@
 
 + [创新AI桌宠《Ai Vpet / 守护与智友》全球竞赛第二期启动](https://www.3dmgame.com/news/202410/3906092.html)
 
++ [牌组构筑自走棋游戏《幸运猎人》定档11月5日正式发售](https://www.3dmgame.com/news/202410/3906098.html)
+
++ [魔理沙法庭对决八云紫，推理AVG《东方裁判梦》将于11月8日正式上线STEAM平台！](https://www.3dmgame.com/news/202410/3906099.html)
+
++ [《都市传说解体中心》试玩版10月14日公开！ 可试玩约1.5小时的游戏流程！](https://www.3dmgame.com/news/202410/3906100.html)
+
++ [元气小剧场、MiSide 和卡牌探险：雨林迷踪现已参加10月新品节并开放全新Demo](https://www.3dmgame.com/news/202410/3906101.html)
+
++ [男子iPhone电池鼓包免费修 省799元！苹果官方回应](https://www.3dmgame.com/news/202410/3906102.html)
+
++ [男子工作电脑藏大量不雅视频被开除 本人喊冤我没看](https://www.3dmgame.com/news/202410/3906103.html)
+
