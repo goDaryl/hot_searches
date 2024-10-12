@@ -139,3 +139,21 @@
 
 + [《寂静之地：前方之路》PS5/XSX支持4K/30帧](https://www.3dmgame.com/news/202410/3906054.html)
 
++ [《星球大战》首个变性克隆人士兵亮相 穿骄傲色盔甲](https://www.3dmgame.com/news/202410/3906064.html)
+
++ [治愈系动作冒险游戏《Europa》现已在Steam平台正式发售 获得好评](https://www.3dmgame.com/news/202410/3906065.html)
+
++ [约会模拟器《Date Everything!》发售日预告 情人节发售](https://www.3dmgame.com/news/202410/3906066.html)
+
++ [《七龙珠 电光炸裂！ZERO》媒体评分出炉 IGN 7分](https://www.3dmgame.com/news/202410/3906067.html)
+
++ [美国8月支出榜：口碑不佳 《星战：法外狂徒》仍位列前三](https://www.3dmgame.com/news/202410/3906059.html)
+
++ [《第一后裔》终极弗雷娜皮肤图赏 非常性感诱惑](https://www.3dmgame.com/news/202410/3906060.html)
+
++ [平台跳跃游戏《Ayasa》Steam页面开放 明年发售](https://www.3dmgame.com/news/202410/3906061.html)
+
++ [面对加州新规GOG发推嘲讽：将在购买页面提醒玩家可获得游戏所有权](https://www.3dmgame.com/news/202410/3906062.html)
+
++ [前《极乐迪斯科》开发者创建三家新工作室](https://www.3dmgame.com/news/202410/3906063.html)
+

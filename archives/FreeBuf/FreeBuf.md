@@ -45,3 +45,9 @@
 
 + [FreeBuf早报 | 国安部警告闲置网络设备莫大意；欧洲理事会通过《网络弹性法案》](https://www.freebuf.com/news/412560.html)
 
++ [GitLab 曝出严重漏洞，可能导致任意 CI/CD 管道执行](https://www.freebuf.com/news/412651.html)
+
++ [FreeBuf周报 | Apache Avro SDK曝关键漏洞；Word神奇Bug会直接删除文件](https://www.freebuf.com/news/412636.html)
+
++ [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
+
