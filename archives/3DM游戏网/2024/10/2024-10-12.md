@@ -235,3 +235,7 @@
 
 + [《荒野大镖客：救赎》粉丝抱怨PC版50美元定价太贵](https://www.3dmgame.com/news/202410/3906106.html)
 
++ [巫妖王驾临地狱 《暗黑4》迎来第二波魔兽联动](https://www.3dmgame.com/news/202410/3906108.html)
+
++ [OPPO K12 Plus发布：第三代骁龙7 1799元起](https://www.3dmgame.com/news/202410/3906107.html)
+
