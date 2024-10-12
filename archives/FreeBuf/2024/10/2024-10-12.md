@@ -57,3 +57,7 @@
 
 + [一文深度学习java内存马](https://www.freebuf.com/articles/web/412189.html)
 
++ [应急响应 | 勒索病毒应急流程](https://www.freebuf.com/articles/es/407931.html)
+
++ [file-unpumper：一款针对PE文件的安全分析工具](https://www.freebuf.com/sectool/412169.html)
+
