@@ -81,3 +81,9 @@
 
 + [来自埃及，西安沙威玛传奇【惊奇万圣】](http://www.acfun.cn/v/ac46371373)
 
++ [《快上号》【惊奇万圣】【铂金专辑】](http://www.acfun.cn/v/ac46363517)
+
++ [【惊奇万圣】Remaining Flower | 花の名残リ-遗留之花【栗七浔】](http://www.acfun.cn/v/ac46364840)
+
++ [特厨探店 |人气不输火烧云？还是必吃榜？—北京蜗牛小馆](http://www.acfun.cn/v/ac46365585)
+
