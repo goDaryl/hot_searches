@@ -157,3 +157,13 @@
 
 + [前《极乐迪斯科》开发者创建三家新工作室](https://www.3dmgame.com/news/202410/3906063.html)
 
++ [中世纪风格动作类肉鸽游戏《饥兽之战》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3906070.html)
+
++ [美国联邦航空管理局批准 SpaceX猎鹰9号火箭恢复发射](https://www.3dmgame.com/news/202410/3906071.html)
+
++ [V社《Deadlock》正式添加天梯匹配：10月16日解锁](https://www.3dmgame.com/news/202410/3906072.html)
+
++ [Steam Deck支持Epic和GOG插件即将登陆Steam](https://www.3dmgame.com/news/202410/3906068.html)
+
++ [CDPR和企鹅与兰登书屋合作推出儿童读物《小小猎魔人》](https://www.3dmgame.com/news/202410/3906069.html)
+
