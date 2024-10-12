@@ -43,3 +43,5 @@
 
 + [ofcms 代码审计 |  java代码审计学习](https://www.freebuf.com/vuls/411959.html)
 
++ [FreeBuf早报 | 国安部警告闲置网络设备莫大意；欧洲理事会通过《网络弹性法案》](https://www.freebuf.com/news/412560.html)
+

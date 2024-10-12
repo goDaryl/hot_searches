@@ -127,3 +127,15 @@
 
 + [新预告确定《Overthrown》支持最多6人合作](https://www.3dmgame.com/news/202410/3906043.html)
 
++ [《真三国无双：起源》甘宁和庞统介绍 甘宁更成熟了](https://www.3dmgame.com/news/202410/3906055.html)
+
++ [Xbox云游戏将从11月起允许玩家串联库中的所有游戏](https://www.3dmgame.com/news/202410/3906056.html)
+
++ [《寂静之地：前方之路》主要灵感来自《异形：隔离》](https://www.3dmgame.com/news/202410/3906057.html)
+
++ [《三角洲行动》Steam愿望单破210万 国际服新品节开测](https://www.3dmgame.com/news/202410/3906058.html)
+
++ [《星河舰队：灭绝》现已正式发售 新增单人教程模式](https://www.3dmgame.com/news/202410/3906053.html)
+
++ [《寂静之地：前方之路》PS5/XSX支持4K/30帧](https://www.3dmgame.com/news/202410/3906054.html)
+

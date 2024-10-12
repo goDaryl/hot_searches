@@ -31,3 +31,7 @@
 
 + [适配鸿蒙 HarmonyOS NEXT，华为应用市场 11 月 10 日起仅允许集成 API12 Release SDK 的应用上架](https://m.ithome.com/html/801513.htm)
 
++ [消息称小米 15 系列、iQOO 13、一加 13 等机型将在 10 月最后一周发布](https://m.ithome.com/html/801503.htm)
+
++ [OPPO Find X8 Pro 配备“抓拍快启键”，号称就像音量键一样简单](https://m.ithome.com/html/801337.htm)
+
