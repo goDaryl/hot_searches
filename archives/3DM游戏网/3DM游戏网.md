@@ -165,3 +165,5 @@
 
 + [特斯拉Cybercab风格设计引发投资者不满 股价暴跌9%](https://www.3dmgame.com/news/202410/3906137.html)
 
++ [《堡垒之夜》赛车游戏《火箭赛车》停止主题更新](https://www.3dmgame.com/news/202410/3906141.html)
+
