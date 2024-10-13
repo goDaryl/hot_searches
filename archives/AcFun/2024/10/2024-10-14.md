@@ -63,3 +63,7 @@
 
 + [【4K60帧/《边缘行者》】你没有带我去月球，但我们却在那里重逢【惊奇万圣】](http://www.acfun.cn/v/ac46378927)
 
++ [【山竹】与你1,2,3，永远都eyes on me『ACFUN声唱2024半决赛参赛曲目』虎視眈眈](http://www.acfun.cn/v/ac46380220)
+
++ [【丸子歌单】大卫鲍伊David Bowie我喜欢的歌曲分享](http://www.acfun.cn/v/ac46380926)
+
