@@ -35,3 +35,5 @@
 
 + [腾讯张军：微信鸿蒙原生版最近几天每晚都会发放测试名额](https://m.ithome.com/html/801754.htm)
 
++ [苹果 iPhone SE 4 保护壳曝光：屏幕更大，A18 芯片、Face ID 加持](https://m.ithome.com/html/801802.htm)
+
