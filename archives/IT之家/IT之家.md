@@ -29,3 +29,7 @@
 
 + [“东北雨姐”就虚假宣传误导消费者发布道歉声明：愿承担相关法律责任](https://m.ithome.com/html/801777.htm)
 
++ [iQOO 13 被曝没有灯带：一种“巧妙的发光技术”](https://m.ithome.com/html/801768.htm)
+
++ [微博鸿蒙客户端回应偶发打字丢字等 Bug：初步定位为系统问题，华为已在排期修复](https://m.ithome.com/html/801758.htm)
+
