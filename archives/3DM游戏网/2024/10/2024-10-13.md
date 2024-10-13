@@ -113,3 +113,17 @@
 
 + [韩国车主对奔驰提起集体诉讼 因EQE电动车起火事故隐瞒电池信息](https://www.3dmgame.com/news/202410/3906114.html)
 
++ [《暗喻幻想》用即时与回合战斗结合呈现漫画电影感](https://www.3dmgame.com/news/202410/3906121.html)
+
++ [国产之光！游戏科学登顶Steam发行商收入榜前列](https://www.3dmgame.com/news/202410/3906120.html)
+
++ [《Void Path》10月30日登陆Steam 日恐诡异探索](https://www.3dmgame.com/news/202410/3906119.html)
+
++ [“卡特队长”表示很愿意在网飞剧集或其它项目中演劳拉](https://www.3dmgame.com/news/202410/3906118.html)
+
++ [《死亡细胞》开发商：抢先体验很有用但并非万能](https://www.3dmgame.com/news/202410/3906117.html)
+
++ [《VOIN》Steam试玩发布 第一人称近战ACT](https://www.3dmgame.com/news/202410/3906116.html)
+
++ [《马力欧＆路易吉RPG 兄弟齐航！》15分钟实机演示视频](https://www.3dmgame.com/news/202410/3906115.html)
+
