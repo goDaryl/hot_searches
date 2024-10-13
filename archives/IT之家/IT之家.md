@@ -41,3 +41,7 @@
 
 + [iQOO 13 手机部分细节曝光，灯带和镜头为一整块玻璃](https://m.ithome.com/html/801690.htm)
 
++ [苹果直营店回应 iPhone 13 电池鼓包可免费维修：以线下工程师检测为准](https://m.ithome.com/html/801762.htm)
+
++ [消息称某神秘“大杯”骁龙 8 Gen 4 新机升级单点超声波指纹，支持百瓦有线充 / 满血无线充](https://m.ithome.com/html/801842.htm)
+
