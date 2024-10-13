@@ -113,3 +113,15 @@
 
 + [Logo, Data Scientists, Analyze, Decision Making, NLP, V logo](https://dribbble.com/shots/)
 
++ [Virtual Assistant AI Landing Page](https://dribbble.com/shots/)
+
++ [Gauchere Bold Fashion Ecommerce Minimalist Website Product Page](https://dribbble.com/shots/)
+
++ [J modern logo - j letter logo - j logo - Letter J Star Logo](https://dribbble.com/shots/)
+
++ [play logo design](https://dribbble.com/shots/)
+
++ [Logomark with heart and hand](https://dribbble.com/shots/)
+
++ [Modern logo for fitness business](https://dribbble.com/shots/)
+
