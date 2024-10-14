@@ -129,3 +129,9 @@
 
 + [【鸢鸢】女大新生早八满课的一天Vlog~大一还真是疲惫呢](http://www.acfun.cn/v/ac46381130)
 
++ [【惊奇万圣】LOL 劫VS 劳狗](http://www.acfun.cn/v/ac46384251)
+
++ [【小子贼疯】「梦话（cover：王子为）」—— “我一个人导演梦里所有的安排”](http://www.acfun.cn/v/ac46384485)
+
++ [凌晨.无人的酒吧.听我唱《Flower》](http://www.acfun.cn/v/ac46384049)
+

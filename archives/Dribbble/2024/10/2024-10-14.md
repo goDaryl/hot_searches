@@ -131,3 +131,15 @@
 
 + [Official Xiaomi fingerprint design by Gleb Kuznetsov](https://dribbble.com/shots/)
 
++ [Amplemarket Logomark](https://dribbble.com/shots/)
+
++ [Elegant Woman Logo](https://dribbble.com/shots/)
+
++ [Waitabit coffee collective](https://dribbble.com/shots/)
+
++ [Dream](https://dribbble.com/shots/)
+
++ [GO Gorilla](https://dribbble.com/shots/)
+
++ [Inkdex Doodle Spot Illustrations](https://dribbble.com/shots/)
+
