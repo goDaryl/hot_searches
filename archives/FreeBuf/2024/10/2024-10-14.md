@@ -41,3 +41,5 @@
 
 + [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
 
++ [通过写入MSR以提升到内核模式执行](https://www.freebuf.com/articles/endpoint/412299.html)
+
