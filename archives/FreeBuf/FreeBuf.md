@@ -43,3 +43,7 @@
 
 + [通过写入MSR以提升到内核模式执行](https://www.freebuf.com/articles/endpoint/412299.html)
 
++ [Yakit针对流量加密APP的Frida rpc解决方案](https://www.freebuf.com/articles/web/412059.html)
+
++ [FreeBuf早报 | 广东教育厅回应“非法链接短信”；国产操作系统应急响应手册发布](https://www.freebuf.com/news/412735.html)
+
