@@ -111,3 +111,5 @@
 
 + [万代南梦宫《死神：魂魄觉醒》角色预告片之碎蜂](https://www.3dmgame.com/news/202410/3906214.html)
 
++ [《罪恶王权》开发团队全新学园RPG项目启动](https://www.3dmgame.com/news/202410/3906218.html)
+
