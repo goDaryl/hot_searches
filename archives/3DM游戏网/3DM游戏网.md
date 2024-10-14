@@ -185,3 +185,23 @@
 
 + [亚马逊《如龙》真人剧发布特别采访视频 10月25日播出](https://www.3dmgame.com/news/202410/3906188.html)
 
++ [纯燃油彻底沦为小众 每卖出4辆国产汽车只有1辆是纯燃油](https://www.3dmgame.com/news/202410/3906198.html)
+
++ [央妈重新定义3A游戏为三高：高成本 高体量 高质量](https://www.3dmgame.com/news/202410/3906197.html)
+
++ [高德顺风车正式全国上线 司机搭车者双方互利](https://www.3dmgame.com/news/202410/3906196.html)
+
++ [外资火速撤离 三星市值蒸发近90万亿韩元！连续23日被抛售](https://www.3dmgame.com/news/202410/3906195.html)
+
++ [电视出货量创十年新低 会议电视却火了：增速超过600%](https://www.3dmgame.com/news/202410/3906194.html)
+
++ [KK官方对战平台新图推荐！创意拉满的新时代RPG就该是这样！](https://www.3dmgame.com/news/202410/3906193.html)
+
++ [《小丑2》第二周末票房暴跌 创漫改电影史最大跌幅](https://www.3dmgame.com/news/202410/3906192.html)
+
++ [《GANGSTALK》Steam上线 追踪者视角恐怖冒险](https://www.3dmgame.com/news/202410/3906191.html)
+
++ [杰洛特在《巫师3》次世代版中的首个敌人其实是萝卜 首场战斗被马踢死](https://www.3dmgame.com/news/202410/3906190.html)
+
++ [《宠物摄像头》登陆Steam 行走系恐怖探索](https://www.3dmgame.com/news/202410/3906189.html)
+
