@@ -143,3 +143,13 @@
 
 + [Inkdex Doodle Spot Illustrations](https://dribbble.com/shots/)
 
++ [Gone Logotype](https://dribbble.com/shots/)
+
++ [Altimist Logo Design](https://dribbble.com/shots/)
+
++ [Football Manager Web App](https://dribbble.com/shots/)
+
++ [GridOps](https://dribbble.com/shots/)
+
++ [Tent - Logo Design (Unused)](https://dribbble.com/shots/)
+
