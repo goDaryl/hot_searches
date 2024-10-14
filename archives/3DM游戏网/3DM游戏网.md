@@ -205,3 +205,7 @@
 
 + [《宠物摄像头》登陆Steam 行走系恐怖探索](https://www.3dmgame.com/news/202410/3906189.html)
 
++ [《黑神话》角色建模图赏 广智不净石中人碧臂螂等](https://www.3dmgame.com/news/202410/3906199.html)
+
++ [恋爱模拟游戏《维纳斯璀璨假期》第三位登场女孩公布：伊莉丝](https://www.3dmgame.com/news/202410/3906200.html)
+
