@@ -51,3 +51,5 @@
 
 + [威胁升级！伊朗APT34组织针对阿联酋及海湾关键基础设施发动攻击](https://www.freebuf.com/news/412761.html)
 
++ [0day的产生 | 权限绕过的秘密](https://www.freebuf.com/articles/web/412296.html)
+
