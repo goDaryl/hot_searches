@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 广东教育厅回应“非法链接短信”；国产操作系统应急响应手册发布](https://www.freebuf.com/news/412735.html)
 
++ [低成本恶意软件泛滥，能窃取多个浏览器存储的个人数据](https://www.freebuf.com/news/412760.html)
+
++ [威胁升级！伊朗APT34组织针对阿联酋及海湾关键基础设施发动攻击](https://www.freebuf.com/news/412761.html)
+

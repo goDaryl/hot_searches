@@ -79,3 +79,9 @@
 
 + [AEW 2024.10.12 Ricochet vs. Will Ospreay vs. 竹下幸之介](http://www.acfun.cn/v/ac46379286)
 
++ [《动物迷惑行为大赏227》](http://www.acfun.cn/v/ac46380867)
+
++ [跳一下POP IN 2（视频截图太丑了找了张照片当封面）](http://www.acfun.cn/v/ac46381653)
+
++ [【贝特比耶夫vs比沃尔】二先生解说版](http://www.acfun.cn/v/ac46380894)
+

@@ -143,3 +143,9 @@
 
 + [《寂静岭2RE》女主美颜Mod 让她们更加美丽和女性化](https://www.3dmgame.com/news/202410/3906157.html)
 
++ [《真三国无双：起源》只关注故事前半部分 赤壁之战之前](https://www.3dmgame.com/news/202410/3906170.html)
+
++ [第一人称心理恐怖游戏《灰烬之中》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3906169.html)
+
++ [《仙剑世界》PC端预载开启 游戏终测开始倒计时](https://www.3dmgame.com/news/202410/3906168.html)
+
