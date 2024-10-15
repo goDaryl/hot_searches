@@ -189,3 +189,29 @@
 
 + [《真三国无双：起源》孙策贾诩乐进介绍 小霸王很帅](https://www.3dmgame.com/news/202410/3906245.html)
 
++ [《庄园领主》发行商促销大获成功 游戏销量突破250万份](https://www.3dmgame.com/news/202410/3906269.html)
+
++ [小米电视S Pro Mini LED 2025预售开启 4599元起！](https://www.3dmgame.com/news/202410/3906270.html)
+
++ [像素猎奇风动作冒险游戏《Vindefiant》现已在Steam新品节推出试玩Demo](https://www.3dmgame.com/news/202410/3906258.html)
+
++ [阿什莉体模想演《寂静岭3》希瑟 伊藤畅达称要改模型](https://www.3dmgame.com/news/202410/3906259.html)
+
++ [网易手游《天启行动》宣布停运 总运营时长不到4个月](https://www.3dmgame.com/news/202410/3906260.html)
+
++ [经典横向卷轴动作游戏《梦幻战士合集》Steam页面上线 发售日未定](https://www.3dmgame.com/news/202410/3906261.html)
+
++ [神女有情，坠落凡尘《西游志：山海战纪》最新DLC现已发售](https://www.3dmgame.com/news/202410/3906262.html)
+
++ [《一起开火车2：汽笛重鸣》今日登陆Steam新品节](https://www.3dmgame.com/news/202410/3906263.html)
+
++ [《苏丹的游戏》亮相Steam新品节，DEMO重磅更新同步推出！](https://www.3dmgame.com/news/202410/3906264.html)
+
++ [索尼申请新专利：聋哑玩家游戏交流实时手语翻译](https://www.3dmgame.com/news/202410/3906265.html)
+
++ [《风中行者》单人试玩版现已限时上线！](https://www.3dmgame.com/news/202410/3906268.html)
+
++ [《UNDERWARD》Steam上线 多人合作恐怖医院探索](https://www.3dmgame.com/news/202410/3906266.html)
+
++ [4X修仙游戏《宗门志》参加Steam新品节，免费试玩版开启！](https://www.3dmgame.com/news/202410/3906267.html)
+
