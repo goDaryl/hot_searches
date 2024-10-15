@@ -151,3 +151,41 @@
 
 + [《无名九使：觉醒》发售预告 巫师剧版叶奈法演员出演](https://www.3dmgame.com/news/202410/3906224.html)
 
++ [家主，我想成亲！《吾今有世家》Demo已登陆Steam新品节](https://www.3dmgame.com/news/202410/3906255.html)
+
++ [EA《黑豹》游戏编剧支持Kotaku编辑对玩家谩骂](https://www.3dmgame.com/news/202410/3906256.html)
+
++ [AMD中国专属新卡RX 7650 GRE冒泡 或CES 2025公开](https://www.3dmgame.com/news/202410/3906257.html)
+
++ [聊天平台Discord开发者揭秘 软件最初起源自《最终幻想11》](https://www.3dmgame.com/news/202410/3906247.html)
+
++ [GF泄露显示“成人主题”宝可梦剧场版和新动画剧集制作中](https://www.3dmgame.com/news/202410/3906248.html)
+
++ [高分催泪动画电影《蓦然回首》官宣定档 10.26谱写细腻友情与梦想诗篇](https://www.3dmgame.com/news/202410/3906249.html)
+
++ [像素风格动作类肉鸽游戏《破咒剑士》现已在Steam新品节推出试玩Demo](https://www.3dmgame.com/news/202410/3906250.html)
+
++ [Flyway Games将在Steam 新品节展示两款新作](https://www.3dmgame.com/news/202410/3906251.html)
+
++ [谷歌签署核电购买协议 以满足发展人工智能的用电需求](https://www.3dmgame.com/news/202410/3906252.html)
+
++ [《都市传说解体中心》Steam试玩发布 灵异冒险调查](https://www.3dmgame.com/news/202410/3906253.html)
+
++ [30周年限定版PS5国行10月17日开启预购 购买资格需抽签](https://www.3dmgame.com/news/202410/3906254.html)
+
++ [藤本树漫改电影 《蓦然回首》国内定档10月26日](https://www.3dmgame.com/news/202410/3906246.html)
+
++ [卡牌策略类肉鸽游戏《牌兵布阵》现已在Steam新品节推出试玩Demo](https://www.3dmgame.com/news/202410/3906239.html)
+
++ [《地痞街区2》试玩版现已发布 EA发售日跳票](https://www.3dmgame.com/news/202410/3906240.html)
+
++ [国产RPG《明末：渊虚之羽》确认参加Xbox第三方展示会](https://www.3dmgame.com/news/202410/3906241.html)
+
++ [纪念系列45周年 高达宣布将联动初音未来](https://www.3dmgame.com/news/202410/3906242.html)
+
++ [亚马逊游戏剧集《秘密关卡》演员阵容泄露：施瓦辛格父子参演](https://www.3dmgame.com/news/202410/3906243.html)
+
++ [《Maple Forest》双倍众筹目标达成 致敬经典塞尔达传说](https://www.3dmgame.com/news/202410/3906244.html)
+
++ [《真三国无双：起源》孙策贾诩乐进介绍 小霸王很帅](https://www.3dmgame.com/news/202410/3906245.html)
+
