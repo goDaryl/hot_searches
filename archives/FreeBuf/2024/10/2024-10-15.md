@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 通灵占卜平台因违反数据保护法被罚；伊朗政府部门和遭大规模网络攻击](https://www.freebuf.com/news/412798.html)
 
++ [思科再遭数据泄露，数家大厂跟着遭殃](https://www.freebuf.com/news/412837.html)
+
++ [TrickMo 安卓银行木马新变种利用虚假锁屏窃取密码](https://www.freebuf.com/news/412834.html)
+
