@@ -215,3 +215,5 @@
 
 + [4X修仙游戏《宗门志》参加Steam新品节，免费试玩版开启！](https://www.3dmgame.com/news/202410/3906267.html)
 
++ [I社新《VR女友》确定2025年2月发售 女主角详情公开](https://www.3dmgame.com/news/202410/3906271.html)
+
