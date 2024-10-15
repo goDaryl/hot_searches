@@ -43,3 +43,7 @@
 
 + [Vulnstack | ATT&CK实战系列：红队实战(一)](https://www.freebuf.com/vuls/412751.html)
 
++ [企业数据安全与访问控制体系建设](https://www.freebuf.com/articles/es/412112.html)
+
++ [FreeBuf早报 | 通灵占卜平台因违反数据保护法被罚；伊朗政府部门和遭大规模网络攻击](https://www.freebuf.com/news/412798.html)
+
