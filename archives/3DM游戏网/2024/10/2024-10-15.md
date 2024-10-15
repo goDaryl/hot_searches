@@ -289,3 +289,5 @@
 
 + [微信小程序翻译功能上线 18种语言可一键翻译](https://www.3dmgame.com/news/202410/3906295.html)
 
++ [龙芯披露首款自研GPU显卡：对标AMD七年前的RX550](https://www.3dmgame.com/news/202410/3906308.html)
+
