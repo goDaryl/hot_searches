@@ -59,3 +59,5 @@
 
 + [M1 芯片：苹果 2020 款 MacBook Air 京东自营 8+256G 版 4290 元清仓](https://m.ithome.com/html/802345.htm)
 
++ [苹果发布 2024 款 iPad mini 7 平板电脑：128GB 版本 3999 元，512GB 版本 6499 元](https://m.ithome.com/html/802562.htm)
+
