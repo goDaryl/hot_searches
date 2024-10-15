@@ -109,3 +109,11 @@
 
 + [Project Component](https://dribbble.com/shots/)
 
++ [Playful Goat Logo](https://dribbble.com/shots/)
+
++ [Zeyox showreel](https://dribbble.com/shots/)
+
++ [E-learning Platform Mobile Website](https://dribbble.com/shots/)
+
++ [EnduroSat — Website content](https://dribbble.com/shots/)
+
