@@ -39,3 +39,7 @@
 
 + [京东发言人：刘强东章泽天夫妇遭有组织造谣抹黑，已报案](https://m.ithome.com/html/802611.htm)
 
++ [苹果 iPhone 18 系列曝猛料：首发 2nm A20 芯片、更先进封装、12GB 内存](https://m.ithome.com/html/802604.htm)
+
++ [5479 元起，小米 14 Ultra 旗舰手机全版本直降千元 + 24 期免息](https://m.ithome.com/html/802465.htm)
+

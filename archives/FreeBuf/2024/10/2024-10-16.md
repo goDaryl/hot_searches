@@ -51,3 +51,5 @@
 
 + [教育行业｜高校网络安全建设思路](https://www.freebuf.com/consult/412388.html)
 
++ [可绕过安全防护！EDR Silencer红队工具遭黑客利用](https://www.freebuf.com/news/412912.html)
+
