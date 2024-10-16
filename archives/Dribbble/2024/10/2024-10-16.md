@@ -73,3 +73,9 @@
 
 + [Ceremone Branding & Packaging Design Supplement](https://dribbble.com/shots/)
 
++ [Crypto Portfolio Dashboard Design](https://dribbble.com/shots/)
+
++ [Monthly Mix: October](https://dribbble.com/shots/)
+
++ [Lets Get it!](https://dribbble.com/shots/)
+

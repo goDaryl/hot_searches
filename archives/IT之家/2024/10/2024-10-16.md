@@ -33,3 +33,7 @@
 
 + [iPhone 16 Pro 被曝不能连接华强北耳机，苹果客服称未收到有关技术限制的通知](https://m.ithome.com/html/802579.htm)
 
++ [刀法精湛，苹果全新 iPad mini 7 平板 A17 Pro 芯片图形处理器少 1 核](https://m.ithome.com/html/802586.htm)
+
++ [M1 芯片：苹果 2020 款 MacBook Air 京东自营 8+256G 版 4290 元清仓](https://m.ithome.com/html/802345.htm)
+
