@@ -41,3 +41,5 @@
 
 + [WPS Office从路径穿越到远程代码执行漏洞分析与复现](https://www.freebuf.com/vuls/412285.html)
 
++ [零知识证明的先进形式化验证：两个ZK漏洞的深度剖析](https://www.freebuf.com/articles/blockchain-articles/412314.html)
+

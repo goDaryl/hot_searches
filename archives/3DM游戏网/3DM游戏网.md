@@ -113,3 +113,19 @@
 
 + [《不羁联盟》制作人表示没有在S4后关服的计划](https://www.3dmgame.com/news/202410/3906321.html)
 
++ [《奥日》总监公开反对强迫DEI：这是变态的做法](https://www.3dmgame.com/news/202410/3906331.html)
+
++ [《最终幻想》系列全球总销量已突破1.95亿份 太惊人了！](https://www.3dmgame.com/news/202410/3906330.html)
+
++ [《使命召唤：黑色行动6》官方PC配置需求 平易近人](https://www.3dmgame.com/news/202410/3906329.html)
+
++ [《地铁跑酷》精神续作《地铁大陆》近日上市](https://www.3dmgame.com/news/202410/3906328.html)
+
++ [尻控必玩爆笑对战游戏《尻战士》12月发售](https://www.3dmgame.com/news/202410/3906327.html)
+
++ [高达元宇宙计划限时开放第三阶段测试](https://www.3dmgame.com/news/202410/3906326.html)
+
++ [10月末《宝可梦GO》将加入超极巨化功能](https://www.3dmgame.com/news/202410/3906325.html)
+
++ [万代南梦宫裁员或影响与任天堂合作游戏项目](https://www.3dmgame.com/news/202410/3906324.html)
+
