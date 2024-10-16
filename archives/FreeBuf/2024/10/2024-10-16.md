@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 宝可梦开发商未公开游戏信息泄露；世界最大数字图书馆遭网络攻击](https://www.freebuf.com/news/412842.html)
 
++ [2024年，全球数据贩卖、勒索攻击等黑产事件大幅上升](https://www.freebuf.com/articles/neopoints/412920.html)
+
++ [教育行业｜高校网络安全建设思路](https://www.freebuf.com/consult/412388.html)
+
